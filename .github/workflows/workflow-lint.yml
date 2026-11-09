@@ -9,8 +9,9 @@ on:
   push:
     paths:
       - '.github/workflows/**'
-  schedule:
-    - cron: '35 15 * * 2' # weekly safety net, Tue 15:35 UTC
+  workflow_dispatch:
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '35 15 * * 2' # weekly safety net, Tue 15:35 UTC
 
 jobs:
   lint:

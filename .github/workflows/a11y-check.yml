@@ -4,8 +4,8 @@ name: Accessibility check (pa11y)
 # scans are noise; template-level coverage catches the regressions that matter
 # (every post shares one template, every hub another, etc.).
 on:
-  schedule:
-    - cron: '55 16 * * 2' # Tue 16:55 UTC = Wed 01:55 KST (after the link check)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '55 16 * * 2' # Tue 16:55 UTC = Wed 01:55 KST (after the link check)
   workflow_dispatch:
 
 jobs:

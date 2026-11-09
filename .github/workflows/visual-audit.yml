@@ -4,14 +4,14 @@ name: visual-audit
 # wrong city, unrelated subject). Resumable via data/visual-audit.json. Weekly sweep
 # + manual dispatch. Sends a Korean Telegram warning when mismatches are found.
 on:
-  schedule:
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
     # DAILY, not weekly (2026-08-03). Weekly × 150-post cap could not keep up
     # with 16-20 posts published a day: the un-checked backlog never emptied,
     # and 239 posts were still waiting when the owner found a Bangkok street
     # stall heading a rooftop-club guide. Daily + no cap means the queue is
     # normally just that day's new posts (~20 Haiku calls, pennies), and a
     # wrong photo is caught the night after it publishes instead of never.
-    - cron: '40 12 * * *'  # 21:40 KST daily — after publish + translations
+    # was: '40 12 * * *'  # 21:40 KST daily — after publish + translations
   workflow_dispatch:
     inputs:
       limit:

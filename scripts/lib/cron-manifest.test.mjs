@@ -26,6 +26,11 @@ test('every manifest entry names a workflow that exists', () => {
 test('manifest crons match the workflow files exactly', () => {
   for (const w of MANIFEST) {
     const real = cronsIn(w.file);
+    // The Cloudflare alarm is this entry's only clock (workers/social-alarm).
+    if (w.alarmOnly) {
+      assert.deepEqual(real, [], `${w.file} is alarmOnly but still has a GitHub cron`);
+      continue;
+    }
     assert.deepEqual(
       [...w.crons].sort(),
       [...real].sort(),
@@ -105,6 +110,39 @@ test('only a rescue past the full grace reaches the owner as a dropped run', () 
   assert.deepEqual(at(graceFor(report) + 1), { rescued: true, alerted: false }, 'an early rescue must stay quiet');
   assert.deepEqual(at(GRACE_MIN), { rescued: true, alerted: false }, 'the full grace itself is not yet a dropped run');
   assert.deepEqual(at(GRACE_MIN + 1), { rescued: true, alerted: true }, 'a slot past the full grace must be announced');
+});
+
+// A weekly job's "last slot" can be days old, and a failed run must not restart
+// an expensive audit four times a day. Called for real, like the test above.
+const weeklyWorld = (now, runs) => 'data:text/javascript,' + encodeURIComponent(`
+  const RealDate = Date;
+  globalThis.Date = class extends RealDate {
+    constructor(...a) { if (a.length) super(...a); else super(${now}); }
+    static now() { return ${now}; }
+  };
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    if (u.includes('api.telegram.org')) return new Response('{"ok":true}');
+    if (u.includes('/dispatches')) { console.log('FAKE_DISPATCH ' + u.split('/workflows/')[1]); return new Response(null, { status: 204 }); }
+    const mine = u.includes('/workflows/link-check.yml/');
+    return new Response(JSON.stringify({ workflow_runs: mine ? ${JSON.stringify(runs)} : [{ status: 'completed', conclusion: 'success' }] }));
+  };
+`);
+
+test('a weekly job is rescued once, on its own day, and only if it never ran', () => {
+  const entry = MANIFEST.find((w) => w.file === 'link-check.yml');
+  const slot = lastFireBefore(entry.crons[0], Date.parse('2026-11-12T00:00:00Z'));
+  const dispatched = (overdueMin, runs) => {
+    const r = spawnSync(process.execPath, ['--import', weeklyWorld(slot + overdueMin * 60000, runs), SCRIPTS + 'schedule-watchdog.mjs'], {
+      encoding: 'utf8',
+      env: { ...process.env, GITHUB_TOKEN: 'x', GITHUB_REPOSITORY: 'o/r', TELEGRAM_BOT_TOKEN: 't', TELEGRAM_CHAT_ID: '1' },
+    });
+    assert.equal(r.status, 0, r.stderr);
+    return r.stdout.includes('FAKE_DISPATCH link-check.yml');
+  };
+  assert.equal(dispatched(GRACE_MIN + 1, []), true, 'the alarm never woke it: rescue');
+  assert.equal(dispatched(GRACE_MIN + 1, [{ status: 'completed', conclusion: 'failure' }]), false, 'it ran and failed: its own alert says so');
+  assert.equal(dispatched(25 * 60, []), false, 'more than a day late: leave it to the next slot');
 });
 
 // Not every cron belongs in the manifest (weeklies can wait a week; the

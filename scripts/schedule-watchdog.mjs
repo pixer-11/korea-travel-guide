@@ -74,6 +74,9 @@ for (const w of RESCUABLE) {
     if (t > lastExpected) { lastExpected = t; missedCron = c; }
   }
   const overdueMin = Math.round((now - lastExpected) / 60000);
+  // 주간 작업은 "마지막 슬롯"이 며칠 전일 수 있다. 하루 넘게 지난 슬롯을 지금
+  // 구조하면 예정과 전혀 다른 때에 돌게 되니 다음 슬롯에 맡긴다.
+  if (overdueMin > 24 * 60) continue;
   // 예정 시각 10분 전부터의 실행을 "그 슬롯의 실행"으로 인정 — 스케줄러가
   // 몇 분 이르게 큐잉하는 경우까지 오탐 없이 담는다. 이벤트 종류는 안 가린다:
   // 사람이 손으로 돌렸어도 그 슬롯의 일은 된 것이다.
@@ -102,7 +105,7 @@ for (const w of RESCUABLE) {
   // 백로그를 병렬로 읽는다. 그래도 구조는 계속한다 — 그날 일이 통째로 빠지는
   // 쪽이 더 비싸기 때문이다. 가드를 붙이는 것이 다음 작업이다.
   const ran = (runs.workflow_runs ?? []).some((r) =>
-    r.status !== 'completed' || r.conclusion === 'success');
+    w.rescueOnce || r.status !== 'completed' || r.conclusion === 'success');
   const verdict = ran ? 'ok' : (overdueMin <= graceFor(w) ? 'waiting' : 'MISSED');
   console.log(`${w.file}: expected ${new Date(lastExpected).toISOString()} (+${overdueMin}m) → ${verdict}`);
   if (verdict !== 'MISSED') continue;

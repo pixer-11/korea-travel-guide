@@ -4,8 +4,8 @@ name: Alt-source photo backfill
 # every one vision-verified before it is written. No Google quota involved.
 # Green no-op until FOURSQUARE_API_KEY / FLICKR_API_KEY secrets exist.
 on:
-  schedule:
-    - cron: '35 19 * * *' # 19:35 UTC = 04:35 KST daily (fast no-op once backlog is clear)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '35 19 * * *' # 19:35 UTC = 04:35 KST daily (fast no-op once backlog is clear)
   # Right after event discovery (2026-10-08). Discovery runs at 05:37 KST,
   # an hour AFTER this patrol's 04:35 slot, so every new event guide went live
   # without a photo for a whole day — 45 of 85 on 10-08. Backlog only, no

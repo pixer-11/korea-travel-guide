@@ -41,6 +41,7 @@ import { readdir, readFile } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { lastFireBefore } from './lib/cron-window.mjs';
+import { MANIFEST } from './lib/cron-manifest.mjs';
 import { missedDays, MISSED_DAY_LIMIT } from './lib/cron-missed-days.mjs';
 
 const ROOT = fileURLToPath(new URL('../', import.meta.url));
@@ -82,7 +83,11 @@ const every = [];
 
 for (const file of files) {
   const src = await readFile(DIR + file, 'utf8');
-  const crons = [...src.matchAll(CRON_LINE)].map((m) => m[1].trim());
+  // 알람시계가 깨우는 작업은 cron 줄이 없다. 시각은 명단에 있고, 그 "배달"은
+  // 스케줄러가 아니라 workflow_dispatch 다. 건너뛰면 알람과 구조가 함께 죽어도
+  // 이 감사는 "다 돌았다"고 답한다.
+  const alarm = MANIFEST.find((w) => w.file === file && w.alarmOnly);
+  const crons = alarm ? alarm.crons : [...src.matchAll(CRON_LINE)].map((m) => m[1].trim());
   if (!crons.length) continue;
 
   // +1h: 크론이 바뀐 직후 첫 슬롯은 배달 여유를 준다
@@ -92,7 +97,7 @@ for (const file of files) {
   let runs;
   let allRuns;
   try {
-    runs = (await gh(`/actions/workflows/${file}/runs?event=schedule&per_page=100`)).workflow_runs || [];
+    runs = (await gh(`/actions/workflows/${file}/runs?event=${alarm ? 'workflow_dispatch' : 'schedule'}&per_page=100`)).workflow_runs || [];
     // 필터 없는 두 번째 조회 — 알람시계·감시견의 workflow_dispatch 구조가 여기 있다.
     // 지각 통계는 스케줄러만 봐야 정확하고, 누락 판정은 구조까지 봐야 정직하다.
     allRuns = (await gh(`/actions/workflows/${file}/runs?per_page=100`)).workflow_runs || [];

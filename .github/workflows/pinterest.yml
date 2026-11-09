@@ -4,13 +4,13 @@ name: Pinterest auto-pin
 # first). Runs after the nightly publish+translate so fresh posts get pinned the
 # same night. Does nothing (green no-op) until PINTEREST_ACCESS_TOKEN is set.
 on:
-  schedule:
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
     # Two spaced runs instead of one morning blast: Pinterest's spam systems
     # dislike a fresh account posting its whole day in one minute. The script
     # halves the daily budget per run and ramps it by account age (see
     # pinterest-publish.mjs) — 2/day until 14 pins ever, then 4, 6, 8.
-    - cron: '35 23 * * *' # 23:35 UTC = 08:35 KST (off the hour — GitHub drops :00 crons)
-    - cron: '35 11 * * *' # 11:35 UTC = 20:35 KST evening drip
+    # was: '35 23 * * *' # 23:35 UTC = 08:35 KST (off the hour — GitHub drops :00 crons)
+    # was: '35 11 * * *' # 11:35 UTC = 20:35 KST evening drip
   workflow_dispatch:
     inputs:
       count:

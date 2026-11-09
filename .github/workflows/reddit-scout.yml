@@ -16,8 +16,8 @@ name: Reddit scout
 # Here the token exists, so the cards can actually be delivered. It also means
 # the scout no longer needs the PC to be awake.
 on:
-  schedule:
-    - cron: '30 11 * * *'   # 20:30 KST — same slot the PC task used
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '30 11 * * *'   # 20:30 KST — same slot the PC task used
   workflow_dispatch:
 
 permissions:

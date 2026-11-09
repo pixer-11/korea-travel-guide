@@ -48,15 +48,19 @@
 
 const REPO = 'pixer-11/korea-travel-guide';
 
-// Which workflow each Cloudflare cron wakes. The keys must match
-// wrangler.jsonc's `triggers.crons` exactly — cron-targets.test.mjs holds the
-// two files to each other, because a key that matches nothing is a cron that
-// fires ALL_TARGETS every day (the fallback below) and a cron that matches no
-// key is a workflow nobody wakes.
+import { MANIFEST } from '../../scripts/lib/cron-manifest.mjs';
+import { lastFireBefore } from '../../scripts/lib/cron-window.mjs';
+
+// 2026-11-09: one Cloudflare cron, every five minutes, reading this table. The
+// free plan counts cron EXPRESSIONS (five per account), so four fixed alarms
+// could only ever cover four slots, while GitHub ran everything else a median
+// of 4h29m late. Now the table can be as long as it needs.
 //
-// Each entry fires five minutes after the GitHub cron it backs up, so that on
-// a day GitHub is punctual we queue behind the real run and the guard exits.
-export const SCHEDULE = {
+// The entries below back up a GitHub cron that stays on, each five minutes
+// after it, so on a day GitHub is punctual we queue behind the real run and
+// its guard exits. Everything marked alarmOnly in cron-manifest.mjs has no
+// GitHub cron at all and is added from there, so its time lives in one place.
+const BACKUPS = {
   // 07:30 KST — threads-daily's own first cron is 07:25.
   '30 22 * * *': ['threads-daily.yml'],
   // 18:53 KST — schedule-watchdog's own 09:48 UTC slot. Sweeps the morning
@@ -76,20 +80,42 @@ export const SCHEDULE = {
   '23 14 * * *': ['schedule-watchdog.yml'],
 };
 
-export const ALL_TARGETS = [...new Set(Object.values(SCHEDULE).flat())];
+export const TICK_MS = 5 * 60000;
 
-// An unrecognised cron wakes everything rather than nothing: every target is
-// guarded and idempotent, so over-firing costs a no-op run, while under-firing
-// costs the day's work. A drifted key should never be the quiet failure.
-export const targetsFor = (cron) => SCHEDULE[cron] ?? ALL_TARGETS;
+function buildSchedule() {
+  const table = Object.fromEntries(Object.entries(BACKUPS).map(([cron, files]) => [cron, [...files]]));
+  for (const w of MANIFEST.filter((x) => x.alarmOnly)) {
+    for (const cron of w.crons) {
+      const inputs = w.inputsByCron?.[cron];
+      (table[cron] ??= []).push(inputs ? { workflow: w.file, inputs } : w.file);
+    }
+  }
+  return table;
+}
+
+export const SCHEDULE = buildSchedule();
+
+// What a tick at `tickMs` owes: every slot in the five minutes up to and
+// including it, so a slot at :19 goes out on the :20 tick and on no other.
+// lastFireBefore excludes `now` itself, hence the +1.
+export function dueTargets(tickMs) {
+  const tick = tickMs - (tickMs % TICK_MS);
+  return Object.entries(SCHEDULE)
+    .filter(([cron]) => lastFireBefore(cron, tick + 1) > tick - TICK_MS)
+    .flatMap(([, targets]) => targets);
+}
+
+// What the guarded manual test endpoint wakes. Never the whole table: that is
+// every weekly audit at once. These three are no-ops when their work is done.
+export const SMOKE_TARGETS = ['threads-daily.yml', 'publish-watchdog.yml', 'schedule-watchdog.yml'];
 
 // One attempt is not enough against a GitHub that is currently unwell. On
 // 2026-08-31 the 14:23 UTC wake-up left no run at all while the 22:30 one
 // worked with the same code and the same token, and GitHub Actions has been
 // degraded since 08-26 — a transient 5xx is the likeliest reading, and a
-// single-shot dispatch turns it into a silently skipped day. Retries are safe
-// because every target is guarded: the worst case of firing twice is a no-op
-// run. 4xx is NOT retried — a bad token or a missing workflow_dispatch trigger
+// single-shot dispatch turns it into a silently skipped day. A 5xx that GitHub
+// had in fact accepted would run an unguarded job twice; that is rare and costs
+// one extra run, against a lost slot on every real outage. 4xx is NOT retried — a bad token or a missing workflow_dispatch trigger
 // will answer the same way forever, and hammering it only hides the cause.
 // Injectable so the tests can prove the retry without sleeping through it —
 // five real seconds per case would have added 40% to the whole suite's runtime
@@ -97,9 +123,10 @@ export const targetsFor = (cron) => SCHEDULE[cron] ?? ALL_TARGETS;
 export const RETRY_DELAYS_MS = [1000, 4000];
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-export async function fireDispatches(env, fetchImpl = fetch, targets = ALL_TARGETS, delays = RETRY_DELAYS_MS) {
+export async function fireDispatches(env, fetchImpl = fetch, targets = SMOKE_TARGETS, delays = RETRY_DELAYS_MS) {
   const results = [];
-  for (const workflow of targets) {
+  for (const target of targets) {
+    const { workflow, inputs } = typeof target === 'string' ? { workflow: target } : target;
     let status = 0;
     let ok = false;
     let attempts = 0;
@@ -121,7 +148,7 @@ export async function fireDispatches(env, fetchImpl = fetch, targets = ALL_TARGE
               'User-Agent': 'wa-social-alarm',
               'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ ref: 'main' }),
+            body: JSON.stringify({ ref: 'main', ...(inputs ? { inputs } : {}) }),
           },
         );
         status = res.status;
@@ -139,7 +166,13 @@ export async function fireDispatches(env, fetchImpl = fetch, targets = ALL_TARGE
 
 export async function alertFailures(env, results, fetchImpl = fetch) {
   const failed = results.filter((r) => !r.ok);
-  if (!failed.length || !env.TELEGRAM_BOT_TOKEN || !env.TELEGRAM_CHAT_ID) return failed;
+  // A dead token fails every target on every due tick: up to 21 messages a day
+  // if each one spoke. The four daily ticks of SMOKE_TARGETS carry that news. A
+  // 4xx naming one workflow (a bad input, a renamed file) is specific to it, so
+  // it still speaks. A lone 5xx does not: the watchdog picks that slot up.
+  const speaks = failed.some((f) => SMOKE_TARGETS.includes(f.workflow)
+    || (f.status >= 400 && f.status < 500 && f.status !== 401 && f.status !== 403));
+  if (!speaks || !env.TELEGRAM_BOT_TOKEN || !env.TELEGRAM_CHAT_ID) return failed;
   const lines = failed.map((f) => `- ${f.workflow}: HTTP ${f.status}`).join('\n');
   // Everything below is swallowed ON PURPOSE. The alert is the courtesy; the
   // dispatch failure is the news, and scheduled() throws it on the next line —
@@ -155,7 +188,7 @@ export async function alertFailures(env, results, fetchImpl = fetch) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         chat_id: env.TELEGRAM_CHAT_ID,
-        text: `⏰ 소셜 알람시계가 깃허브를 깨우지 못했습니다:\n${lines}\n(깃허브 자체 크론 3회 + 감시견이 예비로 남아 있습니다. 토큰 만료라면 GH_DISPATCH_TOKEN 교체 필요.)`,
+        text: `⏰ 소셜 알람시계가 깃허브를 깨우지 못했습니다:\n${lines}\n(몇 시간 안에 감시견이 대신 실행합니다. 토큰 만료라면 GH_DISPATCH_TOKEN 교체 필요.)`,
       }),
     });
     if (res && res.ok === false) console.error(`telegram alert refused: HTTP ${res.status}`);
@@ -167,7 +200,9 @@ export async function alertFailures(env, results, fetchImpl = fetch) {
 
 export default {
   async scheduled(controller, env, ctx) {
-    const results = await fireDispatches(env, fetch, targetsFor(controller?.cron));
+    const targets = dueTargets(controller?.scheduledTime ?? Date.now());
+    if (!targets.length) return;
+    const results = await fireDispatches(env, fetch, targets);
     const failed = await alertFailures(env, results);
     if (failed.length) {
       throw new Error(

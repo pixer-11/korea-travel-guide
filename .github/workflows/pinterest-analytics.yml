@@ -6,8 +6,8 @@ name: Pinterest weekly analytics
 # verdict is made on numbers; the learning loop (winners feed pin selection)
 # comes later, once weeks of samples exist. Green no-op until credentials.
 on:
-  schedule:
-    - cron: '35 0 * * 1' # Mon 00:35 UTC = 09:35 KST (off the hour — GitHub drops :00 crons)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '35 0 * * 1' # Mon 00:35 UTC = 09:35 KST (off the hour — GitHub drops :00 crons)
   workflow_dispatch: {}
 
 permissions:

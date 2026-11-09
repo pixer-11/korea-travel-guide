@@ -1,7 +1,7 @@
 name: newsletter-weekly
 on:
-  schedule:
-    - cron: '13 23 * * 6'   # Sun 08:13 KST (Sat 23:13 UTC) — dry-run heartbeat
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '13 23 * * 6'   # Sun 08:13 KST (Sat 23:13 UTC) — dry-run heartbeat
   workflow_dispatch:
     inputs:
       live:

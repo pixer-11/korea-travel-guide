@@ -5,8 +5,8 @@ name: Weekly full content audit
 # image failures, and the Korean Telegram summary reports new problem classes.
 # This is the "AI reads/looks at everything weekly" guarantee.
 on:
-  schedule:
-    - cron: '35 18 * * 6' # Sat 18:35 UTC = Sun 03:35 KST
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '35 18 * * 6' # Sat 18:35 UTC = Sun 03:35 KST
   workflow_dispatch:
 
 permissions:

@@ -5,8 +5,8 @@ name: gsc-report
 # Both run in one job — same secrets, same runner, one weekly wake-up.
 # Skips itself cleanly until the owner adds the two secrets.
 on:
-  schedule:
-    - cron: '23 22 * * 0'   # Mondays 07:23 KST (Sun 22:23 UTC)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '23 22 * * 0'   # Mondays 07:23 KST (Sun 22:23 UTC)
   workflow_dispatch:
 
 permissions:

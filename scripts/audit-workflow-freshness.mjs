@@ -21,6 +21,7 @@
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { requireExamined } from './lib/examined.mjs';
+import { MANIFEST } from './lib/cron-manifest.mjs';
 
 const WF_DIR = process.argv[2] || '.github/workflows';
 const REPO = process.env.GITHUB_REPOSITORY;
@@ -53,7 +54,10 @@ for (const f of readdirSync(WF_DIR).filter((x) => /\.ya?ml$/.test(x))) {
   // in the last 100" — 17 days of an alarm for a job doing exactly what it was
   // told. A false overdue is worse than none: it teaches you to skim the list.
   const crons = [...src.matchAll(/^\s*- cron:\s*'([^']+)'/gm)].map((m) => m[1]);
-  if (!crons.length) continue;               // event-driven or disabled — not "late"
+  // A workflow the Cloudflare alarm wakes has no cron line left; its times are
+  // in the manifest, and it can go stale exactly like the others.
+  crons.push(...(MANIFEST.find((w) => w.file === f && w.alarmOnly)?.crons ?? []));
+  if (!crons.length) continue;              // event-driven or disabled — not "late"
   workflows.push({ f, name, gap: Math.min(...crons.map(expectedGapDays)) });
 }
 

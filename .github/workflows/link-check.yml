@@ -4,8 +4,8 @@ name: Broken-link check
 # External links are skipped — third-party flakiness (rate limits, geo-blocks)
 # would drown real signal; our own 404s are what silently hurt readers + SEO.
 on:
-  schedule:
-    - cron: '25 16 * * 2' # Tue 16:25 UTC = Wed 01:25 KST (off the hour)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '25 16 * * 2' # Tue 16:25 UTC = Wed 01:25 KST (off the hour)
   workflow_dispatch:
 
 jobs:

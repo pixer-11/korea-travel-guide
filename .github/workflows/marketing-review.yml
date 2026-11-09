@@ -5,8 +5,8 @@ name: Weekly marketing review
 # Claude strategist reviews REAL current data (GSC queries, traffic snapshot,
 # coverage, channel states) and telegrams 3-5 prioritized suggestions in Korean.
 on:
-  schedule:
-    - cron: '25 11 * * 0' # Sun 11:25 UTC = 20:25 KST (after the GSC weekly pull)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '25 11 * * 0' # Sun 11:25 UTC = 20:25 KST (after the GSC weekly pull)
   workflow_dispatch:
 
 jobs:

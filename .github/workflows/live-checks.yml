@@ -9,10 +9,15 @@ name: Live checks (twice daily)
 # of this public repository; the analytics endpoints are blocked in every
 # page it opens (scripts/live/lib.mjs), so the run never counts as readers.
 on:
-  schedule:
-    - cron: '45 8 * * *'  # 08:45 UTC = 17:45 KST, after the publish deploy
-    - cron: '20 13 * * *' # 13:20 UTC = 22:20 KST
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '45 8 * * *'  # 08:45 UTC = 17:45 KST, after the publish deploy
+    # was: '20 13 * * *' # 13:20 UTC = 22:20 KST
   workflow_dispatch:
+    inputs:
+      pass_warnings:
+        description: 'true = also send the once-a-day list of data still to fill'
+        required: false
+        default: 'false'
 
 concurrency:
   group: live-checks
@@ -63,7 +68,7 @@ jobs:
       # cell, and the nightly country relay must not be blocked by it); they
       # are passed on once a day, with the afternoon run.
       - name: Pass on warnings
-        if: success() && github.event.schedule == '45 8 * * *'
+        if: success() && inputs.pass_warnings == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

@@ -13,9 +13,9 @@ name: IndexNow submit
 # happens while Cloudflare is still deploying simply picks the page up on the
 # next pass instead of submitting a URL that 404s.
 on:
-  schedule:
-    - cron: '30 8 * * *'   # 17:30 KST — the daily publish (16:19 KST) has deployed by now
-    - cron: '30 20 * * *'  # 05:30 KST — catches bulk/backfill runs and anything the evening pass deferred
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '30 8 * * *'   # 17:30 KST — the daily publish (16:19 KST) has deployed by now
+    # was: '30 20 * * *'  # 05:30 KST — catches bulk/backfill runs and anything the evening pass deferred
   workflow_dispatch:
 
 permissions:

@@ -6,8 +6,8 @@
 // dispatch failure must REJECT (so Cloudflare records it) and /fire must
 // demand POST + Bearer auth and answer 502 when GitHub said no.
 //
-// These tests pass an explicit target list. Since 2026-08-31 the alarm wakes
-// three workflows on four crons, and letting the default fan out here would
+// These tests pass an explicit target list. The alarm wakes a whole table of
+// workflows, and letting the default fan out here would
 // turn every "one call" assertion into arithmetic about the roster — which is
 // cron-targets.test.mjs's job, not this file's. What is under test here is the
 // shape of a single dispatch and what happens when it fails.
@@ -102,7 +102,7 @@ test('a dead Telegram cannot overwrite the dispatch error in cron history', asyn
   };
   await withGlobalFetch(stub, async () => {
     await assert.rejects(
-      worker.scheduled({ cron: '30 22 * * *' }, env, { waitUntil() {} }),
+      worker.scheduled({ scheduledTime: Date.UTC(2026, 10, 10, 22, 30) }, env, { waitUntil() {} }),
       /dispatch failed: threads-daily\.yml=401/,
     );
   });
@@ -126,7 +126,7 @@ test('alert survives missing Telegram secrets (bootstrap window)', async () => {
 test('scheduled rejects when a dispatch fails — Cloudflare must record it', async () => {
   await withGlobalFetch(async () => ({ status: 401, ok: false }), async () => {
     await assert.rejects(
-      worker.scheduled({ cron: '30 22 * * *' }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} }),
+      worker.scheduled({ scheduledTime: Date.UTC(2026, 10, 10, 22, 30) }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} }),
       /dispatch failed: threads-daily\.yml=401/,
     );
   });
@@ -134,26 +134,49 @@ test('scheduled rejects when a dispatch fails — Cloudflare must record it', as
 
 test('scheduled resolves quietly on success', async () => {
   await withGlobalFetch(async () => ({ status: 204 }), async () => {
-    await worker.scheduled({ cron: '30 22 * * *' }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
+    await worker.scheduled({ scheduledTime: Date.UTC(2026, 10, 10, 22, 30) }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
   });
 });
 
-test('each cron wakes only what it is for — the publish slot does not post to Threads', async () => {
-  // The cron is looked up by what it wakes, not written out again: this test
-  // held the literal '35 10 * * *' and, when the publish rescue moved to 16:35
-  // KST (2026-09-09), that string stopped matching any key — which makes
-  // targetsFor fall back to waking EVERYTHING. It failed loudly, as it should,
-  // and the lookup keeps the next move from having to remember this file.
+test('a tick with nothing due makes no call at all', async () => {
+  let calls = 0;
+  await withGlobalFetch(async () => { calls++; return { status: 204 }; }, async () => {
+    await worker.scheduled({ scheduledTime: Date.UTC(2026, 10, 10, 3, 5) }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
+  });
+  assert.equal(calls, 0);
+});
+
+test('each tick wakes only what is due — the publish slot does not post to Threads', async () => {
   const cron = Object.keys(SCHEDULE).find((k) => SCHEDULE[k].join() === 'publish-watchdog.yml');
-  assert.ok(cron, 'no Cloudflare cron wakes publish-watchdog on its own any more');
+  assert.ok(cron, 'no slot wakes publish-watchdog on its own any more');
+  const [m, h] = cron.split(' ').map(Number);
   const fired = [];
   await withGlobalFetch(async (url) => {
     fired.push(url.split('/workflows/')[1].split('/')[0]);
     return { status: 204 };
   }, async () => {
-    await worker.scheduled({ cron }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
+    await worker.scheduled({ scheduledTime: Date.UTC(2026, 10, 10, h, m) }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
   });
   assert.deepEqual(fired, ['publish-watchdog.yml']);
+});
+
+test('a dead token speaks on the four daily ticks only, a broken workflow always', async () => {
+  const sent = async (results) => {
+    let calls = 0;
+    await alertFailures(env, results, async () => { calls++; return { ok: true }; });
+    return calls;
+  };
+  assert.equal(await sent([{ workflow: 'smoke.yml', status: 401, ok: false }]), 0);
+  assert.equal(await sent([{ workflow: 'smoke.yml', status: 503, ok: false }]), 0);
+  assert.equal(await sent([{ workflow: 'smoke.yml', status: 422, ok: false }]), 1);
+  assert.equal(await sent([{ workflow: 'schedule-watchdog.yml', status: 401, ok: false }]), 1);
+});
+
+test('a target with inputs sends them, and a bare one sends none', async () => {
+  const bodies = [];
+  const stub = async (_url, init) => { bodies.push(JSON.parse(init.body)); return { status: 204 }; };
+  await fireDispatches(env, stub, ['a.yml', { workflow: 'b.yml', inputs: { full: 'false' } }], FAST);
+  assert.deepEqual(bodies, [{ ref: 'main' }, { ref: 'main', inputs: { full: 'false' } }]);
 });
 
 test('/fire refuses GET, query-string keys, and wrong bearer tokens', async () => {

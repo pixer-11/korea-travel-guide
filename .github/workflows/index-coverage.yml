@@ -5,8 +5,8 @@
 # so a bad reading and its cause land in the same morning's reports.
 name: Index coverage audit
 on:
-  schedule:
-    - cron: '41 21 * * 1' # Tue 06:41 KST (Mon 21:41 UTC)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '41 21 * * 1' # Tue 06:41 KST (Mon 21:41 UTC)
   workflow_dispatch: {}
 
 concurrency:

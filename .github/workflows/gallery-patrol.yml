@@ -8,8 +8,8 @@ name: Gallery patrol (weekly in-body photo retry)
 # runs without committing may as well not have run.
 
 on:
-  schedule:
-    - cron: '10 21 * * 6' # Sat 21:10 UTC = Sun 06:10 KST, clear of the 04:35 photo patrol
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '10 21 * * 6' # Sat 21:10 UTC = Sun 06:10 KST, clear of the 04:35 photo patrol
   workflow_dispatch:
     inputs:
       limit:

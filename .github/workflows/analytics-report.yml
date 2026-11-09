@@ -2,8 +2,8 @@ name: Daily analytics report (Telegram)
 
 # Pulls yesterday's Cloudflare Web Analytics and sends a summary to Telegram.
 on:
-  schedule:
-    - cron: '7 0 * * *' # 00:07 UTC = 09:07 KST — so the report lands ~9am Korea time.
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '7 0 * * *' # 00:07 UTC = 09:07 KST — so the report lands ~9am Korea time.
                         # Off the hour because GitHub drops/delays :00 crons. GitHub has
                         # delivered this 4-6 hours late since August, so the schedule
                         # watchdog rescues it from 30 minutes past the slot (graceMin in

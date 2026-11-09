@@ -11,9 +11,9 @@ name: Refresh existing posts (freshness)
 # Telegram report) stay Sunday-only via the schedule guard below, so daily
 # runs are quiet: venue data + same-commit prose resyncs, nothing else.
 on:
-  schedule:
-    - cron: '33 20 * * 0'   # Sundays 20:33 UTC — full run incl. FSQ sweep
-    - cron: '33 19 * * 1-6' # Mon–Sat 19:33 UTC — data refresh only
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '33 20 * * 0'   # Sundays 20:33 UTC — full run incl. FSQ sweep
+    # was: '33 19 * * 1-6' # Mon–Sat 19:33 UTC — data refresh only
   workflow_dispatch:
     inputs:
       full:

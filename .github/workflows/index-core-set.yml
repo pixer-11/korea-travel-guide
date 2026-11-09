@@ -6,8 +6,8 @@
 # 건당 ~8초 × 약 460쪽 ≈ 60분 — 35분이던 index-coverage 의 교훈대로 여유를 둔다.
 name: Index core-set ruler
 on:
-  schedule:
-    - cron: '41 21 * * 3' # Thu 06:41 KST (Wed 21:41 UTC)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '41 21 * * 3' # Thu 06:41 KST (Wed 21:41 UTC)
   workflow_dispatch: {}
 
 concurrency:

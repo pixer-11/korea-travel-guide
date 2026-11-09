@@ -5,8 +5,8 @@ name: Live smoke test
 # the load-bearing pages daily, an hour after the 16:19 KST publish deploy
 # settles, and after any manual dispatch. Failure pings Telegram in Korean.
 on:
-  schedule:
-    - cron: '30 8 * * *' # 08:30 UTC = 17:30 KST
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '30 8 * * *' # 08:30 UTC = 17:30 KST
   workflow_dispatch:
 
 jobs:

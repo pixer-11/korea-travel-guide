@@ -12,8 +12,8 @@ name: Check affiliate program status
 # typo of 07-21 (six days of 404, found by chance) is the kind of break this
 # catches now.
 on:
-  schedule:
-    - cron: '11 7 * * *' # 07:11 UTC daily (off the hour)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '11 7 * * *' # 07:11 UTC daily (off the hour)
   workflow_dispatch:
 
 permissions:

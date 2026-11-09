@@ -1,7 +1,7 @@
 name: newsletter-report
 on:
-  schedule:
-    - cron: '17 23 * * *'   # 08:17 KST daily (23:17 UTC)
+  # schedule: woken by the Cloudflare alarm at the times in scripts/lib/cron-manifest.mjs (GitHub ran it hours late). Old lines kept for their notes:
+    # was: '17 23 * * *'   # 08:17 KST daily (23:17 UTC)
   workflow_dispatch:
 jobs:
   report:
