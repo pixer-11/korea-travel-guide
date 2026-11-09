@@ -2660,5 +2660,200 @@
         "delta": -11
       }
     ]
+  },
+  {
+    "week": "2026-11-09",
+    "pageviews": 9952,
+    "visits": 9785,
+    "top": [
+      {
+        "path": "/",
+        "views": 81
+      },
+      {
+        "path": "/zh/posts/nanjing-international-championship-snooker/",
+        "views": 53
+      },
+      {
+        "path": "/zh/posts/frankfurt-wtt-champions-germany/",
+        "views": 35
+      },
+      {
+        "path": "/posts/ras-al-khaimah-national-museum-of-ras-al-khaimah/",
+        "views": 26
+      },
+      {
+        "path": "/zh/posts/seoul-exo-planet-6-exhorizon-dot-encore-concert/",
+        "views": 25
+      },
+      {
+        "path": "/zh/posts/shanghai-china-international-import-expo-ciie/",
+        "views": 23
+      },
+      {
+        "path": "/zh/posts/new-york-city-league-of-legends-world-championship-finals-worlds-2026/",
+        "views": 22
+      },
+      {
+        "path": "/zh/posts/hangzhou-bwf-world-tour-finals/",
+        "views": 21
+      },
+      {
+        "path": "/ja/posts/shanghai-china-international-import-expo-ciie/",
+        "views": 20
+      },
+      {
+        "path": "/ko/",
+        "views": 19
+      },
+      {
+        "path": "/zh/",
+        "views": 14
+      },
+      {
+        "path": "/zh/essentials/united-states/",
+        "views": 14
+      },
+      {
+        "path": "/zh/posts/paris-basilique-du-sacre-c-ur-de-montmartre/",
+        "views": 14
+      },
+      {
+        "path": "/posts/manila-5sos-everyone-s-a-star-world-tour/",
+        "views": 13
+      },
+      {
+        "path": "/posts/johor-bahru-legoland-malaysia/",
+        "views": 13
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 13
+      },
+      {
+        "path": "/zh/posts/kuala-lumpur-thean-hou-temple/",
+        "views": 13
+      },
+      {
+        "path": "/zh/posts/sydney-royal-botanic-garden-sydney/",
+        "views": 11
+      },
+      {
+        "path": "/posts/york-uk-championship-snooker/",
+        "views": 11
+      },
+      {
+        "path": "/zh/posts/seoul-seoul-forest-park/",
+        "views": 11
+      },
+      {
+        "path": "/zh/posts/melbourne-australian-open-2027/",
+        "views": 11
+      },
+      {
+        "path": "/zh/posts/shanghai-shanghai-marathon/",
+        "views": 11
+      },
+      {
+        "path": "/ja/posts/bangkok-vijit-chao-phraya-2026/",
+        "views": 11
+      },
+      {
+        "path": "/zh/posts/lijiang-blue-moon-valley/",
+        "views": 11
+      },
+      {
+        "path": "/zh/posts/indian-wells-wta-finals/",
+        "views": 11
+      },
+      {
+        "path": "/zh/posts/beijing-lama-temple/",
+        "views": 10
+      },
+      {
+        "path": "/zh/essentials/macau/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/causeway-bay-east-coast-park-precinct/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/macau-73rd-macau-grand-prix/",
+        "views": 10
+      },
+      {
+        "path": "/zh/posts/rothenburg-ob-der-tauber-altstadt-rothenburg/",
+        "views": 10
+      }
+    ],
+    "risers": [
+      {
+        "path": "/zh/posts/frankfurt-wtt-champions-germany/",
+        "delta": 35
+      },
+      {
+        "path": "/",
+        "delta": 33
+      },
+      {
+        "path": "/zh/posts/nanjing-international-championship-snooker/",
+        "delta": 31
+      },
+      {
+        "path": "/posts/ras-al-khaimah-national-museum-of-ras-al-khaimah/",
+        "delta": 26
+      },
+      {
+        "path": "/zh/posts/shanghai-china-international-import-expo-ciie/",
+        "delta": 23
+      },
+      {
+        "path": "/zh/posts/new-york-city-league-of-legends-world-championship-finals-worlds-2026/",
+        "delta": 22
+      },
+      {
+        "path": "/zh/posts/hangzhou-bwf-world-tour-finals/",
+        "delta": 21
+      },
+      {
+        "path": "/zh/essentials/united-states/",
+        "delta": 14
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/zh/posts/tashkent-2026-asian-table-tennis-championships/",
+        "delta": -26
+      },
+      {
+        "path": "/zh/posts/hanoi-bigbang-2026-2027-world-tour-in-hanoi/",
+        "delta": -21
+      },
+      {
+        "path": "/zh/posts/ulaanbaatar-mesa-pro-series-halloween-cup-2026/",
+        "delta": -18
+      },
+      {
+        "path": "/ja/posts/new-delhi-safdarjung-tomb-delhi/",
+        "delta": -18
+      },
+      {
+        "path": "/zh/posts/hong-kong-hong-kong-wine-dine-festival/",
+        "delta": -16
+      },
+      {
+        "path": "/zh/posts/hangzhou-xixi-national-wetland-park/",
+        "delta": -15
+      },
+      {
+        "path": "/ja/regions/queenstown/",
+        "delta": -15
+      },
+      {
+        "path": "/zh/posts/tashkent-hazrati-imam-complex/",
+        "delta": -14
+      }
+    ]
   }
 ]
