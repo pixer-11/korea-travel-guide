@@ -1,59 +1,87 @@
 ---
-title: "The High Dam Of Aswan: Travel Guide (4.4★)"
-description: "The High Dam Of Aswan sits about 13 km south of Aswan city in Egypt. 4.4★ (6,698 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Aswan"
-category: "attraction"
-pubDate: "2026-11-09T17:54:36.764Z"
+title: 'The High Dam Of Aswan: Travel Guide (4.4★)'
+description: >-
+  The High Dam Of Aswan sits about 13 km south of Aswan city in Egypt. 4.4★
+  (6,699 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Aswan
+category: attraction
+pubDate: '2026-11-09T17:54:36.764Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/By_ovedc_-_Aswan_High_Dam_-_05.jpg/3840px-By_ovedc_-_Aswan_High_Dam_-_05.jpg"
-  credit: "Photo: Ovedc / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_05.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/By_ovedc_-_Aswan_High_Dam_-_05.jpg/3840px-By_ovedc_-_Aswan_High_Dam_-_05.jpg
+  credit: 'Photo: Ovedc / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_05.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aswan_Dam_1_-_panoramio.jpg/3840px-Aswan_Dam_1_-_panoramio.jpg"
-    credit: "Photo: coroner / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Aswan_Dam_1_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aswan_Dam_1_-_panoramio.jpg/3840px-Aswan_Dam_1_-_panoramio.jpg
+    credit: 'Photo: coroner / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Aswan_Dam_1_-_panoramio.jpg'
 place:
-  id: "ChIJi4uSa2qINhQRTOSLV7C0MB8"
-  name: "The High Dam Of Aswan"
-  address: "XVCG+9W2, Manteqet as Sad Al Aali, Aswan, Aswan Governorate 1230952, Egypt"
+  id: ChIJi4uSa2qINhQRTOSLV7C0MB8
+  name: The High Dam Of Aswan
+  address: 'XVCG+9W2, Manteqet as Sad Al Aali, Aswan, Aswan Governorate 1230952, Egypt'
   rating: 4.4
-  userRatingsTotal: 6698
-  googleMapsUrl: "https://maps.google.com/?cid=2247494883533907020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6699
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2247494883533907020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.970883
   lng: 32.8772699
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "aswan"
-  - "Aswan High Dam"
-quickAnswer: "The High Dam Of Aswan sits about 13 km south of Aswan city in Egypt. Most visitors see it in 30–60 minutes as one stop on a half-day loop with Philae Temple and the Unfinished Obelisk. Google currently lists it as open 24 hours, but come in the morning before the heat builds, carry your passport for the checkpoint, and check the posted entry charge at the gate."
+  - aswan
+  - Aswan High Dam
+quickAnswer: >-
+  The High Dam Of Aswan sits about 13 km south of Aswan city in Egypt. Most
+  visitors see it in 30–60 minutes as one stop on a half-day loop with Philae
+  Temple and the Unfinished Obelisk. Google currently lists it as open 24 hours,
+  but come in the morning before the heat builds, carry your passport for the
+  checkpoint, and check the posted entry charge at the gate.
 faq:
-  - q: "How do I get to the High Dam of Aswan?"
-    a: "By car. It's about 13 km south of Aswan city, and there's no practical public transport for visitors. Hire a taxi or private driver from the Corniche for a half-day, or join a hotel or cruise tour that pairs it with Philae Temple and the Unfinished Obelisk."
-  - q: "How long should I spend at the dam?"
-    a: "Most visitors spend 30–60 minutes there. That's enough for the central lookout over Lake Nasser and the river, plus a stop at the Lotus Tower monument on the west bank."
-  - q: "What is the best time to visit?"
-    a: "Come in the morning, and go in winter if you can. The crest has no shade and Aswan gets very hot from late spring to early autumn. Google lists the site as open 24 hours, but treat it as a daytime visit and ask locally before planning anything later."
-  - q: "Do I need my passport, and can I take photos?"
-    a: "Bring your passport, because police check vehicles at the approach. Photos of the lake and river are fine. Don't photograph security posts or power installations, and don't fly a drone."
-  - q: "What else is nearby?"
-    a: "Philae Temple on Agilkia Island, Kalabsha Temple on the west bank of Lake Nasser, the old Aswan Low Dam, the Unfinished Obelisk and the Nubian Museum in town. Abu Simbel is a long day trip south."
+  - q: How do I get to the High Dam of Aswan?
+    a: >-
+      By car. It's about 13 km south of Aswan city, and there's no practical
+      public transport for visitors. Hire a taxi or private driver from the
+      Corniche for a half-day, or join a hotel or cruise tour that pairs it with
+      Philae Temple and the Unfinished Obelisk.
+  - q: How long should I spend at the dam?
+    a: >-
+      Most visitors spend 30–60 minutes there. That's enough for the central
+      lookout over Lake Nasser and the river, plus a stop at the Lotus Tower
+      monument on the west bank.
+  - q: What is the best time to visit?
+    a: >-
+      Come in the morning, and go in winter if you can. The crest has no shade
+      and Aswan gets very hot from late spring to early autumn. Google lists the
+      site as open 24 hours, but treat it as a daytime visit and ask locally
+      before planning anything later.
+  - q: 'Do I need my passport, and can I take photos?'
+    a: >-
+      Bring your passport, because police check vehicles at the approach. Photos
+      of the lake and river are fine. Don't photograph security posts or power
+      installations, and don't fly a drone.
+  - q: What else is nearby?
+    a: >-
+      Philae Temple on Agilkia Island, Kalabsha Temple on the west bank of Lake
+      Nasser, the old Aswan Low Dam, the Unfinished Obelisk and the Nubian
+      Museum in town. Abu Simbel is a long day trip south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-09'
 ---
 
 On one side is a lake that runs south into Sudan. On the other, far below, the Nile looks narrow and almost tame. The High Dam of Aswan is a road across a wall of rock and clay, roughly 3.6 km long and over 100 m high, and standing on it explains modern Egypt better than most museums.

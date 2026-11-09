@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cairo-khan-el-khalili
-srcHash: '0bb6013fc56a'
+srcHash: 'd73322cda948'
 title: 'Khan el-Khalili: guía de viaje de El Cairo (4.4★)'
-description: El gran bazar de El Cairo se encuentra en el barrio de El Gamaliya, en el Cairo islámico, junto a la mezquita de Al-Hussein y frente a la mezquita de Al-Azhar. Tiene una valoración de 4.4★ (76,538 reseñas). Aquí encontrará opiniones de visitantes, horarios y consejos.
+description: El gran bazar de El Cairo se encuentra en el barrio de El Gamaliya, en el Cairo islámico, junto a la mezquita de Al-Hussein y frente a la mezquita de Al-Azhar. Tiene una valoración de 4.4★ (76,541 reseñas). Aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Khan el-Khalili, el gran bazar de El Cairo, se encuentra en el barrio de El Gamaliya, dentro del Cairo islámico. Queda junto a la mezquita de Al-Hussein y al otro lado de la calle de la mezquita de Al-Azhar. Actualmente, las tiendas abren de 11am a 11pm. Los momentos más tranquilos son de 11am a 3pm entre semana y de 11am a 2pm los fines de semana. Las tardes del fin de semana, de 4pm a 10pm, son las de mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Khan el-Khalili?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: giza-bent-pyramid-of-cairo
-srcHash: '07c4aada0ad6'
+srcHash: '4acdc8421b2d'
 title: 开罗弯曲金字塔：吉萨旅行指南（4.8★）
-description: 弯曲金字塔位于吉萨省拜德雷沙因（Badrshein）区的代赫舒尔（Dahshur）沙漠，距开罗市中心约40公里。评分4.8★（2,255条评价），本文汇总游客评价、开放时间和实用贴士。
+description: 弯曲金字塔位于吉萨省拜德雷沙因（Badrshein）区的代赫舒尔（Dahshur）沙漠，距开罗市中心约40公里。评分4.8★（2,256条评价），本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 弯曲金字塔坐落在吉萨省拜德雷沙因（Badrshein）区的代赫舒尔（Dahshur）沙漠中，距开罗市中心约40公里。目前开放时间为9:00–16:00。工作日9:00–10:00和15:00–16:00游客最少，周末则尽量避开11:00–14:00。
 faq:
   - q: 什么时候去弯曲金字塔人最少？

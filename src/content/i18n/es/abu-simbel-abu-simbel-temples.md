@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: abu-simbel-abu-simbel-temples
-srcHash: '28a713c557b2'
+srcHash: 'a2907c377e1a'
 title: 'Templos de Abu Simbel: guía de viaje (4.8★)'
-description: En la localidad de Abu Simbel, a unos 280 km al sur de Asuán, los templos de Abu Simbel se alzan sobre la orilla occidental del lago Nasser. Con una valoración de 4.8★ (21,187 reseñas), aquí encontrará opiniones de los visitantes, horarios y consejos.
+description: En la localidad de Abu Simbel, a unos 280 km al sur de Asuán, los templos de Abu Simbel se alzan sobre la orilla occidental del lago Nasser. Con una valoración de 4.8★ (21,194 reseñas), aquí encontrará opiniones de los visitantes, horarios y consejos.
 quickAnswer: 'Los templos de Abu Simbel se alzan sobre la orilla occidental del lago Nasser, en la localidad del mismo nombre, a unos 280 km al sur de Asuán. Son dos templos excavados en la roca: uno está dedicado a Ramsés II y el otro a Nefertari. La mayoría de los visitantes necesita unas dos horas para recorrerlos. Entre semana, la franja más tranquila suele ser de 3pm a 5pm. Los fines de semana conviene evitar la llegada masiva de los convoyes, de 7am a 11am.'
 faq:
   - q: ¿Cómo se llega a los templos de Abu Simbel desde Asuán?

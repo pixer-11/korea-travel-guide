@@ -1,67 +1,93 @@
 ---
-title: "Edfu Temple: Travel Guide (4.8★)"
-description: "Edfu Temple, the Ptolemaic Temple of Horus in the town of Edfu between Luxor and Aswan, is the most complete ancient Egyptian temple still standing. 4.8★ (7,535 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Edfu"
-category: "hidden-gem"
-pubDate: "2026-11-09T07:45:47.415Z"
+title: 'Edfu Temple: Travel Guide (4.8★)'
+description: >-
+  Edfu Temple, the Ptolemaic Temple of Horus in the town of Edfu between Luxor
+  and Aswan, is the most complete ancient Egyptian temple still standing. 4.8★
+  (7,543 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Edfu
+category: hidden-gem
+pubDate: '2026-11-09T07:45:47.415Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Edfu_Temple_R04.jpg/3840px-Edfu_Temple_R04.jpg"
-  credit: "Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Edfu_Temple_R04.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Edfu_Temple_R04.jpg/3840px-Edfu_Temple_R04.jpg
+  credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Edfu_Temple_R04.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tempio_di_Edfu_Edfu_temple_%2853612586394%29.jpg/3840px-Tempio_di_Edfu_Edfu_temple_%2853612586394%29.jpg"
-    credit: "Photo: Luigi Rosa / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tempio_di_Edfu_Edfu_temple_(53612586394).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tempio_di_Edfu_Edfu_temple_%2853612586394%29.jpg/3840px-Tempio_di_Edfu_Edfu_temple_%2853612586394%29.jpg
+    credit: 'Photo: Luigi Rosa / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Tempio_di_Edfu_Edfu_temple_(53612586394).jpg
 place:
-  id: "ChIJq06sCxPtSRQR5dXzr551YPI"
-  name: "Edfu Temple"
-  address: "Adfo, Edfu, Aswan Governorate 1291237, Egypt"
+  id: ChIJq06sCxPtSRQR5dXzr551YPI
+  name: Edfu Temple
+  address: 'Adfo, Edfu, Aswan Governorate 1291237, Egypt'
   rating: 4.8
-  userRatingsTotal: 7535
-  googleMapsUrl: "https://maps.google.com/?cid=17465088679360058853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7543
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17465088679360058853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.9777271
   lng: 32.8726224
   openingHours:
-    - "Monday: 7:00 AM – 5:00 PM"
-    - "Tuesday: 7:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 5:00 PM"
-    - "Friday: 7:00 AM – 5:00 PM"
-    - "Saturday: 7:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
     weekendQuiet:
       - 9
-    venueId: "ven_495059313535727a5864355251525374507843733630714a496843"
+    venueId: ven_495059313535727a5864355251525374507843733630714a496843
 tags:
-  - "edfu"
-  - "hidden gem"
-quickAnswer: "Edfu Temple, the Ptolemaic Temple of Horus in the town of Edfu between Luxor and Aswan, is the most complete ancient Egyptian temple still standing. It currently opens at 7am (6am on Wednesdays and Sundays) and closes at 5pm. It's usually calmest between 8am and 10am on weekdays and between 9am and 10am at weekends."
+  - edfu
+  - hidden gem
+quickAnswer: >-
+  Edfu Temple, the Ptolemaic Temple of Horus in the town of Edfu between Luxor
+  and Aswan, is the most complete ancient Egyptian temple still standing. It
+  currently opens at 7am (6am on Wednesdays and Sundays) and closes at 5pm. It's
+  usually calmest between 8am and 10am on weekdays and between 9am and 10am at
+  weekends.
 faq:
-  - q: "When is the quietest time to visit Edfu Temple?"
-    a: "Weekdays are typically quietest between 8am and 10am, and weekends between 9am and 10am. Large cruise groups usually fill the courtyard outside those windows."
-  - q: "What are Edfu Temple's opening hours?"
-    a: "At the moment it opens at 7am (6am on Wednesdays and Sundays) and closes at 5pm. Hours shift through the year, so check the official antiquities site for this month's times."
-  - q: "How long do I need at Edfu Temple?"
-    a: "Plan on 1.5–2 hours to see the pylon, courtyard, hypostyle halls, sanctuary and the Horus-and-Seth reliefs in the outer ambulatory."
-  - q: "How do I get to Edfu Temple from the cruise boat?"
-    a: "Horse-drawn calèches wait at the riverbank and take you through town to the temple. Agree the fare, including waiting time and the return trip, before you set off."
-  - q: "Is Edfu worth it if I'm not on a cruise?"
-    a: "Yes. Edfu is about 110 km south of Luxor and is a common stop on day tours by car between Luxor and Aswan, often paired with Kom Ombo."
+  - q: When is the quietest time to visit Edfu Temple?
+    a: >-
+      Weekdays are typically quietest between 8am and 10am, and weekends between
+      9am and 10am. Large cruise groups usually fill the courtyard outside those
+      windows.
+  - q: What are Edfu Temple's opening hours?
+    a: >-
+      At the moment it opens at 7am (6am on Wednesdays and Sundays) and closes
+      at 5pm. Hours shift through the year, so check the official antiquities
+      site for this month's times.
+  - q: How long do I need at Edfu Temple?
+    a: >-
+      Plan on 1.5–2 hours to see the pylon, courtyard, hypostyle halls,
+      sanctuary and the Horus-and-Seth reliefs in the outer ambulatory.
+  - q: How do I get to Edfu Temple from the cruise boat?
+    a: >-
+      Horse-drawn calèches wait at the riverbank and take you through town to
+      the temple. Agree the fare, including waiting time and the return trip,
+      before you set off.
+  - q: Is Edfu worth it if I'm not on a cruise?
+    a: >-
+      Yes. Edfu is about 110 km south of Luxor and is a common stop on day tours
+      by car between Luxor and Aswan, often paired with Kom Ombo.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-09'
 ---
 
 ## A temple with its roof still on

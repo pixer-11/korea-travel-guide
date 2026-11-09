@@ -1,44 +1,51 @@
 ---
-title: "Dendera Temple of Hathor: Travel Guide (4.9★)"
-description: "Dendera Temple of Hathor stands on the west bank of the Nile opposite Qena, roughly 1.5 hours' drive north of Luxor. 4.9★ (4,018 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Dendera"
-category: "hidden-gem"
-pubDate: "2026-11-09T07:45:49.484Z"
+title: 'Dendera Temple of Hathor: Travel Guide (4.9★)'
+description: >-
+  Dendera Temple of Hathor stands on the west bank of the Nile opposite Qena,
+  roughly 1.5 hours' drive north of Luxor. 4.9★ (4,021 reviews) — what visitors
+  say, hours, and tips.
+country: Egypt
+region: Dendera
+category: hidden-gem
+pubDate: '2026-11-09T07:45:49.484Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dendera_Temple_complex%2C_Temple_of_Hathor_-_panoramio_%2812%29.jpg"
-  credit: "Photo: Merlin UK / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dendera_Temple_complex,_Temple_of_Hathor_-_panoramio_(12).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/ee/Dendera_Temple_complex%2C_Temple_of_Hathor_-_panoramio_%2812%29.jpg
+  credit: 'Photo: Merlin UK / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dendera_Temple_complex,_Temple_of_Hathor_-_panoramio_(12).jpg
+  via: act
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dendera_Temple_of_Hathor_05.jpg/3840px-Dendera_Temple_of_Hathor_05.jpg"
-    credit: "Photo: Bilal Detailz / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dendera_Temple_of_Hathor_05.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dendera_Temple_of_Hathor_05.jpg/3840px-Dendera_Temple_of_Hathor_05.jpg
+    credit: 'Photo: Bilal Detailz / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Dendera_Temple_of_Hathor_05.jpg'
 place:
-  id: "ChIJdS1idtPLThQRfxaX19asxVU"
-  name: "Dendera Temple of Hathor"
-  address: "Qism Qena, Qena, Qena Governorate 1455046, Egypt"
+  id: ChIJdS1idtPLThQRfxaX19asxVU
+  name: Dendera Temple of Hathor
+  address: 'Qism Qena, Qena, Qena Governorate 1455046, Egypt'
   rating: 4.9
-  userRatingsTotal: 4018
-  googleMapsUrl: "https://maps.google.com/?cid=6180536102375855743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4021
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6180536102375855743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.141937499999997
   lng: 32.6702031
   openingHours:
-    - "Monday: 7:00 AM – 5:00 PM"
-    - "Tuesday: 7:00 AM – 5:00 PM"
-    - "Wednesday: 7:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 5:00 PM"
-    - "Friday: 7:00 AM – 5:00 PM"
-    - "Saturday: 7:00 AM – 5:00 PM"
-    - "Sunday: 7:00 AM – 5:00 PM"
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 16
@@ -55,24 +62,42 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_5556787361393158617866525168544c507464693153644a496843"
+    venueId: ven_5556787361393158617866525168544c507464693153644a496843
 tags:
-  - "dendera"
-  - "hidden gem"
-quickAnswer: "Dendera Temple of Hathor stands on the west bank of the Nile opposite Qena, roughly 1.5 hours' drive north of Luxor. Its painted astronomical ceiling and rooftop zodiac chapel are among the best-preserved temple interiors in Egypt. It is currently open 7am–5pm, and the quietest windows are usually 7am–8am and 4pm–5pm."
+  - dendera
+  - hidden gem
+quickAnswer: >-
+  Dendera Temple of Hathor stands on the west bank of the Nile opposite Qena,
+  roughly 1.5 hours' drive north of Luxor. Its painted astronomical ceiling and
+  rooftop zodiac chapel are among the best-preserved temple interiors in Egypt.
+  It is currently open 7am–5pm, and the quietest windows are usually 7am–8am and
+  4pm–5pm.
 faq:
-  - q: "How do I get to Dendera Temple from Luxor?"
-    a: "Most visitors hire a private car or taxi for the drive, which takes about 1.5 hours. You can also take the train to Qena and a short taxi across the Nile to the temple."
-  - q: "When is the quietest time to visit?"
-    a: "Usually 7am–8am and 4pm–5pm on both weekdays and weekends. Avoid weekends between 8am and 2pm, which are typically the busiest hours."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 7am–5pm. Hours at Egyptian sites can shift by season and on holidays, so confirm on the official antiquities site before going."
-  - q: "How long should I spend at Dendera?"
-    a: "Allow two to three hours to see the hypostyle hall, the roof chapels, the crypts, the Cleopatra relief and the grounds."
-  - q: "Is the original Dendera zodiac still at the temple?"
-    a: "No. The original was removed in the 19th century and is in the Louvre in Paris. The rooftop Osiris chapel has a cast of it."
+  - q: How do I get to Dendera Temple from Luxor?
+    a: >-
+      Most visitors hire a private car or taxi for the drive, which takes about
+      1.5 hours. You can also take the train to Qena and a short taxi across the
+      Nile to the temple.
+  - q: When is the quietest time to visit?
+    a: >-
+      Usually 7am–8am and 4pm–5pm on both weekdays and weekends. Avoid weekends
+      between 8am and 2pm, which are typically the busiest hours.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 7am–5pm. Hours at Egyptian sites can shift by
+      season and on holidays, so confirm on the official antiquities site before
+      going.
+  - q: How long should I spend at Dendera?
+    a: >-
+      Allow two to three hours to see the hypostyle hall, the roof chapels, the
+      crypts, the Cleopatra relief and the grounds.
+  - q: Is the original Dendera zodiac still at the temple?
+    a: >-
+      No. The original was removed in the 19th century and is in the Louvre in
+      Paris. The rooftop Osiris chapel has a cast of it.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-09'
 ---
 
 ## Under Nut's Blue Body

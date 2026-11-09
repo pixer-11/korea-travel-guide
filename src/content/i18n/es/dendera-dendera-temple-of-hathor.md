@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dendera-dendera-temple-of-hathor
-srcHash: 'c61327f8d300'
+srcHash: 'c5ae8a1fe079'
 title: 'Templo de Hathor en Dendera: guía de viaje (4.9★)'
-description: En la orilla occidental del Nilo, frente a Qena y a cerca de 1.5 horas en coche al norte de Luxor, se alza el templo de Hathor en Dendera. Con 4.9★ (4,018 reseñas), reunimos aquí las opiniones de los visitantes, el horario y consejos prácticos.
+description: En la orilla occidental del Nilo, frente a Qena y a cerca de 1.5 horas en coche al norte de Luxor, se alza el templo de Hathor en Dendera. Con 4.9★ (4,021 reseñas), reunimos aquí las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El templo de Hathor en Dendera se levanta en la orilla occidental del Nilo, frente a Qena, a cerca de 1.5 horas en coche al norte de Luxor. Su techo astronómico pintado y la capilla del zodíaco de la azotea figuran entre los interiores de templo mejor conservados de Egipto. El horario actual es de 7am–5pm, y lo habitual es encontrar menos gente entre las 7am–8am y entre las 4pm–5pm.
 faq:
   - q: ¿Cómo se llega al templo de Dendera desde Luxor?

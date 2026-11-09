@@ -1,44 +1,51 @@
 ---
-title: "Abu Simbel Temples: Travel Guide (4.8★)"
-description: "The Abu Simbel Temples stand on the western shore of Lake Nasser in the town of Abu Simbel, about 280 km south of Aswan. 4.8★ (21,187 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Abu Simbel"
-category: "attraction"
-pubDate: "2026-11-09T07:45:51.563Z"
+title: 'Abu Simbel Temples: Travel Guide (4.8★)'
+description: >-
+  The Abu Simbel Temples stand on the western shore of Lake Nasser in the town
+  of Abu Simbel, about 280 km south of Aswan. 4.8★ (21,194 reviews) — what
+  visitors say, hours, and tips.
+country: Egypt
+region: Abu Simbel
+category: attraction
+pubDate: '2026-11-09T07:45:51.563Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kleiner_Tempel_%28Abu_Simbel%29_02.jpg/3840px-Kleiner_Tempel_%28Abu_Simbel%29_02.jpg"
-  credit: "Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kleiner_Tempel_(Abu_Simbel)_02.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kleiner_Tempel_%28Abu_Simbel%29_02.jpg/3840px-Kleiner_Tempel_%28Abu_Simbel%29_02.jpg
+  credit: 'Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kleiner_Tempel_(Abu_Simbel)_02.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gro%C3%9Fer_Tempel_%28Abu_Simbel%29_01.jpg/3840px-Gro%C3%9Fer_Tempel_%28Abu_Simbel%29_01.jpg"
-    credit: "Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gro%C3%9Fer_Tempel_%28Abu_Simbel%29_01.jpg/3840px-Gro%C3%9Fer_Tempel_%28Abu_Simbel%29_01.jpg
+    credit: 'Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg
 place:
-  id: "ChIJWwUmsYipOhQR0pj4GGbM06c"
-  name: "Abu Simbel Temples"
-  address: "Abu Simbel, Aswan Governorate 1211501, Egypt"
+  id: ChIJWwUmsYipOhQR0pj4GGbM06c
+  name: Abu Simbel Temples
+  address: 'Abu Simbel, Aswan Governorate 1211501, Egypt'
   rating: 4.8
-  userRatingsTotal: 21187
-  googleMapsUrl: "https://maps.google.com/?cid=12093234163297589458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21194
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12093234163297589458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3372319
   lng: 31.625798999999997
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 15
       - 16
@@ -53,24 +60,45 @@ place:
       - 8
       - 9
       - 10
-    venueId: "ven_6336304d624747346a70305251684f706959736d5577574a496843"
+    venueId: ven_6336304d624747346a70305251684f706959736d5577574a496843
 tags:
-  - "abu simbel"
-  - "top attraction"
-quickAnswer: "The Abu Simbel Temples stand on the western shore of Lake Nasser in the town of Abu Simbel, about 280 km south of Aswan. There are two rock-cut temples, one for Ramesses II and one for Nefertari, and most visitors need two hours on site. On weekdays it is usually calmest from 3pm to 5pm. On weekends the 7am–11am convoy rush is the time to avoid."
+  - abu simbel
+  - top attraction
+quickAnswer: >-
+  The Abu Simbel Temples stand on the western shore of Lake Nasser in the town
+  of Abu Simbel, about 280 km south of Aswan. There are two rock-cut temples,
+  one for Ramesses II and one for Nefertari, and most visitors need two hours on
+  site. On weekdays it is usually calmest from 3pm to 5pm. On weekends the
+  7am–11am convoy rush is the time to avoid.
 faq:
-  - q: "How do I get to Abu Simbel Temples from Aswan?"
-    a: "Most people take a road transfer, about 280 km and roughly 3.5–4 hours each way, usually arranged through an Aswan hotel or agency. You can also fly to Abu Simbel Airport, a short drive from the site, or arrive on a Lake Nasser cruise."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays it's typically calmest from 3pm to 5pm. On weekends the quieter window is 12pm to 5pm. Avoid 7am to 11am on weekends, when the morning tour convoys usually arrive."
-  - q: "What are the opening hours?"
-    a: "At the moment the site opens 6am–5pm. Hours change with the season and on some holidays, so check the official site before you travel."
-  - q: "How long should I spend at the temples?"
-    a: "Allow about two hours to see the Great Temple of Ramesses II and the Small Temple of Nefertari without rushing. Add more time if you want to walk down to the lakeshore for the full view."
-  - q: "When does the sun festival happen?"
-    a: "Around 22 February and 22 October each year, the rising sun reaches the inner sanctuary and lights three of the four seated statues. Those mornings are far busier than a normal day."
+  - q: How do I get to Abu Simbel Temples from Aswan?
+    a: >-
+      Most people take a road transfer, about 280 km and roughly 3.5–4 hours
+      each way, usually arranged through an Aswan hotel or agency. You can also
+      fly to Abu Simbel Airport, a short drive from the site, or arrive on a
+      Lake Nasser cruise.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays it's typically calmest from 3pm to 5pm. On weekends the
+      quieter window is 12pm to 5pm. Avoid 7am to 11am on weekends, when the
+      morning tour convoys usually arrive.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the site opens 6am–5pm. Hours change with the season and on
+      some holidays, so check the official site before you travel.
+  - q: How long should I spend at the temples?
+    a: >-
+      Allow about two hours to see the Great Temple of Ramesses II and the Small
+      Temple of Nefertari without rushing. Add more time if you want to walk
+      down to the lakeshore for the full view.
+  - q: When does the sun festival happen?
+    a: >-
+      Around 22 February and 22 October each year, the rising sun reaches the
+      inner sanctuary and lights three of the four seated statues. Those
+      mornings are far busier than a normal day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-09'
 ---
 
 ## Four kings facing the sunrise

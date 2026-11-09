@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: aswan-the-high-dam-of-aswan
-srcHash: 'da3ee2135cc7'
+srcHash: '525ac1fad6e7'
 title: 'La Presa Alta de Asuán: guía de viaje (4.4★)'
-description: A unos 13 km al sur de la ciudad egipcia de Asuán se alza la Presa Alta. Con una valoración de 4.4★ (6,698 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: A unos 13 km al sur de la ciudad egipcia de Asuán se alza la Presa Alta. Con una valoración de 4.4★ (6,699 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: A unos 13 km al sur de la ciudad egipcia de Asuán se encuentra la Presa Alta. La mayoría de los visitantes le dedica entre 30–60 minutos, como una parada más de un recorrido de media jornada que incluye el templo de Filae y el Obelisco Inacabado. Aunque Google indica actualmente que está abierta las 24 horas, conviene ir por la mañana, antes de que apriete el calor. Lleve consigo el pasaporte para el control policial y consulte en la entrada la tarifa vigente, que está expuesta allí mismo.
 faq:
   - q: ¿Cómo se llega a la Presa Alta de Asuán?

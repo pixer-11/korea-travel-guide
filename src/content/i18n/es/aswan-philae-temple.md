@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: aswan-philae-temple
-srcHash: '5707458ca887'
+srcHash: 'f27bec8bfeb1'
 title: 'Templo de Filae: guía de viaje de Asuán (4.8★)'
-description: El templo de Filae se alza en la isla de Agilkia, al sur de Asuán y cerca de la Antigua Presa, y se llega en lancha motora desde el embarcadero de Shellal. Con 4.8★ (15,045 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: El templo de Filae se alza en la isla de Agilkia, al sur de Asuán y cerca de la Antigua Presa, y se llega en lancha motora desde el embarcadero de Shellal. Con 4.8★ (15,046 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: El templo de Filae se alza en la isla de Agilkia, al sur de Asuán y cerca de la Antigua Presa de Asuán. Se llega en lancha motora desde el embarcadero de Shellal. Actualmente abre de 6am–5pm. Los fines de semana suele haber más calma de 7am–9am y de 1pm–5pm. Calcule unas dos horas en la isla, a las que hay que sumar el trayecto en barca.
 faq:
   - q: ¿Cómo se llega al templo de Filae?

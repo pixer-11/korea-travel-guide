@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: giza-bent-pyramid-of-cairo
-srcHash: '07c4aada0ad6'
+srcHash: '4acdc8421b2d'
 title: 'Pirámide Acodada de El Cairo: guía de viaje por Guiza (4.8★)'
-description: En pleno desierto de Dahshur, en el distrito de Badrshein (gobernación de Guiza) y a unos 40 km al sur del centro de El Cairo, se alza la Pirámide Acodada. Con 4.8★ (2,255 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos.
+description: En pleno desierto de Dahshur, en el distrito de Badrshein (gobernación de Guiza) y a unos 40 km al sur del centro de El Cairo, se alza la Pirámide Acodada. Con 4.8★ (2,256 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos.
 quickAnswer: En pleno desierto de Dahshur, en el distrito de Badrshein (gobernación de Guiza) y a unos 40 km al sur del centro de El Cairo, se alza la Pirámide Acodada. Su horario actual es de 9am–4pm. Entre semana, los momentos más tranquilos son de 9am–10am y de 3pm–4pm. Los fines de semana conviene evitar la franja de 11am–2pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Pirámide Acodada?

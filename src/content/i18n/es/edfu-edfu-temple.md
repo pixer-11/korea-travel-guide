@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: edfu-edfu-temple
-srcHash: '83887bc040f5'
+srcHash: '36eb7a6871ca'
 title: 'Templo de Edfu: guía de viaje (4.8★)'
-description: El templo ptolemaico de Horus, situado en la ciudad de Edfu, entre Luxor y Asuán, es el templo del antiguo Egipto mejor conservado que sigue en pie. Con una valoración de 4.8★ (7,535 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene tener en cuenta.
+description: El templo ptolemaico de Horus, situado en la ciudad de Edfu, entre Luxor y Asuán, es el templo del antiguo Egipto mejor conservado que sigue en pie. Con una valoración de 4.8★ (7,543 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene tener en cuenta.
 quickAnswer: En la ciudad de Edfu, a medio camino entre Luxor y Asuán, se alza el templo ptolemaico de Horus, el más completo de cuantos templos del antiguo Egipto siguen en pie. Actualmente abre a las 7am (a las 6am los miércoles y domingos) y cierra a las 5pm. Las horas más tranquilas suelen ser de 8am a 10am entre semana y de 9am a 10am los fines de semana.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el templo de Edfu?
