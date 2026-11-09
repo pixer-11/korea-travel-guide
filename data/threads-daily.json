@@ -110,29 +110,28 @@
     "incheon-monsta-x-world-tour-the-x-nexus-encore",
     "nusa-penida-diamond-beach",
     "dubai-dubai-old-city",
-    "york-uk-championship-snooker"
+    "york-uk-championship-snooker",
+    "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert"
   ],
-  "lastSentDay": "2026-11-09",
+  "lastSentDay": "2026-11-10",
   "material": {
-    "day": "2026-11-09",
-    "slug": "york-uk-championship-snooker",
-    "title": "UK Championship (Snooker): Dates, Tickets & Venue (York)",
+    "day": "2026-11-10",
+    "slug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
+    "title": "Jennifer Lopez & Alex Warren - Abu Dhabi GP Concert: Dates, Tickets & Venue (Abu Dhabi)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-09-york-uk-championship-snooker-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-10-abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-10-abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert-2.jpg"
     ],
-    "igCaption": "The UK Championship brings nine days of snooker to York Barbican, one of the sport's three Triple Crown events. Expect raked seating close to the table, a crowd that goes silent mid-shot, and a city full of Christmas market stalls just outside.\n\n#York #UnitedKingdom #events #travel #wanderatlas #UKChampionship #Snooker #England #TripleCrown #TravelUK\n📷 Photo: Malcolmxl5 / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Vinderkind / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Pete from Liverpool, UK / Wikimedia Commons (CC0) (edited)",
-    "thOption": "Snooker crowds stay dead silent during a shot and only clap once the balls stop rolling — could you handle sitting through a whole session without a whisper?",
-    "link": "https://wanderatlasguides.com/posts/york-uk-championship-snooker/"
+    "igCaption": "Race day floodlights, team caps, and one stage for two very different eras of music — Jennifer Lopez and Alex Warren headline Etihad Live on Yas Island this December, right after the Abu Dhabi GP wraps for the day.\n\n#AbuDhabi #UnitedArabEmirates #events #travel #wanderatlas #YasIsland #AbuDhabiGP #JenniferLopez #TravelGuide #ConcertTravel\n📷 Photo: Everwest / Wikimedia Commons (CC BY 4.0) (edited)",
+    "thOption": "Decades of chart hits meet a voice that blew up in 2025 — would you brave race-day crowds on Yas Island to see Jennifer Lopez and Alex Warren share one stage?",
+    "link": "https://wanderatlasguides.com/posts/abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert/"
   },
   "social": {
-    "thDay": "2026-11-09",
-    "thId": "18434604418194492",
+    "thDay": "2026-11-10",
+    "thId": "18119881499061987",
     "igDay": "2026-11-09",
     "igId": "17899054887676301",
-    "thSlug": "york-uk-championship-snooker",
+    "thSlug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
     "igSlug": "york-uk-championship-snooker",
     "history": [
       {
@@ -588,7 +587,17 @@
       {
         "day": "2026-11-03",
         "slug": "jakarta-bigbang-jakarta-concert-2026",
-        "thId": "17993783052065667"
+        "thId": "17993783052065667",
+        "insights": {
+          "at": "2026-11-10",
+          "th": {
+            "views": 11,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-04",
@@ -622,6 +631,11 @@
         "slug": "york-uk-championship-snooker",
         "thId": "18434604418194492",
         "igId": "17899054887676301"
+      },
+      {
+        "day": "2026-11-10",
+        "slug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
+        "thId": "18119881499061987"
       }
     ]
   }
