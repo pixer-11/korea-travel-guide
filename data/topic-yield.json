@@ -1352,7 +1352,35 @@
   "Memphis Open Air Museum": {
    "attempts": 1,
    "hits": 1
+  },
+  "Al-Muizz Street": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Saladin Citadel": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Hanging Church": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Al-Azhar Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Cairo Tower": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Al-Azhar Mosque": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Mosque-Madrasa of Sultan Hassan": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-11-10T07:58:57.801Z"
+ "updated": "2026-11-10T15:49:29.276Z"
 }

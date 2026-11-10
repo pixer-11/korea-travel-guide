@@ -6246,6 +6246,12 @@
   "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
   "at": "2026-09-29T14:19:17.090Z"
  },
+ "cairo-al-azhar-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Courtyard_of_Al-Azhar_Mosque_Cairo_Egypt_2019_%281%29.jpg/3840px-Courtyard_of_Al-Azhar_Mosque_Cairo_Egypt_2019_%281%29.jpg": {
+  "slug": "cairo-al-azhar-mosque",
+  "verdict": "MATCH",
+  "reason": "publish gate: Courtyard view with minarets, representative of Al-Azhar Mosque",
+  "at": "2026-11-10T15:49:29.207Z"
+ },
  "cairo-al-azhar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Al-Azhar_Park_Cairo_%283%29.jpg/3840px-Al-Azhar_Park_Cairo_%283%29.jpg": {
   "slug": "cairo-al-azhar-park",
   "verdict": "MATCH",
@@ -6281,6 +6287,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Classic Khan el-Khalili market scene with lanterns and arch",
   "at": "2026-11-09T17:54:17.875Z"
+ },
+ "cairo-mosque-madrasa-of-sultan-hassan\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Flickr_-_archer10_%28Dennis%29_-_Egypt-13A-061_%28cropped%29.jpg": {
+  "slug": "cairo-mosque-madrasa-of-sultan-hassan",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear recognizable view of Sultan Hassan Mosque-Madrasa in Cairo",
+  "at": "2026-11-10T15:49:29.256Z"
  },
  "cairo-mosque-of-ibn-tulun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kairo_Ibn_Tulun_Moschee_BW_4.jpg/1920px-Kairo_Ibn_Tulun_Moschee_BW_4.jpg": {
   "slug": "cairo-mosque-of-ibn-tulun",

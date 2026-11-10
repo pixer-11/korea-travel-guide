@@ -39968,5 +39968,89 @@
   "registerBreak": false,
   "worst": "这座公园是开罗评价数量最多的地方之一，算不上什么秘境。",
   "at": "2026-11-10T07:54:53.080Z"
+ },
+ "es/milan-pitbull-i-m-back-milan": {
+  "hash": "7bf5d6e60490",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El cambio de nombre suele hacerse mediante el procedimiento oficial de esa misma plataforma, no enviando una captura de ",
+  "at": "2026-11-10T15:53:04.166Z"
+ },
+ "ja/milan-pitbull-i-m-back-milan": {
+  "hash": "9585d595477f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "うたい文句に掲げられていたのは、彼がずっと同時にこなしてきた3つの要素、つまりクラブ系ポップとヒップホップとラテン音楽のミックスでした。",
+  "at": "2026-11-10T15:53:09.820Z"
+ },
+ "ko/milan-pitbull-i-m-back-milan": {
+  "hash": "69c119d1c222",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "밀라노에서는 공연장 안 바를 포함해 대부분의 곳에서 카드와 비접촉 결제가 널리 통합니다.",
+  "at": "2026-11-10T15:53:16.909Z"
+ },
+ "zh/milan-pitbull-i-m-back-milan": {
+  "hash": "71f046078b4a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这一场并未公布歌单，所以上面列的只是成就了他的代表作，并不代表演出顺序。",
+  "at": "2026-11-10T15:53:21.692Z"
+ },
+ "es/cairo-al-azhar-mosque": {
+  "hash": "1fe762acf162",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El edificio se lee como una sucesión de estratos geológicos.",
+  "at": "2026-11-10T15:53:22.622Z"
+ },
+ "es/cairo-mosque-madrasa-of-sultan-hassan": {
+  "hash": "eb4fdc5ccdb7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según Google, el horario actual es de 9am–5pm.",
+  "at": "2026-11-10T15:53:23.486Z"
+ },
+ "ja/cairo-al-azhar-mosque": {
+  "hash": "053a869f19a4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "カイロという都市そのものを築いた王朝です。",
+  "at": "2026-11-10T15:53:27.479Z"
+ },
+ "ja/cairo-mosque-madrasa-of-sultan-hassan": {
+  "hash": "84f5cb171b2a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "仕上げが不十分な分を、圧倒的な量感が補っているといえるでしょう。",
+  "at": "2026-11-10T15:53:31.116Z"
+ },
+ "ko/cairo-al-azhar-mosque": {
+  "hash": "e283a95c45ac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 건물은 마치 켜켜이 쌓인 암석층처럼 시대별로 읽힙니다.",
+  "at": "2026-11-10T15:53:33.702Z"
+ },
+ "ko/cairo-mosque-madrasa-of-sultan-hassan": {
+  "hash": "cc5ad66a3d5f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "여성분은 머리에 두를 스카프를 챙기세요. 관리인이 가끔 두를 천을 빌려주기도 하지만 늘 그렇다고 기대하지는 마세요.",
+  "at": "2026-11-10T15:53:35.016Z"
+ },
+ "zh/cairo-al-azhar-mosque": {
+  "hash": "337a365fca43",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "统治过开罗的历代王朝都在这里留下了自己的痕迹，整座建筑就像层层叠叠的岩层。",
+  "at": "2026-11-10T15:53:36.034Z"
+ },
+ "zh/cairo-mosque-madrasa-of-sultan-hassan": {
+  "hash": "baf3f5365ba6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "细节上未竟的遗憾，都被它庞大的体量弥补了。",
+  "at": "2026-11-10T15:53:36.883Z"
  }
 }
