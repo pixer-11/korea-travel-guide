@@ -158,5 +158,9 @@
  "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Siem_Reap_.-_Danse_Khmer_%28Cambodge%29.jpg/3840px-Siem_Reap_.-_Danse_Khmer_%28Cambodge%29.jpg": {
   "reason": "Performer portrait, not a city/landmark view",
   "at": "2026-11-09T04:05:46.325Z"
+ },
+ "Melbourne\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Scots%27_Church_Interior_2%2C_Melbourne%2C_Australia_-_Diliff.jpg/3840px-Scots%27_Church_Interior_2%2C_Melbourne%2C_Australia_-_Diliff.jpg": {
+  "reason": "No evidence this church is in Melbourne; generic interior",
+  "at": "2026-11-10T19:44:35.023Z"
  }
 }

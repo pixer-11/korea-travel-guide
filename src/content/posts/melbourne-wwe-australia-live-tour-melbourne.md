@@ -13,6 +13,14 @@ eventOrganizer:
   name: WWE
   url: https://www.wwe.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Panorama_of_Southbank_Melbourne_Victoria_Australia.jpg/3840px-Panorama_of_Southbank_Melbourne_Victoria_Australia.jpg'
+  credit: 'Photo: AlphaLemur / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Panorama_of_Southbank_Melbourne_Victoria_Australia.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - melbourne
   - event

@@ -3141,6 +3141,12 @@
   "reason": "patrol replace: Storefront clearly shows Roast8ry branding, Bangkok setting",
   "at": "2026-08-20T19:57:49.663Z"
  },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/122028575_IV4NOkuQ6xplO-D2tks87tPrtRQDM1ByiepplHX-6dg.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows potted flowers, not a cafe venue",
+  "at": "2026-11-10T19:36:36.452Z"
+ },
  "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/134622663_kosS6DLBR8o0HcOQZ1SbDmzIUFWsf0rvBeHeYkbk8X8.jpg": {
   "slug": "bangkok-roast8ry-song-wat",
   "verdict": "MISMATCH",
@@ -3212,6 +3218,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Buddhist temple in Bangkok, unrelated to a café venue",
   "at": "2026-08-20T19:58:03.021Z"
+ },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/9686365_Bphoh-rP3F-aMOtsJVO55zEhOldSK-1R8QCTTJIN0o8.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows ornate temple architecture, not a trendy Bangkok cafe",
+  "at": "2026-11-10T19:36:37.691Z"
+ },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/9686365_FOyjfjsXcdLQj2N6NfryI968XJy51g0aEuek18SORmQ.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Just sky and tree, not the venue",
+  "at": "2026-11-10T19:36:40.238Z"
+ },
+ "bangkok-roast8ry-song-wat\u0001https://fastly.4sqi.net/img/general/original/9686365_YQB-LZSkiafcNCBNSvlAwawiNYA7mLXKyzj17XUbQwc.jpg": {
+  "slug": "bangkok-roast8ry-song-wat",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street trees and temple roof, not cafe",
+  "at": "2026-11-10T19:36:38.977Z"
  },
  "bangkok-roast8ry-song-wat\u0001https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kfGVufDB8MHx8fDE3ODUzNjEwNTd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "bangkok-roast8ry-song-wat",
@@ -13490,6 +13514,12 @@
   "reason": "patrol reject: Hong Kong skyline, unrelated to badminton event",
   "at": "2026-10-12T00:33:39.963Z"
  },
+ "hue-hong-kong-open-badminton-note-vietnam-international-series\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vista_del_Puerto_de_Victoria_desde_la_Cumbre_Victoria%2C_Hong_Kong%2C_2013-08-09%2C_DD_11-_12_PAN.jpg/3840px-Vista_del_Puerto_de_Victoria_desde_la_Cumbre_Victoria%2C_Hong_Kong%2C_2013-08-09%2C_DD_11-_12_PAN.jpg": {
+  "slug": "hue-hong-kong-open-badminton-note-vietnam-international-series",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: City skyline, unrelated to badminton event",
+  "at": "2026-11-10T19:37:14.399Z"
+ },
  "hue-hong-kong-open-badminton-note-vietnam-international-series\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_10.JPG/3840px-Vista_del_Puerto_de_Victoria_desde_Sky100%2C_Hong_Kong%2C_2013-08-09%2C_DD_10.JPG": {
   "slug": "hue-hong-kong-open-badminton-note-vietnam-international-series",
   "verdict": "MISMATCH",
@@ -15208,6 +15238,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Generic amusement park scene, not Joyland Festival venue",
   "at": "2026-10-17T21:39:14.326Z"
+ },
+ "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/.Feast_at_Joyland_Festival%2C_November_2024.jpg": {
+  "slug": "jakarta-joyland-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performance at large festival venue",
+  "at": "2026-11-10T19:36:23.613Z"
  },
  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/83/Joyland_Lubbock_TX_entrance_DSCN8529.JPG": {
   "slug": "jakarta-joyland-festival",
@@ -19112,6 +19148,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Kite flying image, unrelated to event/venue",
   "at": "2026-11-09T19:42:35.063Z"
+ },
+ "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/2f/Catch_The_Wind_13.jpg": {
+  "slug": "london-catch-the-young-ignite-evolve-europe-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Kites in sky unrelated to event/venue",
+  "at": "2026-11-10T19:40:16.995Z"
  },
  "london-catch-the-young-ignite-evolve-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Catch_The_Wind_02.jpg": {
   "slug": "london-catch-the-young-ignite-evolve-europe-tour",
@@ -23878,11 +23920,23 @@
   "reason": "patrol reject: Boar statue by water, unrelated to lantern festival",
   "at": "2026-11-09T03:26:37.525Z"
  },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2015_Taiwan_Lantern_Festival_02.jpg/3840px-2015_Taiwan_Lantern_Festival_02.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wrong location, no sky lanterns or Pingxi venue shown",
+  "at": "2026-11-10T19:40:31.304Z"
+ },
  "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2015_Taiwan_Lantern_Festival_10.jpg/3840px-2015_Taiwan_Lantern_Festival_10.jpg": {
   "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows generic string lights, not lantern festival venue",
   "at": "2026-11-09T19:44:16.065Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2015_Taiwan_Lantern_Festival_05.jpg/3840px-2015_Taiwan_Lantern_Festival_05.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Night lake pavilion, not Pingxi lantern festival venue",
+  "at": "2026-11-10T19:40:29.710Z"
  },
  "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%89%8D%E5%81%B4.jpg/3840px-%E5%90%89%E7%BE%8A%E5%BA%B7%E6%B3%B0%E5%89%8D%E5%81%B4.jpg": {
   "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
@@ -23895,6 +23949,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Goat statue unrelated to Sky Lantern Festival",
   "at": "2026-11-09T03:26:40.104Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2015_Taiwan_Lantern_Festival_03.jpg/3840px-2015_Taiwan_Lantern_Festival_03.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different venue; not Pingxi sky lantern festival location",
+  "at": "2026-11-10T19:40:32.947Z"
  },
  "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Taiwan_Lantern_Festival_13.jpg/3840px-2015_Taiwan_Lantern_Festival_13.jpg": {
   "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
@@ -23931,6 +23991,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Generic lit bridge/park, not Pingxi lantern festival venue",
   "at": "2026-11-09T03:26:44.060Z"
+ },
+ "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2015_Taiwan_Lantern_Festival_04.jpg/3840px-2015_Taiwan_Lantern_Festival_04.jpg": {
+  "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Lake pavilion, not Pingxi sky lantern festival venue",
+  "at": "2026-11-10T19:40:34.350Z"
  },
  "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2015_Taiwan_Lantern_Festival_07.jpg/3840px-2015_Taiwan_Lantern_Festival_07.jpg": {
   "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",

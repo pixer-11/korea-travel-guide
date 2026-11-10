@@ -3499,7 +3499,8 @@
   "penang-i-am-what-i-am-world-tour-penang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-06.jpg/3840px-Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-06.jpg": 3840,
   "luxor-luxor-museum\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/Luxor_Museum_1.JPG": 1280,
   "cairo-al-azhar-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Courtyard_of_Al-Azhar_Mosque_Cairo_Egypt_2019_%281%29.jpg/3840px-Courtyard_of_Al-Azhar_Mosque_Cairo_Egypt_2019_%281%29.jpg": 3840,
-  "cairo-mosque-madrasa-of-sultan-hassan\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Flickr_-_archer10_%28Dennis%29_-_Egypt-13A-061_%28cropped%29.jpg": 1776
+  "cairo-mosque-madrasa-of-sultan-hassan\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Flickr_-_archer10_%28Dennis%29_-_Egypt-13A-061_%28cropped%29.jpg": 1776,
+  "jakarta-joyland-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/.Feast_at_Joyland_Festival%2C_November_2024.jpg": 3024
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3553,8 +3554,8 @@
   },
   "surabaya-blue-doors-surabaya": {
    "width": 1080,
-   "attempts": 14,
-   "nextTry": "2026-11-10",
+   "attempts": 15,
+   "nextTry": "2026-11-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -3567,15 +3568,15 @@
   },
   "nha-trang-la-nha": {
    "width": 1102,
-   "attempts": 13,
-   "nextTry": "2026-11-10",
+   "attempts": 14,
+   "nextTry": "2026-11-17",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
   "phuket-hug-street-food-kata-phuket": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-10",
+   "attempts": 14,
+   "nextTry": "2026-11-17",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
@@ -3735,8 +3736,8 @@
   },
   "tashkent-shavi-coffee-roasters": {
    "width": 1103,
-   "attempts": 7,
-   "nextTry": "2026-11-10",
+   "attempts": 8,
+   "nextTry": "2026-11-17",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -4030,5 +4031,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-10T15:56:32.387Z"
+ "updated": "2026-11-10T19:43:25.481Z"
 }

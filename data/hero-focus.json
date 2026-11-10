@@ -7062,5 +7062,21 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/3840px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg": {
+  "w": 3840,
+  "h": 2120,
+  "focus": {
+   "x": 55,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Panorama_of_Southbank_Melbourne_Victoria_Australia.jpg/3840px-Panorama_of_Southbank_Melbourne_Victoria_Australia.jpg": {
+  "w": 3840,
+  "h": 1590,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
  }
 }

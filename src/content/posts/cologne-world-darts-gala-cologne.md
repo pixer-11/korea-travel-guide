@@ -10,6 +10,14 @@ eventEndDate: '2026-12-02'
 eventRecurring: true
 eventVenue: LANXESS arena
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/3840px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg'
+  credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_April_2018_-01.jpg'
+  focus:
+    x: 55
+    y: 45
 tags:
   - cologne
   - event
