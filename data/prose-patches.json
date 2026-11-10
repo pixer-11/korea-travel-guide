@@ -9731,6 +9731,55 @@
    }
   ]
  },
+ "incheon-incheon-airport-sky-festival-skf": {
+  "steps": [
+   {
+    "from": "83d1a5dc4515",
+    "to": "bc758865d408",
+    "at": "2026-11-10T08:09:39.107Z",
+    "removed": [
+     "[DESCRIPTION] The Incheon Airport Sky Festival (SKF) is a K-pop concert festival held at Incheon International Airport on Yeongjong Island, Incheon, from November 7 to 9, 2026.",
+     "[QUICK ANSWER] The Incheon Airport Sky Festival (SKF) is a K-pop concert festival held at Incheon International Airport on Yeongjong Island, Incheon, from November 7 to 9, 2026. It is staged with international travellers in mind, and transport packages run from Seoul. The organiser's official channels carry the lineup and ticket links; this guide covers the dates, the venue area and how to get there.",
+     "[FAQ 1] Q: When is the Incheon Airport Sky Festival 2026? A: It runs over three days, from November 7 to 9, 2026.",
+     "[FAQ 2] Q: Where is SKF held? A: At Incheon International Airport on Yeongjong Island, Incheon. The organiser's official channels list the exact stage area for each concert.",
+     "[FAQ 3] Q: How do I get there from Seoul? A: The festival offers transport packages from Seoul. You can also take the AREX train from Seoul Station to Incheon Airport Terminal 1 or Terminal 2 (all-stop or the faster nonstop express), or ride an airport limousine bus.",
+     "[FAQ 4] Q: Who is performing and where are tickets sold? A: The festival puts on exclusive K-pop concerts. The organiser publishes the lineup and ticket links on its official channels.",
+     "[FAQ 5] Q: Where do attendees usually stay? A: Many stay on Yeongjong Island, either at the resort hotels beside the terminals such as Paradise City or at business hotels near Unseo Station on the AREX line. That way they skip the late trip back to Seoul.",
+     "The 2026 edition runs from November 7 to 9. The Incheon Airport Sky Festival puts exclusive K-pop concerts at the country's main international gateway, and the audience is travellers as much as locals. Plenty of visitors schedule the show around a flight in or out.",
+     "Incheon International Airport stands on reclaimed land on Yeongjong Island, west of the Incheon city centre. Out here you get flat coastal ground, wide skies and aircraft on approach overhead. The festival takes its name from that setting. It is organised in connection with the airport itself, and the organiser publishes the lineup, stage details and ticket links on its official channels.",
+     "The festival offers transport packages from Seoul, which is how many out-of-town fans travel. Without a package, the usual route is the train.",
+     "- **AREX all-stop train:** leaves from Seoul Station and stops at Hongik University and Gimpo Airport on the way. It continues to Incheon Airport Terminal 1 and Terminal 2 stations.\n- **AREX express:** goes nonstop from Seoul Station to the airport. It is a separately ticketed service and is faster than the all-stop.\n- **Airport limousine buses:** connect the terminals with most Seoul districts and with hotels.\n- **By car:** you cross either the Yeongjong Bridge or the Incheon Bridge. Both are tolled.",
+     "Terminal 1 and Terminal 2 are a few kilometres apart and linked by a free shuttle bus. Which terminal is nearest your concert area is worth knowing, because the walk between them is long.",
+     "Lots of attendees sleep on the island so they don't face the late train back to Seoul. Paradise City and other resort hotels sit right beside the terminals. Business hotels near Unseo Station on the AREX line are a cheaper option.",
+     "Daytime visitors usually head to Eurwangni Beach on the island's west coast for seafood restaurants and a walk on the sand. November is off-season there, and the beach is quiet.",
+     "November nights on the Yellow Sea coast are cold and windy. Fans at the outdoor sets usually wear proper coats and bring gloves.",
+     "Korean concert crowds follow a few habits, and fitting in with them makes the night easier.",
+     "- **Lightsticks:** fans bring each group's official lightstick, and the crowd is often a sea of matching colours.\n- **Fan chants:** many songs have set chants, shouted during instrumental breaks. Groups' fandoms post them online.\n- **Paying:** cards and mobile payments work almost everywhere at the airport. A T-money card covers the AREX all-stop and the buses with a tap.\n- **Leaving:** crowds tend to pack the AREX platforms straight after the final act. Many people wait in the terminal food courts until it clears.",
+     "Lots of international fans leave their luggage at the terminal's baggage storage counters before they enter. Since it's an airport, those counters are part of the building."
+    ],
+    "added": [
+     "[DESCRIPTION] The Incheon Airport Sky Festival (SKF) was a K-pop concert festival set for November 7–9, 2026 at Incheon International Airport on Yeongjong Island, Incheon.",
+     "[QUICK ANSWER] The Incheon Airport Sky Festival (SKF) was a K-pop concert festival set for November 7 to 9, 2026 at Incheon International Airport on Yeongjong Island, Incheon. Organisers aimed it at international travellers, and the festival offered transport packages from Seoul. The programme was built around exclusive K-pop concerts beside the runways.",
+     "[FAQ 1] Q: When is the Incheon Airport Sky Festival 2026? A: The festival was set for three days, from November 7 to 9, 2026.",
+     "[FAQ 2] Q: Where is SKF held? A: At Incheon International Airport on Yeongjong Island, Incheon. Each concert had its own stage area within the airport.",
+     "[FAQ 3] Q: How do I get there from Seoul? A: The festival offered transport packages from Seoul. The AREX train also runs from Seoul Station to Incheon Airport Terminal 1 and Terminal 2, either all-stop or as the faster nonstop express. Airport limousine buses link the terminals with Seoul.",
+     "[FAQ 4] Q: Who is performing and where are tickets sold? A: The festival was planned around exclusive K-pop concerts. The organiser handled the lineup and ticketing.",
+     "[FAQ 5] Q: Where do attendees usually stay? A: Many visitors to evening events here stay on Yeongjong Island. Some choose the resort hotels beside the terminals, such as Paradise City. Others pick business hotels near Unseo Station on the AREX line. Either way, they avoid the late trip back to Seoul.",
+     "The 2026 edition was set for November 7 to 9. The programme put exclusive K-pop concerts at the country's main international gateway, for an audience of travellers as much as locals. The timing suited visitors fitting a show around a flight in or out.",
+     "Incheon International Airport stands on reclaimed land on Yeongjong Island, west of the Incheon city centre. The ground is flat and coastal, the skies are wide, and aircraft pass overhead on approach. The festival takes its name from that setting. It was organised in connection with the airport itself.",
+     "The festival offered transport packages from Seoul for out-of-town fans. Without a package, the usual route is the train.",
+     "- **AREX all-stop train:** leaves from Seoul Station and stops at Hongik University and Gimpo Airport on the way. It continues to Incheon Airport Terminal 1 and Terminal 2 stations.\n- **AREX express:** goes nonstop from Seoul Station to the airport. It is a separately ticketed service and is faster than the all-stop.\n- **Airport limousine buses:** connect the terminals with most Seoul districts and with hotels.\n- **By car:** the route crosses either the Yeongjong Bridge or the Incheon Bridge. Both are tolled.",
+     "Terminal 1 and Terminal 2 are a few kilometres apart and linked by a free shuttle bus. The walk between them is long, so the terminal nearest each concert area matters.",
+     "Many people at late events here sleep on the island rather than take the late train back to Seoul. Paradise City and other resort hotels sit right beside the terminals. Business hotels near Unseo Station on the AREX line are a cheaper option.",
+     "Daytime visitors often head to Eurwangni Beach on the island's west coast for seafood restaurants and a walk on the sand. November is off-season there, and the beach is usually quiet.",
+     "November nights on the Yellow Sea coast are cold and windy. Outdoor shows at this time of year are a coat-and-gloves affair.",
+     "Korean concert crowds follow a few habits, and knowing them makes a night out easier.",
+     "- **Lightsticks:** fans bring each group's official lightstick, and the crowd is often a sea of matching colours.\n- **Fan chants:** many songs have set chants, shouted during instrumental breaks. Groups' fandoms post them online.\n- **Paying:** cards and mobile payments work almost everywhere at the airport. A T-money card covers the AREX all-stop and the buses with a tap.\n- **Leaving:** after the final act at big concerts, crowds tend to pack the train platforms. Many people wait in the terminal food courts until it clears.",
+     "The terminals have baggage storage counters, a common first stop for international fans at airport events. Since it's an airport, those counters are part of the building."
+    ]
+   }
+  ]
+ },
  "incheon-my-chemical-romance-seoul-2026": {
   "steps": [
    {
@@ -13569,6 +13618,55 @@
    }
   ]
  },
+ "milan-pitbull-i-m-back-milan": {
+  "steps": [
+   {
+    "from": "552166a9002d",
+    "to": "a7b0411adfad",
+    "at": "2026-11-10T08:09:39.115Z",
+    "removed": [
+     "[DESCRIPTION] Pitbull \"I'm Back\" Milan takes place on November 9, 2026 at the Unipol Dome, the new arena in Milan's Santa Giulia district, with a show built on his pop, hip hop and Latin hits.",
+     "[QUICK ANSWER] Pitbull \"I'm Back\" Milan takes place on November 9, 2026 at the Unipol Dome, the new arena in Milan's Santa Giulia district, with a show built on his pop, hip hop and Latin hits. The arena sits next to Rogoredo, where metro line M3 and the mainline railway meet, and that is how most fans get there and home. Italian arena tickets are issued in the holder's name, so the ticket is usually only valid with matching ID.",
+     "[FAQ 1] Q: When and where is Pitbull \"I'm Back\" Milan? A: It takes place on Monday, November 9, 2026 at the Unipol Dome, the new arena in Milan's Santa Giulia district, next to Rogoredo station.",
+     "[FAQ 3] Q: How do I get to the Unipol Dome by public transport? A: Take metro M3 (yellow line) to Rogoredo FS, or a suburban S-line or regional train to Milano Rogoredo, then walk into the Santa Giulia district. M3 runs direct from Duomo and Centrale.",
+     "[FAQ 4] Q: Do I need ID to get into the concert? A: Very likely. Italian tickets for venues over 5,000 capacity are issued in the holder's name, and gate staff can ask for photo ID that matches. Fans from abroad usually carry a passport or national ID card.",
+     "November 9, 2026 falls on a Monday. That shapes the whole evening. You get a full arena of people who took a work night off to shout \"Mr. Worldwide\" back at the stage, and a city that goes to bed early around them.",
+     "Pitbull \"I'm Back\" Milan brings Armando Christian Pérez back to Italy for one night at the Unipol Dome. The show mixes the three things he has always done at once: club pop, hip hop and Latin music, delivered in English and Spanish, often inside the same line.",
+     "The setlist for this date is not part of what we know, so treat that list as the songs that made him, not a running order. His concerts are known for short bursts of hits, heavy bass, dancers and a lot of call-and-response. Expect to spend more time standing than sitting, even with a seat.",
+     "The **Unipol Forum** is the older arena in Assago, on the south-western edge of the city, reached by metro M2. The **Unipol Dome** is the newer arena in Santa Giulia, in the south-east, built for the Milano Cortina 2026 Winter Olympics and used for ice hockey during the Games. This concert is at the Dome.",
+     "Taxi drivers and ride apps will happily take you to either one. Say \"Santa Giulia\" or \"Rogoredo\" along with the venue name, and you will not end up across town while the opening act plays.",
+     "Santa Giulia is a redeveloped district beside Milano Rogoredo station. Rogoredo is one of the city's main rail hubs, so you have several ways in:",
+     "Driving is the least comfortable option. Concert traffic merges with Monday evening commuters on the ring roads, and arena parking empties slowly after the encore.",
+     "In Italy, tickets for concerts at venues holding more than 5,000 people are nominative. Your name is printed on the ticket, and staff at the gates can ask for photo ID that matches it. Fans travelling from abroad usually carry a passport or national ID card rather than relying on a photo of it on their phone.",
+     "Prices and seating maps sit with the ticket seller, not with us, and we do not print figures we have not seen.",
+     "Plenty of fans reach Santa Giulia an hour or so before doors to clear the gates without pressure. The bigger crunch comes at the end. Thousands of people funnel back towards Rogoredo at once, and the M3 platforms fill quickly.",
+     "People who know the route often walk a little and take a suburban train instead of the metro, or wait twenty minutes over a drink so the platform clears. Others leave during the final song to beat the rush, which is a fair trade if you have a train to catch.",
+     "Milanese aperitivo starts around early evening, and the bars of Porta Romana and Corso Lodi sit on the same metro line as the arena. A spritz there before the train south is the local version of a pre-show drink. Kitchens in the city often close earlier on Mondays, so many fans eat before the show rather than gamble on a late dinner.",
+     "If you are staying an extra day, the Duomo roof terraces, the Galleria Vittorio Emanuele II and Leonardo's Last Supper at Santa Maria delle Grazie are all inside the city centre. The Last Supper sells timed entry and is usually booked out well in advance."
+    ],
+    "added": [
+     "[DESCRIPTION] Pitbull \"I'm Back\" Milan was set for November 9, 2026 at the Unipol Dome in Milan's Santa Giulia district, with a show of his pop, hip hop and Latin hits.",
+     "[QUICK ANSWER] Pitbull \"I'm Back\" Milan was set for November 9, 2026 at the Unipol Dome, the new arena in Milan's Santa Giulia district, with a show built on his pop, hip hop and Latin hits. The arena sits next to Rogoredo, where metro line M3 and the mainline railway meet, and that is the usual way in and out. Italian arena tickets are issued in the holder's name, so a ticket is usually only valid with matching ID.",
+     "[FAQ 1] Q: When and where is Pitbull \"I'm Back\" Milan? A: It was scheduled for Monday, November 9, 2026 at the Unipol Dome, the new arena in Milan's Santa Giulia district, next to Rogoredo station.",
+     "[FAQ 3] Q: How do I get to the Unipol Dome by public transport? A: Metro M3 (yellow line) goes to Rogoredo FS, and suburban S-lines and regional trains stop at Milano Rogoredo. From there it is a walk into the Santa Giulia district. M3 runs direct from Duomo and Centrale.",
+     "[FAQ 4] Q: Do I need ID to get into the concert? A: Usually, yes. Italian tickets for venues over 5,000 capacity are issued in the holder's name, and gate staff can ask for photo ID that matches. Fans from abroad usually carry a passport or national ID card.",
+     "November 9, 2026 fell on a Monday. That shaped the whole evening. The show was planned for a work night, with an arena of fans shouting \"Mr. Worldwide\" back at the stage, in a city that goes to bed early around them.",
+     "Pitbull \"I'm Back\" Milan was set to bring Armando Christian Pérez back to Italy for one night at the Unipol Dome. The show was billed as a mix of the three things he has always done at once: club pop, hip hop and Latin music, delivered in English and Spanish, often inside the same line.",
+     "No setlist for this date was announced, so that list reflects the songs that made him, not a running order. His concerts are known for short bursts of hits, heavy bass, dancers and a lot of call-and-response. Fans usually spend more time standing than sitting, even with a seat.",
+     "The **Unipol Forum** is the older arena in Assago, on the south-western edge of the city, reached by metro M2. The **Unipol Dome** is the newer arena in Santa Giulia, in the south-east, built for the Milano Cortina 2026 Winter Olympics and used for ice hockey during the Games. This concert was booked into the Dome.",
+     "Taxi drivers and ride apps will happily go to either one. Naming \"Santa Giulia\" or \"Rogoredo\" along with the venue is the simple way to avoid ending up across town while the opening act plays.",
+     "Santa Giulia is a redeveloped district beside Milano Rogoredo station. Rogoredo is one of the city's main rail hubs, so there are several ways in:",
+     "Driving is the least comfortable option. On a weekday, concert traffic merges with evening commuters on the ring roads, and arena parking empties slowly after an encore.",
+     "In Italy, tickets for concerts at venues holding more than 5,000 people are nominative. The holder's name is printed on the ticket, and staff at the gates can ask for photo ID that matches it. Fans travelling from abroad usually carry a passport or national ID card rather than relying on a photo of it on their phone.",
+     "Prices and seating maps were set by the ticket seller.",
+     "At arena shows like this, plenty of fans reach the area an hour or so before doors to clear the gates without pressure. The bigger crunch usually comes at the end. Thousands of people funnel back towards Rogoredo at once, and the M3 platforms fill quickly.",
+     "People who know the route often walk a little and take a suburban train instead of the metro, or wait twenty minutes over a drink so the platform clears. Others leave during the final song to beat the rush, a fair trade for anyone with a train to catch.",
+     "Milanese aperitivo starts around early evening, and the bars of Porta Romana and Corso Lodi sit on the same metro line as the arena. A spritz there before the train south is the local version of a pre-show drink. Kitchens in the city often close earlier on Mondays, so many fans eat before a show rather than gamble on a late dinner.",
+     "For an extra day in the city, the Duomo roof terraces, the Galleria Vittorio Emanuele II and Leonardo's Last Supper at Santa Maria delle Grazie are all inside the city centre. The Last Supper sells timed entry and is usually booked out well in advance."
+    ]
+   }
+  ]
+ },
  "milan-pow-europe-tour-2026-color-on-milan": {
   "steps": [
    {
@@ -15229,6 +15327,49 @@
      "Registration for this edition was through AIA Cambodia and its event partners. Fun runs of this kind often split entries into categories, such as individual versus team.",
      "At a 2.5km distance, the run itself takes an hour or so at most, so it fits easily into a longer day out rather than filling the whole itinerary.",
      "Botumvatey Pagoda Park's setting lends itself to a wander around the pagoda grounds, with the riverside close by for breakfast. Wat Phnom and the Tonle Sap riverside promenade are both a short tuk-tuk ride away, and mornings are the coolest time to walk them comfortably."
+    ]
+   }
+  ]
+ },
+ "phnom-penh-cambodia-independence-day": {
+  "steps": [
+   {
+    "from": "71665fb7544a",
+    "to": "7b940bcc1d1e",
+    "at": "2026-11-10T08:09:39.121Z",
+    "removed": [
+     "[DESCRIPTION] Cambodia Independence Day falls on November 9, 2026, and the main ceremony, with parades and fireworks, is held at the Independence Monument in Phnom Penh, where Norodom and Sihanouk Boulevards meet.",
+     "[QUICK ANSWER] Cambodia Independence Day falls on November 9, 2026, and the main ceremony, with parades and fireworks, is held at the Independence Monument in Phnom Penh, where Norodom and Sihanouk Boulevards meet. The formal area around the monument is a state ceremony with security cordons, so most visitors watch from the surrounding streets and parkland. Confirm timing, access and any ticketing on the official Cambodian government source.",
+     "[FAQ 1] Q: When is Cambodia Independence Day in 2026? A: It falls on November 9, 2026. The date marks 9 November 1953, when Cambodia gained full independence from France. It is a national public holiday.",
+     "[FAQ 2] Q: Where is the main ceremony held? A: At the Independence Monument (Vimean Ekareach), at the junction of Norodom Boulevard and Sihanouk Boulevard in central Phnom Penh. The parades and fireworks also centre on this area.",
+     "[FAQ 3] Q: Do I need tickets to watch? A: We know of no general ticketed admission. The inner ceremony area is reserved for officials and invited guests, and the public watches from the surrounding streets and park. Confirm access and timing on the official Cambodian government source.",
+     "[FAQ 4] Q: How do I get there with road closures? A: Take a tuk-tuk, or book through PassApp or Grab, and get dropped a few blocks from the monument. Then walk to the cordon. From Sisowath Quay on the riverside it is roughly a 20 to 25 minute walk.",
+     "[FAQ 5] Q: What else is nearby? A: The King Father Norodom Sihanouk statue is right beside the monument. The Royal Palace, Silver Pagoda, National Museum and Wat Botum are all within about a kilometre, though some may close for the holiday.",
+     "On November 9, 2026, the monument hosts the national ceremony, followed by parades and fireworks. Its tiers carry rows of carved naga heads, and the structure stands in a traffic circle. Flag-lined boulevards radiate out from it. The day is a public holiday, so offices and many government services close.",
+     "The monument sits at the junction of Norodom Boulevard and Sihanouk Boulevard in central Phnom Penh. Expect road closures and security checkpoints around it on the day. Plan to arrive on foot for the last stretch.",
+     "- **Tuk-tuk or ride-hailing:** PassApp and Grab both work in Phnom Penh. Ask to be dropped a few blocks out, since vehicles are turned back near the cordon.\n- **From the riverside:** Sisowath Quay is roughly a 20 to 25 minute walk, passing close to the Royal Palace.\n- **Nearby landmarks:** The bronze statue of King Father Norodom Sihanouk stands just east of the monument. The long park strip beyond it runs toward Wat Botum and gives you room to stand back.",
+     "Treat this as a state occasion first and a spectacle second. The inner circle is reserved for the royal family, officials and invited guests. Public viewing happens from the edges of the boulevards and the park.",
+     "- **Tickets:** We know of no general ticketed admission to the ceremony. Confirm access rules and timing on the official government source before you go.\n- **Dress:** Cover shoulders and knees. Crowds include officials, monks and uniformed units, and modest clothing fits in.\n- **Anthem and flag:** Stand still and stay quiet during the national anthem and flag moments. Locals do.\n- **Photos:** Photograph the parade freely. Do not point cameras at security staff, and do not try to get past barriers for a closer shot of royalty.\n- **Money:** US dollars and Cambodian riel are both used for street snacks and tuk-tuks. Small notes in both currencies speed things up.",
+     "Give the monument area half a day if you want the ceremony and the parades. Come back after dark for the fireworks. With the city on holiday, families fill the parks along Sihanouk Boulevard, and food carts set up wherever the crowds settle.",
+     "Combine it with sights within walking distance:",
+     "Bring water and a hat for the daytime part. November is the start of Cambodia's dry season, and there is little shade on the open boulevards. Confirm timing, venue and access on the official site, because ceremony arrangements are set by the state each year."
+    ],
+    "added": [
+     "[DESCRIPTION] The main ceremony, parades and fireworks of Cambodia Independence Day 2026 were set for November 9 at the Independence Monument in Phnom Penh.",
+     "[QUICK ANSWER] Cambodia Independence Day fell on November 9, 2026. The main ceremony, with parades and fireworks, was set for the Independence Monument in Phnom Penh, where Norodom and Sihanouk Boulevards meet. The formal area around the monument is a state ceremony space with security cordons, and the public usually watches from the surrounding streets and parkland.",
+     "[FAQ 1] Q: When is Cambodia Independence Day in 2026? A: It fell on November 9, 2026. The date marks 9 November 1953, when Cambodia gained full independence from France. It is a national public holiday.",
+     "[FAQ 2] Q: Where is the main ceremony held? A: The 2026 ceremony was set for the Independence Monument (Vimean Ekareach), at the junction of Norodom Boulevard and Sihanouk Boulevard in central Phnom Penh. The parades and fireworks traditionally centre on this area.",
+     "[FAQ 3] Q: Do I need tickets to watch? A: We know of no general ticketed admission for 2026. The inner ceremony area is reserved for officials and invited guests, and the public watches from the surrounding streets and park.",
+     "[FAQ 4] Q: How do I get there with road closures? A: Roads around the monument usually close for the ceremony. Tuk-tuks, PassApp and Grab are the usual ways in, with drop-offs a few blocks from the monument and a short walk to the cordon. From Sisowath Quay on the riverside it is roughly a 20 to 25 minute walk.",
+     "[FAQ 5] Q: What else is nearby? A: The King Father Norodom Sihanouk statue is right beside the monument. The Royal Palace, Silver Pagoda, National Museum and Wat Botum are all within about a kilometre, though some often close for the holiday.",
+     "On November 9, 2026, the monument was set to host the national ceremony, followed by parades and fireworks. Its tiers carry rows of carved naga heads, and the structure stands in a traffic circle. Flag-lined boulevards radiate out from it. The day is a public holiday, so offices and many government services close.",
+     "The monument sits at the junction of Norodom Boulevard and Sihanouk Boulevard in central Phnom Penh. Road closures and security checkpoints usually surround it on Independence Day, and the last stretch is on foot.",
+     "- **Tuk-tuk or ride-hailing:** PassApp and Grab both work in Phnom Penh. Drivers usually drop passengers a few blocks out, since vehicles are turned back near the cordon.\n- **From the riverside:** Sisowath Quay is roughly a 20 to 25 minute walk, passing close to the Royal Palace.\n- **Nearby landmarks:** The bronze statue of King Father Norodom Sihanouk stands just east of the monument. The long park strip beyond it runs toward Wat Botum and gives room to stand back.",
+     "This is a state occasion first and a spectacle second. The inner circle is reserved for the royal family, officials and invited guests. Public viewing happens from the edges of the boulevards and the park.",
+     "- **Tickets:** We know of no general ticketed admission to the 2026 ceremony.\n- **Dress:** Covered shoulders and knees are the norm. The audience usually includes officials, monks and uniformed units, and modest clothing fits in.\n- **Anthem and flag:** People stand still and stay quiet during the national anthem and flag moments.\n- **Photos:** Photographing the parade is generally fine. Pointing cameras at security staff, or trying to get past barriers for a closer shot of royalty, is not.\n- **Money:** US dollars and Cambodian riel are both used for street snacks and tuk-tuks. Small notes in both currencies speed things up.",
+     "On Independence Day the ceremony and parades usually fill half a day around the monument, with the fireworks after dark. With the city on holiday, families typically fill the parks along Sihanouk Boulevard, and food carts set up wherever the crowds settle.",
+     "Sights within walking distance include:",
+     "November is the start of Cambodia's dry season, the daytime sun is strong, and there is little shade on the open boulevards. Ceremony arrangements are set by the state each year."
     ]
    }
   ]

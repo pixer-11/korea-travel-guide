@@ -978,6 +978,12 @@
   "reasonKo": "알카니스 교회탑, 스페인 건축양식 일치",
   "at": "2026-08-03T12:44:25.712Z"
  },
+ "alexandria-alexandria-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/GD-EG-Alex-Mus%C3%A9eNat040.JPG": {
+  "slug": "alexandria-alexandria-national-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade with museum sign, representative building view",
+  "at": "2026-11-10T07:46:30.884Z"
+ },
  "alexandria-bibliotheca-alexandrina\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bibliotheca_Alexandrina_20.jpg/3840px-Bibliotheca_Alexandrina_20.jpg": {
   "slug": "alexandria-bibliotheca-alexandrina",
   "verdict": "MATCH",
@@ -995,6 +1001,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Representative night view of Montaza Palace's iconic tower",
   "at": "2026-11-09T17:54:17.810Z"
+ },
+ "alexandria-serapeum-of-alexandria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG/1920px-Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG": {
+  "slug": "alexandria-serapeum-of-alexandria",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Serapeum ruins with Alexandria cityscape backdrop",
+  "at": "2026-11-10T07:46:30.805Z"
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "alicante-atp-challenger-alicante",
@@ -1549,6 +1561,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Korn performer on stage at concert event",
   "at": "2026-10-29T00:31:05.840Z"
+ },
+ "aswan-aswan-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aswan_Botanical_Garden%2C_Aswan%2C_AG%2C_EGY_%2848025604517%29.jpg/3840px-Aswan_Botanical_Garden%2C_Aswan%2C_AG%2C_EGY_%2848025604517%29.jpg": {
+  "slug": "aswan-aswan-botanical-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: River view of Nile-side gardens and trees in Aswan",
+  "at": "2026-11-10T07:58:57.758Z"
  },
  "aswan-elephantine\u0001https://upload.wikimedia.org/wikipedia/commons/0/0e/Aswan%2C_Elephantine%2C_west_bank%2C_Egypt%2C_Oct_2004.jpg": {
   "slug": "aswan-elephantine",
@@ -6228,17 +6246,35 @@
   "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
   "at": "2026-09-29T14:19:17.090Z"
  },
+ "cairo-al-azhar-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Al-Azhar_Park_Cairo_%283%29.jpg/3840px-Al-Azhar_Park_Cairo_%283%29.jpg": {
+  "slug": "cairo-al-azhar-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park greenery, water channel, plausible Al-Azhar Park scene",
+  "at": "2026-11-10T07:46:31.101Z"
+ },
  "cairo-cairo-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Youssef_Wahby_at_the_Cairo_International_Film_Festival_45th_edition.jpg": {
   "slug": "cairo-cairo-international-film-festival",
   "verdict": "MATCH",
   "reason": "event publish gate: Attendee at Cairo Film Festival event backdrop",
   "at": "2026-11-09T01:07:55.862Z"
  },
+ "cairo-cairo-tower\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Nile_and_Cairo_Tower_-_panoramio.jpg": {
+  "slug": "cairo-cairo-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Cairo Tower clearly within city skyline view",
+  "at": "2026-11-10T07:46:31.020Z"
+ },
  "cairo-coptic-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kairo_-_Altkairo_05.jpg/1920px-Kairo_-_Altkairo_05.jpg": {
   "slug": "cairo-coptic-museum",
   "verdict": "MATCH",
   "reason": "publish gate: Representative exterior facade of the Coptic Museum entrance",
   "at": "2026-11-09T17:54:17.713Z"
+ },
+ "cairo-gayer-anderson-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kairo_Gayer_Anderson_Museum_BW_3.jpg/1920px-Kairo_Gayer_Anderson_Museum_BW_3.jpg": {
+  "slug": "cairo-gayer-anderson-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: View through mashrabiya screen showing Cairo minaret, representative of museum",
+  "at": "2026-11-10T07:46:30.922Z"
  },
  "cairo-khan-el-khalili\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_1.jpg/1920px-%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_1.jpg": {
   "slug": "cairo-khan-el-khalili",
@@ -6251,6 +6287,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Authentic courtyard view of Ibn Tulun mosque",
   "at": "2026-11-09T17:54:17.434Z"
+ },
+ "cairo-saladin-citadel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_%284%29.jpg/1920px-thumbnail.jpg": {
+  "slug": "cairo-saladin-citadel",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Saladin Citadel with mosque minarets",
+  "at": "2026-11-10T07:46:31.059Z"
  },
  "cairo-the-national-museum-of-egyptian-civilization\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ancient_Egyptian_cosmetics%3B_National_Museum_of_Egyptian_Civilization%2C_Cairo_%2852087350129%29.jpg/3840px-Ancient_Egyptian_cosmetics%3B_National_Museum_of_Egyptian_Civilization%2C_Cairo_%2852087350129%29.jpg": {
   "slug": "cairo-the-national-museum-of-egyptian-civilization",
@@ -13564,11 +13606,23 @@
   "reason": "publish gate: Exterior building with venue name clearly visible, representative shot",
   "at": "2026-11-09T07:45:45.619Z"
  },
+ "hurghada-hurghada-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hurghada_Museum_building_in_September_2023.jpg/3840px-Hurghada_Museum_building_in_September_2023.jpg": {
+  "slug": "hurghada-hurghada-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance clearly showing Hurghada Museum signage",
+  "at": "2026-11-10T07:46:30.764Z"
+ },
  "hurghada-marina-el-gouna\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/New_Marina_El_Gouna_Bridge_2026.09.15.jpg": {
   "slug": "hurghada-marina-el-gouna",
   "verdict": "MATCH",
   "reason": "publish gate: Representative bridge and marina view in El Gouna",
   "at": "2026-11-09T07:45:45.339Z"
+ },
+ "hurghada-saint-shenouda-coptic-orthodox-church\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hurghada_-_panoramio_%2830%29.jpg/1920px-Hurghada_-_panoramio_%2830%29.jpg": {
+  "slug": "hurghada-saint-shenouda-coptic-orthodox-church",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Coptic church, representative hero shot",
+  "at": "2026-11-10T07:46:30.846Z"
  },
  "hyderabad-baan-phadthai\u0001https://fastly.4sqi.net/img/general/original/11209416_N9YlOQCSVjRtIFsUHYQ1pTVGzIr6KVTW-pF5nFhtj_s.jpg": {
   "slug": "hyderabad-baan-phadthai",
@@ -19825,6 +19879,12 @@
   "reason": "hand-picked: the festival crowd, 2021 — Crowd with costumes at Lucca walls, matches event",
   "at": "2026-10-09T12:43:09.233Z"
  },
+ "luxor-avenue-of-the-rams\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Karnak_Western_Processional_Way_-_Rams_avenue_-_facing_westwards.jpg/3840px-Karnak_Western_Processional_Way_-_Rams_avenue_-_facing_westwards.jpg": {
+  "slug": "luxor-avenue-of-the-rams",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows avenue lined with ram statues, matches venue",
+  "at": "2026-11-10T07:46:30.985Z"
+ },
  "luxor-karnak\u0001https://fastly.4sqi.net/img/general/original/2573088_c2HsAkK-QqlQxDBX3YXuPoY9lIA6pAkoMc2M5_t5Y6o.jpg": {
   "slug": "luxor-karnak",
   "verdict": "MATCH",
@@ -19836,6 +19896,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Classic hypostyle hall columns, representative of Karnak Temple",
   "at": "2026-11-09T17:54:17.126Z"
+ },
+ "luxor-luxor-museum\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/Luxor_Museum_1.JPG": {
+  "slug": "luxor-luxor-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Luxor Museum with statues and grounds",
+  "at": "2026-11-10T07:46:30.703Z"
  },
  "luxor-luxor-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg/1920px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg": {
   "slug": "luxor-luxor-temple",

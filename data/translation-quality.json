@@ -39884,5 +39884,89 @@
   "registerBreak": false,
   "worst": "줄을 서서 바라보는 코리엔테스 대로는 시내에서 가장 긴 대로 가운데 하나로, 도심에서 차카리타 묘지까지 곧게 뻗어 있습니다.",
   "at": "2026-11-09T18:04:33.976Z"
+ },
+ "es/alexandria-alexandria-national-museum": {
+  "hash": "46d7256ca53e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "el museo abre todos los días de 9am a 4:30pm",
+  "at": "2026-11-10T07:54:18.066Z"
+ },
+ "es/alexandria-serapeum-of-alexandria": {
+  "hash": "8b8cf14ba109",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Piense en la colina como el escenario y en el museo como el contenido.",
+  "at": "2026-11-10T07:54:18.966Z"
+ },
+ "es/cairo-al-azhar-park": {
+  "hash": "44253165f173",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las tardes del fin de semana, de 4pm a 10pm, concentran la mayor cantidad de público.",
+  "at": "2026-11-10T07:54:24.489Z"
+ },
+ "ja/alexandria-alexandria-national-museum": {
+  "hash": "c34e7746f88d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現在の開館時間は、今週は毎日午前9時〜午後4時30分です。",
+  "at": "2026-11-10T07:54:25.548Z"
+ },
+ "ja/alexandria-serapeum-of-alexandria": {
+  "hash": "13ac4ce38185",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "丘は舞台、博物館はその中身と考えるとよいでしょう。",
+  "at": "2026-11-10T07:54:30.676Z"
+ },
+ "ja/cairo-al-azhar-park": {
+  "hash": "e9d0d99770e4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "日没後まで残る理由としては、これ以上のものはないでしょう。",
+  "at": "2026-11-10T07:54:36.044Z"
+ },
+ "ko/alexandria-alexandria-national-museum": {
+  "hash": "a9f54f02d2f7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 유물보다 건물이 먼저였습니다.",
+  "at": "2026-11-10T07:54:36.931Z"
+ },
+ "ko/alexandria-serapeum-of-alexandria": {
+  "hash": "b00ad7cf472c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "언덕은 무대이고 박물관은 그 안의 내용물이라고 생각하시면 됩니다.",
+  "at": "2026-11-10T07:54:38.028Z"
+ },
+ "ko/cairo-al-azhar-park": {
+  "hash": "c5c73129c8a6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 공원은 카이로에서 리뷰가 가장 많은 명소 중 하나로, 이미 널리 알려진 곳입니다.",
+  "at": "2026-11-10T07:54:39.012Z"
+ },
+ "zh/alexandria-alexandria-national-museum": {
+  "hash": "f378378a4164",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-10T07:54:39.725Z"
+ },
+ "zh/alexandria-serapeum-of-alexandria": {
+  "hash": "249ba285a62a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "柱上的希腊文献词写得清清楚楚",
+  "at": "2026-11-10T07:54:45.809Z"
+ },
+ "zh/cairo-al-azhar-park": {
+  "hash": "a0e3a0b11abf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这座公园是开罗评价数量最多的地方之一，算不上什么秘境。",
+  "at": "2026-11-10T07:54:53.080Z"
  }
 }
