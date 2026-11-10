@@ -1,43 +1,50 @@
 ---
-title: "Great Sphinx of Giza: Travel Guide (4.7★)"
-description: "The Great Sphinx of Giza sits at the eastern foot of the Giza plateau in Al Haram, below the Pyramid of Khafre. 4.7★ (26,050 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Giza"
-category: "attraction"
-pubDate: "2026-11-09T17:54:29.534Z"
+title: 'Great Sphinx of Giza: Travel Guide (4.7★)'
+description: >-
+  The Great Sphinx of Giza sits at the eastern foot of the Giza plateau in Al
+  Haram, below the Pyramid of Khafre. 4.7★ (26,054 reviews) — what visitors say,
+  hours, and tips.
+country: Egypt
+region: Giza
+category: attraction
+pubDate: '2026-11-09T17:54:29.534Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/1920px-Sphinx_with_the_third_pyramid.jpg"
-  credit: "Photo: Hesham Ebaid / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/1920px-Sphinx_with_the_third_pyramid.jpg
+  credit: 'Photo: Hesham Ebaid / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg'
   focus:
     x: 30
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg/3840px-Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg"
-    credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Great_Sphinx_(%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg/3840px-Great_Sphinx_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Great_Sphinx_(%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84).jpg
 place:
-  id: "ChIJeamuo2JPWBQRqb1mQKbw08k"
-  name: "Great Sphinx of Giza"
-  address: "Al Haram, Giza Governorate 3512201, Egypt"
+  id: ChIJeamuo2JPWBQRqb1mQKbw08k
+  name: Great Sphinx of Giza
+  address: 'Al Haram, Giza Governorate 3512201, Egypt'
   rating: 4.7
-  userRatingsTotal: 26050
-  googleMapsUrl: "https://maps.google.com/?cid=14543232218545175977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 26054
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14543232218545175977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.9752687
   lng: 31.1375674
   openingHours:
-    - "Monday: 7:00 AM – 4:00 PM"
-    - "Tuesday: 7:00 AM – 4:00 PM"
-    - "Wednesday: 7:00 AM – 4:00 PM"
-    - "Thursday: 7:00 AM – 4:00 PM"
-    - "Friday: 7:00 AM – 4:00 PM"
-    - "Saturday: 7:00 AM – 4:00 PM"
-    - "Sunday: 7:00 AM – 4:00 PM"
+    - 'Monday: 7:00 AM – 4:00 PM'
+    - 'Tuesday: 7:00 AM – 4:00 PM'
+    - 'Wednesday: 7:00 AM – 4:00 PM'
+    - 'Thursday: 7:00 AM – 4:00 PM'
+    - 'Friday: 7:00 AM – 4:00 PM'
+    - 'Saturday: 7:00 AM – 4:00 PM'
+    - 'Sunday: 7:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,24 +61,42 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_6b383077624b516d31627152514257504a326f756d61654a496843"
+    venueId: ven_6b383077624b516d31627152514257504a326f756d61654a496843
 tags:
-  - "giza"
-  - "Great Sphinx of Giza"
-quickAnswer: "The Great Sphinx of Giza sits at the eastern foot of the Giza plateau in Al Haram, below the Pyramid of Khafre. The best time to go is 7am–9am, when it is usually quietest on both weekdays and weekends. Try not to arrive between 9am and 2pm on weekends, when crowds peak."
+  - giza
+  - Great Sphinx of Giza
+quickAnswer: >-
+  The Great Sphinx of Giza sits at the eastern foot of the Giza plateau in Al
+  Haram, below the Pyramid of Khafre. The best time to go is 7am–9am, when it is
+  usually quietest on both weekdays and weekends. Try not to arrive between 9am
+  and 2pm on weekends, when crowds peak.
 faq:
-  - q: "When is the quietest time to visit the Great Sphinx?"
-    a: "Usually 7am–9am, on weekdays and weekends alike. On weekends, avoid 9am–2pm, which is typically the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 7:00am–4:00pm daily. Giza's hours change with the season and on holidays, so check the official Egyptian monuments ticketing site before you go."
-  - q: "Which entrance is closest to the Sphinx?"
-    a: "The Sphinx gate beside Nazlet el-Samman, at the bottom of the plateau, leads almost straight into the Valley Temple of Khafre. The main gate near Mena House is up the hill by the pyramids."
-  - q: "How long should I spend at the Sphinx?"
-    a: "Allow 45 minutes to an hour for the Valley Temple and the viewing terrace. Combined with the pyramids and the Panorama viewpoint, a half day is realistic."
-  - q: "Can I get close to or touch the Sphinx?"
-    a: "No. Visitors look down on it from a terrace at the edge of its sunken enclosure, and barriers keep you away from the paws and body."
+  - q: When is the quietest time to visit the Great Sphinx?
+    a: >-
+      Usually 7am–9am, on weekdays and weekends alike. On weekends, avoid
+      9am–2pm, which is typically the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 7:00am–4:00pm daily. Giza's hours change with the
+      season and on holidays, so check the official Egyptian monuments ticketing
+      site before you go.
+  - q: Which entrance is closest to the Sphinx?
+    a: >-
+      The Sphinx gate beside Nazlet el-Samman, at the bottom of the plateau,
+      leads almost straight into the Valley Temple of Khafre. The main gate near
+      Mena House is up the hill by the pyramids.
+  - q: How long should I spend at the Sphinx?
+    a: >-
+      Allow 45 minutes to an hour for the Valley Temple and the viewing terrace.
+      Combined with the pyramids and the Panorama viewpoint, a half day is
+      realistic.
+  - q: Can I get close to or touch the Sphinx?
+    a: >-
+      No. Visitors look down on it from a terrace at the edge of its sunken
+      enclosure, and barriers keep you away from the paws and body.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 ## Carved from the plateau itself

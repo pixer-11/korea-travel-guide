@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: alexandria-alexandria-national-museum
-srcHash: 'd24499a19b67'
+srcHash: '35c55130881a'
 title: 'Museo Nacional de Alejandría: guía de viaje (4.4★)'
-description: En el barrio alejandrino de Bab Sharqi, sobre Tariq al-Horreya (calle Fouad), un palacio de estilo italiano restaurado reúne en tres plantas la historia de Egipto, desde las estatuas faraónicas hasta las monedas islámicas. Con 4.4★ (3,267 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
+description: En el barrio alejandrino de Bab Sharqi, sobre Tariq al-Horreya (calle Fouad), un palacio de estilo italiano restaurado reúne en tres plantas la historia de Egipto, desde las estatuas faraónicas hasta las monedas islámicas. Con 4.4★ (3,268 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
 quickAnswer: En Tariq al-Horreya (calle Fouad), en el barrio de Bab Sharqi, se encuentra el Museo Nacional de Alejandría. Ocupa un palacio de estilo italiano restaurado, y sus tres plantas recorren la historia de Egipto desde las estatuas faraónicas hasta las monedas islámicas. Calcule entre 1.5 y 2 horas para la visita. Entre semana, el mejor momento es de 9am a 10am. Los fines de semana, las franjas más tranquilas son de 9am a 11am y de 3pm a 4pm, y conviene evitar el intervalo de 11am a 3pm, cuando más gente hay.
 faq:
   - q: ¿Cuándo hay menos gente en el Museo Nacional de Alejandría?

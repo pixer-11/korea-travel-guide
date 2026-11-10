@@ -1,45 +1,53 @@
 ---
-title: "Al-Azhar Park: Cairo Travel Guide (4.5★)"
-description: "Al-Azhar Park sits on a hill in Cairo's Al-Darb Al-Ahmar district, with its entrance on Salah Salem Street and views across the Citadel and the minarets of Islamic Cairo. 4.5★ (41,565 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Cairo"
-category: "attraction"
-pubDate: "2026-11-10T07:46:40.077Z"
+title: 'Al-Azhar Park: Cairo Travel Guide (4.5★)'
+description: >-
+  Al-Azhar Park sits on a hill in Cairo's Al-Darb Al-Ahmar district, with its
+  entrance on Salah Salem Street and views across the Citadel and the minarets
+  of Islamic Cairo. 4.5★ (41,572 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Cairo
+category: attraction
+pubDate: '2026-11-10T07:46:40.077Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Al-Azhar_Park_Cairo_%283%29.jpg/3840px-Al-Azhar_Park_Cairo_%283%29.jpg"
-  credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Al-Azhar_Park_Cairo_(3).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Al-Azhar_Park_Cairo_%283%29.jpg/3840px-Al-Azhar_Park_Cairo_%283%29.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Al-Azhar_Park_Cairo_(3).jpg'
+  via: act
   focus:
     x: 55
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Al-Azhar_Park_Cairo_%282%29.jpg/3840px-Al-Azhar_Park_Cairo_%282%29.jpg"
-    credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Al-Azhar_Park_Cairo_(2).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Al-Azhar_Park_Cairo_%282%29.jpg/3840px-Al-Azhar_Park_Cairo_%282%29.jpg
+    credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Al-Azhar_Park_Cairo_(2).jpg'
 place:
-  id: "ChIJcdNCwlg_WBQRsqBpd7z8tbQ"
-  name: "Al-Azhar Park"
-  address: "10 Salah Salem St, El-Darb El-Ahmar, Al-Darb Al-Ahmar, Cairo Governorate 4294010, Egypt"
+  id: ChIJcdNCwlg_WBQRsqBpd7z8tbQ
+  name: Al-Azhar Park
+  address: >-
+    10 Salah Salem St, El-Darb El-Ahmar, Al-Darb Al-Ahmar, Cairo Governorate
+    4294010, Egypt
   rating: 4.5
-  userRatingsTotal: 41565
-  googleMapsUrl: "https://maps.google.com/?cid=13021591783999119538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 41572
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13021591783999119538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.041425800000003
   lng: 31.265581100000002
-  phone: "+20 2 25103868"
+  phone: +20 2 25103868
   openingHours:
-    - "Monday: 9:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-11-10
+    updated: 2026-11-10T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -60,24 +68,45 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_516274387a376470427173525142575f676c77434e64634a496843"
+    venueId: ven_516274387a376470427173525142575f676c77434e64634a496843
 tags:
-  - "cairo"
-  - "park"
-quickAnswer: "Al-Azhar Park sits on a hill in Cairo's Al-Darb Al-Ahmar district, with its entrance on Salah Salem Street and views across the Citadel and the minarets of Islamic Cairo. It's calmest between 9am and 1pm on weekdays and 9am–12pm on weekends. Try not to arrive between 4pm and 10pm on weekends, when families pack the lawns. It's currently open 9am–10pm, but check the official site before you go because park hours can change."
+  - cairo
+  - park
+quickAnswer: >-
+  Al-Azhar Park sits on a hill in Cairo's Al-Darb Al-Ahmar district, with its
+  entrance on Salah Salem Street and views across the Citadel and the minarets
+  of Islamic Cairo. It's calmest between 9am and 1pm on weekdays and 9am–12pm on
+  weekends. Try not to arrive between 4pm and 10pm on weekends, when families
+  pack the lawns. It's currently open 9am–10pm, but check the official site
+  before you go because park hours can change.
 faq:
-  - q: "When is the quietest time to visit Al-Azhar Park?"
-    a: "On weekdays it's usually quietest between 9am and 1pm. On weekends, 9am–12pm is calmest. Weekend evenings from 4pm to 10pm are the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "At the moment it's listed as open daily from 9:00am to 10:00pm. Hours can change for the season, during Ramadan and on holidays, so check the official site before you go."
-  - q: "How do I get to Al-Azhar Park?"
-    a: "Take a taxi, Uber or Careem to the entrance at 10 Salah Salem St, and ask for \"Hadiqat al-Azhar.\" No metro station is within easy walking distance."
-  - q: "How long should I spend there?"
-    a: "An hour covers a quick loop for the views. Allow two to three hours to walk the main axis, see the Ayyubid Wall, stop at a café and stay for sunset."
-  - q: "What's nearby?"
-    a: "Al-Azhar Mosque, Khan el-Khalili bazaar, Bab Zuweila and the Citadel of Saladin are all a short ride away. The Al-Darb Al-Ahmar neighbourhood, with the Blue Mosque, sits just beyond the park's western wall."
+  - q: When is the quietest time to visit Al-Azhar Park?
+    a: >-
+      On weekdays it's usually quietest between 9am and 1pm. On weekends,
+      9am–12pm is calmest. Weekend evenings from 4pm to 10pm are the busiest
+      stretch.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it's listed as open daily from 9:00am to 10:00pm. Hours can
+      change for the season, during Ramadan and on holidays, so check the
+      official site before you go.
+  - q: How do I get to Al-Azhar Park?
+    a: >-
+      Take a taxi, Uber or Careem to the entrance at 10 Salah Salem St, and ask
+      for "Hadiqat al-Azhar." No metro station is within easy walking distance.
+  - q: How long should I spend there?
+    a: >-
+      An hour covers a quick loop for the views. Allow two to three hours to
+      walk the main axis, see the Ayyubid Wall, stop at a café and stay for
+      sunset.
+  - q: What's nearby?
+    a: >-
+      Al-Azhar Mosque, Khan el-Khalili bazaar, Bab Zuweila and the Citadel of
+      Saladin are all a short ride away. The Al-Darb Al-Ahmar neighbourhood,
+      with the Blue Mosque, sits just beyond the park's western wall.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 Cairo is short on open green space, and from the top lawns of Al-Azhar Park you can see why. On one side the city spreads out in tan concrete and satellite dishes. On the other the Citadel and the pencil minarets of the Muhammad Ali Mosque stand along the skyline. Between them run clipped grass, water channels and palms, set on a hill in the middle of medieval Cairo.

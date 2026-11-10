@@ -1,40 +1,46 @@
 ---
-title: "Hurghada Museum: Travel Guide (4.4★)"
-description: "Hurghada Museum sits on El-Nasr in Hurghada. It's the resort town's antiquities museum, with artefacts from Egypt's Pharaonic through Islamic periods. 4.4★ (1,961 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Hurghada"
-category: "attraction"
-pubDate: "2026-11-10T07:46:31.744Z"
+title: 'Hurghada Museum: Travel Guide (4.4★)'
+description: >-
+  Hurghada Museum sits on El-Nasr in Hurghada. It's the resort town's
+  antiquities museum, with artefacts from Egypt's Pharaonic through Islamic
+  periods. 4.4★ (1,961 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Hurghada
+category: attraction
+pubDate: '2026-11-10T07:46:31.744Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hurghada_Museum_building_in_September_2023.jpg/3840px-Hurghada_Museum_building_in_September_2023.jpg"
-  credit: "Photo: Photographer: Mosbatho / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hurghada_Museum_building_in_September_2023.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hurghada_Museum_building_in_September_2023.jpg/3840px-Hurghada_Museum_building_in_September_2023.jpg
+  credit: 'Photo: Photographer: Mosbatho / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hurghada_Museum_building_in_September_2023.jpg
+  via: act
   focus:
     x: 60
-    y: 25
+    'y': 25
 gallery: []
 place:
-  id: "ChIJz6O44zOBUhQRC5OlEmjXFvA"
-  name: "Hurghada Museum"
-  address: "El-Nasr, Hurghada 1, Red Sea Governorate 84511, Egypt"
+  id: ChIJz6O44zOBUhQRC5OlEmjXFvA
+  name: Hurghada Museum
+  address: 'El-Nasr, Hurghada 1, Red Sea Governorate 84511, Egypt'
   rating: 4.4
-  userRatingsTotal: 1961
-  googleMapsUrl: "https://maps.google.com/?cid=17300251860579750667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1962
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17300251860579750667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.1605512
   lng: 33.8214559
   openingHours:
-    - "Monday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM"
-    - "Tuesday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM"
-    - "Wednesday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM"
-    - "Thursday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM"
-    - "Friday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM"
-    - "Saturday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM"
-    - "Sunday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM"
+    - 'Monday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 10:00 AM – 1:00 PM, 5:00 – 10:00 PM'
   busyness:
-    updated: 2026-11-10
+    updated: 2026-11-10T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -50,25 +56,40 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_417646586a6d456c4f354352516855424f7a34344f367a4a496843"
+    venueId: ven_417646586a6d456c4f354352516855424f7a34344f367a4a496843
 tags:
-  - "hurghada"
-  - "museum"
-quickAnswer: "Hurghada Museum sits on El-Nasr in Hurghada. It's the resort town's antiquities museum, with artefacts from Egypt's Pharaonic through Islamic periods. At the moment it runs two sessions a day, 10am–1pm and 5–10pm, and on weekends it's calmest from 9pm to 10pm."
+  - hurghada
+  - museum
+quickAnswer: >-
+  Hurghada Museum sits on El-Nasr in Hurghada. It's the resort town's
+  antiquities museum, with artefacts from Egypt's Pharaonic through Islamic
+  periods. At the moment it runs two sessions a day, 10am–1pm and 5–10pm, and on
+  weekends it's calmest from 9pm to 10pm.
 faq:
-  - q: "When is the quietest time to visit Hurghada Museum?"
-    a: "On weekends it's typically quietest from 9pm to 10pm. Avoid 11am–1pm and 5pm–8pm on weekends, when it usually gets busiest. There's no weekday forecast available."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens in two sessions every day, 10am–1pm and 5pm–10pm, and it's closed between 1pm and 5pm. Hours can shift with the season and on holidays, so check the official listing before you go."
-  - q: "How long should I spend there?"
-    a: "About 1–1.5 hours covers the galleries at a comfortable pace."
-  - q: "How do I get to Hurghada Museum?"
-    a: "It's on El-Nasr in Hurghada 1. Take a taxi from your hotel or use a ride-hailing app. Agree a taxi fare before you set off."
-  - q: "What is nearby?"
-    a: "El Dahar, the older downtown, and the Hurghada Marina promenade are both a short ride away. Either makes a good evening after the museum."
+  - q: When is the quietest time to visit Hurghada Museum?
+    a: >-
+      On weekends it's typically quietest from 9pm to 10pm. Avoid 11am–1pm and
+      5pm–8pm on weekends, when it usually gets busiest. There's no weekday
+      forecast available.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens in two sessions every day, 10am–1pm and 5pm–10pm,
+      and it's closed between 1pm and 5pm. Hours can shift with the season and
+      on holidays, so check the official listing before you go.
+  - q: How long should I spend there?
+    a: About 1–1.5 hours covers the galleries at a comfortable pace.
+  - q: How do I get to Hurghada Museum?
+    a: >-
+      It's on El-Nasr in Hurghada 1. Take a taxi from your hotel or use a
+      ride-hailing app. Agree a taxi fare before you set off.
+  - q: What is nearby?
+    a: >-
+      El Dahar, the older downtown, and the Hurghada Marina promenade are both a
+      short ride away. Either makes a good evening after the museum.
 aiGenerated: true
 draft: true
 heldReason: hours
+updatedDate: '2026-11-10'
 ---
 
 ## Pharaohs without the Nile Valley drive

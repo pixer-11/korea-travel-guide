@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cairo-al-azhar-park
-srcHash: '69591daf83bb'
+srcHash: '6eedb903af2f'
 title: 'Parque Al-Azhar: guía de viaje de El Cairo (4.5★)'
-description: 'En lo alto de una colina del barrio cairota de Al-Darb Al-Ahmar, con acceso por la calle Salah Salem, el Parque Al-Azhar ofrece vistas de la Ciudadela y de los minaretes del Cairo islámico. 4.5★ (41,565 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En lo alto de una colina del barrio cairota de Al-Darb Al-Ahmar, con acceso por la calle Salah Salem, el Parque Al-Azhar ofrece vistas de la Ciudadela y de los minaretes del Cairo islámico. 4.5★ (41,572 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En lo alto de una colina del barrio cairota de Al-Darb Al-Ahmar, con acceso por la calle Salah Salem, el Parque Al-Azhar ofrece vistas de la Ciudadela y de los minaretes del Cairo islámico. Entre semana, la franja más tranquila va de 9am a 1pm; los fines de semana, de 9am a 12pm. Conviene evitar la llegada entre las 4pm y las 10pm del fin de semana, cuando las familias llenan el césped. El horario actual es de 9am a 10pm, aunque los parques pueden modificarlo, así que consulte la web oficial antes de ir.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Parque Al-Azhar?

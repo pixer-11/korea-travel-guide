@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kom-ombo-kom-ombo-temple
-srcHash: '97d444abe812'
+srcHash: '691b1b786ac6'
 title: 'Templo de Kom Ombo: guía de viaje (4.7★)'
-description: 'A unos 45 km al norte de Asuán, en un meandro del Nilo, se alza el templo de Kom Ombo, el único gran templo egipcio formado por dos mitades simétricas: una consagrada a Sobek, el dios cocodrilo, y la otra a Haroeris, el dios halcón. Con una valoración de 4.7★ (6,105 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.'
+description: 'A unos 45 km al norte de Asuán, en un meandro del Nilo, se alza el templo de Kom Ombo, el único gran templo egipcio formado por dos mitades simétricas: una consagrada a Sobek, el dios cocodrilo, y la otra a Haroeris, el dios halcón. Con una valoración de 4.7★ (6,123 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.'
 quickAnswer: 'A unos 45 km al norte de Asuán, en un meandro del Nilo, se alza el templo de Kom Ombo. Es el único gran templo egipcio formado por dos mitades simétricas: una está consagrada a Sobek, el dios cocodrilo, y la otra a Haroeris, el dios halcón. Actualmente abre de 7am a 9pm. Los días laborables, los momentos más tranquilos son de 7am a 9am y de 11am a 1pm. Conviene evitar las tardes del fin de semana, de 4pm a 9pm, cuando atracan los cruceros.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el templo de Kom Ombo?

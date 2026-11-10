@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hurghada-hurghada-grand-aquarium
-srcHash: 'd2f38a35d90b'
+srcHash: 'f0bbdd0b5222'
 title: 'Gran Acuario de Hurghada (Hurghada Grand Aquarium): guía de viaje (4.1★)'
-description: 'En Villages Road, la larga franja hotelera que bordea el mar Rojo en Hurghada, el Gran Acuario reúne tanques de agua salada y dulce, un túnel submarino, una exposición sobre la vida beduina, un pequeño zoológico y un restaurante. 4.1★ (12,495 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Villages Road, la larga franja hotelera que bordea el mar Rojo en Hurghada, el Gran Acuario reúne tanques de agua salada y dulce, un túnel submarino, una exposición sobre la vida beduina, un pequeño zoológico y un restaurante. 4.1★ (12,500 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Villages Road, la larga franja hotelera que bordea el mar Rojo en Hurghada, el Gran Acuario reúne tanques de agua salada y dulce, un túnel submarino, una exposición sobre la vida beduina, un pequeño zoológico y un restaurante. Esta semana abre todos los días de 9am–6pm, aunque el horario puede variar a lo largo del año, por lo que conviene consultar la web oficial antes de ir. Calcule entre 2–3 horas de visita y procure llegar cerca de la apertura para adelantarse a los grupos que organizan los hoteles.
 faq:
   - q: ¿Dónde se encuentra el Gran Acuario de Hurghada?

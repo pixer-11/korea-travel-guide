@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: giza-the-grand-egyptian-museum
-srcHash: '35607aab9cc9'
+srcHash: 'd210f418f248'
 title: 'Gran Museo Egipcio: guía de viaje de Guiza (4.7★)'
-description: A unos 2 km de la meseta de las Pirámides, el Gran Museo Egipcio se levanta junto a la carretera desértica El Cairo–Alejandría, en Guiza. Con 4.7★ (29,634 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y algunos consejos prácticos.
+description: A unos 2 km de la meseta de las Pirámides, el Gran Museo Egipcio se levanta junto a la carretera desértica El Cairo–Alejandría, en Guiza. Con 4.7★ (29,707 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y algunos consejos prácticos.
 quickAnswer: A unos 2 km de la meseta de las Pirámides, el Gran Museo Egipcio se levanta junto a la carretera desértica El Cairo–Alejandría, en Guiza. Actualmente abre de 9am a 6pm, y los miércoles y sábados prolonga su horario hasta las 9pm. Según la previsión de BestTime, las horas más tranquilas son de 9am a 11am, además del sábado por la tarde-noche de 6pm a 9pm. Conviene evitar las tardes del fin de semana entre la 1pm y las 5pm.
 faq:
   - q: ¿Cuándo hay menos gente en el Gran Museo Egipcio?

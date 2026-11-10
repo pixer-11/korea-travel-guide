@@ -1,40 +1,48 @@
 ---
-title: "Mit Rahina Museum: Giza Travel Guide (4.5★)"
-description: "Mit Rahina Museum sits in Mit Rahinah village, Badrshein, in Giza Governorate, about 20 km south of central Cairo on the site of ancient Memphis. 4.5★ (4,615 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Giza"
-category: "hidden-gem"
-pubDate: "2026-11-09T17:54:41.921Z"
+title: 'Mit Rahina Museum: Giza Travel Guide (4.5★)'
+description: >-
+  Mit Rahina Museum sits in Mit Rahinah village, Badrshein, in Giza Governorate,
+  about 20 km south of central Cairo on the site of ancient Memphis. 4.5★ (4,617
+  reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Giza
+category: hidden-gem
+pubDate: '2026-11-09T17:54:41.921Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C3%89gypte%2C_Memphis_%28Mit_Rahina%29%2C_Mus%C3%A9e_en_plein_air%2C_Sarcophage_%2849639930396%29.jpg/3840px-%C3%89gypte%2C_Memphis_%28Mit_Rahina%29%2C_Mus%C3%A9e_en_plein_air%2C_Sarcophage_%2849639930396%29.jpg"
-  credit: "Photo: Marie Thérèse Hébert Jean Robert Thibault from Québec, / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%C3%89gypte,_Memphis_(Mit_Rahina),_Mus%C3%A9e_en_plein_air,_Sarcophage_(49639930396).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C3%89gypte%2C_Memphis_%28Mit_Rahina%29%2C_Mus%C3%A9e_en_plein_air%2C_Sarcophage_%2849639930396%29.jpg/3840px-%C3%89gypte%2C_Memphis_%28Mit_Rahina%29%2C_Mus%C3%A9e_en_plein_air%2C_Sarcophage_%2849639930396%29.jpg
+  credit: >-
+    Photo: Marie Thérèse Hébert Jean Robert Thibault from Québec, / Wikimedia
+    Commons (CC BY-SA 2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%C3%89gypte,_Memphis_(Mit_Rahina),_Mus%C3%A9e_en_plein_air,_Sarcophage_(49639930396).jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJxUNnBg9KWBQR_iz0YAOkx2g"
-  name: "Mit Rahina Museum"
-  address: "Mit Rahinah, Badrshein, Giza Governorate 3364932, Egypt"
+  id: ChIJxUNnBg9KWBQR_iz0YAOkx2g
+  name: Mit Rahina Museum
+  address: 'Mit Rahinah, Badrshein, Giza Governorate 3364932, Egypt'
   rating: 4.5
-  userRatingsTotal: 4615
-  googleMapsUrl: "https://maps.google.com/?cid=7550183634728398078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4617
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7550183634728398078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.849467599999997
   lng: 31.2543246
   openingHours:
-    - "Monday: 8:00 AM – 4:00 PM"
-    - "Tuesday: 8:00 AM – 4:00 PM"
-    - "Wednesday: 8:00 AM – 4:00 PM"
-    - "Thursday: 8:00 AM – 4:00 PM"
-    - "Friday: 8:00 AM – 4:00 PM"
-    - "Saturday: 8:00 AM – 4:00 PM"
-    - "Sunday: 8:00 AM – 4:00 PM"
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: 8:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -49,24 +57,42 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_6732786b4f4159307a695f525142574b3967426e4e55784a496843"
+    venueId: ven_6732786b4f4159307a695f525142574b3967426e4e55784a496843
 tags:
-  - "giza"
-  - "Memphis Open Air Museum"
-quickAnswer: "Mit Rahina Museum sits in Mit Rahinah village, Badrshein, in Giza Governorate, about 20 km south of central Cairo on the site of ancient Memphis. Come for the fallen colossus of Ramesses II and the calcite sphinx, allow about an hour, and arrive between 8am and 10am, when it's usually quietest. Pair it with Saqqara, a short drive west."
+  - giza
+  - Memphis Open Air Museum
+quickAnswer: >-
+  Mit Rahina Museum sits in Mit Rahinah village, Badrshein, in Giza Governorate,
+  about 20 km south of central Cairo on the site of ancient Memphis. Come for
+  the fallen colossus of Ramesses II and the calcite sphinx, allow about an
+  hour, and arrive between 8am and 10am, when it's usually quietest. Pair it
+  with Saqqara, a short drive west.
 faq:
-  - q: "When is the quietest time to visit Mit Rahina Museum?"
-    a: "It's typically quietest from 8am to 10am on both weekdays and weekends. Avoid weekends between 11am and 3pm, the busiest stretch."
-  - q: "How do I get to Mit Rahina from Cairo or Giza?"
-    a: "There is no metro. Take a taxi, ride-hailing car or hired driver to Mit Rahinah village in Badrshein, about 20 km south of central Cairo. Most people combine it with Saqqara and Dahshur."
-  - q: "How long do I need at the museum?"
-    a: "About 45 minutes to an hour covers the Ramesses II colossus hall and the outdoor garden with the calcite sphinx."
-  - q: "What are the opening hours?"
-    a: "Currently 8am–4pm daily. Hours can change with the season and holidays, so confirm on the Ministry of Tourism and Antiquities site before you go."
-  - q: "What is nearby?"
-    a: "Saqqara, with the Step Pyramid of Djoser, is a few kilometres west. Dahshur's Bent and Red Pyramids are further south and fit the same day trip."
+  - q: When is the quietest time to visit Mit Rahina Museum?
+    a: >-
+      It's typically quietest from 8am to 10am on both weekdays and weekends.
+      Avoid weekends between 11am and 3pm, the busiest stretch.
+  - q: How do I get to Mit Rahina from Cairo or Giza?
+    a: >-
+      There is no metro. Take a taxi, ride-hailing car or hired driver to Mit
+      Rahinah village in Badrshein, about 20 km south of central Cairo. Most
+      people combine it with Saqqara and Dahshur.
+  - q: How long do I need at the museum?
+    a: >-
+      About 45 minutes to an hour covers the Ramesses II colossus hall and the
+      outdoor garden with the calcite sphinx.
+  - q: What are the opening hours?
+    a: >-
+      Currently 8am–4pm daily. Hours can change with the season and holidays, so
+      confirm on the Ministry of Tourism and Antiquities site before you go.
+  - q: What is nearby?
+    a: >-
+      Saqqara, with the Step Pyramid of Djoser, is a few kilometres west.
+      Dahshur's Bent and Red Pyramids are further south and fit the same day
+      trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 ## What's left of Memphis

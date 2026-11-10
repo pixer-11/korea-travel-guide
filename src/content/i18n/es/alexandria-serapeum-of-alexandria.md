@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: alexandria-serapeum-of-alexandria
-srcHash: '309dfac45630'
+srcHash: 'e87857eea180'
 title: 'Serapeo de Alejandría: guía de viaje (4.3★)'
-description: En lo alto de una colina baja del barrio de Karmouz se alza el Serapeo de Alejandría, coronado por la Columna de Pompeyo, un monolito romano de granito rojo rodeado de esfinges y de galerías subterráneas del antiguo templo. Con 4.3★ (8,772 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: En lo alto de una colina baja del barrio de Karmouz se alza el Serapeo de Alejandría, coronado por la Columna de Pompeyo, un monolito romano de granito rojo rodeado de esfinges y de galerías subterráneas del antiguo templo. Con 4.3★ (8,775 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En lo alto de una colina baja del barrio de Karmouz se alza el Serapeo de Alejandría, coronado por la Columna de Pompeyo, un monolito romano de granito rojo rodeado de esfinges y de galerías subterráneas del antiguo templo. Reserve entre 45 minutos y una hora para la visita. Si llega hacia las 9am, cuando abren, encontrará una luz más suave y la piedra todavía fresca. Las Catacumbas de Kom el Shoqafa quedan a pocos pasos, así que conviene combinar ambas visitas. El horario actual es de 9am–5pm, aunque varía a lo largo del año, por lo que le recomendamos consultar la web oficial antes de ir.
 faq:
   - q: ¿Cuánto tiempo necesito para visitar el Serapeo de Alejandría?

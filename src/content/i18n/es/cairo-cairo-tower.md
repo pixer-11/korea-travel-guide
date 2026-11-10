@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cairo-cairo-tower
-srcHash: 'a59e8ac62bbc'
+srcHash: '2a870cff248c'
 title: 'Torre de El Cairo: guía de viaje (4.3★)'
-description: En la isla de Gezira, dentro del barrio de Zamalek, se alza la Torre de El Cairo, a pocos pasos de la estación de metro Ópera (Opera, Línea 2). Con una valoración de 4.3★ (30,763 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
+description: En la isla de Gezira, dentro del barrio de Zamalek, se alza la Torre de El Cairo, a pocos pasos de la estación de metro Ópera (Opera, Línea 2). Con una valoración de 4.3★ (30,762 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
 quickAnswer: A pocos pasos de la estación de metro Ópera (Opera, Línea 2) se alza la Torre de El Cairo, en la isla de Gezira, dentro del barrio de Zamalek. En lo alto cuenta con un mirador al aire libre y un restaurante giratorio desde los que se domina el Nilo. La cola del ascensor es más corta entre semana de 9am a 11am y los fines de semana de 9am–12pm. Conviene evitar los fines de semana de 4pm–11pm, cuando se registra la mayor afluencia.
 faq:
   - q: ¿Cómo se llega en metro a la Torre de El Cairo?

@@ -1,44 +1,52 @@
 ---
-title: "Saladin Citadel: Cairo Travel Guide (4.6★)"
-description: "Saladin Citadel sits on a spur of the Muqattam Hills in Cairo's El Khalifa district, above Islamic Cairo. It currently opens 8am–5pm. 4.6★ (37,076 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Cairo"
-category: "attraction"
-pubDate: "2026-11-10T07:46:39.042Z"
+title: 'Saladin Citadel: Cairo Travel Guide (4.6★)'
+description: >-
+  Saladin Citadel sits on a spur of the Muqattam Hills in Cairo's El Khalifa
+  district, above Islamic Cairo. It currently opens 8am–5pm. 4.6★ (37,092
+  reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Cairo
+category: attraction
+pubDate: '2026-11-10T07:46:39.042Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_%284%29.jpg/1920px-thumbnail.jpg"
-  credit: "Photo: Ahmed Al.Badawy from Cairo, Egypt / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_%284%29.jpg/1920px-thumbnail.jpg
+  credit: 'Photo: Ahmed Al.Badawy from Cairo, Egypt / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg
   focus:
     x: 35
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bab_al-Azab%2C_Gate_to_Selah-Al-Din_%28Saladin%29_Citadel%2C_Cairo_%289808278633%29.jpg"
-    credit: "Photo: Gary Todd from Xinzheng, China / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bab_al-Azab,_Gate_to_Selah-Al-Din_(Saladin)_Citadel,_Cairo_(9808278633).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/e/eb/Bab_al-Azab%2C_Gate_to_Selah-Al-Din_%28Saladin%29_Citadel%2C_Cairo_%289808278633%29.jpg
+    credit: 'Photo: Gary Todd from Xinzheng, China / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bab_al-Azab,_Gate_to_Selah-Al-Din_(Saladin)_Citadel,_Cairo_(9808278633).jpg
 place:
-  id: "ChIJY-3CkKxAWBQRby736eSW2y8"
-  name: "Saladin Citadel"
-  address: "Al Abageyah, El Khalifa, Cairo Governorate 4252360, Egypt"
+  id: ChIJY-3CkKxAWBQRby736eSW2y8
+  name: Saladin Citadel
+  address: 'Al Abageyah, El Khalifa, Cairo Governorate 4252360, Egypt'
   rating: 4.6
-  userRatingsTotal: 37076
-  googleMapsUrl: "https://maps.google.com/?cid=3448515849604247151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 37092
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3448515849604247151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.028745699999998
   lng: 31.2597144
-  phone: "+20 2 25121735"
+  phone: +20 2 25121735
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-10
+    updated: 2026-11-10T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 16
@@ -51,24 +59,45 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_38793257536536333779625251425741784b6b43332d594a496843"
+    venueId: ven_38793257536536333779625251425741784b6b43332d594a496843
 tags:
-  - "cairo"
-  - "historic site"
-quickAnswer: "Saladin Citadel sits on a spur of the Muqattam Hills in Cairo's El Khalifa district, above Islamic Cairo. It currently opens 8am–5pm. The quietest times are usually 8am–9am and 4pm–5pm, and weekends between 10am and 3pm are the hours to avoid. Plan on 2–3 hours for the Muhammad Ali Mosque, the older mosques and the western ramparts."
+  - cairo
+  - historic site
+quickAnswer: >-
+  Saladin Citadel sits on a spur of the Muqattam Hills in Cairo's El Khalifa
+  district, above Islamic Cairo. It currently opens 8am–5pm. The quietest times
+  are usually 8am–9am and 4pm–5pm, and weekends between 10am and 3pm are the
+  hours to avoid. Plan on 2–3 hours for the Muhammad Ali Mosque, the older
+  mosques and the western ramparts.
 faq:
-  - q: "When is the quietest time to visit Saladin Citadel?"
-    a: "The quietest hours are usually 8am–9am and 4pm–5pm, on weekdays and weekends alike. Try not to arrive between 10am and 3pm on weekends, when the crowds are at their peak."
-  - q: "How long should I spend at the Citadel?"
-    a: "Allow 2–3 hours. That covers the Muhammad Ali Mosque, the mosques of al-Nasir Muhammad and Suleyman Pasha, the western terrace view and a quick look at one museum."
-  - q: "How do I get to Saladin Citadel?"
-    a: "Take a taxi, Uber or Careem and ask for the visitor entrance on Salah Salem Road. No metro station is within easy walking distance, and the walk up from Islamic Cairo climbs along busy roads."
-  - q: "What should I wear to the Citadel's mosques?"
-    a: "Cover your shoulders and knees, and remove your shoes at the mosque doors. Women should bring a scarf to cover their hair, although loaners are sometimes available at the entrance."
-  - q: "Can you see the pyramids from the Citadel?"
-    a: "On clear days the Giza pyramids are faintly visible from the western terrace beside the Muhammad Ali Mosque. Cairo's haze often hides them, so don't count on it."
+  - q: When is the quietest time to visit Saladin Citadel?
+    a: >-
+      The quietest hours are usually 8am–9am and 4pm–5pm, on weekdays and
+      weekends alike. Try not to arrive between 10am and 3pm on weekends, when
+      the crowds are at their peak.
+  - q: How long should I spend at the Citadel?
+    a: >-
+      Allow 2–3 hours. That covers the Muhammad Ali Mosque, the mosques of
+      al-Nasir Muhammad and Suleyman Pasha, the western terrace view and a quick
+      look at one museum.
+  - q: How do I get to Saladin Citadel?
+    a: >-
+      Take a taxi, Uber or Careem and ask for the visitor entrance on Salah
+      Salem Road. No metro station is within easy walking distance, and the walk
+      up from Islamic Cairo climbs along busy roads.
+  - q: What should I wear to the Citadel's mosques?
+    a: >-
+      Cover your shoulders and knees, and remove your shoes at the mosque doors.
+      Women should bring a scarf to cover their hair, although loaners are
+      sometimes available at the entrance.
+  - q: Can you see the pyramids from the Citadel?
+    a: >-
+      On clear days the Giza pyramids are faintly visible from the western
+      terrace beside the Muhammad Ali Mosque. Cairo's haze often hides them, so
+      don't count on it.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 ## A fortress built to watch for Crusaders

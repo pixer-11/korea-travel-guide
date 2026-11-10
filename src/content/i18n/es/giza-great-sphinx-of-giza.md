@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: giza-great-sphinx-of-giza
-srcHash: 'f570e1857d95'
+srcHash: 'bebdcb3d2e3a'
 title: 'Gran Esfinge de Guiza: guía de viaje (4.7★)'
-description: 'Al pie oriental de la meseta de Guiza, en Al Haram, y bajo la pirámide de Kefrén se alza la Gran Esfinge. 4.7★ (26,050 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Al pie oriental de la meseta de Guiza, en Al Haram, y bajo la pirámide de Kefrén se alza la Gran Esfinge. 4.7★ (26,054 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Gran Esfinge de Guiza se encuentra al pie oriental de la meseta de Guiza, en Al Haram, justo debajo de la pirámide de Kefrén. Lo ideal es visitarla entre las 7am y las 9am, la franja que suele ser más tranquila tanto entre semana como en fin de semana. En fin de semana conviene no llegar entre las 9am y las 2pm, cuando se concentra la mayor afluencia.
 faq:
   - q: ¿Cuándo hay menos gente en la Gran Esfinge?

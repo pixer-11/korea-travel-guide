@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: giza-mit-rahina-museum
-srcHash: '1118f3f1f22e'
+srcHash: '520d26e3adfb'
 title: 'Museo de Mit Rahina: guía de viaje de Guiza (4.5★)'
-description: El Museo de Mit Rahina se encuentra en la aldea de Mit Rahinah, en Badrshein (gobernación de Guiza), a unos 20 km al sur del centro de El Cairo, sobre el emplazamiento de la antigua Menfis. Con una valoración de 4.5★ (4,615 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: El Museo de Mit Rahina se encuentra en la aldea de Mit Rahinah, en Badrshein (gobernación de Guiza), a unos 20 km al sur del centro de El Cairo, sobre el emplazamiento de la antigua Menfis. Con una valoración de 4.5★ (4,617 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En la aldea de Mit Rahinah, dentro del distrito de Badrshein (gobernación de Guiza), se alza el Museo de Mit Rahina, a unos 20 km al sur del centro de El Cairo y sobre lo que fue la antigua Menfis. Sus grandes atractivos son el coloso yacente de Ramsés II y la esfinge de calcita. Calcule alrededor de una hora de visita y procure llegar entre las 8am y las 10am, la franja en la que suele haber menos gente. Se combina bien con Saqqara, situada a poca distancia en coche hacia el oeste.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Mit Rahina?

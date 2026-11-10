@@ -1,41 +1,49 @@
 ---
-title: "The Grand Egyptian Museum: Giza Travel Guide (4.7★)"
-description: "The Grand Egyptian Museum sits on the Cairo–Alexandria Desert Road in Giza, about 2 km from the Pyramids plateau. 4.7★ (29,634 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Giza"
-category: "attraction"
-pubDate: "2026-11-09T17:54:38.831Z"
+title: 'The Grand Egyptian Museum: Giza Travel Guide (4.7★)'
+description: >-
+  The Grand Egyptian Museum sits on the Cairo–Alexandria Desert Road in Giza,
+  about 2 km from the Pyramids plateau. 4.7★ (29,707 reviews) — what visitors
+  say, hours, and tips.
+country: Egypt
+region: Giza
+category: attraction
+pubDate: '2026-11-09T17:54:38.831Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg/3840px-View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg"
-  credit: "Photo: Caoimheen3 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg/3840px-View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg
+  credit: 'Photo: Caoimheen3 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:View_of_Pyramids_of_Giza_from_Grand_Egyptian_Museum.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ0YpKmDRFWBQRGibsxFtMdkU"
-  name: "The Grand Egyptian Museum"
-  address: "X4VF+V38, Cairo - Alexandria Desert Rd, Kafr Nassar, Al Haram, Giza Governorate 3513203, Egypt"
+  id: ChIJ0YpKmDRFWBQRGibsxFtMdkU
+  name: The Grand Egyptian Museum
+  address: >-
+    X4VF+V38, Cairo - Alexandria Desert Rd, Kafr Nassar, Al Haram, Giza
+    Governorate 3513203, Egypt
   rating: 4.7
-  userRatingsTotal: 29634
-  googleMapsUrl: "https://maps.google.com/?cid=5005271992898430490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 29707
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5005271992898430490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.993198599999996
   lng: 31.124440900000003
-  phone: "+20 2 35317344"
+  phone: +20 2 35317344
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 9:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 9:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 9:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -55,24 +63,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_556b644d74467873626947525142574652446d4b7059304a496843"
+    venueId: ven_556b644d74467873626947525142574652446d4b7059304a496843
 tags:
-  - "giza"
-  - "Grand Egyptian Museum"
-quickAnswer: "The Grand Egyptian Museum sits on the Cairo–Alexandria Desert Road in Giza, about 2 km from the Pyramids plateau. It currently opens 9am–6pm, staying open until 9pm on Wednesdays and Saturdays. BestTime's forecast says the calmest windows are 9am–11am, plus Saturday evening from 6pm–9pm, so avoid weekend afternoons between 1pm and 5pm."
+  - giza
+  - Grand Egyptian Museum
+quickAnswer: >-
+  The Grand Egyptian Museum sits on the Cairo–Alexandria Desert Road in Giza,
+  about 2 km from the Pyramids plateau. It currently opens 9am–6pm, staying open
+  until 9pm on Wednesdays and Saturdays. BestTime's forecast says the calmest
+  windows are 9am–11am, plus Saturday evening from 6pm–9pm, so avoid weekend
+  afternoons between 1pm and 5pm.
 faq:
-  - q: "When is the quietest time to visit the Grand Egyptian Museum?"
-    a: "BestTime's forecast shows 9am–11am as the calmest window every day. On Wednesdays, 6pm–7pm is also quiet, and on Saturdays 6pm–9pm is quiet. Avoid weekend afternoons between 1pm and 5pm, which are the busiest."
-  - q: "What are the opening hours?"
-    a: "At the moment the museum opens 9am–6pm, and until 9pm on Wednesdays and Saturdays. Hours can change by season and around holidays, so check the official website before you go."
-  - q: "How do I get to the Grand Egyptian Museum?"
-    a: "It's on the Cairo–Alexandria Desert Road in Giza, about 2 km from the Pyramids plateau. Taxis and ride-hailing apps like Uber and Careem are the simplest options from central Cairo. Allow extra time for traffic."
-  - q: "How long should I spend there?"
-    a: "Allow at least half a day. If you want to see the Tutankhamun galleries, the Grand Staircase and several of the period galleries properly, a full day isn't too much."
-  - q: "Can I visit the pyramids on the same day?"
-    a: "Yes. The plateau is a short drive away. Visit the pyramids early while it's cooler, then spend the afternoon or a Wednesday or Saturday evening at the museum."
+  - q: When is the quietest time to visit the Grand Egyptian Museum?
+    a: >-
+      BestTime's forecast shows 9am–11am as the calmest window every day. On
+      Wednesdays, 6pm–7pm is also quiet, and on Saturdays 6pm–9pm is quiet.
+      Avoid weekend afternoons between 1pm and 5pm, which are the busiest.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the museum opens 9am–6pm, and until 9pm on Wednesdays and
+      Saturdays. Hours can change by season and around holidays, so check the
+      official website before you go.
+  - q: How do I get to the Grand Egyptian Museum?
+    a: >-
+      It's on the Cairo–Alexandria Desert Road in Giza, about 2 km from the
+      Pyramids plateau. Taxis and ride-hailing apps like Uber and Careem are the
+      simplest options from central Cairo. Allow extra time for traffic.
+  - q: How long should I spend there?
+    a: >-
+      Allow at least half a day. If you want to see the Tutankhamun galleries,
+      the Grand Staircase and several of the period galleries properly, a full
+      day isn't too much.
+  - q: Can I visit the pyramids on the same day?
+    a: >-
+      Yes. The plateau is a short drive away. Visit the pyramids early while
+      it's cooler, then spend the afternoon or a Wednesday or Saturday evening
+      at the museum.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 From the forecourt you can see the Pyramids of Giza over the museum's roofline. That view explains the whole project. The Grand Egyptian Museum was built on the edge of the desert plateau so the collection could sit within sight of the monuments it came from. The building is a huge wedge of glass and pale stone, and it angles itself toward Khufu's pyramid.

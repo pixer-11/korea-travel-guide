@@ -1,40 +1,49 @@
 ---
-title: "Kom Ombo Temple: Travel Guide (4.7★)"
-description: "Kom Ombo Temple sits on a bend of the Nile at Kom Ombo, about 45km north of Aswan, and it is the only major Egyptian temple built as two mirrored halves, one for the crocodile god Sobek and one for the falcon god Haroeris. 4.7★ (6,105 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Kom Ombo"
-category: "hidden-gem"
-pubDate: "2026-11-09T07:45:48.453Z"
+title: 'Kom Ombo Temple: Travel Guide (4.7★)'
+description: >-
+  Kom Ombo Temple sits on a bend of the Nile at Kom Ombo, about 45km north of
+  Aswan, and it is the only major Egyptian temple built as two mirrored halves,
+  one for the crocodile god Sobek and one for the falcon god Haroeris. 4.7★
+  (6,123 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Kom Ombo
+category: hidden-gem
+pubDate: '2026-11-09T07:45:48.453Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg/3840px-Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg"
-  credit: "Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kom_Ombo_Temple,_Kom_Ombo,_AG,_EGY_(48005076093).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg/3840px-Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg
+  credit: >-
+    Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons
+    (CC0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kom_Ombo_Temple,_Kom_Ombo,_AG,_EGY_(48005076093).jpg
+  via: act
   focus:
     x: 40
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJpdcaWLEPNhQR_CT0Asrvvzw"
-  name: "Kom Ombo Temple"
-  address: "Nagoa Ash Shatb, Markaz Kom Ombo, Aswan Governorate 1281301, Egypt"
+  id: ChIJpdcaWLEPNhQR_CT0Asrvvzw
+  name: Kom Ombo Temple
+  address: 'Nagoa Ash Shatb, Markaz Kom Ombo, Aswan Governorate 1281301, Egypt'
   rating: 4.7
-  userRatingsTotal: 6105
-  googleMapsUrl: "https://maps.google.com/?cid=4377481013739398396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6123
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4377481013739398396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.452133200000002
   lng: 32.9284319
   openingHours:
-    - "Monday: 7:00 AM – 9:00 PM"
-    - "Tuesday: 7:00 AM – 9:00 PM"
-    - "Wednesday: 7:00 AM – 9:00 PM"
-    - "Thursday: 7:00 AM – 9:00 PM"
-    - "Friday: 7:00 AM – 9:00 PM"
-    - "Saturday: 7:00 AM – 9:00 PM"
-    - "Sunday: 7:00 AM – 9:00 PM"
+    - 'Monday: 7:00 AM – 9:00 PM'
+    - 'Tuesday: 7:00 AM – 9:00 PM'
+    - 'Wednesday: 7:00 AM – 9:00 PM'
+    - 'Thursday: 7:00 AM – 9:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -66,24 +75,44 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_777a76767273413054435f5251684e50454c57616364704a496843"
+    venueId: ven_777a76767273413054435f5251684e50454c57616364704a496843
 tags:
-  - "kom ombo"
-  - "hidden gem"
-quickAnswer: "Kom Ombo Temple sits on a bend of the Nile at Kom Ombo, about 45km north of Aswan, and it is the only major Egyptian temple built as two mirrored halves, one for the crocodile god Sobek and one for the falcon god Haroeris. At the moment it opens 7am–9pm. It's calmest 7am–9am and 11am–1pm on weekdays, so avoid weekend evenings from 4pm–9pm, when the cruise boats are in."
+  - kom ombo
+  - hidden gem
+quickAnswer: >-
+  Kom Ombo Temple sits on a bend of the Nile at Kom Ombo, about 45km north of
+  Aswan, and it is the only major Egyptian temple built as two mirrored halves,
+  one for the crocodile god Sobek and one for the falcon god Haroeris. At the
+  moment it opens 7am–9pm. It's calmest 7am–9am and 11am–1pm on weekdays, so
+  avoid weekend evenings from 4pm–9pm, when the cruise boats are in.
 faq:
-  - q: "When is the quietest time to visit Kom Ombo Temple?"
-    a: "On weekdays it's typically calmest 7am–9am and 11am–1pm. At weekends it stays quiet from 7am–4pm, then gets busiest from 4pm–9pm as cruise groups arrive."
-  - q: "How long do I need at Kom Ombo Temple?"
-    a: "Allow 1–1.5 hours for the double temple, the Nilometer and the Crocodile Museum next door. Give it longer if you want to study the reliefs closely."
-  - q: "How do I get to Kom Ombo Temple from Aswan?"
-    a: "It's about 45km north of Aswan, roughly an hour by car or taxi. Most visitors arrive by Nile cruise, which docks right below the temple, or on a road trip combined with Edfu."
-  - q: "Can I visit Kom Ombo Temple at night?"
-    a: "At the moment it opens until 9pm and is floodlit after dark. Hours change through the year, so confirm on the official antiquities site before you plan an evening visit."
-  - q: "What is the temple famous for?"
-    a: "It's a symmetrical double temple dedicated to Sobek and Haroeris. It's known for the relief often read as surgical instruments, its Nilometer, and the mummified sacred crocodiles in the adjoining museum."
+  - q: When is the quietest time to visit Kom Ombo Temple?
+    a: >-
+      On weekdays it's typically calmest 7am–9am and 11am–1pm. At weekends it
+      stays quiet from 7am–4pm, then gets busiest from 4pm–9pm as cruise groups
+      arrive.
+  - q: How long do I need at Kom Ombo Temple?
+    a: >-
+      Allow 1–1.5 hours for the double temple, the Nilometer and the Crocodile
+      Museum next door. Give it longer if you want to study the reliefs closely.
+  - q: How do I get to Kom Ombo Temple from Aswan?
+    a: >-
+      It's about 45km north of Aswan, roughly an hour by car or taxi. Most
+      visitors arrive by Nile cruise, which docks right below the temple, or on
+      a road trip combined with Edfu.
+  - q: Can I visit Kom Ombo Temple at night?
+    a: >-
+      At the moment it opens until 9pm and is floodlit after dark. Hours change
+      through the year, so confirm on the official antiquities site before you
+      plan an evening visit.
+  - q: What is the temple famous for?
+    a: >-
+      It's a symmetrical double temple dedicated to Sobek and Haroeris. It's
+      known for the relief often read as surgical instruments, its Nilometer,
+      and the mummified sacred crocodiles in the adjoining museum.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 ## Two temples under one roof

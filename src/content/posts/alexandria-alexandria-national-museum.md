@@ -1,40 +1,48 @@
 ---
-title: "Alexandria National Museum: Travel Guide (4.4★)"
-description: "The Alexandria National Museum sits on Tariq al-Horreya (Fouad Street) in Alexandria's Bab Sharqi district, in a restored Italianate palace with three floors of Egyptian history, from Pharaonic statues to Islamic coins. 4.4★ (3,267 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Alexandria"
-category: "attraction"
-pubDate: "2026-11-10T07:46:34.864Z"
+title: 'Alexandria National Museum: Travel Guide (4.4★)'
+description: >-
+  The Alexandria National Museum sits on Tariq al-Horreya (Fouad Street) in
+  Alexandria's Bab Sharqi district, in a restored Italianate palace with three
+  floors of Egyptian history, from Pharaonic statues to Islamic coins. 4.4★
+  (3,268 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Alexandria
+category: attraction
+pubDate: '2026-11-10T07:46:34.864Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/da/GD-EG-Alex-Mus%C3%A9eNat040.JPG"
-  credit: "Photo: Néfermaât / Wikimedia Commons (CC BY-SA 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:GD-EG-Alex-Mus%C3%A9eNat040.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/da/GD-EG-Alex-Mus%C3%A9eNat040.JPG
+  credit: 'Photo: Néfermaât / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:GD-EG-Alex-Mus%C3%A9eNat040.JPG'
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJXQFL_Y7D9RQRmwOz6ziv66I"
-  name: "Alexandria National Museum"
-  address: "131 El-Shaheed Galal El-Desouky, باب شرقي ووابور المياه، باب شرق، محافظة الإسكندرية 5423004, Egypt"
+  id: ChIJXQFL_Y7D9RQRmwOz6ziv66I
+  name: Alexandria National Museum
+  address: >-
+    131 El-Shaheed Galal El-Desouky, باب شرقي ووابور المياه، باب شرق، محافظة
+    الإسكندرية 5423004, Egypt
   rating: 4.4
-  userRatingsTotal: 3267
-  googleMapsUrl: "https://maps.google.com/?cid=11739669512678736795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3268
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11739669512678736795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.2007415
   lng: 29.913197699999998
-  phone: "+20 3 4835519"
+  phone: +20 3 4835519
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-11-10
+    updated: 2026-11-10T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -52,24 +60,45 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_49363676697a367a4f776d525152394437595f4c4651584a496843"
+    venueId: ven_49363676697a367a4f776d525152394437595f4c4651584a496843
 tags:
-  - "alexandria"
-  - "museum"
-quickAnswer: "The Alexandria National Museum sits on Tariq al-Horreya (Fouad Street) in Alexandria's Bab Sharqi district, in a restored Italianate palace with three floors of Egyptian history, from Pharaonic statues to Islamic coins. Allow 1.5–2 hours. Go between 9am and 10am on weekdays, or 9am–11am and 3pm–4pm at weekends, and skip 11am–3pm on weekends, when it is busiest."
+  - alexandria
+  - museum
+quickAnswer: >-
+  The Alexandria National Museum sits on Tariq al-Horreya (Fouad Street) in
+  Alexandria's Bab Sharqi district, in a restored Italianate palace with three
+  floors of Egyptian history, from Pharaonic statues to Islamic coins. Allow
+  1.5–2 hours. Go between 9am and 10am on weekdays, or 9am–11am and 3pm–4pm at
+  weekends, and skip 11am–3pm on weekends, when it is busiest.
 faq:
-  - q: "When is the quietest time to visit the Alexandria National Museum?"
-    a: "On weekdays it is usually calmest from 9am to 10am. At weekends the quiet windows are 9am–11am and 3pm–4pm. Weekends from 11am to 3pm are the busiest time, so avoid them if you can."
-  - q: "How long should I spend there?"
-    a: "Allow 1.5 to 2 hours for all three floors. That covers the Pharaonic basement, the Graeco-Roman ground floor and the Coptic, Islamic and modern rooms upstairs."
-  - q: "What are the opening hours?"
-    a: "At the moment it is open 9am–4:30pm every day of the week. Hours can change around holidays and Ramadan, so check the Ministry of Tourism and Antiquities listing before you go."
-  - q: "How do I get to the museum?"
-    a: "A taxi or ride-hailing app is easiest. Ask for the National Museum on Tariq al-Horreya (Fouad Street), at 131 El-Shaheed Galal El-Desouky in Bab Sharqi, central Alexandria."
-  - q: "What else is nearby?"
-    a: "The Roman theatre at Kom el-Dikka is a short walk away. The Bibliotheca Alexandrina and the Corniche are a short taxi ride north, and Raml Station's old cafés are close enough for lunch."
+  - q: When is the quietest time to visit the Alexandria National Museum?
+    a: >-
+      On weekdays it is usually calmest from 9am to 10am. At weekends the quiet
+      windows are 9am–11am and 3pm–4pm. Weekends from 11am to 3pm are the
+      busiest time, so avoid them if you can.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1.5 to 2 hours for all three floors. That covers the Pharaonic
+      basement, the Graeco-Roman ground floor and the Coptic, Islamic and modern
+      rooms upstairs.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it is open 9am–4:30pm every day of the week. Hours can
+      change around holidays and Ramadan, so check the Ministry of Tourism and
+      Antiquities listing before you go.
+  - q: How do I get to the museum?
+    a: >-
+      A taxi or ride-hailing app is easiest. Ask for the National Museum on
+      Tariq al-Horreya (Fouad Street), at 131 El-Shaheed Galal El-Desouky in Bab
+      Sharqi, central Alexandria.
+  - q: What else is nearby?
+    a: >-
+      The Roman theatre at Kom el-Dikka is a short walk away. The Bibliotheca
+      Alexandrina and the Corniche are a short taxi ride north, and Raml
+      Station's old cafés are close enough for lunch.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 ## A palace you read from the bottom up

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: giza-red-pyramid
-srcHash: '5e4e1325f237'
+srcHash: '8ccad2d157b6'
 title: 'Pirámide Roja: guía de viaje de Guiza (4.8★)'
-description: 'En Dahshur, dentro de la gobernación de Guiza y a unos 40 km al sur del centro de El Cairo, se alza la Pirámide Roja, cuyo interior puede recorrerse a pie hasta las cámaras funerarias con bóveda en saledizo. 4.8★ (2,701 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Dahshur, dentro de la gobernación de Guiza y a unos 40 km al sur del centro de El Cairo, se alza la Pirámide Roja, cuyo interior puede recorrerse a pie hasta las cámaras funerarias con bóveda en saledizo. 4.8★ (2,702 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Dahshur, dentro de la gobernación de Guiza y a unos 40 km al sur del centro de El Cairo, se alza la Pirámide Roja. Es posible bajar a pie por su interior hasta las cámaras funerarias con bóveda en saledizo. Actualmente abre de 9am–5pm. La franja más tranquila suele ser de 3pm a 5pm, y conviene evitar el horario de 10am–1pm durante los fines de semana.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Pirámide Roja?

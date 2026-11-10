@@ -1,59 +1,91 @@
 ---
-title: "Serapeum of Alexandria: Travel Guide (4.3★)"
-description: "The Serapeum of Alexandria sits on a low hill in the Karmouz district, crowned by Pompey's Pillar, a single red-granite Roman column with sphinxes and underground temple galleries around it. 4.3★ (8,772 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Alexandria"
-category: "attraction"
-pubDate: "2026-11-10T07:46:32.785Z"
+title: 'Serapeum of Alexandria: Travel Guide (4.3★)'
+description: >-
+  The Serapeum of Alexandria sits on a low hill in the Karmouz district, crowned
+  by Pompey's Pillar, a single red-granite Roman column with sphinxes and
+  underground temple galleries around it. 4.3★ (8,775 reviews) — what visitors
+  say, hours, and tips.
+country: Egypt
+region: Alexandria
+category: attraction
+pubDate: '2026-11-10T07:46:32.785Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG/1920px-Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG"
-  credit: "Photo: Daniel Mayer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG/1920px-Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG
+  credit: 'Photo: Daniel Mayer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/de/The_Serapeum_of_Alexandria_%28I%29.jpg"
-    credit: "Photo: Institute for the Study of the Ancient World / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Serapeum_of_Alexandria_(I).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/de/The_Serapeum_of_Alexandria_%28I%29.jpg
+    credit: >-
+      Photo: Institute for the Study of the Ancient World / Wikimedia Commons
+      (CC BY 2.0)
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:The_Serapeum_of_Alexandria_(I).jpg'
 place:
-  id: "ChIJVUwIosXD9RQRmZKCQYexAbo"
-  name: "Serapeum of Alexandria"
-  address: "Pompey's Pillar, Al Karah WA at Toubageyah WA Kafr Al Ghates, Karmouz, Alexandria Governorate 5341142, Egypt"
+  id: ChIJVUwIosXD9RQRmZKCQYexAbo
+  name: Serapeum of Alexandria
+  address: >-
+    Pompey's Pillar, Al Karah WA at Toubageyah WA Kafr Al Ghates, Karmouz,
+    Alexandria Governorate 5341142, Egypt
   rating: 4.3
-  userRatingsTotal: 8772
-  googleMapsUrl: "https://maps.google.com/?cid=13403189160509084313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8775
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13403189160509084313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.182346600000002
   lng: 29.8962872
-  phone: "+20 12 29437357"
+  phone: +20 12 29437357
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "alexandria"
-  - "top attraction"
-quickAnswer: "The Serapeum of Alexandria sits on a low hill in the Karmouz district, crowned by Pompey's Pillar, a single red-granite Roman column with sphinxes and underground temple galleries around it. Plan 45 minutes to an hour, arrive near the 9am opening for softer light and cooler stone, and pair it with the Catacombs of Kom El Shoqafa a short walk away. Hours currently run 9am–5pm, but they shift through the year, so check the official site before you go."
+  - alexandria
+  - top attraction
+quickAnswer: >-
+  The Serapeum of Alexandria sits on a low hill in the Karmouz district, crowned
+  by Pompey's Pillar, a single red-granite Roman column with sphinxes and
+  underground temple galleries around it. Plan 45 minutes to an hour, arrive
+  near the 9am opening for softer light and cooler stone, and pair it with the
+  Catacombs of Kom El Shoqafa a short walk away. Hours currently run 9am–5pm,
+  but they shift through the year, so check the official site before you go.
 faq:
-  - q: "How long do I need at the Serapeum of Alexandria?"
-    a: "About 45 minutes to an hour covers Pompey's Pillar, the sphinxes and the underground galleries. Add another hour or so if you walk on to the Catacombs of Kom El Shoqafa nearby."
-  - q: "What are the opening hours?"
-    a: "At the moment the site opens 9am–5pm. Hours at Egyptian heritage sites shift with the season and around holidays, so check the official antiquities channels before you go."
-  - q: "How do I get there from downtown Alexandria?"
-    a: "Take a taxi or ride-hailing car from Raml Station or the Corniche to Karmouz. Ask for \"Amoud El Sawari\", the local name for Pompey's Pillar."
-  - q: "What is the best time of day to visit?"
-    a: "Early morning, close to the 9am opening. The hill has almost no shade, and arriving early usually puts you ahead of the mid-morning tour groups."
-  - q: "What else is nearby?"
-    a: "The Catacombs of Kom El Shoqafa are a short walk away. The Roman Amphitheatre at Kom El Dikka and the Graeco-Roman Museum are a quick ride north toward downtown."
+  - q: How long do I need at the Serapeum of Alexandria?
+    a: >-
+      About 45 minutes to an hour covers Pompey's Pillar, the sphinxes and the
+      underground galleries. Add another hour or so if you walk on to the
+      Catacombs of Kom El Shoqafa nearby.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the site opens 9am–5pm. Hours at Egyptian heritage sites
+      shift with the season and around holidays, so check the official
+      antiquities channels before you go.
+  - q: How do I get there from downtown Alexandria?
+    a: >-
+      Take a taxi or ride-hailing car from Raml Station or the Corniche to
+      Karmouz. Ask for "Amoud El Sawari", the local name for Pompey's Pillar.
+  - q: What is the best time of day to visit?
+    a: >-
+      Early morning, close to the 9am opening. The hill has almost no shade, and
+      arriving early usually puts you ahead of the mid-morning tour groups.
+  - q: What else is nearby?
+    a: >-
+      The Catacombs of Kom El Shoqafa are a short walk away. The Roman
+      Amphitheatre at Kom El Dikka and the Graeco-Roman Museum are a quick ride
+      north toward downtown.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 ## A column with the wrong name

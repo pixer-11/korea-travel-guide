@@ -1,39 +1,44 @@
 ---
-title: "Red Pyramid: Giza Travel Guide (4.8★)"
-description: "The Red Pyramid stands at Dahshur in Giza Governorate, about 40 km south of central Cairo, and you can walk down inside it to its corbelled burial chambers. 4.8★ (2,701 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Giza"
-category: "hidden-gem"
-pubDate: "2026-11-09T17:54:33.665Z"
+title: 'Red Pyramid: Giza Travel Guide (4.8★)'
+description: >-
+  The Red Pyramid stands at Dahshur in Giza Governorate, about 40 km south of
+  central Cairo, and you can walk down inside it to its corbelled burial
+  chambers. 4.8★ (2,702 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Giza
+category: hidden-gem
+pubDate: '2026-11-09T17:54:33.665Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rote_Pyramide_%28Dahschur%29_04.jpg/1920px-Rote_Pyramide_%28Dahschur%29_04.jpg"
-  credit: "Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rote_Pyramide_(Dahschur)_04.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rote_Pyramide_%28Dahschur%29_04.jpg/1920px-Rote_Pyramide_%28Dahschur%29_04.jpg
+  credit: 'Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Rote_Pyramide_(Dahschur)_04.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJyXTcJCNLWBQR3d_j4GP4zfE"
-  name: "Red Pyramid"
-  address: "Red Pyramid, Al Giza Desert, Giza Governorate 3300001, Egypt"
+  id: ChIJyXTcJCNLWBQR3d_j4GP4zfE
+  name: Red Pyramid
+  address: 'Red Pyramid, Al Giza Desert, Giza Governorate 3300001, Egypt'
   rating: 4.8
-  userRatingsTotal: 2701
-  googleMapsUrl: "https://maps.google.com/?cid=17423855641224798173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2702
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17423855641224798173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.8086087
   lng: 31.206613400000002
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 15
       - 16
@@ -48,24 +53,41 @@ place:
       - 10
       - 11
       - 12
-    venueId: "ven_45667a345047346a5f6433525142574c4e434a635458794a496843"
+    venueId: ven_45667a345047346a5f6433525142574c4e434a635458794a496843
 tags:
-  - "giza"
-  - "Red Pyramid"
-quickAnswer: "The Red Pyramid stands at Dahshur in Giza Governorate, about 40 km south of central Cairo, and you can walk down inside it to its corbelled burial chambers. It's currently open 9am–5pm. It is usually calmest from 3pm to 5pm, and on weekends it's best to avoid 10am–1pm."
+  - giza
+  - Red Pyramid
+quickAnswer: >-
+  The Red Pyramid stands at Dahshur in Giza Governorate, about 40 km south of
+  central Cairo, and you can walk down inside it to its corbelled burial
+  chambers. It's currently open 9am–5pm. It is usually calmest from 3pm to 5pm,
+  and on weekends it's best to avoid 10am–1pm.
 faq:
-  - q: "When is the quietest time to visit the Red Pyramid?"
-    a: "It's usually calmest from 3pm to 5pm on both weekdays and weekends. Weekends from 10am to 1pm are typically the busiest."
-  - q: "Can you go inside the Red Pyramid?"
-    a: "Yes. You climb about 28 metres up the north face, then crouch down a sloping passage roughly 60 metres long to two corbelled antechambers and the burial chamber."
-  - q: "How do I get to the Red Pyramid from Cairo or Giza?"
-    a: "No public rail goes there. Hire a driver or take a ride-hail car to Dahshur, about 40 km south of central Cairo. Many people combine it with Saqqara and Memphis."
-  - q: "How long should I spend at the Red Pyramid?"
-    a: "Allow 1–1.5 hours including the descent. Add about an hour if you also want to see the Bent Pyramid in the same Dahshur site."
-  - q: "What are the opening hours?"
-    a: "It currently opens 9am–5pm daily. Hours shift with the season and on some holidays, so check the official antiquities site before you go."
+  - q: When is the quietest time to visit the Red Pyramid?
+    a: >-
+      It's usually calmest from 3pm to 5pm on both weekdays and weekends.
+      Weekends from 10am to 1pm are typically the busiest.
+  - q: Can you go inside the Red Pyramid?
+    a: >-
+      Yes. You climb about 28 metres up the north face, then crouch down a
+      sloping passage roughly 60 metres long to two corbelled antechambers and
+      the burial chamber.
+  - q: How do I get to the Red Pyramid from Cairo or Giza?
+    a: >-
+      No public rail goes there. Hire a driver or take a ride-hail car to
+      Dahshur, about 40 km south of central Cairo. Many people combine it with
+      Saqqara and Memphis.
+  - q: How long should I spend at the Red Pyramid?
+    a: >-
+      Allow 1–1.5 hours including the descent. Add about an hour if you also
+      want to see the Bent Pyramid in the same Dahshur site.
+  - q: What are the opening hours?
+    a: >-
+      It currently opens 9am–5pm daily. Hours shift with the season and on some
+      holidays, so check the official antiquities site before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-10'
 ---
 
 ## Sneferu's smooth-sided experiment
