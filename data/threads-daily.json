@@ -111,28 +111,29 @@
     "nusa-penida-diamond-beach",
     "dubai-dubai-old-city",
     "york-uk-championship-snooker",
-    "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert"
+    "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
+    "taiyuan-yingze-park"
   ],
-  "lastSentDay": "2026-11-10",
+  "lastSentDay": "2026-11-11",
   "material": {
-    "day": "2026-11-10",
-    "slug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
-    "title": "Jennifer Lopez & Alex Warren - Abu Dhabi GP Concert: Dates, Tickets & Venue (Abu Dhabi)",
+    "day": "2026-11-11",
+    "slug": "taiyuan-yingze-park",
+    "title": "Yingze Park: Taiyuan Travel Guide",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-10-abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-10-abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-11-taiyuan-yingze-park-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-11-taiyuan-yingze-park-2.jpg"
     ],
-    "igCaption": "Race day floodlights, team caps, and one stage for two very different eras of music — Jennifer Lopez and Alex Warren headline Etihad Live on Yas Island this December, right after the Abu Dhabi GP wraps for the day.\n\n#AbuDhabi #UnitedArabEmirates #events #travel #wanderatlas #YasIsland #AbuDhabiGP #JenniferLopez #TravelGuide #ConcertTravel\n📷 Photo: Everwest / Wikimedia Commons (CC BY 4.0) (edited)",
-    "thOption": "Decades of chart hits meet a voice that blew up in 2025 — would you brave race-day crowds on Yas Island to see Jennifer Lopez and Alex Warren share one stage?",
-    "link": "https://wanderatlasguides.com/posts/abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert/"
+    "igCaption": "Taiyuan's oldest park hides a lake loop, willow-lined paths, and pavilions perfect for slowing down. Go early for tai chi groups by the gates, or linger till evening when the paths empty out again.\n\n#YingzePark #Taiyuan #China #travelguide #travel #wanderatlas #TaiyuanTravel #ChinaTravel #HiddenGems #ParkLife\n📷 Photo: AddisWang / Wikimedia Commons (CC BY-SA 3.0) (edited)",
+    "thOption": "Yingze Park is Taiyuan's oldest and largest park, with a 4.4 rating but still feels under-the-radar for visitors. Would you go early for the quiet tai chi groups, or wander in after lunch with everyone else?",
+    "link": "https://wanderatlasguides.com/posts/taiyuan-yingze-park/"
   },
   "social": {
-    "thDay": "2026-11-10",
-    "thId": "18119881499061987",
-    "igDay": "2026-11-09",
-    "igId": "17899054887676301",
-    "thSlug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
-    "igSlug": "york-uk-championship-snooker",
+    "thDay": "2026-11-11",
+    "thId": "18208408741375055",
+    "igDay": "2026-11-11",
+    "igId": "18129854498298798",
+    "thSlug": "taiyuan-yingze-park",
+    "igSlug": "taiyuan-yingze-park",
     "history": [
       {
         "day": "2026-10-10",
@@ -603,7 +604,25 @@
         "day": "2026-11-04",
         "slug": "singapore-babymonster-world-tour-choom",
         "thId": "18098304944556721",
-        "igId": "17911815171584587"
+        "igId": "17911815171584587",
+        "insights": {
+          "at": "2026-11-11",
+          "th": {
+            "views": 20,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-05",
@@ -636,6 +655,12 @@
         "day": "2026-11-10",
         "slug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
         "thId": "18119881499061987"
+      },
+      {
+        "day": "2026-11-11",
+        "slug": "taiyuan-yingze-park",
+        "thId": "18208408741375055",
+        "igId": "18129854498298798"
       }
     ]
   }
