@@ -19,9 +19,9 @@
  },
  "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/ITU_World_Triathlon_Grand_Final_Edmonton.jpg": {
   "slug": "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Triathlon competition podium, plausible event archive photo",
-  "at": "2026-11-09T19:36:24.783Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"triathlon\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-10T08:33:26.797Z"
  },
  "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg/3840px-Gregor_Buchholz_finishs_at_2014_ITU_World_Triathlon_Hamburg.jpg": {
   "slug": "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi",
@@ -8196,9 +8196,9 @@
  },
  "cologne-world-darts-gala-cologne\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Team_Germany_Darts_WC_2025.png": {
   "slug": "cologne-world-darts-gala-cologne",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Darts players at professional event press conference",
-  "at": "2026-11-09T19:37:56.802Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"darts\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-10T08:33:26.993Z"
  },
  "cordoba-alcazar-de-los-reyes-cristianos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cordoba-6_%2848026780817%29.jpg/1920px-Cordoba-6_%2848026780817%29.jpg": {
   "slug": "cordoba-alcazar-de-los-reyes-cristianos",
@@ -21504,9 +21504,9 @@
  },
  "melbourne-wwe-australia-live-tour-melbourne\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WWE_Super_Show-down_2018.jpg/3840px-WWE_Super_Show-down_2018.jpg": {
   "slug": "melbourne-wwe-australia-live-tour-melbourne",
-  "verdict": "MATCH",
-  "reason": "patrol replace: WWE wrestling event, packed arena, professional lighting set",
-  "at": "2026-11-09T19:43:52.964Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"wwe\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-10T08:33:27.190Z"
  },
  "mendoza-camilo-mendoza-concert\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Camilo_Echeverry_in_2018_3.jpg": {
   "slug": "mendoza-camilo-mendoza-concert",

@@ -30,14 +30,6 @@ faq:
     a: WWE live events draw lots of families. The pyro and entrance music are loud indoors, so many parents bring ear protection for younger children.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WWE_Super_Show-down_2018.jpg/3840px-WWE_Super_Show-down_2018.jpg
-  credit: 'Photo: Franticpower / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:WWE_Super_Show-down_2018.jpg
-  focus:
-    x: 50
-    'y': 40
 ---
 
 ## A Wednesday night at Melbourne Park
