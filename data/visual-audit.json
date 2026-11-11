@@ -996,6 +996,12 @@
   "reason": "publish gate: Representative interior view of Egyptian catacomb carvings",
   "at": "2026-11-09T17:54:17.364Z"
  },
+ "alexandria-kom-el-dikka\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/Ruins_of_Bath_Entrance_at_Kom_el_Dikka_%28I%29.jpg": {
+  "slug": "alexandria-kom-el-dikka",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows ancient ruins with stairs, matching Kom el Dikka site",
+  "at": "2026-11-11T07:47:10.097Z"
+ },
  "alexandria-montaza-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Motazah_palace_-_Alexandria.jpg/1920px-Motazah_palace_-_Alexandria.jpg": {
   "slug": "alexandria-montaza-palace",
   "verdict": "MATCH",
@@ -1007,6 +1013,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Serapeum ruins with Alexandria cityscape backdrop",
   "at": "2026-11-10T07:46:30.805Z"
+ },
+ "alexandria-taposiris-magna\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Taposiris_Magna_Temple_04.JPG/1920px-Taposiris_Magna_Temple_04.JPG": {
+  "slug": "alexandria-taposiris-magna",
+  "verdict": "MATCH",
+  "reason": "publish gate: Distant ruins of Taposiris Magna near coastline, plausible",
+  "at": "2026-11-11T07:47:09.954Z"
  },
  "alicante-atp-challenger-alicante\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "alicante-atp-challenger-alicante",
@@ -1568,6 +1580,12 @@
   "reason": "publish gate: River view of Nile-side gardens and trees in Aswan",
   "at": "2026-11-10T07:58:57.758Z"
  },
+ "aswan-aswan-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mus%C3%A9e_d%27Aszan_-_panoramio.jpg/1920px-Mus%C3%A9e_d%27Aszan_-_panoramio.jpg": {
+  "slug": "aswan-aswan-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Aswan Museum building exterior with gardens",
+  "at": "2026-11-11T07:47:09.917Z"
+ },
  "aswan-elephantine\u0001https://upload.wikimedia.org/wikipedia/commons/0/0e/Aswan%2C_Elephantine%2C_west_bank%2C_Egypt%2C_Oct_2004.jpg": {
   "slug": "aswan-elephantine",
   "verdict": "MATCH",
@@ -1580,11 +1598,23 @@
   "reason": "publish gate: Exterior entrance view of Nubian Museum at dusk",
   "at": "2026-11-09T17:54:17.649Z"
  },
+ "aswan-old-cataract-aswan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Aswan_Old_Cataract_Hotel_R01.jpg/3840px-Aswan_Old_Cataract_Hotel_R01.jpg": {
+  "slug": "aswan-old-cataract-aswan",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nile view with Aswan buildings, plausible hero photo",
+  "at": "2026-11-11T07:47:09.732Z"
+ },
  "aswan-philae-temple\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Philae_Temple_R05.jpg": {
   "slug": "aswan-philae-temple",
   "verdict": "MATCH",
   "reason": "publish gate: Representative exterior view of Philae Temple complex",
   "at": "2026-11-09T17:54:17.168Z"
+ },
+ "aswan-temple-of-horus\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Temple_of_Philae_Horus_relief.jpg": {
+  "slug": "aswan-temple-of-horus",
+  "verdict": "MATCH",
+  "reason": "publish gate: Carved relief wall at Temple of Horus, representative view",
+  "at": "2026-11-11T07:47:10.136Z"
  },
  "aswan-the-high-dam-of-aswan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/By_ovedc_-_Aswan_High_Dam_-_05.jpg/3840px-By_ovedc_-_Aswan_High_Dam_-_05.jpg": {
   "slug": "aswan-the-high-dam-of-aswan",
@@ -8654,6 +8684,12 @@
   "reason": "publish gate: Clear water over reef, plausible dive site view",
   "at": "2026-11-09T07:45:45.689Z"
  },
+ "dahab-wadi-gnai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wadi_Gnai_2020-03-08-14.jpg/3840px-Wadi_Gnai_2020-03-08-14.jpg": {
+  "slug": "dahab-wadi-gnai",
+  "verdict": "MATCH",
+  "reason": "publish gate: Rocky desert wadi landscape matches Dahab canyon attraction",
+  "at": "2026-11-11T07:47:10.052Z"
+ },
  "dalanzadgad-ongi-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ongii_Monastery_19.jpg/1920px-Ongii_Monastery_19.jpg": {
   "slug": "dalanzadgad-ongi-monastery",
   "verdict": "MATCH",
@@ -13636,6 +13672,18 @@
   "reason": "publish gate: Striped multicolored mountain matches Serranía de Hornocal landscape",
   "at": "2026-10-26T15:36:48.649Z"
  },
+ "hurghada-abu-tig-marina\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/El_Gouna_Abu_Tig_R03.jpg/3840px-El_Gouna_Abu_Tig_R03.jpg": {
+  "slug": "hurghada-abu-tig-marina",
+  "verdict": "MATCH",
+  "reason": "publish gate: Marina promenade with boats and waterfront buildings shown",
+  "at": "2026-11-11T07:47:10.014Z"
+ },
+ "hurghada-downtown-el-gouna\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/El_Gouna_Downtown_R23.jpg/3840px-El_Gouna_Downtown_R23.jpg": {
+  "slug": "hurghada-downtown-el-gouna",
+  "verdict": "MATCH",
+  "reason": "publish gate: Beach promenade with loungers, buildings, boats matches El Gouna",
+  "at": "2026-11-11T07:47:09.878Z"
+ },
  "hurghada-giftun-islands\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Giftun_Soraya01.JPG/1920px-Giftun_Soraya01.JPG": {
   "slug": "hurghada-giftun-islands",
   "verdict": "MATCH",
@@ -17048,6 +17096,12 @@
   "reason": "Iconic Victoria Memorial building, Kolkata exterior",
   "reasonKo": "콜카타 빅토리아 메모리얼 건물 외관",
   "at": "2026-08-12T14:03:20.629Z"
+ },
+ "kom-ombo-crocodile-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mummified_crocodiles_-_Crocodile_Museum%2C_Kom_Ombo_%282%29.jpg/3840px-Mummified_crocodiles_-_Crocodile_Museum%2C_Kom_Ombo_%282%29.jpg": {
+  "slug": "kom-ombo-crocodile-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mummified crocodiles displayed in museum, matches Kom Ombo exhibit",
+  "at": "2026-11-11T07:47:09.836Z"
  },
  "kom-ombo-kom-ombo-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg/3840px-Kom_Ombo_Temple%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005076093%29.jpg": {
   "slug": "kom-ombo-kom-ombo-temple",
@@ -31010,6 +31064,12 @@
   "verdict": "MISMATCH",
   "reason": "Image shows Sharjah waterfront, not a restaurant/venue",
   "at": "2026-07-25T02:49:34.862Z"
+ },
+ "sharm-el-sheikh-al-sahaba-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al-Sahaba_Mosque_in_Sharm_El-Sheikh_01.jpg/3840px-Al-Sahaba_Mosque_in_Sharm_El-Sheikh_01.jpg": {
+  "slug": "sharm-el-sheikh-al-sahaba-mosque",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mosque with minarets visible, representative night view of venue",
+  "at": "2026-11-11T07:47:09.794Z"
  },
  "sharm-el-sheikh-soho-square-sharm-el-sheikh\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Sharm_Soho_Square_R01.jpg": {
   "slug": "sharm-el-sheikh-soho-square-sharm-el-sheikh",

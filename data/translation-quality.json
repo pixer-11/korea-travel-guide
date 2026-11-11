@@ -40052,5 +40052,82 @@
   "registerBreak": false,
   "worst": "细节上未竟的遗憾，都被它庞大的体量弥补了。",
   "at": "2026-11-10T15:53:36.883Z"
+ },
+ "es/alexandria-kom-el-dikka": {
+  "hash": "6d9bce74dc6b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El yacimiento se disfruta más sin prisas y con algo de planificación.",
+  "at": "2026-11-11T07:50:52.382Z"
+ },
+ "es/aswan-aswan-museum": {
+  "hash": "803af29639be",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente el museo abre a las 9:00 AM y cierra a las 7:00 PM.",
+  "at": "2026-11-11T07:50:58.355Z"
+ },
+ "ja/alexandria-kom-el-dikka": {
+  "hash": "c77ccfbf4003",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そんな縁の下で、ローマ時代後期の都市と同じ高さを歩くことになるのです。",
+  "at": "2026-11-11T07:51:03.790Z"
+ },
+ "ja/alexandria-taposiris-magna": {
+  "hash": "2d108694615c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "人出の傾向をまとめたBestTimeの予測では、土曜と日曜の午前7時〜午後12時がもっとも混み合います。",
+  "at": "2026-11-11T07:51:04.852Z"
+ },
+ "ja/aswan-aswan-museum": {
+  "hash": "f64313df8c0e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "すでに訪れたことがある人には、この博物館が土地の歴史を補ってくれます。",
+  "at": "2026-11-11T07:51:09.013Z"
+ },
+ "ko/alexandria-kom-el-dikka": {
+  "hash": "f1910b77ce17",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-11T07:51:09.702Z"
+ },
+ "ko/alexandria-taposiris-magna": {
+  "hash": "c4f6ac0b5d32",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "기사들에게는 이곳의 아랍어 지명인 '아부시르(Abusir)'라고 말해야 알아듣습니다.",
+  "at": "2026-11-11T07:53:38.104Z"
+ },
+ "ko/aswan-aswan-museum": {
+  "hash": "59e59c10bf0e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "시간이 부족하다면 누비아 박물관을 고르시고, 이미 다녀오셨다면 이곳에서 이 지역만의 이야기를 채워 보시기 바랍니다.",
+  "at": "2026-11-11T07:51:18.193Z"
+ },
+ "zh/alexandria-kom-el-dikka": {
+  "hash": "06ecac93efd8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这处遗址的发现纯属偶然。20世纪60年代，工人们为一栋规划中的建筑清理土丘，结果挖出来的竟是大理石座席。",
+  "at": "2026-11-11T07:51:19.292Z"
+ },
+ "zh/alexandria-taposiris-magna": {
+  "hash": "32b04677ba88",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "想象那座古代奇迹的模样，这里是最接近的地方了。",
+  "at": "2026-11-11T07:51:26.378Z"
+ },
+ "zh/aswan-aswan-museum": {
+  "hash": "48762715679e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "埃及景点的付款规定时有变化，银行卡和现金最好都带一些。",
+  "at": "2026-11-11T07:51:27.213Z"
  }
 }

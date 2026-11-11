@@ -1,84 +1,84 @@
 ---
 lang: es
 slug: shanghai-china-international-import-expo-ciie
-srcHash: '9b9d506bb6b5'
-title: 'Exposición Internacional de Importaciones de China (CIIE): fechas, entradas y sede en Shanghái'
-description: Del 5 al 10 de noviembre de 2026 se celebra la 9.ª Exposición Internacional de Importaciones de China (CIIE) en el Centro Nacional de Exposiciones y Convenciones (NECC), situado en el distrito shanghainés de Qingpu, junto al nudo de transportes de Hongqiao.
-quickAnswer: 'La 9.ª Exposición Internacional de Importaciones de China (CIIE) tendrá lugar del 5 al 10 de noviembre de 2026 en el Centro Nacional de Exposiciones y Convenciones (National Exhibition and Convention Center, NECC). Este recinto se encuentra en el distrito de Qingpu, en Shanghái, junto al nudo de transportes de Hongqiao. Se trata de una feria comercial organizada por el Ministerio de Comercio y el Gobierno Municipal de Shanghái. No se venden entradas en taquilla: el acceso exige un registro previo y nominativo. Antes de organizar el viaje, conviene comprobar en la web oficial de la CIIE las fechas, la sede y las condiciones de admisión.'
+srcHash: '4e3d2e5a12cb'
+title: 'Exposición Internacional de Importaciones de China (CIIE): fechas, entradas y sede (Shanghái)'
+description: Para la novena Exposición Internacional de Importaciones de China (CIIE) se anunciaron las fechas del 5 al 10 de noviembre de 2026, en el Centro Nacional de Exposiciones y Convenciones de Shanghái, situado en el distrito de Qingpu.
+quickAnswer: 'Las fechas anunciadas para la novena Exposición Internacional de Importaciones de China (CIIE) eran del 5 al 10 de noviembre de 2026. La sede era el Centro Nacional de Exposiciones y Convenciones (National Exhibition and Convention Center, NECC), en el distrito shanghainés de Qingpu, junto al nudo de transportes de Hongqiao. Se trata de una feria comercial que organizan el Ministerio de Comercio y el Gobierno Municipal de Shanghái. No había venta de entradas en taquilla: para acceder hacía falta un registro previo con nombre real.'
 faq:
-  - q: ¿Cuándo se celebra la CIIE 2026?
-    a: La 9.ª edición de la Exposición Internacional de Importaciones de China se celebra del 5 al 10 de noviembre de 2026. En la web oficial de la CIIE puede consultar el calendario exacto, incluidos los días reservados a cada categoría de visitante.
+  - q: ¿Cuándo era la CIIE 2026?
+    a: Las fechas anunciadas para la novena Exposición Internacional de Importaciones de China eran del 5 al 10 de noviembre de 2026, en el Centro Nacional de Exposiciones y Convenciones de Shanghái. El acceso de cada día dependía de la categoría de visitante.
   - q: ¿Dónde está la sede de la CIIE y cómo se llega?
-    a: La feria se celebra en el Centro Nacional de Exposiciones y Convenciones (NECC), en el distrito de Qingpu de Shanghái. Hay que tomar la línea 2 del metro hasta la estación National Exhibition and Convention Center, antes llamada Xujing East. Unas pocas paradas al este, en esa misma línea, se encuentran la estación de ferrocarril de Hongqiao y la Terminal 2 del aeropuerto de Hongqiao.
-  - q: ¿Se pueden comprar entradas en la puerta?
-    a: No. Para acceder a la CIIE es necesario registrarse con antelación y de forma nominativa a través de los canales oficiales, y los datos del pasaporte deben coincidir con los del registro. En la web oficial encontrará las categorías de visitante y los requisitos vigentes.
-  - q: ¿Cuánto tiempo conviene dedicar a la CIIE?
-    a: Dadas las enormes dimensiones del complejo en forma de trébol de cuatro hojas, los compradores profesionales suelen dedicarle dos o tres días. Si solo dispone de uno, elija una o dos áreas de exposición y concierte las reuniones de antemano para no perder el tiempo deambulando.
-  - q: ¿Qué más se puede visitar cerca del recinto?
-    a: En el propio distrito de Qingpu se encuentra el pueblo acuático de Zhujiajiao, ideal para una excursión de media jornada. El Bund, Lujiazui y el Jardín Yu quedan al alcance desde el extremo oriental de la línea 2 del metro.
+    a: Se encuentra en el Centro Nacional de Exposiciones y Convenciones (National Exhibition and Convention Center, NECC), en el distrito shanghainés de Qingpu. La línea 2 del metro para en la estación Centro Nacional de Exposiciones y Convenciones, antes llamada Xujing Este (Xujing East). La estación de ferrocarril de Hongqiao y la Terminal 2 del aeropuerto de Hongqiao quedan a pocas paradas al este por la misma línea.
+  - q: ¿Se podían comprar entradas en la puerta?
+    a: No. El acceso a la CIIE requería un registro previo con nombre real, y los datos del pasaporte debían coincidir con los del registro. Las categorías de visitante y los requisitos han variado de una edición a otra.
+  - q: ¿Cuánto tiempo hacía falta para recorrer la CIIE?
+    a: Los compradores serios solían dedicarle dos o tres días, porque el complejo en forma de trébol de cuatro hojas es inmenso. Quienes disponían de una sola jornada se centraban normalmente en una o dos áreas expositivas y llevaban las reuniones concertadas de antemano en lugar de deambular.
+  - q: ¿Qué más hay cerca del recinto?
+    a: El pueblo de canales de Zhujiajiao está también en el distrito de Qingpu y se presta a una excursión de media jornada. En el extremo oriental de la línea 2 del metro se llega al Bund, a Lujiazui y al Jardín Yu.
 ---
 
-## Seis días bajo un mismo techo para vender al mercado chino
+## Seis días bajo un mismo techo para venderle al mercado chino
 
-La CIIE da la vuelta al concepto habitual de feria comercial. Las grandes exposiciones suelen servir para que un país coloque sus productos en el extranjero, pero aquí ocurre lo contrario: son las empresas extranjeras las que acuden a Shanghái para vender en el mercado chino. El Ministerio de Comercio y el Gobierno Municipal de Shanghái la organizan como una declaración de principios a favor del comercio y la cooperación internacionales.
+La CIIE le da la vuelta a la lógica habitual de las ferias comerciales. Casi todas las grandes exposiciones sirven para que un país venda sus productos en el extranjero. En esta, en cambio, son las empresas extranjeras las que viajan a Shanghái para vender en el mercado chino. El Ministerio de Comercio y el Gobierno Municipal de Shanghái la organizan como una declaración a favor del comercio y la cooperación internacionales.
 
-La 9.ª edición se celebra **del 5 al 10 de noviembre de 2026**. Al igual que todas las anteriores desde la primera, en 2018, ocupará el Centro Nacional de Exposiciones y Convenciones, en el extremo occidental de Shanghái. Antes de reservar nada, compruebe en la web oficial de la CIIE las fechas, las normas de admisión y cualquier posible cambio de programa.
+Las fechas anunciadas para la novena edición eran del **5 al 10 de noviembre de 2026**. La sede era el Centro Nacional de Exposiciones y Convenciones, en el extremo occidental de Shanghái, el mismo recinto que ha acogido todas las ediciones desde la primera, en 2018.
 
 ## Dentro del trébol de cuatro hojas
 
-El recinto se entiende mejor a vista de pájaro. El NECC tiene forma de trébol de cuatro hojas: cuatro gigantescas alas de pabellones se despliegan en torno a una plaza central. Figura entre los mayores complejos expositivos del mundo construidos como un solo edificio.
+Donde mejor se entiende el recinto es desde el aire. El NECC tiene forma de trébol de cuatro hojas: cuatro enormes alas de pabellones parten de una plaza central. Es uno de los mayores complejos expositivos del mundo construidos en un único edificio.
 
-Esa distribución condiciona toda la jornada. Los pabellones están unidos por largos pasillos interiores, y cruzar de una hoja a la opuesta lleva bastante tiempo. Lo sensato es trazar el recorrido según el número de pabellón, en lugar de dejarse llevar por lo que vaya encontrando por el camino.
+Esa disposición condiciona la visita. Los pabellones se comunican mediante largos pasillos interiores, y cruzar de una hoja a la opuesta lleva bastante tiempo. Por eso los asistentes habituales organizan la jornada según el número de pabellón, en lugar de dejarse llevar por lo que encuentran al paso.
 
-La feria suele dividirse en dos grandes bloques:
+La exposición suele dividirse en dos grandes áreas:
 
 - **Exposición de Países**: pabellones nacionales en los que cada gobierno presenta su economía, su cultura y sus industrias más emblemáticas.
-- **Exposición Empresarial**: estands de empresas agrupados por sectores. En las últimas ediciones ha abarcado alimentación y productos agrícolas, automóviles, equipamiento técnico, bienes de consumo, equipos médicos y sanidad, y comercio de servicios.
+- **Exposición Empresarial**: estands de empresas agrupados por sectores. En las últimas ediciones ha abarcado alimentación y productos agrícolas, automoción, equipamiento técnico, bienes de consumo, equipos médicos y sanidad, y comercio de servicios.
 
-En paralelo a la exposición se celebra el **Foro Económico Internacional de Hongqiao**, escenario de los discursos políticos y las mesas redondas.
+En paralelo a los pabellones suele celebrarse el **Foro Económico Internacional de Hongqiao**, escenario de los discursos políticos y las mesas redondas.
 
-## Cómo llegar a Qingpu en la línea 2
+## Cómo llegar a Qingpu con la línea 2
 
-La línea 2 del metro de Shanghái resuelve el trayecto. Hay que bajarse en la **estación National Exhibition and Convention Center**, que quizá encuentre todavía con su antiguo nombre, Xujing East. Sus salidas desembocan prácticamente en el complejo.
+La línea 2 del metro de Shanghái resuelve el trayecto. La parada es la **estación Centro Nacional de Exposiciones y Convenciones** (National Exhibition and Convention Center), que a veces todavía aparece con su antiguo nombre, Xujing Este (Xujing East). Sus salidas desembocan prácticamente en el complejo.
 
-Una gran ventaja es que el recinto está pegado al nudo de transportes de Hongqiao. Tanto la estación de ferrocarril como la Terminal 2 del aeropuerto de Hongqiao quedan a pocas paradas al este por la línea 2. Quien llegue en tren de alta velocidad desde Pekín, Hangzhou o Nankín puede plantarse en los pabellones sin atravesar la ciudad.
+Una gran ventaja es que el recinto está pegado al nudo de Hongqiao. Tanto la estación de ferrocarril de Hongqiao como la Terminal 2 del aeropuerto de Hongqiao quedan a pocas paradas al este por la misma línea 2. Quien llega en tren de alta velocidad desde Pekín, Hangzhou o Nankín puede plantarse en los pabellones sin atravesar la ciudad.
 
-Desde el aeropuerto de Pudong, en cambio, el viaje es mucho más largo, porque obliga a cruzar Shanghái de punta a punta. La línea 2 cubre todo el recorrido, pero conviene calcular bastante más de una hora. También puede recurrir al taxi o a las aplicaciones de VTC; sin embargo, durante la semana de la feria es frecuente que se controle el tráfico en los alrededores del recinto y se restrinjan las zonas de bajada, por lo que el metro suele resultar más fiable.
+Desde el aeropuerto de Pudong el viaje es mucho más largo, ya que obliga a cruzar Shanghái de punta a punta. La línea 2 recorre la ciudad entera, pero el trayecto supera con holgura la hora. También hay taxis y servicios de VTC. Durante la semana de la exposición, sin embargo, es habitual que las calles cercanas al recinto tengan controles y restricciones para dejar pasajeros, de modo que el metro suele resultar la opción más previsible.
 
 ## Registro, acreditaciones y qué significa aquí «entrada»
 
-No basta con presentarse y comprar una entrada en taquilla. La CIIE funciona mediante un **registro nominativo** previo: expositores, compradores profesionales, prensa y visitantes solicitan sus acreditaciones a través de los canales oficiales.
+No era posible comprar una entrada en la puerta. Para acceder a la exposición de 2026 hacía falta un **registro previo con nombre real**, un sistema que abarcaba a expositores, compradores profesionales, prensa y visitantes.
 
-Conviene tener a mano lo siguiente:
+El registro pedía:
 
-- **El pasaporte.** El nombre que figure en el registro debe coincidir exactamente con el del documento de identidad, ya que las acreditaciones se cotejan con él en la entrada.
-- **La empresa a la que pertenece**, si se registra como visitante profesional o comprador.
-- **Una fotografía reciente** con el formato que exija el sistema de registro.
+- **Un pasaporte.** El nombre registrado debía coincidir exactamente con el del documento, porque las acreditaciones se cotejan con él al entrar.
+- **Una empresa de pertenencia**, en el caso de quienes se registraban como visitantes profesionales o compradores.
+- **Una fotografía reciente** con el formato que exigía el sistema de registro.
 
-La existencia de una jornada abierta al público, así como los requisitos para acceder a ella, han variado de una edición a otra. Consulte las categorías vigentes en la web oficial de la CIIE en lugar de fiarse de artículos antiguos. Los controles de seguridad en los accesos se parecen mucho a los de un aeropuerto, con inspección de bolsos y verificación de acreditaciones, así que reserve tiempo para ellos por la mañana.
+La existencia de una jornada abierta al público, así como quién podía acceder a ella, ha variado de una edición a otra. En los accesos, el control de seguridad suele parecerse mucho al de un aeropuerto, con escáner de bolsos y comprobación de acreditaciones, y por la mañana puede demorarse un buen rato.
 
-## Cómo recorrer los pabellones sin perder el día
+## Recorrer los pabellones sin perder el día
 
-Los visitantes más aprovechados conciben la CIIE como una sucesión de reuniones, no como un paseo. Estos son los hábitos que más rinden:
+Los visitantes más avezados no conciben la CIIE como un paseo, sino como una sucesión de reuniones. Estas son las costumbres que permiten sacarle el máximo partido:
 
-- **Concierte las reuniones antes de llegar.** Los expositores llenan sus agendas pronto. Utilice las herramientas oficiales de contactos comerciales o escriba directamente a los estands, y anote para cada cita el número de pabellón y de estand.
-- **Lleve tarjetas de visita en abundancia**, a ser posible con el reverso en chino. Se entregan con ambas manos, y acabará repartiendo más de las que imagina.
-- **Configure el pago por móvil.** Los puntos de restauración del recinto, y buena parte de Shanghái, funcionan con Alipay y WeChat Pay. Ambas aplicaciones permiten ya a los visitantes extranjeros vincular una tarjeta internacional; dejarlo preparado antes del vuelo le ahorrará complicaciones en la primera cafetería.
-- **Instale una aplicación de traducción** que funcione sin conexión. Gran parte del personal de los estands habla inglés, pero no siempre ocurre lo mismo con socios y proveedores.
-- **Organice la jornada por hojas.** Recorra un ala del trébol por la mañana y otra después de comer; ir en zigzag de una a otra solo hace perder tiempo.
+- **Reuniones concertadas de antemano.** Los expositores llenan pronto sus agendas. Los asistentes habituales recurren a las herramientas oficiales de contacto empresarial o escriben directamente a los estands, y apuntan el pabellón y el número de estand de cada cita.
+- **Tarjetas de visita en abundancia**, a ser posible con el reverso en chino. Todavía se entregan con ambas manos, y la mayoría de los visitantes acaba repartiendo más de las previstas.
+- **Pago con el móvil.** Los puntos de restauración del recinto, igual que casi todo Shanghái, funcionan con Alipay y WeChat Pay. Ambas aplicaciones permiten ya a los visitantes extranjeros vincular una tarjeta internacional, y dejarlo configurado antes del vuelo ahorra problemas en el mostrador de la primera cafetería.
+- **Una aplicación de traducción sin conexión.** Buena parte del personal de los estands habla inglés, pero no siempre ocurre lo mismo con socios y proveedores.
+- **Una hoja cada vez.** Dedicar la mañana a un ala del trébol y la tarde a otra da mejor resultado que ir de un lado a otro en zigzag.
 
-Llegar cerca de la hora de apertura suele suponer colas de seguridad más cortas que las que forman las delegaciones a media mañana. Como la jornada inaugural acostumbra a estar dominada por la ceremonia oficial y los desplazamientos de autoridades, los compradores profesionales prefieren programar sus reuniones para los días siguientes.
+Las colas de seguridad suelen ser más cortas cerca de la hora de apertura que a media mañana, cuando llega la oleada de delegaciones. La jornada inaugural tiende a quedar acaparada por la ceremonia oficial y los desplazamientos de autoridades, así que los compradores serios a menudo fijan sus reuniones para los días siguientes.
 
-## La semana de Hongqiao: alojamiento, comida y la ciudad más allá de la feria
+## La semana de Hongqiao: alojamiento, comida y la ciudad más allá
 
-La escasez de hoteles es una cuestión geográfica. Todo el mundo quiere dormir cerca del NECC, y los establecimientos del distrito de negocios de Hongqiao se llenan enseguida a principios de noviembre. Reserve en cuanto sus planes se lo permitan.
+La escasez de hoteles se explica por la geografía. Todo el mundo quiere dormir cerca del NECC, y los establecimientos del distrito de negocios de Hongqiao suelen llenarse enseguida a principios de noviembre.
 
-Si Hongqiao está completo, cualquier punto a lo largo de la línea 2 es una buena alternativa. Desde Jing'an y la plaza del Pueblo (People's Square) se llega al recinto en línea recta hacia el oeste. La zona de la calle Nanjing Este (East Nanjing Road) le deja cerca del **Bund** para disfrutar de las noches, a cambio de un trayecto más largo.
+Cuando Hongqiao está completo, cualquier punto de la línea 2 sirve. Desde Jing'an y la Plaza del Pueblo (People's Square) se llega al recinto en línea recta hacia el oeste. La zona de la calle Nanjing Este queda cerca de **el Bund** para las noches, a cambio de un trayecto más largo.
 
-Cuando cierren los pabellones, hay varias escapadas sencillas:
+Al cerrar los pabellones hay algunos complementos sencillos:
 
-- **Zhujiajiao**, pueblo acuático surcado de canales, se encuentra también en el distrito de Qingpu y merece media jornada antes o después de la feria.
+- **Zhujiajiao**, el pueblo de canales, se encuentra también en el distrito de Qingpu y es una buena escapada de media jornada antes o después de la exposición.
 - **El Bund y Lujiazui**, en el extremo oriental de la línea 2, ofrecen vistas del perfil urbano a ambos lados del río Huangpu.
-- **El Jardín Yu** y las callejuelas de la ciudad vieja que lo rodean están a un paso del Bund.
+- **El Jardín Yu** (Yu Garden) y las callejuelas del casco antiguo que lo rodean están a un paso del Bund.
 
-A principios de noviembre Shanghái suele disfrutar de un tiempo templado y fresco, perfecto para pasear, sin rastro ya de la agobiante humedad del verano. Aun así, lleve una prenda de abrigo, porque pasará de los pabellones con calefacción al fresco de la noche.
+A principios de noviembre, Shanghái suele disfrutar de un tiempo suave y fresco, agradable para caminar, y el bochorno del verano ha quedado muy atrás. Aun así, conviene una prenda de abrigo, porque los visitantes pasan de los pabellones con calefacción al fresco de las noches.
