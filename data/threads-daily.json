@@ -112,27 +112,28 @@
     "dubai-dubai-old-city",
     "york-uk-championship-snooker",
     "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
-    "taiyuan-yingze-park"
+    "taiyuan-yingze-park",
+    "hong-kong-simple-plan-bigger-than-you-think-tour"
   ],
-  "lastSentDay": "2026-11-11",
+  "lastSentDay": "2026-11-12",
   "material": {
-    "day": "2026-11-11",
-    "slug": "taiyuan-yingze-park",
-    "title": "Yingze Park: Taiyuan Travel Guide",
+    "day": "2026-11-12",
+    "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
+    "title": "Simple Plan - Bigger Than You Think! Tour: Dates, Tickets & Venue (Hong Kong)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-11-taiyuan-yingze-park-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-11-taiyuan-yingze-park-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-12-hong-kong-simple-plan-bigger-than-you-think-tour-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-12-hong-kong-simple-plan-bigger-than-you-think-tour-2.jpg"
     ],
-    "igCaption": "Taiyuan's oldest park hides a lake loop, willow-lined paths, and pavilions perfect for slowing down. Go early for tai chi groups by the gates, or linger till evening when the paths empty out again.\n\n#YingzePark #Taiyuan #China #travelguide #travel #wanderatlas #TaiyuanTravel #ChinaTravel #HiddenGems #ParkLife\n📷 Photo: AddisWang / Wikimedia Commons (CC BY-SA 3.0) (edited)",
-    "thOption": "Yingze Park is Taiyuan's oldest and largest park, with a 4.4 rating but still feels under-the-radar for visitors. Would you go early for the quiet tai chi groups, or wander in after lunch with everyone else?",
-    "link": "https://wanderatlasguides.com/posts/taiyuan-yingze-park/"
+    "igCaption": "Simple Plan's Bigger Than You Think! Tour lands in Hong Kong on Tuesday, December 1, 2026 — a school-night show for a band that's been soundtracking crowds since their 2002 debut. Dry, cool December air outside, strong AC inside, and an MTR ride home before the last train — plan accordingly.\n\n#HongKong #events #travel #wanderatlas #SimplePlan #ConcertTravel #TravelGuide #WanderAtlas #PopPunk\n📷 Photo: Nick Starr from Tampa Bay, Fl / Wikimedia Commons (CC BY-SA 2.0) (edited)",
+    "thOption": "Simple Plan plays Hong Kong Dec 1, 2026 — which song are you hoping makes the setlist: \"Perfect,\" \"Addicted,\" or \"Summer Paradise\"?",
+    "link": "https://wanderatlasguides.com/posts/hong-kong-simple-plan-bigger-than-you-think-tour/"
   },
   "social": {
-    "thDay": "2026-11-11",
-    "thId": "18208408741375055",
+    "thDay": "2026-11-12",
+    "thId": "17916231993590153",
     "igDay": "2026-11-11",
     "igId": "18129854498298798",
-    "thSlug": "taiyuan-yingze-park",
+    "thSlug": "hong-kong-simple-plan-bigger-than-you-think-tour",
     "igSlug": "taiyuan-yingze-park",
     "history": [
       {
@@ -627,7 +628,17 @@
       {
         "day": "2026-11-05",
         "slug": "palawan-secret-lagoon",
-        "thId": "17979098688299270"
+        "thId": "17979098688299270",
+        "insights": {
+          "at": "2026-11-12",
+          "th": {
+            "views": 21,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-06",
@@ -661,6 +672,11 @@
         "slug": "taiyuan-yingze-park",
         "thId": "18208408741375055",
         "igId": "18129854498298798"
+      },
+      {
+        "day": "2026-11-12",
+        "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
+        "thId": "17916231993590153"
       }
     ]
   }
