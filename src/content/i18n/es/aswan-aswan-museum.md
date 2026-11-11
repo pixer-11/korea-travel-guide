@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: aswan-aswan-museum
-srcHash: '6065ca215f1d'
+srcHash: 'bbab8f1232d7'
 title: 'Museo de Asuán: guía de viaje (4.0★)'
-description: En el extremo sur de la isla Elefantina, frente a la Corniche y al otro lado del Nilo, se encuentra el Museo de Asuán. Con una valoración de 4.0★ (422 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
+description: En el extremo sur de la isla Elefantina, frente a la Corniche y al otro lado del Nilo, se encuentra el Museo de Asuán. Con una valoración de 4.0★ (423 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
 quickAnswer: En el extremo sur de la isla Elefantina, frente a la Corniche y al otro lado del Nilo, se alza el Museo de Asuán. Sus vitrinas reúnen piezas egipcias y romanas que salieron a la luz durante las obras de la presa de Asuán. El horario actual es de 9:00 AM–7:00 PM. Calcule alrededor de una hora para la visita y aproveche para recorrer también las ruinas de la antigua Abu, que están justo al lado.
 faq:
   - q: ¿Cómo se llega al Museo de Asuán?

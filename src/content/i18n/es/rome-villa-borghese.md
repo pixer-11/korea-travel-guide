@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rome-villa-borghese
-srcHash: '94436375d815'
+srcHash: 'c7ffa2e60b68'
 title: 'Villa Borghese: Guía de viaje de Roma (4,6★)'
-description: 'Villa Borghese es el gran parque central de Roma, extendido sobre la colina que va desde la Escalinata de la Plaza de España y la Piazza del Popolo hasta la Galería Borghese y el zoo. 4,6★ (95.819 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'Villa Borghese es el gran parque central de Roma, extendido sobre la colina que va desde la Escalinata de la Plaza de España y la Piazza del Popolo hasta la Galería Borghese y el zoo. 4,6★ (96.807 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Villa Borghese es el gran parque central de Roma, extendido sobre la colina que va desde la Escalinata de la Plaza de España y la Piazza del Popolo hasta la Galería Borghese y el zoo. La entrada al parque es gratuita y permanece abierto desde primera hora de la mañana hasta las 23:00, siendo las horas más tranquilas, tanto entre semana como los fines de semana, antes de las 10:00. Si solo va a pasear por los jardines, calcule medio día; si además visita la Galería Borghese, para la que se necesita entrada con horario reservado con antelación, resérvese el día completo.
 faq:
   - q: ¿Es gratis entrar a Villa Borghese?

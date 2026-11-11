@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: rothenburg-ob-der-tauber-marktplatz-rothenburg-ob-der-tauber
-srcHash: 'a9aa117b42e1'
+srcHash: 'a31e70a8b295'
 title: 陶伯河上游罗滕堡集市广场旅行指南（4.8★）
-description: 集市广场（Marktplatz）坐落在陶伯河上游罗滕堡的城墙老城里，是一座依坡而建的主广场。评分4.8★（2,314条评价），游客评价、开放时间和游览建议都在这里。
+description: 集市广场（Marktplatz）坐落在陶伯河上游罗滕堡的城墙老城里，是一座依坡而建的主广场。评分4.8★（2,352条评价），游客评价、开放时间和游览建议都在这里。
 quickAnswer: 集市广场（Marktplatz）是陶伯河上游罗滕堡（Rothenburg ob der Tauber）城墙老城里的主广场，地势略有倾斜。广场一侧是可以登塔的市政厅，另一侧是议员酒馆的大钟，“豪饮传说”人偶每到整点就会现身。广场全天24小时开放。一日游大巴通常中午前后到、傍晚前离开，想避开人潮，最好清晨或傍晚来。
 faq:
   - q: 什么时候去集市广场人最少？

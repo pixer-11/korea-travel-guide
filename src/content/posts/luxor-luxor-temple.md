@@ -1,43 +1,50 @@
 ---
-title: "Luxor Temple: Travel Guide (4.8★)"
-description: "Luxor Temple sits on the Corniche in central Luxor on the Nile's east bank, a short walk from most city hotels and the train station. 4.8★ (35,352 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "attraction"
-pubDate: "2026-11-09T17:54:27.449Z"
+title: 'Luxor Temple: Travel Guide (4.8★)'
+description: >-
+  Luxor Temple sits on the Corniche in central Luxor on the Nile's east bank, a
+  short walk from most city hotels and the train station. 4.8★ (35,392 reviews)
+  — what visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: attraction
+pubDate: '2026-11-09T17:54:27.449Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg/1920px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg"
-  credit: "Photo: Holger Uwe Schmitt / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg/1920px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg
+  credit: 'Photo: Holger Uwe Schmitt / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Luxor_Temple_R04.jpg/3840px-Luxor_Temple_R04.jpg"
-    credit: "Photo: Marc Ryckaert / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Luxor_Temple_R04.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Luxor_Temple_R04.jpg/3840px-Luxor_Temple_R04.jpg
+    credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Luxor_Temple_R04.jpg'
 place:
-  id: "ChIJYd_aHsQVSRQRgX1sNFyJk3Y"
-  name: "Luxor Temple"
-  address: "Luxor City, Luxor, Luxor Governorate 1362501, Egypt"
+  id: ChIJYd_aHsQVSRQRgX1sNFyJk3Y
+  name: Luxor Temple
+  address: 'Luxor City, Luxor, Luxor Governorate 1362501, Egypt'
   rating: 4.8
-  userRatingsTotal: 35352
-  googleMapsUrl: "https://maps.google.com/?cid=8544323947161484673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 35392
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8544323947161484673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.699502000000003
   lng: 32.6390509
   openingHours:
-    - "Monday: 6:00 AM – 8:00 PM"
-    - "Tuesday: 6:00 AM – 8:00 PM"
-    - "Wednesday: 6:00 AM – 8:00 PM"
-    - "Thursday: 6:00 AM – 8:00 PM"
-    - "Friday: 6:00 AM – 8:00 PM"
-    - "Saturday: 6:00 AM – 8:00 PM"
-    - "Sunday: 6:00 AM – 8:00 PM"
+    - 'Monday: 6:00 AM – 8:00 PM'
+    - 'Tuesday: 6:00 AM – 8:00 PM'
+    - 'Wednesday: 6:00 AM – 8:00 PM'
+    - 'Thursday: 6:00 AM – 8:00 PM'
+    - 'Friday: 6:00 AM – 8:00 PM'
+    - 'Saturday: 6:00 AM – 8:00 PM'
+    - 'Sunday: 6:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -57,24 +64,44 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_59336b4a79464e733158675251525356517348615f64594a496843"
+    venueId: ven_59336b4a79464e733158675251525356517348615f64594a496843
 tags:
-  - "luxor"
-  - "Luxor Temple"
-quickAnswer: "Luxor Temple sits on the Corniche in central Luxor on the Nile's east bank, a short walk from most city hotels and the train station. It's usually calmest between 7am and 11am every day. Weekends from 4pm to 8pm are the busiest stretch, so if you want the floodlit evening temple, expect company and give it about two hours either way."
+  - luxor
+  - Luxor Temple
+quickAnswer: >-
+  Luxor Temple sits on the Corniche in central Luxor on the Nile's east bank, a
+  short walk from most city hotels and the train station. It's usually calmest
+  between 7am and 11am every day. Weekends from 4pm to 8pm are the busiest
+  stretch, so if you want the floodlit evening temple, expect company and give
+  it about two hours either way.
 faq:
-  - q: "When is the quietest time to visit Luxor Temple?"
-    a: "Typically 7am–11am, on both weekdays and weekends. Avoid weekends from 4pm to 8pm, which is usually the busiest stretch."
-  - q: "What are Luxor Temple's opening hours?"
-    a: "Currently 6:00am–8:00pm every day of the week. Egyptian sites adjust their hours through the year, so confirm on the official antiquities ticketing site before you go."
-  - q: "How long do I need at Luxor Temple?"
-    a: "Allow about 1.5 to 2 hours to walk from the Ramesses II pylon to the sanctuary at the back. Add more time if you're staying on to see the floodlights come on at dusk."
-  - q: "Is it better to visit Luxor Temple in the day or at night?"
-    a: "Mornings are cooler, quieter and best for reading the reliefs. Evenings bring the floodlit columns, but also the biggest crowds, especially on weekends. A weekday evening is the best compromise."
-  - q: "How do I get from Luxor Temple to Karnak?"
-    a: "Karnak is about 3km north. You can follow the Avenue of Sphinxes on foot, or take a taxi or calèche along the Corniche. The Luxor Museum is on the way."
+  - q: When is the quietest time to visit Luxor Temple?
+    a: >-
+      Typically 7am–11am, on both weekdays and weekends. Avoid weekends from 4pm
+      to 8pm, which is usually the busiest stretch.
+  - q: What are Luxor Temple's opening hours?
+    a: >-
+      Currently 6:00am–8:00pm every day of the week. Egyptian sites adjust their
+      hours through the year, so confirm on the official antiquities ticketing
+      site before you go.
+  - q: How long do I need at Luxor Temple?
+    a: >-
+      Allow about 1.5 to 2 hours to walk from the Ramesses II pylon to the
+      sanctuary at the back. Add more time if you're staying on to see the
+      floodlights come on at dusk.
+  - q: Is it better to visit Luxor Temple in the day or at night?
+    a: >-
+      Mornings are cooler, quieter and best for reading the reliefs. Evenings
+      bring the floodlit columns, but also the biggest crowds, especially on
+      weekends. A weekday evening is the best compromise.
+  - q: How do I get from Luxor Temple to Karnak?
+    a: >-
+      Karnak is about 3km north. You can follow the Avenue of Sphinxes on foot,
+      or take a taxi or calèche along the Corniche. The Luxor Museum is on the
+      way.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## Between a Pharaoh's Knees

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rothenburg-ob-der-tauber-altstadt-rothenburg
-srcHash: 'b2b356d2eaa3'
+srcHash: '1ea7f0ea0898'
 title: 'Casco antiguo de Rothenburg: guía de viaje de Rothenburg ob der Tauber'
-description: 'El casco antiguo amurallado de Rothenburg ob der Tauber (Alemania) conserva su trazado medieval y se encuentra en la Ruta Romántica, en la región bávara de Franconia. Valoración de 4.8★ (109 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El casco antiguo amurallado de Rothenburg ob der Tauber (Alemania) conserva su trazado medieval y se encuentra en la Ruta Romántica, en la región bávara de Franconia. Valoración de 4.8★ (112 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El casco antiguo de Rothenburg ob der Tauber (Altstadt Rothenburg) es un recinto medieval amurallado de Alemania que se encuentra en la Ruta Romántica, en la región bávara de Franconia. Sus calles pueden recorrerse a cualquier hora del día o de la noche. Para disfrutar del Plönlein, la Marktplatz y el adarve cubierto de la muralla sin los grupos de excursionistas del mediodía, lo mejor es pasar allí la noche o llegar a primera hora de la mañana o al atardecer.
 faq:
   - q: ¿Cómo se llega en tren al casco antiguo de Rothenburg ob der Tauber?

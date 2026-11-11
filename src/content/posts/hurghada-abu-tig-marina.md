@@ -1,47 +1,72 @@
 ---
-title: "Abu Tig Marina: Hurghada Travel Guide (4.8★)"
-description: "Abu Tig Marina is the yacht harbour and waterfront promenade of El Gouna, the lagoon resort town just north of Hurghada city. 4.8★ (422 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Hurghada"
-category: "hidden-gem"
-pubDate: "2026-11-11T07:47:15.988Z"
+title: 'Abu Tig Marina: Hurghada Travel Guide (4.8★)'
+description: >-
+  Abu Tig Marina is the yacht harbour and waterfront promenade of El Gouna, the
+  lagoon resort town just north of Hurghada city. 4.8★ (423 reviews) — what
+  visitors say, hours, and tips.
+country: Egypt
+region: Hurghada
+category: hidden-gem
+pubDate: '2026-11-11T07:47:15.988Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/El_Gouna_Abu_Tig_R03.jpg/3840px-El_Gouna_Abu_Tig_R03.jpg"
-  credit: "Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:El_Gouna_Abu_Tig_R03.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/El_Gouna_Abu_Tig_R03.jpg/3840px-El_Gouna_Abu_Tig_R03.jpg
+  credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:El_Gouna_Abu_Tig_R03.jpg'
+  via: act
   focus:
     x: 70
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJo1IpFOJnUhQRdRbLMpsxNxs"
-  name: "Abu Tig Marina"
-  address: "CM5G+GV9, Hurghada 2, Red Sea Governorate 1982710, Egypt"
+  id: ChIJo1IpFOJnUhQRdRbLMpsxNxs
+  name: Abu Tig Marina
+  address: 'CM5G+GV9, Hurghada 2, Red Sea Governorate 1982710, Egypt'
   rating: 4.8
-  userRatingsTotal: 422
-  googleMapsUrl: "https://maps.google.com/?cid=1961090705385002613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 423
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1961090705385002613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.408209900000003
   lng: 33.6752317
 tags:
-  - "hurghada"
-  - "old quarter"
-quickAnswer: "Abu Tig Marina is the yacht harbour and waterfront promenade of El Gouna, the lagoon resort town just north of Hurghada city. Come in the late afternoon and stay through dinner: walk the quay, choose a table by the water, and give it two to three hours."
+  - hurghada
+  - old quarter
+quickAnswer: >-
+  Abu Tig Marina is the yacht harbour and waterfront promenade of El Gouna, the
+  lagoon resort town just north of Hurghada city. Come in the late afternoon and
+  stay through dinner: walk the quay, choose a table by the water, and give it
+  two to three hours.
 faq:
-  - q: "Is Abu Tig Marina in Hurghada city?"
-    a: "No. It is in El Gouna, the resort town north of Hurghada along the coast, and falls under the wider Hurghada area. Plan on a 30–40 minute drive from central Hurghada."
-  - q: "How do I get to Abu Tig Marina from Hurghada?"
-    a: "Take a taxi or a ride-hailing car north along the coast road. Inside El Gouna, tuk-tuks and the town shuttle buses connect the marina with Downtown and the beaches."
-  - q: "When is the best time to visit?"
-    a: "Late afternoon into evening. You avoid the harsh midday sun, see the quay lit up after dark, and can get a waterfront table before dinner gets busy. October to April is the most comfortable season."
-  - q: "How long should I spend there?"
-    a: "Two to three hours covers a walk around the promenade and a relaxed meal. Add the rest of El Gouna, such as Downtown or the beaches, if you want a full day."
-  - q: "Do restaurants at the marina take cards?"
-    a: "Most sit-down restaurants in El Gouna accept cards. Carry some Egyptian pounds for tuk-tuks and tips, and check whether a service charge is already on your bill."
+  - q: Is Abu Tig Marina in Hurghada city?
+    a: >-
+      No. It is in El Gouna, the resort town north of Hurghada along the coast,
+      and falls under the wider Hurghada area. Plan on a 30–40 minute drive from
+      central Hurghada.
+  - q: How do I get to Abu Tig Marina from Hurghada?
+    a: >-
+      Take a taxi or a ride-hailing car north along the coast road. Inside El
+      Gouna, tuk-tuks and the town shuttle buses connect the marina with
+      Downtown and the beaches.
+  - q: When is the best time to visit?
+    a: >-
+      Late afternoon into evening. You avoid the harsh midday sun, see the quay
+      lit up after dark, and can get a waterfront table before dinner gets busy.
+      October to April is the most comfortable season.
+  - q: How long should I spend there?
+    a: >-
+      Two to three hours covers a walk around the promenade and a relaxed meal.
+      Add the rest of El Gouna, such as Downtown or the beaches, if you want a
+      full day.
+  - q: Do restaurants at the marina take cards?
+    a: >-
+      Most sit-down restaurants in El Gouna accept cards. Carry some Egyptian
+      pounds for tuk-tuks and tips, and check whether a service charge is
+      already on your bill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## A harbour built for walking

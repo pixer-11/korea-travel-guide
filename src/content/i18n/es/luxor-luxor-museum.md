@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-luxor-museum
-srcHash: 'fcc518d582a7'
+srcHash: '09db1942dc10'
 title: 'Museo de Luxor: guía de viaje (4.6★)'
-description: A orillas del Nilo, en la Corniche de Luxor, el Museo de Luxor se encuentra entre el templo de Luxor y Karnak. Con una valoración de 4.6★ (8,253 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: A orillas del Nilo, en la Corniche de Luxor, el Museo de Luxor se encuentra entre el templo de Luxor y Karnak. Con una valoración de 4.6★ (8,256 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Museo de Luxor está en la Corniche de la ciudad de Luxor, entre el templo de Luxor y Karnak. Reúne una colección muy cuidada de estatuas, relieves de templos y dos momias reales, expuestas en salas en penumbra e iluminadas con focos. A la mayoría de los visitantes les bastan entre 1.5 y 2 horas. Actualmente abre de 9am a 2pm y de nuevo de 5pm a 8pm. Conviene evitar los fines de semana de 11am a 2pm y de 5pm a 8pm, que suelen ser sus horas de mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Luxor?

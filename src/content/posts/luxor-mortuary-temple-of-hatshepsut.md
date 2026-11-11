@@ -1,43 +1,53 @@
 ---
-title: "Mortuary Temple of Hatshepsut: Luxor Travel Guide (4.7★)"
-description: "The Mortuary Temple of Hatshepsut stands at Deir el-Bahari on Luxor's West Bank, three stacked colonnaded terraces built against a sheer limestone cliff. 4.7★ (24,096 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "attraction"
-pubDate: "2026-11-09T17:54:40.891Z"
+title: 'Mortuary Temple of Hatshepsut: Luxor Travel Guide (4.7★)'
+description: >-
+  The Mortuary Temple of Hatshepsut stands at Deir el-Bahari on Luxor's West
+  Bank, three stacked colonnaded terraces built against a sheer limestone cliff.
+  4.7★ (24,123 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: attraction
+pubDate: '2026-11-09T17:54:40.891Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg/1920px-Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg/1920px-Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg
   focus:
     x: 45
-    y: 65
+    'y': 65
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_-_Flickr_-_w_lemay.jpg"
-    credit: "Photo: Warren LeMay from Covington, KY, United States / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mortuary_Temple_of_Hatshepsut,_Luxor,_LG,_EGY_-_Flickr_-_w_lemay.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/6e/Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_-_Flickr_-_w_lemay.jpg
+    credit: >-
+      Photo: Warren LeMay from Covington, KY, United States / Wikimedia Commons
+      (CC0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mortuary_Temple_of_Hatshepsut,_Luxor,_LG,_EGY_-_Flickr_-_w_lemay.jpg
 place:
-  id: "ChIJ3ae_xxgWSRQR07VjFXrhHwM"
-  name: "Mortuary Temple of Hatshepsut"
-  address: "Luxor, Al Qarna, Luxor Governorate 1340420, Egypt"
+  id: ChIJ3ae_xxgWSRQR07VjFXrhHwM
+  name: Mortuary Temple of Hatshepsut
+  address: 'Luxor, Al Qarna, Luxor Governorate 1340420, Egypt'
   rating: 4.7
-  userRatingsTotal: 24096
-  googleMapsUrl: "https://maps.google.com/?cid=225146420852930003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 24123
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=225146420852930003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.738277300000004
   lng: 32.6064906
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,24 +64,44 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_4d7748687258466a56373052515253576778785f6561334a496843"
+    venueId: ven_4d7748687258466a56373052515253576778785f6561334a496843
 tags:
-  - "luxor"
-  - "Temple of Hatshepsut"
-quickAnswer: "The Mortuary Temple of Hatshepsut stands at Deir el-Bahari on Luxor's West Bank, three stacked colonnaded terraces built against a sheer limestone cliff. It currently opens 6am–5pm. It's calmest 7am–9am and 4pm–5pm on weekdays, so avoid weekends between 9am and 2pm, when the tour groups arrive."
+  - luxor
+  - Temple of Hatshepsut
+quickAnswer: >-
+  The Mortuary Temple of Hatshepsut stands at Deir el-Bahari on Luxor's West
+  Bank, three stacked colonnaded terraces built against a sheer limestone cliff.
+  It currently opens 6am–5pm. It's calmest 7am–9am and 4pm–5pm on weekdays, so
+  avoid weekends between 9am and 2pm, when the tour groups arrive.
 faq:
-  - q: "When is the quietest time to visit the Mortuary Temple of Hatshepsut?"
-    a: "On weekdays it's calmest 7am–9am and 4pm–5pm. At weekends it's calmest 7am–8am and 4pm–5pm. Avoid weekends between 9am and 2pm, which is the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 6am–5pm every day of the week. West Bank sites change their hours through the year, so check the official Ministry of Tourism and Antiquities site before you go."
-  - q: "How do I get there from central Luxor?"
-    a: "Cross to the West Bank by public ferry or motorboat and take a taxi from there, or drive over the Luxor Bridge south of town. The temple is at Deir el-Bahari in the Al Qarna area."
-  - q: "How long should I spend there?"
-    a: "About 1–1.5 hours covers all three terraces and the Hathor and Anubis chapels. Add time if you plan to walk the hill path to the Valley of the Kings."
-  - q: "What else is nearby?"
-    a: "The Valley of the Kings is just over the ridge. Mentuhotep II's ruined temple sits next door, and the Colossi of Memnon are on the road back toward the river."
+  - q: When is the quietest time to visit the Mortuary Temple of Hatshepsut?
+    a: >-
+      On weekdays it's calmest 7am–9am and 4pm–5pm. At weekends it's calmest
+      7am–8am and 4pm–5pm. Avoid weekends between 9am and 2pm, which is the
+      busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 6am–5pm every day of the week. West Bank sites
+      change their hours through the year, so check the official Ministry of
+      Tourism and Antiquities site before you go.
+  - q: How do I get there from central Luxor?
+    a: >-
+      Cross to the West Bank by public ferry or motorboat and take a taxi from
+      there, or drive over the Luxor Bridge south of town. The temple is at Deir
+      el-Bahari in the Al Qarna area.
+  - q: How long should I spend there?
+    a: >-
+      About 1–1.5 hours covers all three terraces and the Hathor and Anubis
+      chapels. Add time if you plan to walk the hill path to the Valley of the
+      Kings.
+  - q: What else is nearby?
+    a: >-
+      The Valley of the Kings is just over the ridge. Mentuhotep II's ruined
+      temple sits next door, and the Colossi of Memnon are on the road back
+      toward the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## Three terraces against the cliff

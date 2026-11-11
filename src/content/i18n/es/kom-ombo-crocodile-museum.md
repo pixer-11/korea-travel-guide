@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kom-ombo-crocodile-museum
-srcHash: '4a7907d1d295'
+srcHash: '52c4b2dfecd2'
 title: 'Museo del Cocodrilo: guía de viaje de Kom Ombo (4.3★)'
-description: Junto al Templo de Kom Ombo, en la orilla oriental del Nilo y a unos 45 km al norte de Asuán, el Museo del Cocodrilo reúne cocodrilos momificados vinculados a Sobek, el dios del templo. Con 4.3★ (614 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Junto al Templo de Kom Ombo, en la orilla oriental del Nilo y a unos 45 km al norte de Asuán, el Museo del Cocodrilo reúne cocodrilos momificados vinculados a Sobek, el dios del templo. Con 4.3★ (617 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Junto al Templo de Kom Ombo, en la orilla oriental del Nilo y a unos 45 km al norte de Asuán, se encuentra el Museo del Cocodrilo. En él se conservan cocodrilos momificados vinculados a Sobek, el dios al que estaba consagrado el templo. La visita lleva entre 20–40 minutos. Entre semana, las horas más tranquilas van de 9am a 11am y de 1pm a 2pm. En fin de semana conviene evitar la franja de 4pm–9pm, que es cuando llegan los pasajeros de los cruceros.
 faq:
   - q: ¿Dónde se encuentra el Museo del Cocodrilo de Kom Ombo?

@@ -1,59 +1,87 @@
 ---
-title: "Altstadt Rothenburg: Rothenburg ob der Tauber Travel Guide"
-description: "Altstadt Rothenburg is the walled medieval old town of Rothenburg ob der Tauber, Germany, on the Romantic Road in Bavaria's Franconia region. 4.8★ (109 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Rothenburg ob der Tauber"
-category: "hidden-gem"
-pubDate: "2026-10-31T07:54:38.563Z"
+title: 'Altstadt Rothenburg: Rothenburg ob der Tauber Travel Guide'
+description: >-
+  Altstadt Rothenburg is the walled medieval old town of Rothenburg ob der
+  Tauber, Germany, on the Romantic Road in Bavaria's Franconia region. 4.8★ (112
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Rothenburg ob der Tauber
+category: hidden-gem
+pubDate: '2026-10-31T07:54:38.563Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg"
-  credit: "Photo: Dguendel / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Burggarten,_Blick_zur_Altstadt,_zum_Kobolzeller-_und_Siebersturm.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg
+  credit: 'Photo: Dguendel / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Burggarten,_Blick_zur_Altstadt,_zum_Kobolzeller-_und_Siebersturm.jpg
+  via: act
   focus:
     x: 52
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_Bild_2.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_Bild_2.jpg"
-    credit: "Photo: Dguendel / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Burggarten,_Blick_zur_Altstadt,_Bild_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_Bild_2.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_Bild_2.jpg
+    credit: 'Photo: Dguendel / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Burggarten,_Blick_zur_Altstadt,_Bild_2.jpg
 place:
-  id: "ChIJwf7wbwCPmEcRvo24YGC3zL0"
-  name: "Altstadt Rothenburg"
-  address: "Rothenburg ob der Tauber, 91541 Rothenburg ob der Tauber, Germany"
+  id: ChIJwf7wbwCPmEcRvo24YGC3zL0
+  name: Altstadt Rothenburg
+  address: 'Rothenburg ob der Tauber, 91541 Rothenburg ob der Tauber, Germany'
   rating: 4.8
-  userRatingsTotal: 109
-  googleMapsUrl: "https://maps.google.com/?cid=13676507792984804798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 112
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13676507792984804798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.376725199999996
   lng: 10.179399
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "rothenburg ob der tauber"
-  - "old quarter"
-quickAnswer: "Altstadt Rothenburg is the walled medieval old town of Rothenburg ob der Tauber, Germany, on the Romantic Road in Bavaria's Franconia region. Its streets are open around the clock. Stay overnight, or arrive early morning or evening, to walk the Plönlein, the Marktplatz and the covered town wall without the midday day-trip groups."
+  - rothenburg ob der tauber
+  - old quarter
+quickAnswer: >-
+  Altstadt Rothenburg is the walled medieval old town of Rothenburg ob der
+  Tauber, Germany, on the Romantic Road in Bavaria's Franconia region. Its
+  streets are open around the clock. Stay overnight, or arrive early morning or
+  evening, to walk the Plönlein, the Marktplatz and the covered town wall
+  without the midday day-trip groups.
 faq:
-  - q: "How do I get to Rothenburg ob der Tauber's old town by train?"
-    a: "Take the branch line from Steinach to Rothenburg station. From there it's roughly a ten-minute walk west to the Röder Gate, which leads straight into the walled Altstadt."
-  - q: "Where do I park when visiting the Altstadt?"
-    a: "Traffic inside the walls is restricted. Use the numbered car parks just outside the ring and walk in through the nearest gate."
-  - q: "How long should I spend in Rothenburg's old town?"
-    a: "A full day covers the Plönlein, the Marktplatz, St. Jakob, the Burggarten and part of the wall walk. One night lets you see it in the evening and early morning, without the day-trip crowds."
-  - q: "Can I walk the town walls?"
-    a: "Yes. The covered Wehrgang walkway runs along the inside of the wall, and you can climb up at several towers. It's narrow in places, so be ready to step aside for other walkers."
-  - q: "What's nearby or special to try?"
-    a: "Try a Schneeballen pastry and a glass of Franconian Silvaner. Take the Night Watchman evening tour from the Marktplatz, and visit the Medieval Crime Museum. In winter, don't miss the Reiterlesmarkt Christmas market."
+  - q: How do I get to Rothenburg ob der Tauber's old town by train?
+    a: >-
+      Take the branch line from Steinach to Rothenburg station. From there it's
+      roughly a ten-minute walk west to the Röder Gate, which leads straight
+      into the walled Altstadt.
+  - q: Where do I park when visiting the Altstadt?
+    a: >-
+      Traffic inside the walls is restricted. Use the numbered car parks just
+      outside the ring and walk in through the nearest gate.
+  - q: How long should I spend in Rothenburg's old town?
+    a: >-
+      A full day covers the Plönlein, the Marktplatz, St. Jakob, the Burggarten
+      and part of the wall walk. One night lets you see it in the evening and
+      early morning, without the day-trip crowds.
+  - q: Can I walk the town walls?
+    a: >-
+      Yes. The covered Wehrgang walkway runs along the inside of the wall, and
+      you can climb up at several towers. It's narrow in places, so be ready to
+      step aside for other walkers.
+  - q: What's nearby or special to try?
+    a: >-
+      Try a Schneeballen pastry and a glass of Franconian Silvaner. Take the
+      Night Watchman evening tour from the Marktplatz, and visit the Medieval
+      Crime Museum. In winter, don't miss the Reiterlesmarkt Christmas market.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## Inside the ring of walls

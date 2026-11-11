@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-ramesseum
-srcHash: '49a7620dadfd'
+srcHash: '7797f2c8059d'
 title: 'Rameseum: guía de viaje de Luxor (4.7★)'
-description: En Al Qarna, en la orilla occidental de Luxor, se levanta el Rameseum, templo funerario de Ramsés II. Con una valoración de 4.7★ (966 reseñas), reunimos la opinión de los visitantes, el horario y consejos prácticos.
+description: En Al Qarna, en la orilla occidental de Luxor, se levanta el Rameseum, templo funerario de Ramsés II. Con una valoración de 4.7★ (969 reseñas), reunimos la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: 'En Al Qarna, en la orilla occidental de Luxor, se encuentra el Rameseum (Ramesseum), templo funerario de Ramsés II. Recibe muchos menos visitantes que el Valle de los Reyes y guarda dos tesoros: el coloso derribado que inspiró el «Ozymandias» de Shelley y los relieves de la batalla de Qadesh. Su horario actual es de 6am–5pm. Calcule entre 60–90 minutos de visita y evite los fines de semana de 10am a 3pm, que es cuando suele haber más gente.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Rameseum?

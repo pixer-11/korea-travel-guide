@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-luxor-temple
-srcHash: '2a2e2f49a9e3'
+srcHash: '7a6c9f3e0b6c'
 title: 'Templo de Luxor: guía de viaje (4.8★)'
-description: En plena Corniche del centro de Luxor, en la orilla oriental del Nilo, se alza el Templo de Luxor, a pocos minutos a pie de la mayoría de los hoteles y de la estación de tren. Con una valoración de 4.8★ (35,352 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En plena Corniche del centro de Luxor, en la orilla oriental del Nilo, se alza el Templo de Luxor, a pocos minutos a pie de la mayoría de los hoteles y de la estación de tren. Con una valoración de 4.8★ (35,392 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: 'En plena Corniche del centro de Luxor, en la orilla oriental del Nilo, se alza el Templo de Luxor, a pocos minutos a pie de la mayoría de los hoteles y de la estación de tren. Los momentos más tranquilos suelen darse cada día entre las 7am y las 11am. La mayor afluencia se concentra los fines de semana de 4pm a 8pm: si desea contemplar el templo iluminado al anochecer, cuente con encontrar gente. Sea cual sea la hora elegida, reserve unas dos horas para la visita.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Templo de Luxor?

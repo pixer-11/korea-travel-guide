@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-karnak
-srcHash: '8a4c83a977e0'
+srcHash: 'd44b2c6069e0'
 title: 'Karnak: guía de viaje de Luxor (4.8★)'
-description: En la orilla oriental de Luxor, a unos 3 km al norte del templo de Luxor, se alza Karnak, un inmenso complejo de más de 200 construcciones agrupadas en torno al templo de Amón-Ra y su gran sala hipóstila. Con una valoración de 4.8★ (31,407 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
+description: En la orilla oriental de Luxor, a unos 3 km al norte del templo de Luxor, se alza Karnak, un inmenso complejo de más de 200 construcciones agrupadas en torno al templo de Amón-Ra y su gran sala hipóstila. Con una valoración de 4.8★ (31,442 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
 quickAnswer: En la orilla oriental de Luxor, a unos 3 km al norte del templo de Luxor, se encuentra Karnak, un inmenso complejo de templos en el que más de 200 construcciones se agrupan en torno al templo de Amón-Ra y su gran sala hipóstila. Actualmente abre de 6am a 5pm, y la franja más tranquila suele ser de 7am a 8am. Reserve entre 3 y 4 horas para la visita y procure entrar antes de que lleguen los autocares del fin de semana, que suelen concentrarse entre las 9am y la 1pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Karnak?

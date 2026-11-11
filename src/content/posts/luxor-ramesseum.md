@@ -1,43 +1,49 @@
 ---
-title: "Ramesseum: Luxor Travel Guide (4.7★)"
-description: "The Ramesseum is the mortuary temple of Ramesses II at Al Qarna on Luxor's West Bank. 4.7★ (966 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "hidden-gem"
-pubDate: "2026-11-09T17:54:31.598Z"
+title: 'Ramesseum: Luxor Travel Guide (4.7★)'
+description: >-
+  The Ramesseum is the mortuary temple of Ramesses II at Al Qarna on Luxor's
+  West Bank. 4.7★ (969 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: hidden-gem
+pubDate: '2026-11-09T17:54:31.598Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg/1920px-SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg"
-  credit: "Photo: Steve F-E-Cameron / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg/1920px-SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg
+  credit: 'Photo: Steve F-E-Cameron / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Luxor_Ramesseum_R02.jpg"
-    credit: "Photo: Marc Ryckaert / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Luxor_Ramesseum_R02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/f/fb/Luxor_Ramesseum_R02.jpg
+    credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Luxor_Ramesseum_R02.jpg'
 place:
-  id: "ChIJbYRFqhYWSRQRy7x0-8trRYI"
-  name: "Ramesseum"
-  address: "Al Qarna, Luxor Governorate 1341711, Egypt"
+  id: ChIJbYRFqhYWSRQRy7x0-8trRYI
+  name: Ramesseum
+  address: 'Al Qarna, Luxor Governorate 1341711, Egypt'
   rating: 4.7
-  userRatingsTotal: 966
-  googleMapsUrl: "https://maps.google.com/?cid=9387027522164931787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 969
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9387027522164931787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.7281487
   lng: 32.6104348
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -49,24 +55,46 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_4959527274382d307837795251525357596871465259624a496843"
+    venueId: ven_4959527274382d307837795251525357596871465259624a496843
 tags:
-  - "luxor"
-  - "Ramesseum"
-quickAnswer: "The Ramesseum is the mortuary temple of Ramesses II at Al Qarna on Luxor's West Bank. It sees far fewer visitors than the Valley of the Kings, and it holds the fallen colossus behind Shelley's \"Ozymandias\" and carved scenes of the Battle of Qadesh. It currently opens 6am–5pm, so plan 60–90 minutes and avoid weekends between 10am and 3pm, when it usually gets busiest."
+  - luxor
+  - Ramesseum
+quickAnswer: >-
+  The Ramesseum is the mortuary temple of Ramesses II at Al Qarna on Luxor's
+  West Bank. It sees far fewer visitors than the Valley of the Kings, and it
+  holds the fallen colossus behind Shelley's "Ozymandias" and carved scenes of
+  the Battle of Qadesh. It currently opens 6am–5pm, so plan 60–90 minutes and
+  avoid weekends between 10am and 3pm, when it usually gets busiest.
 faq:
-  - q: "When is the quietest time to visit the Ramesseum?"
-    a: "The crowd forecast doesn't name a quietest window. It does say weekends are usually busiest between 10am and 3pm, so avoid those hours. An early arrival soon after the current 6am opening gives you cooler air and better light on the reliefs."
-  - q: "How do I get to the Ramesseum from Luxor city?"
-    a: "Cross to the West Bank by public ferry, motorboat, or taxi over the Luxor Bridge. The temple is at Al Qarna, a short drive from the Colossi of Memnon. Ask your hotel or driver where Ramesseum tickets are currently sold before you cross."
-  - q: "How long should I spend at the Ramesseum?"
-    a: "Plan 60–90 minutes. That covers the fallen colossus, the Qadesh and Dapur reliefs, the hypostyle hall and the mud-brick storerooms at the back."
-  - q: "Is the Ramesseum the statue from Shelley's 'Ozymandias'?"
-    a: "Yes, it's the site linked to the poem. Shelley drew on Diodorus Siculus's description of the 'Tomb of Ozymandias'. The fallen granite colossus of Ramesses II still lies in the second court."
-  - q: "What else is nearby on the West Bank?"
-    a: "Medinet Habu, Deir el-Medina, the Colossi of Memnon, Deir el-Bahari and the Valley of the Kings are all a short drive away. That makes it easy to fit the Ramesseum into a full West Bank day."
+  - q: When is the quietest time to visit the Ramesseum?
+    a: >-
+      The crowd forecast doesn't name a quietest window. It does say weekends
+      are usually busiest between 10am and 3pm, so avoid those hours. An early
+      arrival soon after the current 6am opening gives you cooler air and better
+      light on the reliefs.
+  - q: How do I get to the Ramesseum from Luxor city?
+    a: >-
+      Cross to the West Bank by public ferry, motorboat, or taxi over the Luxor
+      Bridge. The temple is at Al Qarna, a short drive from the Colossi of
+      Memnon. Ask your hotel or driver where Ramesseum tickets are currently
+      sold before you cross.
+  - q: How long should I spend at the Ramesseum?
+    a: >-
+      Plan 60–90 minutes. That covers the fallen colossus, the Qadesh and Dapur
+      reliefs, the hypostyle hall and the mud-brick storerooms at the back.
+  - q: Is the Ramesseum the statue from Shelley's 'Ozymandias'?
+    a: >-
+      Yes, it's the site linked to the poem. Shelley drew on Diodorus Siculus's
+      description of the 'Tomb of Ozymandias'. The fallen granite colossus of
+      Ramesses II still lies in the second court.
+  - q: What else is nearby on the West Bank?
+    a: >-
+      Medinet Habu, Deir el-Medina, the Colossi of Memnon, Deir el-Bahari and
+      the Valley of the Kings are all a short drive away. That makes it easy to
+      fit the Ramesseum into a full West Bank day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## A King Lying on His Face

@@ -1,47 +1,73 @@
 ---
-title: "Mortuary Temple of Ramesses III: Luxor Travel Guide"
-description: "The Mortuary Temple of Ramesses III, better known as Medinet Habu, stands on Luxor's West Bank at Al Bairat, near Al Qarna, a short drive from the Colossi of Memnon."
-country: "Egypt"
-region: "Luxor"
-category: "hidden-gem"
-pubDate: "2026-11-09T17:54:22.263Z"
+title: 'Mortuary Temple of Ramesses III: Luxor Travel Guide'
+description: >-
+  The Mortuary Temple of Ramesses III, better known as Medinet Habu, stands on
+  Luxor's West Bank at Al Bairat, near Al Qarna, a short drive from the Colossi
+  of Memnon.
+country: Egypt
+region: Luxor
+category: hidden-gem
+pubDate: '2026-11-09T17:54:22.263Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg/3840px-27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg"
-  credit: "Photo: Panegyrics of Granovetter / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:27391-_Mortuary_temple_of_Ramesses_III,_Medinet_Habu.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg/3840px-27391-_Mortuary_temple_of_Ramesses_III%2C_Medinet_Habu.jpg
+  credit: 'Photo: Panegyrics of Granovetter / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:27391-_Mortuary_temple_of_Ramesses_III,_Medinet_Habu.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ0ahMIgAXSRQREGZ-6QX9DNg"
-  name: "Mortuary Temple of Ramesses III"
-  address: "PJ93+H35, Al Bairat, Al Qarna, Luxor Governorate 1340561, Egypt"
+  id: ChIJ0ahMIgAXSRQREGZ-6QX9DNg
+  name: Mortuary Temple of Ramesses III
+  address: 'PJ93+H35, Al Bairat, Al Qarna, Luxor Governorate 1340561, Egypt'
   rating: 4.7
-  userRatingsTotal: 56
-  googleMapsUrl: "https://maps.google.com/?cid=15568096213747000848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 59
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15568096213747000848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.7190883
   lng: 32.6018985
 tags:
-  - "luxor"
-  - "Medinet Habu"
-quickAnswer: "The Mortuary Temple of Ramesses III, better known as Medinet Habu, stands on Luxor's West Bank at Al Bairat, near Al Qarna, a short drive from the Colossi of Memnon. Plan on 1.5–2 hours, go early in the morning before the heat, and check the current hours before you cross the Nile."
+  - luxor
+  - Medinet Habu
+quickAnswer: >-
+  The Mortuary Temple of Ramesses III, better known as Medinet Habu, stands on
+  Luxor's West Bank at Al Bairat, near Al Qarna, a short drive from the Colossi
+  of Memnon. Plan on 1.5–2 hours, go early in the morning before the heat, and
+  check the current hours before you cross the Nile.
 faq:
-  - q: "Where exactly is the Mortuary Temple of Ramesses III?"
-    a: "It is at Medinet Habu on Luxor's West Bank, in Al Bairat near Al Qarna. It sits a short drive from the Colossi of Memnon, close to Deir el-Medina and the Valley of the Queens."
-  - q: "How do I get there from the East Bank?"
-    a: "You can take the public ferry across the Nile from the corniche and then a taxi. You can also drive over the Luxor Bridge, which is simplest with a driver hired for the day."
-  - q: "How long should I spend at Medinet Habu?"
-    a: "Allow 1.5–2 hours. That gives you time for the pylons, both courts, the painted reliefs, the small Amun temple and a walk around the outside to see the Sea Peoples battle relief."
-  - q: "When is the best time of day to visit?"
-    a: "Early morning is coolest, because the open courts have little shade. The first pylon also faces east and gets the morning light. Hours were not confirmed for this guide, so check before you go."
-  - q: "Is it worth visiting if I've already seen Karnak?"
-    a: "Yes. Its painted reliefs are among the best preserved in Luxor, and it also has a fortified gate and war scenes you won't see at Karnak. It usually draws far smaller crowds."
+  - q: Where exactly is the Mortuary Temple of Ramesses III?
+    a: >-
+      It is at Medinet Habu on Luxor's West Bank, in Al Bairat near Al Qarna. It
+      sits a short drive from the Colossi of Memnon, close to Deir el-Medina and
+      the Valley of the Queens.
+  - q: How do I get there from the East Bank?
+    a: >-
+      You can take the public ferry across the Nile from the corniche and then a
+      taxi. You can also drive over the Luxor Bridge, which is simplest with a
+      driver hired for the day.
+  - q: How long should I spend at Medinet Habu?
+    a: >-
+      Allow 1.5–2 hours. That gives you time for the pylons, both courts, the
+      painted reliefs, the small Amun temple and a walk around the outside to
+      see the Sea Peoples battle relief.
+  - q: When is the best time of day to visit?
+    a: >-
+      Early morning is coolest, because the open courts have little shade. The
+      first pylon also faces east and gets the morning light. Hours were not
+      confirmed for this guide, so check before you go.
+  - q: Is it worth visiting if I've already seen Karnak?
+    a: >-
+      Yes. Its painted reliefs are among the best preserved in Luxor, and it
+      also has a fortified gate and war scenes you won't see at Karnak. It
+      usually draws far smaller crowds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## A fortress gate, then a pharaoh's war diary

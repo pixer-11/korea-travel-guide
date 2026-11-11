@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-valley-of-the-kings
-srcHash: '327f3fd44cd2'
+srcHash: '7d8f1bbc6790'
 title: 'Valle de los Reyes: guía de viaje de Luxor (4.8★)'
-description: En la orilla occidental de Luxor, bajo la cumbre piramidal de al-Qurn, se abre el Valle de los Reyes, un uadi de piedra caliza donde se han hallado 63 tumbas, entre ellas la de Tutankamón. Su horario actual es de 6am–5pm. Con una valoración de 4.8★ (23,749 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En la orilla occidental de Luxor, bajo la cumbre piramidal de al-Qurn, se abre el Valle de los Reyes, un uadi de piedra caliza donde se han hallado 63 tumbas, entre ellas la de Tutankamón. Su horario actual es de 6am–5pm. Con una valoración de 4.8★ (23,784 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En la orilla occidental de Luxor, bajo la cumbre piramidal de al-Qurn, se abre el Valle de los Reyes, un uadi de piedra caliza donde se han hallado 63 tumbas, entre ellas la de Tutankamón. Actualmente abre de 6am–5pm. Los momentos más tranquilos suelen ser de 3pm–5pm entre semana y de 2pm–5pm los fines de semana; las mañanas del fin de semana, de 7am a 12pm, son las de mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Valle de los Reyes?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: aswan-aswan-museum
-srcHash: '6065ca215f1d'
+srcHash: 'bbab8f1232d7'
 title: 阿斯旺博物馆旅行指南（4.0★）
-description: 阿斯旺博物馆位于阿斯旺象岛（Elephantine Island）南端，与滨河大道隔尼罗河相望。评分4.0★（422条评价），游客评价、开放时间和实用贴士都在这里。
+description: 阿斯旺博物馆位于阿斯旺象岛（Elephantine Island）南端，与滨河大道隔尼罗河相望。评分4.0★（423条评价），游客评价、开放时间和实用贴士都在这里。
 quickAnswer: 阿斯旺博物馆坐落在阿斯旺象岛（Elephantine Island）的南端，与东岸的滨河大道（Corniche el-Nil）隔尼罗河相望。馆内藏品是修建阿斯旺大坝时出土的古埃及和古罗马文物。目前开放时间为上午9点–晚上7点。参观博物馆大约需要一小时，紧邻的阿布古城遗址也值得顺路一看。
 faq:
   - q: 怎样前往阿斯旺博物馆？

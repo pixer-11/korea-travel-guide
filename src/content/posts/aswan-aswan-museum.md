@@ -1,54 +1,79 @@
 ---
-title: "Aswan Museum: Travel Guide (4.0★)"
-description: "Aswan Museum sits at the southern tip of Elephantine Island in Aswan, across the Nile from the Corniche. 4.0★ (422 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Aswan"
-category: "attraction"
-pubDate: "2026-11-11T07:47:13.896Z"
+title: 'Aswan Museum: Travel Guide (4.0★)'
+description: >-
+  Aswan Museum sits at the southern tip of Elephantine Island in Aswan, across
+  the Nile from the Corniche. 4.0★ (423 reviews) — what visitors say, hours, and
+  tips.
+country: Egypt
+region: Aswan
+category: attraction
+pubDate: '2026-11-11T07:47:13.896Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mus%C3%A9e_d%27Aszan_-_panoramio.jpg/1920px-Mus%C3%A9e_d%27Aszan_-_panoramio.jpg"
-  credit: "Photo: youssef_alam / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%27Aszan_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mus%C3%A9e_d%27Aszan_-_panoramio.jpg/1920px-Mus%C3%A9e_d%27Aszan_-_panoramio.jpg
+  credit: 'Photo: youssef_alam / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%27Aszan_-_panoramio.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJGRsYv0x7NhQR6LXBtO-jmIE"
-  name: "Aswan Museum"
-  address: "Sheyakhah Oula, Aswan, Aswan Governorate 1240861, Egypt"
+  id: ChIJGRsYv0x7NhQR6LXBtO-jmIE
+  name: Aswan Museum
+  address: 'Sheyakhah Oula, Aswan, Aswan Governorate 1240861, Egypt'
   rating: 4
-  userRatingsTotal: 422
-  googleMapsUrl: "https://maps.google.com/?cid=9338394077277828584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 423
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9338394077277828584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.085037399999997
   lng: 32.887026899999995
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "aswan"
-  - "top attraction"
-quickAnswer: "Aswan Museum sits at the southern tip of Elephantine Island in Aswan, across the Nile from the Corniche. It holds Egyptian and Roman finds dug up during work on the Aswan Dam. It is open 9:00 AM–7:00 PM at the moment, so give it about an hour and pair it with the ruins of ancient Abu next door."
+  - aswan
+  - top attraction
+quickAnswer: >-
+  Aswan Museum sits at the southern tip of Elephantine Island in Aswan, across
+  the Nile from the Corniche. It holds Egyptian and Roman finds dug up during
+  work on the Aswan Dam. It is open 9:00 AM–7:00 PM at the moment, so give it
+  about an hour and pair it with the ruins of ancient Abu next door.
 faq:
-  - q: "How do I get to Aswan Museum?"
-    a: "Take a public ferry or hire a felucca from the Corniche el-Nil to Elephantine Island, then walk to the island's southern tip, where the museum stands beside the ancient ruins of Abu."
-  - q: "What are the opening hours?"
-    a: "At the moment Google lists 9:00 AM–7:00 PM every day. Antiquities sites change hours seasonally and on holidays, so check the official Ministry of Tourism and Antiquities site before you go."
-  - q: "How long should I spend there?"
-    a: "Around an hour for the museum itself, plus an hour or more for the Temple of Khnum remains, the Temple of Satet and the Nilometer outside."
-  - q: "What is the museum known for?"
-    a: "Egyptian and Roman artefacts found during excavations for the Aswan Dam, displayed in an old villa. Its best-known piece is a mummified ram linked to the god Khnum."
-  - q: "Should I visit this or the Nubian Museum?"
-    a: "The Nubian Museum on the east bank is larger and the better pick if you only have time for one. Aswan Museum adds the archaeology of Elephantine Island itself and pairs well with a walk through the island's Nubian villages."
+  - q: How do I get to Aswan Museum?
+    a: >-
+      Take a public ferry or hire a felucca from the Corniche el-Nil to
+      Elephantine Island, then walk to the island's southern tip, where the
+      museum stands beside the ancient ruins of Abu.
+  - q: What are the opening hours?
+    a: >-
+      At the moment Google lists 9:00 AM–7:00 PM every day. Antiquities sites
+      change hours seasonally and on holidays, so check the official Ministry of
+      Tourism and Antiquities site before you go.
+  - q: How long should I spend there?
+    a: >-
+      Around an hour for the museum itself, plus an hour or more for the Temple
+      of Khnum remains, the Temple of Satet and the Nilometer outside.
+  - q: What is the museum known for?
+    a: >-
+      Egyptian and Roman artefacts found during excavations for the Aswan Dam,
+      displayed in an old villa. Its best-known piece is a mummified ram linked
+      to the god Khnum.
+  - q: Should I visit this or the Nubian Museum?
+    a: >-
+      The Nubian Museum on the east bank is larger and the better pick if you
+      only have time for one. Aswan Museum adds the archaeology of Elephantine
+      Island itself and pairs well with a walk through the island's Nubian
+      villages.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## A villa full of the dam's leftovers

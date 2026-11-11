@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: rothenburg-ob-der-tauber-altstadt-rothenburg
-srcHash: 'b2b356d2eaa3'
+srcHash: '1ea7f0ea0898'
 title: 罗滕堡老城：陶伯河上游罗滕堡旅行指南
-description: 罗滕堡老城（Altstadt Rothenburg）位于德国巴伐利亚州弗兰肯地区的浪漫之路沿线，是陶伯河上游罗滕堡城墙环抱的中世纪老城。评分4.8★（109条评价），本文汇集游客评价、开放时间和实用建议。
+description: 罗滕堡老城（Altstadt Rothenburg）位于德国巴伐利亚州弗兰肯地区的浪漫之路沿线，是陶伯河上游罗滕堡城墙环抱的中世纪老城。评分4.8★（112条评价），本文汇集游客评价、开放时间和实用建议。
 quickAnswer: 罗滕堡老城（Altstadt Rothenburg）位于德国巴伐利亚州弗兰肯地区的浪漫之路沿线，是陶伯河上游罗滕堡（Rothenburg ob der Tauber）城墙环抱的中世纪老城。老城街巷全天开放。中午一日游的团队最多，不妨在城里住一晚，或者清晨、傍晚前往，从容漫步普伦莱因（Plönlein）、集市广场（Marktplatz）和带顶棚的城墙步道。
 faq:
   - q: 乘火车怎样前往罗滕堡老城？

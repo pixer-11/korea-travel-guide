@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hurghada-abu-tig-marina
-srcHash: '708e033b1b11'
+srcHash: '06accce73979'
 title: 'Abu Tig Marina: guía de viaje de Hurghada (4.8★)'
-description: 'Abu Tig Marina es el puerto deportivo y paseo marítimo de El Gouna, la ciudad turística de lagunas situada justo al norte de Hurghada. 4.8★ (422 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Abu Tig Marina es el puerto deportivo y paseo marítimo de El Gouna, la ciudad turística de lagunas situada justo al norte de Hurghada. 4.8★ (423 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Abu Tig Marina es el puerto deportivo y paseo marítimo de El Gouna, la ciudad turística de lagunas situada justo al norte de Hurghada. Lo ideal es llegar a última hora de la tarde y quedarse a cenar. Recorra el muelle, elija una mesa junto al agua y resérvele entre dos y tres horas.
 faq:
   - q: ¿Está Abu Tig Marina en la ciudad de Hurghada?

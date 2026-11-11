@@ -1,30 +1,37 @@
 ---
 title: 'Karnak: Luxor Travel Guide (4.8★)'
-description: 'Karnak, on the east bank of Luxor about 3 km north of Luxor Temple, is a huge temple complex: more than 200 structures grouped around the Temple of Amun-Ra and its Great Hypostyle Hall. 4.8★ (31,407 reviews) — what visitors say, hours, and tips.'
+description: >-
+  Karnak, on the east bank of Luxor about 3 km north of Luxor Temple, is a huge
+  temple complex: more than 200 structures grouped around the Temple of Amun-Ra
+  and its Great Hypostyle Hall. 4.8★ (31,442 reviews) — what visitors say,
+  hours, and tips.
 country: Egypt
 region: Luxor
 category: attraction
 pubDate: '2026-11-09T17:54:18.106Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/2573088_c2HsAkK-QqlQxDBX3YXuPoY9lIA6pAkoMc2M5_t5Y6o.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/2573088_c2HsAkK-QqlQxDBX3YXuPoY9lIA6pAkoMc2M5_t5Y6o.jpg
   credit: 'Photo: Foursquare user content (The Karnak Temple Complex (معبد الكرنك))'
   license: foursquare
-  source: https://foursquare.com/v/4c3ad5674565e21e42be556a
+  source: 'https://foursquare.com/v/4c3ad5674565e21e42be556a'
   focus:
     x: 62
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Karnak_-_Luxor_-_panoramio.jpg/3840px-Karnak_-_Luxor_-_panoramio.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Karnak_-_Luxor_-_panoramio.jpg/3840px-Karnak_-_Luxor_-_panoramio.jpg
     credit: 'Photo: Pavel Špindler / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Karnak_-_Luxor_-_panoramio.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Karnak_-_Luxor_-_panoramio.jpg'
 place:
   id: ChIJzcD-KJIVSRQR2FnCCMDoGsc
   name: Karnak
-  address: Karnak, Luxor, Luxor Governorate, Egypt
+  address: 'Karnak, Luxor, Luxor Governorate, Egypt'
   rating: 4.8
-  userRatingsTotal: 31407
-  googleMapsUrl: https://maps.google.com/?cid=14347035474420455896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 31442
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14347035474420455896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.718834599999997
   lng: 32.6572703
@@ -52,19 +59,40 @@ place:
 tags:
   - luxor
   - Karnak Temple
-quickAnswer: 'Karnak, on the east bank of Luxor about 3 km north of Luxor Temple, is a huge temple complex: more than 200 structures grouped around the Temple of Amun-Ra and its Great Hypostyle Hall. It currently opens 6am–5pm, and it is usually quietest from 7am to 8am. Plan on 3–4 hours, and try to be inside before the weekend coach crowds that tend to build between 9am and 1pm.'
+quickAnswer: >-
+  Karnak, on the east bank of Luxor about 3 km north of Luxor Temple, is a huge
+  temple complex: more than 200 structures grouped around the Temple of Amun-Ra
+  and its Great Hypostyle Hall. It currently opens 6am–5pm, and it is usually
+  quietest from 7am to 8am. Plan on 3–4 hours, and try to be inside before the
+  weekend coach crowds that tend to build between 9am and 1pm.
 faq:
   - q: When is the quietest time to visit Karnak?
-    a: It's usually calmest between 7am and 8am, on weekdays and weekends alike. Try not to arrive between 9am and 1pm or 3pm and 4pm on weekends, which are the busiest windows.
+    a: >-
+      It's usually calmest between 7am and 8am, on weekdays and weekends alike.
+      Try not to arrive between 9am and 1pm or 3pm and 4pm on weekends, which
+      are the busiest windows.
   - q: What are Karnak's opening hours?
-    a: At the moment it opens 6am–5pm. Hours change through the year and on some holidays, so check the official Egyptian antiquities website for this month's times.
+    a: >-
+      At the moment it opens 6am–5pm. Hours change through the year and on some
+      holidays, so check the official Egyptian antiquities website for this
+      month's times.
   - q: How long do I need at Karnak?
-    a: Allow 3–4 hours for the Precinct of Amun-Ra, including the Great Hypostyle Hall, Hatshepsut's obelisk and the Sacred Lake. Add more time for the Open Air Museum or the Temple of Khonsu.
+    a: >-
+      Allow 3–4 hours for the Precinct of Amun-Ra, including the Great Hypostyle
+      Hall, Hatshepsut's obelisk and the Sacred Lake. Add more time for the Open
+      Air Museum or the Temple of Khonsu.
   - q: How do I get to Karnak from Luxor Temple?
-    a: It's about 3 km north along the Nile Corniche on the east bank. Take a taxi or calèche and agree the fare first, or walk part of the sphinx-lined avenue between the two temples early in the day.
+    a: >-
+      It's about 3 km north along the Nile Corniche on the east bank. Take a
+      taxi or calèche and agree the fare first, or walk part of the sphinx-lined
+      avenue between the two temples early in the day.
   - q: Is there shade at Karnak?
-    a: Not much. The Hypostyle Hall and the gateways give some cover, but most of the site is open stone. Bring plenty of water and a hat, and visit in the morning.
+    a: >-
+      Not much. The Hypostyle Hall and the gateways give some cover, but most of
+      the site is open stone. Bring plenty of water and a hat, and visit in the
+      morning.
 aiGenerated: true
+updatedDate: '2026-11-11'
 ---
 
 ## Through the avenue of rams

@@ -1,60 +1,85 @@
 ---
-title: "Marktplatz: Rothenburg ob der Tauber Travel Guide (4.8★)"
-description: "Marktplatz in Rothenburg ob der Tauber is the sloping main square of the walled old town. 4.8★ (2,314 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Rothenburg ob der Tauber"
-category: "hidden-gem"
-pubDate: "2026-10-04T07:40:44.128Z"
+title: 'Marktplatz: Rothenburg ob der Tauber Travel Guide (4.8★)'
+description: >-
+  Marktplatz in Rothenburg ob der Tauber is the sloping main square of the
+  walled old town. 4.8★ (2,352 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Rothenburg ob der Tauber
+category: hidden-gem
+pubDate: '2026-10-04T07:40:44.128Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg/3840px-Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg"
-  credit: "Photo: Reinhold Möller Ermell / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg/3840px-Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg
+  credit: 'Photo: Reinhold Möller Ermell / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg
+  via: act
   focus:
     x: 30
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Rothenburg_BW_25.JPG"
-    credit: "Photo: Berthold Werner / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Rothenburg_BW_25.JPG"
+  - url: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Rothenburg_BW_25.JPG'
+    credit: 'Photo: Berthold Werner / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Rothenburg_BW_25.JPG'
 place:
-  id: "ChIJmQ4_QqaPmEcRX4i1XCl7Id4"
-  name: "Marktplatz Rothenburg ob der Tauber"
-  address: "Marktpl. 5, 91541 Rothenburg ob der Tauber, Germany"
+  id: ChIJmQ4_QqaPmEcRX4i1XCl7Id4
+  name: Marktplatz Rothenburg ob der Tauber
+  address: 'Marktpl. 5, 91541 Rothenburg ob der Tauber, Germany'
   rating: 4.8
-  userRatingsTotal: 2314
-  googleMapsUrl: "https://maps.google.com/?cid=16006209968230729823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2352
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16006209968230729823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.3771959
   lng: 10.1790077
-  phone: "+49 9861 4040"
+  phone: +49 9861 4040
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "rothenburg ob der tauber"
-  - "local market"
-quickAnswer: "Marktplatz in Rothenburg ob der Tauber is the sloping main square of the walled old town. It is framed by the Town Hall, whose tower you can climb, and by the Councillors' Tavern clock, where the Meistertrunk figures appear on the hour. It is open 24 hours, and early morning or evening is your best chance at a quieter square, before and after the day-tour coaches."
+  - rothenburg ob der tauber
+  - local market
+quickAnswer: >-
+  Marktplatz in Rothenburg ob der Tauber is the sloping main square of the
+  walled old town. It is framed by the Town Hall, whose tower you can climb, and
+  by the Councillors' Tavern clock, where the Meistertrunk figures appear on the
+  hour. It is open 24 hours, and early morning or evening is your best chance at
+  a quieter square, before and after the day-tour coaches.
 faq:
-  - q: "When is the quietest time to visit Marktplatz?"
-    a: "The square is open 24 hours. Coach tours tend to arrive around midday, so early morning or evening is usually calmer. No crowd forecast is available for this square."
-  - q: "When does the Meistertrunk clock perform?"
-    a: "The Tilly and Nusch figures appear on the hour through the day. Check the exact schedule at the tourist office in the Ratstrinkstube."
-  - q: "Is the Town Hall tower climb difficult?"
-    a: "It is about 220 steps to a 60-metre platform. The final section is steep and close to a ladder, and space at the top is limited. It is not suitable for anyone uneasy on narrow stairs."
-  - q: "How do I get to Marktplatz from the train station?"
-    a: "Walk about 15 minutes west from Rothenburg ob der Tauber station, through the Rödertor gate and down Rödergasse. Drivers should park in the P1 to P5 car parks outside the walls."
-  - q: "What is nearby?"
-    a: "Plönlein is about five minutes south and St. Jakob's Church with the Riemenschneider altar is a couple of minutes north. Herrngasse leads west to the Burggarten."
+  - q: When is the quietest time to visit Marktplatz?
+    a: >-
+      The square is open 24 hours. Coach tours tend to arrive around midday, so
+      early morning or evening is usually calmer. No crowd forecast is available
+      for this square.
+  - q: When does the Meistertrunk clock perform?
+    a: >-
+      The Tilly and Nusch figures appear on the hour through the day. Check the
+      exact schedule at the tourist office in the Ratstrinkstube.
+  - q: Is the Town Hall tower climb difficult?
+    a: >-
+      It is about 220 steps to a 60-metre platform. The final section is steep
+      and close to a ladder, and space at the top is limited. It is not suitable
+      for anyone uneasy on narrow stairs.
+  - q: How do I get to Marktplatz from the train station?
+    a: >-
+      Walk about 15 minutes west from Rothenburg ob der Tauber station, through
+      the Rödertor gate and down Rödergasse. Drivers should park in the P1 to P5
+      car parks outside the walls.
+  - q: What is nearby?
+    a: >-
+      Plönlein is about five minutes south and St. Jakob's Church with the
+      Riemenschneider altar is a couple of minutes north. Herrngasse leads west
+      to the Burggarten.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## A square on a slope

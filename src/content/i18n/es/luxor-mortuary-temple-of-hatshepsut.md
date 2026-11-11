@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-mortuary-temple-of-hatshepsut
-srcHash: '9fc6b5e7ec28'
+srcHash: 'a87d5398d6ba'
 title: 'Templo funerario de Hatshepsut: guía de viaje de Luxor (4.7★)'
-description: En Deir el-Bahari, en la orilla occidental de Luxor, el templo funerario de Hatshepsut levanta tres terrazas porticadas, una sobre otra, al pie de un escarpado acantilado de caliza. Con 4.7★ (24,096 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En Deir el-Bahari, en la orilla occidental de Luxor, el templo funerario de Hatshepsut levanta tres terrazas porticadas, una sobre otra, al pie de un escarpado acantilado de caliza. Con 4.7★ (24,123 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En Deir el-Bahari, en la orilla occidental de Luxor, el templo funerario de Hatshepsut levanta tres terrazas porticadas, una sobre otra, al pie de un escarpado acantilado de caliza. Actualmente abre de 6am–5pm. Entre semana, los momentos más tranquilos son de 7am–9am y de 4pm–5pm. Conviene evitar los fines de semana entre las 9am y las 2pm, cuando llegan los grupos organizados.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el templo funerario de Hatshepsut?

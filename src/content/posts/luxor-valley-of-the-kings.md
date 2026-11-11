@@ -1,44 +1,51 @@
 ---
-title: "Valley of the Kings: Luxor Travel Guide (4.8★)"
-description: "The Valley of the Kings sits on Luxor's West Bank, a limestone wadi below the pyramid-shaped peak of al-Qurn where 63 tombs have been found, including Tutankhamun's. It's currently open 6am–5pm. 4.8★ (23,749 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "attraction"
-pubDate: "2026-11-09T17:54:35.734Z"
+title: 'Valley of the Kings: Luxor Travel Guide (4.8★)'
+description: >-
+  The Valley of the Kings sits on Luxor's West Bank, a limestone wadi below the
+  pyramid-shaped peak of al-Qurn where 63 tombs have been found, including
+  Tutankhamun's. It's currently open 6am–5pm. 4.8★ (23,784 reviews) — what
+  visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: attraction
+pubDate: '2026-11-09T17:54:35.734Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Luxor_Valley_of_the_Kings_R01.jpg/3840px-Luxor_Valley_of_the_Kings_R01.jpg"
-  credit: "Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Luxor_Valley_of_the_Kings_R01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Luxor_Valley_of_the_Kings_R01.jpg/3840px-Luxor_Valley_of_the_Kings_R01.jpg
+  credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Luxor_Valley_of_the_Kings_R01.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Luxor_Valley_of_the_Kings_R05.jpg/3840px-Luxor_Valley_of_the_Kings_R05.jpg"
-    credit: "Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Luxor_Valley_of_the_Kings_R05.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Luxor_Valley_of_the_Kings_R05.jpg/3840px-Luxor_Valley_of_the_Kings_R05.jpg
+    credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Luxor_Valley_of_the_Kings_R05.jpg'
 place:
-  id: "ChIJ1_7etYo9SRQR2qnjovbMj3E"
-  name: "Valley of the Kings"
-  address: "Luxor, Luxor Governorate 1340420, Egypt"
+  id: ChIJ1_7etYo9SRQR2qnjovbMj3E
+  name: Valley of the Kings
+  address: 'Luxor, Luxor Governorate 1340420, Egypt'
   rating: 4.8
-  userRatingsTotal: 23749
-  googleMapsUrl: "https://maps.google.com/?cid=8182984407622330842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23784
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8182984407622330842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.7401643
   lng: 32.601411
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-09
+    updated: 2026-11-09T00:00:00.000Z
     weekdayQuiet:
       - 15
       - 16
@@ -52,24 +59,46 @@ place:
       - 9
       - 10
       - 11
-    venueId: "ven_45336a4d62766f6a6e713252515253396f597465375f314a496843"
+    venueId: ven_45336a4d62766f6a6e713252515253396f597465375f314a496843
 tags:
-  - "luxor"
-  - "Valley of the Kings"
-quickAnswer: "The Valley of the Kings sits on Luxor's West Bank, a limestone wadi below the pyramid-shaped peak of al-Qurn where 63 tombs have been found, including Tutankhamun's. It's currently open 6am–5pm. The quietest window is usually 3pm–5pm on weekdays and 2pm–5pm at weekends, while weekend mornings from 7am to 12pm are the busiest."
+  - luxor
+  - Valley of the Kings
+quickAnswer: >-
+  The Valley of the Kings sits on Luxor's West Bank, a limestone wadi below the
+  pyramid-shaped peak of al-Qurn where 63 tombs have been found, including
+  Tutankhamun's. It's currently open 6am–5pm. The quietest window is usually
+  3pm–5pm on weekdays and 2pm–5pm at weekends, while weekend mornings from 7am
+  to 12pm are the busiest.
 faq:
-  - q: "When is the quietest time to visit the Valley of the Kings?"
-    a: "It's usually calmest from 3pm to 5pm on weekdays and from 2pm to 5pm at weekends. Avoid weekend mornings from 7am to 12pm, which are the busiest. Arrive early enough in the afternoon that the ticket office is still selling tickets."
-  - q: "How do I get to the Valley of the Kings from Luxor?"
-    a: "Cross to the West Bank by the Luxor Bridge, the public ferry or a motorboat. Then take a taxi past the Colossi of Memnon and up into the hills. Many visitors hire a driver for the day to combine it with Hatshepsut's temple and Medinet Habu."
-  - q: "Is Tutankhamun's tomb included in the standard ticket?"
-    a: "No. Tutankhamun's tomb (KV62), Seti I (KV17) and Ramesses VI (KV9) each need a separate ticket from the visitor centre. The standard ticket covers a set number of the other tombs that are open on the day."
-  - q: "How long should I spend there?"
-    a: "Plan on two to three hours for the standard tombs plus one add-on. Allow half a day if you want to see several of the separately ticketed tombs."
-  - q: "What are the opening hours?"
-    a: "It's currently open 6am–5pm every day of this week. Hours on the West Bank shift through the year, so check the official site for the current month before you go."
+  - q: When is the quietest time to visit the Valley of the Kings?
+    a: >-
+      It's usually calmest from 3pm to 5pm on weekdays and from 2pm to 5pm at
+      weekends. Avoid weekend mornings from 7am to 12pm, which are the busiest.
+      Arrive early enough in the afternoon that the ticket office is still
+      selling tickets.
+  - q: How do I get to the Valley of the Kings from Luxor?
+    a: >-
+      Cross to the West Bank by the Luxor Bridge, the public ferry or a
+      motorboat. Then take a taxi past the Colossi of Memnon and up into the
+      hills. Many visitors hire a driver for the day to combine it with
+      Hatshepsut's temple and Medinet Habu.
+  - q: Is Tutankhamun's tomb included in the standard ticket?
+    a: >-
+      No. Tutankhamun's tomb (KV62), Seti I (KV17) and Ramesses VI (KV9) each
+      need a separate ticket from the visitor centre. The standard ticket covers
+      a set number of the other tombs that are open on the day.
+  - q: How long should I spend there?
+    a: >-
+      Plan on two to three hours for the standard tombs plus one add-on. Allow
+      half a day if you want to see several of the separately ticketed tombs.
+  - q: What are the opening hours?
+    a: >-
+      It's currently open 6am–5pm every day of this week. Hours on the West Bank
+      shift through the year, so check the official site for the current month
+      before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 ## A valley cut for the dead

@@ -1,43 +1,52 @@
 ---
-title: "Luxor Museum: Travel Guide (4.6★)"
-description: "Luxor Museum sits on the Corniche in Luxor City, between Luxor Temple and Karnak. 4.6★ (8,253 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "hidden-gem"
-pubDate: "2026-11-10T07:46:30.674Z"
+title: 'Luxor Museum: Travel Guide (4.6★)'
+description: >-
+  Luxor Museum sits on the Corniche in Luxor City, between Luxor Temple and
+  Karnak. 4.6★ (8,256 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: hidden-gem
+pubDate: '2026-11-10T07:46:30.674Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/76/Luxor_Museum_1.JPG"
-  credit: "Photo: Charlesdrakew at English Wikipedia / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Luxor_Museum_1.JPG"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/76/Luxor_Museum_1.JPG'
+  credit: >-
+    Photo: Charlesdrakew at English Wikipedia / Wikimedia Commons (Public
+    domain)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Luxor_Museum_1.JPG'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/77/Luxor_Museum_Relief_Talatat_05a.jpg"
-    credit: "Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Luxor_Museum_Relief_Talatat_05a.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/77/Luxor_Museum_Relief_Talatat_05a.jpg
+    credit: 'Photo: Olaf Tausch / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Luxor_Museum_Relief_Talatat_05a.jpg
 place:
-  id: "ChIJYd_aHsQVSRQRJJBTvfwQ07s"
-  name: "Luxor Museum"
-  address: "PJ5V+2RV, Kornish Al Nile, Luxor City, Luxor, Luxor Governorate 1362503, Egypt"
+  id: ChIJYd_aHsQVSRQRJJBTvfwQ07s
+  name: Luxor Museum
+  address: >-
+    PJ5V+2RV, Kornish Al Nile, Luxor City, Luxor, Luxor Governorate 1362503,
+    Egypt
   rating: 4.6
-  userRatingsTotal: 8253
-  googleMapsUrl: "https://maps.google.com/?cid=13534179982872645668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8256
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13534179982872645668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.707613199999997
   lng: 32.6445491
   openingHours:
-    - "Monday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM"
-    - "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM"
-    - "Wednesday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM"
-    - "Thursday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM"
-    - "Friday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM"
-    - "Saturday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM"
-    - "Sunday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM"
+    - 'Monday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Thursday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Friday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Saturday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Sunday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM'
   busyness:
-    updated: 2026-11-10
+    updated: 2026-11-10T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -49,24 +58,46 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_7337305177667654424a4a5251525356517348615f64594a496843"
+    venueId: ven_7337305177667654424a4a5251525356517348615f64594a496843
 tags:
-  - "luxor"
-  - "hidden gem"
-quickAnswer: "Luxor Museum sits on the Corniche in Luxor City, between Luxor Temple and Karnak. It shows a tightly curated collection of statues, temple reliefs and two royal mummies in dim, spotlit halls, and most visitors need 1.5–2 hours. At the moment it opens 9am–2pm and again 5pm–8pm, so try to avoid weekends between 11am–2pm and 5pm–8pm, which are its usual busiest hours."
+  - luxor
+  - hidden gem
+quickAnswer: >-
+  Luxor Museum sits on the Corniche in Luxor City, between Luxor Temple and
+  Karnak. It shows a tightly curated collection of statues, temple reliefs and
+  two royal mummies in dim, spotlit halls, and most visitors need 1.5–2 hours.
+  At the moment it opens 9am–2pm and again 5pm–8pm, so try to avoid weekends
+  between 11am–2pm and 5pm–8pm, which are its usual busiest hours.
 faq:
-  - q: "When is the quietest time to visit Luxor Museum?"
-    a: "The forecast doesn't name a specific quiet window. It does flag weekends 11am–2pm and 5pm–8pm as the busiest hours. On weekends, go in the first couple of hours after the 9am opening. Weekdays avoid those weekend peaks altogether."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens in two sessions, 9am–2pm and 5pm–8pm, with a closure in between. Hours change with the season and around holidays, so check the official Egyptian antiquities site before you go."
-  - q: "How long should I spend at Luxor Museum?"
-    a: "Allow about 1.5–2 hours. Give the most time to the cachette hall with its Luxor Temple statues and to the royal mummies hall."
-  - q: "How do I get there from Luxor Temple?"
-    a: "Walk north along the Corniche (Kornish Al Nile) with the Nile on your left. The museum is on the riverside road between Luxor Temple and Karnak. You can also take a caleche or a taxi. Agree the caleche fare before you set off."
-  - q: "What should I not miss inside?"
-    a: "Don't miss the red quartzite statue of Amenhotep III in the cachette hall, the Thutmose III statue, the calcite statue of Amenhotep III with Sobek, the reconstructed Akhenaten talatat wall, and the two royal mummies."
+  - q: When is the quietest time to visit Luxor Museum?
+    a: >-
+      The forecast doesn't name a specific quiet window. It does flag weekends
+      11am–2pm and 5pm–8pm as the busiest hours. On weekends, go in the first
+      couple of hours after the 9am opening. Weekdays avoid those weekend peaks
+      altogether.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens in two sessions, 9am–2pm and 5pm–8pm, with a
+      closure in between. Hours change with the season and around holidays, so
+      check the official Egyptian antiquities site before you go.
+  - q: How long should I spend at Luxor Museum?
+    a: >-
+      Allow about 1.5–2 hours. Give the most time to the cachette hall with its
+      Luxor Temple statues and to the royal mummies hall.
+  - q: How do I get there from Luxor Temple?
+    a: >-
+      Walk north along the Corniche (Kornish Al Nile) with the Nile on your
+      left. The museum is on the riverside road between Luxor Temple and Karnak.
+      You can also take a caleche or a taxi. Agree the caleche fare before you
+      set off.
+  - q: What should I not miss inside?
+    a: >-
+      Don't miss the red quartzite statue of Amenhotep III in the cachette hall,
+      the Thutmose III statue, the calcite statue of Amenhotep III with Sobek,
+      the reconstructed Akhenaten talatat wall, and the two royal mummies.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 
 Most of Luxor has you squinting at sandstone in hard sunlight. Luxor Museum turns that around. The halls are kept dark, and each statue stands under its own beam of light, so a pharaoh's face comes out of the black at eye level, close enough to read the chisel marks.

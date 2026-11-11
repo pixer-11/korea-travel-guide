@@ -1,36 +1,44 @@
 ---
-title: "Villa Borghese: Rome Travel Guide (4.6★)"
-description: "Villa Borghese is Rome's big central park, spread across the ridge between the Spanish Steps and Piazza del Popolo on one side and the Borghese Gallery and zoo on the other. 4.6★ (95,819 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Rome"
-category: "attraction"
-pubDate: "2026-09-20T07:59:05.810Z"
+title: 'Villa Borghese: Rome Travel Guide (4.6★)'
+description: >-
+  Villa Borghese is Rome's big central park, spread across the ridge between the
+  Spanish Steps and Piazza del Popolo on one side and the Borghese Gallery and
+  zoo on the other. 4.6★ (96,807 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Rome
+category: attraction
+pubDate: '2026-09-20T07:59:05.810Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg/1920px-Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg"
-  credit: "Photo: Oursana / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg/1920px-Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg
+  credit: 'Photo: Oursana / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Piazza_di_Siena_Villa_Borghese_Roma_2012.JPG"
-    credit: "Photo: Felix König / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Piazza_di_Siena_Villa_Borghese_Roma_2012.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/a/ad/Piazza_di_Siena_Villa_Borghese_Roma_2012.JPG
+    credit: 'Photo: Felix König / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Piazza_di_Siena_Villa_Borghese_Roma_2012.JPG
 place:
-  id: "ChIJj1M8HQJhLxMRRI6D_z18Pes"
-  name: "Villa Borghese"
-  address: "00197 Rome, Metropolitan City of Rome Capital, Italy"
+  id: ChIJj1M8HQJhLxMRRI6D_z18Pes
+  name: Villa Borghese
+  address: '00197 Rome, Metropolitan City of Rome Capital, Italy'
   rating: 4.6
-  userRatingsTotal: 95819
-  googleMapsUrl: "https://maps.google.com/?cid=16950841178214075972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 96807
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16950841178214075972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.9138782
   lng: 12.485381799999999
-  phone: "+39 06 0608"
+  phone: +39 06 0608
   busyness:
-    updated: 2026-09-20
+    updated: 2026-09-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 22
@@ -57,24 +65,47 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_73655038317a5f44364952524d784c684a5148384d316a4a496843"
+    venueId: ven_73655038317a5f44364952524d784c684a5148384d316a4a496843
 tags:
-  - "rome"
-  - "park"
-quickAnswer: "Villa Borghese is Rome's big central park, spread across the ridge between the Spanish Steps and Piazza del Popolo on one side and the Borghese Gallery and zoo on the other. Entry to the park is free and it stays open from early morning until 11pm, with the calmest hours on both weekdays and weekends before 10am. Budget half a day if you're just walking the grounds, or a full day if you're adding the Borghese Gallery, which requires a timed, pre-booked ticket."
+  - rome
+  - park
+quickAnswer: >-
+  Villa Borghese is Rome's big central park, spread across the ridge between the
+  Spanish Steps and Piazza del Popolo on one side and the Borghese Gallery and
+  zoo on the other. Entry to the park is free and it stays open from early
+  morning until 11pm, with the calmest hours on both weekdays and weekends
+  before 10am. Budget half a day if you're just walking the grounds, or a full
+  day if you're adding the Borghese Gallery, which requires a timed, pre-booked
+  ticket.
 faq:
-  - q: "Is it free to enter Villa Borghese?"
-    a: "Yes, the park grounds are free and open roughly 7am to 11pm daily. Only specific attractions inside, like the Borghese Gallery, Bioparco zoo, and boat rentals, charge admission."
-  - q: "Do I need to book the Borghese Gallery in advance?"
-    a: "Yes, entry is by timed two-hour slot and tickets commonly sell out days or weeks ahead, especially in spring and summer. Book online rather than hoping for walk-up availability."
-  - q: "When is Villa Borghese least crowded?"
-    a: "Both weekdays and weekends are calmest in the early morning and evening, outside the busy 10am to 8pm weekend window. Arriving right at opening is the easiest way to beat tour groups and families."
-  - q: "How long should I plan to spend there?"
-    a: "Budget about two to three hours for a walk covering the lake, Pincio terrace, and Piazza di Siena. Add two to three more hours if you're visiting the Borghese Gallery or Bioparco zoo."
-  - q: "What's the easiest way in from central Rome?"
-    a: "Walk up from the top of the Spanish Steps to the Pincio terrace, or enter from Piazzale Flaminio near Piazza del Popolo. Both are a short, uphill walk from the historic center with no gate or entry fee."
+  - q: Is it free to enter Villa Borghese?
+    a: >-
+      Yes, the park grounds are free and open roughly 7am to 11pm daily. Only
+      specific attractions inside, like the Borghese Gallery, Bioparco zoo, and
+      boat rentals, charge admission.
+  - q: Do I need to book the Borghese Gallery in advance?
+    a: >-
+      Yes, entry is by timed two-hour slot and tickets commonly sell out days or
+      weeks ahead, especially in spring and summer. Book online rather than
+      hoping for walk-up availability.
+  - q: When is Villa Borghese least crowded?
+    a: >-
+      Both weekdays and weekends are calmest in the early morning and evening,
+      outside the busy 10am to 8pm weekend window. Arriving right at opening is
+      the easiest way to beat tour groups and families.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget about two to three hours for a walk covering the lake, Pincio
+      terrace, and Piazza di Siena. Add two to three more hours if you're
+      visiting the Borghese Gallery or Bioparco zoo.
+  - q: What's the easiest way in from central Rome?
+    a: >-
+      Walk up from the top of the Spanish Steps to the Pincio terrace, or enter
+      from Piazzale Flaminio near Piazza del Popolo. Both are a short, uphill
+      walk from the historic center with no gate or entry fee.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-11'
 ---
 Rome doesn't have many places where the traffic noise just stops. Climb the path up from Piazzale Flaminio or the top of the Spanish Steps and within a few minutes the city gives way to gravel avenues, umbrella pines and the kind of quiet you don't expect two minutes from Via del Corso.
 
