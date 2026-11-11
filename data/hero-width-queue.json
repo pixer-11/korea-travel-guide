@@ -3512,7 +3512,8 @@
   "hurghada-downtown-el-gouna\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/El_Gouna_Downtown_R23.jpg/3840px-El_Gouna_Downtown_R23.jpg": 3840,
   "kom-ombo-crocodile-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mummified_crocodiles_-_Crocodile_Museum%2C_Kom_Ombo_%282%29.jpg/3840px-Mummified_crocodiles_-_Crocodile_Museum%2C_Kom_Ombo_%282%29.jpg": 3840,
   "melbourne-wwe-australia-live-tour-melbourne\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Panorama_of_Southbank_Melbourne_Victoria_Australia.jpg/3840px-Panorama_of_Southbank_Melbourne_Victoria_Australia.jpg": 3840,
-  "sharm-el-sheikh-al-sahaba-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al-Sahaba_Mosque_in_Sharm_El-Sheikh_01.jpg/3840px-Al-Sahaba_Mosque_in_Sharm_El-Sheikh_01.jpg": 3840
+  "sharm-el-sheikh-al-sahaba-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al-Sahaba_Mosque_in_Sharm_El-Sheikh_01.jpg/3840px-Al-Sahaba_Mosque_in_Sharm_El-Sheikh_01.jpg": 3840,
+  "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pingxi_Sky_Lantern_Festival_2014_in_Taiwan.jpg/3840px-Pingxi_Sky_Lantern_Festival_2014_in_Taiwan.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3664,8 +3665,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 10,
-   "nextTry": "2026-11-11",
+   "attempts": 11,
+   "nextTry": "2026-11-18",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -3755,15 +3756,15 @@
   },
   "hong-kong-fello": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-11-11",
+   "attempts": 8,
+   "nextTry": "2026-11-18",
    "flaggedAt": "2026-09-18",
    "lastResult": "no-wider"
   },
   "hiroshima-hiroshima-botanical-garden": {
    "width": 800,
-   "attempts": 7,
-   "nextTry": "2026-11-11",
+   "attempts": 8,
+   "nextTry": "2026-11-18",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3797,8 +3798,8 @@
   },
   "barcelona-chambacu": {
    "width": 1103,
-   "attempts": 5,
-   "nextTry": "2026-11-11",
+   "attempts": 6,
+   "nextTry": "2026-11-18",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -4043,5 +4044,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-11T15:37:14.826Z"
+ "updated": "2026-11-11T19:43:34.339Z"
 }

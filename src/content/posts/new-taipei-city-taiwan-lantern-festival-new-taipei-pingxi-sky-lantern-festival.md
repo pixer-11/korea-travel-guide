@@ -16,7 +16,6 @@ eventOffers:
   free: true
   currency: TWD
 eventFactsAsked: true
-gallery: []
 tags:
   - new taipei city
   - event
@@ -34,6 +33,14 @@ faq:
     a: Shifen Waterfall, Jingtong's old station and coal-mining heritage, and Pingxi Old Street are all on the same rail line. Jiufen and Houtong Cat Village are close to Ruifang.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pingxi_Sky_Lantern_Festival_2014_in_Taiwan.jpg/3840px-Pingxi_Sky_Lantern_Festival_2014_in_Taiwan.jpg
+  credit: 'Photo: Jirka Matousek / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Pingxi_Sky_Lantern_Festival_2014_in_Taiwan.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A valley full of rising paper
