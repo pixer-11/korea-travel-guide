@@ -25,7 +25,7 @@ gallery:
 place:
   id: ChIJRawRj0NOZjURV-Bwn4zSng4
   name: Gyeongju National Museum
-  address: 'South Korea, Gyeongsangbuk-do, Gyeongju, Iljeong-ro, 186 국립경주박물관'
+  address: "186 Iljeong-ro, Gyeongju, Gyeongsangbuk-do, South Korea"
   rating: 4.6
   userRatingsTotal: 13323
   googleMapsUrl: >-
