@@ -40129,5 +40129,33 @@
   "registerBreak": false,
   "worst": "埃及景点的付款规定时有变化，银行卡和现金最好都带一些。",
   "at": "2026-11-11T07:51:27.213Z"
+ },
+ "es/gimhae-gimhae-buncheon-ceramics-festival": {
+  "hash": "54227d5b5aaf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El título dice «Buncheon» y la señalización coreana, «Buncheong», pero ambos nombres...",
+  "at": "2026-11-11T15:34:44.795Z"
+ },
+ "ja/gimhae-gimhae-buncheon-ceramics-festival": {
+  "hash": "9a80c273571e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この2つの館がそろうことで、焼き物の歴史と、建物の規模にまで広がる現代の活用とを、ひとつの地区で見比べられます。",
+  "at": "2026-11-11T15:34:45.939Z"
+ },
+ "ko/gimhae-gimhae-buncheon-ceramics-festival": {
+  "hash": "b2efe5210c31",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "물에 젖은 슬레이트처럼 짙은 회색 찻사발을 떠올려 보시기 바랍니다.",
+  "at": "2026-11-11T15:34:50.711Z"
+ },
+ "zh/gimhae-gimhae-buncheon-ceramics-festival": {
+  "hash": "fdc4514c21ce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "一边是陶艺的历史，一边是陶瓷在当代建筑尺度上的运用，两座馆都在同一个地区。",
+  "at": "2026-11-11T15:34:51.811Z"
  }
 }
