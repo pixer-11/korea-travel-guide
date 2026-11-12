@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:R%C3%ADo_Chao_Phraya,_Bangkok,_Tailandia,_2013-08-22,_DD_05.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - bangkok
   - event

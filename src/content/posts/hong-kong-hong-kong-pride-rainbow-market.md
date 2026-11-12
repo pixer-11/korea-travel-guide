@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Kārlis Dambrāns from Latvia / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_(26379549654).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hong kong

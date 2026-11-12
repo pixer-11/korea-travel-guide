@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Base64 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Night_Skyline_non-HDR.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - hong kong

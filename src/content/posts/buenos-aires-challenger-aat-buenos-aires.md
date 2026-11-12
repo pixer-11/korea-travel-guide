@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Jimmy Baikovicius / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires_Skyline_in_Color.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - buenos aires

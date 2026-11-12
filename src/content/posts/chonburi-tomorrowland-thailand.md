@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Don Ramey Logan / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Ko_Khrok_Island_Chonburi_Thailand_by_Don_Ramey_Logan.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - chonburi

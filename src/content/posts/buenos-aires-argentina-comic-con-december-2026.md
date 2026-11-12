@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Deensel / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires_skyline_(40896504682).jpg'
+  focus:
+    x: 45
+    y: 45
 gallery: []
 tags:
   - buenos aires

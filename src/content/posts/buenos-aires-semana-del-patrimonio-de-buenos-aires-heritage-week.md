@@ -21,6 +21,9 @@ heroImage:
   credit: 'Photo: Aleksandrs Timofejev… / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires_skyline_-_panoramio.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - buenos aires
   - event

@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Slywire / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hudayriyat_Island.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - abu dhabi
   - event

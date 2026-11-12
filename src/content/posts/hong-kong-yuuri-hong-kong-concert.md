@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Diliff / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_-_Dec_2007.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hong kong

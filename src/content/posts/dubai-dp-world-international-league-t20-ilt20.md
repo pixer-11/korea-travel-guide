@@ -20,6 +20,9 @@ heroImage:
   credit: 'Photo: Robert Bock / Wikimedia Commons (CC0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - dubai

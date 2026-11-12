@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: User:CatOnMars / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Huanglong_%26_Broken_Bridge_-_Hangzhou_Skylines.jpg'
+  focus:
+    x: 50
+    y: 35
 tags:
   - hangzhou
   - event

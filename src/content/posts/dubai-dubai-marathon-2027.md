@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Tonenight / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Dubai_Skyline_2016.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - dubai

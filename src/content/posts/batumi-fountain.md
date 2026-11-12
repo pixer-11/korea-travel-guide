@@ -1,47 +1,54 @@
 ---
-title: "Fountain: Batumi Travel Guide"
-description: "Fountain in Batumi, Georgia, is a small, under-the-radar spot on a pedestrian path."
-country: "Georgia"
-region: "Batumi"
-category: "hidden-gem"
-pubDate: "2026-10-20T14:47:24.835Z"
-gallery: []
+title: 'Fountain: Batumi Travel Guide'
+description: Fountain in Batumi, Georgia, is a small, under-the-radar spot on a pedestrian path.
+country: Georgia
+region: Batumi
+category: hidden-gem
+pubDate: '2026-10-20T14:47:24.835Z'
 place:
-  id: "ChIJ6fQwPvmFZ0ARpCsMtC6vayA"
-  name: "Fountain"
-  address: "JHFV+RR6, Pedestrian path, Batumi, Georgia"
+  id: ChIJ6fQwPvmFZ0ARpCsMtC6vayA
+  name: Fountain
+  address: JHFV+RR6, Pedestrian path, Batumi, Georgia
   rating: 4.7
   userRatingsTotal: 65
-  googleMapsUrl: "https://maps.google.com/?cid=2336153446845787044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2336153446845787044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.6245336
   lng: 41.594527199999995
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "batumi"
-  - "hidden gem"
-quickAnswer: "Fountain in Batumi, Georgia, is a small, under-the-radar spot on a pedestrian path. The quickest way to find it is to put its plus code, JHFV+RR6, into your maps app. Google currently lists it as open 24 hours, so you can make it a short stop on any walk through the city, morning or late evening."
+  - batumi
+  - hidden gem
+quickAnswer: Fountain in Batumi, Georgia, is a small, under-the-radar spot on a pedestrian path. The quickest way to find it is to put its plus code, JHFV+RR6, into your maps app. Google currently lists it as open 24 hours, so you can make it a short stop on any walk through the city, morning or late evening.
 faq:
-  - q: "How do I find the Fountain in Batumi?"
-    a: "Enter the plus code JHFV+RR6 into Google Maps. It's on a pedestrian path with no street number, so the code works far better than an address, whether you're walking or giving directions to a Bolt or Yandex Go driver."
-  - q: "Is the Fountain open at night?"
-    a: "Google currently lists it as open 24 hours because it's an outdoor public space. The water itself may be switched off at some hours or in some seasons, so it may not be running at night."
-  - q: "How long should I spend there?"
-    a: "About 15–30 minutes. It works best as a short stop during a longer walk through central Batumi or along the seafront."
-  - q: "What is the best time of year to visit?"
-    a: "Late spring and early summer bring warm, drier weather. In peak summer, go early morning or after sunset to avoid the humid heat. From September, bring rain gear, because autumn is the wettest stretch on the Adjara coast."
-  - q: "What else is nearby?"
-    a: "Batumi Boulevard runs along the Black Sea through central Batumi. Its sights include the Alphabetic Tower and the Ali and Nino statue, and they pair easily with a walk to the fountain."
+  - q: How do I find the Fountain in Batumi?
+    a: Enter the plus code JHFV+RR6 into Google Maps. It's on a pedestrian path with no street number, so the code works far better than an address, whether you're walking or giving directions to a Bolt or Yandex Go driver.
+  - q: Is the Fountain open at night?
+    a: Google currently lists it as open 24 hours because it's an outdoor public space. The water itself may be switched off at some hours or in some seasons, so it may not be running at night.
+  - q: How long should I spend there?
+    a: About 15–30 minutes. It works best as a short stop during a longer walk through central Batumi or along the seafront.
+  - q: What is the best time of year to visit?
+    a: Late spring and early summer bring warm, drier weather. In peak summer, go early morning or after sunset to avoid the humid heat. From September, bring rain gear, because autumn is the wettest stretch on the Adjara coast.
+  - q: What else is nearby?
+    a: Batumi Boulevard runs along the Black Sea through central Batumi. Its sights include the Alphabetic Tower and the Ali and Nino statue, and they pair easily with a walk to the fountain.
 aiGenerated: true
 draft: false
 photoless: true
+heroImage:
+  url: https://live.staticflickr.com/8590/16555359069_eaa2f6eac8_b.jpg
+  credit: 'Photo: Sam''s Kids / flickr (BY-SA)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/109468483@N07/16555359069
+  focus:
+    x: 50
+    'y': 35
 ---
 
 ## A fountain with no other name

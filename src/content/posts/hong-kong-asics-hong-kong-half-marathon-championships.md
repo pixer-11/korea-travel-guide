@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Island_Skyline_2009.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hong kong

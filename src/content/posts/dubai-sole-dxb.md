@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Tim.Reckmann / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Dubai_skyline_2015_(crop).jpg'
+  focus:
+    x: 65
+    y: 35
 gallery: []
 tags:
   - dubai

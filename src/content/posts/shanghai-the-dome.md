@@ -5,7 +5,6 @@ country: China
 region: Shanghai
 category: trendy
 pubDate: '2026-10-04'
-gallery: []
 tags:
   - shanghai
   - new & trending
@@ -24,6 +23,14 @@ faq:
 aiGenerated: true
 draft: false
 photoless: true
+heroImage:
+  url: https://live.staticflickr.com/2027/1828286352_80ef3ce5fe_b.jpg
+  credit: 'Photo: ullrich.c / flickr (BY-SA)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/7926008@N08/1828286352
+  focus:
+    x: 50
+    'y': 30
 ---
 
 ## The Bund, after the lights come on

@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Amr F.Nagy / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Department_of_Plant_Taxonomy,_Agricultural_Museum,_Cairo.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - cairo

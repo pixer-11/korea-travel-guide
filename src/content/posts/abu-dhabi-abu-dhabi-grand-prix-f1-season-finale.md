@@ -20,6 +20,9 @@ heroImage:
   credit: 'Photo: TravelPhotosNL / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:North_Grandstand_at_the_Yas_Marina_circuit_in_Abu_Dhabi.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - abu dhabi

@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Michelle Maria / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires,_Argentina_Skyline_-_panoramio_(3).jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - buenos aires

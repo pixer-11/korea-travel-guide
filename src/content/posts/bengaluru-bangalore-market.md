@@ -1,31 +1,30 @@
 ---
-title: "Bangalore Market: Bengaluru Travel Guide (4.1★)"
-description: "Bangalore Market sits in Santhusapet, deep in Chickpet, Bengaluru's old wholesale trading quarter. 4.1★ (2,220 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bengaluru"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:47:29.999Z"
-gallery: []
+title: 'Bangalore Market: Bengaluru Travel Guide (4.1★)'
+description: Bangalore Market sits in Santhusapet, deep in Chickpet, Bengaluru's old wholesale trading quarter. 4.1★ (2,220 reviews) — what visitors say, hours, and tips.
+country: India
+region: Bengaluru
+category: hidden-gem
+pubDate: '2026-09-23T07:47:29.999Z'
 place:
-  id: "ChIJL_cpYAgWrjsRqAm33nmVSUQ"
-  name: "Bangalore Market"
-  address: "Santhusapet, Chickpet, Bengaluru, Karnataka 560053, India"
+  id: ChIJL_cpYAgWrjsRqAm33nmVSUQ
+  name: Bangalore Market
+  address: Santhusapet, Chickpet, Bengaluru, Karnataka 560053, India
   rating: 4.1
   userRatingsTotal: 2220
-  googleMapsUrl: "https://maps.google.com/?cid=4920628418539096488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4920628418539096488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9690429
   lng: 77.574711
   openingHours:
-    - "Monday: 10:30 AM – 8:00 PM"
-    - "Tuesday: 10:30 AM – 8:00 PM"
-    - "Wednesday: 10:30 AM – 8:00 PM"
-    - "Thursday: 10:30 AM – 8:00 PM"
-    - "Friday: 10:30 AM – 8:00 PM"
-    - "Saturday: 11:00 AM – 8:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: 10:30 AM – 8:00 PM'
+    - 'Tuesday: 10:30 AM – 8:00 PM'
+    - 'Wednesday: 10:30 AM – 8:00 PM'
+    - 'Thursday: 10:30 AM – 8:00 PM'
+    - 'Friday: 10:30 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: Closed'
   busyness:
-    updated: 2026-09-23
+    updated: 2026-09-23T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -42,25 +41,33 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_515553566d6e33336d417152736a725767415970635f4c4a496843"
+    venueId: ven_515553566d6e33336d417152736a725767415970635f4c4a496843
 tags:
-  - "bengaluru"
-  - "local market"
-quickAnswer: "Bangalore Market sits in Santhusapet, deep in Chickpet, Bengaluru's old wholesale trading quarter. It's closed Sundays, open 10:30am–8pm most weekdays and from 11am Saturdays, with weekends busiest from noon to 8pm. Go on a weekday morning right after opening if you want room to move."
+  - bengaluru
+  - local market
+quickAnswer: Bangalore Market sits in Santhusapet, deep in Chickpet, Bengaluru's old wholesale trading quarter. It's closed Sundays, open 10:30am–8pm most weekdays and from 11am Saturdays, with weekends busiest from noon to 8pm. Go on a weekday morning right after opening if you want room to move.
 faq:
-  - q: "How do I get to Bangalore Market?"
-    a: "Take the Purple Line to Chickpet Station and walk into the Santhusapet lanes via Cottonpet Main Road, or take an auto-rickshaw directly; the area isn't set up for parking a car."
-  - q: "Is Bangalore Market open on Sundays?"
-    a: "No, it's closed all day Sunday. It runs Monday to Friday 10:30am–8pm and Saturday 11am–8pm."
-  - q: "When is the best time to avoid crowds?"
-    a: "Avoid Saturday afternoons; the market gets busiest from noon to 8pm on weekends. A weekday morning shortly after the 10:30am opening is calmer."
-  - q: "How long should I plan to spend there?"
-    a: "Half an hour covers a quick look through the lanes; allow longer if you're actually buying, since bargaining and comparing stalls takes time."
-  - q: "What's nearby if I want to explore more of Chickpet?"
-    a: "The surrounding Chickpet grid is full of adjoining wholesale streets for cloth, hardware and provisions, all walkable from the market."
+  - q: How do I get to Bangalore Market?
+    a: Take the Purple Line to Chickpet Station and walk into the Santhusapet lanes via Cottonpet Main Road, or take an auto-rickshaw directly; the area isn't set up for parking a car.
+  - q: Is Bangalore Market open on Sundays?
+    a: No, it's closed all day Sunday. It runs Monday to Friday 10:30am–8pm and Saturday 11am–8pm.
+  - q: When is the best time to avoid crowds?
+    a: Avoid Saturday afternoons; the market gets busiest from noon to 8pm on weekends. A weekday morning shortly after the 10:30am opening is calmer.
+  - q: How long should I plan to spend there?
+    a: Half an hour covers a quick look through the lanes; allow longer if you're actually buying, since bargaining and comparing stalls takes time.
+  - q: What's nearby if I want to explore more of Chickpet?
+    a: The surrounding Chickpet grid is full of adjoining wholesale streets for cloth, hardware and provisions, all walkable from the market.
 aiGenerated: true
 draft: false
 photoless: true
+heroImage:
+  url: https://live.staticflickr.com/8649/15991411274_515bde5b02_b.jpg
+  credit: 'Photo: heatheronhertravels / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/22446827@N02/15991411274
+  focus:
+    x: 50
+    'y': 55
 ---
 
 Chickpet is Bengaluru's original commercial core, laid out under the Kempegowda-era street grid, and Bangalore Market sits inside its Santhusapet pocket, one lane among wholesale cloth, hardware and provision stores that have traded here for generations. This is not a tourist bazaar built for browsing; it's a working market where shopkeepers move stock in bulk.

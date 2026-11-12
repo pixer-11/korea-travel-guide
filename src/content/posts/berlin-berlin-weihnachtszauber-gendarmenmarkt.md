@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Berthold Werner / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Berlin_Gendarmenmarkt_BW_4.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - berlin

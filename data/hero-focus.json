@@ -7246,5 +7246,205 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hudayriyat_Island.jpg/3840px-Hudayriyat_Island.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/North_Grandstand_at_the_Yas_Marina_circuit_in_Abu_Dhabi.jpg/3840px-North_Grandstand_at_the_Yas_Marina_circuit_in_Abu_Dhabi.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/3840px-Abu_dhabi_skylines_2014.jpg": {
+  "w": 3840,
+  "h": 2108,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg/3840px-Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg": {
+  "w": 3840,
+  "h": 2563,
+  "focus": {
+   "x": 45,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/R%C3%ADo_Chao_Phraya%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_05.jpg/3840px-R%C3%ADo_Chao_Phraya%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_05.jpg": {
+  "w": 3840,
+  "h": 1386,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barcelona_Skyline.jpg/3840px-Barcelona_Skyline.jpg": {
+  "w": 3840,
+  "h": 1771,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berlin_Gendarmenmarkt_BW_4.jpg/3840px-Berlin_Gendarmenmarkt_BW_4.jpg": {
+  "w": 3840,
+  "h": 1657,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/4/4a/Buenos_Aires_skyline_%2840896504682%29.jpg": {
+  "w": 3512,
+  "h": 2924,
+  "focus": {
+   "x": 45,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buenos_Aires%2C_Argentina_Skyline_-_panoramio_%283%29.jpg/3840px-Buenos_Aires%2C_Argentina_Skyline_-_panoramio_%283%29.jpg": {
+  "w": 3840,
+  "h": 2106,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/e/e3/Buenos_Aires_Skyline_in_Color.jpg": {
+  "w": 3286,
+  "h": 1241,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Buenos_Aires_skyline_-_panoramio.jpg/3840px-Buenos_Aires_skyline_-_panoramio.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Department_of_Plant_Taxonomy%2C_Agricultural_Museum%2C_Cairo.jpg/3840px-Department_of_Plant_Taxonomy%2C_Agricultural_Museum%2C_Cairo.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ko_Khrok_Island_Chonburi_Thailand_by_Don_Ramey_Logan.jpg/3840px-Ko_Khrok_Island_Chonburi_Thailand_by_Don_Ramey_Logan.jpg": {
+  "w": 3840,
+  "h": 2160,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dubai_skyline_unsplash.jpg/3840px-Dubai_skyline_unsplash.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dubai_Skyline_2016.jpg/3840px-Dubai_Skyline_2016.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/4/43/Dubai_skyline_2015_%28crop%29.jpg": {
+  "w": 1558,
+  "h": 1179,
+  "focus": {
+   "x": 65,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/b/b3/Huanglong_%26_Broken_Bridge_-_Hangzhou_Skylines.jpg": {
+  "w": 3740,
+  "h": 2493,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/0/08/Ho_Chi_Minh_City_Skyline_at_Night.jpg": {
+  "w": 1366,
+  "h": 720,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hong_Kong_Island_Skyline_2009.jpg": {
+  "w": 2256,
+  "h": 1269,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/West_Kowloon_Cultural_District_03-01-2023%282%29.jpg/3840px-West_Kowloon_Cultural_District_03-01-2023%282%29.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 65,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hong_Kong_Night_Skyline_non-HDR.jpg/3840px-Hong_Kong_Night_Skyline_non-HDR.jpg": {
+  "w": 3840,
+  "h": 1645,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hong_Kong_%2826379549654%29.jpg/3840px-Hong_Kong_%2826379549654%29.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hong_Kong_Skyline_-_Dec_2007.jpg/3840px-Hong_Kong_Skyline_-_Dec_2007.jpg": {
+  "w": 3840,
+  "h": 1531,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-01.jpg": {
+  "w": 3833,
+  "h": 2555,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/1/1e/Istanbul_skyline_02.jpg": {
+  "w": 2000,
+  "h": 1290,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

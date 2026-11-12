@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:West_Kowloon_Cultural_District_03-01-2023(2).jpg'
+  focus:
+    x: 65
+    y: 40
 gallery: []
 tags:
   - hong kong

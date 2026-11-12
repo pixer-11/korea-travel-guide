@@ -13,6 +13,14 @@ eventOrganizer:
   name: Vingroup
   url: https://vingroup.net
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Ho_Chi_Minh_City_Skyline_at_Night.jpg'
+  credit: 'Photo: Tran Van Ngoc / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_Skyline_at_Night.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - ho chi minh city

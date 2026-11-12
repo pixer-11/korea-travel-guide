@@ -16,6 +16,9 @@ heroImage:
   credit: 'Photo: Wadiia / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - abu dhabi

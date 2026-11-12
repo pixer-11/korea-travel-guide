@@ -22,7 +22,7 @@ faq:
     a: TRX Park and the TRX shopping mall are both within walking distance, making it easy to combine with your meal.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/10738659_mZ9FP7ttXuap6hX-DXrWCRDlFEdgrml5HWXsIptquk0.jpg
+  url: https://fastly.4sqi.net/img/general/original/10738659_i3jl-3AGk0LFeQTfYPZxrbZrK_MrCdCB1iGEu_UsMW0.jpg
   credit: 'Photo: Foursquare user content (Sabato''s At Kimpton Naluria Kl)'
   license: foursquare
   source: https://foursquare.com/v/6a2bf8d6c3be411f7ee65598

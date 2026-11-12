@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: N.Perera / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi,_U.A.E.jpg'
+  focus:
+    x: 45
+    y: 40
 gallery: []
 tags:
   - abu dhabi
