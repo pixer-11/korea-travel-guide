@@ -68,7 +68,13 @@ const bad = [];
 let total = 0;
 for (const scheme of ['light', 'dark']) {
   for (const p of PATHS) {
-    const ctx = await b.newContext({ viewport: { width: 1280, height: 800 }, colorScheme: scheme });
+    // Reduced motion: cards fade in (.js-reveal, 0.6s, forced at 1.5s), and at the
+    // 800 ms read they sat at opacity 0, so checkVisibility skipped them and the
+    // home "this month" stories were never measured at all. On 11-10 a slow load
+    // caught them at ~3% opacity instead: 1.03:1 in both schemes, a false
+    // failure. With motion reduced the page skips the fade and shows the colours
+    // a reader ends up with.
+    const ctx = await b.newContext({ viewport: { width: 1280, height: 800 }, colorScheme: scheme, reducedMotion: 'reduce' });
     const pg = await ctx.newPage();
     if (SAVED[p]) await pg.addInitScript((saved) => { for (const [k, v] of Object.entries(saved)) localStorage.setItem(k, JSON.stringify(v)); }, SAVED[p]);
     const where = `${scheme} /${p}/`;

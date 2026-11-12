@@ -1118,7 +1118,10 @@ html[lang^='zh'] .cover-inner h1 {
 /* Monthly-picks provenance line: a country-level fact about a real editor
    (src/lib/editorVisited.ts), styled as a quiet accent so it reads as a
    credential, not a shout. */
-.story-meta.editor-traveled { color: var(--accent); font-weight: 600; margin-top: 0.15rem; }
+/* --accent-text, not --accent: #c8443a on the light page is 4.37:1 at 0.82rem
+   (needs 4.5). Hidden until 11-12 because the contrast check read these cards
+   mid-fade and skipped them. */
+.story-meta.editor-traveled { color: var(--accent-text); font-weight: 600; margin-top: 0.15rem; }
 
 /* Home tool duo: itineraries + crowd data in one section, two equal cards
    (a single card would have doubled the section count the owner flagged).
