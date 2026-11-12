@@ -12,6 +12,14 @@ eventOrganizer:
   name: Cambodia Ministry of Tourism
   url: https://www.tourism.gov.kh
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2016_Phnom_Penh%2C_Wat_Langka_%2827%29.jpg/3840px-2016_Phnom_Penh%2C_Wat_Langka_%2827%29.jpg'
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Wat_Langka_(27).jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - phnom penh

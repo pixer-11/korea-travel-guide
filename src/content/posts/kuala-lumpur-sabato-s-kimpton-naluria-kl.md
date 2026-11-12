@@ -5,7 +5,6 @@ country: Malaysia
 region: Kuala Lumpur
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - kuala lumpur
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is there anything to do nearby before or after dinner?
     a: TRX Park and the TRX shopping mall are both within walking distance, making it easy to combine with your meal.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/10738659_mZ9FP7ttXuap6hX-DXrWCRDlFEdgrml5HWXsIptquk0.jpg
+  credit: 'Photo: Foursquare user content (Sabato''s At Kimpton Naluria Kl)'
+  license: foursquare
+  source: https://foursquare.com/v/6a2bf8d6c3be411f7ee65598
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Why go

@@ -10,7 +10,6 @@ eventEndDate: '2026-12-28'
 eventRecurring: false
 eventVenue: Atlantico Roma
 eventFactsAsked: true
-gallery: []
 tags:
   - rome
   - event
@@ -28,6 +27,16 @@ faq:
     a: EUR's landmarks include the Palazzo della Civiltà Italiana, the artificial lake and the Nuvola convention centre. Garbatella's trattorias and pizzerias are a short Metro B ride toward the centre.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/9/90/Raffaella_Carr%C3%A0.jpg
+  credit: 'Photo: sara b. / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Raffaella_Carr%C3%A0.jpg
+  focus:
+    x: 61
+    'y': 27
+    top: 18
+    bottom: 35
 ---
 
 ## A Carrà night in EUR

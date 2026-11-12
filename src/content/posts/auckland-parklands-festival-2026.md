@@ -10,6 +10,14 @@ eventEndDate: '2026-11-14'
 eventRecurring: true
 eventVenue: Albert Park
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Auckland_Skyline_as_seen_from_Devonport_20100128_3.jpg/3840px-Auckland_Skyline_as_seen_from_Devonport_20100128_3.jpg'
+  credit: 'Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Auckland_Skyline_as_seen_from_Devonport_20100128_3.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - auckland

@@ -10,6 +10,14 @@ eventEndDate: '2026-12-13'
 eventRecurring: true
 eventVenue: Parramatta Lake
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sydney_Harbour_Bridge_01.jpg/3840px-Sydney_Harbour_Bridge_01.jpg'
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_01.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - sydney

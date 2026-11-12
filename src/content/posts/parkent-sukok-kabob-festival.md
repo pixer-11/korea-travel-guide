@@ -10,6 +10,14 @@ eventEndDate: '2026-12-10'
 eventRecurring: true
 eventVenue: Parkent Mountains
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Parkent_Vineyards.jpg/3840px-Parkent_Vineyards.jpg'
+  credit: 'Photo: Shuhrataxmedov / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Parkent_Vineyards.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - parkent

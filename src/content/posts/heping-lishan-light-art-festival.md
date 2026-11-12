@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: TWD
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2020_Heping_Bridge_%28Keelung%29_i.jpg/1280px-2020_Heping_Bridge_%28Keelung%29_i.jpg'
+  credit: 'Photo: Taiwankengo (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:2020 Heping Bridge (Keelung) i.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - heping

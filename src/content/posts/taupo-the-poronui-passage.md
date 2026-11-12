@@ -13,6 +13,14 @@ eventOrganizer:
   name: Total Sport
   url: https://www.totalsport.co.nz
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lake_Taup%C5%8D.jpg/1280px-Lake_Taup%C5%8D.jpg'
+  credit: 'Photo: Alexander Gerst (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'File:Lake Taupō.jpg'
+  focus:
+    x: 35
+    y: 30
 gallery: []
 tags:
   - taupō

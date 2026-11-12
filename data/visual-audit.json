@@ -1778,6 +1778,18 @@
   "reason": "event publish gate: Shows Powerstation venue exterior with event signage board",
   "at": "2026-10-25T23:04:07.120Z"
  },
+ "auckland-rise-against-auckland\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/Brandon_Barnes_Rise_Against.jpg": {
+  "slug": "auckland-rise-against-auckland",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated portrait, not band or venue related",
+  "at": "2026-11-12T04:47:27.237Z"
+ },
+ "auckland-rise-against-auckland\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rise_Against_-_Southside_Festival_2022_-_IMG_4648.jpg/3840px-Rise_Against_-_Southside_Festival_2022_-_IMG_4648.jpg": {
+  "slug": "auckland-rise-against-auckland",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Musician performing on stage with guitar",
+  "at": "2026-11-12T04:47:29.728Z"
+ },
  "auckland-robbie-williams-britpop-world-tour-auckland\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Robbie_Williams_-_6-29-2019_-_Live_In_Las_Vegas_-_101.jpg/3840px-Robbie_Williams_-_6-29-2019_-_Live_In_Las_Vegas_-_101.jpg": {
   "slug": "auckland-robbie-williams-britpop-world-tour-auckland",
   "verdict": "MATCH",
@@ -4470,6 +4482,12 @@
   "reason": "Historic fort architecture, Mughal-style gateway, appropriat",
   "reasonKo": "무굴식 건축, 역사적 요새, 적절한 배경",
   "at": "2026-08-16T13:14:31.693Z"
+ },
+ "bengaluru-bengaluru-midnight-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/9/9d/Midnight_2.jpg": {
+  "slug": "bengaluru-bengaluru-midnight-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert photo, unrelated to marathon event",
+  "at": "2026-11-12T04:47:48.643Z"
  },
  "bengaluru-bengaluru-palace\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg": {
   "slug": "bengaluru-bengaluru-palace",
@@ -11600,6 +11618,12 @@
   "reason": "publish gate: Chinese temple exterior, plausible representative hero shot",
   "at": "2026-10-07T07:42:05.505Z"
  },
+ "haikou-haikou-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marathon_-_windmill.jpg/3840px-Marathon_-_windmill.jpg": {
+  "slug": "haikou-haikou-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural windmill scene, unrelated to Haikou Marathon event",
+  "at": "2026-11-12T04:48:43.042Z"
+ },
  "hamburg-chilehaus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chilehaus_-_Hamburg.jpg/1920px-Chilehaus_-_Hamburg.jpg": {
   "slug": "hamburg-chilehaus",
   "verdict": "MATCH",
@@ -12181,6 +12205,24 @@
   "reason": "publish gate: Brewery pub interior with copper kettle, seating, decor",
   "at": "2026-10-03T12:54:05.071Z"
  },
+ "heping-lishan-light-art-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/View_on_part_of_the_town_of_Lishan.jpg/3840px-View_on_part_of_the_town_of_Lishan.jpg": {
+  "slug": "heping-lishan-light-art-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Market street scene, unrelated to light art festival venue",
+  "at": "2026-11-12T04:48:53.111Z"
+ },
+ "heping-lishan-light-art-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/20130814%E6%A2%A8%E5%B1%B1%E8%A1%97%E4%B8%8A%E5%A4%9C%E6%99%AF.JPG/3840px-20130814%E6%A2%A8%E5%B1%B1%E8%A1%97%E4%B8%8A%E5%A4%9C%E6%99%AF.JPG": {
+  "slug": "heping-lishan-light-art-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic street scene, not the light art festival venue",
+  "at": "2026-11-12T04:48:56.098Z"
+ },
+ "heping-lishan-light-art-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20130815%E6%A2%A8%E5%B1%B1%E8%A1%97%E6%99%AF.JPG/3840px-20130815%E6%A2%A8%E5%B1%B1%E8%A1%97%E6%99%AF.JPG": {
+  "slug": "heping-lishan-light-art-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene unrelated to light art festival event",
+  "at": "2026-11-12T04:48:54.402Z"
+ },
  "hiroshima-atomic-bomb-dome\u0001https://fastly.4sqi.net/img/general/original/543114558_1vryFPc80PrOjew5pc6eZ_HXr101udgJoEop9uVvXhE.jpg": {
   "slug": "hiroshima-atomic-bomb-dome",
   "verdict": "MATCH",
@@ -12736,6 +12778,30 @@
   "verdict": "MATCH",
   "reason": "patrol replace: High-end Hong Kong restaurant with skyline views",
   "at": "2026-10-05T21:33:50.879Z"
+ },
+ "hong-kong-cathay-westk-jazz-fest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cathay_Pacific_and_Emery_Worldwide.jpg/3840px-Cathay_Pacific_and_Emery_Worldwide.jpg": {
+  "slug": "hong-kong-cathay-westk-jazz-fest",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airport planes, unrelated to jazz festival venue",
+  "at": "2026-11-12T04:49:06.031Z"
+ },
+ "hong-kong-cathay-westk-jazz-fest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cathay_Pacific_A330.png/3840px-Cathay_Pacific_A330.png": {
+  "slug": "hong-kong-cathay-westk-jazz-fest",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane unrelated to jazz festival venue or event",
+  "at": "2026-11-12T04:49:02.316Z"
+ },
+ "hong-kong-cathay-westk-jazz-fest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/B-KPM_Cathay_Pacific.jpg/3840px-B-KPM_Cathay_Pacific.jpg": {
+  "slug": "hong-kong-cathay-westk-jazz-fest",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane unrelated to jazz festival event",
+  "at": "2026-11-12T04:49:00.139Z"
+ },
+ "hong-kong-cathay-westk-jazz-fest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/B-LIC%2C_Cathay_Pacific_Cargo_Airlines.jpg/3840px-B-LIC%2C_Cathay_Pacific_Cargo_Airlines.jpg": {
+  "slug": "hong-kong-cathay-westk-jazz-fest",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Cargo plane at airport, unrelated to jazz festival venue",
+  "at": "2026-11-12T04:49:10.161Z"
  },
  "hong-kong-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Central_Market_entry_26-06-2023.jpg/3840px-Central_Market_entry_26-06-2023.jpg": {
   "slug": "hong-kong-central-market",
@@ -16955,6 +17021,30 @@
   "reason": "publish gate: Aerial view of fishing village on river matches locale",
   "at": "2026-09-29T07:43:42.501Z"
  },
+ "koh-kong-sea-festival-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Festival_of_the_Sea_01.jpg": {
+  "slug": "koh-kong-sea-festival-cambodia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows UK harbor/boats, not Cambodia sea festival",
+  "at": "2026-11-12T04:49:38.955Z"
+ },
+ "koh-kong-sea-festival-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/Festival_of_the_Sea_08.jpg": {
+  "slug": "koh-kong-sea-festival-cambodia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wrong location, shows English ship elsewhere not Cambodia",
+  "at": "2026-11-12T04:49:37.117Z"
+ },
+ "koh-kong-sea-festival-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Festival_of_the_Sea_07.jpg": {
+  "slug": "koh-kong-sea-festival-cambodia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wooden ship in Western town, not Koh Kong Cambodia",
+  "at": "2026-11-12T04:49:35.346Z"
+ },
+ "koh-kong-sea-festival-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Festival_of_the_Sea_05.jpg": {
+  "slug": "koh-kong-sea-festival-cambodia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Harbor festival, but not Cambodia/Koh Kong",
+  "at": "2026-11-12T04:49:42.259Z"
+ },
  "koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg/3840px-Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg": {
   "slug": "koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park",
   "verdict": "MATCH",
@@ -17849,6 +17939,36 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage with concert lighting setup",
   "at": "2026-09-03T00:11:50.192Z"
+ },
+ "kuala-lumpur-sabato-s-kimpton-naluria-kl\u0001https://fastly.4sqi.net/img/general/original/10738659_mZ9FP7ttXuap6hX-DXrWCRDlFEdgrml5HWXsIptquk0.jpg": {
+  "slug": "kuala-lumpur-sabato-s-kimpton-naluria-kl",
+  "verdict": "WEAK",
+  "reason": "patrol replace: Interior design generic; no clear venue identity markers",
+  "at": "2026-11-12T04:50:28.674Z"
+ },
+ "kuala-lumpur-siggraph-asia-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/Fungal_bioart_laser-guided_growth_SIGGRAPH_Asia_2024.png": {
+  "slug": "kuala-lumpur-siggraph-asia-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated bacterial art images, not venue or event",
+  "at": "2026-11-12T04:50:36.046Z"
+ },
+ "kuala-lumpur-siggraph-asia-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/SIGGRAPH_2015_%2820423108180%29.jpg": {
+  "slug": "kuala-lumpur-siggraph-asia-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random computer monitor setup, not venue or event specific",
+  "at": "2026-11-12T04:50:37.564Z"
+ },
+ "kuala-lumpur-siggraph-asia-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SIGGRAPH_2015_%2820610966875%29.jpg/1920px-SIGGRAPH_2015_%2820610966875%29.jpg": {
+  "slug": "kuala-lumpur-siggraph-asia-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a sign/poster, not the venue or event",
+  "at": "2026-11-12T04:50:44.479Z"
+ },
+ "kuala-lumpur-siggraph-asia-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SIGGRAPH_2015_%2820424355679%29.jpg/3840px-SIGGRAPH_2015_%2820424355679%29.jpg": {
+  "slug": "kuala-lumpur-siggraph-asia-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic rooftop party scene, not SIGGRAPH or KL venue",
+  "at": "2026-11-12T04:50:41.596Z"
  },
  "kuala-lumpur-suzie-wong\u0001https://fastly.4sqi.net/img/general/original/82157707_hHDOQB3PQrvkHcSqVFuQZavMgOhGI8wB8-jp2WvFKls.jpg": {
   "slug": "kuala-lumpur-suzie-wong",
@@ -23859,6 +23979,12 @@
   "reason": "patrol replace: Jawaharlal Nehru Stadium, Delhi venue for marathon events",
   "at": "2026-10-17T21:40:30.459Z"
  },
+ "new-delhi-weverse-con-festival-india\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Weverse_1-289607029.jpg": {
+  "slug": "new-delhi-weverse-con-festival-india",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Logo/text graphic, not an event photo",
+  "at": "2026-11-12T04:51:46.482Z"
+ },
  "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": {
   "slug": "new-delhi-yamuna-ghat",
   "verdict": "MATCH",
@@ -26446,6 +26572,30 @@
   "reason": "patrol reject: Protest crowd, unrelated to opera festival or venue",
   "at": "2026-10-19T23:07:59.367Z"
  },
+ "paris-wta-finals\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Sydney_International_Tennis_WTA_%2846001160005%29.jpg": {
+  "slug": "paris-wta-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark credit overlaid on photo",
+  "at": "2026-11-12T04:51:58.567Z"
+ },
+ "paris-wta-finals\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Sydney_International_Tennis_WTA_%2833040176178%29.jpg": {
+  "slug": "paris-wta-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark/credit overlaid on photo",
+  "at": "2026-11-12T04:52:00.783Z"
+ },
+ "paris-wta-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cincinnati-Tennis-2015-ATP-WTA-5_%2820666136738%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-5_%2820666136738%29.jpg": {
+  "slug": "paris-wta-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-11-12T04:52:02.800Z"
+ },
+ "paris-wta-finals\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cincinnati-Tennis-2015-ATP-WTA-57_%2820844323642%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-57_%2820844323642%29.jpg": {
+  "slug": "paris-wta-finals",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark/credit overlaid on photo",
+  "at": "2026-11-12T04:52:04.748Z"
+ },
  "paris-young-posse-pilot-3-1st-flight-to-eur\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": {
   "slug": "paris-young-posse-pilot-3-1st-flight-to-eur",
   "verdict": "MISMATCH",
@@ -27053,6 +27203,18 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Khmer temple architecture, Phnom Penh landmark",
   "at": "2026-10-01T23:33:48.268Z"
+ },
+ "phnom-penh-celebrating-cambodia-year-end-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cambodia_%2808010858%29_%2850671362207%29.jpg/3840px-Cambodia_%2808010858%29_%2850671362207%29.jpg": {
+  "slug": "phnom-penh-celebrating-cambodia-year-end-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Screenshot of virtual meeting, unrelated to Cambodia festival",
+  "at": "2026-11-12T04:52:26.111Z"
+ },
+ "phnom-penh-celebrating-cambodia-year-end-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cambodia_%2808010859%29_%2850671362052%29.jpg/3840px-Cambodia_%2808010859%29_%2850671362052%29.jpg": {
+  "slug": "phnom-penh-celebrating-cambodia-year-end-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Laptop video call screen, unrelated to Cambodia festival event",
+  "at": "2026-11-12T04:52:32.429Z"
  },
  "phnom-penh-celeste-revolving-sky-bar\u0001https://fastly.4sqi.net/img/general/original/14853074_rHI0XcwrvNXsJtlfWGFmRIZ9OMGAu7uEyV9FlBISrHc.jpg": {
   "slug": "phnom-penh-celeste-revolving-sky-bar",
@@ -28651,6 +28813,30 @@
   "reason": "publish gate: Ancient Roman ruin architecture, plausible view of Portico of Octavia",
   "at": "2026-09-27T07:50:23.161Z"
  },
+ "rome-raffaella-carra-official-hologram-concert\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/Street_art_in_Barcelona_04.jpg": {
+  "slug": "rome-raffaella-carra-official-hologram-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street mural painting, not event or venue photo",
+  "at": "2026-11-12T04:52:53.299Z"
+ },
+ "rome-raffaella-carra-official-hologram-concert\u0001https://upload.wikimedia.org/wikipedia/commons/6/62/Madrid%2C_plaza_raffaella_carr%C3%A0%2C_lapide_con_nome.jpg": {
+  "slug": "rome-raffaella-carra-official-hologram-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a painted tile sign, not a photo",
+  "at": "2026-11-12T04:52:55.065Z"
+ },
+ "rome-raffaella-carra-official-hologram-concert\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Romolo_Siena_con_Raffaella_Carr%C3%A0.jpg": {
+  "slug": "rome-raffaella-carra-official-hologram-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated vintage film set photo, not Carrà hologram concert",
+  "at": "2026-11-12T04:52:56.878Z"
+ },
+ "rome-raffaella-carra-official-hologram-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Raffaella_Carr%C3%A0.jpg": {
+  "slug": "rome-raffaella-carra-official-hologram-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage at concert venue event",
+  "at": "2026-11-12T04:53:00.022Z"
+ },
  "rome-roman-forum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg": {
   "slug": "rome-roman-forum",
   "verdict": "MATCH",
@@ -29660,6 +29846,18 @@
   "reason": "publish gate: Ancient ruin archway matches Ephesus-area monument in Selcuk",
   "at": "2026-11-05T07:49:41.803Z"
  },
+ "semarang-semarang-10k\u0001https://upload.wikimedia.org/wikipedia/commons/5/54/Kanye_at_the_Nike_10k_Human_Race.jpg": {
+  "slug": "semarang-semarang-10k",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert stage unrelated to a 10K running event",
+  "at": "2026-11-12T04:53:12.496Z"
+ },
+ "semarang-semarang-10k\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Balai_Kota_Semarang.JPG": {
+  "slug": "semarang-semarang-10k",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Balai Kota Semarang building exterior, event setup visible",
+  "at": "2026-11-12T04:53:15.265Z"
+ },
  "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/175798956_YXbJ5H1a4OlNZA2RffpsblYGjzFQdxEAEQvbEbw3lRw.jpg": {
   "slug": "seminyak-32do-bali",
   "verdict": "MISMATCH",
@@ -30648,6 +30846,18 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Group photo of Stray Kids members at event",
   "at": "2026-11-12T04:21:51.631Z"
+ },
+ "seoul-tomorrow-x-together-txt-steal-the-wind-tour-seoul\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Tomorrow_X_Together_at_a_Dior_event_in_2025_01.jpg": {
+  "slug": "seoul-tomorrow-x-together-txt-steal-the-wind-tour-seoul",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Five performers in coordinated styling, professional stage p",
+  "at": "2026-11-12T04:53:38.681Z"
+ },
+ "seoul-tomorrow-x-together-txt-steal-the-wind-tour-seoul\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/TO_DO_X_TOMORROW_X_TOGETHER_title_card.jpg": {
+  "slug": "seoul-tomorrow-x-together-txt-steal-the-wind-tour-seoul",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Logo graphic, not a photo of event or venue",
+  "at": "2026-11-12T04:53:32.707Z"
  },
  "seoul-txt-world-tour-2026-steal-the-wind-seoul\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/Security_txt.png": {
   "slug": "seoul-txt-world-tour-2026-steal-the-wind-seoul",
@@ -33091,6 +33301,12 @@
   "reason": "publish gate: Colonial corridor plausible for Alun-Alun Surabaya area landmark",
   "at": "2026-09-28T07:50:01.620Z"
  },
+ "surabaya-bca-citraland-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_citraland_Surabaya.jpg/3840px-2017_citraland_Surabaya.jpg": {
+  "slug": "surabaya-bca-citraland-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic park/river scene, not marathon event or venue",
+  "at": "2026-11-12T04:54:01.447Z"
+ },
  "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
   "slug": "surabaya-black-owl-surabaya",
   "verdict": "MATCH",
@@ -35249,6 +35465,30 @@
   "reason": "patrol reject: Crowd portrait, unrelated to Christmas market event",
   "at": "2026-11-01T23:30:36.636Z"
  },
+ "tbilisi-tbilisi-international-baroque-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Music_of_the_Baroque_%2841622300325%29.jpg/3840px-Music_of_the_Baroque_%2841622300325%29.jpg": {
+  "slug": "tbilisi-tbilisi-international-baroque-music-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military honor guard musician, unrelated to Baroque festival event",
+  "at": "2026-11-12T04:55:08.614Z"
+ },
+ "tbilisi-tbilisi-international-baroque-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Music_of_the_Baroque_%2828651083948%29.jpg/3840px-Music_of_the_Baroque_%2828651083948%29.jpg": {
+  "slug": "tbilisi-tbilisi-international-baroque-music-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military officers, unrelated to Baroque music festival",
+  "at": "2026-11-12T04:55:15.746Z"
+ },
+ "tbilisi-tbilisi-international-baroque-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Music_of_the_Baroque_%2841622243825%29.jpg/3840px-Music_of_the_Baroque_%2841622243825%29.jpg": {
+  "slug": "tbilisi-tbilisi-international-baroque-music-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military honor guard musicians, unrelated to Baroque music festival",
+  "at": "2026-11-12T04:55:01.833Z"
+ },
+ "tbilisi-tbilisi-international-baroque-music-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Music_of_the_Baroque_%2842524590031%29.jpg/3840px-Music_of_the_Baroque_%2842524590031%29.jpg": {
+  "slug": "tbilisi-tbilisi-international-baroque-music-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military trumpeters, unrelated to Baroque music festival",
+  "at": "2026-11-12T04:55:03.508Z"
+ },
  "tbilisi-tbilisi-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Soap_Film.jpg/3840px-Soap_Film.jpg": {
   "slug": "tbilisi-tbilisi-international-film-festival",
   "verdict": "MISMATCH",
@@ -37098,6 +37338,18 @@
   "reason": "publish gate: Steam train with carriages, matches Ushuaia Fuegian Railway scene",
   "at": "2026-10-25T13:00:55.996Z"
  },
+ "uvurkhangai-orkhon-waterfall-ice-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hotel_Camp_Orkhon_Waterfall_02.jpg/3840px-Hotel_Camp_Orkhon_Waterfall_02.jpg": {
+  "slug": "uvurkhangai-orkhon-waterfall-ice-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Tourist facility, not Orkhon Waterfall venue",
+  "at": "2026-11-12T04:55:58.633Z"
+ },
+ "uvurkhangai-orkhon-waterfall-ice-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hotel_Camp_Orkhon_Waterfall_03.jpg/3840px-Hotel_Camp_Orkhon_Waterfall_03.jpg": {
+  "slug": "uvurkhangai-orkhon-waterfall-ice-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Yurt camp, unrelated to Orkhon Waterfall Ice Festival",
+  "at": "2026-11-12T04:55:55.755Z"
+ },
  "valencia-10k-valencia-ibercaja-by-kiprun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/10K_Valencia_-_2023.jpg/3840px-10K_Valencia_-_2023.jpg": {
   "slug": "valencia-10k-valencia-ibercaja-by-kiprun",
   "verdict": "MATCH",
@@ -37201,6 +37453,12 @@
   "reason": "Iconic Torres de Serranos gate, Valencia landmark",
   "reasonKo": "발렌시아의 상징적 세라노스 탑",
   "at": "2026-08-05T15:00:49.727Z"
+ },
+ "vancouver-astra-lumina-light-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sic_itur_ad_astra_%28iced_moment_908-CC%29.jpg/3840px-Sic_itur_ad_astra_%28iced_moment_908-CC%29.jpg": {
+  "slug": "vancouver-astra-lumina-light-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Observatory in desert, unrelated to Stanley Park light festival",
+  "at": "2026-11-12T04:56:11.183Z"
  },
  "vancouver-bloedel-conservatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_Bloedel_Conservatory.jpg/1920px-The_Bloedel_Conservatory.jpg": {
   "slug": "vancouver-bloedel-conservatory",
@@ -37500,6 +37758,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Representative view of Rainbow Mountain Vinicunca",
   "at": "2026-10-22T14:55:56.364Z"
+ },
+ "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz\u0001https://upload.wikimedia.org/wikipedia/commons/2/26/Medieval_wall_in_Vitoria-Gasteiz_%281%29.jpg": {
+  "slug": "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Medieval gate photo, unrelated to marathon event",
+  "at": "2026-11-12T04:56:36.345Z"
+ },
+ "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz\u0001https://upload.wikimedia.org/wikipedia/commons/f/f5/Fountain_at_Plaza_de_Sta_Maria_in_Vitoria-Gasteiz_%281%29.jpg": {
+  "slug": "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fountain and church, unrelated to marathon event",
+  "at": "2026-11-12T04:56:25.970Z"
+ },
+ "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gothic_portal_of_San_Miguel_Arc%C3%A1ngel_-_Vitoria-Gasteiz_-_2015-08-15.jpg/3840px-Gothic_portal_of_San_Miguel_Arc%C3%A1ngel_-_Vitoria-Gasteiz_-_2015-08-15.jpg": {
+  "slug": "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Church doorway unrelated to marathon event",
+  "at": "2026-11-12T04:56:34.171Z"
+ },
+ "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rinoceronte_sculpture_by_Koko_Rico_-_Vitoria-Gasteiz_-_2015-08-16.jpg/3840px-Rinoceronte_sculpture_by_Koko_Rico_-_Vitoria-Gasteiz_-_2015-08-16.jpg": {
+  "slug": "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rhinoceros statue, unrelated to marathon event",
+  "at": "2026-11-12T04:56:44.559Z"
  },
  "waitomo-otorohanga-kiwi-house\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Otorohanga_kiwi_house_-_panoramio.jpg": {
   "slug": "waitomo-otorohanga-kiwi-house",

@@ -12,6 +12,14 @@ eventOrganizer:
   name: Cambodia Ministry of Tourism
   url: https://www.tourism.gov.kh
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Koh_Kong_mangrove_forest.jpg'
+  credit: 'Photo: Wikirictor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Koh_Kong_mangrove_forest.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - koh kong

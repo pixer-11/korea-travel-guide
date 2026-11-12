@@ -10,7 +10,6 @@ eventEndDate: '2026-12-13'
 eventRecurring: true
 eventVenue: Balai Kota Semarang
 eventFactsAsked: true
-gallery: []
 tags:
   - semarang
   - event
@@ -28,6 +27,14 @@ faq:
     a: Lawang Sewu and the Tugu Muda monument are about a kilometre west along Jalan Pemuda. The Kota Lama old town and Gereja Blenduk are a short ride east, and Jalan Pandanaran is known for lumpia shops.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Balai_Kota_Semarang.JPG
+  credit: 'Photo: Midori / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Balai_Kota_Semarang.JPG
+  focus:
+    x: 50
+    'y': 35
 ---
 
 ## Race morning on Jalan Pemuda

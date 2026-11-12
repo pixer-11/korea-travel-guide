@@ -9,6 +9,14 @@ eventStartDate: '2026-12-20'
 eventEndDate: '2026-12-20'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fountain_at_Plaza_de_Sta_Maria_in_Vitoria-Gasteiz_%281%29.jpg/1280px-Fountain_at_Plaza_de_Sta_Maria_in_Vitoria-Gasteiz_%281%29.jpg'
+  credit: 'Photo: Krzysztof Golik (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Fountain at Plaza de Sta Maria in Vitoria-Gasteiz (1).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - vitoria-gasteiz

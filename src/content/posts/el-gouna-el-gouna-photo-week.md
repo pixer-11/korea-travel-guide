@@ -9,6 +9,14 @@ eventStartDate: '2026-12-03'
 eventEndDate: '2026-12-12'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/El_Gouna_Turtle_House_R01.jpg/3840px-El_Gouna_Turtle_House_R01.jpg'
+  credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:El_Gouna_Turtle_House_R01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - el gouna

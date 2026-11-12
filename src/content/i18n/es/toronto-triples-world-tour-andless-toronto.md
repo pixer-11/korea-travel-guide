@@ -1,72 +1,72 @@
 ---
 lang: es
 slug: toronto-triples-world-tour-andless-toronto
-srcHash: '9e488f375e55'
-title: 'tripleS World Tour ANDLESS en Toronto: fecha, entradas y recinto'
-description: Dentro de su gira mundial ANDLESS de 2026, tripleS actuará el miércoles 11 de noviembre de 2026 en el Massey Hall, en pleno centro de Toronto.
-quickAnswer: Dentro de su gira mundial ANDLESS de 2026, tripleS actuará el miércoles 11 de noviembre de 2026 en el Massey Hall, en pleno centro de Toronto. La sala está en 178 Victoria Street, esquina con Shuter, a pocos minutos a pie de la estación Queen de la línea 1 del TTC. La información sobre entradas y horario de apertura de puertas corresponde a la taquilla del recinto. Esta guía no indica precios.
+srcHash: 'ca2b52792544'
+title: 'tripleS World Tour ANDLESS - Toronto: fechas, entradas y recinto (Toronto)'
+description: La parada de Toronto del tripleS World Tour ANDLESS, dentro de la gira mundial ANDLESS de 2026, tenía como escenario el Massey Hall, en pleno centro de la ciudad, el miércoles 11 de noviembre de 2026.
+quickAnswer: Dentro de su gira mundial ANDLESS de 2026, el grupo tenía fijada para el miércoles 11 de noviembre de 2026 la cita tripleS World Tour ANDLESS - Toronto en el Massey Hall, en el centro de Toronto. La sala se encuentra en el 178 de Victoria Street, esquina con Shuter, a pocos minutos a pie de la estación Queen de la Línea 1 de la TTC. Las entradas para sus espectáculos se gestionan en la propia taquilla del recinto.
 faq:
-  - q: ¿Cuándo y dónde actúa tripleS en Toronto con la gira ANDLESS?
-    a: El concierto será el miércoles 11 de noviembre de 2026 en el Massey Hall, situado en el centro de Toronto, en 178 Victoria Street, esquina con Shuter Street.
+  - q: ¿Cuándo y dónde era el concierto del tripleS World Tour ANDLESS en Toronto?
+    a: La fecha del concierto era el miércoles 11 de noviembre de 2026, en el Massey Hall (178 Victoria Street, esquina con Shuter Street), en el centro de Toronto.
   - q: ¿Cuál es la estación de metro más cercana al Massey Hall?
-    a: La más cercana es la estación Queen, en la línea 1 del TTC. Desde su acceso de Shuter Street se llega a la sala en unos dos minutos. Una parada más al norte se encuentra la estación TMU, antes llamada Dundas, que también queda a poca distancia a pie.
-  - q: ¿Qué aforo tiene el Massey Hall y qué tal se ve desde las butacas?
-    a: Caben algo más de 2,500 personas, repartidas en herradura entre una platea y dos anfiteatros. Para un concierto de K-pop es una sala pequeña, de modo que casi todas las localidades quedan bastante cerca del escenario.
+    a: La estación Queen, en la Línea 1 de la TTC. Desde su acceso de Shuter Street se llega a la sala en unos dos minutos. Una parada más al norte se encuentra la estación TMU, la antigua Dundas, también a poca distancia a pie.
+  - q: ¿Qué capacidad tiene el Massey Hall y qué tal son sus localidades?
+    a: Caben algo más de 2,500 personas, repartidas en herradura entre la platea y dos anfiteatros. Para un concierto de K-pop se trata de una sala pequeña, de modo que la mayoría de las butacas quedan bastante cerca del escenario.
   - q: ¿Qué suelen llevar los fans a un concierto de tripleS?
-    a: Casi todos acuden con la barra luminosa oficial del grupo. Muchos llevan también fotocartas u «objekts» para intercambiar, y algunos traen pequeños obsequios para repartir entre otros fans a las puertas del recinto.
-  - q: ¿Qué se puede hacer cerca del recinto?
-    a: Justo enfrente, al otro lado de Yonge Street, está el centro comercial CF Toronto Eaton Centre, y dos manzanas al norte se abre la plaza Sankofa (Sankofa Square). Pegada a la sala se alza la catedral basílica de San Miguel (St. Michael's Cathedral Basilica). El barrio coreano de Bloor Street West (Koreatown) queda a unos veinte minutos en metro.
+    a: Casi todos acuden con el bastón luminoso oficial de tripleS. Muchos llevan además fotocartas u "objekts" para intercambiar, y algunos reparten obsequios entre otros fans a las puertas del recinto.
+  - q: ¿Qué había para hacer cerca del recinto?
+    a: Justo enfrente, al otro lado de Yonge Street, se encuentra el centro comercial CF Toronto Eaton Centre, y dos manzanas al norte queda Sankofa Square. La Catedral Basílica de San Miguel (St. Michael's Cathedral Basilica) está pegada a la sala, y el barrio coreano (Koreatown) de Bloor Street West queda a unos veinte minutos en metro.
 ---
 
 ## Un grupo enorme en una sala centenaria
 
-Veinticuatro integrantes en el escenario y un edificio inaugurado en 1894: con esos dos datos se entiende la dimensión de esta cita. El 11 de noviembre de 2026, el grupo femenino más numeroso de Corea del Sur se sube a una de las salas de conciertos más antiguas de Toronto. tripleS tiene 24 miembros.
+tripleS cuenta con 24 integrantes. El Massey Hall abrió sus puertas en 1894. Con esos dos datos se entiende la escala de la cita de Toronto: el grupo femenino más numeroso de Corea del Sur tenía programada una actuación en una de las salas de conciertos más antiguas de la ciudad el 11 de noviembre de 2026.
 
-El grupo pertenece a la agencia Modhaus y nació con la participación de sus seguidores como eje. Quienes poseen los «objekts» digitales votan a través de la aplicación Cosmo las subunidades y los temas principales. Por eso a su comunidad de fans, conocida como WAV, le importa especialmente quién canta cada canción. Esta guía no detalla qué integrantes participan en la gira.
+Creado por la agencia Modhaus, el grupo gira en torno a la participación de sus seguidores. En la aplicación Cosmo, quienes poseen los "objekts" digitales votan las subunidades y los sencillos principales. Por eso su base de fans, conocida como WAV, se implica como pocas en el reparto de las canciones.
 
-La fecha de Toronto cae en miércoles y forma parte del tramo norteamericano de la gira ANDLESS.
+La fecha de Toronto caía en miércoles y formaba parte del tramo norteamericano de la gira ANDLESS.
 
 ## El interior del Massey Hall
 
-La sala tiene forma de herradura y gran altura. Sobre la platea se curvan dos anfiteatros, y en los muros laterales lucen las vidrieras restauradas del edificio. Por fuera, la fachada es de ladrillo rojo y la recorren de arriba abajo las escaleras de incendios. El edificio cerró en 2018 para someterse a una larga renovación y volvió a abrir sus puertas en 2021.
+La sala dibuja una herradura de gran altura. Sobre la platea se curvan dos anfiteatros, y en los muros laterales lucen las vidrieras restauradas del edificio. Por fuera, la fachada de ladrillo rojo está recorrida por escaleras de incendios. Cerró en 2018 para someterse a una larga rehabilitación y reabrió en 2021.
 
-Con algo más de 2,500 localidades, se trata de un aforo reducido para una gira de K-pop, así que el público queda mucho más cerca del escenario que en un estadio cubierto. Como los anfiteatros abrazan el escenario muy de cerca, incluso desde los pisos superiores se ve la actuación a corta distancia.
+Su aforo ronda algo más de 2,500 localidades. Para una gira de K-pop es una sala reducida, y el público queda mucho más cerca del escenario que en un pabellón. Como los anfiteatros abrazan de cerca el escenario, incluso desde los niveles superiores se contempla desde poca distancia.
 
-- **Platea:** es la zona más próxima al escenario y queda a la altura de las artistas.
-- **Anfiteatros:** la visión es más empinada, pero desde aquí se aprecian mejor los cambios de formación sobre el escenario.
-- **Localidades laterales:** están cerca, aunque el escenario se ve en ángulo.
+- **Platea:** la zona más próxima al escenario, a la altura de los artistas.
+- **Anfiteatros:** con una visión más inclinada, ofrecen la mejor perspectiva de los cambios de formación sobre el escenario.
+- **Laterales:** muy cerca, aunque con una vista sesgada del escenario.
 
-## Cómo llegar a Victoria con Shuter
+## Cómo llegar a Victoria y Shuter
 
-El Massey Hall se encuentra una manzana al este de Yonge Street, en 178 Victoria Street, esquina con Shuter. La parada más cercana es la estación Queen, en la línea 1 del TTC. Si se sale por el acceso de Shuter Street, las puertas de la sala quedan a unos dos minutos.
+El Massey Hall se levanta una manzana al este de Yonge Street, en el 178 de Victoria Street, esquina con Shuter. La parada más cercana es la estación Queen, en la Línea 1 de la TTC, cuyo acceso de Shuter Street deja a unos dos minutos de la entrada.
 
-Una parada al norte, en esa misma línea, está la estación TMU, antes llamada Dundas, desde la que se baja en un breve paseo por Victoria Street. En los torniquetes del TTC basta con acercar la tarjeta PRESTO o una tarjeta de crédito o débito sin contacto, por lo que los visitantes casi nunca necesitan comprar un billete.
+Una parada más al norte, en la misma línea, está la estación TMU, la antigua Dundas, desde la que se baja a pie por Victoria Street en poco tiempo. Los torniquetes de la TTC admiten la tarjeta PRESTO o el pago sin contacto con tarjeta de crédito o débito, así que los visitantes rara vez necesitan un billete.
 
-En el centro escasean las plazas de aparcamiento, y las noches de concierto salir de ellas lleva su tiempo. La mayoría del público llega en metro o en tranvía. El tranvía 501 Queen para en el cruce de Yonge con Queen, a una manzana de la sala.
+En el centro escasea el aparcamiento, y en noche de concierto salir de él lleva su tiempo. La mayoría del público llega en metro o en tranvía. El tranvía 501 Queen para en el cruce de Yonge con Queen, a una manzana de la sala.
 
-## Lo que ocurre a las puertas
+## La noche a las puertas de la sala
 
-Los rituales de los fans tienen lugar en el vestíbulo y en la acera de Victoria Street. El público del K-pop suele reunirse mucho antes de que se abran las puertas. Hay quien reparte obsequios preparados para la ocasión, como fotocartas impresas, pegatinas o pancartas con lemas. El intercambio de «objekts» y fotocartas ocupa un lugar central entre los seguidores de tripleS, y suele hacerse en pequeños corros a lo largo de Shuter.
+Los rituales de los fans tienen lugar en el vestíbulo y en la acera de Victoria Street. El público del K-pop acostumbra a reunirse mucho antes de la apertura de puertas. Hay quien reparte obsequios preparados para la ocasión, como fotocartas impresas, pegatinas o pancartas con lemas. El intercambio de "objekts" y fotocartas ocupa un lugar central entre los seguidores de tripleS y suele hacerse en pequeños corros a lo largo de Shuter.
 
-Dentro de la sala se siguen algunas costumbres habituales:
+Dentro, ciertas costumbres son habituales:
 
-- **Barras luminosas:** casi todo el público sostiene la oficial de tripleS, siempre por debajo de la altura de la cabeza para no tapar a quienes están detrás.
-- **Cánticos de apoyo:** durante determinadas canciones del repertorio, WAV corea los nombres de las integrantes. Los fans suelen aprenderlos antes del concierto con guías elaboradas por otros seguidores.
-- **Teléfonos:** en la mayoría de los conciertos de K-pop se permite hacer fotos con el móvil, mientras que las normas sobre la grabación de vídeo cambian según la gira. Lo que rige es la política publicada por el recinto.
-- **Pagos:** en Toronto todo se paga sin contacto. Tanto las tarjetas como el móvil se aceptan casi siempre en los bares y en los puestos de productos oficiales.
+- **Bastones luminosos:** casi toda la sala sostiene el bastón luminoso oficial de tripleS, siempre por debajo de la altura de la cabeza para no tapar a quien está detrás.
+- **Cánticos:** WAV corea los nombres de las integrantes durante las canciones del repertorio, aprendidos por lo general en guías elaboradas por los propios fans.
+- **Teléfonos:** en la mayoría de los conciertos de K-pop se permiten las fotos con el móvil, mientras que las normas sobre vídeo cambian según la gira. Rige la política publicada por el recinto.
+- **Pagos:** en Toronto todo funciona sin contacto. Tarjetas y móviles se aceptan casi en cualquier barra o puesto de productos oficiales.
 
-En los conciertos de K-pop, las colas para comprar productos oficiales suelen formarse antes de la apertura de puertas. Quienes prefieren evitarlas acostumbran a consultar si la gira ofrece venta en línea.
+En los conciertos de K-pop, las colas para los productos oficiales suelen formarse antes de que abran las puertas. Algunas giras también los venden por internet.
 
 ## Antes y después, a pocas manzanas
 
-Las manzanas que rodean el Massey Hall están entre las más concurridas de la ciudad. Justo enfrente de la sala, en el lado oeste de Yonge, se extiende el CF Toronto Eaton Centre, cuyo patio de comidas es la opción más cómoda para cenar algo rápido antes del concierto.
+El entorno del Massey Hall es uno de los más concurridos de la ciudad. Justo enfrente, en el lado oeste de Yonge, se extiende el CF Toronto Eaton Centre, cuya zona de restauración es la opción más cómoda para comer algo rápido antes del espectáculo.
 
-Dos manzanas al norte, bajo su muro de pantallas digitales, se encuentra la plaza Sankofa (Sankofa Square), la antigua Yonge-Dundas Square. Hacia el este, prácticamente pegada a la sala, se levanta en Bond Street la catedral basílica de San Miguel (St. Michael's Cathedral Basilica). Y en Yonge, justo al sur de Queen, está el Elgin and Winter Garden Theatre, con sus teatros superpuestos.
+Dos manzanas al norte, bajo su muro de pantallas digitales, se abre Sankofa Square, la antigua Yonge-Dundas Square. Hacia el este, prácticamente al lado, se alza en Bond Street la Catedral Basílica de San Miguel (St. Michael's Cathedral Basilica). En Yonge, justo al sur de Queen, se encuentra el Elgin and Winter Garden Theatre, con sus teatros superpuestos.
 
-Para comer cocina coreana, lo mejor es el barrio coreano de Toronto (Koreatown), que se extiende por Bloor Street West cerca de la estación Christie, en la línea 2. Desde la sala se llega en metro en unos veinte minutos.
+Para la comida coreana, el barrio coreano (Koreatown) de Toronto se extiende por Bloor Street West, junto a la estación Christie de la Línea 2, a unos veinte minutos de la sala en metro.
 
 ## Toronto a mediados de noviembre
 
-En Canadá, el 11 de noviembre se celebra el Día del Recuerdo (Remembrance Day). Mucha gente luce amapolas rojas en la solapa y a las 11am tienen lugar diversas ceremonias. Como en Ontario no es festivo oficial, las oficinas, el transporte público y los comercios mantienen su ritmo habitual de un día laborable.
+El 11 de noviembre se celebra en Canadá el Día del Recuerdo (Remembrance Day). Mucha gente luce amapolas rojas, y a las 11am tienen lugar diversas ceremonias. En Ontario no es festivo oficial, por lo que oficinas, transporte y comercios mantienen su ritmo habitual de día laborable.
 
-A mediados de noviembre las noches suelen ser frías, a menudo con temperaturas cercanas a cero, y el viento se encajona a lo largo de Yonge Street. Los fans que hacen cola en la calle para conseguir obsequios o productos oficiales suelen abrigarse por capas. Quienes vienen de fuera acostumbran a alojarse en el centro, a una distancia que puede recorrerse a pie hasta la sala, para no tener que volver tarde un día entre semana.
+A mediados de noviembre las noches suelen ser frías, a menudo cercanas a cero grados, y el viento se encajona en Yonge Street. Los fans que hacen cola en la calle para conseguir obsequios o productos oficiales tienden a abrigarse por capas. Quienes vienen de fuera suelen alojarse en el centro, a poca distancia a pie de la sala, para ahorrarse un trayecto tardío en plena semana.

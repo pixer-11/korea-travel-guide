@@ -162,5 +162,37 @@
  "Melbourne\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Scots%27_Church_Interior_2%2C_Melbourne%2C_Australia_-_Diliff.jpg/3840px-Scots%27_Church_Interior_2%2C_Melbourne%2C_Australia_-_Diliff.jpg": {
   "reason": "No evidence this church is in Melbourne; generic interior",
   "at": "2026-11-10T19:44:35.023Z"
+ },
+ "Bandung\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bandung%2C_Indonesia_%28Unsplash%29.jpg/3840px-Bandung%2C_Indonesia_%28Unsplash%29.jpg": {
+  "reason": "Close-up coffee cup, not a view of Bandung",
+  "at": "2026-11-12T05:13:57.298Z"
+ },
+ "Bengaluru\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Bengaluru_FC_during_2026-27_open_training_session.jpg": {
+  "reason": "Generic sports field, not representative Bengaluru landmark view",
+  "at": "2026-11-12T05:14:05.267Z"
+ },
+ "Cairo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Shopping_in_the_spotlight_%28Cairo%29.jpg/3840px-Shopping_in_the_spotlight_%28Cairo%29.jpg": {
+  "reason": "Market stall scene, not a representative Cairo cityscape view",
+  "at": "2026-11-12T05:14:12.131Z"
+ },
+ "New Delhi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pink_dress_with_embroidery%2C_detail%2C_Crafts_Museum%2C_New_Delhi.jpg/3840px-Pink_dress_with_embroidery%2C_detail%2C_Crafts_Museum%2C_New_Delhi.jpg": {
+  "reason": "Close-up of embroidered textile, not a city view",
+  "at": "2026-11-12T05:14:50.377Z"
+ },
+ "Surabaya\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Peron_bus_kota_Surabaya%2C_31_Maret_2022.jpg": {
+  "reason": "Bus terminal scene, not a city landmark view",
+  "at": "2026-11-12T05:15:16.167Z"
+ },
+ "Sydney\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sydney_%28AU%29%2C_Coast%2C_Australian_Fur_Seals_--_2019_--_3489.jpg/3840px-Sydney_%28AU%29%2C_Coast%2C_Australian_Fur_Seals_--_2019_--_3489.jpg": {
+  "reason": "Generic coastal cliff, not identifiable as Sydney landmark",
+  "at": "2026-11-12T05:15:20.136Z"
+ },
+ "Vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mystic_Beach%2C_Vancouver_Island%2C_Canada_10.jpg/3840px-Mystic_Beach%2C_Vancouver_Island%2C_Canada_10.jpg": {
+  "reason": "Generic beach/cliff scene, not a Vancouver city landmark",
+  "at": "2026-11-12T05:15:34.204Z"
+ },
+ "Vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/2018-08-31_01_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg": {
+  "reason": "Shows a fire rescue boat, not a Vancouver landmark view",
+  "at": "2026-11-12T05:15:36.667Z"
  }
 }

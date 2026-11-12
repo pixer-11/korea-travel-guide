@@ -13,6 +13,14 @@ eventOrganizer:
   name: Wanganui Harrier Club
   url: https://wanganuiharrierclub.co.nz/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atene_Skyline_Track_-_view_of_Ahuahu_Valley%2C_Whanganui_National_Park%2C_New_Zealand_%2822%29.JPG/1280px-Atene_Skyline_Track_-_view_of_Ahuahu_Valley%2C_Whanganui_National_Park%2C_New_Zealand_%2822%29.JPG'
+  credit: 'Photo: Michal Klajban (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Atene Skyline Track - view of Ahuahu Valley, Whanganui National Park, New Zealand (22).JPG'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - whanganui

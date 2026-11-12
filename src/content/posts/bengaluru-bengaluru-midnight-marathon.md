@@ -9,6 +9,14 @@ eventStartDate: '2026-12-05'
 eventEndDate: '2026-12-05'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bengaluru_from_Night_Sky.jpg/3840px-Bengaluru_from_Night_Sky.jpg'
+  credit: 'Photo: ANKAN / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bengaluru_from_Night_Sky.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - bengaluru

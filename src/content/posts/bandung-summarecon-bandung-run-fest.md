@@ -13,6 +13,14 @@ eventOrganizer:
   name: Summarecon
   url: https://www.summarecon.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Patenggang_Lake_panorama%2C_Bandung_Regency%2C_2014-08-21.jpg/3840px-Patenggang_Lake_panorama%2C_Bandung_Regency%2C_2014-08-21.jpg'
+  credit: 'Photo: Crisco 1492 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Patenggang_Lake_panorama,_Bandung_Regency,_2014-08-21.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - bandung

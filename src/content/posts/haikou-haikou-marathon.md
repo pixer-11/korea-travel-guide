@@ -9,6 +9,14 @@ eventStartDate: '2026-12-27'
 eventEndDate: '2026-12-27'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Altstadt_von_Haikou_%28Hainan%29.jpg/1280px-Altstadt_von_Haikou_%28Hainan%29.jpg'
+  credit: 'Photo: Yolanda Yao (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Altstadt von Haikou (Hainan).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - haikou

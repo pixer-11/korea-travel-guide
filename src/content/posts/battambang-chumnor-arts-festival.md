@@ -9,6 +9,14 @@ eventStartDate: '2026-12-15'
 eventEndDate: '2026-12-17'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bah%C3%A1%27%C3%AD_House_of_Worship%2C_Battambang.jpg/3840px-Bah%C3%A1%27%C3%AD_House_of_Worship%2C_Battambang.jpg'
+  credit: 'Photo: Minh-Tam VO / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bah%C3%A1%27%C3%AD_House_of_Worship,_Battambang.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - battambang

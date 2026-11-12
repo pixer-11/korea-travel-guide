@@ -13,7 +13,6 @@ eventPerformer:
   name: Rise Against
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - auckland
   - event
@@ -31,6 +30,16 @@ faq:
     a: Most concertgoers eat in the Britomart precinct or at Commercial Bay, both a short walk from the arena. Viaduct Harbour has later-opening bars for after the show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rise_Against_-_Southside_Festival_2022_-_IMG_4648.jpg/3840px-Rise_Against_-_Southside_Festival_2022_-_IMG_4648.jpg
+  credit: 'Photo: Mr. Rossi / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rise_Against_-_Southside_Festival_2022_-_IMG_4648.jpg
+  focus:
+    x: 53
+    'y': 17
+    top: 7
+    bottom: 26
 ---
 
 ## A Chicago punk band on Quay Park

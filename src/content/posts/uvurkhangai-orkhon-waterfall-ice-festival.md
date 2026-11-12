@@ -10,6 +10,14 @@ eventEndDate: '2026-12-06'
 eventRecurring: true
 eventVenue: Orkhon Waterfall (Ulaan Tsutgalan)
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_lake_in_Uvurkhangai%2C_Mongolia.jpg/1280px-The_lake_in_Uvurkhangai%2C_Mongolia.jpg'
+  credit: 'Photo: Enkhgerele (CC0)'
+  license: wikimedia
+  source: 'File:The lake in Uvurkhangai, Mongolia.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - uvurkhangai

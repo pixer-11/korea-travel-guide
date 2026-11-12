@@ -3545,7 +3545,12 @@
   "seoul-stray-kids-run-it-tour-seoul\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/190424_Stray_Kids_The_Fact_Music_Awards.png": 3840,
   "singapore-chinese-new-year-river-hongbao-festival-singapore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Chinese_New_Year_2023_Philippines_02.jpg/3840px-Chinese_New_Year_2023_Philippines_02.jpg": 3840,
   "toronto-lucy-concert\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/LUCY_Cho_Wonsang.jpg": 1613,
-  "valencia-10k-valencia-ibercaja-by-kiprun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/10K_Valencia_-_2023.jpg/3840px-10K_Valencia_-_2023.jpg": 3840
+  "valencia-10k-valencia-ibercaja-by-kiprun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/10K_Valencia_-_2023.jpg/3840px-10K_Valencia_-_2023.jpg": 3840,
+  "auckland-rise-against-auckland\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rise_Against_-_Southside_Festival_2022_-_IMG_4648.jpg/3840px-Rise_Against_-_Southside_Festival_2022_-_IMG_4648.jpg": 3840,
+  "rome-raffaella-carra-official-hologram-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Raffaella_Carr%C3%A0.jpg": 2800,
+  "semarang-semarang-10k\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Balai_Kota_Semarang.JPG": 2592,
+  "seoul-tomorrow-x-together-txt-steal-the-wind-tour-seoul\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Tomorrow_X_Together_at_a_Dior_event_in_2025_01.jpg": 2924,
+  "kuala-lumpur-sabato-s-kimpton-naluria-kl\u0001https://fastly.4sqi.net/img/general/original/10738659_mZ9FP7ttXuap6hX-DXrWCRDlFEdgrml5HWXsIptquk0.jpg": 1440
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3739,8 +3744,8 @@
   },
   "dubai-suteki": {
    "width": 903,
-   "attempts": 9,
-   "nextTry": "2026-11-12",
+   "attempts": 10,
+   "nextTry": "2026-11-19",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
@@ -3802,8 +3807,8 @@
   },
   "hiroshima-nagataya": {
    "width": 1024,
-   "attempts": 7,
-   "nextTry": "2026-11-12",
+   "attempts": 8,
+   "nextTry": "2026-11-19",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3837,15 +3842,15 @@
   },
   "istanbul-lina-anatolian-kitchen": {
    "width": 1024,
-   "attempts": 5,
-   "nextTry": "2026-11-12",
+   "attempts": 6,
+   "nextTry": "2026-11-19",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
   "kyoto-kurama-fire-festival": {
    "width": 1024,
-   "attempts": 5,
-   "nextTry": "2026-11-12",
+   "attempts": 6,
+   "nextTry": "2026-11-19",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -4076,5 +4081,5 @@
    "flaggedAt": "2026-11-06"
   }
  },
- "updated": "2026-11-12T04:46:22.940Z"
+ "updated": "2026-11-12T04:57:52.964Z"
 }

@@ -16,7 +16,6 @@ eventPerformer:
   name: TOMORROW X TOGETHER
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - seoul
   - event
@@ -34,6 +33,16 @@ faq:
     a: Jamsil is the most common base. It has hotels near Lotte World Tower and Line 2 connections across the city. Bangi-dong, next to Olympic Park, is the usual place to eat before and after the show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/9/91/Tomorrow_X_Together_at_a_Dior_event_in_2025_01.jpg
+  credit: 'Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tomorrow_X_Together_at_a_Dior_event_in_2025_01.jpg
+  focus:
+    x: 50
+    'y': 10
+    top: 2
+    bottom: 18
 ---
 
 ## A gymnastics hall built for 1988

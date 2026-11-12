@@ -12,6 +12,14 @@ eventOrganizer:
   name: Cambodia Ministry of Tourism
   url: https://www.tourism.gov.kh
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/20171124_Srebrna_Pagoda_w_Phnom_Penh_4139_DxO.jpg'
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:20171124_Srebrna_Pagoda_w_Phnom_Penh_4139_DxO.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - phnom penh

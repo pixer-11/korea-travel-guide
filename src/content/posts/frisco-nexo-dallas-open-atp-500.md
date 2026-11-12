@@ -12,6 +12,15 @@ eventOrganizer:
   name: ATP Tour
   url: https://www.atptour.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Old_Frisco_Depot%2C_550_West_Dickson%2C_Fayetteville%2C_Washington_County%2C_AR_HABS_ARK%2C72-FAYV%2C4-_%28sheet_2_of_5%29.png/1280px-Old_Frisco_Depot%2C_550_West_Dickson%2C_Fayetteville%2C_Washington_County%2C_AR_HABS_ARK%2C72-FAYV%2C4-_%28sheet_2_of_5%29.png'
+  credit: 'Photo: Related names:
+
+Denham, Elam L, faculty sponsor
+University of Arkansas, School of Architecture, sponsor
+Gajda, Paul N, delineator (Public domain)'
+  license: wikimedia
+  source: 'File:Old Frisco Depot, 550 West Dickson, Fayetteville, Washington County, AR HABS ARK,72-FAYV,4- (sheet 2 of 5).png'
 gallery: []
 tags:
   - frisco

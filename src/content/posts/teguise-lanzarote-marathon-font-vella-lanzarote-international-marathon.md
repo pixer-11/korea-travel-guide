@@ -9,6 +9,14 @@ eventStartDate: '2026-12-05'
 eventEndDate: '2026-12-05'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/At_Teguise_2022_12.jpg/1280px-At_Teguise_2022_12.jpg'
+  credit: 'Photo: Photograph by Mike Peel (www.mikepeel.net). (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:At Teguise 2022 12.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - teguise

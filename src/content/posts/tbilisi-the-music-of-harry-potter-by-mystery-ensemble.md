@@ -18,6 +18,14 @@ eventPerformer:
   name: Mystery Ensemble
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2014_Tbilisi%2C_Widoki_z_Twierdzy_Narikala_%2823%29.jpg/3840px-2014_Tbilisi%2C_Widoki_z_Twierdzy_Narikala_%2823%29.jpg'
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_Widoki_z_Twierdzy_Narikala_(23).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tbilisi

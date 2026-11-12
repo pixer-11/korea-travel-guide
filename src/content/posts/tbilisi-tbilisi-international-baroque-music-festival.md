@@ -10,6 +10,14 @@ eventEndDate: '2026-12-09'
 eventRecurring: true
 eventVenue: Tbilisi State Conservatoire Grand Hall
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2014_Tbilisi%2C_Widoki_z_Twierdzy_Narikala_%2836%29.jpg/3840px-2014_Tbilisi%2C_Widoki_z_Twierdzy_Narikala_%2836%29.jpg'
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_Widoki_z_Twierdzy_Narikala_(36).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tbilisi

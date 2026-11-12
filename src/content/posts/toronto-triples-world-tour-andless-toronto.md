@@ -1,6 +1,6 @@
 ---
 title: 'tripleS World Tour ANDLESS - Toronto: Dates, Tickets & Venue (Toronto)'
-description: tripleS World Tour ANDLESS - Toronto takes place at Massey Hall in downtown Toronto on Wednesday, November 11, 2026, as part of the group's 2026 ANDLESS World Tour.
+description: tripleS World Tour ANDLESS - Toronto was set for Massey Hall in downtown Toronto on Wednesday, November 11, 2026, as part of the 2026 ANDLESS World Tour.
 country: Canada
 region: Toronto
 category: event
@@ -27,10 +27,10 @@ gallery: []
 tags:
   - toronto
   - event
-quickAnswer: tripleS World Tour ANDLESS - Toronto takes place at Massey Hall in downtown Toronto on Wednesday, November 11, 2026, as part of the group's 2026 ANDLESS World Tour. The hall is at 178 Victoria Street at Shuter, a few minutes' walk from Queen station on TTC Line 1. The venue's box office holds ticket and door-time details, and this guide names no prices.
+quickAnswer: tripleS World Tour ANDLESS - Toronto was set for Massey Hall in downtown Toronto on Wednesday, November 11, 2026, as part of the group's 2026 ANDLESS World Tour. The hall is at 178 Victoria Street at Shuter, a few minutes' walk from Queen station on TTC Line 1. The venue's box office handles tickets for its shows.
 faq:
   - q: When and where is tripleS World Tour ANDLESS in Toronto?
-    a: It takes place on Wednesday, November 11, 2026, at Massey Hall, 178 Victoria Street at Shuter Street, in downtown Toronto.
+    a: The concert was set for Wednesday, November 11, 2026, at Massey Hall, 178 Victoria Street at Shuter Street, in downtown Toronto.
   - q: What is the closest subway station to Massey Hall?
     a: Queen station on TTC Line 1. Its Shuter Street entrance is about two minutes from the hall. TMU station, formerly Dundas, is one stop north and also a short walk away.
   - q: How big is Massey Hall, and are the seats good?
@@ -42,14 +42,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A big group in an old room
 
-tripleS has 24 members. Massey Hall opened in 1894. Those two facts set the scale of this show: South Korea's most crowded girl group plays one of Toronto's oldest concert halls on November 11, 2026.
+tripleS has 24 members. Massey Hall opened in 1894. Those two facts set the scale of the Toronto date: South Korea's most crowded girl group was scheduled to play one of Toronto's oldest concert halls on November 11, 2026.
 
-The group comes from the agency Modhaus and was built around fan participation. Through the Cosmo app, holders of digital "objekts" vote on units and title tracks. That makes the fandom, called WAV, unusually invested in who sings what. This guide does not cover which members appear on this tour.
+The group comes from the agency Modhaus and was built around fan participation. Through the Cosmo app, holders of digital "objekts" vote on units and title tracks. That makes the fandom, called WAV, unusually invested in who sings what.
 
-The Toronto date is a Wednesday. It sits inside the North American run of the ANDLESS tour.
+The Toronto date fell on a Wednesday. It was part of the North American leg of the ANDLESS tour.
 
 ## Inside Massey Hall
 
@@ -76,15 +75,15 @@ The lobby and the sidewalk on Victoria Street are where the fan rituals happen. 
 Inside, a few habits are standard:
 
 - **Lightsticks:** the official tripleS lightstick is the one most of the room holds, and it is kept below head height for the people behind.
-- **Fan chants:** WAV chants member names during set songs. Fans usually learn them from fan-made guides before the show.
+- **Fan chants:** WAV chants member names during set songs. Fans usually learn them from fan-made guides.
 - **Phones:** most K-pop shows allow phone photos, while rules on video vary by tour. The venue's posted policy is the one that applies.
 - **Payment:** Toronto runs on tap. Cards and phones work at bars and merch tables almost everywhere.
 
-Merch lines at K-pop shows often build before doors. Fans who prefer to skip the queue usually check whether the tour sells merch online.
+Merch lines at K-pop shows often build before doors. Some tours also sell their merch online.
 
 ## Before and after, within a few blocks
 
-The blocks around Massey Hall are some of the densest in the city. CF Toronto Eaton Centre runs along the west side of Yonge, directly across from the hall. Its food court is the easiest place for a quick meal before the show.
+The blocks around Massey Hall are some of the densest in the city. CF Toronto Eaton Centre runs along the west side of Yonge, directly across from the hall. Its food court is the easiest place for a quick meal before a show.
 
 Sankofa Square, the former Yonge-Dundas Square, is two blocks north under its wall of digital screens. To the east, St. Michael's Cathedral Basilica stands on Bond Street, practically next door. The Elgin and Winter Garden Theatre, with its stacked theatres, is on Yonge just south of Queen.
 
