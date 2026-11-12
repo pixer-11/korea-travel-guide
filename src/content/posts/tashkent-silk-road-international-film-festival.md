@@ -10,10 +10,10 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chirchiq_river._Tashkent_02.jpg/3840px-Chirchiq_river._Tashkent_02.jpg'
-  credit: 'Photo: Jamshid Nurkulov / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tashkent_City_Park_at_night_3.jpg/3840px-Tashkent_City_Park_at_night_3.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Chirchiq_river._Tashkent_02.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_at_night_3.jpg'
 gallery: []
 tags:
   - tashkent

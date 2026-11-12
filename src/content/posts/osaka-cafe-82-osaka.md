@@ -8,13 +8,6 @@ country: Japan
 region: Osaka
 category: trendy
 pubDate: '2026-08-08T08:14:21.207Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg/3840px-Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg
-  credit: 'Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg
 gallery: []
 place:
   id: ChIJi1E6XcXnAGARwXehSzy1VwE
@@ -89,6 +82,7 @@ faq:
       workers than tour groups.
 aiGenerated: true
 updatedDate: '2026-10-16'
+photoless: true
 ---
 
 ## Why Cafe+82 is worth the detour

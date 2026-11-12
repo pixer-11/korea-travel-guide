@@ -1,51 +1,50 @@
 ---
-title: "Bosphorus View Point: Istanbul Travel Guide (4.7★)"
-description: "Bosphorus View Point sits in Kuzguncuk, a quiet Asian-side neighbourhood of Istanbul, on Bicanefendi Sokak just up from the waterfront. 4.7★ (145 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Istanbul"
-category: "attraction"
-pubDate: "2026-09-21T07:48:48.604Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/be/Bosphorus_-_View_from_Rumelihisari_%283501789921%29.jpg"
-  credit: "Photo: Roger W from Sarasota, Florida, U.S.A. / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bosphorus_-_View_from_Rumelihisari_(3501789921).jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 45
+title: 'Bosphorus View Point: Istanbul Travel Guide (4.7★)'
+description: Bosphorus View Point sits in Kuzguncuk, a quiet Asian-side neighbourhood of Istanbul, on Bicanefendi Sokak just up from the waterfront. 4.7★ (145 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Istanbul
+category: attraction
+pubDate: '2026-09-21T07:48:48.604Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bosphorus_Istanbul_2007-crop.jpg/3840px-Bosphorus_Istanbul_2007-crop.jpg"
-    credit: "Photo: Bosphorus_Istanbul_2007.jpg: Gryffindor derivative work: / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bosphorus_Istanbul_2007-crop.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bosphorus_Istanbul_2007-crop.jpg/3840px-Bosphorus_Istanbul_2007-crop.jpg
+    credit: 'Photo: Bosphorus_Istanbul_2007.jpg: Gryffindor derivative work: / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bosphorus_Istanbul_2007-crop.jpg
 place:
-  id: "ChIJf9RrSau3yhQRTUnxRIZLB4c"
-  name: "Bosphorus View Point"
-  address: "Kuzguncuk, Bicanefendi Sok. No:15, 34674 Üsküdar/İstanbul, Türkiye"
+  id: ChIJf9RrSau3yhQRTUnxRIZLB4c
+  name: Bosphorus View Point
+  address: Kuzguncuk, Bicanefendi Sok. No:15, 34674 Üsküdar/İstanbul, Türkiye
   rating: 4.7
   userRatingsTotal: 145
-  googleMapsUrl: "https://maps.google.com/?cid=9729828560011610445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9729828560011610445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.03375
   lng: 29.029934
 tags:
-  - "istanbul"
-  - "viewpoint"
-quickAnswer: "Bosphorus View Point sits in Kuzguncuk, a quiet Asian-side neighbourhood of Istanbul, on Bicanefendi Sokak just up from the waterfront. It's a small, uncrowded lookout rather than a formal monument, best reached on foot after a wander through Kuzguncuk's back streets. Go in late afternoon for the light on the water, and pair it with a stroll along the neighbourhood's main street, İcadiye Caddesi."
+  - istanbul
+  - viewpoint
+quickAnswer: Bosphorus View Point sits in Kuzguncuk, a quiet Asian-side neighbourhood of Istanbul, on Bicanefendi Sokak just up from the waterfront. It's a small, uncrowded lookout rather than a formal monument, best reached on foot after a wander through Kuzguncuk's back streets. Go in late afternoon for the light on the water, and pair it with a stroll along the neighbourhood's main street, İcadiye Caddesi.
 faq:
-  - q: "Where exactly is Bosphorus View Point?"
-    a: "It's on Bicanefendi Sokak in Kuzguncuk, a neighbourhood in Üsküdar district on Istanbul's Asian side, reached by walking uphill from the main street, İcadiye Caddesi."
-  - q: "What's the best time to visit?"
-    a: "Late afternoon into sunset gives the warmest light on the Bosphorus and the passing ferries; mornings are quieter and cooler in tone if you'd rather skip the golden-hour light."
-  - q: "How do I get there without driving?"
-    a: "Take the ferry to Üsküdar and continue by bus or taxi to Kuzguncuk, or use a Metrobus/city bus service running along the Asian shore. Street parking is limited and mostly used by residents."
-  - q: "How long should I plan for the visit?"
-    a: "The viewpoint itself takes only a few minutes to take in, but pairing it with a walk around Kuzguncuk's streets and İcadiye Caddesi easily fills an hour or more."
-  - q: "Is it crowded?"
-    a: "No. With a strong rating from a small number of reviews, it's still an under-the-radar spot rather than a tour-bus stop, so it's naturally quiet most times of day."
+  - q: Where exactly is Bosphorus View Point?
+    a: It's on Bicanefendi Sokak in Kuzguncuk, a neighbourhood in Üsküdar district on Istanbul's Asian side, reached by walking uphill from the main street, İcadiye Caddesi.
+  - q: What's the best time to visit?
+    a: Late afternoon into sunset gives the warmest light on the Bosphorus and the passing ferries; mornings are quieter and cooler in tone if you'd rather skip the golden-hour light.
+  - q: How do I get there without driving?
+    a: Take the ferry to Üsküdar and continue by bus or taxi to Kuzguncuk, or use a Metrobus/city bus service running along the Asian shore. Street parking is limited and mostly used by residents.
+  - q: How long should I plan for the visit?
+    a: The viewpoint itself takes only a few minutes to take in, but pairing it with a walk around Kuzguncuk's streets and İcadiye Caddesi easily fills an hour or more.
+  - q: Is it crowded?
+    a: No. With a strong rating from a small number of reviews, it's still an under-the-radar spot rather than a tour-bus stop, so it's naturally quiet most times of day.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/69552329_P55GLU0oj52wa2Swu9fJmVYfeoiihVuMdeax6ROS6Kc.jpg
+  credit: 'Photo: Foursquare user content (Bosphorus View)'
+  license: foursquare
+  source: https://foursquare.com/v/69b7f1543d80be4e78930b09
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Kuzguncuk doesn't announce itself the way Karaköy or Beşiktaş does. This is a low-rise neighbourhood of wooden houses, tucked between the Bosphorus shore and a steep hillside on the Asian side of Üsküdar district, and Bosphorus View Point is a scenic overlook reached by climbing away from the water rather than standing at it.

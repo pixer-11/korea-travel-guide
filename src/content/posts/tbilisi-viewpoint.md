@@ -1,59 +1,72 @@
 ---
-title: "Viewpoint: Tbilisi Travel Guide"
-description: "Viewpoint is a small, consistently well rated lookout on Tbilisi's western hills: its plus code (MQW2+XR) sits above the Vake district, on the same wooded ridge as Turtle Lake."
-country: "Georgia"
-region: "Tbilisi"
-category: "attraction"
-pubDate: "2026-10-26T15:35:48.498Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/51/View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-2%2C_May%2C_2022.jpg"
-  credit: "Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-2,_May,_2022.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 50
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b3/View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-4%2C_May%2C_2022.jpg"
-    credit: "Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-4,_May,_2022.jpg"
+title: 'Viewpoint: Tbilisi Travel Guide'
+description: >-
+  Viewpoint is a small, consistently well rated lookout on Tbilisi's western
+  hills: its plus code (MQW2+XR) sits above the Vake district, on the same
+  wooded ridge as Turtle Lake.
+country: Georgia
+region: Tbilisi
+category: attraction
+pubDate: '2026-10-26T15:35:48.498Z'
+gallery: []
 place:
-  id: "ChIJHwHcNsENREARDiXSKY3KFzA"
-  name: "Viewpoint"
-  address: "MQW2+XR, Tbilisi, Georgia"
+  id: ChIJHwHcNsENREARDiXSKY3KFzA
+  name: Viewpoint
+  address: 'MQW2+XR, Tbilisi, Georgia'
   rating: 4.8
   userRatingsTotal: 72
-  googleMapsUrl: "https://maps.google.com/?cid=3465461145925723406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3465461145925723406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.6974563
   lng: 44.7520908
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "tbilisi"
-  - "viewpoint"
-quickAnswer: "Viewpoint is a small, consistently well rated lookout on Tbilisi's western hills: its plus code (MQW2+XR) sits above the Vake district, on the same wooded ridge as Turtle Lake. It's listed as open 24 hours and doesn't get many visitors. Load the plus code into your map app, go in late afternoon or around sunset for the best light, and plan on 30–60 minutes."
+  - tbilisi
+  - viewpoint
+quickAnswer: >-
+  Viewpoint is a small, consistently well rated lookout on Tbilisi's western
+  hills: its plus code (MQW2+XR) sits above the Vake district, on the same
+  wooded ridge as Turtle Lake. It's listed as open 24 hours and doesn't get many
+  visitors. Load the plus code into your map app, go in late afternoon or around
+  sunset for the best light, and plan on 30–60 minutes.
 faq:
-  - q: "Where exactly is Viewpoint in Tbilisi?"
-    a: "Its plus code is MQW2+XR. That puts it on the hills on the western edge of the city above Vake, in the same area as Turtle Lake. Search the plus code, not the word \"viewpoint\", or your map may send you to a different lookout."
-  - q: "How do I get there?"
-    a: "The simplest way is a ride-hailing app such as Bolt with a pin dropped on MQW2+XR. You could also walk up through the Vake Park and Turtle Lake area. Expect a short walk from where a car can stop."
-  - q: "What is the best time to visit?"
-    a: "Late afternoon into sunset, because you're looking east and the light falls on the city in front of you. Clear days in spring and autumn give the sharpest views."
-  - q: "Is it open at night?"
-    a: "Google currently lists it as open 24 hours. It's an open hillside, though, so don't assume there's lighting. Bring a torch if you stay after dark and plan your way down in advance."
-  - q: "What else is nearby?"
-    a: "Vake Park, Turtle Lake with its cable car, and the Open Air Museum of Ethnography are all on the same western hills. The restaurants along Chavchavadze Avenue in Vake are close by for dinner afterwards."
+  - q: Where exactly is Viewpoint in Tbilisi?
+    a: >-
+      Its plus code is MQW2+XR. That puts it on the hills on the western edge of
+      the city above Vake, in the same area as Turtle Lake. Search the plus
+      code, not the word "viewpoint", or your map may send you to a different
+      lookout.
+  - q: How do I get there?
+    a: >-
+      The simplest way is a ride-hailing app such as Bolt with a pin dropped on
+      MQW2+XR. You could also walk up through the Vake Park and Turtle Lake
+      area. Expect a short walk from where a car can stop.
+  - q: What is the best time to visit?
+    a: >-
+      Late afternoon into sunset, because you're looking east and the light
+      falls on the city in front of you. Clear days in spring and autumn give
+      the sharpest views.
+  - q: Is it open at night?
+    a: >-
+      Google currently lists it as open 24 hours. It's an open hillside, though,
+      so don't assume there's lighting. Bring a torch if you stay after dark and
+      plan your way down in advance.
+  - q: What else is nearby?
+    a: >-
+      Vake Park, Turtle Lake with its cable car, and the Open Air Museum of
+      Ethnography are all on the same western hills. The restaurants along
+      Chavchavadze Avenue in Vake are close by for dinner afterwards.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 Most visitors to Tbilisi do their looking from Narikala or Mtatsminda. This spot faces the other way. It's marked on Google simply as "Viewpoint", plus code MQW2+XR, and it sits on the green slopes at the city's western edge. From there the city spreads away from you to the east, and the dense blocks of Vake and Saburtalo fill the foreground.

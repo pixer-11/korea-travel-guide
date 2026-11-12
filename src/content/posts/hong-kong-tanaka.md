@@ -5,14 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: restaurant
 pubDate: '2026-09-02'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/HK_SKD_TSO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%94%90%E4%BF%8A%E8%A1%97_11_Tong_Chun_Street_%E5%AF%B6%E7%9B%88%E8%8A%B1%E5%9C%92_Bauhinia_Garden_shop_%E7%94%B0%E4%B8%AD%E9%A4%85%E5%BA%97_Tanaka_Bakery_n_%E6%B3%B0%E9%9D%9A%E9%A6%99%E6%B8%AF%E7%87%92%E5%91%B3_Thailand_Hong_Kong_Siu_Mei_January_2023_Px3.jpg/3840px-thumbnail.jpg
-  credit: 'Photo: BOROWHU HARLIIEAM Tami / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:HK_SKD_TSO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%94%90%E4%BF%8A%E8%A1%97_11_Tong_Chun_Street_%E5%AF%B6%E7%9B%88%E8%8A%B1%E5%9C%92_Bauhinia_Garden_shop_%E7%94%B0%E4%B8%AD%E9%A4%85%E5%BA%97_Tanaka_Bakery_n_%E6%B3%B0%E9%9D%9A%E9%A6%99%E6%B8%AF%E7%87%92%E5%91%B3_Thailand_Hong_Kong_Siu_Mei_January_2023_Px3.jpg
-  focus:
-    x: 20
-    'y': 20
 gallery: []
 tags:
   - hong kong
@@ -31,6 +23,7 @@ faq:
     a: Omakase counters of this size typically run a paced, multi-course sequence, so plan for a leisurely sit-down meal rather than a quick bite.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 Wellington Street in Central is a street of contrasts: dai pai dong smoke drifting past glass-fronted wine bars, a century-old noodle shop a few doors from a private members' club. TANAKA sits inside that mix almost anonymously, its eight seats making it one of the smallest serious dining rooms in the district.

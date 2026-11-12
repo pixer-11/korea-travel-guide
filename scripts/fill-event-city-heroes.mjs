@@ -60,6 +60,17 @@ const spentViews = new Map(); // region → view searches that already placed a 
 // Museum" are modern photos of old things (review, 11-12). The plates are
 // titled "<Region> Oblast. <Place>.", and a dated archive says "circa 1910".
 const HISTORICAL = /\b(prokudin|gorsky|gorskii)\b|\boblast\.\s|\b(c\.|circa)\s?1[89]\d\d\b|\bsoviet[\s-]era\b/i;
+// A city view is taken outdoors. "Al-Furqon mosque interior Denpasar" — an empty
+// prayer hall — went on a Balinese arts festival, and vision passed it as a
+// landmark (owner photo review, 11-13). Not applied to the event's own venue.
+const NOT_A_CITY_VIEW = /\b(interior|interiors|inside|indoor|indoors|ceiling|ceilings|mihrab|altar|nave|lobby|corridor|staircase)\b/i;
+// What vision is asked to accept. The city tier also refuses what the eye
+// review threw out and no file name says: three passers-by walking at the
+// camera in Rizal Park for a concert in Manila. Both tiers refuse a protest:
+// two of the first three "Opéra Bastille" files are a yellow-vest rally on its
+// steps ("Opéra Bastille GJ"), and nothing in the name says so.
+const VIEW_KIND = 'present-day city, venue, landscape or landmark view that would make an attractive banner (not an archival or historical photo, not a vehicle, animal, product or close-up, not a protest, rally or crowd of demonstrators)';
+const CITY_VIEW_KIND = `${VIEW_KIND.slice(0, -1)}, not an interior or a ceiling, not a photo whose main subject is people)`;
 
 const readJson = (p) => { try { return JSON.parse(readFileSync(p, 'utf8')); } catch { return {}; } };
 const covers = readJson('data/region-covers.json');
@@ -254,6 +265,7 @@ for (const t of targets) {
         // a city file saying "Hong Kong Expo 2026" names an event.
         const venueWords = venuePhoto ? new Set(tokens(venue)) : new Set();
         if (NAMES_AN_EVENT.test(words.filter((w) => !venueWords.has(w)).join(' '))) continue;
+        if (!venuePhoto && NOT_A_CITY_VIEW.test(words.join(' '))) continue;
         // The question vision is asked, and the key its answer is kept under:
         // "not a view of the hall" must not stop the photo as a view of the city.
         const ask = venuePhoto ? `a view of ${venue} in ${region}` : `a view of ${region}`;
@@ -266,7 +278,7 @@ for (const t of targets) {
         // fails closed (no key, an outage: no pick), and a person still reads
         // the result in audit-event-hero-identity the next morning.
         if (visionLeft-- <= 0) break;
-        const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: ask, category: 'present-day city, venue, landscape or landmark view that would make an attractive banner (not an archival or historical photo, not a vehicle, animal, product or close-up)', region, country });
+        const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: ask, category: venuePhoto ? VIEW_KIND : CITY_VIEW_KIND, region, country });
         if (!vis.ok) {
           console.log(`  · ${t.slug.slice(0, 46)}: ${fileOf(hit.url).slice(0, 40)} — vision: ${String(vis.reason).slice(0, 70)}`);
           if (!DRY && rememberRejection(rejects, rejectAs, hit.url, vis.reason)) rejectsChanged = true;

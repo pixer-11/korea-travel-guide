@@ -446,5 +446,37 @@
  "Kunming\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Boats_on_Kunming_Lake_near_17_Arch_Bridge.jpg/3840px-Boats_on_Kunming_Lake_near_17_Arch_Bridge.jpg": {
   "reason": "Shows Beijing's Summer Palace, not Kunming city",
   "at": "2026-11-12T12:29:47.319Z"
+ },
+ "Madrid\u0001https://upload.wikimedia.org/wikipedia/commons/e/e7/Madrid-skyline-230510.jpg": {
+  "reason": "Generic landscape, not recognizable as Madrid",
+  "at": "2026-11-12T16:10:28.015Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Okhunguzar_Mosque%2C_Tashkent.jpg/3840px-Okhunguzar_Mosque%2C_Tashkent.jpg": {
+  "reason": "This is Khiva architecture, not Tashkent",
+  "at": "2026-11-12T16:11:44.749Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Baland_Mosque%2C_Tashkent.jpg/3840px-Baland_Mosque%2C_Tashkent.jpg": {
+  "reason": "Building under construction with scaffolding and rebar visible",
+  "at": "2026-11-12T16:11:47.083Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Tashkent_Square_trams.jpg": {
+  "reason": "Archival historical photo, not present-day view",
+  "at": "2026-11-12T16:11:53.301Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/USSR_Container_at_Tashkent_Railway_Museum_1.jpg": {
+  "reason": "Shipping container, not a representative Tashkent landmark view",
+  "at": "2026-11-12T16:11:59.579Z"
+ },
+ "Denpasar\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Mitsubishi_Mirage_hatchback%2C_Denpasar.jpg": {
+  "reason": "Main subject is a car, not a city view",
+  "at": "2026-11-12T16:21:03.860Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tashkent_City_Park_bike_path.jpg/3840px-Tashkent_City_Park_bike_path.jpg": {
+  "reason": "Generic bike lane fragment, not representative Tashkent landmark view",
+  "at": "2026-11-12T16:21:32.888Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tashkent_City_Park_November_2019_2.jpg/3840px-Tashkent_City_Park_November_2019_2.jpg": {
+  "reason": "Focus on giraffe topiary sculptures, not city view",
+  "at": "2026-11-12T16:21:40.130Z"
  }
 }

@@ -8,24 +8,7 @@ country: Japan
 region: Osaka
 category: hidden-gem
 pubDate: '2026-09-23T07:49:58.937Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg
-  credit: 'Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg
-  via: act
-  focus:
-    x: 50
-    'y': 50
-gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/d/d9/Kuromon_Ichiba_Market_at_LaLaport_Kadoma4.jpg
-    credit: 'Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Kuromon_Ichiba_Market_at_LaLaport_Kadoma4.jpg
+gallery: []
 place:
   id: ChIJXSJB5UHnAGARQcEjvngsHaw
   name: Kuromon Market
@@ -80,6 +63,15 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-16'
+heroImage:
+  url: >-
+    https://fastly.4sqi.net/img/general/original/421909715_QGSf-6adGaBNBaqRsIGbvci9Hyu2DVK8V4qc2eIao6U.jpg
+  credit: 'Photo: Foursquare user content (Kuromon Market (黒門市場))'
+  license: foursquare
+  source: 'https://foursquare.com/v/4b5d995ff964a520fd6229e3'
+  focus:
+    x: 50
+    'y': 40
 ---
 ## What Kuromon actually is
 

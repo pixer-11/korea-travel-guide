@@ -21,14 +21,6 @@ faq:
   - q: What else is nearby if I want to make a night of it?
     a: Ebisu is packed with small bars, yakitori counters and izakayas, so it's easy to pair Satoyama Spirits with a wider bar crawl through the neighborhood.
 aiGenerated: true
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/421799847_0zF-i_tU-YfmncbMXL05mtYjomLHez2x5ZhlwgsU2yA.jpg
-  credit: 'Photo: Foursquare user content (Spirits Bar Sunface)'
-  license: foursquare
-  source: https://foursquare.com/v/586d306a58c4d14fe9cd9cf5
-  focus:
-    x: 45
-    'y': 40
 place:
   id: ChIJT2PlwQiLGGARaqMGjRpEHtY
   name: SATOYAMA SPIRITS TOKYO
@@ -48,6 +40,7 @@ place:
     - 'Friday: 6:00 PM – 2:00 AM'
     - 'Saturday: 6:00 PM – 2:00 AM'
     - 'Sunday: Closed'
+photoless: true
 ---
 
 ## What makes this bar different

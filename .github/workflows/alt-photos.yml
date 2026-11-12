@@ -187,11 +187,15 @@ jobs:
       # City was the sixth). The script now finds those tiles itself, so running
       # it beside the photo patrol closes the loop: the tour calendar can add a
       # city any night and the tile is filled before anyone sees it dark.
-      # Commons only — no API key, no quota, and every pick still passes the
-      # same identity and licence checks.
+      # Commons only, and every pick still passes the same identity and licence
+      # checks. Since 2026-11-13 a vision look as well (a bird-egg specimen
+      # passed the name test as the Fergana tile); without the key the script
+      # places nothing and says so.
       - name: Fill dark region tiles
         if: steps.gate.outputs.on == 'true'
         continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/backfill-region-covers.mjs
 
       # New heroes need their self-hosted 640px thumbs or downstream pages

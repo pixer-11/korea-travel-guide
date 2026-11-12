@@ -5,14 +5,6 @@ country: Vietnam
 region: Da Nang
 category: attraction
 pubDate: '2026-08-19T08:12:53.422Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beer_Plaza_Bestival_food_beer_festival_Sun_World_Ba_Na_Hills_Da_Nang_Vietnam.jpg/1920px-Beer_Plaza_Bestival_food_beer_festival_Sun_World_Ba_Na_Hills_Da_Nang_Vietnam.jpg
-  credit: 'Photo: Vivu Vietnam / wikimedia (BY-SA)'
-  license: openverse-cc
-  source: https://commons.wikimedia.org/w/index.php?curid=189583322
-  focus:
-    x: 50
-    'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg/3840px-Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg
     credit: 'Photo: Vivu Vietnam / Wikimedia Commons (CC BY-SA 4.0)'
@@ -45,6 +37,14 @@ faq:
     a: Buying combo tickets online ahead of time lets you skip one of the two main queues (ticketing and cable car boarding), which saves meaningful time on busy days.
 aiGenerated: true
 updatedDate: '2026-09-01'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg/3840px-Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg
+  credit: 'Photo: Vivu Vietnam / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg
+  focus:
+    x: 70
+    'y': 35
 ---
 
 ## Why Ba Na Hills pulls in the crowds

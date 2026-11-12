@@ -9,24 +9,7 @@ country: India
 region: Kolkata
 category: restaurant
 pubDate: '2026-10-15T08:11:05.490Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg/3840px-Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg
-  credit: 'Photo: Marajozkee / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Outside_view_of_Sovabazar_Rajbari,_Kolkata,_MA10.jpg
-  via: act
-  focus:
-    x: 50
-    'y': 40
-gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg/3840px-Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg
-    credit: 'Photo: Amitabha Gupta / Wikimedia Commons (CC BY 4.0)'
-    license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg
+gallery: []
 place:
   id: ChIJMczfjrl3AjoRE2gjgVg91sw
   name: Kolkata Rajbari
@@ -84,6 +67,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-15'
+photoless: true
 ---
 
 ## A palace name on a south Kolkata side street

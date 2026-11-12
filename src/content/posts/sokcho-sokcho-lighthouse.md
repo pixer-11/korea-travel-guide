@@ -1,60 +1,73 @@
 ---
-title: "Sokcho Lighthouse: Travel Guide (4.3★)"
-description: "Sokcho Lighthouse stands on a rocky hill in Yeongnang-dong, Sokcho, at the top of a steep staircase. 4.3★ (871 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Sokcho"
-category: "hidden-gem"
-pubDate: "2026-10-02T07:41:45.239Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Red_lighthouse_in_Sokcho_01.jpg/3840px-Red_lighthouse_in_Sokcho_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Red_lighthouse_in_Sokcho_01.jpg"
-  via: "act"
-  focus:
-    x: 78
-    y: 35
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Red_lighthouse_in_Sokcho_02.jpg/3840px-Red_lighthouse_in_Sokcho_02.jpg"
-    credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Red_lighthouse_in_Sokcho_02.jpg"
+title: 'Sokcho Lighthouse: Travel Guide (4.3★)'
+description: >-
+  Sokcho Lighthouse stands on a rocky hill in Yeongnang-dong, Sokcho, at the top
+  of a steep staircase. 4.3★ (871 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Sokcho
+category: hidden-gem
+pubDate: '2026-10-02T07:41:45.239Z'
+gallery: []
 place:
-  id: "ChIJId69lA682F8RWWEyM43fE5c"
-  name: "Sokcho Lighthouse"
-  address: "8-28 Yeonggeumjeong-ro 5-gil, 영랑동 Sokcho-si, Gangwon-do, South Korea"
+  id: ChIJId69lA682F8RWWEyM43fE5c
+  name: Sokcho Lighthouse
+  address: '8-28 Yeonggeumjeong-ro 5-gil, 영랑동 Sokcho-si, Gangwon-do, South Korea'
   rating: 4.3
   userRatingsTotal: 871
-  googleMapsUrl: "https://maps.google.com/?cid=10886290521826943321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10886290521826943321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.213736399999995
   lng: 128.599974
-  phone: "+82 33-633-3406"
+  phone: +82 33-633-3406
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
-  - "sokcho"
-  - "old quarter"
-quickAnswer: "Sokcho Lighthouse stands on a rocky hill in Yeongnang-dong, Sokcho, at the top of a steep staircase. From there you look out over the East Sea on one side and Seoraksan on the other. It opens daily from 9am to 6pm and is a quieter stop than the city's beaches, so plan about an hour and pair it with Yeonggeumjeong pavilion at the foot of the hill."
+  - sokcho
+  - old quarter
+quickAnswer: >-
+  Sokcho Lighthouse stands on a rocky hill in Yeongnang-dong, Sokcho, at the top
+  of a steep staircase. From there you look out over the East Sea on one side
+  and Seoraksan on the other. It opens daily from 9am to 6pm and is a quieter
+  stop than the city's beaches, so plan about an hour and pair it with
+  Yeonggeumjeong pavilion at the foot of the hill.
 faq:
-  - q: "What are the opening hours of Sokcho Lighthouse?"
-    a: "It opens every day, Monday to Sunday, from 9am to 6pm, with no shorter days listed. Get to the top well before 6pm so you have time to take the stairs down safely."
-  - q: "Can I watch the sunrise from Sokcho Lighthouse?"
-    a: "Not from the top, because the site doesn't open until 9am. Watch the sunrise from Yeonggeumjeong pavilion on the rocks at the foot of the hill, then climb the lighthouse once it opens."
-  - q: "How hard is the climb?"
-    a: "The staircase is steep, and most people stop to rest at least once. It's short, though. Use the handrail, take extra care on the way down when the steps are wet, and leave heavy bags behind."
-  - q: "How do I get to Sokcho Lighthouse?"
-    a: "It's in Yeongnang-dong at 8-28 Yeonggeumjeong-ro 5-gil, north of Dongmyeong Port. From Sokcho Intercity Bus Terminal you can walk north along the coast. From the Express Bus Terminal near Sokcho Beach, take a taxi and show the driver 속초등대전망대 or 영금정."
-  - q: "What else is nearby?"
-    a: "Yeonggeumjeong pavilion and its sea footbridge are right below the hill. Dongmyeong Port's seafood stalls are a short walk away, and Deungdae Beach lies just to the north. Yeongnangho lake, Sokcho Jungang Market and Abai Village are a short taxi ride."
+  - q: What are the opening hours of Sokcho Lighthouse?
+    a: >-
+      It opens every day, Monday to Sunday, from 9am to 6pm, with no shorter
+      days listed. Get to the top well before 6pm so you have time to take the
+      stairs down safely.
+  - q: Can I watch the sunrise from Sokcho Lighthouse?
+    a: >-
+      Not from the top, because the site doesn't open until 9am. Watch the
+      sunrise from Yeonggeumjeong pavilion on the rocks at the foot of the hill,
+      then climb the lighthouse once it opens.
+  - q: How hard is the climb?
+    a: >-
+      The staircase is steep, and most people stop to rest at least once. It's
+      short, though. Use the handrail, take extra care on the way down when the
+      steps are wet, and leave heavy bags behind.
+  - q: How do I get to Sokcho Lighthouse?
+    a: >-
+      It's in Yeongnang-dong at 8-28 Yeonggeumjeong-ro 5-gil, north of
+      Dongmyeong Port. From Sokcho Intercity Bus Terminal you can walk north
+      along the coast. From the Express Bus Terminal near Sokcho Beach, take a
+      taxi and show the driver 속초등대전망대 or 영금정.
+  - q: What else is nearby?
+    a: >-
+      Yeonggeumjeong pavilion and its sea footbridge are right below the hill.
+      Dongmyeong Port's seafood stalls are a short walk away, and Deungdae Beach
+      lies just to the north. Yeongnangho lake, Sokcho Jungang Market and Abai
+      Village are a short taxi ride.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## Up the Rock, One Step at a Time

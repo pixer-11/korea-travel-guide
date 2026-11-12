@@ -171,7 +171,7 @@ for (const slug of SLUGS) {
       const wiki = await resolveHero({
         namedVenue: venueName, region: data.region,
         topic: (data.tags && data.tags[1]) || data.category,
-        country: data.country, used, strict: true,
+        country: data.country, used, strict: true, place: data.place, // coordinates: holds the photo to the spot (11-13)
       });
       if (wiki?.url) { unmarkUsedImage(used, wiki.url); cands.push(wiki); }
     } catch {}

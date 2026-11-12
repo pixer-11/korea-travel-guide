@@ -21,14 +21,7 @@ faq:
   - q: How do I get there, and what should I pair it with?
     a: There's no metro stop right at the door, so a taxi or rideshare is simplest, especially at night. It pairs naturally with a concert at the Auditorium or an afternoon at MAXXI.
 aiGenerated: true
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/523156937_gFtfIvxZulujDjhT-F_QPeKbLXrYHysFrNtkbmdaauc.jpg
-  credit: 'Photo: Foursquare user content (Osteria Pesce Fritto e Baccalà)'
-  license: foursquare
-  source: https://foursquare.com/v/4c5c578a7f661b8db349481c
-  focus:
-    x: 50
-    'y': 50
+photoless: true
 ---
 ## What Terracotta actually is
 

@@ -1,51 +1,51 @@
 ---
-title: "The University Parks: Oxford Travel Guide (4.7★)"
-description: "The University Parks in Oxford is a 70-acre stretch of riverside parkland on South Parks Road, a short walk north-east of the city centre and right behind the Museum of Natural History. 4.7★ (1,829 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Oxford"
-category: "attraction"
-pubDate: "2026-10-19T08:15:59.907Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Engineering_Science_Building%2C_15_Mar_06.jpg/1920px-Engineering_Science_Building%2C_15_Mar_06.jpg"
-  credit: "Photo: KRC58 at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Engineering_Science_Building,_15_Mar_06.jpg"
-  focus:
-    x: 50
-    y: 55
+title: 'The University Parks: Oxford Travel Guide (4.7★)'
+description: The University Parks in Oxford is a 70-acre stretch of riverside parkland on South Parks Road, a short walk north-east of the city centre and right behind the Museum of Natural History. 4.7★ (1,829 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Oxford
+category: attraction
+pubDate: '2026-10-19T08:15:59.907Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/University_Parks_%2864344%29.jpg/3840px-University_Parks_%2864344%29.jpg"
-    credit: "Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:University_Parks_(64344).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/University_Parks_%2864344%29.jpg/3840px-University_Parks_%2864344%29.jpg
+    credit: 'Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:University_Parks_(64344).jpg
 place:
-  id: "ChIJc7g5FALEdkgRWxtRGWSwqG4"
-  name: "The University Parks"
-  address: "S Parks Rd, Oxford OX1 3RF, UK"
+  id: ChIJc7g5FALEdkgRWxtRGWSwqG4
+  name: The University Parks
+  address: S Parks Rd, Oxford OX1 3RF, UK
   rating: 4.7
   userRatingsTotal: 1829
-  googleMapsUrl: "https://maps.google.com/?cid=7973817084227427163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7973817084227427163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.761762499999996
   lng: -1.2534982
-  phone: "+44 1865 282040"
+  phone: +44 1865 282040
 tags:
-  - "oxford"
-  - "park"
-quickAnswer: "The University Parks in Oxford is a 70-acre stretch of riverside parkland on South Parks Road, a short walk north-east of the city centre and right behind the Museum of Natural History. Give it an hour or two for a loop down to the River Cherwell, a look at the cricket ground and the landscaped beds. The gates lock at dusk and closing times change through the year, so check the notice at the entrance before you set off."
+  - oxford
+  - park
+quickAnswer: The University Parks in Oxford is a 70-acre stretch of riverside parkland on South Parks Road, a short walk north-east of the city centre and right behind the Museum of Natural History. Give it an hour or two for a loop down to the River Cherwell, a look at the cricket ground and the landscaped beds. The gates lock at dusk and closing times change through the year, so check the notice at the entrance before you set off.
 faq:
-  - q: "How do I get to The University Parks from central Oxford?"
-    a: "Walk north up Parks Road from Broad Street, past the Science Area, to the gate between the Museum of Natural History and Keble College. It takes about fifteen minutes from Carfax. Parking nearby is very limited, so if you're driving, use a Park & Ride site."
-  - q: "What time do The University Parks close?"
-    a: "The Parks lock at dusk, so closing time changes through the year. Each entrance has a noticeboard with the current time. Check it when you arrive so you aren't locked in."
-  - q: "How long should I spend there?"
-    a: "A relaxed walk around the perimeter, including the Cherwell riverbank and the Rainbow Bridge, takes about an hour. Allow up to two hours if you add the Mesopotamia walk or stop to watch the cricket."
-  - q: "Can I watch cricket at The University Parks?"
-    a: "Yes. Oxford University Cricket Club plays on the central ground, and spectators watch from the grass around the boundary. Check the club's fixture list before you go to see who's playing and when."
-  - q: "What is there to see nearby?"
-    a: "The Museum of Natural History and the Pitt Rivers Museum are beside the Parks Road gate, and Keble College is across the road. You can also hire a punt at the Cherwell Boathouse or Magdalen Bridge and see the park from the river."
+  - q: How do I get to The University Parks from central Oxford?
+    a: Walk north up Parks Road from Broad Street, past the Science Area, to the gate between the Museum of Natural History and Keble College. It takes about fifteen minutes from Carfax. Parking nearby is very limited, so if you're driving, use a Park & Ride site.
+  - q: What time do The University Parks close?
+    a: The Parks lock at dusk, so closing time changes through the year. Each entrance has a noticeboard with the current time. Check it when you arrive so you aren't locked in.
+  - q: How long should I spend there?
+    a: A relaxed walk around the perimeter, including the Cherwell riverbank and the Rainbow Bridge, takes about an hour. Allow up to two hours if you add the Mesopotamia walk or stop to watch the cricket.
+  - q: Can I watch cricket at The University Parks?
+    a: Yes. Oxford University Cricket Club plays on the central ground, and spectators watch from the grass around the boundary. Check the club's fixture list before you go to see who's playing and when.
+  - q: What is there to see nearby?
+    a: The Museum of Natural History and the Pitt Rivers Museum are beside the Parks Road gate, and Keble College is across the road. You can also hire a punt at the Cherwell Boathouse or Magdalen Bridge and see the park from the river.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/13733087_OyolHcoCF0I9V2SEntYed84hLCE7buqhdV0dEd10-og.jpg
+  credit: 'Photo: Foursquare user content (The University Parks)'
+  license: foursquare
+  source: https://foursquare.com/v/4b716c3ef964a520e7452de3
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Where the Science Area gives way to grass

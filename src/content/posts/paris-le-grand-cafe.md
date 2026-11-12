@@ -5,15 +5,6 @@ country: France
 region: Paris
 category: trendy
 pubDate: '2026-09-16'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grand_caf%C3%A9_de_Moulins_salle_du_rez-de-chauss%C3%A9e%2C_avril_2017_2.jpg/1920px-Grand_caf%C3%A9_de_Moulins_salle_du_rez-de-chauss%C3%A9e%2C_avril_2017_2.jpg
-  credit: 'Photo: TCY / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Grand_caf%C3%A9_de_Moulins_salle_du_rez-de-chauss%C3%A9e,_avril_2017_2.jpg
-  focus:
-    x: 50
-    'y': 40
-gallery: []
 tags:
   - paris
   - new & trending
@@ -31,6 +22,14 @@ faq:
     a: Confirm current opening hours and reservation policy directly with Le Grand Café or Paris Society before you go, since details can shift at a recently opened venue.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/66033642_4SXxeNoNLThhUe9TATmqVi2Phz8xifWHsngwGE0qiHo.jpg
+  credit: 'Photo: Foursquare user content (Le Grand Café)'
+  license: foursquare
+  source: https://foursquare.com/v/682e588c6814584dcd325bf9
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Grand Palais reopened after years of restoration, and Paris Society moved fast to claim a corner of it. Le Grand Café is their answer to that address: part restaurant, part bar, built for a crowd that treats dinner as the opening act of the night.

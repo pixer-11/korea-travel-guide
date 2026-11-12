@@ -9,13 +9,6 @@ country: China
 region: Guangzhou
 category: restaurant
 pubDate: '2026-08-03T10:54:43.900Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Guangzhou_Hui_People%27s_Restaurant_20230722.jpg/1920px-Guangzhou_Hui_People%27s_Restaurant_20230722.jpg
-  credit: 'Photo: Tim Wu / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Guangzhou_Hui_People%27s_Restaurant_20230722.jpg
 gallery: []
 place:
   id: ChIJMX6fVo_4AjQRoxUR87YgW0A
@@ -99,6 +92,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
+photoless: true
 ---
 ## Why go
 

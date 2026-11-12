@@ -1,60 +1,59 @@
 ---
-title: "Floating Market Lembang: Bandung Travel Guide (4.5★)"
-description: "Floating Market Lembang sits on Jl. Grand Hotel in Lembang, just north of Bandung city, and it's built around a small lake where vendors sell food from wooden boats instead of stalls. 4.5★ (56,329 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Bandung"
-category: "hidden-gem"
-pubDate: "2026-09-22T07:45:35.209Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg/3840px-Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg"
-  credit: "Photo: BxHxTxCx (using album) / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Floating_Market_Lembang_-_including_selfie_alays_(27126485005).jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 50
+title: 'Floating Market Lembang: Bandung Travel Guide (4.5★)'
+description: Floating Market Lembang sits on Jl. Grand Hotel in Lembang, just north of Bandung city, and it's built around a small lake where vendors sell food from wooden boats instead of stalls. 4.5★ (56,329 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Bandung
+category: hidden-gem
+pubDate: '2026-09-22T07:45:35.209Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/67820166_UYwv7YIbiVzLUj_2pnTthfrmtLMxCypwGjwqhfIiBoo.jpg"
-    credit: "Photo: Foursquare user content (Floating Market Lembang)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/50d5505ee4b0feaa44176f75"
+  - url: https://fastly.4sqi.net/img/general/original/67820166_UYwv7YIbiVzLUj_2pnTthfrmtLMxCypwGjwqhfIiBoo.jpg
+    credit: 'Photo: Foursquare user content (Floating Market Lembang)'
+    license: foursquare
+    source: https://foursquare.com/v/50d5505ee4b0feaa44176f75
 place:
-  id: "ChIJ5SedShzhaC4RVU8QCM4azXs"
-  name: "Floating Market Lembang"
-  address: "Jl. Grand Hotel No.33E, Lembang, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391, Indonesia"
+  id: ChIJ5SedShzhaC4RVU8QCM4azXs
+  name: Floating Market Lembang
+  address: Jl. Grand Hotel No.33E, Lembang, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391, Indonesia
   rating: 4.5
   userRatingsTotal: 56329
-  googleMapsUrl: "https://maps.google.com/?cid=8920815909091692373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8920815909091692373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.8178312
   lng: 107.6188177
-  phone: "+62 878-2388-4888"
+  phone: +62 878-2388-4888
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 9:00 PM"
-    - "Sunday: 8:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 7:00 PM'
 tags:
-  - "bandung"
-  - "local market"
-quickAnswer: "Floating Market Lembang sits on Jl. Grand Hotel in Lembang, just north of Bandung city, and it's built around a small lake where vendors sell food from wooden boats instead of stalls. It's very popular, so weekday mornings right at opening are your best shot at short lines. Budget two to three hours to eat, browse the surrounding gardens and rabbit park, and walk the lakeside paths."
+  - bandung
+  - local market
+quickAnswer: Floating Market Lembang sits on Jl. Grand Hotel in Lembang, just north of Bandung city, and it's built around a small lake where vendors sell food from wooden boats instead of stalls. It's very popular, so weekday mornings right at opening are your best shot at short lines. Budget two to three hours to eat, browse the surrounding gardens and rabbit park, and walk the lakeside paths.
 faq:
-  - q: "How do I get to Floating Market Lembang from Bandung city?"
-    a: "It's on Jl. Grand Hotel in Lembang, roughly 20-30 minutes north of central Bandung by car or ride-hail, depending on traffic on the Bandung-Lembang road. Public transport options are limited, so most visitors drive or hire a car."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings right at opening (9:00 AM) are calmer than weekends. Saturdays run the longest hours of the week (8:00 AM to 9:00 PM) and draw the biggest crowds, so if you want more space at the docks, aim for a weekday."
-  - q: "How does ordering food from the boats actually work?"
-    a: "You browse from the shoreline or a dock, flag down a vendor's boat, and they hand your order across once they pull up. It runs on foot traffic rather than a fixed line, so bring small cash and a bit of patience."
-  - q: "How much time should I set aside for a visit?"
-    a: "Plan on two to three hours if you want to eat, walk the full lakeside path, and see the garden and animal areas. Families with kids often need more time given the extra attractions beyond the lake."
-  - q: "Are the opening hours the same every day?"
-    a: "No. Monday to Friday it's 9:00 AM to 6:00 PM, Saturday it extends to 8:00 AM to 9:00 PM, and Sunday it's 8:00 AM to 7:00 PM, so check the day you're going."
+  - q: How do I get to Floating Market Lembang from Bandung city?
+    a: It's on Jl. Grand Hotel in Lembang, roughly 20-30 minutes north of central Bandung by car or ride-hail, depending on traffic on the Bandung-Lembang road. Public transport options are limited, so most visitors drive or hire a car.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday mornings right at opening (9:00 AM) are calmer than weekends. Saturdays run the longest hours of the week (8:00 AM to 9:00 PM) and draw the biggest crowds, so if you want more space at the docks, aim for a weekday.
+  - q: How does ordering food from the boats actually work?
+    a: You browse from the shoreline or a dock, flag down a vendor's boat, and they hand your order across once they pull up. It runs on foot traffic rather than a fixed line, so bring small cash and a bit of patience.
+  - q: How much time should I set aside for a visit?
+    a: Plan on two to three hours if you want to eat, walk the full lakeside path, and see the garden and animal areas. Families with kids often need more time given the extra attractions beyond the lake.
+  - q: Are the opening hours the same every day?
+    a: No. Monday to Friday it's 9:00 AM to 6:00 PM, Saturday it extends to 8:00 AM to 9:00 PM, and Sunday it's 8:00 AM to 7:00 PM, so check the day you're going.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/8477716_KoM_ksMHHhxZJODcQgftwRCq3i9oQT-9grvabi-MbcI.jpg
+  credit: 'Photo: Foursquare user content (Floating Market Lembang)'
+  license: foursquare
+  source: https://foursquare.com/v/50d5505ee4b0feaa44176f75
+  focus:
+    x: 55
+    'y': 55
 ---
 
 ## What you're actually walking into

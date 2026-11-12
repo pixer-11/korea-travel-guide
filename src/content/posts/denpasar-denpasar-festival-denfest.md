@@ -16,11 +16,6 @@ eventOffers:
   free: true
   currency: IDR
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Denpasar_dari_Duta_Plaza_-_panoramio.jpg/3840px-Denpasar_dari_Duta_Plaza_-_panoramio.jpg'
-  credit: 'Photo: musnahterinjak / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Denpasar_dari_Duta_Plaza_-_panoramio.jpg'
 gallery: []
 tags:
   - denpasar
@@ -39,6 +34,14 @@ faq:
     a: Lapangan Puputan Badung, Bali Museum and the Pura Jagatnatha state temple are all a short walk from Catur Muka. Pasar Badung and Pasar Kumbasari sit at the western end of Jalan Gajah Mada.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c8/Catur_Muka_Statue.jpg
+  credit: 'Photo: Yogwi21 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Catur_Muka_Statue.jpg
+  focus:
+    x: 45
+    'y': 35
 ---
 
 ## A shopping street turned into a stage

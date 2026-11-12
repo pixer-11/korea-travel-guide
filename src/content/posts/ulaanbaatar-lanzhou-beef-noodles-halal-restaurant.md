@@ -5,15 +5,6 @@ country: "Mongolia"
 region: "Ulaanbaatar"
 category: "restaurant"
 pubDate: "2026-10-14T13:02:11.439Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lanzhou_Beef_Noodles_%28S%C3%BCkhbaatar%2C_Ulaanbaatar%29.jpg"
-  credit: "Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lanzhou_Beef_Noodles_(S%C3%BCkhbaatar,_Ulaanbaatar).jpg"
-  via: "act"
-  focus:
-    x: 37
-    y: 40
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lanzhou_Beef_Noodles_%28Seoul_Business_Center%29.jpg"
     credit: "Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)"
@@ -56,6 +47,7 @@ faq:
     a: "The Choijin Lama Temple Museum and Sükhbaatar Square are north towards the centre. The Bogd Khan Palace Museum and the Zaisan Memorial are to the south along the same main road."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## A noodle bowl at the foot of Peace Bridge

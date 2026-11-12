@@ -1,45 +1,44 @@
 ---
-title: "Khuvsgul Lake: Lake Khuvsgul Travel Guide (4.8★)"
-description: "Khuvsgul Lake is in Khövsgöl province in far northern Mongolia, and the usual way in is through Khatgal, a village at its southern tip about 100km from the provincial capital Mörön. 4.8★ (280 reviews) — what visitors say, hours, and tips."
-country: "Mongolia"
-region: "Lake Khuvsgul"
-category: "attraction"
-pubDate: "2026-10-11T07:44:57.598Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ISS067-E-879_-_View_of_Earth.jpg/1920px-ISS067-E-879_-_View_of_Earth.jpg"
-  credit: "Photo: Earth Science and Remote Sensing Unit, Lyndon B. / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:ISS067-E-879_-_View_of_Earth.jpg"
-  focus:
-    x: 50
-    y: 50
-gallery: []
+title: 'Khuvsgul Lake: Lake Khuvsgul Travel Guide (4.8★)'
+description: Khuvsgul Lake is in Khövsgöl province in far northern Mongolia, and the usual way in is through Khatgal, a village at its southern tip about 100km from the provincial capital Mörön. 4.8★ (280 reviews) — what visitors say, hours, and tips.
+country: Mongolia
+region: Lake Khuvsgul
+category: attraction
+pubDate: '2026-10-11T07:44:57.598Z'
 place:
-  id: "ChIJqy65phtdDl0REZEfAXtbMNk"
-  name: "Khuvsgul Lake"
-  address: "Khuvsgul Lake, Khovsgol, Mongolia"
+  id: ChIJqy65phtdDl0REZEfAXtbMNk
+  name: Khuvsgul Lake
+  address: Khuvsgul Lake, Khovsgol, Mongolia
   rating: 4.8
   userRatingsTotal: 280
-  googleMapsUrl: "https://maps.google.com/?cid=15650109288970424593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  googleMapsUrl: https://maps.google.com/?cid=15650109288970424593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 51.1228269
   lng: 100.5490739
 tags:
-  - "lake khuvsgul"
-  - "top attraction"
-quickAnswer: "Khuvsgul Lake is in Khövsgöl province in far northern Mongolia, and the usual way in is through Khatgal, a village at its southern tip about 100km from the provincial capital Mörön. Go in June to August for open water, ger camps and horse treks along the larch-forested shores. Go in deep winter if you want to walk on solid ice."
+  - lake khuvsgul
+  - top attraction
+quickAnswer: Khuvsgul Lake is in Khövsgöl province in far northern Mongolia, and the usual way in is through Khatgal, a village at its southern tip about 100km from the provincial capital Mörön. Go in June to August for open water, ger camps and horse treks along the larch-forested shores. Go in deep winter if you want to walk on solid ice.
 faq:
-  - q: "How do I get to Khuvsgul Lake from Ulaanbaatar?"
-    a: "Fly or drive to Mörön, the capital of Khövsgöl province, then take a jeep or shared minivan about 100km north to Khatgal at the lake's southern tip."
-  - q: "When is the best time to visit Khuvsgul Lake?"
-    a: "June to August, when the water is open and ger camps, horse treks and kayaking are running. In winter the lake freezes solid, and Khatgal holds an ice festival in late winter."
-  - q: "How many days should I spend at the lake?"
-    a: "Plan 3–5 days. Getting there from Ulaanbaatar takes about a day each way, so a shorter trip leaves you very little time on the shore."
-  - q: "Can I visit the reindeer herders from the lake?"
-    a: "The Dukha (Tsaatan) live in the remote taiga west of the lake. Reaching their camps means a multi-day trip with a guide, usually on horseback. Reindeer near the lakeside tracks have usually been brought down for visitors."
-  - q: "Is there a park fee?"
-    a: "Yes. The lake lies inside Khövsgöl Lake National Park, and you pay entry at the checkpoint near Khatgal, where the current fee is posted."
+  - q: How do I get to Khuvsgul Lake from Ulaanbaatar?
+    a: Fly or drive to Mörön, the capital of Khövsgöl province, then take a jeep or shared minivan about 100km north to Khatgal at the lake's southern tip.
+  - q: When is the best time to visit Khuvsgul Lake?
+    a: June to August, when the water is open and ger camps, horse treks and kayaking are running. In winter the lake freezes solid, and Khatgal holds an ice festival in late winter.
+  - q: How many days should I spend at the lake?
+    a: Plan 3–5 days. Getting there from Ulaanbaatar takes about a day each way, so a shorter trip leaves you very little time on the shore.
+  - q: Can I visit the reindeer herders from the lake?
+    a: The Dukha (Tsaatan) live in the remote taiga west of the lake. Reaching their camps means a multi-day trip with a guide, usually on horseback. Reindeer near the lakeside tracks have usually been brought down for visitors.
+  - q: Is there a park fee?
+    a: Yes. The lake lies inside Khövsgöl Lake National Park, and you pay entry at the checkpoint near Khatgal, where the current fee is posted.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Khuvsgul_Lake.jpg/3840px-Khuvsgul_Lake.jpg
+  credit: 'Photo: Teo Romera / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Khuvsgul_Lake.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A sea in the mountains

@@ -1,39 +1,22 @@
 ---
 title: 'Singapore Skyline View: Marina Bay Travel Guide (4.8★)'
-description: >-
-  Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10
-  Bayfront Ave on the Marina Bay Sands side of Marina Bay. 4.8★ (379 reviews) —
-  what visitors say, hours, and tips.
+description: Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10 Bayfront Ave on the Marina Bay Sands side of Marina Bay. 4.8★ (379 reviews) — what visitors say, hours, and tips.
 country: Singapore
 region: Marina Bay
 category: hidden-gem
 pubDate: '2026-10-02T07:45:51.668Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg
-  credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg
-  via: act
-  focus:
-    x: 50
-    'y': 40
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/3840px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/3840px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg
     credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg
+    source: https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg
 place:
   id: ChIJOScA0tkZ2jERRqSy4_FqfD4
   name: Singapore Skyline View
-  address: '10 Bayfront Ave, Marina Bay Sands, Singapore 018956'
+  address: 10 Bayfront Ave, Marina Bay Sands, Singapore 018956
   rating: 4.8
   userRatingsTotal: 379
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=4502591314603451462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=4502591314603451462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.2842867
   lng: 103.85842749999999
@@ -59,12 +42,7 @@ place:
 tags:
   - marina bay
   - old quarter
-quickAnswer: >-
-  Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10
-  Bayfront Ave on the Marina Bay Sands side of Marina Bay. It looks straight
-  across the water at the Central Business District towers, the Fullerton Hotel
-  and the Merlion. Go on weekend mornings for space, and avoid 4pm–5pm and 8pm–11pm on
-  weekends, which is when it fills up.
+quickAnswer: Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10 Bayfront Ave on the Marina Bay Sands side of Marina Bay. It looks straight across the water at the Central Business District towers, the Fullerton Hotel and the Merlion. Go on weekend mornings for space, and avoid 4pm–5pm and 8pm–11pm on weekends, which is when it fills up.
 faq:
   - q: How do I get to Singapore Skyline View?
     a: Take the MRT to Bayfront Station on the Circle or Downtown Line. Follow the signs to The Shoppes at Marina Bay Sands and go out the waterfront side to the promenade at 10 Bayfront Ave. You can also walk over the Helix Bridge from the Marina Centre side.
@@ -79,6 +57,14 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-09'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4682.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4682.jpg
+  credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4682.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Where the water does the framing

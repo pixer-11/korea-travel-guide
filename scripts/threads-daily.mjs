@@ -348,7 +348,7 @@ try {
   if (cands.length < 3) {
     for (const c of await venuePhotoCandidates({
       name: venueName, lat: post.fm.place?.lat, lng: post.fm.place?.lng,
-      near: `${region}, ${country}`,
+      near: `${region}, ${country}`, event: isEvent,
     })) cands.push({ url: c.url, credit: c.credit });
   }
 

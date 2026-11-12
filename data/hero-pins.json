@@ -49,6 +49,18 @@
   "why": "Pixer field note 2026-10-17 (own photo, visited in person)",
   "at": "2026-10-18T11:35:06.051Z"
  },
+ "banlung-virachey-national-park": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Veal_Thom_Grasslands.jpg",
+  "credit": "Photo: Mangoholic2 / Wikimedia Commons (Public domain)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Veal_Thom_Grasslands.jpg",
+  "focus": {
+   "x": 50,
+   "y": 50
+  },
+  "why": "Veal Thom grasslands inside Virachey National Park",
+  "at": "2026-11-12T17:20:23.552Z"
+ },
  "busan-busan-tower": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Busan_Tower_Busan_%2845023977584%29.jpg/3840px-Busan_Tower_Busan_%2845023977584%29.jpg",
   "credit": "Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)",
@@ -60,6 +72,18 @@
   },
   "why": "Busan Tower behind the Yongdusan Park bell pavilion; replaces a finger-in-frame Foursquare shot",
   "at": "2026-10-18T05:38:40.517Z"
+ },
+ "cannes-vue-depuis-le-suquet": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cannes_from_Suquet_Tower_03.jpg/3840px-Cannes_from_Suquet_Tower_03.jpg",
+  "credit": "Photo: Spike / Wikimedia Commons (CC BY-SA 4.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Cannes_from_Suquet_Tower_03.jpg",
+  "focus": {
+   "x": 50,
+   "y": 50
+  },
+  "why": "the view over Cannes from Le Suquet",
+  "at": "2026-11-12T17:15:13.515Z"
  },
  "chiba-chiba-park": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Watauchi-ike_of_Chiba_Park_20110412a.jpg",
@@ -73,6 +97,30 @@
   "why": "Watauchi Pond in Chiba Park with the Chiba monorail (Category:Chiba Park)",
   "at": "2026-10-12T14:57:07.513Z"
  },
+ "colmar-vieille-ville-de-colmar": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Little_Venice_in_Colmar_01.jpg/3840px-Little_Venice_in_Colmar_01.jpg",
+  "credit": "Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Little_Venice_in_Colmar_01.jpg",
+  "focus": {
+   "x": 50,
+   "y": 45
+  },
+  "why": "Colmar old town, the Little Venice quarter",
+  "at": "2026-11-12T17:15:07.842Z"
+ },
+ "da-nang-ba-na-hills": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg/3840px-Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg",
+  "credit": "Photo: Vivu Vietnam / Wikimedia Commons (CC BY-SA 4.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg",
+  "focus": {
+   "x": 70,
+   "y": 35
+  },
+  "why": "the Golden Bridge at Ba Na Hills",
+  "at": "2026-11-12T17:15:36.353Z"
+ },
  "da-nang-nhang-nuong": {
   "url": "/editor-photos/da-nang-nhang-nuong-1.jpg",
   "credit": "Photo: Pixer / Wander Atlas",
@@ -84,6 +132,18 @@
   },
   "why": "the owner photographed it in person (editor-original)",
   "at": "2026-11-04T11:34:39.470Z"
+ },
+ "denpasar-denpasar-festival-denfest": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Catur_Muka_Statue.jpg",
+  "credit": "Photo: Yogwi21 / Wikimedia Commons (CC BY-SA 3.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Catur_Muka_Statue.jpg",
+  "focus": {
+   "x": 45,
+   "y": 35
+  },
+  "why": "the Catur Muka crossroads where Denfest is held",
+  "at": "2026-11-12T16:26:16.149Z"
  },
  "ho-chi-minh-city-banh-canh-cua-ba-ba": {
   "url": "/editor-photos/ho-chi-minh-city-banh-canh-cua-ba-ba-1.jpg",
@@ -332,6 +392,66 @@
   },
   "why": "IMPACT Arena, the venue",
   "at": "2026-10-09T12:46:32.909Z"
+ },
+ "palm-jumeirah-the-view-palm-jumeirah": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_View_at_the_Palm%2C_Dubai.jpg/3840px-The_View_at_the_Palm%2C_Dubai.jpg",
+  "credit": "Photo: dconvertini / Wikimedia Commons (CC BY-SA 2.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:The_View_at_the_Palm,_Dubai.jpg",
+  "focus": {
+   "x": 50,
+   "y": 50
+  },
+  "why": "the view from The View at The Palm",
+  "at": "2026-11-12T17:15:24.912Z"
+ },
+ "paris-wagner-s-ring-festival-paris-opera": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Side_View_of_the_Op%C3%A9ra_Bastille.jpg/3840px-Side_View_of_the_Op%C3%A9ra_Bastille.jpg",
+  "credit": "Photo: DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Side_View_of_the_Op%C3%A9ra_Bastille.jpg",
+  "focus": {
+   "x": 35,
+   "y": 40
+  },
+  "why": "Opera Bastille, where the Ring is staged",
+  "at": "2026-11-12T16:26:21.640Z"
+ },
+ "phnom-penh-riverside-walk-street": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Riverside_Park%2C_Phnom_Penh_3.jpg/3840px-Riverside_Park%2C_Phnom_Penh_3.jpg",
+  "credit": "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Riverside_Park,_Phnom_Penh_3.jpg",
+  "focus": {
+   "x": 50,
+   "y": 50
+  },
+  "why": "the riverside promenade",
+  "at": "2026-11-12T17:15:18.988Z"
+ },
+ "playa-del-carmen-el-castillo": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/3840px-Chichen_Itza_3.jpg",
+  "credit": "Photo: Daniel Schwen / Wikimedia Commons (CC BY-SA 4.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+  "focus": {
+   "x": 50,
+   "y": 45
+  },
+  "why": "El Castillo at Chichen Itza, in colour",
+  "at": "2026-11-12T17:15:30.711Z"
+ },
+ "quezon-city-izna-manila-debut-concert": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Makati_CBD_skyline_%28Makati%3B_12-31-2019%29.jpg",
+  "credit": "Photo: patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)",
+  "license": "wikimedia",
+  "source": "https://commons.wikimedia.org/wiki/File:Makati_CBD_skyline_(Makati;_12-31-2019).jpg",
+  "focus": {
+   "x": 50,
+   "y": 40
+  },
+  "why": "Metro Manila skyline",
+  "at": "2026-11-12T16:26:26.988Z"
  },
  "seoul-seoul-light-hangang-bitseom-festival": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nodeulseom_%2814005438206%29.jpg",

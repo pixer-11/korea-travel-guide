@@ -9,13 +9,6 @@ country: United Arab Emirates
 region: Palm Jumeirah
 category: attraction
 pubDate: '2026-08-11T09:06:11.967Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg/3840px-Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg
-  credit: 'Photo: Tab59 from Düsseldorf, Allemagne / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg
 gallery:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Views_from_Palm_Jumeirah_Monorail_7.jpg/3840px-Views_from_Palm_Jumeirah_Monorail_7.jpg
@@ -94,6 +87,14 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-18'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_View_at_the_Palm%2C_Dubai.jpg/3840px-The_View_at_the_Palm%2C_Dubai.jpg
+  credit: 'Photo: dconvertini / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_View_at_the_Palm,_Dubai.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Why go

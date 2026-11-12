@@ -9,17 +9,6 @@ country: Cambodia
 region: Phnom Penh
 category: attraction
 pubDate: '2026-09-19T13:27:39.748Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg/3840px-Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg
-  credit: 'Photo: trungydang / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Tonle_sap_River,_walk_treet_riverside,Sangkat_Phsar_Kandal_Ti_Muoy,_Phnom_Penh_12204,_Campuchia,25-06-16-Dyt_-_panoramio.jpg
-  via: act
-  focus:
-    x: 85
-    'y': 40
 gallery: []
 place:
   id: ChIJXcSKTgBRCTERaGAUIeWs5PA
@@ -79,6 +68,14 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-31'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Riverside_Park%2C_Phnom_Penh_3.jpg/3840px-Riverside_Park%2C_Phnom_Penh_3.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Riverside_Park,_Phnom_Penh_3.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Phnom Penh's riverfront runs for kilometers, but the stretch officially designated Riverside Walk Street is a specific closed-to-traffic segment near the confluence of the Tonle Sap and Mekong rivers, close to the Royal Palace and Wat Ounalom. It's a garden-lined promenade rather than a market or a monument, which is exactly the point: it exists so people can walk here without dodging tuk-tuks.

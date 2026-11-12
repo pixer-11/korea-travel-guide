@@ -1,44 +1,35 @@
 ---
-title: "Kaikoura Lookout: Travel Guide (4.7★)"
-description: "Kaikoura Lookout sits at 274 Scarborough Street in South Bay, Kaikōura, on the hill above the town. 4.7★ (628 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Kaikoura"
-category: "attraction"
-pubDate: "2026-10-31T07:54:42.701Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg/3840px-Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg"
-  credit: "Photo: Pseudopanax at English Wikipedia / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 50
+title: 'Kaikoura Lookout: Travel Guide (4.7★)'
+description: Kaikoura Lookout sits at 274 Scarborough Street in South Bay, Kaikōura, on the hill above the town. 4.7★ (628 reviews) — what visitors say, hours, and tips.
+country: New Zealand
+region: Kaikoura
+category: attraction
+pubDate: '2026-10-31T07:54:42.701Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1411029440_T8-zal61MuVkUc7UfuiHlL7-SAXXErDDR9mn3fUzDJo.jpg"
-    credit: "Photo: Foursquare user content (Kaikoura Lookout)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4d09642b0ead8cfa8c57f576"
+  - url: https://fastly.4sqi.net/img/general/original/1411029440_T8-zal61MuVkUc7UfuiHlL7-SAXXErDDR9mn3fUzDJo.jpg
+    credit: 'Photo: Foursquare user content (Kaikoura Lookout)'
+    license: foursquare
+    source: https://foursquare.com/v/4d09642b0ead8cfa8c57f576
 place:
-  id: "ChIJddd3v4lWN20RdXiqSyVNeXM"
-  name: "Kaikoura Lookout"
-  address: "274 Scarborough Street, South Bay, Kaikōura 7300, New Zealand"
+  id: ChIJddd3v4lWN20RdXiqSyVNeXM
+  name: Kaikoura Lookout
+  address: 274 Scarborough Street, South Bay, Kaikōura 7300, New Zealand
   rating: 4.7
   userRatingsTotal: 628
-  googleMapsUrl: "https://maps.google.com/?cid=8320766609122293877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8320766609122293877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -42.4181166
   lng: 173.6918457
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-31
+    updated: 2026-10-31T00:00:00.000Z
     weekendQuiet:
       - 7
       - 8
@@ -54,25 +45,33 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4d58654e567953716958645230324e576c3476336464644a496843"
+    venueId: ven_4d58654e567953716958645230324e576c3476336464644a496843
 tags:
-  - "kaikoura"
-  - "park"
-quickAnswer: "Kaikoura Lookout sits at 274 Scarborough Street in South Bay, Kaikōura, on the hill above the town. From one spot it shows you both bays, the Kaikōura Peninsula and the Seaward Kaikōura Range. On weekends it's quietest from 7am–9am; try not to arrive between 12pm and 11pm, which is the busy stretch."
+  - kaikoura
+  - park
+quickAnswer: Kaikoura Lookout sits at 274 Scarborough Street in South Bay, Kaikōura, on the hill above the town. From one spot it shows you both bays, the Kaikōura Peninsula and the Seaward Kaikōura Range. On weekends it's quietest from 7am–9am; try not to arrive between 12pm and 11pm, which is the busy stretch.
 faq:
-  - q: "When is the quietest time to visit Kaikoura Lookout?"
-    a: "On weekends it's calmest from 7am–9am. Try not to come between 12pm and 11pm on weekends, when the small parking area fills up. We have no weekday crowd data."
-  - q: "Where exactly is Kaikoura Lookout?"
-    a: "It's at 274 Scarborough Street, South Bay, Kaikōura 7300, on the hill above the town centre. It's a short drive up from the Esplanade."
-  - q: "How long should I spend there?"
-    a: "15–30 minutes is enough for the view over both bays, the peninsula and the Seaward Kaikōura Range. Stay longer if you're waiting for the light to change."
-  - q: "Can I visit at sunrise?"
-    a: "Yes. It's currently listed as open 24 hours, and the sun rises over the Pacific, lighting the mountains behind you. Keep noise down, because it's a residential street."
-  - q: "What's nearby?"
-    a: "The Kaikōura Peninsula Walkway, the fur seals at Point Kean and Fyffe House are all a short drive away along the peninsula."
+  - q: When is the quietest time to visit Kaikoura Lookout?
+    a: On weekends it's calmest from 7am–9am. Try not to come between 12pm and 11pm on weekends, when the small parking area fills up. We have no weekday crowd data.
+  - q: Where exactly is Kaikoura Lookout?
+    a: It's at 274 Scarborough Street, South Bay, Kaikōura 7300, on the hill above the town centre. It's a short drive up from the Esplanade.
+  - q: How long should I spend there?
+    a: 15–30 minutes is enough for the view over both bays, the peninsula and the Seaward Kaikōura Range. Stay longer if you're waiting for the light to change.
+  - q: Can I visit at sunrise?
+    a: Yes. It's currently listed as open 24 hours, and the sun rises over the Pacific, lighting the mountains behind you. Keep noise down, because it's a residential street.
+  - q: What's nearby?
+    a: The Kaikōura Peninsula Walkway, the fur seals at Point Kean and Fyffe House are all a short drive away along the peninsula.
 aiGenerated: true
 draft: false
 galleryAddedOn: '2026-11-01'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/6358942_PDb4P_T6ahamOBst0mVXBR8gIT_ubMI-tGbNRDZXfVA.jpg
+  credit: 'Photo: Foursquare user content (Kaikoura Lookout)'
+  license: foursquare
+  source: https://foursquare.com/v/4d09642b0ead8cfa8c57f576
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## The whole coast from one ridge

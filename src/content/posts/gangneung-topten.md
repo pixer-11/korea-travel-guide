@@ -5,14 +5,6 @@ country: South Korea
 region: Gangneung
 category: trendy
 pubDate: '2026-08-10T09:02:36.217Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/KakaoTalk_20240513_201656530_02.jpg/1920px-KakaoTalk_20240513_201656530_02.jpg
-  credit: 'Photo: Dltjrrb1122 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:KakaoTalk_20240513_201656530_02.jpg
-  focus:
-    x: 50
-    y: 25
 gallery: []
 place:
   id: ChIJhUbeqXHmYTURnvWhRDpvuhU
@@ -49,6 +41,7 @@ faq:
   - q: What's nearby TOPTEN?
     a: Anmok Beach's cafe strip and the historic Ojukheon House are both a short taxi ride away, making TOPTEN an easy add-on stop.
 aiGenerated: true
+photoless: true
 ---
 
 ## Why bother with a clothing chain in Gangneung

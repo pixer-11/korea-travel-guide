@@ -7,12 +7,6 @@ country: South Korea
 region: Chuncheon
 category: restaurant
 pubDate: '2026-07-29T10:16:56.020Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg
-  credit: 'Photo: Nagyman, a flickr user / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Dakgalbi.jpg'
 gallery: []
 place:
   id: ChIJwyaJeL3lYjURLOCUYDBkP4U
@@ -94,6 +88,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
+photoless: true
 ---
 You smell Chuncheon's signature dish before you see it, a sweet-hot cloud of gochujang, garlic, and sesame oil drifting out from doorways along the streets near the city's dakgalbi alley. This is the town where dakgalbi was invented, sometime in the 1960s, when cheap cuts of chicken were marinated in chili paste and grilled tableside as an affordable alternative to pork galbi. Every restaurant here claims its own version is the original, and 1.5 Dakgalbi has built a loyal following with its take on the classic.
 

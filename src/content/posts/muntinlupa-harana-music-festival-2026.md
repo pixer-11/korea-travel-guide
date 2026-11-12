@@ -11,13 +11,10 @@ eventRecurring: true
 eventVenue: Filinvest City Events Grounds
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Muntinlupa_WV_banner.jpg'
-  credit: 'Photo: Lawrence Ruiz / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Filinvest_City_from_air_%28Muntinlupa%3B_11-24-2021%29_edit_%28cropped%29.jpg'
+  credit: 'Photo: patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Muntinlupa_WV_banner.jpg'
-  focus:
-    x: 50
-    y: 50
+  source: 'https://commons.wikimedia.org/wiki/File:Filinvest_City_from_air_(Muntinlupa;_11-24-2021)_edit_(cropped).jpg'
 gallery: []
 tags:
   - muntinlupa

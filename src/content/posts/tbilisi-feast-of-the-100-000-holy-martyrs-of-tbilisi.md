@@ -14,13 +14,10 @@ eventOffers:
   currency: GEL
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg/3840px-2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg'
-  credit: 'Photo: Moahim / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Metekhi%2C_Tbilisi_%282%29.jpg/3840px-Metekhi%2C_Tbilisi_%282%29.jpg'
+  credit: 'Photo: Jaba1977 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg'
-  focus:
-    x: 50
-    y: 50
+  source: 'https://commons.wikimedia.org/wiki/File:Metekhi,_Tbilisi_(2).jpg'
 gallery: []
 tags:
   - tbilisi

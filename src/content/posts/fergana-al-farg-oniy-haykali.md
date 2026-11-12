@@ -52,15 +52,6 @@ faq:
       have the square largely to yourself.
 aiGenerated: true
 photoless: true
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ahmad_Al-Farg%27oniy_haykali.jpg/3840px-Ahmad_Al-Farg%27oniy_haykali.jpg
-  credit: 'Photo: Fau33z / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Ahmad_Al-Farg%27oniy_haykali.jpg'
-  focus:
-    x: 51
-    'y': 45
 updatedDate: '2026-09-01'
 ---
 

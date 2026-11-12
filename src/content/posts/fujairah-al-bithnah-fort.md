@@ -5,14 +5,6 @@ country: United Arab Emirates
 region: Fujairah
 category: attraction
 pubDate: '2026-08-20T09:36:48.054Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg/1920px-Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg
-  credit: 'Photo: Mike "fasmike" Che / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Al_Bithnah_Fort,_Fujairah,_UAE.jpg
-  focus:
-    x: 50
-    'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fujairah_Fort_Side_View%2C_Fujairah%2C_UAE.jpg/1920px-Fujairah_Fort_Side_View%2C_Fujairah%2C_UAE.jpg
     credit: 'Photo: Mike Che / Wikimedia Commons (CC BY-SA 3.0)'
@@ -53,6 +45,14 @@ faq:
     a: The Bithnah archaeological site, home to one of the oldest known tombs in the UAE, is close by and pairs well with the fort for a combined half-day trip.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/48064788_LNGacHOyNa--OAK_8CrR6_9I5Kur6Z-yq2zuJCiyc70.jpg
+  credit: 'Photo: Foursquare user content (Al Bithnah Fort)'
+  license: foursquare
+  source: https://foursquare.com/v/4e9976908b81f319133dfba7
+  focus:
+    x: 75
+    'y': 40
 ---
 You come off the main road into Al-Bithnah village and the fort appears almost without warning, a squat, sand-colored tower rising off a rocky outcrop above a dry wadi bed. There's no ticket booth crowd, no tour buses idling out front. Just the fort, the mountains behind it, and the low hum of the village going about its day.
 

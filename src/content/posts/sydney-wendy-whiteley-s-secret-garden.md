@@ -1,45 +1,36 @@
 ---
-title: "Wendy Whiteley's Secret Garden: Sydney Travel Guide (4.8★)"
-description: "Wendy Whiteley's Secret Garden is a free, always-open public garden in Lavender Bay, North Sydney, about a 10-minute walk from Milsons Point Station and next to Luna Park. 4.8★ (3,711 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Sydney"
-category: "hidden-gem"
-pubDate: "2026-09-28T16:44:19.777Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Wendy_Whiteley%27s_Secret_Garden_pano.jpg/3840px-Wendy_Whiteley%27s_Secret_Garden_pano.jpg"
-  credit: "Photo: Dicklyon / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wendy_Whiteley%27s_Secret_Garden_pano.jpg"
-  via: "act"
-  focus:
-    x: 20
-    y: 40
+title: 'Wendy Whiteley''s Secret Garden: Sydney Travel Guide (4.8★)'
+description: Wendy Whiteley's Secret Garden is a free, always-open public garden in Lavender Bay, North Sydney, about a 10-minute walk from Milsons Point Station and next to Luna Park. 4.8★ (3,711 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Sydney
+category: hidden-gem
+pubDate: '2026-09-28T16:44:19.777Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Wendy_Whiteley%27s_Secret_Garden.jpg"
-    credit: "Photo: Curtinconverge / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Wendy_Whiteley%27s_Secret_Garden.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Wendy_Whiteley%27s_Secret_Garden.jpg
+    credit: 'Photo: Curtinconverge / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Wendy_Whiteley%27s_Secret_Garden.jpg
 place:
-  id: "ChIJqVVpmPSuEmsRd8WEFt6XOQc"
-  name: "Wendy Whiteley's Secret Garden"
-  address: "Lavender St, Lavender Bay NSW 2060, Australia"
+  id: ChIJqVVpmPSuEmsRd8WEFt6XOQc
+  name: Wendy Whiteley's Secret Garden
+  address: Lavender St, Lavender Bay NSW 2060, Australia
   rating: 4.8
   userRatingsTotal: 3711
-  googleMapsUrl: "https://maps.google.com/?cid=520614212054336887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=520614212054336887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -33.844159
   lng: 151.2090212
-  phone: "+61 2 9936 8100"
+  phone: +61 2 9936 8100
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -53,24 +44,32 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_63514f583674464557386452736d457553506d705656714a496843"
+    venueId: ven_63514f583674464557386452736d457553506d705656714a496843
 tags:
-  - "sydney"
-  - "hidden gem"
-quickAnswer: "Wendy Whiteley's Secret Garden is a free, always-open public garden in Lavender Bay, North Sydney, about a 10-minute walk from Milsons Point Station and next to Luna Park. It's busiest on weekends between 9am and 6pm, so a weekday visit or an early or late weekend visit gives you the benches and the harbour glimpses mostly to yourself. Allow 45 minutes to an hour, or longer if you bring a picnic."
+  - sydney
+  - hidden gem
+quickAnswer: Wendy Whiteley's Secret Garden is a free, always-open public garden in Lavender Bay, North Sydney, about a 10-minute walk from Milsons Point Station and next to Luna Park. It's busiest on weekends between 9am and 6pm, so a weekday visit or an early or late weekend visit gives you the benches and the harbour glimpses mostly to yourself. Allow 45 minutes to an hour, or longer if you bring a picnic.
 faq:
-  - q: "How do I get to Wendy Whiteley's Secret Garden?"
-    a: "Take a train to Milsons Point Station, then walk about 10 minutes west along the foreshore past Luna Park and up to Lavender Street, Lavender Bay. Ferries also stop at Milsons Point Wharf beside Luna Park."
-  - q: "When is the quietest time to visit?"
-    a: "Avoid weekends between 9am and 6pm, which is the busiest period in the forecast. Weekdays are generally calmer. On a weekend, come before 9am or after 6pm, with enough daylight left for the steep paths."
-  - q: "Is the garden open at night?"
-    a: "It's listed as open 24 hours every day, with no gate. The paths are steep, uneven and heavily shaded, though, so daylight is by far the safest and most rewarding time to go."
-  - q: "How long should I spend there?"
-    a: "45 minutes to an hour is enough to walk all the paths and take in the harbour views. Stay longer if you bring a picnic for the lower lawns."
-  - q: "What else is nearby?"
-    a: "Luna Park is a few minutes' walk away. McMahons Point and Blues Point Reserve are to the west and give wide Harbour Bridge views. Kirribilli's cafés are just east of Milsons Point."
+  - q: How do I get to Wendy Whiteley's Secret Garden?
+    a: Take a train to Milsons Point Station, then walk about 10 minutes west along the foreshore past Luna Park and up to Lavender Street, Lavender Bay. Ferries also stop at Milsons Point Wharf beside Luna Park.
+  - q: When is the quietest time to visit?
+    a: Avoid weekends between 9am and 6pm, which is the busiest period in the forecast. Weekdays are generally calmer. On a weekend, come before 9am or after 6pm, with enough daylight left for the steep paths.
+  - q: Is the garden open at night?
+    a: It's listed as open 24 hours every day, with no gate. The paths are steep, uneven and heavily shaded, though, so daylight is by far the safest and most rewarding time to go.
+  - q: How long should I spend there?
+    a: 45 minutes to an hour is enough to walk all the paths and take in the harbour views. Stay longer if you bring a picnic for the lower lawns.
+  - q: What else is nearby?
+    a: Luna Park is a few minutes' walk away. McMahons Point and Blues Point Reserve are to the west and give wide Harbour Bridge views. Kirribilli's cafés are just east of Milsons Point.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1404802084_2Wrrd_PZ7o17Wq3s5wqzTI37iF51Silj-8sj0JUWGaM.jpg
+  credit: 'Photo: Foursquare user content (Wendy Whiteley''s Secret Garden)'
+  license: foursquare
+  source: https://foursquare.com/v/4b7f4a6af964a520492530e3
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A garden grown on railway land

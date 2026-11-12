@@ -14,10 +14,10 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg/3840px-Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg'
-  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Thean_Hou_Temple%2C_Kuala_Lumpur-3.jpg/3840px-Thean_Hou_Temple%2C_Kuala_Lumpur-3.jpg'
+  credit: 'Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
 gallery: []
 tags:
   - kuala lumpur

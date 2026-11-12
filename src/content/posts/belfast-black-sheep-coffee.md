@@ -5,14 +5,6 @@ country: "United Kingdom"
 region: "Belfast"
 category: "trendy"
 pubDate: "2026-10-01T14:59:15.485Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg"
-  credit: "Photo: Jös / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Black_Sheep_Coffee_Bishopsgate.jpg"
-  focus:
-    x: 50
-    y: 40
 gallery:
   - url: "https://fastly.4sqi.net/img/general/original/7207179_v1kYey5zJshKexqz4CB_nUoeRO_fU51MnMECYCMTiFk.jpg"
     credit: "Photo: Foursquare user content (Black Sheep Coffee)"
@@ -70,6 +62,7 @@ faq:
     a: "From Ann Street the Entries (Pottinger's and Joy's) take you through to High Street. The Albert Memorial Clock and Victoria Square are a few minutes away, and the Cathedral Quarter and St George's Market are both within a short walk."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 ## Robusta on Ann Street
 

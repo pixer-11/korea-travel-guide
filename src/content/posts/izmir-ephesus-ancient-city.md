@@ -1,37 +1,22 @@
 ---
 title: 'Ephesus Ancient City: Selcuk Travel Guide (4.8★)'
-description: >-
-  Ephesus is the best-preserved Roman city in the eastern Mediterranean,
-  anchored by the Library of Celsus and the Great Theatre. 4.8★ (40,623 reviews)
-  — what visitors say, hours, and tips.
+description: Ephesus is the best-preserved Roman city in the eastern Mediterranean, anchored by the Library of Celsus and the Great Theatre. 4.8★ (40,623 reviews) — what visitors say, hours, and tips.
 country: Turkey
 region: Selcuk
 category: attraction
 pubDate: '2026-08-18T09:12:36.191Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ephesus_Ancient_City_2016.jpg/3840px-Ephesus_Ancient_City_2016.jpg
-  credit: 'Photo: Kadı / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Ephesus_Ancient_City_2016.jpg'
-  focus:
-    x: 20
-    'y': 55
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ephesus_Ancient_City_-_2014.10_-_panoramio.jpg/3840px-Ephesus_Ancient_City_-_2014.10_-_panoramio.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ephesus_Ancient_City_-_2014.10_-_panoramio.jpg/3840px-Ephesus_Ancient_City_-_2014.10_-_panoramio.jpg
     credit: 'Photo: rheins / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Ephesus_Ancient_City_-_2014.10_-_panoramio.jpg
+    source: https://commons.wikimedia.org/wiki/File:Ephesus_Ancient_City_-_2014.10_-_panoramio.jpg
 place:
   id: ChIJRwSz8EitvhQR-LYkCYrx-9A
   name: Ephesus Ancient City
-  address: 'Atatürk, Efes Harabeleri, 35920 Selçuk/İzmir, Türkiye'
+  address: Atatürk, Efes Harabeleri, 35920 Selçuk/İzmir, Türkiye
   rating: 4.8
   userRatingsTotal: 40623
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=15058895354204567288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=15058895354204567288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.9409263
   lng: 27.341457899999998
@@ -47,37 +32,29 @@ place:
 tags:
   - selcuk
   - museum
-quickAnswer: >-
-  Ephesus is the best-preserved Roman city in the eastern Mediterranean,
-  anchored by the Library of Celsus and the Great Theatre. Enter through the
-  Upper (Magnesia) Gate and walk downhill to the Lower Gate to avoid
-  backtracking. Go right at opening, 8am, or in the Wednesday–Saturday evening
-  window (7–10pm) to dodge tour-bus crowds.
+quickAnswer: Ephesus is the best-preserved Roman city in the eastern Mediterranean, anchored by the Library of Celsus and the Great Theatre. Enter through the Upper (Magnesia) Gate and walk downhill to the Lower Gate to avoid backtracking. Go right at opening, 8am, or in the Wednesday–Saturday evening window (7–10pm) to dodge tour-bus crowds.
 faq:
   - q: How long should I spend at Ephesus?
-    a: >-
-      Plan on two to three hours for the main site, closer to four if you add
-      the separately ticketed Terrace Houses.
+    a: Plan on two to three hours for the main site, closer to four if you add the separately ticketed Terrace Houses.
   - q: What's the best time of day to visit?
-    a: >-
-      Arrive right at the 8am opening to beat tour groups, or, Wednesday through
-      Saturday, use the 7–10pm evening slot for cooler temperatures and thinner
-      crowds.
+    a: Arrive right at the 8am opening to beat tour groups, or, Wednesday through Saturday, use the 7–10pm evening slot for cooler temperatures and thinner crowds.
   - q: How do I get to Ephesus from İzmir?
-    a: >-
-      Take a regional train or bus to Selçuk (about an hour), then a short taxi
-      or dolmuş ride to the site's Upper or Lower Gate.
+    a: Take a regional train or bus to Selçuk (about an hour), then a short taxi or dolmuş ride to the site's Upper or Lower Gate.
   - q: Are the Terrace Houses included in the main ticket?
-    a: >-
-      No, they require a separate ticket bought at the site, but the mosaic
-      floors and frescoes inside make them worth the add-on.
+    a: No, they require a separate ticket bought at the site, but the mosaic floors and frescoes inside make them worth the add-on.
   - q: Which entrance should I use?
-    a: >-
-      Enter through the Upper (Magnesia) Gate and exit at the Lower Gate — the
-      route slopes downhill and avoids backtracking against crowd flow.
+    a: Enter through the Upper (Magnesia) Gate and exit at the Lower Gate — the route slopes downhill and avoids backtracking against crowd flow.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-05'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/487362014_EcvCHEmLYIwwVetscFA91Wpb3HjIfWWcjfyv1V0QEfw.jpg
+  credit: 'Photo: Foursquare user content (Ephesus (Efes))'
+  license: foursquare
+  source: https://foursquare.com/v/4bb6e9f62f70c9b6ae268630
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Why Ephesus still matters

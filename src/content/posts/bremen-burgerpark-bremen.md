@@ -1,38 +1,22 @@
 ---
 title: 'Bürgerpark: Bremen Travel Guide (4.8★)'
-description: >-
-  Bürgerpark in Bremen is the city's big 19th-century landscape park, roughly a
-  ten-minute walk north of the Hauptbahnhof across the Bürgerweide. 4.8★ (2,711
-  reviews) — what visitors say, hours, and tips.
+description: Bürgerpark in Bremen is the city's big 19th-century landscape park, roughly a ten-minute walk north of the Hauptbahnhof across the Bürgerweide. 4.8★ (2,711 reviews) — what visitors say, hours, and tips.
 country: Germany
 region: Bremen
 category: attraction
 pubDate: '2026-10-19T08:14:01.928Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/B%C3%BCrgerpark_Bremen_Panorama.JPG/3840px-B%C3%BCrgerpark_Bremen_Panorama.JPG
-  credit: 'Photo: Lgxxl / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:B%C3%BCrgerpark_Bremen_Panorama.JPG'
-  via: act
-  focus:
-    x: 50
-    'y': 50
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bremen%2C_B%C3%BCrgerpark%2C_T%C3%BCmpel.JPG/3840px-Bremen%2C_B%C3%BCrgerpark%2C_T%C3%BCmpel.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bremen%2C_B%C3%BCrgerpark%2C_T%C3%BCmpel.JPG/3840px-Bremen%2C_B%C3%BCrgerpark%2C_T%C3%BCmpel.JPG
     credit: 'Photo: Dguendel / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Bremen,_B%C3%BCrgerpark,_T%C3%BCmpel.JPG
+    source: https://commons.wikimedia.org/wiki/File:Bremen,_B%C3%BCrgerpark,_T%C3%BCmpel.JPG
 place:
   id: ChIJ586TJMApsUcRGszJ_-Q1p3k
   name: Bürgerpark Bremen
-  address: 'Bürgerpark, 28209 Bremen, Germany'
+  address: Bürgerpark, 28209 Bremen, Germany
   rating: 4.8
   userRatingsTotal: 2711
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=8766034457360190490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=8766034457360190490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 53.0934758
   lng: 8.8262158
@@ -48,41 +32,29 @@ place:
 tags:
   - bremen
   - park
-quickAnswer: >-
-  Bürgerpark in Bremen is the city's big 19th-century landscape park, roughly a
-  ten-minute walk north of the Hauptbahnhof across the Bürgerweide. Google
-  currently lists it as open 24 hours. Give it two to three hours for the
-  Emmasee, the Meierei and the Hollersee, or half a day if you carry on into the
-  Stadtwald.
+quickAnswer: Bürgerpark in Bremen is the city's big 19th-century landscape park, roughly a ten-minute walk north of the Hauptbahnhof across the Bürgerweide. Google currently lists it as open 24 hours. Give it two to three hours for the Emmasee, the Meierei and the Hollersee, or half a day if you carry on into the Stadtwald.
 faq:
   - q: How do I get to Bürgerpark from Bremen Hauptbahnhof?
-    a: >-
-      Leave the station by the north exit and cross the Bürgerweide square. The
-      park's southern edge, near the Hollersee and the Parkhotel Bremen, is
-      about a ten-minute walk away.
+    a: Leave the station by the north exit and cross the Bürgerweide square. The park's southern edge, near the Hollersee and the Parkhotel Bremen, is about a ten-minute walk away.
   - q: Is Bürgerpark open at night?
-    a: >-
-      Google currently lists it as open 24 hours. Much of it is unlit woodland
-      after dark, though, so stay on the main paths. The cafés and the Meierei
-      restaurant keep their own seasonal hours.
+    a: Google currently lists it as open 24 hours. Much of it is unlit woodland after dark, though, so stay on the main paths. The cafés and the Meierei restaurant keep their own seasonal hours.
   - q: How long should I spend in Bürgerpark?
-    a: >-
-      Two to three hours covers the Emmasee, the Hollersee, the Meierei and the
-      small animal enclosure. Allow half a day if you continue north through the
-      Stadtwald to the Unisee.
+    a: Two to three hours covers the Emmasee, the Hollersee, the Meierei and the small animal enclosure. Allow half a day if you continue north through the Stadtwald to the Unisee.
   - q: Can I go boating or swimming?
-    a: >-
-      In the warmer months you can usually rent rowing boats on the Emmasee near
-      the café Emma am See. For swimming, locals head to the Unisee at the
-      northern end of the Stadtwald.
+    a: In the warmer months you can usually rent rowing boats on the Emmasee near the café Emma am See. For swimming, locals head to the Unisee at the northern end of the Stadtwald.
   - q: What is near Bürgerpark?
-    a: >-
-      The Bürgerweide, home of the Freimarkt fair every October, lies between
-      the park and the Hauptbahnhof. The old town, with the Marktplatz, the
-      Roland statue and the Schnoor quarter, is on the far side of the station.
+    a: The Bürgerweide, home of the Freimarkt fair every October, lies between the park and the Hauptbahnhof. The old town, with the Marktplatz, the Roland statue and the Schnoor quarter, is on the far side of the station.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-19'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/46228094_gnYWK2O3X9fceQdN61Cvu8a6-aK9y9yOwP1At96Vyew.jpg
+  credit: 'Photo: Foursquare user content (Bürgerpark)'
+  license: foursquare
+  source: https://foursquare.com/v/4bd0c62db221c9b6d461d4d0
+  focus:
+    x: 48
+    'y': 45
 ---
 
 ## A landscape park behind the station

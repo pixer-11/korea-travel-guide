@@ -8,16 +8,6 @@ country: France
 region: Colmar
 category: attraction
 pubDate: '2026-09-10T07:41:05.670Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Colmar_vieille_ville.JPG/3840px-Colmar_vieille_ville.JPG
-  credit: 'Photo: 0x010C / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Colmar_vieille_ville.JPG'
-  via: act
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 place:
   id: ChIJV1IS1GRlkUcRO8b1nYYafrQ
@@ -68,6 +58,14 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-10'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Little_Venice_in_Colmar_01.jpg/3840px-Little_Venice_in_Colmar_01.jpg
+  credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Little_Venice_in_Colmar_01.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Colmar's old town isn't a single monument you tick off; it's a district you wander through, block by block of half-timbered houses in ochre, pink and green, their upper floors leaning slightly into the street the way medieval construction always did when builders wanted to save on ground-floor tax space.

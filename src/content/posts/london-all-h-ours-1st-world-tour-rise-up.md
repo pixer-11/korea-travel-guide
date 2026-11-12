@@ -14,10 +14,10 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/London-Skyline-P1140375.jpg/3840px-London-Skyline-P1140375.jpg'
-  credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg/3840px-Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:London-Skyline-P1140375.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Canary_Wharf_Skyline_2,_London_UK_-_Oct_2012.jpg'
 gallery: []
 tags:
   - london

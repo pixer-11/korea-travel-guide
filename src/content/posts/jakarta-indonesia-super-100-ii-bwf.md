@@ -13,10 +13,10 @@ eventOrganizer:
   url: https://bwfworldtour.bwfbadminton.com
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%282%29.jpg/1280px-View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%282%29.jpg'
-  credit: 'Photo: Sam Hidayat / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Jakarta_Car_Free_Day.jpg'
+  credit: 'Photo: Gunawan Kartapranata / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:View_of_Jakarta_skyline_seen_from_Jalan_Kendal,_Thamrin_(2).jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Car_Free_Day.jpg'
 gallery: []
 tags:
   - jakarta

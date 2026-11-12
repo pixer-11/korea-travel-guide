@@ -14,7 +14,10 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { join } from 'node:path';
-import { cleanCommonsUrl } from './lib/commons.mjs';
+import './lib/env.mjs';
+import { cleanCommonsUrl, bannerShaped } from './lib/commons.mjs';
+import { verifyHeroImage } from './lib/vision-check.mjs';
+import { REJECTS_FILE, wasRejected, rememberRejection, pruneRejections } from './lib/city-hero-rejects.mjs';
 
 const OUT = fileURLToPath(new URL('../data/region-covers.json', import.meta.url));
 const API = 'https://commons.wikimedia.org/w/api.php';
@@ -28,6 +31,10 @@ const OK_LICENSE = /cc[\s-]by|cc0|\bpd\b|public domain/i;
 // matching the wrong continent.
 const TARGETS = {
   'Arlington': ['Arlington Virginia skyline', 'Arlington County Virginia'],
+  // 2026-11-13: 두 지역의 유일한 대표사진이 사진 검수에서 빠졌다(페르가나=다른 도시의 동상, 불로뉴비양쿠르=4:1 띠).
+  // 랜드마크 먼저 — 도시명 단독 검색은 인물 사진과 박물관 새알 표본을 물어왔다(비전이 걸렀다).
+  'Boulogne-Billancourt': ['La Seine Musicale Boulogne-Billancourt', 'Hôtel de ville de Boulogne-Billancourt', 'Boulogne-Billancourt Seine'],
+  'Fergana': ['Ferghana State University', 'Fergana city park Uzbekistan', 'Fergana Valley landscape'],
   'Bocaue': ['Bocaue Bulacan', 'Bocaue church Philippines'],
   // 2026-09-10: 마스카라 축제 글 한 편이 이 도시의 전부이고 사진이 없어 타일이 검게 났다.
   // 랜드마크 먼저, 도시명 마지막 — Gardena 교훈(일반 검색이 얼굴 클로즈업을 물어온다).
@@ -150,15 +157,22 @@ const get = async (params) => {
   return null;
 };
 
+let rejects = {}; try { rejects = JSON.parse(readFileSync(REJECTS_FILE, 'utf8')); } catch {}
+let rejectsChanged = pruneRejections(rejects);
 const auto = darkRegions();
 if (Object.keys(auto).length) console.log(`auto-discovered dark tile(s): ${Object.keys(auto).join(', ')}`);
 for (const [region, queries] of Object.entries({ ...TARGETS, ...auto })) {
   if (table[region]) { console.log(`= ${region} (already set)`); continue; }
   let picked = null;
+  let visionLeft = 5; // looks per region
+  const coverKey = `cover:${region}`;
+  let unseen = false; // vision could not look at all (no key, outage)
+  const looked = new Set(); // one look per file: three queries return the same first files (Codex, 11-13)
   for (const q of queries) {
     const s = await get({ action: 'query', list: 'search', srsearch: `${q} filetype:bitmap`, srnamespace: 6, srlimit: 8 });
     for (const hit of s?.query?.search ?? []) {
       const title = hit.title;
+      if (looked.has(title)) continue;
       if (!/\.(jpe?g|png|webp)$/i.test(title)) continue;
       // A city tile must show the city TODAY, as a photograph. The first run
       // picked "Tour de France entering St. Cloud, 1925" (a century-old B&W
@@ -193,14 +207,33 @@ for (const [region, queries] of Object.entries({ ...TARGETS, ...auto })) {
       const page = Object.values(info?.query?.pages ?? {})[0];
       const ii = page?.imageinfo?.[0];
       if (!ii || (ii.width ?? 0) < 1280) continue;
+      // A cover is a banner: neither a portrait nor a skyline strip (2026-11-13).
+      if (!bannerShaped(ii.width, ii.height)) continue;
       const lic = ii.extmetadata?.LicenseShortName?.value ?? '';
       if (!OK_LICENSE.test(lic)) continue;
       const artist = (ii.extmetadata?.Artist?.value ?? '').replace(/<[^>]+>/g, '').trim();
+      // Someone has to LOOK. The name test above passed a museum's bird-egg
+      // specimen ("Emberiza leucocephalos MHNT.ZOO… Fergana Uzbekistan") as
+      // the Fergana tile and a group portrait as Banlung's, the night both
+      // regions lost their only hero (owner photo review 2026-11-13). Vision
+      // fails closed: no key or an outage leaves the tile dark and says so.
+      const coverUrl = cleanCommonsUrl(ii.thumburl ?? ii.url);
+      // A file vision turned down for this tile stays turned down for 30 days
+      // (lib/city-hero-rejects): without it every night spent its five looks on
+      // the same specimens and never reached the sixth file.
+      if (wasRejected(rejects, coverKey, coverUrl)) continue;
+      if (visionLeft-- <= 0) break;
+      looked.add(title);
+      const vis = await verifyHeroImage({
+        url: coverUrl, name: `a view of ${region}`, region, country: regionCountry.get(region) ?? '',
+        category: 'present-day city, landscape or landmark view that would make an attractive banner (not a museum specimen, animal, vehicle, product or close-up, not an interior, not a photo whose main subject is people, not an archival photo)',
+      });
+      if (!vis.ok) { console.log(`  · ${region}: ${title.slice(5, 60)} — vision: ${String(vis.reason).slice(0, 70)}`); if (/no-api-key|unavailable/i.test(String(vis.reason))) unseen = true; else if (rememberRejection(rejects, coverKey, coverUrl, vis.reason)) rejectsChanged = true; continue; }
       picked = {
         // cleanCommonsUrl: imageinfo thumburls arrive with utm_* attribution
         // params that content blockers cancel — the exact defect repaired on
         // 477 posts (2026-08-10); this writer was the last one not using it.
-        url: cleanCommonsUrl(ii.thumburl ?? ii.url),
+        url: coverUrl,
         credit: `Photo: ${artist || 'Wikimedia Commons'} (${lic})`,
         source: title,
       };
@@ -213,7 +246,9 @@ for (const [region, queries] of Object.entries({ ...TARGETS, ...auto })) {
   // conflating them cost two diagnosis rounds on 2026-08-14, when a 429 ban
   // made every unfilled region read as photo-less.
   else if (throttled) console.log(`⚠ ${region} — API throttled mid-search, result unknown (retry later)`);
+  else if (unseen) console.log(`⚠ ${region} — vision could not look (no key or outage), nothing placed`);
   else console.log(`✗ ${region} — no verifiable city photo found`);
 }
 writeFileSync(OUT, JSON.stringify(table, null, 2) + '\n');
+if (rejectsChanged) writeFileSync(REJECTS_FILE, JSON.stringify(rejects, null, 1) + '\n');
 console.log(`\n${Object.keys(table).length} region cover(s) in data/region-covers.json`);

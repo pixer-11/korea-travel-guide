@@ -1,32 +1,17 @@
 ---
 title: 'Los Arcos: Puerto Vallarta Travel Guide (4.7★)'
-description: >-
-  Los Arcos is a row of four stone arches on the Malecón in Centro, Puerto
-  Vallarta, with an open-air amphitheater facing the Bay of Banderas. 4.7★
-  (6,044 reviews) — what visitors say, hours, and tips.
+description: Los Arcos is a row of four stone arches on the Malecón in Centro, Puerto Vallarta, with an open-air amphitheater facing the Bay of Banderas. 4.7★ (6,044 reviews) — what visitors say, hours, and tips.
 country: Mexico
 region: Puerto Vallarta
 category: attraction
 pubDate: '2026-10-06T14:25:22.273Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Los_Arcos_de_Mismaloya.jpg/3840px-Los_Arcos_de_Mismaloya.jpg
-  credit: 'Photo: The Cosmonaut / Wikimedia Commons (CC BY-SA 2.5 ca)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Los_Arcos_de_Mismaloya.jpg'
-  via: act
-  focus:
-    x: 40
-    'y': 45
-gallery: []
 place:
   id: ChIJVc0bJ09FIYQR01wbt7PbGS4
   name: Los Arcos
-  address: 'Malecón s/n, Centro, 48300 Puerto Vallarta, Jal., Mexico'
+  address: Malecón s/n, Centro, 48300 Puerto Vallarta, Jal., Mexico
   rating: 4.7
   userRatingsTotal: 6044
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=3321927765080104147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=3321927765080104147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 20.6088521
   lng: -105.23610430000001
@@ -41,38 +26,29 @@ place:
 tags:
   - puerto vallarta
   - historic site
-quickAnswer: >-
-  Los Arcos is a row of four stone arches on the Malecón in Centro, Puerto
-  Vallarta, with an open-air amphitheater facing the Bay of Banderas. It is open
-  24 hours and free to walk up to, and the best time is the last hour of
-  daylight, when the sun drops into the bay behind the arches.
+quickAnswer: Los Arcos is a row of four stone arches on the Malecón in Centro, Puerto Vallarta, with an open-air amphitheater facing the Bay of Banderas. It is open 24 hours and free to walk up to, and the best time is the last hour of daylight, when the sun drops into the bay behind the arches.
 faq:
   - q: Is Los Arcos in Puerto Vallarta open at night?
-    a: >-
-      Yes. The arches are on the public Malecón and open 24 hours every day.
-      Evenings are the liveliest time, with performers in the amphitheater.
+    a: Yes. The arches are on the public Malecón and open 24 hours every day. Evenings are the liveliest time, with performers in the amphitheater.
   - q: What is the best time to visit Los Arcos?
-    a: >-
-      Arrive about 45 minutes before sunset to get a seat on the upper
-      amphitheater steps, where you watch the sun drop into the Bay of Banderas
-      through the arches. Go in the early morning for photos without crowds.
+    a: Arrive about 45 minutes before sunset to get a seat on the upper amphitheater steps, where you watch the sun drop into the Bay of Banderas through the arches. Go in the early morning for photos without crowds.
   - q: Are these the same Los Arcos as the snorkeling spot?
-    a: >-
-      No. The snorkeling Los Arcos are rock formations in a marine park off
-      Mismaloya, south of town, reached by boat. These Los Arcos are stone
-      arches on the Malecón in Centro.
+    a: No. The snorkeling Los Arcos are rock formations in a marine park off Mismaloya, south of town, reached by boat. These Los Arcos are stone arches on the Malecón in Centro.
   - q: How long should I spend at Los Arcos?
-    a: >-
-      Allow 20 to 30 minutes for the arches and the Plaza de Armas, or about an
-      hour if you're staying for sunset or an evening show.
+    a: Allow 20 to 30 minutes for the arches and the Plaza de Armas, or about an hour if you're staying for sunset or an evening show.
   - q: What is near Los Arcos?
-    a: >-
-      The Plaza de Armas and the Parroquia de Nuestra Señora de Guadalupe are
-      directly inland. The Malecón sculptures are to the north, and the Río
-      Cuale and Zona Romántica are a short walk south.
+    a: The Plaza de Armas and the Parroquia de Nuestra Señora de Guadalupe are directly inland. The Malecón sculptures are to the north, and the Río Cuale and Zona Romántica are a short walk south.
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-06'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/47242620_KTVS6QFTwUXsp2g7jjvd69SewHM7998qiYKEmfvlVMs.jpg
+  credit: 'Photo: Foursquare user content (Los Arcos (Teatro al Aire Libre Aquiles Serdán))'
+  license: foursquare
+  source: https://foursquare.com/v/4edd737c0e011b46f20fe23c
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Four arches, one open bay

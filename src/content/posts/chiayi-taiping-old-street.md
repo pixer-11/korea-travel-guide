@@ -5,15 +5,6 @@ country: "Taiwan"
 region: "Chiayi"
 category: "hidden-gem"
 pubDate: "2026-11-05T07:49:46.458Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%E6%96%97%E5%85%AD%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97_Douliu_Taiping_Old_Street_-_panoramio.jpg/3840px-%E6%96%97%E5%85%AD%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97_Douliu_Taiping_Old_Street_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E6%96%97%E5%85%AD%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97_Douliu_Taiping_Old_Street_-_panoramio.jpg"
-  via: "act"
-  focus:
-    x: 40
-    y: 45
 gallery: []
 place:
   id: "ChIJOwiwB0LBbjQRThlJFbXDo9o"
@@ -51,6 +42,7 @@ faq:
     a: "It's a popular day trip, particularly at weekends and on holidays. Arriving in the early morning usually makes parking and walking the lane easier."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## A village at the top of the switchbacks

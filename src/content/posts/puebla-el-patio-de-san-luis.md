@@ -1,35 +1,18 @@
 ---
 title: 'EL PATIO DE SAN LUIS: Where to Eat in Puebla (4.1★)'
-description: >-
-  EL PATIO DE SAN LUIS is a mid-range Mexican restaurant at Av. 10 Ote. 4.1★
-  (1,905 reviews) — what visitors say, hours, and tips.
+description: EL PATIO DE SAN LUIS is a mid-range Mexican restaurant at Av. 10 Ote. 4.1★ (1,905 reviews) — what visitors say, hours, and tips.
 country: Mexico
 region: Puebla
 category: restaurant
 pubDate: '2026-10-05T16:29:19.311Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg/3840px-Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg
-  credit: 'Photo: Luis Alvaz / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Patio_principal_(fragmentos_de_piedra)_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg
-  via: act
-  focus:
-    x: 50
-    'y': 50
-gallery: []
 place:
   id: ChIJp4QrRxT4z4URsKIbqjySyyY
   name: EL PATIO DE SAN LUIS
-  address: >-
-    Av. 10 Ote. 2, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza,
-    Pue., Mexico
+  address: Av. 10 Ote. 2, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., Mexico
   rating: 4.1
   userRatingsTotal: 1905
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=2795488782963155632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=2795488782963155632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 19.0483376
   lng: -98.1962183
@@ -60,40 +43,29 @@ place:
 tags:
   - puebla
   - street food
-quickAnswer: >-
-  EL PATIO DE SAN LUIS is a mid-range Mexican restaurant at Av. 10 Ote. 2 in
-  Puebla's Centro histórico, about five blocks north of the Zócalo just off
-  Calle 5 de Mayo. It's open daily from 10am to 8pm, closing at 7pm on Sundays.
-  Weekdays are calm all day, but try not to arrive on a weekend between 1pm and
-  6pm, which is when it fills up.
+quickAnswer: EL PATIO DE SAN LUIS is a mid-range Mexican restaurant at Av. 10 Ote. 2 in Puebla's Centro histórico, about five blocks north of the Zócalo just off Calle 5 de Mayo. It's open daily from 10am to 8pm, closing at 7pm on Sundays. Weekdays are calm all day, but try not to arrive on a weekend between 1pm and 6pm, which is when it fills up.
 faq:
   - q: When is the quietest time to visit EL PATIO DE SAN LUIS?
-    a: >-
-      On weekdays it's quiet throughout opening hours, 10am to 8pm. Weekends are
-      busiest from 1pm to 6pm, so go at the 10am opening or after 6pm on
-      Saturday.
+    a: On weekdays it's quiet throughout opening hours, 10am to 8pm. Weekends are busiest from 1pm to 6pm, so go at the 10am opening or after 6pm on Saturday.
   - q: What are the opening hours?
-    a: >-
-      It's open 10am to 8pm Monday to Saturday and 10am to 7pm on Sunday. It's
-      open every day of the week.
+    a: It's open 10am to 8pm Monday to Saturday and 10am to 7pm on Sunday. It's open every day of the week.
   - q: How do I get there from the Zócalo?
-    a: >-
-      Walk about five blocks north along the Calle 5 de Mayo axis, past Templo
-      de Santo Domingo, to Avenida 10 Oriente. The restaurant is at number 2, at
-      the start of the Oriente side.
-  - q: 'Do I need to tip, and can I pay by card?'
-    a: >-
-      A tip of 10 to 15 percent is customary in Mexico. Ask "¿aceptan tarjeta?"
-      before ordering if you plan to pay by card, and keep some pesos for the
-      tip.
+    a: Walk about five blocks north along the Calle 5 de Mayo axis, past Templo de Santo Domingo, to Avenida 10 Oriente. The restaurant is at number 2, at the start of the Oriente side.
+  - q: Do I need to tip, and can I pay by card?
+    a: A tip of 10 to 15 percent is customary in Mexico. Ask "¿aceptan tarjeta?" before ordering if you plan to pay by card, and keep some pesos for the tip.
   - q: What can I see nearby after eating?
-    a: >-
-      Templo de Santo Domingo and the Capilla del Rosario, the Zócalo and
-      cathedral, the Biblioteca Palafoxiana, and El Parián market with the
-      Barrio del Artista. All of them are a short walk away.
+    a: Templo de Santo Domingo and the Capilla del Rosario, the Zócalo and cathedral, the Biblioteca Palafoxiana, and El Parián market with the Barrio del Artista. All of them are a short walk away.
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-05'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/3426465_GlhXvs9On6RFH6gZXlPoSV3_pfKKcHMtUaPrHmSHI0Q.jpg
+  credit: 'Photo: Foursquare user content (Patio de San Luis)'
+  license: foursquare
+  source: https://foursquare.com/v/4ea5bbb6c2eefedd0465ac89
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Five blocks up from the Zócalo

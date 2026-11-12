@@ -11,10 +11,10 @@ eventRecurring: false
 eventVenue: Turkistan Concert Hall
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Magic_city%2C_Navoiy_Park%2C_Tashkent_2026_02.jpg/3840px-Magic_city%2C_Navoiy_Park%2C_Tashkent_2026_02.jpg'
-  credit: 'Photo: Shuvaev / Wikimedia Commons (CC BY 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/35/Tashkent_City_Park_2019.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Magic_city,_Navoiy_Park,_Tashkent_2026_02.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_2019.jpg'
 gallery: []
 tags:
   - tashkent

@@ -1,45 +1,36 @@
 ---
-title: "Mount Victoria Lookout: Wellington Travel Guide (4.7★)"
-description: "Mount Victoria Lookout sits at the top of Lookout Road in Hataitai, Wellington, and gives you a full circle of the city, the harbour and the airport runway from one summit platform. 4.7★ (6,450 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Wellington"
-category: "attraction"
-pubDate: "2026-10-23T13:19:44.799Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg/3840px-Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg"
-  credit: "Photo: Tom Ackroyd / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 50
+title: 'Mount Victoria Lookout: Wellington Travel Guide (4.7★)'
+description: Mount Victoria Lookout sits at the top of Lookout Road in Hataitai, Wellington, and gives you a full circle of the city, the harbour and the airport runway from one summit platform. 4.7★ (6,450 reviews) — what visitors say, hours, and tips.
+country: New Zealand
+region: Wellington
+category: attraction
+pubDate: '2026-10-23T13:19:44.799Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wellington_from_the_Mount_Victoria_lookout.jpg/3840px-Wellington_from_the_Mount_Victoria_lookout.jpg"
-    credit: "Photo: Tom Ackroyd / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Wellington_from_the_Mount_Victoria_lookout.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wellington_from_the_Mount_Victoria_lookout.jpg/3840px-Wellington_from_the_Mount_Victoria_lookout.jpg
+    credit: 'Photo: Tom Ackroyd / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Wellington_from_the_Mount_Victoria_lookout.jpg
 place:
-  id: "ChIJq-ETf7ivOG0RJa_-GBUmQuc"
-  name: "Mount Victoria Lookout"
-  address: "Lookout Road, Hataitai, Wellington 6011, New Zealand"
+  id: ChIJq-ETf7ivOG0RJa_-GBUmQuc
+  name: Mount Victoria Lookout
+  address: Lookout Road, Hataitai, Wellington 6011, New Zealand
   rating: 4.7
   userRatingsTotal: 6450
-  googleMapsUrl: "https://maps.google.com/?cid=16663923443279769381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16663923443279769381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -41.2960571
   lng: 174.7943104
-  phone: "+64 4 802 4860"
+  phone: +64 4 802 4860
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-23
+    updated: 2026-10-23T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 22
@@ -66,24 +57,32 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_6375516d5542472d5f614a5230474f7669376654452d714a496843"
+    venueId: ven_6375516d5542472d5f614a5230474f7669376654452d714a496843
 tags:
-  - "wellington"
-  - "Mount Victoria Lookout"
-quickAnswer: "Mount Victoria Lookout sits at the top of Lookout Road in Hataitai, Wellington, and gives you a full circle of the city, the harbour and the airport runway from one summit platform. It's quietest between 7am–8am and 10pm–11pm on any day. On weekends, try not to arrive between 9am and 10pm, when the car park and railings fill up."
+  - wellington
+  - Mount Victoria Lookout
+quickAnswer: Mount Victoria Lookout sits at the top of Lookout Road in Hataitai, Wellington, and gives you a full circle of the city, the harbour and the airport runway from one summit platform. It's quietest between 7am–8am and 10pm–11pm on any day. On weekends, try not to arrive between 9am and 10pm, when the car park and railings fill up.
 faq:
-  - q: "When is the quietest time to visit Mount Victoria Lookout?"
-    a: "It's quietest between 7am–8am and 10pm–11pm, on both weekdays and weekends. Avoid weekends from 9am to 10pm, when the summit and its small car park are at their busiest."
-  - q: "How do I get to Mount Victoria Lookout without a car?"
-    a: "Walk up through the Town Belt tracks from Oriental Bay or Mount Victoria suburb, which takes about 30–45 minutes from Courtenay Place. You can also check the Metlink journey planner for buses into the area, or take a taxi up and walk down."
-  - q: "How long should I spend at the lookout?"
-    a: "Allow 20–40 minutes for the views and the Byrd Memorial. If you walk up and down through the forest, plan on one to two hours."
-  - q: "Is it worth going at night?"
-    a: "Yes. The lookout is currently listed as open 24 hours, and after dark you see the lit CBD, the harbour and the airport. The 10pm–11pm window is also one of the quietest times."
-  - q: "Where are the Lord of the Rings filming spots?"
-    a: "They're in the Town Belt forest on Mount Victoria's lower slopes, where early Hobbit scenes were filmed. Signposted tracks pass close by on the way up to the summit."
+  - q: When is the quietest time to visit Mount Victoria Lookout?
+    a: It's quietest between 7am–8am and 10pm–11pm, on both weekdays and weekends. Avoid weekends from 9am to 10pm, when the summit and its small car park are at their busiest.
+  - q: How do I get to Mount Victoria Lookout without a car?
+    a: Walk up through the Town Belt tracks from Oriental Bay or Mount Victoria suburb, which takes about 30–45 minutes from Courtenay Place. You can also check the Metlink journey planner for buses into the area, or take a taxi up and walk down.
+  - q: How long should I spend at the lookout?
+    a: Allow 20–40 minutes for the views and the Byrd Memorial. If you walk up and down through the forest, plan on one to two hours.
+  - q: Is it worth going at night?
+    a: Yes. The lookout is currently listed as open 24 hours, and after dark you see the lit CBD, the harbour and the airport. The 10pm–11pm window is also one of the quietest times.
+  - q: Where are the Lord of the Rings filming spots?
+    a: They're in the Town Belt forest on Mount Victoria's lower slopes, where early Hobbit scenes were filmed. Signposted tracks pass close by on the way up to the summit.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1398444184_i1vdeBGEZBUvGuCX95XWPBbPixPVn-Qoq0cXDwzhThA.jpg
+  credit: 'Photo: Foursquare user content (Mount Victoria)'
+  license: foursquare
+  source: https://foursquare.com/v/4b2d677df964a520ecd524e3
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A hill you can see the whole city from

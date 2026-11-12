@@ -5,15 +5,6 @@ country: "New Zealand"
 region: "Wanaka"
 category: "hidden-gem"
 pubDate: "2026-10-25T07:48:03.457Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Puzzling_World%2C_Wanaka%2C_New_Zealand_%28panorama_photo%29.jpg/3840px-Puzzling_World%2C_Wanaka%2C_New_Zealand_%28panorama_photo%29.jpg"
-  credit: "Photo: Ulrich Lange, Bochum, Germany / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Puzzling_World,_Wanaka,_New_Zealand_(panorama_photo).jpg"
-  via: "act"
-  focus:
-    x: 85
-    y: 55
 gallery: []
 place:
   id: "ChIJd8Y3gkVP1akRrUcLDxPc300"
@@ -81,6 +72,7 @@ faq:
     a: "Yes, ideally. Single-use plastic bags are banned in New Zealand, so bring a reusable bag or buy one at the checkout."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 Wanaka is a small town that fills up every ski season and every summer. Nearly everyone staying here needs food at some point. For many of them, the answer is a supermarket on Dunmore Street, a couple of blocks back from the lake.

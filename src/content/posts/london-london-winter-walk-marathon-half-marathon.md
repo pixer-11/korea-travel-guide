@@ -16,10 +16,10 @@ eventOffers:
   url: https://www.ultrachallenge.com/london-winter-walk/
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Oval_cricket_ground_2022-08-11.jpg/3840px-The_Oval_cricket_ground_2022-08-11.jpg'
-  credit: 'Photo: Nick Richards / Wikimedia Commons (CC BY-SA 2.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hobbs_Gate%2C_The_Oval%2C_Kennington_Oval%2C_London_SE11_5TB_%282%29.jpg/3840px-Hobbs_Gate%2C_The_Oval%2C_Kennington_Oval%2C_London_SE11_5TB_%282%29.jpg'
+  credit: 'Photo: Spudgun67 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:The_Oval_cricket_ground_2022-08-11.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Hobbs_Gate,_The_Oval,_Kennington_Oval,_London_SE11_5TB_(2).jpg'
 gallery: []
 tags:
   - london

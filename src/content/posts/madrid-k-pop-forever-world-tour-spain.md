@@ -10,10 +10,10 @@ eventEndDate: '2026-12-31'
 eventRecurring: false
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Edificios_Skyline_Madrid_03.jpg'
-  credit: 'Photo: Luis García (Zaqarbal) / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Madrid_Skyline_-_Spain.jpg'
+  credit: 'Photo: Alberto Racatumba / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Edificios_Skyline_Madrid_03.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Madrid_Skyline_-_Spain.jpg'
 gallery: []
 tags:
   - madrid

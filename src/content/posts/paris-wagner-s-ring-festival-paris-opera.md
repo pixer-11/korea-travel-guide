@@ -13,11 +13,6 @@ eventOrganizer:
   name: Paris Opera
   url: https://www.operadeparis.fr
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Skyline_of_Paris_4.jpg/3840px-Skyline_of_Paris_4.jpg'
-  credit: 'Photo: DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Paris_4.jpg'
 gallery: []
 tags:
   - paris
@@ -36,6 +31,14 @@ faq:
     a: There is no dress code, and smart-casual is common. The Paris Opera usually projects surtitles in both French and English above the stage.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Side_View_of_the_Op%C3%A9ra_Bastille.jpg/3840px-Side_View_of_the_Op%C3%A9ra_Bastille.jpg
+  credit: 'Photo: DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Side_View_of_the_Op%C3%A9ra_Bastille.jpg
+  focus:
+    x: 35
+    'y': 40
 ---
 
 Four operas, roughly fifteen hours of music, one story that begins with gold stolen from a river and ends with the gods' hall in flames. From November 6 to 22, 2026, the Paris Opera stages Wagner's complete *Der Ring des Nibelungen* at Opéra Bastille. Alongside it, an exhibition runs at Palais Garnier, the company's older house across town.

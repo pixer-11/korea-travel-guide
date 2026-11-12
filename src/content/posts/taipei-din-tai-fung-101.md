@@ -5,11 +5,6 @@ country: Taiwan
 region: Taipei
 category: restaurant
 pubDate: '2026-07-30T09:48:31.857Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg/1920px-TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg
-  credit: 'Photo: MAm ROFOW 022 / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Din_Tai_Fung_at_Taipei_101_Food_Court.jpg/3840px-Din_Tai_Fung_at_Taipei_101_Food_Court.jpg
     credit: 'Photo: 玄 史生 / Wikimedia Commons (CC0)'
@@ -37,7 +32,8 @@ place:
     - 'Sunday: 10:45 AM – 8:30 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet: [11]
+    weekdayQuiet:
+      - 11
     weekdayBusy: []
     weekendBusy:
       - 13
@@ -65,6 +61,14 @@ faq:
     a: Walk-ins are the norm and you'll be given a numbered ticket; there's usually a wait, especially weekend afternoons from 1pm onward, so arriving near opening minimizes the delay.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/454225848_vmS9NUsYJIPqorrUj2PFuJTOrxwYsnuiLbvB_Ey9WlY.jpg
+  credit: 'Photo: Foursquare user content (Din Tai Fung (鼎泰豐))'
+  license: foursquare
+  source: https://foursquare.com/v/4e30f045e4cd9fcdc93d0783
+  focus:
+    x: 45
+    'y': 35
 ---
 ## Why this branch, specifically
 

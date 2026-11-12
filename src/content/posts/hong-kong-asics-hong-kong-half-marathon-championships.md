@@ -13,13 +13,10 @@ eventOrganizer:
   url: https://hkaaa.com
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg/3840px-Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg'
-  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Hong_Kong_Island_Skyline_2009.jpg'
+  credit: 'Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg'
-  focus:
-    x: 50
-    y: 50
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Island_Skyline_2009.jpg'
 gallery: []
 tags:
   - hong kong

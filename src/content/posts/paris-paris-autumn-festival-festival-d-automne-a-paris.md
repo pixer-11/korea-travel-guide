@@ -10,10 +10,10 @@ eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Paris_skyline_from_Montmartre_2026-01-03.jpg/3840px-Paris_skyline_from_Montmartre_2026-01-03.jpg'
-  credit: 'Photo: Renée Kools / Wikimedia Commons (CC BY 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/50/Skyline_of_Paris%2C_taken_from_Louvre%2C_Jul_4_2018.jpg'
+  credit: 'Photo: A Chinese ID / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Paris_skyline_from_Montmartre_2026-01-03.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Paris,_taken_from_Louvre,_Jul_4_2018.jpg'
 gallery: []
 tags:
   - paris

@@ -10,13 +10,10 @@ eventEndDate: '2026-11-30'
 eventRecurring: true
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Namangan_banner_Bobur_Park.png'
-  credit: 'Photo: Stephanieadams99 / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Baliqliko%E2%80%98l_ziyoratgohi._Namangan.jpg/3840px-Baliqliko%E2%80%98l_ziyoratgohi._Namangan.jpg'
+  credit: 'Photo: Miss Kamola / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Namangan_banner_Bobur_Park.png'
-  focus:
-    x: 50
-    y: 50
+  source: 'https://commons.wikimedia.org/wiki/File:Baliqliko%E2%80%98l_ziyoratgohi._Namangan.jpg'
 gallery: []
 tags:
   - namangan

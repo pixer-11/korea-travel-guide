@@ -5,15 +5,6 @@ country: "Georgia"
 region: "Batumi"
 category: "hidden-gem"
 pubDate: "2026-10-20T14:47:24.835Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Batumi_Neptun_Fountain_and_Dramatic_Theatre.jpg/3840px-Batumi_Neptun_Fountain_and_Dramatic_Theatre.jpg"
-  credit: "Photo: Sergey Sebelev / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Batumi_Neptun_Fountain_and_Dramatic_Theatre.jpg"
-  via: "act"
-  focus:
-    x: 28
-    y: 40
 gallery: []
 place:
   id: "ChIJ6fQwPvmFZ0ARpCsMtC6vayA"
@@ -50,6 +41,7 @@ faq:
     a: "Batumi Boulevard runs along the Black Sea through central Batumi. Its sights include the Alphabetic Tower and the Ali and Nino statue, and they pair easily with a walk to the fountain."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## A fountain with no other name

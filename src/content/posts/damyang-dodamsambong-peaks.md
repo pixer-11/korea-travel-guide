@@ -1,31 +1,17 @@
 ---
 title: 'Dodamsambong Peaks: Danyang Travel Guide (4.2★)'
-description: >-
-  Dodamsambong Peaks is actually in Danyang-gun, Chungcheongbuk-do — not Damyang
-  — a cluster of three limestone rocks rising straight out of the Namhangang
-  River. 4.2★ (8,139 reviews) — what visitors say, hours, and tips.
+description: Dodamsambong Peaks is actually in Danyang-gun, Chungcheongbuk-do — not Damyang — a cluster of three limestone rocks rising straight out of the Namhangang River. 4.2★ (8,139 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Danyang
 category: attraction
 pubDate: '2026-08-10T09:06:33.588Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg/3840px-Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg
-  credit: >-
-    Photo: Seongbin Im from Seoul, Korea, Republic of / Wikimedia Commons (CC
-    BY-SA 2.0)
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Geology_of_South_Korea_-_Dodamsambong,_Peaks(%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89)_(35912678771).jpg
-gallery: []
 place:
   id: ChIJ1_YpO5H0YzURW2e6XPn6qiA
   name: 도담삼봉 Dodamsambong Peaks
-  address: '644-13 Sambong-ro, Maepo-eup, Danyang-gun, Chungcheongbuk-do, South Korea'
+  address: 644-13 Sambong-ro, Maepo-eup, Danyang-gun, Chungcheongbuk-do, South Korea
   rating: 4.2
   userRatingsTotal: 8139
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=2353969704164026203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=2353969704164026203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.0000443
   lng: 128.3439702
@@ -57,34 +43,29 @@ place:
 tags:
   - danyang
   - waterfront
-quickAnswer: >-
-  Dodamsambong Peaks is actually in Danyang-gun, Chungcheongbuk-do — not Damyang
-  — a cluster of three limestone rocks rising straight out of the Namhangang
-  River. It's open daily 9am–6pm, and the calmest window is a weekday within
-  those hours; weekends from 10am on draw the biggest crowds. Plan an hour for
-  the riverside walk, fountain show and optional speedboat ride.
+quickAnswer: Dodamsambong Peaks is actually in Danyang-gun, Chungcheongbuk-do — not Damyang — a cluster of three limestone rocks rising straight out of the Namhangang River. It's open daily 9am–6pm, and the calmest window is a weekday within those hours; weekends from 10am on draw the biggest crowds. Plan an hour for the riverside walk, fountain show and optional speedboat ride.
 faq:
   - q: Is Dodamsambong actually in Damyang?
-    a: >-
-      No — it's in Danyang-gun, Chungcheongbuk-do, on the Namhangang River, not
-      in Damyang.
+    a: No — it's in Danyang-gun, Chungcheongbuk-do, on the Namhangang River, not in Damyang.
   - q: What are the opening hours?
-    a: 'Daily, 9am to 6pm, with no listed variation by day of the week.'
+    a: Daily, 9am to 6pm, with no listed variation by day of the week.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays within the 9am–6pm window are calmest. Weekends from 10am onward
-      see the heaviest crowds, so avoid that slot if you can.
+    a: Weekdays within the 9am–6pm window are calmest. Weekends from 10am onward see the heaviest crowds, so avoid that slot if you can.
   - q: How long should I plan to spend there?
-    a: >-
-      About an hour covers the riverside promenade and fountain show; add 20–30
-      minutes if you walk to Seokmun or take a speedboat ride.
+    a: About an hour covers the riverside promenade and fountain show; add 20–30 minutes if you walk to Seokmun or take a speedboat ride.
   - q: How do I get there without a car?
-    a: >-
-      Take an intercity bus to Danyang Bus Terminal, then a short taxi or local
-      bus to Sambong-ro — there's no train or subway direct to the site.
+    a: Take an intercity bus to Danyang Bus Terminal, then a short taxi or local bus to Sambong-ro — there's no train or subway direct to the site.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/2016622_FhP_Gm6kmP4iycir7uGV7bx992I77PsmGgELeXTpP7k.jpg
+  credit: 'Photo: Foursquare user content (Dodamsambong Peaks (도담삼봉))'
+  license: foursquare
+  source: https://foursquare.com/v/4ce39789748d6ea83ab9cb50
+  focus:
+    x: 40
+    'y': 55
 ---
 
 ## A quick correction before you go

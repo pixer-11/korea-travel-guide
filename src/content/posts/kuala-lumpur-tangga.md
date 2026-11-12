@@ -5,14 +5,6 @@ country: Malaysia
 region: Kuala Lumpur
 category: trendy
 pubDate: '2026-10-01'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Avenue_K%2C_Kuala_Lumpur_20260413_095055.jpg
-  credit: 'Photo: Wiki Farazi / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Avenue_K,_Kuala_Lumpur_20260413_095055.jpg
-  focus:
-    x: 50
-    'y': 30
 gallery: []
 tags:
   - kuala lumpur
@@ -31,6 +23,7 @@ faq:
     a: About an hour is enough for a drink, a look through the pre-loved books and the restored interior. Jalan Alor and Changkat Bukit Bintang are both close by if you want to keep going afterwards.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 *Tangga* is the Malay word for stairs or ladder. At this café the name is literal: you climb a wooden ladder to get in. It sits on the floor above Bar Pahit, inside a building that has stood in Bukit Bintang for about a hundred years.

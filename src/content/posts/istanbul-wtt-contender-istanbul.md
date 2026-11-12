@@ -11,13 +11,10 @@ eventRecurring: true
 eventVenue: Ata Sporları Merkezi
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg/3840px-20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg'
-  credit: 'Photo: User:Ggia / Wikimedia Commons (CC BY-SA 3.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Modern_Istanbul_skyline_at_sunset.jpg/3840px-Modern_Istanbul_skyline_at_sunset.jpg'
+  credit: 'Photo: Ben Morlok / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg'
-  focus:
-    x: 50
-    y: 50
+  source: 'https://commons.wikimedia.org/wiki/File:Modern_Istanbul_skyline_at_sunset.jpg'
 gallery: []
 tags:
   - istanbul

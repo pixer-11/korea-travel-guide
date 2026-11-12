@@ -1,36 +1,22 @@
 ---
 title: 'Top of The Rock: New York Travel Guide (4.7★)'
-description: >-
-  Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller
-  Center, is open daily 8am–midnight (last elevator usually around 11pm), and
-  it's calmest if you go right at 8am or later in the evening — steer clear of
-  the 4pm–8pm weekend stretch when the deck fills fastest. 4.7★ (91,356 reviews)
-  — what visitors say, hours, and tips.
+description: Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller Center, is open daily 8am–midnight (last elevator usually around 11pm), and it's calmest if you go right at 8am or later in the evening — steer clear of the 4pm–8pm weekend stretch when the deck fills fastest. 4.7★ (91,356 reviews) — what visitors say, hours, and tips.
 country: United States
 region: New York
 category: hidden-gem
 pubDate: '2026-08-04T10:15:12.699Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/1920px-NYC_Top_of_the_Rock_Pano.jpg
-  credit: 'Photo: Daniel Schwen / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:NYC_Top_of_the_Rock_Pano.jpg'
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
     credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
+    source: https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
 place:
   id: ChIJe7vKMf9YwokRIMYfDz7iF9o
   name: Top of The Rock
-  address: '30 Rockefeller Plaza, New York, NY 10112, USA'
+  address: 30 Rockefeller Plaza, New York, NY 10112, USA
   rating: 4.7
   userRatingsTotal: 91356
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=15715278180902225440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=15715278180902225440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.7593495
   lng: -73.9794087
@@ -72,14 +58,7 @@ place:
 tags:
   - new york
   - hidden gem
-quickAnswer: >-
-  Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller
-  Center, is open daily 8am–midnight (last elevator usually around 11pm), and
-  it's calmest if you go right at 8am or later in the evening — steer clear of
-  the 4pm–8pm weekend stretch when the deck fills fastest. Book a timed-entry
-  ticket online in advance; this is one of the most reviewed observation decks
-  in the city, and walk-up lines on weekend afternoons can eat an hour of your
-  day.
+quickAnswer: Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller Center, is open daily 8am–midnight (last elevator usually around 11pm), and it's calmest if you go right at 8am or later in the evening — steer clear of the 4pm–8pm weekend stretch when the deck fills fastest. Book a timed-entry ticket online in advance; this is one of the most reviewed observation decks in the city, and walk-up lines on weekend afternoons can eat an hour of your day.
 faq:
   - q: What are the hours for Top of The Rock?
     a: Open daily 8am to midnight, with last elevator access typically about an hour before closing — confirm the exact cutoff when you book, as it can shift seasonally.
@@ -94,6 +73,14 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-25'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1415200107_sxeRZROSNL24DYuqTXLb2dC2qHkPKj2nX2UvAqq-QzY.jpg
+  credit: 'Photo: Foursquare user content (Top of The Rock)'
+  license: foursquare
+  source: https://foursquare.com/v/50d4c271e4b0afbc0bfcbe5d
+  focus:
+    x: 50
+    'y': 75
 ---
 ## Why go
 

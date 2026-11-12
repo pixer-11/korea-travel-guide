@@ -1,60 +1,59 @@
 ---
-title: "Esplanade Park: Fremantle Travel Guide (4.5★)"
-description: "Esplanade Park sits on Marine Terrace in Fremantle, a big lawn shaded by tall Norfolk Island pines between the town centre and Fishing Boat Harbour, with an observation wheel, a playground and a cafe. 4.5★ (2,729 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Fremantle"
-category: "attraction"
-pubDate: "2026-10-18T07:45:17.435Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG"
-  credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Esplanade_Park,_Fremantle3.JPG"
-  via: "act"
-  focus:
-    x: 50
-    y: 50
+title: 'Esplanade Park: Fremantle Travel Guide (4.5★)'
+description: Esplanade Park sits on Marine Terrace in Fremantle, a big lawn shaded by tall Norfolk Island pines between the town centre and Fishing Boat Harbour, with an observation wheel, a playground and a cafe. 4.5★ (2,729 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Fremantle
+category: attraction
+pubDate: '2026-10-18T07:45:17.435Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esplanade_Park_and_Tourist_Wheel_Fremantle_01.jpg/3840px-Esplanade_Park_and_Tourist_Wheel_Fremantle_01.jpg"
-    credit: "Photo: Ché Lydia Xyang / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Esplanade_Park_and_Tourist_Wheel_Fremantle_01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esplanade_Park_and_Tourist_Wheel_Fremantle_01.jpg/3840px-Esplanade_Park_and_Tourist_Wheel_Fremantle_01.jpg
+    credit: 'Photo: Ché Lydia Xyang / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Esplanade_Park_and_Tourist_Wheel_Fremantle_01.jpg
 place:
-  id: "ChIJTzHzj3ChMioRTeNkKxO4T08"
-  name: "Esplanade Park"
-  address: "Marine Terrace, Fremantle WA 6160, Australia"
+  id: ChIJTzHzj3ChMioRTeNkKxO4T08
+  name: Esplanade Park
+  address: Marine Terrace, Fremantle WA 6160, Australia
   rating: 4.5
   userRatingsTotal: 2729
-  googleMapsUrl: "https://maps.google.com/?cid=5714988844628370253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5714988844628370253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -32.0582947
   lng: 115.7460244
-  phone: "+61 8 9432 9999"
+  phone: +61 8 9432 9999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "fremantle"
-  - "park"
-quickAnswer: "Esplanade Park sits on Marine Terrace in Fremantle, a big lawn shaded by tall Norfolk Island pines between the town centre and Fishing Boat Harbour, with an observation wheel, a playground and a cafe. Google currently lists the park as open 24 hours. Give it an hour, longer if you combine it with Bathers Beach and the harbour."
+  - fremantle
+  - park
+quickAnswer: Esplanade Park sits on Marine Terrace in Fremantle, a big lawn shaded by tall Norfolk Island pines between the town centre and Fishing Boat Harbour, with an observation wheel, a playground and a cafe. Google currently lists the park as open 24 hours. Give it an hour, longer if you combine it with Bathers Beach and the harbour.
 faq:
-  - q: "Where exactly is Esplanade Park in Fremantle?"
-    a: "On Marine Terrace, Fremantle WA 6160, between the town's West End and Fishing Boat Harbour. Bathers Beach and the Round House are a short walk away."
-  - q: "How do I get there from Perth?"
-    a: "Take the train to Fremantle Station, the end of the line, then walk south through the town centre for roughly 10–15 minutes. Fremantle's free CAT buses also loop the centre."
-  - q: "Is the park open at night?"
-    a: "Google currently lists the park itself as open 24 hours. The observation wheel, cafe and playground keep their own hours, so check those separately."
-  - q: "How long should I spend there?"
-    a: "An hour covers a picnic or a wheel ride. Allow half a day if you add Fishing Boat Harbour, Bathers Beach, the Round House and the WA Shipwrecks Museum, all close by."
-  - q: "Is it good for kids?"
-    a: "Yes. It has a playground, a big open lawn for running around, the observation wheel and a cafe for snacks, all within one park."
+  - q: Where exactly is Esplanade Park in Fremantle?
+    a: On Marine Terrace, Fremantle WA 6160, between the town's West End and Fishing Boat Harbour. Bathers Beach and the Round House are a short walk away.
+  - q: How do I get there from Perth?
+    a: Take the train to Fremantle Station, the end of the line, then walk south through the town centre for roughly 10–15 minutes. Fremantle's free CAT buses also loop the centre.
+  - q: Is the park open at night?
+    a: Google currently lists the park itself as open 24 hours. The observation wheel, cafe and playground keep their own hours, so check those separately.
+  - q: How long should I spend there?
+    a: An hour covers a picnic or a wheel ride. Allow half a day if you add Fishing Boat Harbour, Bathers Beach, the Round House and the WA Shipwrecks Museum, all close by.
+  - q: Is it good for kids?
+    a: Yes. It has a playground, a big open lawn for running around, the observation wheel and a cafe for snacks, all within one park.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/18197707_Da30YJLFIo37nA0To_m7vFGQukg3adCOuZbyXHSqBvc.jpg
+  credit: 'Photo: Foursquare user content (Esplanade Park)'
+  license: foursquare
+  source: https://foursquare.com/v/4b9386b8f964a520194734e3
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Lawn, pines and a wheel

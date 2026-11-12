@@ -8,13 +8,6 @@ country: United States
 region: Los Angeles
 category: trendy
 pubDate: '2026-07-30T09:49:53.225Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg/1920px-Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg
-  credit: 'Photo: Motohiro Takayama / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Poached_Egg_At_Urth_Caffe_(33000317).jpeg
 gallery: []
 place:
   id: ChIJF1qcgTvGwoARn7ujAJGHC1Y
@@ -76,6 +69,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-09'
+photoless: true
 ---
 ## Why go
 

@@ -9,21 +9,7 @@ country: China
 region: Hangzhou
 category: attraction
 pubDate: '2026-08-05T11:09:42.485Z'
-heroImage:
-  url: >-
-    https://fastly.4sqi.net/img/general/original/57937108_5HWD21keuOFzYvvkEyjjbsZYPpW0ctK23s4jlmKuoQg.jpg
-  credit: >-
-    Photo: Foursquare user content (Zhejiang Memorial Hall of Revoluntionary
-    Martyrs (浙江革命烈士纪念馆))
-  license: foursquare
-  source: 'https://foursquare.com/v/4cb924e79552b60c66dcd18b'
-gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg/3840px-Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg
-    credit: 'Photo: Gary Todd / Wikimedia Commons (CC0)'
-    license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum,_Wulin_Branch,_West_Lake_Cultural_Square,_Hangzhou,_China.jpg
+gallery: []
 place:
   id: ChIJqYR5q6tiSzQRrTwPecQQ6AY
   name: Zhejiang Art Museum
@@ -35,7 +21,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 30.231088999999997
   lng: 120.155673
-  phone: '+86 571 8707 8700'
+  phone: +86 571 8707 8700
 tags:
   - hangzhou
   - museum
@@ -77,6 +63,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
+photoless: true
 ---
 
 ## Why go

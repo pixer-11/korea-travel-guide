@@ -21,7 +21,7 @@
  * it must never be allowed to upgrade "cannot tell" into MATCH.
  */
 
-import { tokens } from './commons.mjs';
+import { tokens, samePlaceKm } from './commons.mjs';
 
 const API = 'https://commons.wikimedia.org/w/api.php';
 // Wikimedia asks for a real UA and throttles hard on parallel/browser-UA
@@ -80,7 +80,8 @@ export async function fetchCommonsMeta(titles) {
   const uniq = [...new Set(titles.filter(Boolean))];
   for (let i = 0; i < uniq.length; i += BATCH) {
     const slice = uniq.slice(i, i + BATCH);
-    const url = `${API}?action=query&format=json&prop=imageinfo&iiprop=extmetadata`
+    // coordinates: where the camera stood, for the far-from-the-place test.
+    const url = `${API}?action=query&format=json&prop=imageinfo%7Ccoordinates&coprop=type&colimit=max&iiprop=extmetadata`
       + `&titles=${slice.map((t) => encodeURIComponent(`File:${t}`)).join('%7C')}`;
     let json;
     try {
@@ -97,9 +98,13 @@ export async function fetchCommonsMeta(titles) {
       if (!page?.title) continue;
       const asked = (back.get(page.title) ?? page.title).replace(/^File:/, '');
       const md = page.imageinfo?.[0]?.extmetadata ?? {};
+      const co = page.coordinates?.[0];
+      const num = (v) => (Number.isFinite(Number(v)) && v !== '' && v != null ? Number(v) : null);
       out.set(asked, {
         description: strip(md.ImageDescription?.value),
         categories: strip(md.Categories?.value).split('|').map((c) => c.trim()).filter(Boolean),
+        lat: co?.lat ?? num(md.GPSLatitude?.value),
+        lng: co?.lon ?? num(md.GPSLongitude?.value),
       });
     }
     // Sequential by construction; a small gap keeps a long sweep polite.
@@ -289,7 +294,14 @@ export function makeJudgedIndex(entries) {
 // dubai-barrafina credits "Mercato - DIFC"; barcelona-barra-oso credits
 // "El Nacional Barra de Vins". Same deterministic shape as the Commons check,
 // different source.
-const CREDIT_VENUE = new RegExp(String.raw`\(([^)]+)\)\s*$`);
+// From the FIRST bracket to the last: Foursquare names carry their own
+// brackets ("Gangnam Myeonok (강남면옥)"), and the old pattern, which allowed no
+// bracket inside, read 107 of 465 live credits as naming no venue at all — so
+// a cold-noodle house on the Chipotle Gangnam guide was never even compared
+// (owner photo review 2026-11-13).
+const CREDIT_VENUE = new RegExp(String.raw`\((.+)\)\s*$`);
+/** The venue a Foursquare credit line names, or ''. */
+export const creditVenue = (credit) => CREDIT_VENUE.exec(String(credit ?? ''))?.[1]?.trim() ?? '';
 
 // Words that carry no identity: two venues sharing only these are not the same
 // venue. "Cafe" alone must never vouch for "Bismillah Biryani" == "Chola Cafe".
@@ -351,6 +363,42 @@ export function judgeFoursquareCredit(credit, venueName) {
     return { verdict: 'supports', why: `credit "${named}" matches venue on "${lead}"` };
   }
   return { verdict: 'contradicts', why: `credit names "${named}", post is "${venueName}"` };
+}
+
+// ── Geotag: how far from the place was the camera? ───────────
+//
+// judgeIdentity reads words and stops at the country. Inside the right city it
+// has nothing to say, and that is where the same name lives twice: Tim Ho Wan
+// (Central) wore the Po Lam branch, the Macau-peninsula Kun Iam temple the
+// Taipa one, Cusco's craft market the Pisac one, an Ayutthaya palace ruin the
+// Bang Pa-in summer palace 20 km south (owner photo review 2026-11-13: 30-odd
+// live heroes, each named correctly by its own uploader). The uploader's
+// coordinates say it, where the words cannot.
+const haversineKm = (a, b, c, d) => {
+  const R = 6371, r = Math.PI / 180;
+  const h = Math.sin(((c - a) * r) / 2) ** 2 + Math.cos(a * r) * Math.cos(c * r) * Math.sin(((d - b) * r) / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+};
+
+/**
+ * Is this photo geotagged outside the ring a photo of the place may come from?
+ * The ring is the picker's own (samePlaceKm): 3 km for one address, 30 km for
+ * a park, a bay or a town. "unknown" when either side has no coordinates.
+ *
+ * @param {{lat?: number|null, lng?: number|null}} meta   the file's coordinates
+ * @param {{name: string, region?: string, lat?: number|null, lng?: number|null}} place
+ * @returns {{verdict: 'far'|'near'|'unknown', km?: number, ring?: number, why: string}}
+ */
+export function judgeDistance(meta, place) {
+  if (meta?.lat == null || meta?.lng == null) return { verdict: 'unknown', why: 'photo has no coordinates' };
+  if (place?.lat == null || place?.lng == null) return { verdict: 'unknown', why: 'post has no coordinates' };
+  // (0,0) is a blank EXIF field, not a boat in the Gulf of Guinea.
+  if (Math.abs(meta.lat) < 0.01 && Math.abs(meta.lng) < 0.01) return { verdict: 'unknown', why: 'photo coordinates are blank' };
+  const km = haversineKm(place.lat, place.lng, meta.lat, meta.lng);
+  const ring = samePlaceKm(place.name, place.region);
+  return km > ring
+    ? { verdict: 'far', km, ring, why: `taken ${km.toFixed(km < 10 ? 1 : 0)} km from the place (ring ${ring} km)` }
+    : { verdict: 'near', km, ring, why: `taken ${km.toFixed(1)} km from the place` };
 }
 
 /**

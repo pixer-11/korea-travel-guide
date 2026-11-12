@@ -1,32 +1,17 @@
 ---
 title: 'El Castillo: Merida Travel Guide (4.9★)'
-description: >-
-  El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum,
-  Yucatán, a day trip of roughly two and a half to three hours by road from
-  Playa del Carmen. 4.9★ (25,245 reviews) — what visitors say, hours, and tips.
+description: El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum, Yucatán, a day trip of roughly two and a half to three hours by road from Playa del Carmen. 4.9★ (25,245 reviews) — what visitors say, hours, and tips.
 country: Mexico
 region: Merida
 category: attraction
 pubDate: '2026-10-06T14:20:35.029Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg
-  credit: 'Photo: Autharite / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:El_Castillo_(16682767642).jpg'
-  via: act
-  focus:
-    x: 55
-    'y': 45
-gallery: []
 place:
   id: ChIJIyUjjrg4UY8R302CxwBC7wE
   name: El Castillo
-  address: '97751 Tinum, Yuc., Mexico'
+  address: 97751 Tinum, Yuc., Mexico
   rating: 4.9
   userRatingsTotal: 25245
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=139402684586413535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=139402684586413535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 20.6829859
   lng: -88.5686491
@@ -56,35 +41,29 @@ place:
 tags:
   - merida
   - historic site
-quickAnswer: >-
-  El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum,
-  Yucatán, a day trip of roughly two and a half to three hours by road from
-  Playa del Carmen. The site is open daily from 8am to 4pm. The quietest hour is
-  8am–9am every day; weekends stay busy from 10am to 4pm.
+quickAnswer: El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum, Yucatán, a day trip of roughly two and a half to three hours by road from Playa del Carmen. The site is open daily from 8am to 4pm. The quietest hour is 8am–9am every day; weekends stay busy from 10am to 4pm.
 faq:
   - q: How far is El Castillo from Playa del Carmen?
-    a: >-
-      It's at Chichén Itzá in Yucatán, roughly 2.5–3 hours each way by car on
-      toll Highway 180D. You can also go by ADO bus or on an organised day tour.
+    a: It's at Chichén Itzá in Yucatán, roughly 2.5–3 hours each way by car on toll Highway 180D. You can also go by ADO bus or on an organised day tour.
   - q: When is the quietest time to visit?
-    a: >-
-      8am–9am, on weekdays and weekends alike. On weekends, avoid 10am–4pm,
-      which is the busiest stretch.
+    a: 8am–9am, on weekdays and weekends alike. On weekends, avoid 10am–4pm, which is the busiest stretch.
   - q: What are the opening hours?
-    a: 'The site opens daily from 8am to 4pm, Monday through Sunday.'
+    a: The site opens daily from 8am to 4pm, Monday through Sunday.
   - q: Can you climb El Castillo?
-    a: >-
-      No. Climbing has been banned since 2008, so you see the pyramid from the
-      plaza. Clap in front of the north stairway to hear the echo that sounds
-      like a bird's chirp.
+    a: No. Climbing has been banned since 2008, so you see the pyramid from the plaza. Clap in front of the north stairway to hear the echo that sounds like a bird's chirp.
   - q: What else is nearby?
-    a: >-
-      Inside the site are the Great Ball Court, the Temple of the Warriors and
-      the Sacred Cenote. Outside it, Cenote Ik Kil is a few minutes away and
-      Valladolid is about 45 minutes east.
+    a: Inside the site are the Great Ball Court, the Temple of the Warriors and the Sacred Cenote. Outside it, Cenote Ik Kil is a few minutes away and Valladolid is about 45 minutes east.
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-02'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/3840px-Chichen_Itza_3.jpg
+  credit: 'Photo: Daniel Schwen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Four stairways and a calendar

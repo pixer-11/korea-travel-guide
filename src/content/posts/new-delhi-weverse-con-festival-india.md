@@ -15,10 +15,10 @@ eventOffers:
   url: https://weverseconfestival.weverse.io/en/
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/3/39/New_Delhi_skyline_at_dusk.jpg'
-  credit: 'Photo: This Image was created by User:PlaneMad. / Wikimedia Commons (CC BY-SA 2.5)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/da/Skyline_of_Cannaught_Place%2C_New_Delhi.jpg'
+  credit: 'Photo: Whoeverblocksmeisamotherfu*ker / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:New_Delhi_skyline_at_dusk.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Cannaught_Place,_New_Delhi.jpg'
 gallery: []
 tags:
   - new delhi

@@ -15,13 +15,7 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Ancient_Tombs_of_Fethiye_(Telmessos).jpg
-gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg/3840px-Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg
-    credit: 'Photo: Roman_Zacharij / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Ruins_of_Pinara,_Ancient_Lycian_city,_Lycia,_Turkey.jpeg
+gallery: []
 place:
   id: ChIJ-U1aQV5BwBQRE2FybBeA4pg
   name: Ancient City of Telmessos

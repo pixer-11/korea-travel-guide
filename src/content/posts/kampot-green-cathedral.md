@@ -9,15 +9,6 @@ country: Cambodia
 region: Kampot
 category: attraction
 pubDate: '2026-08-26T09:36:43.866Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Almere_-_Groene_Kathedraal.jpg/1920px-Almere_-_Groene_Kathedraal.jpg
-  credit: 'Photo: Stipo team / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Almere_-_Groene_Kathedraal.jpg'
-  focus:
-    x: 50
-    'y': 40
 gallery: []
 place:
   id: ChIJwW-uaZA3CDERXhs3sIGSlMk
@@ -67,6 +58,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
+photoless: true
 ---
 
 ## Why go

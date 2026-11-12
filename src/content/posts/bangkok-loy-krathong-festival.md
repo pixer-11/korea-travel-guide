@@ -14,13 +14,10 @@ eventOffers:
   currency: THB
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bangkok_Night_Wikimedia_Commons.jpg/3840px-Bangkok_Night_Wikimedia_Commons.jpg'
-  credit: 'Photo: Benh LIEU SONG / Wikimedia Commons (CC BY-SA 3.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/R%C3%ADo_Chao_Phraya%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_05.jpg/3840px-R%C3%ADo_Chao_Phraya%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_05.jpg'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Bangkok_Night_Wikimedia_Commons.jpg'
-  focus:
-    x: 50
-    y: 50
+  source: 'https://commons.wikimedia.org/wiki/File:R%C3%ADo_Chao_Phraya,_Bangkok,_Tailandia,_2013-08-22,_DD_05.jpg'
 tags:
   - bangkok
   - event

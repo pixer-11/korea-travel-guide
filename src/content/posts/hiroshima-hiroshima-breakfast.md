@@ -8,13 +8,6 @@ country: Japan
 region: Hiroshima
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/3840px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg
-  credit: 'Photo: J o / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg
 place:
   id: ChIJ335XLQCjWjUR9zjRdZaSy8M
   name: Hiroshima Breakfast
@@ -72,6 +65,7 @@ faq:
       making it easy to build a morning-to-afternoon downtown loop.
 aiGenerated: true
 updatedDate: '2026-09-03'
+photoless: true
 ---
 
 ## Why go

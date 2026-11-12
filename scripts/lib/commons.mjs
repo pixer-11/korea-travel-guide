@@ -301,9 +301,73 @@ const haversine = (a, b, c, d) => {
 // How far a photo may sit from the place before it is a different place. Wide
 // enough for a city-scale subject, far short of "another country".
 const SAME_PLACE_KM = 30;
+// That ring is for a subject that is itself kilometres wide: a national park,
+// a bay, a canal, a town. A restaurant, a temple, a market or a statue is one
+// address, and inside 30 km of it stand its own other branches and its
+// namesakes. Tim Ho Wan (Central) wore the Po Lam branch 11 km off, Din Tai
+// Fung 101 the Xinyi Road shop, the Macau-peninsula Kun Iam temple the Taipa
+// one, Cusco's craft market the one in Pisac, Chiayi's Taiping Old Street the
+// one in Douliu: 50-odd live heroes, every one inside the old ring (owner
+// photo review 2026-11-13). Measured on the 1,618 geotagged venue heroes:
+// 1,498 sit within 2 km of the place, and of the 59 beyond 5 km a third were
+// another place of the same name.
+const POINT_PLACE_KM = 3;
+const AREA_WORDS = new Set([
+  'lake', 'lago', 'laguna', 'lagoon', 'bay', 'bahia', 'baie', 'river', 'rio', 'canal', 'canyon', 'valley', 'valle',
+  'gorge', 'island', 'isla', 'ile', 'koh', 'ko', 'pulau', 'nusa', 'mountain', 'mount', 'mt', 'monte', 'cerro', 'uul',
+  'volcano', 'glacier', 'coast', 'costa', 'peninsula', 'desert', 'forest', 'trail', 'track', 'fall', 'waterfall',
+  'pass', 'archipelago', 'fjord', 'highland', 'reef', 'dune', 'steppe', 'railway', 'rail', 'wall', 'fortification',
+  'line', 'harbour', 'harbor', 'strait', 'cape', 'cabo', 'reserve', 'reserva', 'geopark', 'wetland', 'safari',
+  'town', 'quarter', 'district', 'village', 'chinatown', 'downtown',
+  // stem() takes "es" off a plural, so a word ending in e needs its plural listed.
+  'lakes', 'gorges', 'lines', 'reserves', 'villages', 'dunes', 'capes', 'isles', 'isle',
+].map(stem));
+const BIG_PARK = new Set(['national', 'nacional', 'nazionale', 'naturale', 'natural', 'nature', 'country', 'marine', 'geoforest', 'provincial', 'state', 'regional', 'wildlife'].map(stem));
+const PARK_WORD = new Set(['park', 'parque', 'parc', 'parco'].map(stem));
+// A building or a business is one address whatever else its name says: "Tin
+// Hau Temple, Causeway Bay" is a temple, and with the 30 km ring its 'Bay'
+// earned, the Joss House Bay Tin Hau temple 10 km east passed (Codex, 11-13).
+const POINT_KIND = new Set([
+  'temple', 'church', 'cathedral', 'mosque', 'pagoda', 'shrine', 'monastery', 'palace', 'castle', 'fort', 'fortress',
+  'tower', 'bridge', 'mall', 'plaza', 'square', 'market', 'bazaar', 'museum', 'gallery', 'station', 'stadium',
+  'arena', 'zoo', 'aquarium', 'library', 'theatre', 'theater', 'hall', 'center', 'centre', 'statue', 'monument',
+  'memorial', 'lighthouse', 'viewpoint', 'lookout', 'pier', 'fountain', 'house', 'mansion', 'tomb', 'gate',
+  'cafe', 'coffee', 'restaurant', 'bar', 'bistro', 'hotel', 'shop', 'store', 'bakery', 'kitchen', 'grill',
+].map(stem));
+// What a business calls itself by trade. Not a word of its own name.
+const BUSINESS_KIND = new Set([
+  'cafe', 'caffe', 'coffee', 'restaurant', 'restaurante', 'ristorante', 'bar', 'bistro', 'hotel', 'hostel', 'shop',
+  'store', 'bakery', 'kitchen', 'grill', 'house', 'club', 'lounge', 'pub', 'diner', 'eatery', 'roaster', 'roastery',
+].map(stem));
+/** The ring a photo of this subject may come from, in km. */
+export function samePlaceKm(subject, region = '') {
+  const words = nameWords(subject);
+  if (!words.length) return SAME_PLACE_KM; // nothing known about the subject
+  const reg = new Set(nameWords(region));
+  // The town itself as the subject ("Tulum", "El Chaltén").
+  if (words.every((w) => reg.has(w))) return SAME_PLACE_KM;
+  if (words.some((w) => POINT_KIND.has(w))) return POINT_PLACE_KM;
+  if (words.some((w) => AREA_WORDS.has(w))) return SAME_PLACE_KM;
+  if (words.some((w) => PARK_WORD.has(w)) && words.some((w) => BIG_PARK.has(w))) return SAME_PLACE_KM;
+  return POINT_PLACE_KM;
+}
+/** The subject's words that are neither its city nor a kind of place. */
+export function ownNameWords(subject, region = '') {
+  const reg = new Set(nameWords(region));
+  // Each word once, and not the trade: "Ngam Cafe" has one word of its own.
+  return [...new Set(nameWords(subject).filter((w) => !reg.has(w) && !PLACE_KIND.has(w) && !BUSINESS_KIND.has(w)))];
+}
 
 export async function commonsCandidates(query, limit = 10, subject = '', near = null, { region = '' } = {}) {
   const phraseOnly = !!subject && placeKindOnly(subject, region);
+  const hasCoords = !!(near?.lat && near?.lng);
+  // A place we cannot locate, whose name is one word once its city is taken
+  // away: no file name can prove which "Cherry", "Magnolia" or "The Dome" it
+  // shows. Paris's Cherry wore a cherry tree in blossom and Shanghai's The Dome
+  // another hotel's Sky Dome Bar (owner photo review 2026-11-13). Two own
+  // words, or coordinates, or no Commons photo.
+  if (subject && !hasCoords && !phraseOnly && ownNameWords(subject, region).length < 2) return [];
+  const ringKm = samePlaceKm(subject, region);
   // Ask for far more than we need. The filters below are aggressive on purpose,
   // and a Cloud Gate search that returned 8 rows kept only 1 of them — a
   // carousel needs several. Over-fetching costs one request either way.
@@ -314,7 +378,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
   // name proves nothing and neither does looking at the picture. A search for
   // the sculpture came back twelve-for-twelve Taiwanese; with nearcoord, zero.
   const geoQuery = near?.lat && near?.lng
-    ? `${query} nearcoord:${SAME_PLACE_KM}km,${near.lat},${near.lng}`
+    ? `${query} nearcoord:${ringKm}km,${near.lat},${near.lng}`
     : query;
 
   const ask = async (search) => {
@@ -341,7 +405,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
     // dropping them would leave nothing to choose from.
     .filter((c) => {
       if (!near?.lat || !near?.lng || c.lat == null) return true;
-      return haversine(near.lat, near.lng, c.lat, c.lng) <= SAME_PLACE_KM;
+      return haversine(near.lat, near.lng, c.lat, c.lng) <= ringKm;
     })
     .filter(usableFile)
     .filter((c) => namesSubjectNotVantage(c.title, subject))
@@ -713,9 +777,20 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   // anchors ('Comiket_Special_1978.jpg' passed), and a lead image can be a
   // century-old engraving as easily as a search hit can.
   if (/(18|19)\d{2}/.test(String(page.pageimage).replace(/[_-]+/g, ' '))) return null;
-  // The article is about a place somewhere else entirely.
+  // The article is about a place somewhere else entirely — or about no place
+  // at all. An article with no coordinates used to skip this test, and such
+  // an article is a company, a chain, a plant or a language: "Magnolia" (a
+  // restaurant in Tskaltubo) took the flower from the botany article, "Bartola"
+  // a theatre organ from the Bartola Musical Instrument Company, "Black Sheep
+  // Coffee" in Belfast the chain's Bishopsgate shop, "TOPTEN" in Gangneung a
+  // branch in Ilsan (all live until the owner photo review of 2026-11-13).
+  // A place has coordinates; where ours are unknown too, nothing here can tie
+  // the article to our place, so it is not used.
   const co = page.coordinates?.[0];
-  if (near?.lat && near?.lng && co && haversine(near.lat, near.lng, co.lat, co.lon) > SAME_PLACE_KM) return null;
+  if (!co || !near?.lat || !near?.lng) return null;
+  // The ring follows the kind of place: "WA Shipwrecks Museum" in Fremantle
+  // redirects to its parent, the Western Australian Museum, 15 km off in Perth.
+  if (haversine(near.lat, near.lng, co.lat, co.lon) > samePlaceKm(name, region)) return null;
   // The same two file-name tests every other candidate goes through: a lead
   // image can be the landmark's construction site, or the view FROM it.
   const leadName = String(page.pageimage).replace(/\.(jpe?g|png)$/i, '').replace(/_/g, ' ');
@@ -743,7 +818,7 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   const w = servedDim(ii.thumbwidth, ii.width); // see commonsBest: never wider than the original
   const h = servedDim(ii.thumbheight, ii.height);
   if (w && w < minWidth) return null;
-  if (w && h && w < h * 0.95) return null; // heroes need a landscape banner
+  if (!bannerShaped(w, h)) return null; // heroes need a landscape banner, not a portrait or a strip
   const url = cleanCommonsUrl(ii.thumburl || ii.url);
   if (!url || isUsedImage(used, url)) return null;
   const artist = shortArtist(stripHtml(em.Artist?.value)) || 'Wikimedia Commons contributor';
@@ -811,6 +886,20 @@ export async function commonsBest(query, opts = {}) {
   return (await commonsRanked(query, opts))[0] ?? null;
 }
 
+// Widest photo a hero banner can wear. The banner shows 16:9 (4:3 on phones),
+// so a 9:1 skyline strip is cut to its middle fifth and blown up, blurry
+// (owner review 2026-11-13: Barcelona, Paris, London, Mexico City, Denpasar
+// strips, a 1281×105 F1 start line, four Wikivoyage 7:1 banners). The bar
+// sits above the 3.1–3.2 performer and stadium shots already on the site.
+export const BANNER_MAX_ASPECT = 3.3;
+
+/** Can a w×h photo be a hero banner? Unknown size passes (judged later). */
+export function bannerShaped(w, h, { allowPortrait = false } = {}) {
+  if (!w || !h) return true;
+  if (w > h * BANNER_MAX_ASPECT) return false;
+  return allowPortrait ? h <= w * 1.8 : w >= h * 0.95;
+}
+
 /**
  * Every candidate commonsBest would accept, best first. A caller with its own
  * later test (a vision check, a rejection record) walks down this list; asking
@@ -856,7 +945,8 @@ export async function commonsRanked(query, { mustInclude = [], used, allowPortra
       // aspect gate (still rejecting extreme 1:>1.8 slivers) and lets a real
       // portrait through instead of a wrong-topic city fallback. Width is NOT
       // relaxed: the caller's 1200 floor applies (600 caused the 08-28 churn).
-      const landscape = !c.w || !c.h || (allowPortrait ? c.h <= c.w * 1.8 : c.w >= c.h * 0.95);
+      // Skyline strips are refused at the other end (bannerShaped).
+      const landscape = bannerShaped(c.w, c.h, { allowPortrait });
       const bigEnough = !c.w || c.w >= minWidth;
       // A 19xx/18xx year in the FILE TITLE marks an archival photo. The event
       // path picked "Comiket_Special_1978.jpg" — genuinely Comiket, correctly

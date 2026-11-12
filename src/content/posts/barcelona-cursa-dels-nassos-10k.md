@@ -10,10 +10,10 @@ eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Skyline_Barcelona%2C_December_2025.jpg/3840px-Skyline_Barcelona%2C_December_2025.jpg'
-  credit: 'Photo: Hstoops / Wikimedia Commons (CC0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barcelona_Skyline.jpg/3840px-Barcelona_Skyline.jpg'
+  credit: 'Photo: SGDWN / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Skyline_Barcelona,_December_2025.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Barcelona_Skyline.jpg'
 gallery: []
 tags:
   - barcelona

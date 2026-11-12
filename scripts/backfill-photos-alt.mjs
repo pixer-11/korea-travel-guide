@@ -544,10 +544,13 @@ for (const f of files) {
     // match, geograph banned). Famous landmarks (Sagrada Família, Wat Arun…)
     // recover from here without any FSQ credits; vision still has the final say.
     try {
+      // place: without the coordinates the resolver cannot hold a photo to the
+      // spot, and this rescue ran without them — it is where the Po Lam Tim Ho
+      // Wan and the Taipa Kun Iam temple came in (owner photo review 11-13).
       const wiki = await resolveHero({
         namedVenue: venueName, region: data.region,
         topic: (data.tags && data.tags[1]) || data.category,
-        country: data.country, used, strict: true,
+        country: data.country, used, strict: true, place: data.place,
       });
       // resolveHero marks its pick in `used` before returning, and the candidate
       // loop below skips anything already in `used` — so this rescue was skipped

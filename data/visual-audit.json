@@ -44,9 +44,9 @@
  },
  "abu-dhabi-abu-dhabi-grand-prix-f1-season-finale\u0001https://upload.wikimedia.org/wikipedia/commons/f/f5/2020_17_ABU_Start.png": {
   "slug": "abu-dhabi-abu-dhabi-grand-prix-f1-season-finale",
-  "verdict": "MATCH",
-  "reason": "event publish gate: F1 cars grid lineup, representative of race event",
-  "at": "2026-10-21T23:46:51.228Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.539Z"
  },
  "abu-dhabi-adnoc-abu-dhabi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Al_Marfa_Beach_Adnoc_pump_3_-_panoramio.jpg": {
   "slug": "abu-dhabi-adnoc-abu-dhabi-marathon",
@@ -1939,11 +1939,17 @@
   "reason": "Authentic Ayutthaya temple with Buddha statues",
   "at": "2026-07-25T02:40:40.179Z"
  },
- "ayutthaya-ayutthaya-royal-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg/3840px-Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg": {
+ "ayutthaya-ayutthaya-royal-palace\u0001https://fastly.4sqi.net/img/general/original/68267039_NXX5knOymGHapMUSWUDBB6wZ-Wy8C3zYAGCYcHIpxXs.jpg": {
   "slug": "ayutthaya-ayutthaya-royal-palace",
   "verdict": "MATCH",
-  "reason": "publish gate: Aerial view of palace-like buildings, grounds, and water",
-  "at": "2026-09-30T07:48:06.517Z"
+  "reason": "patrol replace: Ancient brick temple ruins in Ayutthaya archaeological park",
+  "at": "2026-11-12T16:40:28.778Z"
+ },
+ "ayutthaya-ayutthaya-royal-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg/3840px-Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg": {
+  "slug": "ayutthaya-ayutthaya-royal-palace",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Bang Pa-in Summer Palace, 20 km away, not the ruined Ayutthaya royal palace (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:43:29.963Z"
  },
  "ayutthaya-bueng-phra-ram-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bueng_Phra_Ram.jpg/3840px-Bueng_Phra_Ram.jpg": {
   "slug": "ayutthaya-bueng-phra-ram-park",
@@ -2346,11 +2352,17 @@
   "reason": "Mountain landscape, not an amusement park",
   "at": "2026-07-25T02:40:49.374Z"
  },
- "bandung-floating-market-lembang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg/3840px-Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg": {
+ "bandung-floating-market-lembang\u0001https://fastly.4sqi.net/img/general/original/8477716_KoM_ksMHHhxZJODcQgftwRCq3i9oQT-9grvabi-MbcI.jpg": {
   "slug": "bandung-floating-market-lembang",
   "verdict": "MATCH",
-  "reason": "publish gate: Panoramic view of Floating Market Lembang with signage and lake",
-  "at": "2026-09-22T07:45:27.222Z"
+  "reason": "patrol replace: Floating market boat, themed signage, waterside setting visi",
+  "at": "2026-11-12T16:40:43.283Z"
+ },
+ "bandung-floating-market-lembang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg/3840px-Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg": {
+  "slug": "bandung-floating-market-lembang",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.361Z"
  },
  "bandung-gedung-sate\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gedung_Sate_Oktober_2024_-_Rahmatdenas.jpg/1920px-Gedung_Sate_Oktober_2024_-_Rahmatdenas.jpg": {
   "slug": "bandung-gedung-sate",
@@ -3109,6 +3121,12 @@
   "reason": "patrol reject: Close-up portrait of man, unrelated to festival event",
   "at": "2026-10-15T22:36:14.754Z"
  },
+ "bangkok-loy-krathong-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bangkok_Night_Wikimedia_Commons.jpg/3840px-Bangkok_Night_Wikimedia_Commons.jpg": {
+  "slug": "bangkok-loy-krathong-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.870Z"
+ },
  "bangkok-loy-krathong-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jeb_Loy_Nichols_%26_Clovis_Phillips_04.jpg/3840px-Jeb_Loy_Nichols_%26_Clovis_Phillips_04.jpg": {
   "slug": "bangkok-loy-krathong-festival",
   "verdict": "MISMATCH",
@@ -3477,13 +3495,17 @@
   "reason": "Generic Bangkok sign, not the venue itself",
   "at": "2026-07-25T02:41:10.959Z"
  },
+ "bangkok-view-rooftop-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bangkok_rooftop_tennis_court_2017-11_MB.jpg/3840px-Bangkok_rooftop_tennis_court_2017-11_MB.jpg": {
+  "slug": "bangkok-view-rooftop-bangkok",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of a rooftop tennis court, not this bar (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.940Z"
+ },
  "bangkok-view-rooftop-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg/1920px-View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg": {
   "slug": "bangkok-view-rooftop-bangkok",
-  "verdict": "MATCH",
-  "reason": "High-rise rooftop bar with Bangkok skyline view",
-  "reasonKo": "방콕 스카이라인이 보이는 고층 루프탑",
-  "at": "2026-08-05T14:59:28.201Z",
-  "migratedFrom": "width-normalised URL"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a view from an unnamed rooftop (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:46.857Z"
  },
  "bangkok-view-rooftop-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg/3840px-View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg": {
   "slug": "bangkok-view-rooftop-bangkok",
@@ -3524,6 +3546,12 @@
   "reasonKo": "사진이 320px로 너무 작음",
   "at": "2026-08-29T22:08:31.172Z"
  },
+ "banlung-virachey-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Veal_Thom_Grasslands.jpg": {
+  "slug": "banlung-virachey-national-park",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Veal Thom grasslands inside Virachey National Park — Representative natural park landscape with rocks, grassland, mountains",
+  "at": "2026-11-12T17:20:23.566Z"
+ },
  "banlung-virachey-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/bb/Virachey_Park_Banner.jpg": {
   "slug": "banlung-virachey-national-park",
   "verdict": "MATCH",
@@ -3532,9 +3560,9 @@
  },
  "banlung-virachey-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Virachey_Park_Banner.jpg/1920px-Virachey_Park_Banner.jpg": {
   "slug": "banlung-virachey-national-park",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Rocky landscape consistent with Virachey National Park",
-  "at": "2026-08-31T23:21:42.690Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.398Z"
  },
  "barcelona-bar-super\u0001https://fastly.4sqi.net/img/general/original/566395797_Wipy2z8mYJd8ikuleU6UDb6Wh53MbyyXhzpsIktNe-M.jpg": {
   "slug": "barcelona-bar-super",
@@ -3645,6 +3673,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"cursa\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-12T08:03:43.683Z"
+ },
+ "barcelona-cursa-dels-nassos-10k\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Skyline_Barcelona%2C_December_2025.jpg/3840px-Skyline_Barcelona%2C_December_2025.jpg": {
+  "slug": "barcelona-cursa-dels-nassos-10k",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.606Z"
  },
  "barcelona-eluveitie-concert\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Eluveitie-Live-Oslo_2012.JPG": {
   "slug": "barcelona-eluveitie-concert",
@@ -3773,12 +3807,23 @@
   "reason": "patrol reject: Mineral specimen photo, not a restaurant venue",
   "at": "2026-08-28T03:40:56.813Z"
  },
- "barcelona-mirador-torre-glories\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg/3840px-Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg": {
+ "barcelona-mirador-torre-glories\u0001https://fastly.4sqi.net/img/general/original/495743775_rvyWIXTsZrZkoUVDRailOKDgDZwKhjxD059_mQYJEm4.jpg": {
   "slug": "barcelona-mirador-torre-glories",
   "verdict": "MATCH",
-  "reason": "Barcelona cityscape view from elevated vantage point",
-  "reasonKo": "높은 곳에서 본 바르셀로나 도시 전망",
-  "at": "2026-08-07T09:19:16.206Z"
+  "reason": "patrol replace: Torre Glòries cylindrical tower, Barcelona street setting.",
+  "at": "2026-11-12T16:41:20.807Z"
+ },
+ "barcelona-mirador-torre-glories\u0001https://fastly.4sqi.net/img/general/original/50742929_Xut2TwOCJfj0cBYZHpnlb9lNru3UrUH1j_YBf4tIRNM.jpg": {
+  "slug": "barcelona-mirador-torre-glories",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Sagrada Família, not Torre Glòries viewpoint",
+  "at": "2026-11-12T16:41:17.229Z"
+ },
+ "barcelona-mirador-torre-glories\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg/3840px-Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg": {
+  "slug": "barcelona-mirador-torre-glories",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a viewpoint on Montjuic, not the tower (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:45.668Z"
  },
  "barcelona-museu-d-art-contemporani-de-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/MACBA%2C_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_%282%29.jpg": {
   "slug": "barcelona-museu-d-art-contemporani-de-barcelona",
@@ -4121,11 +4166,23 @@
   "reason": "publish gate: Khmer temple tower matches Banan Temple appearance",
   "at": "2026-08-26T09:30:36.226Z"
  },
- "batumi-alphabetic-tower\u0001https://upload.wikimedia.org/wikipedia/commons/4/42/Batumi2025-alphabetic-tower.jpg": {
+ "batumi-alphabetic-tower\u0001https://fastly.4sqi.net/img/general/original/14526525_VVl8Kseu0wQoe9KAYFONW7QrAoaw2ZlR7P_0DjQyVu4.jpg": {
   "slug": "batumi-alphabetic-tower",
   "verdict": "MATCH",
-  "reason": "publish gate: Shows Alphabetic Tower visible in Batumi beach scene",
-  "at": "2026-10-19T15:41:58.055Z"
+  "reason": "patrol replace: Iconic Alphabetic Tower in Batumi, Georgia",
+  "at": "2026-11-12T17:08:12.559Z"
+ },
+ "batumi-alphabetic-tower\u0001https://fastly.4sqi.net/img/general/original/41921951_PSoYH8xQOXlFTg8sPBtOR_LHe8iXEbcGbNEWAalND2s.jpg": {
+  "slug": "batumi-alphabetic-tower",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Restaurant food/wine scene, unrelated to Alphabetic Tower",
+  "at": "2026-11-12T17:08:08.743Z"
+ },
+ "batumi-alphabetic-tower\u0001https://upload.wikimedia.org/wikipedia/commons/4/42/Batumi2025-alphabetic-tower.jpg": {
+  "slug": "batumi-alphabetic-tower",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to read as a banner: night shot or shot into the sun (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:07:38.217Z"
  },
  "batumi-batumi-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Batumi_Botanical_Garden_-_panoramio.jpg/3840px-Batumi_Botanical_Garden_-_panoramio.jpg": {
   "slug": "batumi-batumi-botanical-garden",
@@ -4147,9 +4204,9 @@
  },
  "batumi-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Batumi_Neptun_Fountain_and_Dramatic_Theatre.jpg/3840px-Batumi_Neptun_Fountain_and_Dramatic_Theatre.jpg": {
   "slug": "batumi-fountain",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows fountain with statue, representative hero shot",
-  "at": "2026-10-20T14:47:21.851Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Neptune fountain, 4.7 km from this one (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:45.103Z"
  },
  "batumi-gonio-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Castle_of_Gonio2.jpg/1920px-Castle_of_Gonio2.jpg": {
   "slug": "batumi-gonio-fortress",
@@ -4407,11 +4464,17 @@
   "reason": "hand-reviewed: filename shares only \"ironman\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-31T08:07:44.204Z"
  },
+ "belfast-black-sheep-coffee\u0001https://fastly.4sqi.net/img/general/original/126646_XPetd-ClbIR1zNVm8Ud5L-n_Fuq0Z_uPVMqAlXilQDU.jpg": {
+  "slug": "belfast-black-sheep-coffee",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Neon sign reads 'somebody told you about' - wrong venue",
+  "at": "2026-11-12T16:41:48.435Z"
+ },
  "belfast-black-sheep-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg": {
   "slug": "belfast-black-sheep-coffee",
-  "verdict": "MATCH",
-  "reason": "publish gate: Storefront exterior/interior of Black Sheep Coffee shop",
-  "at": "2026-10-01T14:59:01.499Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Bishopsgate branch in London (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:48.565Z"
  },
  "belfast-cave-hill-country-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/PXL_20231217_111500863_Cave_Hill_Country_Park-_Belfast_Castle_%26_Cave_Hill_Trail-_10-Cave_Hill_Cave.jpg/3840px-PXL_20231217_111500863_Cave_Hill_Country_Park-_Belfast_Castle_%26_Cave_Hill_Trail-_10-Cave_Hill_Cave.jpg": {
   "slug": "belfast-cave-hill-country-park",
@@ -4478,9 +4541,9 @@
  },
  "bengaluru-bangalore-market\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Capsicum_in_a_market%2C_Bangalore_%282026%29_01.jpg": {
   "slug": "bengaluru-bangalore-market",
-  "verdict": "MATCH",
-  "reason": "publish gate: Vegetable market stall, plausible produce section in Bangalore market",
-  "at": "2026-09-23T07:47:20.010Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a capsicum close-up at an unnamed market (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:43.076Z"
  },
  "bengaluru-bengaluru-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Old_Bangalore_Fort%2C_Inside_View.JPG/1920px-Old_Bangalore_Fort%2C_Inside_View.JPG": {
   "slug": "bengaluru-bengaluru-fort",
@@ -5298,11 +5361,17 @@
   "reason": "publish gate: Group in costume at museum entrance with signage",
   "at": "2026-10-02T14:30:14.420Z"
  },
- "bremen-burgerpark-bremen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/B%C3%BCrgerpark_Bremen_Panorama.JPG/3840px-B%C3%BCrgerpark_Bremen_Panorama.JPG": {
+ "bremen-burgerpark-bremen\u0001https://fastly.4sqi.net/img/general/original/46228094_gnYWK2O3X9fceQdN61Cvu8a6-aK9y9yOwP1At96Vyew.jpg": {
   "slug": "bremen-burgerpark-bremen",
   "verdict": "MATCH",
-  "reason": "publish gate: Park landscape with grass and trees, plausible park view",
-  "at": "2026-10-19T08:14:01.950Z"
+  "reason": "patrol replace: Bürgerpark statue and lake, Bremen setting",
+  "at": "2026-11-12T16:42:19.888Z"
+ },
+ "bremen-burgerpark-bremen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/B%C3%BCrgerpark_Bremen_Panorama.JPG/3840px-B%C3%BCrgerpark_Bremen_Panorama.JPG": {
+  "slug": "bremen-burgerpark-bremen",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.430Z"
  },
  "bremen-kunsthalle-bremen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kunsthalle-HB_20110824_img-01.jpg/1920px-Kunsthalle-HB_20110824_img-01.jpg": {
   "slug": "bremen-kunsthalle-bremen",
@@ -6216,11 +6285,9 @@
  },
  "busan-museum-1\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/1920px-%EB%B4%84_Busan_Museum_of_Movies.jpg": {
   "slug": "busan-museum-1",
-  "verdict": "MATCH",
-  "reason": "Busan Museum of Movies exterior, signage clearly visible",
-  "reasonKo": "부산영상미술관 외관, 간판 명확함",
-  "at": "2026-08-05T14:59:32.173Z",
-  "migratedFrom": "width-normalised URL"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Busan Museum of Movies, another museum (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:41.323Z"
  },
  "busan-museum-1\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/3840px-%EB%B4%84_Busan_Museum_of_Movies.jpg": {
   "slug": "busan-museum-1",
@@ -6228,6 +6295,12 @@
   "reason": "Busan Museum of Movies exterior, signage clearly visible",
   "reasonKo": "부산영상미술관 외관, 간판 명확함",
   "at": "2026-08-05T14:59:32.173Z"
+ },
+ "busan-museum-1\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Busan_Museum_of_movie_20200523_003.jpg/3840px-Busan_Museum_of_movie_20200523_003.jpg": {
+  "slug": "busan-museum-1",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: again the Busan Museum of Movies, another museum (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:07:28.861Z"
  },
  "busan-namaste-haeundae\u0001https://fastly.4sqi.net/img/general/original/77160408_82Z2wfWi0KE4HbreRe_k72CzfA6ABRTtcYyKPPj44f4.jpg": {
   "slug": "busan-namaste-haeundae",
@@ -6725,9 +6798,21 @@
  },
  "cannes-vue-depuis-le-suquet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vue_de_Cannes_depuis_le_Suquet.JPG/1920px-Vue_de_Cannes_depuis_le_Suquet.JPG": {
   "slug": "cannes-vue-depuis-le-suquet",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.466Z"
+ },
+ "cannes-vue-depuis-le-suquet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG/3840px-Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG": {
+  "slug": "cannes-vue-depuis-le-suquet",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows marina/town view, not view from Le Suquet itself",
+  "at": "2026-11-12T16:42:38.912Z"
+ },
+ "cannes-vue-depuis-le-suquet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cannes_from_Suquet_Tower_03.jpg/3840px-Cannes_from_Suquet_Tower_03.jpg": {
+  "slug": "cannes-vue-depuis-le-suquet",
   "verdict": "MATCH",
-  "reason": "patrol re-check: Panoramic view from Le Suquet viewpoint over Cannes harbor",
-  "at": "2026-08-16T19:53:26.921Z"
+  "reason": "hand-picked: the view over Cannes from Le Suquet — Panoramic view of Cannes from Le Suquet viewpoint",
+  "at": "2026-11-12T17:15:13.528Z"
  },
  "cappadocia-babayan-evi\u0001https://fastly.4sqi.net/img/general/original/59219805_GJ1RFSkqm70XOoIf5P8eWKgvupopzPVmbHx2FJ0_EFE.jpg": {
   "slug": "cappadocia-babayan-evi",
@@ -6748,11 +6833,17 @@
   "reason": "publish gate: Representative underground tunnel/rooms view of Kaymakli",
   "at": "2026-09-30T07:40:07.018Z"
  },
- "cappadocia-pigeon-valley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/1920px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg": {
+ "cappadocia-pigeon-valley\u0001https://fastly.4sqi.net/img/general/original/26593171_RtWCxU92bRMVlDKmkrIBoBL75mRCnQZDtFxB_5AtC7Q.jpg": {
   "slug": "cappadocia-pigeon-valley",
   "verdict": "MATCH",
-  "reason": "patrol re-check: Cappadocia hot air balloons over rock-cut village, representative scene",
-  "at": "2026-08-16T19:53:32.785Z"
+  "reason": "patrol replace: Cappadocia landscape with distinctive rock formations",
+  "at": "2026-11-12T16:42:57.252Z"
+ },
+ "cappadocia-pigeon-valley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/1920px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg": {
+  "slug": "cappadocia-pigeon-valley",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Ortahisar Castle from a balloon, not Pigeon Valley (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:43.947Z"
  },
  "cappadocia-rose-valley\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Rose_Valley%2C_Cappadocia_-_K%C4%B1z%C4%B1l%C3%A7ukur_Vadisi%2C_Kapadokya_08.jpg": {
   "slug": "cappadocia-rose-valley",
@@ -6942,11 +7033,17 @@
   "reason": "publish gate: Nightlife street scene matches Lan Kwai Fong bar district",
   "at": "2026-09-30T07:41:55.891Z"
  },
- "central-mak-s-noodle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg/3840px-Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg": {
+ "central-mak-s-noodle\u0001https://fastly.4sqi.net/img/general/original/15001013_oL7n_aveBNj1vOwsebGb9cGTmBuSvbJVDbkP532-__U.jpg": {
   "slug": "central-mak-s-noodle",
   "verdict": "MATCH",
-  "reason": "patrol re-check: Storefront of Mak's Noodle in Hong Kong, correct venue",
-  "at": "2026-08-16T19:53:53.964Z"
+  "reason": "patrol replace: Noodle soup dish with menu visible, Hong Kong restaurant set",
+  "at": "2026-11-12T16:43:16.615Z"
+ },
+ "central-mak-s-noodle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg/3840px-Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg": {
+  "slug": "central-mak-s-noodle",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Causeway Bay branch (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:47.141Z"
  },
  "central-man-mo-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg/3840px-20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg": {
   "slug": "central-man-mo-temple",
@@ -7332,9 +7429,9 @@
  },
  "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg": {
   "slug": "chiang-mai-garden-to-table-chiangmai",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Genuine restaurant interior with seating and menu artwork",
-  "at": "2026-08-16T19:54:49.705Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Chiangmai Walking Street (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:59.740Z"
  },
  "chiang-mai-garden-to-table-chiangmai\u0001https://images.unsplash.com/photo-1646850149335-f15d028036b3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8Q2hpYW5nJTIwTWFpJTIwVGhhaWxhbmQlMjBsb2NhbCUyMHJlc3RhdXJhbnR8ZW58MHwwfHx8MTc4NDk5MzQ5Nnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "chiang-mai-garden-to-table-chiangmai",
@@ -7598,9 +7695,9 @@
  },
  "chiayi-taiping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%E6%96%97%E5%85%AD%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97_Douliu_Taiping_Old_Street_-_panoramio.jpg/3840px-%E6%96%97%E5%85%AD%E5%A4%AA%E5%B9%B3%E8%80%81%E8%A1%97_Douliu_Taiping_Old_Street_-_panoramio.jpg": {
   "slug": "chiayi-taiping-old-street",
-  "verdict": "MATCH",
-  "reason": "publish gate: Representative street view of old street with signage and architecture",
-  "at": "2026-11-05T07:49:41.473Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Douliu's Taiping Old Street in Yunlin, not the one in Chiayi (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:39.846Z"
  },
  "chiayi-wenhua-road-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/%E5%98%89%E7%BE%A9%E6%96%87%E5%8C%96%E8%B7%AF%E5%A4%9C%E5%B8%82.jpg": {
   "slug": "chiayi-wenhua-road-night-market",
@@ -7937,11 +8034,23 @@
   "reason": "publish gate: Shows church exterior with bell towers, representative hero shot",
   "at": "2026-10-26T15:33:56.501Z"
  },
- "chivay-plaza-de-armas-de-chivay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plaza_de_Armas_de_Chivay.jpg/3840px-Plaza_de_Armas_de_Chivay.jpg": {
+ "chivay-plaza-de-armas-de-chivay\u0001https://fastly.4sqi.net/img/general/original/56195898_lowYc5WKqC1lal_EXJBK08DB5vagIv3glZHNLf0xo7E.jpg": {
+  "slug": "chivay-plaza-de-armas-de-chivay",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a retaining wall and statue, not plaza",
+  "at": "2026-11-12T16:43:42.478Z"
+ },
+ "chivay-plaza-de-armas-de-chivay\u0001https://fastly.4sqi.net/img/general/original/579162657_RwMUsXaWAnDQWJb-L1JLePxrUcGwBGlamybyT1JVxo4.jpg": {
   "slug": "chivay-plaza-de-armas-de-chivay",
   "verdict": "MATCH",
-  "reason": "publish gate: Panoramic view of Plaza de Armas with church and mountains",
-  "at": "2026-10-22T14:51:04.211Z"
+  "reason": "patrol replace: Plaza de Armas Chivay with distinctive red altar structure",
+  "at": "2026-11-12T16:43:45.880Z"
+ },
+ "chivay-plaza-de-armas-de-chivay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Plaza_de_Armas_de_Chivay.jpg/3840px-Plaza_de_Armas_de_Chivay.jpg": {
+  "slug": "chivay-plaza-de-armas-de-chivay",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.497Z"
  },
  "chonburi-bangsaen42-chonburi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bang_Saen_03.JPG/3840px-Bang_Saen_03.JPG": {
   "slug": "chonburi-bangsaen42-chonburi-marathon",
@@ -8083,10 +8192,9 @@
  },
  "chuncheon-1-5-dakgalbi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg": {
   "slug": "chuncheon-1-5-dakgalbi",
-  "verdict": "MATCH",
-  "reason": "Dakgalbi dish in cooking pan, authentic presentation",
-  "reasonKo": "닭갈비 요리 팬, 진정성 있는 모습",
-  "at": "2026-08-03T12:47:03.318Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a stock picture of the dish, not this restaurant (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:48.852Z"
  },
  "chuncheon-chuncheon-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Chuncheon_National_Museum.jpg": {
   "slug": "chuncheon-chuncheon-national-museum",
@@ -8196,9 +8304,9 @@
  },
  "clarke-quay-home-dawn-cafe-clarke-quay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2016_-_Singapore_Clarke_Quay_after_Sunset.jpg/1920px-2016_-_Singapore_Clarke_Quay_after_Sunset.jpg": {
   "slug": "clarke-quay-home-dawn-cafe-clarke-quay",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Clarke Quay riverside dining strip at night, plausible venue setting",
-  "at": "2026-08-16T19:56:14.550Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a view of Clarke Quay, not the cafe (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:49.141Z"
  },
  "clarke-quay-malayan-settlement\u0001https://fastly.4sqi.net/img/general/original/138369165_ZCHtpoTrafu6S9uPRWHWCyOmcOXO-aadwQidnX7Z5lw.jpg": {
   "slug": "clarke-quay-malayan-settlement",
@@ -8260,11 +8368,17 @@
   "reason": "publish gate: Colmar square with fountain, half-timbered houses, cafe",
   "at": "2026-09-25T07:47:05.562Z"
  },
- "colmar-vieille-ville-de-colmar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Colmar_vieille_ville.JPG/3840px-Colmar_vieille_ville.JPG": {
+ "colmar-vieille-ville-de-colmar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Little_Venice_in_Colmar_01.jpg/3840px-Little_Venice_in_Colmar_01.jpg": {
   "slug": "colmar-vieille-ville-de-colmar",
   "verdict": "MATCH",
-  "reason": "publish gate: Nighttime canal scene plausible for Colmar's old town",
-  "at": "2026-09-10T07:41:01.680Z"
+  "reason": "hand-picked: Colmar old town, the Little Venice quarter — Classic Colmar canal view with half-timbered houses",
+  "at": "2026-11-12T17:15:07.856Z"
+ },
+ "colmar-vieille-ville-de-colmar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Colmar_vieille_ville.JPG/3840px-Colmar_vieille_ville.JPG": {
+  "slug": "colmar-vieille-ville-de-colmar",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to read as a banner: night shot or shot into the sun (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:07:38.170Z"
  },
  "coloane-a-ma-cultural-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg/3840px-Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg": {
   "slug": "coloane-a-ma-cultural-village",
@@ -8481,9 +8595,21 @@
  },
  "cusco-mercado-artesanal-de-cusco-peru\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Jewelry_display_at_the_Mercado_Artesanal_de_Pisac_in_Cusco%2C_Peru.jpg": {
   "slug": "cusco-mercado-artesanal-de-cusco-peru",
-  "verdict": "MATCH",
-  "reason": "publish gate: Jewelry market stall display, plausible Cusco artisan market",
-  "at": "2026-10-24T07:56:57.204Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the craft market in Pisac, 18 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:40.139Z"
+ },
+ "cusco-mercado-artesanal-de-cusco-peru\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Andean_ceramics_at_the_Mercado_Artesanal_de_Pisac_in_Cusco%2C_Peru.jpg/3840px-Andean_ceramics_at_the_Mercado_Artesanal_de_Pisac_in_Cusco%2C_Peru.jpg": {
+  "slug": "cusco-mercado-artesanal-de-cusco-peru",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of the craft market in Pisac, 18 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.712Z"
+ },
+ "cusco-mercado-artesanal-de-cusco-peru\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Souvenirs_at_the_Mercado_Artesanal_de_Pisac_in_Cusco%2C_Peru.jpg/3840px-Souvenirs_at_the_Mercado_Artesanal_de_Pisac_in_Cusco%2C_Peru.jpg": {
+  "slug": "cusco-mercado-artesanal-de-cusco-peru",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: again the craft market in Pisac, 18 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:07:28.560Z"
  },
  "cusco-mercado-central-de-san-pedro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fruit_juices_heaven_at_the_Mercado_Central_de_San_Pedro.jpg/3840px-Fruit_juices_heaven_at_the_Mercado_Central_de_San_Pedro.jpg": {
   "slug": "cusco-mercado-central-de-san-pedro",
@@ -8627,9 +8753,15 @@
  },
  "da-nang-ba-na-hills\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beer_Plaza_Bestival_food_beer_festival_Sun_World_Ba_Na_Hills_Da_Nang_Vietnam.jpg/1920px-Beer_Plaza_Bestival_food_beer_festival_Sun_World_Ba_Na_Hills_Da_Nang_Vietnam.jpg": {
   "slug": "da-nang-ba-na-hills",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a posed group at a beer festival is the subject, not Ba Na Hills (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:15:02.469Z"
+ },
+ "da-nang-ba-na-hills\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg/3840px-Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg": {
+  "slug": "da-nang-ba-na-hills",
   "verdict": "MATCH",
-  "reason": "width upgrade: Shows Ba Na Hills area with statue, dome, and visitors",
-  "at": "2026-08-19T20:10:42.259Z"
+  "reason": "hand-picked: the Golden Bridge at Ba Na Hills — Iconic Golden Bridge with giant hands at Ba Na Hills",
+  "at": "2026-11-12T17:15:36.373Z"
  },
  "da-nang-con-market\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Con_Market_across_intersection.JPG": {
   "slug": "da-nang-con-market",
@@ -8811,12 +8943,17 @@
   "reasonKo": "담양의 상징적인 대나무숲",
   "at": "2026-08-03T12:47:20.283Z"
  },
- "damyang-dodamsambong-peaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg/3840px-Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg": {
+ "damyang-dodamsambong-peaks\u0001https://fastly.4sqi.net/img/general/original/2016622_FhP_Gm6kmP4iycir7uGV7bx992I77PsmGgELeXTpP7k.jpg": {
   "slug": "damyang-dodamsambong-peaks",
   "verdict": "MATCH",
-  "reason": "Dodamsambong peaks in Damyang lake, correct location",
-  "reasonKo": "담양호의 도담삼봉 정확한 장소",
-  "at": "2026-08-10T14:01:37.668Z"
+  "reason": "patrol replace: Rocky peaks in river match Dodamsambong description",
+  "at": "2026-11-12T16:44:25.213Z"
+ },
+ "damyang-dodamsambong-peaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg/3840px-Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg": {
+  "slug": "damyang-dodamsambong-peaks",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.530Z"
  },
  "damyang-juknokwon\u0001https://fastly.4sqi.net/img/general/original/122525679_ZPZ0Kl-IHl4EmsaYnQdCXQUUkLpUe08ngDJn5qNL8ks.jpg": {
   "slug": "damyang-juknokwon",
@@ -8971,6 +9108,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Egyptian temple ruins with reliefs, representative of Dendera site",
   "at": "2026-11-09T07:45:45.503Z"
+ },
+ "denpasar-denpasar-festival-denfest\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Al-Furqon_mosque_interior_Denpasar.jpg": {
+  "slug": "denpasar-denpasar-festival-denfest",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: empty mosque prayer hall interior, not a city view, for a Balinese arts festival (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:20:43.872Z"
+ },
+ "denpasar-denpasar-festival-denfest\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Catur_Muka_Statue.jpg": {
+  "slug": "denpasar-denpasar-festival-denfest",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the Catur Muka crossroads where Denfest is held — Iconic statue landmark in Denpasar roundabout, representative view",
+  "at": "2026-11-12T16:26:16.164Z"
+ },
+ "denpasar-denpasar-festival-denfest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Denpasar_dari_Duta_Plaza_-_panoramio.jpg/3840px-Denpasar_dari_Duta_Plaza_-_panoramio.jpg": {
+  "slug": "denpasar-denpasar-festival-denfest",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.904Z"
+ },
+ "denpasar-denpasar-festival-denfest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Masjid_Baitul_Makmur%2C_Denpasar.jpg/3840px-Masjid_Baitul_Makmur%2C_Denpasar.jpg": {
+  "slug": "denpasar-denpasar-festival-denfest",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: mosque rooftop, off-key for a Balinese arts festival; the festival's own crossroads statue chosen instead (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:26:08.739Z"
  },
  "denpasar-sanur-village-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Balinese_Jukung_Boat.JPG/3840px-Balinese_Jukung_Boat.JPG": {
   "slug": "denpasar-sanur-village-festival",
@@ -9703,9 +9864,9 @@
  },
  "fergana-al-farg-oniy-haykali\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ahmad_Al-Farg%27oniy_haykali.jpg/3840px-Ahmad_Al-Farg%27oniy_haykali.jpg": {
   "slug": "fergana-al-farg-oniy-haykali",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Monument to Al-Fargani in Fergana, Uzbekistan",
-  "at": "2026-08-20T20:00:39.236Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the statue in Fergana city park; this guide is the Quva statue 28 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:38.941Z"
  },
  "fethiye-ancient-city-of-telmessos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg/3840px-Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg": {
   "slug": "fethiye-ancient-city-of-telmessos",
@@ -9713,6 +9874,12 @@
   "reason": "Ancient ruins with stone structures, trees, Fethiye setting",
   "reasonKo": "고대 유적, 석조 건축물, 페티예 배경",
   "at": "2026-08-11T14:03:16.980Z"
+ },
+ "fethiye-ancient-city-of-telmessos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg/3840px-Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg": {
+  "slug": "fethiye-ancient-city-of-telmessos",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of the ruins of Pinara, another Lycian city 19 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.677Z"
  },
  "fethiye-fethiye-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Melons_-_Fethiye_Market.jpg": {
   "slug": "fethiye-fethiye-market",
@@ -9929,11 +10096,17 @@
   "reason": "publish gate: Glacier and mountains representative of Westland Tai Poutini",
   "at": "2026-11-07T07:41:49.646Z"
  },
- "fremantle-esplanade-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG": {
+ "fremantle-esplanade-park\u0001https://fastly.4sqi.net/img/general/original/18197707_Da30YJLFIo37nA0To_m7vFGQukg3adCOuZbyXHSqBvc.jpg": {
   "slug": "fremantle-esplanade-park",
   "verdict": "MATCH",
-  "reason": "publish gate: Park with trees, lawn, and Ferris wheel in Fremantle",
-  "at": "2026-10-18T07:45:16.462Z"
+  "reason": "patrol replace: Esplanade Park's iconic trees and open lawn.",
+  "at": "2026-11-12T16:44:47.301Z"
+ },
+ "fremantle-esplanade-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Esplanade_Park%2C_Fremantle3.JPG/3840px-Esplanade_Park%2C_Fremantle3.JPG": {
+  "slug": "fremantle-esplanade-park",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.564Z"
  },
  "fremantle-fremantle-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Freo_Markets_sign_in_2013.jpg/1920px-Freo_Markets_sign_in_2013.jpg": {
   "slug": "fremantle-fremantle-markets",
@@ -9953,11 +10126,29 @@
   "reason": "publish gate: Shows maritime shipyard cranes and harbor, fits museum theme",
   "at": "2026-10-17T07:46:11.007Z"
  },
- "fremantle-wa-shipwrecks-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boola_bardip_151120_gnangarra-101.jpg/1920px-Boola_bardip_151120_gnangarra-101.jpg": {
+ "fremantle-wa-shipwrecks-museum\u0001https://fastly.4sqi.net/img/general/original/59002315_YruHfalqeqzisvAyvO8xTOugQwJnDKNllt5RT7KGBss.jpg": {
+  "slug": "fremantle-wa-shipwrecks-museum",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Anchors/chains, not museum interior or exhibits",
+  "at": "2026-11-12T16:45:05.019Z"
+ },
+ "fremantle-wa-shipwrecks-museum\u0001https://fastly.4sqi.net/img/general/original/89825063_sFy4nlAU9GxOkqmn20PCZRBT5YTmoF1lo18cW8AGiZg.jpg": {
   "slug": "fremantle-wa-shipwrecks-museum",
   "verdict": "MATCH",
-  "reason": "publish gate: Historic building matching WA Shipwrecks Museum in Fremantle",
-  "at": "2026-09-29T07:52:17.579Z"
+  "reason": "patrol replace: WA Shipwrecks Museum exterior, Fremantle.",
+  "at": "2026-11-12T16:45:08.784Z"
+ },
+ "fremantle-wa-shipwrecks-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boola_bardip_151120_gnangarra-101.jpg/1920px-Boola_bardip_151120_gnangarra-101.jpg": {
+  "slug": "fremantle-wa-shipwrecks-museum",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: WA Museum Boola Bardip in Perth (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:53.956Z"
+ },
+ "fujairah-al-bithnah-fort\u0001https://fastly.4sqi.net/img/general/original/48064788_LNGacHOyNa--OAK_8CrR6_9I5Kur6Z-yq2zuJCiyc70.jpg": {
+  "slug": "fujairah-al-bithnah-fort",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Historic fort with crenellated walls, desert setting, flag v",
+  "at": "2026-11-12T16:45:22.045Z"
  },
  "fujairah-al-bithnah-fort\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg": {
   "slug": "fujairah-al-bithnah-fort",
@@ -9967,9 +10158,9 @@
  },
  "fujairah-al-bithnah-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg/1920px-Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg": {
   "slug": "fujairah-al-bithnah-fort",
-  "verdict": "MATCH",
-  "reason": "publish gate: Fort exterior with UAE flag, representative hero shot",
-  "at": "2026-08-20T09:36:48.069Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Fujairah Fort: the uploader notes it is not Al Bithnah Fort (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:54.992Z"
  },
  "fujairah-al-meshwar-restaurant\u0001https://fastly.4sqi.net/img/general/original/406410069_4q0AuNGBHpsZYGyEAd1lY4dCohUEXnS-uKggHvDgyJQ.jpg": {
   "slug": "fujairah-al-meshwar-restaurant",
@@ -10265,11 +10456,35 @@
   "reason": "publish gate: Authentic representative exterior view of Neuschwanstein Castle",
   "at": "2026-10-03T07:51:11.421Z"
  },
+ "fussen-restaurant-madame-plusch\u0001https://fastly.4sqi.net/img/general/original/1131125_SzZ1-ZfTrHjr14JUcEMlG349WKGX3qbqbArk0cx3zIY.jpg": {
+  "slug": "fussen-restaurant-madame-plusch",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different restaurant name shown: Restaurant Kaffeehaus, not Plüsch",
+  "at": "2026-11-12T16:45:39.350Z"
+ },
+ "fussen-restaurant-madame-plusch\u0001https://fastly.4sqi.net/img/general/original/2697876_AdenXJkeGOgNLaEp4wWSGn-Dw2McUuUd4Z-fjWm1JDk.jpg": {
+  "slug": "fussen-restaurant-madame-plusch",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Blurry close-up dish, not representative venue hero photo",
+  "at": "2026-11-12T16:45:35.029Z"
+ },
+ "fussen-restaurant-madame-plusch\u0001https://fastly.4sqi.net/img/general/original/2697876_Ey-PB8EU7zNsuWknHw5N3I6WZeqCRrcDXOG5co3fB_o.jpg": {
+  "slug": "fussen-restaurant-madame-plusch",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up soup shot, not representative of venue",
+  "at": "2026-11-12T16:45:36.886Z"
+ },
+ "fussen-restaurant-madame-plusch\u0001https://fastly.4sqi.net/img/general/original/2697876_bllAVXyTYwVUoVztWCDoWIdNwAYNlIGQr8h91AJM7fg.jpg": {
+  "slug": "fussen-restaurant-madame-plusch",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up plated dish, not showing venue setting",
+  "at": "2026-11-12T16:45:32.876Z"
+ },
  "fussen-restaurant-madame-plusch\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ettal%2C_das_Caf%C3%A9-Restaurant_Madame_Pl%C3%BCsch.JPG/3840px-Ettal%2C_das_Caf%C3%A9-Restaurant_Madame_Pl%C3%BCsch.JPG": {
   "slug": "fussen-restaurant-madame-plusch",
-  "verdict": "MATCH",
-  "reason": "publish gate: Exterior view of restaurant building with visible sign",
-  "at": "2026-10-03T12:53:09.101Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Ettal restaurant of the same name, 29 km from the Fussen one (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:38.640Z"
  },
  "fussen-walderlebniszentrum-ziegelwies\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Baumkronenweg_Walderlebniszentrum_Ziegelwies_06.jpg/3840px-Baumkronenweg_Walderlebniszentrum_Ziegelwies_06.jpg": {
   "slug": "fussen-walderlebniszentrum-ziegelwies",
@@ -10426,9 +10641,9 @@
  },
  "gangneung-topten\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/KakaoTalk_20240513_201656530_02.jpg/1920px-KakaoTalk_20240513_201656530_02.jpg": {
   "slug": "gangneung-topten",
-  "verdict": "MATCH",
-  "reason": "release check: Storefront interior with TOPTEN signage clearly shown",
-  "at": "2026-08-11T04:10:47.362Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a branch in Ilsan (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:49.444Z"
  },
  "gapyeong-garden-of-morning-calm\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lake_in_the_Garden_of_Morning_Calm.jpg/1920px-Lake_in_the_Garden_of_Morning_Calm.jpg": {
   "slug": "gapyeong-garden-of-morning-calm",
@@ -10795,9 +11010,15 @@
  },
  "gold-coast-cafe-gold-coast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cafe_at_Griffith_University_Gold_Coast_Campus.jpg/3840px-Cafe_at_Griffith_University_Gold_Coast_Campus.jpg": {
   "slug": "gold-coast-cafe-gold-coast",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows outdoor cafe seating area under shade structure with signage",
-  "at": "2026-09-29T14:17:21.546Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a campus cafe at Griffith University (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:45.962Z"
+ },
+ "gold-coast-cafe-gold-coast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_01.jpg/3840px-Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_01.jpg": {
+  "slug": "gold-coast-cafe-gold-coast",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Birds on table, not representative cafe scene",
+  "at": "2026-11-12T17:04:06.932Z"
  },
  "gold-coast-ernest-junction-railway-tunnel\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Ernest_Junction_Railway_Tunnel_west_approach_cuttings%2C_2019.jpg": {
   "slug": "gold-coast-ernest-junction-railway-tunnel",
@@ -11050,13 +11271,17 @@
   "reason": "publish gate: Market alley with shops, representative of Alcaicería",
   "at": "2026-11-03T07:54:01.896Z"
  },
- "granada-mirador-de-san-nicolas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/1920px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg": {
+ "granada-mirador-de-san-nicolas\u0001https://fastly.4sqi.net/img/general/original/488164379_-qjOvNLUV9PvvBSDrH7PjuWd4QNPGW8rFi3aj6PadtI.jpg": {
   "slug": "granada-mirador-de-san-nicolas",
   "verdict": "MATCH",
-  "reason": "Alhambra palace complex from San Nicolás viewpoint",
-  "reasonKo": "산 니콜라스 전망대에서 본 알함브라 궁전",
-  "at": "2026-08-03T12:48:08.127Z",
-  "migratedFrom": "width-normalised URL"
+  "reason": "patrol replace: Iconic Alhambra palace view from Granada",
+  "at": "2026-11-12T16:46:02.874Z"
+ },
+ "granada-mirador-de-san-nicolas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/1920px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg": {
+  "slug": "granada-mirador-de-san-nicolas",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.595Z"
  },
  "granada-mirador-de-san-nicolas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/3840px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg": {
   "slug": "granada-mirador-de-san-nicolas",
@@ -11211,11 +11436,9 @@
  },
  "guangzhou-guangzhou-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Guangzhou_Hui_People%27s_Restaurant_20230722.jpg/1920px-Guangzhou_Hui_People%27s_Restaurant_20230722.jpg": {
   "slug": "guangzhou-guangzhou-restaurant",
-  "verdict": "MATCH",
-  "reason": "Guangzhou Restaurant storefront in urban setting",
-  "reasonKo": "광저우 식당의 거리 모습",
-  "at": "2026-08-03T12:48:12.344Z",
-  "migratedFrom": "width-normalised URL"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Guangzhou Hui People's Restaurant, another restaurant (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:48.007Z"
  },
  "guangzhou-guangzhou-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Guangzhou_Hui_People%27s_Restaurant_20230722.jpg/3840px-Guangzhou_Hui_People%27s_Restaurant_20230722.jpg": {
   "slug": "guangzhou-guangzhou-restaurant",
@@ -11886,16 +12109,21 @@
  },
  "hangzhou-zhejiang-art-museum\u0001https://fastly.4sqi.net/img/general/original/57937108_5HWD21keuOFzYvvkEyjjbsZYPpW0ctK23s4jlmKuoQg.jpg": {
   "slug": "hangzhou-zhejiang-art-museum",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Modern art museum building in Hangzhou, China",
-  "at": "2026-08-14T20:20:53.322Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Zhejiang Memorial Hall of Revolutionary Martyrs (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:59.445Z"
  },
  "hangzhou-zhejiang-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG": {
   "slug": "hangzhou-zhejiang-art-museum",
-  "verdict": "MATCH",
-  "reason": "Traditional Chinese architecture, Hangzhou museum entrance",
-  "reasonKo": "항저우 박물관 입구, 중국 전통 건축",
-  "at": "2026-08-05T14:59:49.829Z"
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Chinese traditional-style building, not Zhejiang Art Museum exterior",
+  "at": "2026-11-12T17:03:04.308Z"
+ },
+ "hangzhou-zhejiang-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg/3840px-Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg": {
+  "slug": "hangzhou-zhejiang-art-museum",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of a jade ornament in the Zhejiang Provincial Museum, another museum (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.842Z"
  },
  "hanoi-banh-mi-25\u0001https://fastly.4sqi.net/img/general/original/28751378_BWFaz8T07jGn6EmuQUinqLitEi2-S9MeRfsrlmqKVsQ.jpg": {
   "slug": "hanoi-banh-mi-25",
@@ -12101,9 +12329,9 @@
  },
  "hanoi-the-hanoi-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2024-11-03_A_cafe_in_Hanoi%27s_Old_Quarter.jpg/3840px-2024-11-03_A_cafe_in_Hanoi%27s_Old_Quarter.jpg": {
   "slug": "hanoi-the-hanoi-cafe",
-  "verdict": "MATCH",
-  "reason": "publish gate: Storefront exterior of Quán Café Minh in Hanoi",
-  "at": "2026-08-23T08:12:13.600Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: an unnamed cafe in the Old Quarter (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:53.320Z"
  },
  "hanoi-the-picker\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Waste_Picker_-_IMG_6529.jpg/1920px-The_Waste_Picker_-_IMG_6529.jpg": {
   "slug": "hanoi-the-picker",
@@ -12286,9 +12514,9 @@
  },
  "hiroshima-hiroshima-breakfast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/3840px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg": {
   "slug": "hiroshima-hiroshima-breakfast",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Real hotel breakfast spread, plausible representative shot, in-venue setting",
-  "at": "2026-08-08T20:10:32.652Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a hotel club-lounge buffet, not this cafe (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:49.752Z"
  },
  "hiroshima-hiroshima-peace-memorial-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hiroshima_Peace_Memorial_Museum_2009.jpg/1920px-Hiroshima_Peace_Memorial_Museum_2009.jpg": {
   "slug": "hiroshima-hiroshima-peace-memorial-museum",
@@ -12370,11 +12598,35 @@
   "reason": "owner photo: editor-original — bowl of bánh canh cua with crab meat, shrimp and fish cake at Bánh Canh Cua Bà Ba, 84/6 Nguyễn Biểu",
   "at": "2026-11-08T11:39:25.903Z"
  },
- "ho-chi-minh-city-ben-nghe-street-food\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/1920px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg": {
+ "ho-chi-minh-city-ben-nghe-street-food\u0001https://fastly.4sqi.net/img/general/original/11841214_GTubnxoywAc3UrYgwTzcEkYd4AvutJW0M0z8h3kj2E8.jpg": {
+  "slug": "ho-chi-minh-city-ben-nghe-street-food",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Modern mall, not traditional street food venue",
+  "at": "2026-11-12T16:38:44.402Z"
+ },
+ "ho-chi-minh-city-ben-nghe-street-food\u0001https://fastly.4sqi.net/img/general/original/12371256_ttwhGMxnHnhMPtYEvtKHy9sXgUbT1zYpvgnacpivNV4.jpg": {
   "slug": "ho-chi-minh-city-ben-nghe-street-food",
   "verdict": "MATCH",
-  "reason": "Street food vendor setup, Vietnamese ingredients visible",
-  "at": "2026-07-25T02:43:56.622Z"
+  "reason": "patrol replace: Ben Nghe Street Food storefront, Ho Chi Minh City",
+  "at": "2026-11-12T16:38:47.803Z"
+ },
+ "ho-chi-minh-city-ben-nghe-street-food\u0001https://fastly.4sqi.net/img/general/original/85472917_qMp7SnwaPAw03hnwXZEk2KVM4NMojUMDiR9ngX-CMxs.jpg": {
+  "slug": "ho-chi-minh-city-ben-nghe-street-food",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Coffee shop, not Ben Nghe street food venue",
+  "at": "2026-11-12T16:38:40.999Z"
+ },
+ "ho-chi-minh-city-ben-nghe-street-food\u0001https://fastly.4sqi.net/img/general/original/9805412_6gbMGG4XZup_Ha17EEQQwgm5dx5yjAYcLcXN_tro5ZA.jpg": {
+  "slug": "ho-chi-minh-city-ben-nghe-street-food",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a receipt, not the venue itself",
+  "at": "2026-11-12T16:38:37.537Z"
+ },
+ "ho-chi-minh-city-ben-nghe-street-food\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/1920px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg": {
+  "slug": "ho-chi-minh-city-ben-nghe-street-food",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: an unnamed street stall (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:50.045Z"
  },
  "ho-chi-minh-city-ben-thanh-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1920px-Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG": {
   "slug": "ho-chi-minh-city-ben-thanh-market",
@@ -12438,12 +12690,17 @@
   "reason": "patrol replace: Industrial café interior, Vietnam aesthetic, plausible venue",
   "at": "2026-10-01T23:26:35.066Z"
  },
+ "ho-chi-minh-city-nom\u0001https://fastly.4sqi.net/img/general/original/42418573_K2EAoukQXksCZd7fsjAOBXGs6Kg9qOK0wjblaAmqoFw.jpg": {
+  "slug": "ho-chi-minh-city-nom",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: again Foursquare venue Com Ga Ta Quang Nom, a chicken-rice shop (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:07:29.180Z"
+ },
  "ho-chi-minh-city-nom\u0001https://fastly.4sqi.net/img/general/original/42418573_oqPm8hEpiCAk9hJM97fuTzDMnGcWY7DvZ3GuEN_YNP0.jpg": {
   "slug": "ho-chi-minh-city-nom",
-  "verdict": "MATCH",
-  "reason": "Vietnamese soup with traditional garnishes, Ho Chi Minh City",
-  "reasonKo": "호찌민시 전형적인 베트남 수프 요리",
-  "at": "2026-08-03T12:48:29.420Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Com Ga Ta Quang Nom, a chicken-rice shop (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:11.293Z"
  },
  "ho-chi-minh-city-pot-au-pho-2-0\u0001https://fastly.4sqi.net/img/general/original/18988795_QyVvwbtS2zLt-zhTNcQAwetlYJk3XTcXLxJXLpT4kwk.jpg": {
   "slug": "ho-chi-minh-city-pot-au-pho-2-0",
@@ -12778,6 +13035,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Professional kitchen, Hong Kong restaurant setting",
   "at": "2026-09-17T22:21:55.659Z"
+ },
+ "hong-kong-asics-hong-kong-half-marathon-championships\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg/3840px-Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg": {
+  "slug": "hong-kong-asics-hong-kong-half-marathon-championships",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.802Z"
  },
  "hong-kong-atp-hong-kong-tennis-open\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
   "slug": "hong-kong-atp-hong-kong-tennis-open",
@@ -13389,10 +13652,9 @@
  },
  "hong-kong-tanaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/HK_SKD_TSO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%94%90%E4%BF%8A%E8%A1%97_11_Tong_Chun_Street_%E5%AF%B6%E7%9B%88%E8%8A%B1%E5%9C%92_Bauhinia_Garden_shop_%E7%94%B0%E4%B8%AD%E9%A4%85%E5%BA%97_Tanaka_Bakery_n_%E6%B3%B0%E9%9D%9A%E9%A6%99%E6%B8%AF%E7%87%92%E5%91%B3_Thailand_Hong_Kong_Siu_Mei_January_2023_Px3.jpg/3840px-thumbnail.jpg": {
   "slug": "hong-kong-tanaka",
-  "verdict": "MATCH",
-  "reason": "Hong Kong street restaurant storefront, correct signage visi",
-  "reasonKo": "홍콩 거리 음식점, 간판 명확함",
-  "at": "2026-09-03T16:39:24.170Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Tanaka Bakery in Tseung Kwan O, not shown to be this place (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:50.332Z"
  },
  "hong-kong-tate\u0001https://fastly.4sqi.net/img/general/original/13138670_A06XOtaehUwObh8Gd6A2NJPK0-9AzKajaXG0xDqrZTM.jpg": {
   "slug": "hong-kong-tate",
@@ -13503,13 +13765,29 @@
   "reason": "hand-reviewed 2026-10-05: other-event — The description reads 'Halloween Horror Nights - The Weeknd: After Hours Nightmare Bar', at Universal Studios Hollywood (2022). The image shows only a neon sign over a theme-park attraction entrance. It shows neither the",
   "at": "2026-10-05T08:36:33.108Z"
  },
- "hong-kong-tim-ho-wan-central\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/1920px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg": {
+ "hong-kong-tim-ho-wan-central\u0001https://fastly.4sqi.net/img/general/original/27043119_WEzH1Rr2x4grbbMcU-p81xkvN-I2kav3ZjIK9RiIEfE.jpg": {
   "slug": "hong-kong-tim-ho-wan-central",
   "verdict": "MATCH",
-  "reason": "Tim Ho Wan restaurant interior, Hong Kong dim sum venue",
-  "reasonKo": "홍콩 딤섬 레스토랑 인테리어",
-  "at": "2026-08-03T12:48:47.151Z",
-  "migratedFrom": "width-normalised URL"
+  "reason": "patrol replace: Tim Ho Wan storefront with neon signage, Hong Kong mall",
+  "at": "2026-11-12T16:46:54.264Z"
+ },
+ "hong-kong-tim-ho-wan-central\u0001https://fastly.4sqi.net/img/general/original/50325066_so0Ic9mgO4aRgt670VjDJc33lU-QyxIHJbRVHKltCNM.jpg": {
+  "slug": "hong-kong-tim-ho-wan-central",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of menu/flyer and receipt, not the venue",
+  "at": "2026-11-12T16:46:50.652Z"
+ },
+ "hong-kong-tim-ho-wan-central\u0001https://fastly.4sqi.net/img/general/original/9798236_DZ1TUMfYv3ULbjGugEF8ZH2jmJRUJ9MAfbPdHJ2WBPo.jpg": {
+  "slug": "hong-kong-tim-ho-wan-central",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a photo of a menu, not the venue",
+  "at": "2026-11-12T16:46:48.689Z"
+ },
+ "hong-kong-tim-ho-wan-central\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/1920px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg": {
+  "slug": "hong-kong-tim-ho-wan-central",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Po Lam branch, 11 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:41.599Z"
  },
  "hong-kong-tim-ho-wan-central\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/3840px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg": {
   "slug": "hong-kong-tim-ho-wan-central",
@@ -14055,6 +14333,18 @@
   "reason": "patrol reject: Electric Brixton venue, unrelated to EDC Korea Incheon",
   "at": "2026-10-05T21:34:49.197Z"
  },
+ "incheon-eurwangni-beach\u0001https://fastly.4sqi.net/img/general/original/126849511_fblqr63PDJ7rHGrIZnkvUPiRPt4_xvYVIymt7YxaXME.jpg": {
+  "slug": "incheon-eurwangni-beach",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Beach scene at sunset, people wading, South Korea coastal se",
+  "at": "2026-11-12T16:47:07.528Z"
+ },
+ "incheon-eurwangni-beach\u0001https://fastly.4sqi.net/img/general/original/253237_MQ5xFyv99xZ0ZYTEOeqc2lLm7Fd_R_JIfwDkLbdaKik.jpg": {
+  "slug": "incheon-eurwangni-beach",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Entrance arch/street scene, not beach itself",
+  "at": "2026-11-12T16:47:04.036Z"
+ },
  "incheon-eurwangni-beach\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg": {
   "slug": "incheon-eurwangni-beach",
   "verdict": "MATCH",
@@ -14064,10 +14354,9 @@
  },
  "incheon-eurwangni-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg/1920px-Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg": {
   "slug": "incheon-eurwangni-beach",
-  "verdict": "MATCH",
-  "reason": "Beach scene with swimmers, sandy shore, boats",
-  "reasonKo": "해변, 모래사장, 수영객, 배 보임",
-  "at": "2026-08-10T14:01:53.559Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.629Z"
  },
  "incheon-forest-outings\u0001https://fastly.4sqi.net/img/general/original/1983744_VxmWByRuiRQ3QnJtSRhqUTqYLAaswo_J4aTXOlN2u2Y.jpg": {
   "slug": "incheon-forest-outings",
@@ -14505,11 +14794,17 @@
   "reason": "event-mode back-audit: Masked performer at concert, fits DJ event hero",
   "at": "2026-09-13T16:21:12.230Z"
  },
- "istanbul-bosphorus-view-point\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Bosphorus_-_View_from_Rumelihisari_%283501789921%29.jpg": {
+ "istanbul-bosphorus-view-point\u0001https://fastly.4sqi.net/img/general/original/69552329_P55GLU0oj52wa2Swu9fJmVYfeoiihVuMdeax6ROS6Kc.jpg": {
   "slug": "istanbul-bosphorus-view-point",
   "verdict": "MATCH",
-  "reason": "publish gate: Fortress towers framing Bosphorus water view, representative scene",
-  "at": "2026-09-21T07:48:35.617Z"
+  "reason": "patrol replace: Classic Bosphorus view with bridge, boats, architecture.",
+  "at": "2026-11-12T16:47:33.627Z"
+ },
+ "istanbul-bosphorus-view-point\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Bosphorus_-_View_from_Rumelihisari_%283501789921%29.jpg": {
+  "slug": "istanbul-bosphorus-view-point",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a view from Rumelihisari, 17 km from this viewpoint (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:40.445Z"
  },
  "istanbul-caribou-istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Canadian_musician_Caribou_performs_at_Melt%21_music_festival.JPG/3840px-Canadian_musician_Caribou_performs_at_Melt%21_music_festival.JPG": {
   "slug": "istanbul-caribou-istanbul",
@@ -14824,15 +15119,15 @@
  },
  "istanbul-lina-anatolian\u0001https://fastly.4sqi.net/img/general/original/1402308174_R4efqtR002rKTL-Y0xalLRaDJcxXBK3wDN7585V90Ow.jpg": {
   "slug": "istanbul-lina-anatolian",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Turkish breakfast spread, Istanbul dining culture",
-  "at": "2026-09-17T22:22:56.515Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Sa Va Anatolian Breakfast House (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:56.825Z"
  },
  "istanbul-lina-anatolian-kitchen\u0001https://fastly.4sqi.net/img/general/original/1402308174_fatflempGIfGkZKPOUiYDWKQiZ8hYi8LrPG-YptPYEA.jpg": {
   "slug": "istanbul-lina-anatolian-kitchen",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Authentic Turkish mezze spread, traditional pottery, Istanbu",
-  "at": "2026-09-24T22:43:29.467Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Sa Va Anatolian Breakfast House (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:56.478Z"
  },
  "istanbul-little-pika\u0001https://fastly.4sqi.net/img/general/original/13457584_jMUplQKTWxxIPJURQIQgY6-Zr5otrdYC7jXJu5gzi_o.jpg": {
   "slug": "istanbul-little-pika",
@@ -15066,6 +15361,18 @@
   "reason": "patrol reject: Food vendor scene, unrelated to WorldFood Istanbul event venue",
   "at": "2026-11-09T03:23:54.228Z"
  },
+ "istanbul-worldfood-istanbul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Skyline_-_Istanbul%2C_Turkey_-_October_11%2C_2025.jpg/3840px-Skyline_-_Istanbul%2C_Turkey_-_October_11%2C_2025.jpg": {
+  "slug": "istanbul-worldfood-istanbul-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.599Z"
+ },
+ "istanbul-wtt-contender-istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg/3840px-20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg": {
+  "slug": "istanbul-wtt-contender-istanbul",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.642Z"
+ },
  "istanbul-yoko-ono-insound-and-instructure\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Yoko_Ono_001.jpg": {
   "slug": "istanbul-yoko-ono-insound-and-instructure",
   "verdict": "MATCH",
@@ -15085,12 +15392,17 @@
   "reason": "Clock tower in Izmir's Konak Square, clearly identifiable",
   "at": "2026-07-27T12:48:14.147Z"
  },
- "izmir-ephesus-ancient-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ephesus_Ancient_City_2016.jpg/3840px-Ephesus_Ancient_City_2016.jpg": {
+ "izmir-ephesus-ancient-city\u0001https://fastly.4sqi.net/img/general/original/487362014_EcvCHEmLYIwwVetscFA91Wpb3HjIfWWcjfyv1V0QEfw.jpg": {
   "slug": "izmir-ephesus-ancient-city",
   "verdict": "MATCH",
-  "reason": "Ancient ruins with columns, Ephesus archaeological site",
-  "reasonKo": "에페소스 유적지의 기둥과 유물",
-  "at": "2026-08-18T13:26:53.721Z"
+  "reason": "patrol replace: Ancient amphitheater ruins, Ephesus characteristic architect",
+  "at": "2026-11-12T16:48:14.476Z"
+ },
+ "izmir-ephesus-ancient-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ephesus_Ancient_City_2016.jpg/3840px-Ephesus_Ancient_City_2016.jpg": {
+  "slug": "izmir-ephesus-ancient-city",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.662Z"
  },
  "izmir-kordon-alsancak-izmir\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Izmir_Alsancak_Kordon_6345.jpg": {
   "slug": "izmir-kordon-alsancak-izmir",
@@ -15323,9 +15635,9 @@
  },
  "jakarta-de-tiger\u0001https://fastly.4sqi.net/img/general/original/51129051_c0jBdnQO1sopBlL-n84wukm6P6CfLvy-Bpd0ohe_Jho.jpg": {
   "slug": "jakarta-de-tiger",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Fire Tiger branded drinks with tiger logo visible",
-  "at": "2026-10-05T21:35:17.378Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Fire Tiger (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.042Z"
  },
  "jakarta-dimash-qudaibergen-jakarta-concert\u0001https://upload.wikimedia.org/wikipedia/commons/d/d7/Kudaibergen_at_New_Wave_in_2019.jpg": {
   "slug": "jakarta-dimash-qudaibergen-jakarta-concert",
@@ -15418,6 +15730,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Event backdrop with badminton imagery and attendees, Indonesia Masters 2025",
   "at": "2026-11-12T04:27:22.489Z"
+ },
+ "jakarta-indonesia-super-100-ii-bwf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%282%29.jpg/1280px-View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%282%29.jpg": {
+  "slug": "jakarta-indonesia-super-100-ii-bwf",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.368Z"
  },
  "jakarta-israel-new-breed-til-the-whole-world-knows-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/A_new_breed_%285411625186%29.jpg": {
   "slug": "jakarta-israel-new-breed-til-the-whole-world-knows-tour",
@@ -16365,11 +16683,29 @@
   "reason": "publish gate: Exterior view of historic colonial house, plausible Fyffe House",
   "at": "2026-10-24T14:02:57.119Z"
  },
- "kaikoura-kaikoura-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg/3840px-Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg": {
+ "kaikoura-kaikoura-lookout\u0001https://fastly.4sqi.net/img/general/original/1411029440_JoZt0SmBWf5jH3tZQorVmoEQJ9w1XcmGvFnegNZt7_c.jpg": {
+  "slug": "kaikoura-kaikoura-lookout",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Selfie portrait dominates, not representative lookout view",
+  "at": "2026-11-12T16:48:43.179Z"
+ },
+ "kaikoura-kaikoura-lookout\u0001https://fastly.4sqi.net/img/general/original/6358942_PDb4P_T6ahamOBst0mVXBR8gIT_ubMI-tGbNRDZXfVA.jpg": {
   "slug": "kaikoura-kaikoura-lookout",
   "verdict": "MATCH",
-  "reason": "publish gate: Panoramic view from a lookout, matches venue type",
-  "at": "2026-10-31T07:54:35.717Z"
+  "reason": "patrol replace: Kaikoura coastal landscape, mountains, turquoise bay",
+  "at": "2026-11-12T16:48:46.875Z"
+ },
+ "kaikoura-kaikoura-lookout\u0001https://fastly.4sqi.net/img/general/original/6358942_QX6IvuUV31hv9T-IA_Z7gsMAwPDKl6CWI5pdKM7Ay4c.jpg": {
+  "slug": "kaikoura-kaikoura-lookout",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows water tanks/infrastructure, not a scenic lookout",
+  "at": "2026-11-12T16:48:41.215Z"
+ },
+ "kaikoura-kaikoura-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg/3840px-Panoramic_view_over_Kaikoura_area_from_lower_Mt_Fyffe_lookout.jpg": {
+  "slug": "kaikoura-kaikoura-lookout",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Mt Fyffe lookout 13 km away, and a 5:1 strip (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:43.653Z"
  },
  "kaikoura-whale-watch-kaikoura\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Whale_watching_Kaikoura_NZ_%2812008134353%29.jpg": {
   "slug": "kaikoura-whale-watch-kaikoura",
@@ -16472,9 +16808,9 @@
  },
  "kampot-green-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Almere_-_Groene_Kathedraal.jpg/1920px-Almere_-_Groene_Kathedraal.jpg": {
   "slug": "kampot-green-cathedral",
-  "verdict": "MATCH",
-  "reason": "publish gate: Tree-lined avenue matches Green Cathedral's iconic tall tree corridor",
-  "at": "2026-08-26T09:36:37.875Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: De Groene Kathedraal in Almere, the Netherlands (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:54.302Z"
  },
  "kampot-la-plantation\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg/3840px-03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg": {
   "slug": "kampot-la-plantation",
@@ -17043,6 +17379,24 @@
   "reason": "publish gate: Overwater stilt village pier, representative of Bang Bao",
   "at": "2026-09-26T07:53:14.200Z"
  },
+ "koh-chang-kai-bae-beach\u0001https://fastly.4sqi.net/img/general/original/17233031_DkoOGSHcOj2vky3G5A8MNUP49gIloI7mpbleeK7MBm8.jpg": {
+  "slug": "koh-chang-kai-bae-beach",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows elephants in water, not the beach itself",
+  "at": "2026-11-12T16:49:17.249Z"
+ },
+ "koh-chang-kai-bae-beach\u0001https://fastly.4sqi.net/img/general/original/17233031_h2ZgcvX8HEiQKPJjVJruKTYm4br11ird1ZWf3I1hVHY.jpg": {
+  "slug": "koh-chang-kai-bae-beach",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Beach scene with palms, sand, clear water matches Kai Bae",
+  "at": "2026-11-12T16:49:21.228Z"
+ },
+ "koh-chang-kai-bae-beach\u0001https://fastly.4sqi.net/img/general/original/877293_77gDAXnBXUMAklU6fro2lBU0Di_EiCLQGAxzsk9cs8E.jpg": {
+  "slug": "koh-chang-kai-bae-beach",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Statue close-up, not Kai Bae Beach scenery",
+  "at": "2026-11-12T16:49:15.287Z"
+ },
  "koh-chang-kai-bae-beach\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Kai_Bae_Beach%2C_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg": {
   "slug": "koh-chang-kai-bae-beach",
   "verdict": "MATCH",
@@ -17052,10 +17406,9 @@
  },
  "koh-chang-kai-bae-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kai_Bae_Beach%2C_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg/1920px-Kai_Bae_Beach%2C_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg": {
   "slug": "koh-chang-kai-bae-beach",
-  "verdict": "MATCH",
-  "reason": "Kai Bae Beach seascape with islands, boats",
-  "reasonKo": "카이 배 해변의 특징적인 섬과 보트",
-  "at": "2026-08-15T13:11:19.352Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.697Z"
  },
  "koh-chang-mu-ko-chang-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Moo_Koh_Chang5.JPG/1920px-Moo_Koh_Chang5.JPG": {
   "slug": "koh-chang-mu-ko-chang-national-park",
@@ -17300,11 +17653,35 @@
   "reasonKo": "인도 박물관의 전형적인 식민지 건축",
   "at": "2026-08-16T13:14:58.060Z"
  },
+ "kolkata-kolkata-rajbari\u0001https://live.staticflickr.com/7286/16347636396_cce0904b2a_b.jpg": {
+  "slug": "kolkata-kolkata-rajbari",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: This is a historic palace/temple, not a restaurant",
+  "at": "2026-11-12T16:49:59.812Z"
+ },
+ "kolkata-kolkata-rajbari\u0001https://live.staticflickr.com/8662/16371858551_0e52e19ac2_b.jpg": {
+  "slug": "kolkata-kolkata-rajbari",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows lion statue, not restaurant place or dish",
+  "at": "2026-11-12T16:49:50.031Z"
+ },
+ "kolkata-kolkata-rajbari\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/Belgachhia_Rajbari.JPG": {
+  "slug": "kolkata-kolkata-rajbari",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Abandoned building, not operating restaurant",
+  "at": "2026-11-12T16:49:40.672Z"
+ },
+ "kolkata-kolkata-rajbari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg/3840px-Sovabazar_boro_Rajbari_thakurdalan_at_Sovabazar_area_of_North_Kolkata_03.jpg": {
+  "slug": "kolkata-kolkata-rajbari",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of Sovabazar Rajbari palace, not this restaurant (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.808Z"
+ },
  "kolkata-kolkata-rajbari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg/3840px-Outside_view_of_Sovabazar_Rajbari%2C_Kolkata%2C_MA10.jpg": {
   "slug": "kolkata-kolkata-rajbari",
-  "verdict": "MATCH",
-  "reason": "publish gate: Exterior of Kolkata Rajbari heritage building, representative view",
-  "at": "2026-10-15T08:10:57.507Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Sovabazar Rajbari palace; this guide is a restaurant in Kalighat (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:44.516Z"
  },
  "kolkata-new-market-kolkata\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/New_Market%2C_Kolkata%2C_2011.jpg": {
   "slug": "kolkata-new-market-kolkata",
@@ -17556,6 +17933,12 @@
   "reason": "event-mode back-audit: Performer singing on stage, matches concert event type",
   "at": "2026-08-07T13:03:46.184Z"
  },
+ "kuala-lumpur-as-if-she-were-here-chen-jia-sings-teresa-teng\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-01.jpg/3840px-Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-01.jpg": {
+  "slug": "kuala-lumpur-as-if-she-were-here-chen-jia-sings-teresa-teng",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.231Z"
+ },
  "kuala-lumpur-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg": {
   "slug": "kuala-lumpur-babymonster-world-tour-choom",
   "verdict": "MATCH",
@@ -17805,6 +18188,12 @@
   "reason": "patrol reject: Contact sheet of unrelated event, not this concert",
   "at": "2026-11-09T03:24:38.116Z"
  },
+ "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg/3840px-Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg": {
+  "slug": "kuala-lumpur-jimmy-lin-x-nicky-wu-concert-2-0-live-in-malaysia",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.266Z"
+ },
  "kuala-lumpur-kapitan-s-club\u0001https://fastly.4sqi.net/img/general/original/5813125_RjP0tvKbIWkiJCDwCOSPzRTHydeWwrIgkOtzMQxmo9o.jpg": {
   "slug": "kuala-lumpur-kapitan-s-club",
   "verdict": "MISMATCH",
@@ -17925,13 +18314,23 @@
   "reason": "patrol reject: Shows swimming pool, not a grill/restaurant venue",
   "at": "2026-08-20T20:06:29.628Z"
  },
- "kuala-lumpur-merdeka-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Merdeka_Square_Malaysia.jpg/1920px-Merdeka_Square_Malaysia.jpg": {
+ "kuala-lumpur-merdeka-square\u0001https://fastly.4sqi.net/img/general/original/4670882_3a9xJbDDfBEOp44v_ek6hvZOgneeE5BvTGXSNSOwn4U.jpg": {
   "slug": "kuala-lumpur-merdeka-square",
   "verdict": "MATCH",
-  "reason": "Iconic Merdeka Square colonial buildings and field",
-  "reasonKo": "메르데카 광장의 상징적 건물과 잔디",
-  "at": "2026-08-03T14:29:37.129Z",
-  "migratedFrom": "width-normalised URL"
+  "reason": "patrol replace: Night event at Merdeka Square with iconic architecture",
+  "at": "2026-11-12T16:50:23.679Z"
+ },
+ "kuala-lumpur-merdeka-square\u0001https://fastly.4sqi.net/img/general/original/607765_eslDsm3mEuaQ89bIzROIr2pt8Zd1_AYjti34gb99JvI.jpg": {
+  "slug": "kuala-lumpur-merdeka-square",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Colonial architecture, not Merdeka Square landmark",
+  "at": "2026-11-12T16:50:20.324Z"
+ },
+ "kuala-lumpur-merdeka-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Merdeka_Square_Malaysia.jpg/1920px-Merdeka_Square_Malaysia.jpg": {
+  "slug": "kuala-lumpur-merdeka-square",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.727Z"
  },
  "kuala-lumpur-merdeka-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Merdeka_Square_Malaysia.jpg/3840px-Merdeka_Square_Malaysia.jpg": {
   "slug": "kuala-lumpur-merdeka-square",
@@ -17942,9 +18341,9 @@
  },
  "kuala-lumpur-niji-sushi-izakaya\u0001https://fastly.4sqi.net/img/general/original/2416267_LTEDUS1qtY_QRRb8GUKcOBbeeeew4h6LilLcNYMp4Os.jpg": {
   "slug": "kuala-lumpur-niji-sushi-izakaya",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Modern Japanese restaurant private dining room interior",
-  "at": "2026-08-28T03:47:22.745Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Sushi ORI (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:57.993Z"
  },
  "kuala-lumpur-niji-sushi-izakaya\u0001https://fastly.4sqi.net/img/general/original/7794423_39txjrEHFSgFk296V4unhGqkxl-4YhBmw2P22LK8jHg.jpg": {
   "slug": "kuala-lumpur-niji-sushi-izakaya",
@@ -18024,12 +18423,35 @@
   "reason": "patrol replace: Chinese lanterns, red décor, KL street setting",
   "at": "2026-10-01T23:30:01.614Z"
  },
+ "kuala-lumpur-tangga\u0001https://fastly.4sqi.net/img/general/original/1404725_0Qex0SlaHCZk7fkcU8PnMgZSzIcjHtROLBYLnwI9TAo.jpg": {
+  "slug": "kuala-lumpur-tangga",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Public stairway, not a restaurant venue",
+  "at": "2026-11-12T16:50:49.858Z"
+ },
+ "kuala-lumpur-tangga\u0001https://fastly.4sqi.net/img/general/original/1404725_xWK9AZzvwFyIwO_nhAtio48QzRRbjEWV4Wd0J8dQC3g.jpg": {
+  "slug": "kuala-lumpur-tangga",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural wooden hut, not matching trendy KL venue",
+  "at": "2026-11-12T16:50:46.043Z"
+ },
+ "kuala-lumpur-tangga\u0001https://fastly.4sqi.net/img/general/original/70841148_CHdt_ABCaw1Ng4k34rU37o8zKRqnCTjFMyc7_NpZ4Rk.jpg": {
+  "slug": "kuala-lumpur-tangga",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Forest scene with animal, unrelated to venue",
+  "at": "2026-11-12T16:50:54.052Z"
+ },
+ "kuala-lumpur-tangga\u0001https://fastly.4sqi.net/img/general/original/70841148_xyH6TNd0swdyVHs6izVrpjuQ8LLzxV_3LWLXr5GzaEI.jpg": {
+  "slug": "kuala-lumpur-tangga",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Forest scene with animal, not a KL venue",
+  "at": "2026-11-12T16:50:51.877Z"
+ },
  "kuala-lumpur-tangga\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Avenue_K%2C_Kuala_Lumpur_20260413_095055.jpg": {
   "slug": "kuala-lumpur-tangga",
-  "verdict": "MATCH",
-  "reason": "metadata veto: Commons names Kuala Lumpur (vision said: Avenue K mall sign, not Tangga restaurant venue)",
-  "reasonKo": null,
-  "at": "2026-10-01T18:33:36.292Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a staircase in Avenue K (\"tangga\" is Malay for stairs) (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:50.638Z"
  },
  "kuala-lumpur-the-rose-concert\u0001https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Rose%2C_2018-02-25_Budapest_3.jpg": {
   "slug": "kuala-lumpur-the-rose-concert",
@@ -18136,12 +18558,17 @@
   "reasonKo": "쿠바 국립공원의 전형적인 폭포",
   "at": "2026-08-10T14:01:57.904Z"
  },
- "kuching-kuching-waterfront\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kuching_Waterfront_at_night_%2815834807985%29.jpg/1920px-Kuching_Waterfront_at_night_%2815834807985%29.jpg": {
+ "kuching-kuching-waterfront\u0001https://fastly.4sqi.net/img/general/original/12075878_ftQHAwVazgrxDhwPRTIcG7b7Xu8YIncG9fPNQQ8yDik.jpg": {
   "slug": "kuching-kuching-waterfront",
   "verdict": "MATCH",
-  "reason": "Night view of Kuching waterfront with lit buildings",
-  "reasonKo": "쿠칭 워터프론트의 야경, 조명된 건물",
-  "at": "2026-08-12T14:03:24.679Z"
+  "reason": "patrol replace: Darul Hana Bridge illuminated, Kuching waterfront at night",
+  "at": "2026-11-12T17:08:59.276Z"
+ },
+ "kuching-kuching-waterfront\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kuching_Waterfront_at_night_%2815834807985%29.jpg/1920px-Kuching_Waterfront_at_night_%2815834807985%29.jpg": {
+  "slug": "kuching-kuching-waterfront",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to read as a banner: night shot or shot into the sun (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:07:38.251Z"
  },
  "kuching-malaysia-china-friendship-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg/3840px-Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg": {
   "slug": "kuching-malaysia-china-friendship-park",
@@ -18444,11 +18871,17 @@
   "reason": "Aerial view of manta rays, not restaurant venue",
   "at": "2026-07-25T02:45:53.097Z"
  },
- "lake-khuvsgul-khuvsgul-lake\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ISS067-E-879_-_View_of_Earth.jpg/1920px-ISS067-E-879_-_View_of_Earth.jpg": {
+ "lake-khuvsgul-khuvsgul-lake\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Khuvsgul_Lake.jpg/3840px-Khuvsgul_Lake.jpg": {
   "slug": "lake-khuvsgul-khuvsgul-lake",
   "verdict": "MATCH",
-  "reason": "publish gate: Satellite view plausibly shows Khuvsgul Lake frozen landscape",
-  "at": "2026-10-11T07:44:49.609Z"
+  "reason": "patrol replace: Lake landscape with boreal forest, Mongolia setting",
+  "at": "2026-11-12T16:51:02.158Z"
+ },
+ "lake-khuvsgul-khuvsgul-lake\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ISS067-E-879_-_View_of_Earth.jpg/1920px-ISS067-E-879_-_View_of_Earth.jpg": {
+  "slug": "lake-khuvsgul-khuvsgul-lake",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a satellite image from the ISS, not a banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:55.836Z"
  },
  "lake-louise-banff-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2212.jpg/3840px-Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Louise_--_2022_--_2212.jpg": {
   "slug": "lake-louise-banff-national-park",
@@ -19371,6 +19804,12 @@
   "reason": "hand-reviewed: filename shares only \"aespa\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-26T19:00:11.193Z"
  },
+ "london-all-h-ours-1st-world-tour-rise-up\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/London-Skyline-P1140375.jpg/3840px-London-Skyline-P1140375.jpg": {
+  "slug": "london-all-h-ours-1st-world-tour-rise-up",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.836Z"
+ },
  "london-atp-finals\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Who_knew_John_Peers_had_this_much_hair%3F%21_-_23260071985.jpg": {
   "slug": "london-atp-finals",
   "verdict": "MISMATCH",
@@ -19652,6 +20091,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Runner jogging, plausible for London Running Festival event photo",
   "at": "2026-11-12T04:29:43.247Z"
+ },
+ "london-london-winter-walk-marathon-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Oval_cricket_ground_2022-08-11.jpg/3840px-The_Oval_cricket_ground_2022-08-11.jpg": {
+  "slug": "london-london-winter-walk-marathon-half-marathon",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.403Z"
  },
  "london-natural-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg/3840px-Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg": {
   "slug": "london-natural-history-museum",
@@ -20093,6 +20538,30 @@
   "reason": "event publish gate: tripleS performers on stage at event",
   "at": "2026-10-25T22:55:10.794Z"
  },
+ "los-angeles-urth-caffe\u0001https://fastly.4sqi.net/img/general/original/18617125_oxWngA64Q12eF_r1MbK4URS_4MeH9KVtvA-kEI8cQA8.jpg": {
+  "slug": "los-angeles-urth-caffe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Interior appears to be different venue, not Urth Caffe",
+  "at": "2026-11-12T16:39:08.140Z"
+ },
+ "los-angeles-urth-caffe\u0001https://fastly.4sqi.net/img/general/original/33601107_l0x8FnYiWV82VeYpz6EdT6xSYKoIolEsM0MOao4zZtE.jpg": {
+  "slug": "los-angeles-urth-caffe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of drink cup, not venue itself",
+  "at": "2026-11-12T16:39:10.334Z"
+ },
+ "los-angeles-urth-caffe\u0001https://fastly.4sqi.net/img/general/original/65976058_6SoZVgy7LuFJHBGs5VgIcPGEUBGWVGZ4J6vmfpFu9lo.jpg": {
+  "slug": "los-angeles-urth-caffe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of signage, not representative venue photo",
+  "at": "2026-11-12T16:39:05.136Z"
+ },
+ "los-angeles-urth-caffe\u0001https://fastly.4sqi.net/img/general/original/65976058_aVMDTkt0p_WcE9HVp47SMt6SJNHYK1shyNU7MMtFRdQ.jpg": {
+  "slug": "los-angeles-urth-caffe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Wrong building. This is not Urth Caffe.",
+  "at": "2026-11-12T16:39:03.177Z"
+ },
  "los-angeles-urth-caffe\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg": {
   "slug": "los-angeles-urth-caffe",
   "verdict": "MATCH",
@@ -20102,10 +20571,9 @@
  },
  "los-angeles-urth-caffe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg/1920px-Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg": {
   "slug": "los-angeles-urth-caffe",
-  "verdict": "MATCH",
-  "reason": "Elegant brunch dish with poached eggs, prosciutto, greens",
-  "reasonKo": "계란, 프로슈토 등 세련된 브런치 요리",
-  "at": "2026-08-03T14:30:43.328Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Santa Monica branch; this guide is the Arts District branch (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:39.540Z"
  },
  "los-angeles-wilmington-waterfront-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wilmington_Waterfront_Park_Fountains.jpg/3840px-Wilmington_Waterfront_Park_Fountains.jpg": {
   "slug": "los-angeles-wilmington-waterfront-park",
@@ -20832,6 +21300,12 @@
   "reason": "hand-reviewed: TAEMIN 2015, not the K-Pop Forever tribute show",
   "at": "2026-10-12T02:00:46.151Z"
  },
+ "madrid-k-pop-forever-world-tour-spain\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Edificios_Skyline_Madrid_03.jpg": {
+  "slug": "madrid-k-pop-forever-world-tour-spain",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.437Z"
+ },
  "madrid-mache\u0001https://fastly.4sqi.net/img/general/original/32101378_gcOv6AR0z-1KO78aIpwOYrYVA5JAwbxs3S1e6ff2KAc.jpg": {
   "slug": "madrid-mache",
   "verdict": "MATCH",
@@ -21552,9 +22026,15 @@
  },
  "marina-bay-singapore-skyline-view\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg": {
   "slug": "marina-bay-singapore-skyline-view",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.761Z"
+ },
+ "marina-bay-singapore-skyline-view\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4682.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4682.jpg": {
+  "slug": "marina-bay-singapore-skyline-view",
   "verdict": "MATCH",
-  "reason": "publish gate: Accurate Marina Bay skyline view, representative hero image",
-  "at": "2026-10-02T07:45:44.676Z"
+  "reason": "patrol replace: Singapore skyline at Marina Bay, night view",
+  "at": "2026-11-12T16:51:25.426Z"
  },
  "marina-bay-skypark-observation-deck\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg/1920px-Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg": {
   "slug": "marina-bay-skypark-observation-deck",
@@ -21634,9 +22114,15 @@
  },
  "marseille-parc-national-des-calanques\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Le_parc_des_calanques_de_Marseille.jpg/1920px-Le_parc_des_calanques_de_Marseille.jpg": {
   "slug": "marseille-parc-national-des-calanques",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.796Z"
+ },
+ "marseille-parc-national-des-calanques\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Coucher_de_soleil%2C_Marseilleveyre%2C_Parc_national_des_Calanques%2C_2014-04-06.jpg/3840px-Coucher_de_soleil%2C_Marseilleveyre%2C_Parc_national_des_Calanques%2C_2014-04-06.jpg": {
+  "slug": "marseille-parc-national-des-calanques",
   "verdict": "MATCH",
-  "reason": "Calanques coastal cliffs and Mediterranean Sea view",
-  "at": "2026-07-27T12:49:50.076Z"
+  "reason": "patrol replace: Rocky coastline sunset, Mediterranean sea, Calanques landsca",
+  "at": "2026-11-12T16:51:58.091Z"
  },
  "marseille-port-antique\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/Port_antique_de_Marseille.jpg": {
   "slug": "marseille-port-antique",
@@ -22006,11 +22492,29 @@
   "reason": "patrol replace: Fine dining plated dish, upscale restaurant setting",
   "at": "2026-10-05T21:37:55.759Z"
  },
- "mexico-city-bartola\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Barton_Opus_245_3-13_console_02%2C_Michigan_Theater_%28Ann_Arbor%2C_Michigan%29.jpg": {
+ "mexico-city-bartola\u0001https://fastly.4sqi.net/img/general/original/345853_MBp3pqk3UMfcQScdjmOpNjs_gPh0XSJNAh9iJNOHGM8.jpg": {
+  "slug": "mexico-city-bartola",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Food dish shown, but no venue/interior context visible",
+  "at": "2026-11-12T16:52:13.399Z"
+ },
+ "mexico-city-bartola\u0001https://fastly.4sqi.net/img/general/original/345853_ah2U0xvqz5iXlMYqKCSDtSZ0_0qhfdY-xmMBLQGw_Y8.jpg": {
+  "slug": "mexico-city-bartola",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Messy table remnants, not representative venue shot",
+  "at": "2026-11-12T16:52:09.919Z"
+ },
+ "mexico-city-bartola\u0001https://fastly.4sqi.net/img/general/original/67055161_k_nxLWKtCxFyxjJLBMRGktOCz-EA7Ged4mAfLjMauwg.jpg": {
   "slug": "mexico-city-bartola",
   "verdict": "MATCH",
-  "reason": "patrol re-check: Shows ornate organ console, plausible venue interior detail",
-  "at": "2026-10-05T21:37:57.388Z"
+  "reason": "patrol replace: Upscale Mexican cuisine plausibly from trendy Mexico City ve",
+  "at": "2026-11-12T16:52:16.885Z"
+ },
+ "mexico-city-bartola\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Barton_Opus_245_3-13_console_02%2C_Michigan_Theater_%28Ann_Arbor%2C_Michigan%29.jpg": {
+  "slug": "mexico-city-bartola",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a theatre organ console in Michigan (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:50.919Z"
  },
  "mexico-city-basilica-of-our-lady-of-guadalupe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG/1920px-Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG": {
   "slug": "mexico-city-basilica-of-our-lady-of-guadalupe",
@@ -22119,6 +22623,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: F1 race car on track at event venue",
   "at": "2026-10-08T01:37:01.699Z"
+ },
+ "mexico-city-hybe-cine-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Mexico_City_Reforma_skyline_%28cropped2%29.jpg": {
+  "slug": "mexico-city-hybe-cine-fest-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.935Z"
  },
  "mexico-city-katseye-wildworld-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/2025-12-13_Katseye_Beautiful_Chaos_Tour_05.jpg": {
   "slug": "mexico-city-katseye-wildworld-tour",
@@ -22627,12 +23137,35 @@
   "reason": "publish gate: Shows Shanghai Street building exterior with sign confirming location",
   "at": "2026-10-02T07:44:35.527Z"
  },
- "mong-kok-beans-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg/3840px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg": {
+ "mong-kok-beans-cafe\u0001https://fastly.4sqi.net/img/general/original/11046315_8WDhFOL6xoMUNw0oBGkW57wi-hyETX7_o7l0Q7J-sMQ.jpg": {
+  "slug": "mong-kok-beans-cafe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated food shot, not venue interior/exterior",
+  "at": "2026-11-12T16:52:33.102Z"
+ },
+ "mong-kok-beans-cafe\u0001https://fastly.4sqi.net/img/general/original/11046315_A1tFslzOuFOch23WRS7OAp2G-puRVSFJm1iEed_QBLU.jpg": {
+  "slug": "mong-kok-beans-cafe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated drink close-up, not venue interior/exterior",
+  "at": "2026-11-12T16:52:35.107Z"
+ },
+ "mong-kok-beans-cafe\u0001https://fastly.4sqi.net/img/general/original/11046315_s3JoXXfkgQvptwwhxnZiZEyUhSELUO0RVQ8Bb6vK1Hk.jpg": {
+  "slug": "mong-kok-beans-cafe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated plated dish shot, no venue context shown",
+  "at": "2026-11-12T16:52:31.129Z"
+ },
+ "mong-kok-beans-cafe\u0001https://fastly.4sqi.net/img/general/original/15032541_uh6dcpoIP69lfcXSXIjmugp-MvFutR10mFz_hO534qI.jpg": {
   "slug": "mong-kok-beans-cafe",
   "verdict": "MATCH",
-  "reason": "Café de Beans storefront with queue, Hong Kong",
-  "reasonKo": "카페 드 빈즈 매장, 홍콩",
-  "at": "2026-08-15T13:11:23.204Z"
+  "reason": "patrol replace: Pistachio pastry dessert, cafe presentation",
+  "at": "2026-11-12T16:52:39.044Z"
+ },
+ "mong-kok-beans-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg/3840px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg": {
+  "slug": "mong-kok-beans-cafe",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Cafe de Beans in Tseung Kwan O, another cafe (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:42.491Z"
  },
  "mong-kok-dim-dim-sum-mong-kok\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E6%B4%97%E8%A1%A3%E8%A1%97_39_Sai_Yee_Street_%E9%87%91%E9%9B%9E%E5%BB%A3%E5%A0%B4_Golden_Era_Plaza_mall_shop_Dim_Sum_Here_Restaurant_October_2025_N13P_01.jpg": {
   "slug": "mong-kok-dim-dim-sum-mong-kok",
@@ -22673,12 +23206,23 @@
   "reason": "publish gate: Street market scene with stalls, plausible Mong Kok setting",
   "at": "2026-09-23T07:46:26.977Z"
  },
- "mong-kok-one-dim-sum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Plaza_mall_%E7%A8%BB%E9%A6%99%E6%BC%81%E6%B8%AF_Tao_Heung_The_Pier_Market_Restaurant_%E9%A6%99%E6%B8%AF%E9%A3%B2%E6%97%A9%E8%8C%B6_breakfast_tea_%E9%BB%9E%E5%BF%83_dim_sum_May_2022_Px3_15.jpg/3840px-thumbnail.jpg": {
+ "mong-kok-one-dim-sum\u0001https://fastly.4sqi.net/img/general/original/1002996_ryazF5leoHLIdKDX-S_3WbBgpMC95Tr-V0cNuc5tHWk.jpg": {
+  "slug": "mong-kok-one-dim-sum",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a menu, not the venue itself",
+  "at": "2026-11-12T16:52:52.877Z"
+ },
+ "mong-kok-one-dim-sum\u0001https://fastly.4sqi.net/img/general/original/13916249_a43O8NqV6dLpWvIpTeICe1ekSjzQVHYxeHx78CNndbs.jpg": {
   "slug": "mong-kok-one-dim-sum",
   "verdict": "MATCH",
-  "reason": "Authentic dim sum dish, bamboo steamer, Hong Kong style",
-  "reasonKo": "정통 딤섬, 홍콩식 대나무 찜기",
-  "at": "2026-08-19T13:29:31.541Z"
+  "reason": "patrol replace: Dim sum dishes, menu, Hong Kong restaurant setting",
+  "at": "2026-11-12T16:52:56.323Z"
+ },
+ "mong-kok-one-dim-sum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Plaza_mall_%E7%A8%BB%E9%A6%99%E6%BC%81%E6%B8%AF_Tao_Heung_The_Pier_Market_Restaurant_%E9%A6%99%E6%B8%AF%E9%A3%B2%E6%97%A9%E8%8C%B6_breakfast_tea_%E9%BB%9E%E5%BF%83_dim_sum_May_2022_Px3_15.jpg/3840px-thumbnail.jpg": {
+  "slug": "mong-kok-one-dim-sum",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Tao Heung in a Mong Kok mall, another restaurant (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:53.638Z"
  },
  "mong-kok-paradise-dynasty\u0001https://fastly.4sqi.net/img/general/original/3833904_nxoAYODC2djUj54efBSBQYZmQbq6eBL4NRT1ioEz8wE.jpg": {
   "slug": "mong-kok-paradise-dynasty",
@@ -23264,6 +23808,12 @@
   "reason": "hand-reviewed: filename shares only \"harana\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-15T10:16:51.758Z"
  },
+ "muntinlupa-harana-music-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Muntinlupa_WV_banner.jpg": {
+  "slug": "muntinlupa-harana-music-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.770Z"
+ },
  "muntinlupa-harana-music-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Harana_-_Valle_de_Arana.jpg/3840px-Harana_-_Valle_de_Arana.jpg": {
   "slug": "muntinlupa-harana-music-festival-2026",
   "verdict": "MISMATCH",
@@ -23466,6 +24016,18 @@
   "reason": "patrol reject: audit: Shop storefront, not event venue or tug-of-war",
   "at": "2026-10-01T23:33:06.756Z"
  },
+ "namangan-namangan-handicrafts-fair\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Namangan_banner_Bobur_Park.png": {
+  "slug": "namangan-namangan-handicrafts-fair",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.706Z"
+ },
+ "namangan-namangan-handicrafts-fair\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kurban_Ata_Jame%27_Mosque._Norin%2C_Namangan_2024.jpg/3840px-Kurban_Ata_Jame%27_Mosque._Norin%2C_Namangan_2024.jpg": {
+  "slug": "namangan-namangan-handicrafts-fair",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: mosque in Norin district, another town of Namangan Region, not Namangan city (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:20:44.431Z"
+ },
  "namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yangi_O%CA%BBzbekiston_-_Yoshlar_Ziyo_Maskani.jpg/3840px-Yangi_O%CA%BBzbekiston_-_Yoshlar_Ziyo_Maskani.jpg": {
   "slug": "namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani",
   "verdict": "MATCH",
@@ -23611,6 +24173,12 @@
   "reason": "publish gate: Beach and coastline plausibly representative of Naoshima Island",
   "at": "2026-10-12T07:07:46.854Z"
  },
+ "naoshima-naoshima-new-museum-of-art\u0001https://fastly.4sqi.net/img/general/original/1379934504_SnhqJgW3Y4ihEp8tvM24WVPrzL0MdtOwOi25EtUlmnY.jpg": {
+  "slug": "naoshima-naoshima-new-museum-of-art",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of Minamidera of the Art House Project, another site (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.969Z"
+ },
  "naoshima-naoshima-new-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Naoshima_New_Museum_of_Art_2025.jpg/1920px-Naoshima_New_Museum_of_Art_2025.jpg": {
   "slug": "naoshima-naoshima-new-museum-of-art",
   "verdict": "MATCH",
@@ -23649,9 +24217,15 @@
  },
  "nape-templo-de-kun-iam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20250805_Templo_de_Kun_Iam_da_Taipa.jpg/3840px-20250805_Templo_de_Kun_Iam_da_Taipa.jpg": {
   "slug": "nape-templo-de-kun-iam",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Kun Iam temple in Taipa, not the one on the peninsula (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:43.367Z"
+ },
+ "nape-templo-de-kun-iam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20260716_Templo_de_Kun_Iam.jpg/3840px-20260716_Templo_de_Kun_Iam.jpg": {
+  "slug": "nape-templo-de-kun-iam",
   "verdict": "MATCH",
-  "reason": "publish gate: Exterior facade of Kun Iam Temple shrine entrance",
-  "at": "2026-10-06T14:34:36.875Z"
+  "reason": "patrol replace: Traditional temple architecture, red walls, Chinese characte",
+  "at": "2026-11-12T16:53:09.716Z"
  },
  "naples-archaeological-park-of-pompeii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg": {
   "slug": "naples-archaeological-park-of-pompeii",
@@ -23675,8 +24249,8 @@
  "naples-city-view\u0001https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg": {
   "slug": "naples-city-view",
   "verdict": "MATCH",
-  "reason": "patrol re-check: Genuine street/city view with buildings and promenade in Naples",
-  "at": "2026-08-16T20:18:56.615Z"
+  "reason": "patrol replace: Naples waterfront with historic architecture, crowds",
+  "at": "2026-11-12T16:53:33.889Z"
  },
  "naples-city-view\u0001https://live.staticflickr.com/3667/11590584804_a21c225086_b.jpg": {
   "slug": "naples-city-view",
@@ -23693,9 +24267,9 @@
  },
  "naples-city-view\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Panorama_view_of_bay_and_the_city_Naples%2C_Campania%2C_Italy%2C_May_2005_%2852104979928%29.jpg/3840px-Panorama_view_of_bay_and_the_city_Naples%2C_Campania%2C_Italy%2C_May_2005_%2852104979928%29.jpg": {
   "slug": "naples-city-view",
-  "verdict": "MATCH",
-  "reason": "width upgrade: Panoramic Naples cityscape with Vesuvius, representative city view",
-  "at": "2026-10-11T23:07:03.889Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.826Z"
  },
  "naples-mercato-pignasecca\u0001https://upload.wikimedia.org/wikipedia/commons/6/60/Fish_at_Mercato_Pignasecca_%284122802618%29.jpg": {
   "slug": "naples-mercato-pignasecca",
@@ -24050,6 +24624,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Logo/text graphic, not an event photo",
   "at": "2026-11-12T04:51:46.482Z"
+ },
+ "new-delhi-weverse-con-festival-india\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/New_Delhi_skyline_at_dusk.jpg": {
+  "slug": "new-delhi-weverse-con-festival-india",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.467Z"
  },
  "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": {
   "slug": "new-delhi-yamuna-ghat",
@@ -24652,12 +25232,17 @@
   "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:15.967Z"
  },
- "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": {
+ "new-york-ocean-prime\u0001https://fastly.4sqi.net/img/general/original/6107770_vRoi8vSKY3ltKTvoUmtbpm0dF-V5op9AyjtTwlOSp2o.jpg": {
   "slug": "new-york-ocean-prime",
   "verdict": "MATCH",
-  "reason": "Upscale fine dining restaurant interior matches Ocean Prime ",
-  "reasonKo": "고급 파인 다이닝 레스토랑 인테리어",
-  "at": "2026-08-06T14:58:56.080Z"
+  "reason": "patrol replace: Upscale seafood presentation, fine dining interior",
+  "at": "2026-11-12T16:53:54.519Z"
+ },
+ "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": {
+  "slug": "new-york-ocean-prime",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Phoenix branch (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:51.216Z"
  },
  "new-york-one-world-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg/1920px-Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg": {
   "slug": "new-york-one-world-observatory",
@@ -24783,13 +25368,17 @@
   "reason": "publish gate: Shows the actual Times Square Ball with crystal panels",
   "at": "2026-11-01T07:58:52.213Z"
  },
- "new-york-top-of-the-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/1920px-NYC_Top_of_the_Rock_Pano.jpg": {
+ "new-york-top-of-the-rock\u0001https://fastly.4sqi.net/img/general/original/1415200107_sxeRZROSNL24DYuqTXLb2dC2qHkPKj2nX2UvAqq-QzY.jpg": {
   "slug": "new-york-top-of-the-rock",
   "verdict": "MATCH",
-  "reason": "NYC skyline from observation deck, iconic view",
-  "reasonKo": "전망대에서 본 뉴욕 스카이라인",
-  "at": "2026-08-04T12:23:12.566Z",
-  "migratedFrom": "width-normalised URL"
+  "reason": "patrol replace: Top of Rock view: Manhattan skyline, Central Park visible",
+  "at": "2026-11-12T16:54:18.357Z"
+ },
+ "new-york-top-of-the-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/1920px-NYC_Top_of_the_Rock_Pano.jpg": {
+  "slug": "new-york-top-of-the-rock",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.855Z"
  },
  "new-york-top-of-the-rock\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/3840px-NYC_Top_of_the_Rock_Pano.jpg": {
   "slug": "new-york-top-of-the-rock",
@@ -25037,11 +25626,17 @@
   "reasonKo": null,
   "at": "2026-08-18T13:27:28.107Z"
  },
- "nikko-nikko-natural-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nikko_Natural_Science_Museum-2.jpg/3840px-Nikko_Natural_Science_Museum-2.jpg": {
+ "nikko-nikko-natural-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Nikko_Natural_Science_Museum%2C_June_2023.jpg": {
   "slug": "nikko-nikko-natural-science-museum",
   "verdict": "MATCH",
-  "reason": "publish gate: Exterior plaza view showing museum building and surroundings",
-  "at": "2026-09-13T07:57:17.892Z"
+  "reason": "patrol replace: Museum building in Nikko with characteristic architecture",
+  "at": "2026-11-12T17:05:12.566Z"
+ },
+ "nikko-nikko-natural-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nikko_Natural_Science_Museum-2.jpg/3840px-Nikko_Natural_Science_Museum-2.jpg": {
+  "slug": "nikko-nikko-natural-science-museum",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.885Z"
  },
  "nikko-nikko-tamozawa-imperial-villa-memorial-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Nikko_former_imperial_villa_Tamozawa.jpg": {
   "slug": "nikko-nikko-tamozawa-imperial-villa-memorial-park",
@@ -25154,11 +25749,29 @@
   "reason": "release check: Shows a building facade, not the concert event",
   "at": "2026-08-11T04:13:36.603Z"
  },
- "north-point-mak-kee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg/3840px-HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg": {
+ "north-point-mak-kee\u0001https://fastly.4sqi.net/img/general/original/2522477_gOMumUFdRqr_3fvv2XpHrSz_JbLTzH_Xq20jzf7xlO8.jpg": {
+  "slug": "north-point-mak-kee",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a menu sign, not the venue",
+  "at": "2026-11-12T16:54:44.494Z"
+ },
+ "north-point-mak-kee\u0001https://fastly.4sqi.net/img/general/original/2522477_zx5B1OoMVdxiz2uZ7k_5Y-_mDwZBuDGPuyvQ_CL1UUY.jpg": {
+  "slug": "north-point-mak-kee",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Takeout bag with receipt, not the venue itself",
+  "at": "2026-11-12T16:54:46.456Z"
+ },
+ "north-point-mak-kee\u0001https://fastly.4sqi.net/img/general/original/3451723_zi8KtB10kC5Yzpv7EkQ9DUY9mL8KybOK8maBSp62ZOE.jpg": {
   "slug": "north-point-mak-kee",
   "verdict": "MATCH",
-  "reason": "publish gate: Restaurant storefront with signage matching name, in Hong Kong style",
-  "at": "2026-08-20T09:03:30.300Z"
+  "reason": "patrol replace: Yellow storefront sign, North Point location visible",
+  "at": "2026-11-12T16:54:49.767Z"
+ },
+ "north-point-mak-kee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg/3840px-HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg": {
+  "slug": "north-point-mak-kee",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a shop in a Tsing Yi mall, 12 km from North Point (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:41.031Z"
  },
  "north-point-north-point-promenade\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North_Point_Promenade_202007.jpg/3840px-North_Point_Promenade_202007.jpg": {
   "slug": "north-point-north-point-promenade",
@@ -25590,9 +26203,9 @@
  },
  "osaka-cafe-82-osaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg/3840px-Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg": {
   "slug": "osaka-cafe-82-osaka",
-  "verdict": "MATCH",
-  "reason": "release check: Shows actual cafe exterior with signage and interior seating in Osaka",
-  "at": "2026-08-11T04:13:44.959Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a self-service cafe in Moriguchi, another cafe (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:42.789Z"
  },
  "osaka-dotonbori\u0001https://fastly.4sqi.net/img/general/original/575944775_JYq55XhcLpLi29ymk9T55m0meaBTFXQ3t6FrQExRPSg.jpg": {
   "slug": "osaka-dotonbori",
@@ -25613,11 +26226,23 @@
   "reason": "publish gate: Nighttime alley with lanterns, matches Hozenji Yokocho atmosphere",
   "at": "2026-09-30T07:55:27.122Z"
  },
- "osaka-kuromon-market\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg": {
+ "osaka-kuromon-market\u0001https://fastly.4sqi.net/img/general/original/421909715_QGSf-6adGaBNBaqRsIGbvci9Hyu2DVK8V4qc2eIao6U.jpg": {
   "slug": "osaka-kuromon-market",
   "verdict": "MATCH",
-  "reason": "publish gate: Interior food court seating area, plausible Kuromon Market scene",
-  "at": "2026-09-23T07:49:45.949Z"
+  "reason": "patrol replace: Kuromon Market storefront with Japanese signage visible",
+  "at": "2026-11-12T16:55:06.005Z"
+ },
+ "osaka-kuromon-market\u0001https://upload.wikimedia.org/wikipedia/commons/d/d9/Kuromon_Ichiba_Market_at_LaLaport_Kadoma4.jpg": {
+  "slug": "osaka-kuromon-market",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of a food hall at LaLaport Kadoma that borrows the name (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.778Z"
+ },
+ "osaka-kuromon-market\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg": {
+  "slug": "osaka-kuromon-market",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a food hall at Lalaport Kadoma that borrows the name, 10 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:41.899Z"
  },
  "osaka-le-sserafim-osaka-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Le_Sserafim_in_Tacoma_-_Image_2.jpg/3840px-Le_Sserafim_in_Tacoma_-_Image_2.jpg": {
   "slug": "osaka-le-sserafim-osaka-concert",
@@ -25872,11 +26497,17 @@
   "reason": "publish gate: Interior view of Oxford Covered Market, representative and recognizable",
   "at": "2026-10-31T07:54:35.648Z"
  },
- "oxford-the-university-parks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Engineering_Science_Building%2C_15_Mar_06.jpg/1920px-Engineering_Science_Building%2C_15_Mar_06.jpg": {
+ "oxford-the-university-parks\u0001https://fastly.4sqi.net/img/general/original/13733087_OyolHcoCF0I9V2SEntYed84hLCE7buqhdV0dEd10-og.jpg": {
   "slug": "oxford-the-university-parks",
   "verdict": "MATCH",
-  "reason": "publish gate: Open parkland with trees and Oxford buildings in distance",
-  "at": "2026-10-19T08:15:54.925Z"
+  "reason": "patrol replace: Open green field with goals, historic building backdrop",
+  "at": "2026-11-12T16:55:28.069Z"
+ },
+ "oxford-the-university-parks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Engineering_Science_Building%2C_15_Mar_06.jpg/1920px-Engineering_Science_Building%2C_15_Mar_06.jpg": {
+  "slug": "oxford-the-university-parks",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Engineering Science building (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:54.632Z"
  },
  "oxford-turf-tavern\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Turf_Tavern_in_Oxford%2C_England.jpg/1920px-Turf_Tavern_in_Oxford%2C_England.jpg": {
   "slug": "oxford-turf-tavern",
@@ -26055,12 +26686,17 @@
   "reasonKo": "두바이 팜 주메이라의 야간 분수 쇼",
   "at": "2026-08-13T14:04:37.200Z"
  },
- "palm-jumeirah-the-view-palm-jumeirah\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg/3840px-Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg": {
+ "palm-jumeirah-the-view-palm-jumeirah\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_View_at_the_Palm%2C_Dubai.jpg/3840px-The_View_at_the_Palm%2C_Dubai.jpg": {
   "slug": "palm-jumeirah-the-view-palm-jumeirah",
   "verdict": "MATCH",
-  "reason": "Aerial view of Palm Jumeirah's distinctive crescent shape",
-  "reasonKo": "팜 주메이라의 독특한 초승달 모양",
-  "at": "2026-08-11T14:03:51.363Z"
+  "reason": "hand-picked: the view from The View at The Palm — Aerial view of Palm Jumeirah, exact scenic view expected",
+  "at": "2026-11-12T17:15:24.925Z"
+ },
+ "palm-jumeirah-the-view-palm-jumeirah\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg/3840px-Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg": {
+  "slug": "palm-jumeirah-the-view-palm-jumeirah",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a view from a hotel balcony, not from The View (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:55.422Z"
  },
  "pamukkale-hierapolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hierapolis_01.jpg/1920px-Hierapolis_01.jpg": {
   "slug": "pamukkale-hierapolis",
@@ -26224,14 +26860,14 @@
  "paris-cherry-paris\u0001https://fastly.4sqi.net/img/general/original/514034313_7EvZAVPngbb6bbbz_rxXDkKr3LoBXcfe2xRJ8lisXMU.jpg": {
   "slug": "paris-cherry-paris",
   "verdict": "MATCH",
-  "reason": "patrol replace: Elegant French dining setup, upscale Paris restaurant",
-  "at": "2026-09-10T21:53:30.846Z"
+  "reason": "patrol replace: Elegant fine dining setup, Paris venue aesthetic",
+  "at": "2026-11-12T16:55:49.368Z"
  },
  "paris-cherry-paris\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cherry_blossom_%40_Beaugrenelle_%40_Paris_%2826208557615%29.jpg/3840px-Cherry_blossom_%40_Beaugrenelle_%40_Paris_%2826208557615%29.jpg": {
   "slug": "paris-cherry-paris",
-  "verdict": "MATCH",
-  "reason": "width upgrade: Cherry blossom tree, plausible hero for Cherry-themed venue",
-  "at": "2026-10-08T15:06:58.988Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a cherry tree in blossom (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:51.522Z"
  },
  "paris-danico\u0001https://fastly.4sqi.net/img/general/original/79897552_zPnBp7PcsUfoOBYUD0jaNJcjy7kM6b_P5uvGUAFZPqU.jpg": {
   "slug": "paris-danico",
@@ -26324,12 +26960,17 @@
   "reason": "patrol replace: Trendy Paris bar/restaurant, modern interior design",
   "at": "2026-09-19T21:37:27.947Z"
  },
- "paris-le-grand-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grand_caf%C3%A9_de_Moulins_salle_du_rez-de-chauss%C3%A9e%2C_avril_2017_2.jpg/1920px-Grand_caf%C3%A9_de_Moulins_salle_du_rez-de-chauss%C3%A9e%2C_avril_2017_2.jpg": {
+ "paris-le-grand-cafe\u0001https://fastly.4sqi.net/img/general/original/66033642_4SXxeNoNLThhUe9TATmqVi2Phz8xifWHsngwGE0qiHo.jpg": {
   "slug": "paris-le-grand-cafe",
   "verdict": "MATCH",
-  "reason": "Belle Époque Parisian café interior, ornate architecture",
-  "reasonKo": "파리의 아르누보 카페 인테리어, 화려한 장식",
-  "at": "2026-09-17T17:14:35.234Z"
+  "reason": "patrol replace: Elegant Parisian café interior, classical architecture, plan",
+  "at": "2026-11-12T16:56:03.877Z"
+ },
+ "paris-le-grand-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grand_caf%C3%A9_de_Moulins_salle_du_rez-de-chauss%C3%A9e%2C_avril_2017_2.jpg/1920px-Grand_caf%C3%A9_de_Moulins_salle_du_rez-de-chauss%C3%A9e%2C_avril_2017_2.jpg": {
+  "slug": "paris-le-grand-cafe",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Grand Cafe in Moulins (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:51.809Z"
  },
  "paris-le-sserafim-pureflow-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7b/Le_Sserafim_in_Tacoma.jpg": {
   "slug": "paris-le-sserafim-pureflow-tour",
@@ -26414,6 +27055,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic exterior view of the Panthéon, Paris",
   "at": "2026-09-28T07:41:23.658Z"
+ },
+ "paris-paris-autumn-festival-festival-d-automne-a-paris\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Paris_skyline_from_Montmartre_2026-01-03.jpg/3840px-Paris_skyline_from_Montmartre_2026-01-03.jpg": {
+  "slug": "paris-paris-autumn-festival-festival-d-automne-a-paris",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.671Z"
  },
  "paris-paris-photo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Paris_Photo_2017_%2838847849132%29.jpg/3840px-Paris_Photo_2017_%2838847849132%29.jpg": {
   "slug": "paris-paris-photo",
@@ -26626,6 +27273,24 @@
   "reason": "patrol reject: Mounted guards in street, unrelated to Wagner opera event",
   "at": "2026-10-19T23:08:05.857Z"
  },
+ "paris-wagner-s-ring-festival-paris-opera\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%C3%93pera%2C_Par%C3%ADs%2C_Francia%2C_2022-10-31%2C_DD_54-56_HDR.jpg/3840px-%C3%93pera%2C_Par%C3%ADs%2C_Francia%2C_2022-10-31%2C_DD_54-56_HDR.jpg": {
+  "slug": "paris-wagner-s-ring-festival-paris-opera",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Palais Garnier ceiling; the Ring is staged at Opera Bastille (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:20:44.723Z"
+ },
+ "paris-wagner-s-ring-festival-paris-opera\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bastille%2C_Paris_2011.jpg/3840px-Bastille%2C_Paris_2011.jpg": {
+  "slug": "paris-wagner-s-ring-festival-paris-opera",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: back buildings, not the opera house front (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:26:09.280Z"
+ },
+ "paris-wagner-s-ring-festival-paris-opera\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Skyline_of_Paris_4.jpg/3840px-Skyline_of_Paris_4.jpg": {
+  "slug": "paris-wagner-s-ring-festival-paris-opera",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.499Z"
+ },
  "paris-wagner-s-ring-festival-paris-opera\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Op%C3%A9ra_Bastille_GJ.jpg/3840px-Op%C3%A9ra_Bastille_GJ.jpg": {
   "slug": "paris-wagner-s-ring-festival-paris-opera",
   "verdict": "MISMATCH",
@@ -26634,9 +27299,9 @@
  },
  "paris-wagner-s-ring-festival-paris-opera\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Side_View_of_the_Op%C3%A9ra_Bastille.jpg/3840px-Side_View_of_the_Op%C3%A9ra_Bastille.jpg": {
   "slug": "paris-wagner-s-ring-festival-paris-opera",
-  "verdict": "MISMATCH",
-  "reason": "patrol reject: Shows Opéra Bastille exterior but plaza, not venue focus",
-  "at": "2026-10-18T23:12:07.698Z"
+  "verdict": "MATCH",
+  "reason": "hand-picked: Opera Bastille, where the Ring is staged — Shows Opéra Bastille venue exterior",
+  "at": "2026-11-12T16:26:21.659Z"
  },
  "paris-wagner-s-ring-festival-paris-opera\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Op%C3%A9ra_Bastille_GJ_1.jpg/3840px-Op%C3%A9ra_Bastille_GJ_1.jpg": {
   "slug": "paris-wagner-s-ring-festival-paris-opera",
@@ -27001,10 +27666,9 @@
  },
  "pattaya-mamamia-pattaya-street-noodles\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg/1920px-DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg": {
   "slug": "pattaya-mamamia-pattaya-street-noodles",
-  "verdict": "MATCH",
-  "reason": "Street food cart, noodles, Thai night market setting",
-  "reasonKo": "태국 야시장 국수 노점, 현지감 있음",
-  "at": "2026-08-03T14:35:12.799Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: an unnamed night-market cart (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:46.571Z"
  },
  "pattaya-mini-siam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/202307_Mini_Siam%2C_Pattaya_16.jpg/1920px-202307_Mini_Siam%2C_Pattaya_16.jpg": {
   "slug": "pattaya-mini-siam",
@@ -27428,9 +28092,15 @@
  },
  "phnom-penh-riverside-walk-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg/3840px-Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg": {
   "slug": "phnom-penh-riverside-walk-street",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.919Z"
+ },
+ "phnom-penh-riverside-walk-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Riverside_Park%2C_Phnom_Penh_3.jpg/3840px-Riverside_Park%2C_Phnom_Penh_3.jpg": {
+  "slug": "phnom-penh-riverside-walk-street",
   "verdict": "MATCH",
-  "reason": "publish gate: Riverside walkway with flags, river view in Phnom Penh",
-  "at": "2026-09-19T13:27:39.763Z"
+  "reason": "hand-picked: the riverside promenade — Riverside promenade with palm trees, plausible Phnom Penh walk street",
+  "at": "2026-11-12T17:15:19.003Z"
  },
  "phnom-penh-rosewood-phnom-penh-s-taste-of-cambodia-festival\u0001https://fastly.4sqi.net/img/general/original/1923031_20-ZuHQa3DmWgeoLTAHYl22gA2uluzAdLAmpKoaTZv4.jpg": {
   "slug": "phnom-penh-rosewood-phnom-penh-s-taste-of-cambodia-festival",
@@ -27888,11 +28558,23 @@
   "reason": "publish gate: Aerial view of Pisac town, valley, mountains - representative",
   "at": "2026-10-27T15:25:07.955Z"
  },
- "playa-del-carmen-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg": {
+ "playa-del-carmen-el-castillo\u0001https://live.staticflickr.com/8174/8012023642_7c472f5a3e_b.jpg": {
+  "slug": "playa-del-carmen-el-castillo",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: black-and-white photo; colour photos of the pyramid exist (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:15:02.173Z"
+ },
+ "playa-del-carmen-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/3840px-Chichen_Itza_3.jpg": {
   "slug": "playa-del-carmen-el-castillo",
   "verdict": "MATCH",
-  "reason": "publish gate: Clear representative view of El Castillo pyramid",
-  "at": "2026-10-06T14:20:35.048Z"
+  "reason": "hand-picked: El Castillo at Chichen Itza, in colour — Classic iconic view of El Castillo pyramid, Chichen Itza",
+  "at": "2026-11-12T17:15:30.727Z"
+ },
+ "playa-del-carmen-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg": {
+  "slug": "playa-del-carmen-el-castillo",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.949Z"
  },
  "playa-del-carmen-portal-maya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png/3840px-Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png": {
   "slug": "playa-del-carmen-portal-maya",
@@ -28081,11 +28763,17 @@
   "reason": "publish gate: Cathedral facade, representative exterior view of landmark",
   "at": "2026-10-06T07:37:42.796Z"
  },
- "puebla-el-patio-de-san-luis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg/3840px-Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg": {
+ "puebla-el-patio-de-san-luis\u0001https://fastly.4sqi.net/img/general/original/3426465_GlhXvs9On6RFH6gZXlPoSV3_pfKKcHMtUaPrHmSHI0Q.jpg": {
   "slug": "puebla-el-patio-de-san-luis",
   "verdict": "MATCH",
-  "reason": "publish gate: Colonial arched courtyard matches restaurant's patio setting",
-  "at": "2026-10-05T16:29:07.323Z"
+  "reason": "patrol replace: Restaurant storefront matches venue name and location",
+  "at": "2026-11-12T16:56:55.219Z"
+ },
+ "puebla-el-patio-de-san-luis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg/3840px-Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg": {
+  "slug": "puebla-el-patio-de-san-luis",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a convent courtyard in Huejotzingo, 25 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:39.236Z"
  },
  "puebla-la-casa-del-mendrugo\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Casa_del_Mendrugo_%281%29.jpg": {
   "slug": "puebla-la-casa-del-mendrugo",
@@ -28286,11 +28974,23 @@
   "reason": "publish gate: Hillside view with buildings overlooking Puerto Vallarta bay",
   "at": "2026-10-04T07:46:52.424Z"
  },
- "puerto-vallarta-los-arcos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Los_Arcos_de_Mismaloya.jpg/3840px-Los_Arcos_de_Mismaloya.jpg": {
+ "puerto-vallarta-los-arcos\u0001https://fastly.4sqi.net/img/general/original/47242620_KTVS6QFTwUXsp2g7jjvd69SewHM7998qiYKEmfvlVMs.jpg": {
   "slug": "puerto-vallarta-los-arcos",
   "verdict": "MATCH",
-  "reason": "publish gate: Shows Los Arcos rock formations with arch, Puerto Vallarta",
-  "at": "2026-10-06T14:25:17.292Z"
+  "reason": "patrol replace: Los Arcos landmark in Puerto Vallarta, Mexico",
+  "at": "2026-11-12T16:57:18.256Z"
+ },
+ "puerto-vallarta-los-arcos\u0001https://fastly.4sqi.net/img/general/original/6658213_2PZGiz-UDphbJEHyvxO_YTX0IExe77U_ndbl1-JOt-M.jpg": {
+  "slug": "puerto-vallarta-los-arcos",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows ocean/waves, not the Los Arcos rock formations",
+  "at": "2026-11-12T16:57:14.900Z"
+ },
+ "puerto-vallarta-los-arcos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Los_Arcos_de_Mismaloya.jpg/3840px-Los_Arcos_de_Mismaloya.jpg": {
+  "slug": "puerto-vallarta-los-arcos",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Mismaloya sea rocks; this guide is the arches on the Malecon (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:44.230Z"
  },
  "puerto-vallarta-pancho-s-takos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg/3840px-Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg": {
   "slug": "puerto-vallarta-pancho-s-takos",
@@ -28352,11 +29052,17 @@
   "reason": "publish gate: Clear exterior view of Putra Mosque with dome and minaret",
   "at": "2026-09-15T07:47:32.113Z"
  },
- "putrajaya-putra-perdana-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Panorama_of_Taman_Putra_Perdana%2C_Putrajaya_-_panoramio.jpg": {
+ "putrajaya-putra-perdana-park\u0001https://fastly.4sqi.net/img/general/original/2783455_3Ouu4Mncd1ZL5704QpoFBusdQpArUElAqJHKmB5PvQE.jpg": {
   "slug": "putrajaya-putra-perdana-park",
   "verdict": "MATCH",
-  "reason": "publish gate: Park pathways, trees, and greenery representative of park",
-  "at": "2026-09-16T07:40:59.337Z"
+  "reason": "patrol replace: Distinctive monument architecture matches Putrajaya park set",
+  "at": "2026-11-12T16:57:30.817Z"
+ },
+ "putrajaya-putra-perdana-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Panorama_of_Taman_Putra_Perdana%2C_Putrajaya_-_panoramio.jpg": {
+  "slug": "putrajaya-putra-perdana-park",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:00.978Z"
  },
  "putrajaya-putra-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Putra_Square_Flags_Putrajaya.jpg/3840px-Putra_Square_Flags_Putrajaya.jpg": {
   "slug": "putrajaya-putra-square",
@@ -28481,11 +29187,41 @@
   "reason": "event publish gate: Performers singing on concert stage, matches event",
   "at": "2026-10-29T00:34:52.912Z"
  },
+ "quezon-city-aq-prime-international-open-chess-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Skyline_in_Manila_36.jpg/3840px-Skyline_in_Manila_36.jpg": {
+  "slug": "quezon-city-aq-prime-international-open-chess-championship",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.297Z"
+ },
+ "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Makati_CBD_skyline_%28Makati%3B_12-31-2019%29.jpg": {
+  "slug": "quezon-city-izna-manila-debut-concert",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Metro Manila skyline — Representative Manila skyline cityscape view",
+  "at": "2026-11-12T16:26:27.002Z"
+ },
  "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/92/Izna_250930.jpg": {
   "slug": "quezon-city-izna-manila-debut-concert",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"izna\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-03T08:22:43.663Z"
+ },
+ "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Skyline_in_Manila_34.jpg/3840px-Skyline_in_Manila_34.jpg": {
+  "slug": "quezon-city-izna-manila-debut-concert",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.336Z"
+ },
+ "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg/3840px-Manila_Skyline_from_Padre_Jacinto_Zamora_Bridge%2C_Pandacan%2C_October_2025.jpg": {
+  "slug": "quezon-city-izna-manila-debut-concert",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: mostly empty sky and power lines, skyline a sliver (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:26:09.011Z"
+ },
+ "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manila%2C_Rizal_Park_3%2C_Philippines.jpg/3840px-Manila%2C_Rizal_Park_3%2C_Philippines.jpg": {
+  "slug": "quezon-city-izna-manila-debut-concert",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: three passers-by walking at the camera are the subject, not a city view (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:20:44.144Z"
  },
  "quezon-city-louis-tomlinson-manila-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Louis_Tomlinson.jpg": {
   "slug": "quezon-city-louis-tomlinson-manila-concert",
@@ -28932,9 +29668,9 @@
  },
  "rome-terracotta-osteria-con-brace\u0001https://fastly.4sqi.net/img/general/original/523156937_gFtfIvxZulujDjhT-F_QPeKbLXrYHysFrNtkbmdaauc.jpg": {
   "slug": "rome-terracotta-osteria-con-brace",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Genuine Rome street with outdoor osteria seating",
-  "at": "2026-09-04T21:54:19.643Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Osteria Pesce Fritto e Baccala (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:58.280Z"
  },
  "rome-trevi-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg": {
   "slug": "rome-trevi-fountain",
@@ -29750,9 +30486,9 @@
  },
  "seattle-ba-bar-green\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Seattle_in_October_2022_-_094.jpg/1920px-Seattle_in_October_2022_-_094.jpg": {
   "slug": "seattle-ba-bar-green",
-  "verdict": "MATCH",
-  "reason": "publish gate: Exterior storefront view of restaurant, representative hero shot",
-  "at": "2026-09-16T07:45:32.984Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: another Ba Bar branch, 2.4 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:47.423Z"
  },
  "seattle-biang-biang-noodles\u0001https://fastly.4sqi.net/img/general/original/46454654_RvtSqMCY9IhAcntCy1SQ3p1AhFBZ8x_f_FwpSnAke6U.jpg": {
   "slug": "seattle-biang-biang-noodles",
@@ -30393,9 +31129,9 @@
  },
  "seoul-chipotle-gangnam\u0001https://fastly.4sqi.net/img/general/original/481575646_kuEWmu-njr-B1PZaVpKT92UNnJHs_6XRPP7gkvCGOjk.jpg": {
   "slug": "seoul-chipotle-gangnam",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Korean BBQ/hot pot cuisine, trendy Seoul restaurant setting",
-  "at": "2026-09-30T23:11:36.597Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Gangnam Myeonok, a cold-noodle restaurant (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:56.175Z"
  },
  "seoul-chipotle-gangnam\u0001https://fastly.4sqi.net/img/general/original/554534777_XiIBQe7k7S8b4W5uttbnZWYxK5nju3vOul_x39LFzOc.jpg": {
   "slug": "seoul-chipotle-gangnam",
@@ -30755,9 +31491,9 @@
  },
  "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/15089414_-P6_F7Uiv7fvQBR3P94ey0PS6kDlbHBxH3jfwKlTT2k.jpg": {
   "slug": "seoul-nudake-tea-house-seongsu",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tea house interior with Korean signage, trendy aesthetic",
-  "at": "2026-10-01T23:37:48.808Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue OSULLOC Tea House (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:57.123Z"
  },
  "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/5556746_gm4tdYCMujs7m51EayaAafn7O7XpACSDW_AXvv2jeEg.jpg": {
   "slug": "seoul-nudake-tea-house-seongsu",
@@ -31065,12 +31801,17 @@
   "reason": "Ornate Andalusian architecture typical of Royal Alcázar",
   "at": "2026-07-25T02:49:23.822Z"
  },
- "sha-tin-dab-pa-modern-chinese-cuisine\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E4%BA%BA%E6%96%87%E8%97%9D%E8%A1%93%E8%B3%BC%E7%89%A9%E9%A4%A8_K11_MUSEA_mall_September_2022_Px3_127_%E7%A8%BB%E6%88%90%E4%BA%AC%E5%B7%9D%E6%BB%AC_Dab-pa_Modern_Chinese_Cuisine_Restaurant.jpg/3840px-HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E4%BA%BA%E6%96%87%E8%97%9D%E8%A1%93%E8%B3%BC%E7%89%A9%E9%A4%A8_K11_MUSEA_mall_September_2022_Px3_127_%E7%A8%BB%E6%88%90%E4%BA%AC%E5%B7%9D%E6%BB%AC_Dab-pa_Modern_Chinese_Cuisine_Restaurant.jpg": {
+ "sha-tin-dab-pa-modern-chinese-cuisine\u0001https://fastly.4sqi.net/img/general/original/1719059__LufEYfhAKDY5WmMv_AoU3M_7L6da2utr10MaQKbxlQ.jpg": {
   "slug": "sha-tin-dab-pa-modern-chinese-cuisine",
   "verdict": "MATCH",
-  "reason": "Restaurant entrance with signage and dining area visible",
-  "reasonKo": "식당 입구와 식사 공간이 명확함",
-  "at": "2026-08-18T13:27:44.753Z"
+  "reason": "patrol replace: Modern Chinese restaurant interior, Hong Kong style",
+  "at": "2026-11-12T16:58:26.500Z"
+ },
+ "sha-tin-dab-pa-modern-chinese-cuisine\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E4%BA%BA%E6%96%87%E8%97%9D%E8%A1%93%E8%B3%BC%E7%89%A9%E9%A4%A8_K11_MUSEA_mall_September_2022_Px3_127_%E7%A8%BB%E6%88%90%E4%BA%AC%E5%B7%9D%E6%BB%AC_Dab-pa_Modern_Chinese_Cuisine_Restaurant.jpg/3840px-HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E4%BA%BA%E6%96%87%E8%97%9D%E8%A1%93%E8%B3%BC%E7%89%A9%E9%A4%A8_K11_MUSEA_mall_September_2022_Px3_127_%E7%A8%BB%E6%88%90%E4%BA%AC%E5%B7%9D%E6%BB%AC_Dab-pa_Modern_Chinese_Cuisine_Restaurant.jpg": {
+  "slug": "sha-tin-dab-pa-modern-chinese-cuisine",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the K11 Musea branch in Tsim Sha Tsui, not Sha Tin (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:42.189Z"
  },
  "sha-tin-hong-kong-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/HKScienceMuseumview.jpg": {
   "slug": "sha-tin-hong-kong-science-museum",
@@ -31209,9 +31950,9 @@
  },
  "shanghai-atelier-kau-lou-opia\u0001https://fastly.4sqi.net/img/general/original/85142592_9QbE394Xc3sMAILM03OPfd0JiqMCc0kQDjX7wdcwjcE.jpg": {
   "slug": "shanghai-atelier-kau-lou-opia",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Storefront displays neon sign 'ATELIER DE TASTE BUD'",
-  "at": "2026-09-24T22:48:04.329Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Atelier By Taste Buds (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:57.696Z"
  },
  "shanghai-blossom\u0001https://fastly.4sqi.net/img/general/original/72068642_KQlsP0uh-WPKGIEAYwMtQQVkUhGEzzTu8GMiaNCyETI.jpg": {
   "slug": "shanghai-blossom",
@@ -31289,9 +32030,9 @@
  },
  "shanghai-ignis-table\u0001https://fastly.4sqi.net/img/general/original/5046951_5XGOKu7E0_ibihBbwv0HC-n9HRxKsxO78iGSj-Hs0v0.jpg": {
   "slug": "shanghai-ignis-table",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Fine dining plated dish, wine service, upscale setting",
-  "at": "2026-08-20T20:12:52.783Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Tai'an Table (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:57.408Z"
  },
  "shanghai-illum\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Illum_2017.jpg/1920px-Illum_2017.jpg": {
   "slug": "shanghai-illum",
@@ -31356,9 +32097,9 @@
  },
  "shanghai-panyu-lu-organ-rice-noodle-spot\u0001https://fastly.4sqi.net/img/general/original/85142592_7xdzOxwpimbRzQlI3x667T-vuyt652fowLJ6Z28JVrI.jpg": {
   "slug": "shanghai-panyu-lu-organ-rice-noodle-spot",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Local noodle shop, diners eating, Chinese menu visible",
-  "at": "2026-09-03T22:09:44.236Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Lao Di Fang Noodle House (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:58.861Z"
  },
  "shanghai-people-s-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shanghai_-_People%27s_Park_-_0005.jpg/1920px-Shanghai_-_People%27s_Park_-_0005.jpg": {
   "slug": "shanghai-people-s-park",
@@ -31459,9 +32200,9 @@
  },
  "shanghai-the-dome\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Dome_Bar%2C_Radisson_Blu%2C_Shanghai.jpg/3840px-Sky_Dome_Bar%2C_Radisson_Blu%2C_Shanghai.jpg": {
   "slug": "shanghai-the-dome",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Nightclub/bar interior consistent with trendy venue",
-  "at": "2026-10-05T21:41:38.961Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Radisson's Sky Dome Bar, another venue (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:52.108Z"
  },
  "shanghai-vice\u0001https://fastly.4sqi.net/img/general/original/20410869_p1dlfceER_gz4l7VvzLp-E9tjFr8MVyfOn8LtGFfzts.jpg": {
   "slug": "shanghai-vice",
@@ -32995,9 +33736,15 @@
  },
  "sokcho-sokcho-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Red_lighthouse_in_Sokcho_01.jpg/3840px-Red_lighthouse_in_Sokcho_01.jpg": {
   "slug": "sokcho-sokcho-lighthouse",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows red lighthouse on breakwater, representative Sokcho harbor view",
-  "at": "2026-10-02T07:41:42.247Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the red breakwater light, not the hilltop lighthouse (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:44.815Z"
+ },
+ "sokcho-sokcho-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Red_lighthouse_in_Sokcho_02.jpg/3840px-Red_lighthouse_in_Sokcho_02.jpg": {
+  "slug": "sokcho-sokcho-lighthouse",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of the red breakwater light, not the hilltop lighthouse (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.874Z"
  },
  "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Window_reflections%2C_Rolex_headquarters%2C_Geneva-07.jpg/3840px-Window_reflections%2C_Rolex_headquarters%2C_Geneva-07.jpg": {
   "slug": "spain-rolex-grand-final-challenge-tour-championship",
@@ -33228,12 +33975,17 @@
   "reasonKo": "람캄향 국립공원 전형적 산림경관",
   "at": "2026-09-18T16:41:55.728Z"
  },
+ "sukhothai-sukhothai-buddha-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/13th_Century_Thai_City_of_Sukhothai-_Wat_Chana_Songkhram_Buddha%2C_Sukhothai_Historical_Park_5.jpg/3840px-13th_Century_Thai_City_of_Sukhothai-_Wat_Chana_Songkhram_Buddha%2C_Sukhothai_Historical_Park_5.jpg": {
+  "slug": "sukhothai-sukhothai-buddha-park",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of Wat Chana Songkhram in the Historical Park, 13 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.745Z"
+ },
  "sukhothai-sukhothai-buddha-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13th_Century_Thai_City_of_Sukhothai-_Wat_Chana_Songkhram_Buddha%2C_Sukhothai_Historical_Park_7.jpg/3840px-13th_Century_Thai_City_of_Sukhothai-_Wat_Chana_Songkhram_Buddha%2C_Sukhothai_Historical_Park_7.jpg": {
   "slug": "sukhothai-sukhothai-buddha-park",
-  "verdict": "MATCH",
-  "reason": "Buddha statue at Sukhothai temple ruins, authentic setting",
-  "reasonKo": "석고타이 사원 불상, 정통적인 유적지",
-  "at": "2026-08-15T13:11:39.044Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Wat Chana Songkhram in the Historical Park, 13 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:40.733Z"
  },
  "sukhothai-sukhothai-historical-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wat_srichum_03.jpg/1920px-Wat_srichum_03.jpg": {
   "slug": "sukhothai-sukhothai-historical-park",
@@ -33732,16 +34484,21 @@
  },
  "sydney-watermans\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Watermans_Cove_Sydney.jpg/3840px-Watermans_Cove_Sydney.jpg": {
   "slug": "sydney-watermans",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Watermans Cove before the restaurant existed, not the restaurant (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:52.402Z"
+ },
+ "sydney-wendy-whiteley-s-secret-garden\u0001https://fastly.4sqi.net/img/general/original/1404802084_2Wrrd_PZ7o17Wq3s5wqzTI37iF51Silj-8sj0JUWGaM.jpg": {
+  "slug": "sydney-wendy-whiteley-s-secret-garden",
   "verdict": "MATCH",
-  "reason": "metadata veto: Commons names Sydney (vision said: Shows Sydney waterfront architecture, not a restaurant venue)",
-  "reasonKo": null,
-  "at": "2026-10-01T18:33:38.731Z"
+  "reason": "patrol replace: Lush garden path with water view, Sydney setting",
+  "at": "2026-11-12T16:59:55.693Z"
  },
  "sydney-wendy-whiteley-s-secret-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Wendy_Whiteley%27s_Secret_Garden_pano.jpg/3840px-Wendy_Whiteley%27s_Secret_Garden_pano.jpg": {
   "slug": "sydney-wendy-whiteley-s-secret-garden",
-  "verdict": "MATCH",
-  "reason": "publish gate: Lush garden with fig tree, plausible Sydney secret garden",
-  "at": "2026-09-28T16:44:19.800Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:01.012Z"
  },
  "sydney-yiu-ming-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%281%29Yiu_Ming_Temple-2.jpg/1920px-%281%29Yiu_Ming_Temple-2.jpg": {
   "slug": "sydney-yiu-ming-temple",
@@ -33989,9 +34746,9 @@
  },
  "taipa-taipa-food-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg/3840px-Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg": {
   "slug": "taipa-taipa-food-street",
-  "verdict": "MATCH",
-  "reason": "publish gate: Food court interior with Chinese signage, plausible food street",
-  "at": "2026-10-07T07:52:10.262Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the ferry terminal food court (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:47.717Z"
  },
  "taipa-vila-da-taipa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vila_da_Taipa_13-02-2023%281%29.jpg/3840px-Vila_da_Taipa_13-02-2023%281%29.jpg": {
   "slug": "taipa-vila-da-taipa",
@@ -34151,13 +34908,17 @@
   "reason": "event publish gate: Performer at piano, likely Diana Krall in concert",
   "at": "2026-11-09T00:38:55.470Z"
  },
- "taipei-din-tai-fung-101\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg/1920px-TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg": {
+ "taipei-din-tai-fung-101\u0001https://fastly.4sqi.net/img/general/original/454225848_vmS9NUsYJIPqorrUj2PFuJTOrxwYsnuiLbvB_Ey9WlY.jpg": {
   "slug": "taipei-din-tai-fung-101",
   "verdict": "MATCH",
-  "reason": "Din Tai Fung display case with signature noodle dishes",
-  "reasonKo": "딘타이펑 대표 요리 전시 케이스",
-  "at": "2026-08-03T14:40:01.550Z",
-  "migratedFrom": "width-normalised URL"
+  "reason": "patrol replace: Din Tai Fung storefront with red Chinese signage, Taipei.",
+  "at": "2026-11-12T17:00:18.330Z"
+ },
+ "taipei-din-tai-fung-101\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg/1920px-TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg": {
+  "slug": "taipei-din-tai-fung-101",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Xinyi Road shop, not the Taipei 101 branch (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:46.260Z"
  },
  "taipei-din-tai-fung-101\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg/3840px-TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E5%8C%97_Taipei_%E5%A4%A7%E5%AE%89%E5%8D%80_Da%27An_%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%8C%E6%AE%B5_Xinyi_Road_%E9%BC%8E%E6%B3%B0%E8%B1%90_Din_Tai_Fung_Restaurant_food_March_2024_R12S_101.jpg": {
   "slug": "taipei-din-tai-fung-101",
@@ -34864,6 +35625,12 @@
   "reason": "hand-reviewed: filename shares only \"anime\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-10-29T08:14:16.264Z"
  },
+ "tashkent-anime-soundtrack-concert-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Magic_city%2C_Navoiy_Park%2C_Tashkent_2026_02.jpg/3840px-Magic_city%2C_Navoiy_Park%2C_Tashkent_2026_02.jpg": {
+  "slug": "tashkent-anime-soundtrack-concert-tashkent",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.534Z"
+ },
  "tashkent-bon\u0001https://fastly.4sqi.net/img/general/original/56026411_FS3jqrCtXEnlO-4gONBG9KFYKWkcE998EuS35WGpcPk.jpg": {
   "slug": "tashkent-bon",
   "verdict": "MATCH",
@@ -35173,9 +35940,9 @@
  },
  "tashkent-restaurant-caravan\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/Caravan_Restaurant_Abu_Ghosh_-_The_Inner_Space_of_the_restaurant_-_Photo_No._3.jpg": {
   "slug": "tashkent-restaurant-caravan",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Genuine restaurant interior, plausible venue photo",
-  "at": "2026-09-10T21:55:58.557Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Caravan restaurant in Abu Ghosh, Israel (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:52.688Z"
  },
  "tashkent-shavi-coffee-roasters\u0001https://fastly.4sqi.net/img/general/original/567567212_UiVOIhQIFG5Ihmi_KSDXgBVw1I76svzgwmalKtioVHA.jpg": {
   "slug": "tashkent-shavi-coffee-roasters",
@@ -35212,6 +35979,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Photo of a sign, not the festival event",
   "at": "2026-11-09T03:28:13.680Z"
+ },
+ "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chirchiq_river._Tashkent_02.jpg/3840px-Chirchiq_river._Tashkent_02.jpg": {
+  "slug": "tashkent-silk-road-international-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:47.569Z"
  },
  "tashkent-silk-road-international-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Silk_Roadies...._%2821229070250%29.jpg/3840px-The_Silk_Roadies...._%2821229070250%29.jpg": {
   "slug": "tashkent-silk-road-international-film-festival",
@@ -35441,6 +36214,12 @@
   "reason": "publish gate: Flea market table with coins, medals, pins, typical of Dry Bridge",
   "at": "2026-10-26T15:34:23.254Z"
  },
+ "tbilisi-feast-of-the-100-000-holy-martyrs-of-tbilisi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg/3840px-2013_-_banner_-_Georgia_-_The_Evening_Tbilisi.jpg": {
+  "slug": "tbilisi-feast-of-the-100-000-holy-martyrs-of-tbilisi",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.740Z"
+ },
  "tbilisi-georgian-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Museum_of_the_Soviet_Occupation_in_Tbilisi.jpg/1920px-Museum_of_the_Soviet_Occupation_in_Tbilisi.jpg": {
   "slug": "tbilisi-georgian-national-museum",
   "verdict": "MATCH",
@@ -35593,9 +36372,15 @@
  },
  "tbilisi-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-2%2C_May%2C_2022.jpg": {
   "slug": "tbilisi-viewpoint",
-  "verdict": "MATCH",
-  "reason": "publish gate: Panoramic view of Tbilisi consistent with viewpoint attraction",
-  "at": "2026-10-26T15:35:39.514Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Betlemi Rise viewpoint in the old town, 4.5 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:45.384Z"
+ },
+ "tbilisi-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/View_to_Tbilisi_from_Betlemi_Rise_Viewpoint-4%2C_May%2C_2022.jpg": {
+  "slug": "tbilisi-viewpoint",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: gallery photo of the Betlemi Rise viewpoint, 4.5 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T17:24:58.902Z"
  },
  "te-anau-fiordland-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hollyford_River_NZ_11.jpg/1920px-Hollyford_River_NZ_11.jpg": {
   "slug": "te-anau-fiordland-national-park",
@@ -35783,9 +36568,9 @@
  },
  "tokyo-bar-satoyama-spirits-tokyo\u0001https://fastly.4sqi.net/img/general/original/421799847_0zF-i_tU-YfmncbMXL05mtYjomLHez2x5ZhlwgsU2yA.jpg": {
   "slug": "tokyo-bar-satoyama-spirits-tokyo",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Bar interior with spirits, Japanese aesthetic, trendy settin",
-  "at": "2026-09-10T21:56:04.189Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Spirits Bar Sunface (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:59.162Z"
  },
  "tokyo-bigbang-japan-dome-tour-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/%C3%98ystein_Greni_Bigbang_EnergiM%C3%B8lla.jpg": {
   "slug": "tokyo-bigbang-japan-dome-tour-tokyo",
@@ -35849,9 +36634,9 @@
  },
  "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/1206726_Y_rgl40n0Vn0LIfqUBqmAf9AKfneV2D0ocvQouzax4M.jpg": {
   "slug": "tokyo-chiikawa-ramen-buta",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Ramen bowl with fried chicken topping, Tokyo style",
-  "at": "2026-08-29T02:34:27.308Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue RAMEN TOMIRAI (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:58.560Z"
  },
  "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/1372627882_OF1gAEKiljiQJe17swdmCgW9TAWuy92FTg_el3lcobE.jpg": {
   "slug": "tokyo-chiikawa-ramen-buta",
@@ -36769,11 +37554,23 @@
   "reason": "patrol re-check: Waterfront promenade plaza with skyline view, consistent with venue",
   "at": "2026-08-16T20:35:40.804Z"
  },
- "tskaltubo-magnolia\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Magnolia_sieboldii_flower_1.jpg": {
+ "tskaltubo-magnolia\u0001https://fastly.4sqi.net/img/general/original/1384058018_13N_Ex2UpJjtu1xSSMhsSiV8M_Pu8Q9NPDyBWSwUR14.jpg": {
+  "slug": "tskaltubo-magnolia",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Abandoned ruins, not a trendy venue hero shot",
+  "at": "2026-11-12T17:01:00.614Z"
+ },
+ "tskaltubo-magnolia\u0001https://fastly.4sqi.net/img/general/original/2593778_y-5ue4aRJgqDe-w4vNTJsgMHcan0LJ3p7ST-ti1_QUg.jpg": {
   "slug": "tskaltubo-magnolia",
   "verdict": "MATCH",
-  "reason": "publish gate: Close-up of magnolia flower, matches venue theme",
-  "at": "2026-10-21T13:29:32.214Z"
+  "reason": "patrol replace: Outdoor courtyard venue, Georgian architecture, casual dinin",
+  "at": "2026-11-12T17:01:04.132Z"
+ },
+ "tskaltubo-magnolia\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Magnolia_sieboldii_flower_1.jpg": {
+  "slug": "tskaltubo-magnolia",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a magnolia flower (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:53.033Z"
  },
  "tskaltubo-prometheus-cave-natural-monument\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Prometheus_Cave_Natural_Monument.jpg": {
   "slug": "tskaltubo-prometheus-cave-natural-monument",
@@ -37142,9 +37939,9 @@
  },
  "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/f/fa/Lanzhou_Beef_Noodles_%28S%C3%BCkhbaatar%2C_Ulaanbaatar%29.jpg": {
   "slug": "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant",
-  "verdict": "MATCH",
-  "reason": "publish gate: Exterior shows restaurant sign and building in Ulaanbaatar",
-  "at": "2026-10-14T13:02:11.455Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: the Sukhbaatar branch, 2.2 km away (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:37:48.283Z"
  },
  "ulaanbaatar-manzushir-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Manzushir_Monastery.jpg/1920px-Manzushir_Monastery.jpg": {
   "slug": "ulaanbaatar-manzushir-monastery",
@@ -37586,6 +38383,12 @@
   "reason": "patrol reject: Podcast setting, not Koyote performance or venue",
   "at": "2026-11-02T01:09:22.313Z"
  },
+ "vancouver-koyote-festival-north-america-tour-vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vancouver_dusk_pano.jpg/3840px-Vancouver_dusk_pano.jpg": {
+  "slug": "vancouver-koyote-festival-north-america-tour-vancouver",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: skyline strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:42:46.576Z"
+ },
  "vancouver-lonsdale-quay-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lonsdale_Quay%2C_Vancouver_%28470103%29_%289444274772%29.jpg/3840px-Lonsdale_Quay%2C_Vancouver_%28470103%29_%289444274772%29.jpg": {
   "slug": "vancouver-lonsdale-quay-market",
   "verdict": "MATCH",
@@ -37928,11 +38731,41 @@
   "reason": "publish gate: Shows vintage cars and fire trucks inside transport museum",
   "at": "2026-10-21T07:49:46.711Z"
  },
+ "wanaka-new-world-wanaka\u0001https://fastly.4sqi.net/img/general/original/129195_opl46xPiqMRuz62M3vXxpQZ6hYg6C11LQY7gos1pxDI.jpg": {
+  "slug": "wanaka-new-world-wanaka",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Packaged product shot, not the store itself",
+  "at": "2026-11-12T17:01:29.428Z"
+ },
+ "wanaka-new-world-wanaka\u0001https://fastly.4sqi.net/img/general/original/13764988_DXX5s3k3uXboszfAoT2l8IPEhHIfg0Zdg92HfvMrY6M.jpg": {
+  "slug": "wanaka-new-world-wanaka",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shelf of beer cans, not representative venue hero shot",
+  "at": "2026-11-12T17:01:31.306Z"
+ },
+ "wanaka-new-world-wanaka\u0001https://fastly.4sqi.net/img/general/original/1770026_yqcQctSNIFhOke-rxp-IMSEwaoKCIcs3qB19SbVHRBs.jpg": {
+  "slug": "wanaka-new-world-wanaka",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Product shelf close-up, not representative store view",
+  "at": "2026-11-12T17:01:27.279Z"
+ },
+ "wanaka-new-world-wanaka\u0001https://fastly.4sqi.net/img/general/original/387036127_9DrfBvwT90NAKUZAk-u9vOIJMmfUkU38H8Sht9gICoo.jpg": {
+  "slug": "wanaka-new-world-wanaka",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Grocery store meat section, not a restaurant venue.",
+  "at": "2026-11-12T17:01:34.370Z"
+ },
+ "wanaka-new-world-wanaka\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/Stability_testing_from_Matthijs_at_Wanaka_leaning_tower_New_Zealand%2C_very_powerfull_-_panoramio.jpg": {
+  "slug": "wanaka-new-world-wanaka",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wrong venue: Leaning Tower attraction, not New World supermarket",
+  "at": "2026-11-12T17:07:17.167Z"
+ },
  "wanaka-new-world-wanaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Puzzling_World%2C_Wanaka%2C_New_Zealand_%28panorama_photo%29.jpg/3840px-Puzzling_World%2C_Wanaka%2C_New_Zealand_%28panorama_photo%29.jpg": {
   "slug": "wanaka-new-world-wanaka",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows Puzzling World Wanaka exterior, quirky architecture, mountains",
-  "at": "2026-10-25T07:47:57.473Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Puzzling World attraction, not the New World supermarket (owner photo review 2026-11-13)",
+  "at": "2026-11-12T15:43:30.273Z"
  },
  "wanaka-puzzling-world\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Puzzling_World%2C_New_Zealand.jpg": {
   "slug": "wanaka-puzzling-world",
@@ -38060,11 +38893,17 @@
   "reason": "patrol reject: Close-up plated dishes, not representative venue view",
   "at": "2026-09-24T22:50:22.016Z"
  },
- "wellington-mount-victoria-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg/3840px-Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg": {
+ "wellington-mount-victoria-lookout\u0001https://fastly.4sqi.net/img/general/original/1398444184_i1vdeBGEZBUvGuCX95XWPBbPixPVn-Qoq0cXDwzhThA.jpg": {
   "slug": "wellington-mount-victoria-lookout",
   "verdict": "MATCH",
-  "reason": "publish gate: Panoramic view from overlook, consistent with Mount Victoria Lookout",
-  "at": "2026-10-23T13:19:35.813Z"
+  "reason": "patrol replace: Wellington waterfront view from elevated vantage point",
+  "at": "2026-11-12T17:01:57.114Z"
+ },
+ "wellington-mount-victoria-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg/3840px-Wellington_from_the_Mount_Victoria_lookout_2026-06-13.jpg": {
+  "slug": "wellington-mount-victoria-lookout",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: strip wider than 3.3:1, blurry sliver in a 16:9 banner (owner photo review 2026-11-13)",
+  "at": "2026-11-12T16:38:01.043Z"
  },
  "wellington-museum-of-new-zealand-te-papa-tongarewa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Museum_of_New_Zealand_Te_Papa_Tongarewa_unsaturated.jpg/1920px-Museum_of_New_Zealand_Te_Papa_Tongarewa_unsaturated.jpg": {
   "slug": "wellington-museum-of-new-zealand-te-papa-tongarewa",

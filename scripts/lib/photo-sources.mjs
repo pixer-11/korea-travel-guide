@@ -41,7 +41,7 @@ async function fsqFetch(pathAndQuery) {
 // "Three Spice Thai Kitchen" on 'kitchen' alone. Identity needs a
 // DISTINCTIVE token (or full-name containment). ONE list for both matchers:
 // it used to live as two near-identical copies and only one would get fixed.
-const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store',
+const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'restaurante', 'ristorante', 'the', 'and', 'bar', 'house', 'shop', 'store',
   'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center',
   'centre', 'hotel', 'lounge',
   // Added 2026-07-28: 'Tonkin Specialty Coffee' matched 'Shin Specialty Coffee'
@@ -62,6 +62,16 @@ const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'h
   'asian', 'western',
   'top', 'rated', 'best', 'famous', 'authentic',
   'massage', 'spa']);
+
+// What a result adds to say what it is, not which one it is: "Naritasan
+// Shinshoji Temple" for our "Naritasan Shinsho-ji". Never a rival name.
+const KIND_OF_PLACE = new Set(['temple', 'church', 'cathedral', 'mosque', 'pagoda', 'shrine', 'monastery', 'tower',
+  'bridge', 'square', 'plaza', 'palace', 'castle', 'fort', 'fortress', 'island', 'islands', 'lake', 'mountain',
+  'mountains', 'waterfall', 'waterfalls', 'falls', 'cave', 'caves', 'hall', 'gallery', 'library', 'theatre',
+  'theater', 'stadium', 'zoo', 'aquarium', 'pier', 'harbour', 'harbor', 'monument', 'memorial', 'statue',
+  'complex', 'hill', 'valley', 'canyon', 'river', 'bay', 'gate', 'tomb', 'mausoleum', 'lighthouse']);
+// The GENERIC words that name a kind of PLACE (not a kind of business).
+const PLACE_GENERIC = new Set(['market', 'park', 'museum', 'beach', 'street', 'garden', 'village', 'viewpoint', 'center', 'centre']);
 
 // Script-aware, space-insensitive flattening: hangul/kana/thai names match too
 // ("주문진 등대" ↔ "Jumunjin Lighthouse (주문진등대)").
@@ -90,7 +100,9 @@ const placeStopwords = (near) => {
 // identity with, so callers must refuse to match at all.
 export function distinctiveTokens(name, near) {
   const stop = placeStopwords(near);
-  return splitTokens(name).filter((w) => w.length >= 3 && !GENERIC.has(w) && !stop.has(w));
+  // Each word once: "Chola Cafe - Biryani House - Best Biryani in Singapore"
+  // must not count 'biryani' as two shared words (Codex, 11-13).
+  return [...new Set(splitTokens(name).filter((w) => w.length >= 3 && !GENERIC.has(w) && !stop.has(w)))];
 }
 
 // Pick the search result that shares venue IDENTITY with `name`, or null.
@@ -100,11 +112,16 @@ export function distinctiveTokens(name, near) {
 // results the MOST shared distinctive tokens wins, not FSQ rank: "Nami Island"
 // took "Gamja Island" over the real "Nami Island (남이섬)" when first-match
 // ruled and the impostor sorted first (live repro 2026-08-07).
-export function pickVenueHit(name, near, results) {
+export function pickVenueHit(name, near, results, { event = false } = {}) {
   const ourTokens = distinctiveTokens(name, near);
   if (!ourTokens.length) return null;
   const stop = placeStopwords(near);
   const oursFlat = flatName(name);
+  // The word our name leads with — in each script it is written in. A name
+  // given twice ("쿠라리에 (KURARIE)", "Jumunjin Lighthouse (주문진등대)") leads with
+  // both; a result may carry either one alone (Codex, 11-13).
+  const latin = (t) => /^[a-z0-9]+$/.test(t);
+  const leads = [ourTokens[0], ourTokens.find((t) => latin(t) !== latin(ourTokens[0]))].filter(Boolean);
   let best = null, bestScore = 0;
   for (const r of results || []) {
     const rf = flatName(r.name);
@@ -117,8 +134,51 @@ export function pickVenueHit(name, near, results) {
     // Whole-name containment used to skip the stopword rules entirely, so
     // "Kin Specialty Coffee" passed for "Tonkin Specialty Coffee". Require the
     // contained name to carry a distinctive token of its own.
-    if (!score && rf.length >= 3 && oursFlat.includes(rf)) {
+    // Their entire name sits inside ours: "주문진등대" in "Jumunjin Lighthouse (주문진등대)".
+    const wholeNameInside = rf.length >= 3 && oursFlat.includes(rf);
+    if (!score && wholeNameInside) {
       score = [...theirTokens].filter((t) => t.length >= 3 && !GENERIC.has(t) && !stop.has(t) && ourTokens.includes(t)).length;
+    }
+    // One shared word is a match only when it is the word our name LEADS with.
+    // Any later word is usually the district or what the place sells, and a
+    // neighbour has it too: "Chipotle Gangnam" took Gangnam Myeonok's cold
+    // noodles on 'gangnam', "NUDAKE Tea House" the OSULLOC Tea House on 'tea',
+    // "Chiikawa Ramen Buta" RAMEN TOMIRAI on 'ramen', "Ignis Table" Tai'an
+    // Table on 'table' (twelve live heroes, owner photo review 2026-11-13).
+    // And the result must then be OUR name cut short ("% Arabica" for
+    // "% Arabica Baitasi Store"), not another name that opens the same way:
+    // "Atelier Kau Lou & Opia" took Atelier By Taste Buds on 'atelier'.
+    // Two shared words still match without the lead: "1932 (Raffles Grand
+    // Hotel d'Angkor)" is inside the Raffles Grand Hotel d'Angkor.
+    // event: the name is an EVENT's ("2026 Haddaway concert in Seoul"), which leads
+    // with a year or a sponsor; the lead-word rules are for places.
+    if (!event && score === 1 && ourTokens.length > 1 && !wholeNameInside) {
+      // What follows in brackets is the same name in another script or
+      // language ("Marble Mountain (Ngũ Hành Sơn)"), and a word of theirs that
+      // is ours respelled ("Mountain" for "Mountains", "Shinshoji" for
+      // "Shinsho-ji") is not a rival word either.
+      const ours = (t) => ourTokens.some((u) => u === t || (u.length >= 4 && t.length >= 4 && u.slice(0, 4) === t.slice(0, 4))) || oursFlat.includes(t);
+      const theirOwn = splitTokens(String(r.name).replace(/\([^)]*\)/g, ' '))
+        .filter((t) => /^[a-z0-9]{3,}$/.test(t) && !GENERIC.has(t) && !stop.has(t) && !KIND_OF_PLACE.has(t));
+      // A kind word of ours may come back translated: "Düden Şelalesi" for
+      // "Duden Waterfalls", "Alaaddin Tepesi" for "Alaaddin Hill Park". So
+      // theirs may carry as many unknown words as ours has kind words — but
+      // only when ours is ONE name word plus its kind. "Wat Arun Temple" has
+      // two, and "Wat Pho" must not ride in on the temple (Codex, 11-13).
+      const ourCore = ourTokens.filter((t) => !KIND_OF_PLACE.has(t));
+      const ourKinds = ourCore.length === 1 ? splitTokens(name).filter((t) => KIND_OF_PLACE.has(t) || PLACE_GENERIC.has(t)).length : 0;
+      const unknown = theirOwn.filter((t) => !ours(t)).length;
+      if (!leads.some((l) => theirTokens.has(l)) || unknown > ourKinds) score = 0;
+    }
+    // A one-word name must be the word THEY lead with. "NÔM" (a dining room)
+    // took the chicken-rice shop "Cơm Gà Ta Quảng Nôm" twice, once before and
+    // once after its first photo was thrown out: our whole name is the last
+    // word of theirs. "Spago" for "Spago Istanbul by Wolfgang Puck" and
+    // "Mabou" for "Restaurant Mabou" lead with it (owner photo review 11-13).
+    if (!event && score === 1 && ourTokens.length === 1 && !wholeNameInside) {
+      const theirLead = splitTokens(String(r.name).replace(/\([^)]*\)/g, ' '))
+        .find((t) => /^[a-z0-9]{3,}$/.test(t) && !GENERIC.has(t) && !stop.has(t));
+      if (theirLead && theirLead !== ourTokens[0]) score = 0;
     }
     if (score > bestScore) { best = r; bestScore = score; }
   }
@@ -153,7 +213,7 @@ export function venueQuery(name, near) {
 export const DINING_CATEGORY = /\b(caf[eé]s?|caff[eè]|coffee|restaurants?|bars?|pubs?|bakery|bakeries|ice cream|gelat\w*|dessert|food|bistro|tea ?room|diner|pizz\w*|brewer\w*|wine|cocktail|snack|juice|steakhouse|sushi|noodle|burger|buffet)(?![a-zà-ÿ])/i;
 export const isDiningHit = (hit) => (hit?.categories || []).some((c) => DINING_CATEGORY.test(String(c?.name || c?.short_name || '')));
 
-export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4, landmark = false }) {
+export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4, landmark = false, event = false }) {
   const key = process.env.FOURSQUARE_API_KEY;
   if (!key || !name) return [];
   if (lat == null && !near) return [];
@@ -198,7 +258,7 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4, landmark
       console.log(`  [fsq] "${name}" has no distinctive token after stopwords — refusing a name match`);
       return [];
     }
-    const hit = pickVenueHit(name, near, landmark ? results.filter((r) => !isDiningHit(r)) : results);
+    const hit = pickVenueHit(name, near, landmark ? results.filter((r) => !isDiningHit(r)) : results, { event });
     if (!hit) {
       if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
       return [];
@@ -315,7 +375,11 @@ export async function flickrPhotos({ name, lat, lng, near, limit = 4 }) {
 // still faces the vision gate + audit like the rest. Licenses are DELIBERATELY
 // narrower than FLICKR_LICENSES: by/by-sa/cc0/pdm only — this is a commercial
 // site, and an NC photo is a licensing claim waiting to happen.
-export async function openversePhotos({ name, near, limit = 4 }) {
+// venue: the name is a PLACE's name, so its lead word must be in the photo's
+// title or tags. Events call this too ("2026 LE SSERAFIM Tour … in Macau"),
+// and an event name leads with a year or a sponsor; they keep the old
+// any-one-word test and their own act-anchor check downstream (Codex, 11-13).
+export async function openversePhotos({ name, near, limit = 4, venue = false }) {
   if (!name) return [];
   const ourWords = distinctiveTokens(name, near);
   if (!ourWords.length) return [];
@@ -333,7 +397,12 @@ export async function openversePhotos({ name, near, limit = 4 }) {
     return (j.results || [])
       .filter((r) => {
         const t = new Set(splitTokens(`${r.title || ''} ${(r.tags || []).map((x) => x?.name || '').join(' ')}`));
-        return ourWords.some((w) => t.has(w));
+        // With no place on a map to hold it to, one shared word vouches only
+        // when it is the word our name leads with; otherwise two (the same
+        // rule as pickVenueHit, owner photo review 2026-11-13).
+        const n = ourWords.filter((w) => t.has(w)).length;
+        if (!venue) return n >= 1;
+        return n >= 2 || (n === 1 && (ourWords.length === 1 || t.has(ourWords[0])));
       })
       // Below Discover's 1200px large-card bar a photo costs a queue slot later.
       .filter((r) => (r.width || 0) >= 1024)
@@ -356,10 +425,12 @@ export async function openversePhotos({ name, near, limit = 4 }) {
 // Ordered candidate stream for one venue — Foursquare (actual venue) first,
 // Flickr geo (taken at the spot) second, Openverse (CC index, incl. Flickr's
 // CC photos, no key needed) last.
-export async function venuePhotoCandidates({ name, lat, lng, near, landmark = false }) {
+// event: the caller is looking for an EVENT by its name (threads-daily). The
+// place-name rules stay off for it (Codex, 11-13).
+export async function venuePhotoCandidates({ name, lat, lng, near, landmark = false, event = false }) {
   const out = [];
-  out.push(...(await fsqVenuePhotos({ name, lat, lng, near, landmark })));
+  out.push(...(await fsqVenuePhotos({ name, lat, lng, near, landmark, event })));
   out.push(...(await flickrPhotos({ name, lat, lng, near })));
-  out.push(...(await openversePhotos({ name, near })));
+  out.push(...(await openversePhotos({ name, near, venue: !event })));
   return out;
 }

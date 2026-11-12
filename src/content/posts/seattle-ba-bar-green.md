@@ -5,14 +5,6 @@ country: "United States"
 region: "Seattle"
 category: "restaurant"
 pubDate: "2026-09-16T07:45:40.973Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Seattle_in_October_2022_-_094.jpg/1920px-Seattle_in_October_2022_-_094.jpg"
-  credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Seattle_in_October_2022_-_094.jpg"
-  focus:
-    x: 50
-    y: 45
 gallery: []
 place:
   id: "ChIJBRUg48wVkFQRsn4jD6_myiE"
@@ -64,6 +56,7 @@ faq:
     a: "It has a small seasonal patio, typically open in warmer months from spring through early fall, worth requesting on a clear day."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 Ba Bar Green doesn't look like a destination restaurant from the sidewalk. It occupies a ground-floor corner spot in one of South Lake Union's glassy mid-rise buildings, the kind of block filled with biotech offices and Amazon satellite teams, and the sign is easy to miss if you're not looking for it.

@@ -16,13 +16,10 @@ eventOffers:
   url: https://www.abudhabigp.com
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f5/2020_17_ABU_Start.png
-  credit: 'Photo: Odor / Wikimedia Commons (CC BY-SA 3.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/North_Grandstand_at_the_Yas_Marina_circuit_in_Abu_Dhabi.jpg/3840px-North_Grandstand_at_the_Yas_Marina_circuit_in_Abu_Dhabi.jpg'
+  credit: 'Photo: TravelPhotosNL / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2020_17_ABU_Start.png
-  focus:
-    x: 50
-    'y': 50
+  source: 'https://commons.wikimedia.org/wiki/File:North_Grandstand_at_the_Yas_Marina_circuit_in_Abu_Dhabi.jpg'
 gallery: []
 tags:
   - abu dhabi

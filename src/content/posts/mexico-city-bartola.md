@@ -5,15 +5,6 @@ country: Mexico
 region: Mexico City
 category: trendy
 pubDate: '2026-10-05'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Barton_Opus_245_3-13_console_02%2C_Michigan_Theater_%28Ann_Arbor%2C_Michigan%29.jpg
-  credit: 'Photo: John Manoogian III from California / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Barton_Opus_245_3-13_console_02,_Michigan_Theater_(Ann_Arbor,_Michigan).jpg
-  focus:
-    x: 50
-    'y': 40
-gallery: []
 tags:
   - mexico city
   - new & trending
@@ -31,6 +22,14 @@ faq:
     a: Avenida Álvaro Obregón and Plaza Río de Janeiro are both in Roma Norte. Parque México in neighbouring Condesa is a short walk or ride away.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/67055161_k_nxLWKtCxFyxjJLBMRGktOCz-EA7Ged4mAfLjMauwg.jpg
+  credit: 'Photo: Foursquare user content (Bartola)'
+  license: foursquare
+  source: https://foursquare.com/v/68df362ac6da50092af7d9d7
+  focus:
+    x: 45
+    'y': 65
 ---
 
 ## Broken cement and red sauce

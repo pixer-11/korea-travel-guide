@@ -5,14 +5,6 @@ country: Italy
 region: Naples
 category: attraction
 pubDate: '2026-08-06T10:19:55.332Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Panorama_view_of_bay_and_the_city_Naples%2C_Campania%2C_Italy%2C_May_2005_%2852104979928%29.jpg/3840px-Panorama_view_of_bay_and_the_city_Naples%2C_Campania%2C_Italy%2C_May_2005_%2852104979928%29.jpg
-  credit: 'Photo: Sergei Gussev / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Panorama_view_of_bay_and_the_city_Naples,_Campania,_Italy,_May_2005_(52104979928).jpg
-  focus:
-    x: 50
-    'y': 50
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg/3840px-Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg
     credit: 'Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY 2.0)'
@@ -45,6 +37,14 @@ faq:
     a: Yes if you want the same panorama without the ticket line or crowds — it's a genuinely under-visited alternative just a few minutes' walk from the fortress.
 aiGenerated: true
 updatedDate: '2026-09-16'
+heroImage:
+  url: https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg
+  credit: 'Photo: Nicola since 1972 / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/15216811@N06/11590590754
+  focus:
+    x: 60
+    'y': 50
 ---
 
 ## Why this view, and not the famous one

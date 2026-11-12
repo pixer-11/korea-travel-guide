@@ -1,60 +1,60 @@
 ---
-title: "Magnolia: Tskaltubo Travel Guide (4.3★)"
-description: "Magnolia is a mid-range Eastern European restaurant at 1 Zakaria Paliashvili Street in Tskaltubo, the old Soviet spa town a short drive northwest of Kutaisi. 4.3★ (845 reviews) — what visitors say, hours, and tips."
-country: "Georgia"
-region: "Tskaltubo"
-category: "trendy"
-pubDate: "2026-10-21T13:29:40.199Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Magnolia_sieboldii_flower_1.jpg"
-  credit: "Photo: William (Ned) Friedman / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Magnolia_sieboldii_flower_1.jpg"
-  focus:
-    x: 50
-    y: 45
+title: 'Magnolia: Tskaltubo Travel Guide (4.3★)'
+description: Magnolia is a mid-range Eastern European restaurant at 1 Zakaria Paliashvili Street in Tskaltubo, the old Soviet spa town a short drive northwest of Kutaisi. 4.3★ (845 reviews) — what visitors say, hours, and tips.
+country: Georgia
+region: Tskaltubo
+category: trendy
+pubDate: '2026-10-21T13:29:40.199Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1370668271_hHiSc1QYQCiCE9ECDocfo-xHzaMeKjbnGeFUDB40Lp0.jpg"
-    credit: "Photo: Foursquare user content (Magnolia | მაგნოლია)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/609263aca4c02610beaf4db8"
+  - url: https://fastly.4sqi.net/img/general/original/1370668271_hHiSc1QYQCiCE9ECDocfo-xHzaMeKjbnGeFUDB40Lp0.jpg
+    credit: 'Photo: Foursquare user content (Magnolia | მაგნოლია)'
+    license: foursquare
+    source: https://foursquare.com/v/609263aca4c02610beaf4db8
 place:
-  id: "ChIJSePL0TaLXEAR6CzBstWBgyc"
-  name: "Magnolia"
-  address: "1 ზაქარია ფალიაშვილის ქუჩა, Tskaltubo 5400, Georgia"
+  id: ChIJSePL0TaLXEAR6CzBstWBgyc
+  name: Magnolia
+  address: 1 ზაქარია ფალიაშვილის ქუჩა, Tskaltubo 5400, Georgia
   rating: 4.3
   userRatingsTotal: 845
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=2847262144255306984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2847262144255306984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.3264826
   lng: 42.6014135
-  phone: "+995 595 07 25 25"
+  phone: +995 595 07 25 25
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: 11:00 AM – 12:00 AM"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: 11:00 AM – 12:00 AM"
-    - "Friday: Open 24 hours"
-    - "Saturday: 11:00 AM – 12:00 AM"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "tskaltubo"
-  - "trendy cafe"
-quickAnswer: "Magnolia is a mid-range Eastern European restaurant at 1 Zakaria Paliashvili Street in Tskaltubo, the old Soviet spa town a short drive northwest of Kutaisi. Its current schedule is unusual: it stays open 24 hours on Monday, Wednesday, Friday and Sunday, and runs 11am to midnight on Tuesday, Thursday and Saturday. That makes it one of the few places in a quiet town where a late meal after the caves or the baths is realistic, as long as you pick the right night."
+  - tskaltubo
+  - trendy cafe
+quickAnswer: 'Magnolia is a mid-range Eastern European restaurant at 1 Zakaria Paliashvili Street in Tskaltubo, the old Soviet spa town a short drive northwest of Kutaisi. Its current schedule is unusual: it stays open 24 hours on Monday, Wednesday, Friday and Sunday, and runs 11am to midnight on Tuesday, Thursday and Saturday. That makes it one of the few places in a quiet town where a late meal after the caves or the baths is realistic, as long as you pick the right night.'
 faq:
-  - q: "Is Magnolia in Tskaltubo open all night?"
-    a: "Only on some nights. It currently opens 24 hours on Monday, Wednesday, Friday and Sunday, and runs 11am to midnight on Tuesday, Thursday and Saturday. Check the live Google listing before a late visit, as hours can change with the season."
-  - q: "How do I get to Magnolia from Kutaisi?"
-    a: "Tskaltubo is roughly a 20-minute drive northwest of Kutaisi. Daytime marshrutkas run between the towns, and taxis or ride-hailing apps like Bolt are easier at night. Show the driver the Georgian address: ზაქარია ფალიაშვილის ქუჩა 1."
-  - q: "What kind of food does Magnolia serve?"
-    a: "It is listed as an Eastern European restaurant in the mid-range price bracket. Ask staff for their recommendations, and look out for Imeretian regional staples such as imeruli khachapuri, pkhali and mtsvadi."
-  - q: "Should I tip at Magnolia?"
-    a: "Check the bill first: many Georgian restaurants add a service charge. If there isn't one, rounding up for good service is the usual gesture."
-  - q: "What is there to do nearby before dinner?"
-    a: "Walk through Spa Resort Park and see Bathhouse No. 6 in town, or visit Prometheus Cave and Sataplia Nature Reserve a short drive away. Check each site's official page for seasonal opening hours."
+  - q: Is Magnolia in Tskaltubo open all night?
+    a: Only on some nights. It currently opens 24 hours on Monday, Wednesday, Friday and Sunday, and runs 11am to midnight on Tuesday, Thursday and Saturday. Check the live Google listing before a late visit, as hours can change with the season.
+  - q: How do I get to Magnolia from Kutaisi?
+    a: 'Tskaltubo is roughly a 20-minute drive northwest of Kutaisi. Daytime marshrutkas run between the towns, and taxis or ride-hailing apps like Bolt are easier at night. Show the driver the Georgian address: ზაქარია ფალიაშვილის ქუჩა 1.'
+  - q: What kind of food does Magnolia serve?
+    a: It is listed as an Eastern European restaurant in the mid-range price bracket. Ask staff for their recommendations, and look out for Imeretian regional staples such as imeruli khachapuri, pkhali and mtsvadi.
+  - q: Should I tip at Magnolia?
+    a: 'Check the bill first: many Georgian restaurants add a service charge. If there isn''t one, rounding up for good service is the usual gesture.'
+  - q: What is there to do nearby before dinner?
+    a: Walk through Spa Resort Park and see Bathhouse No. 6 in town, or visit Prometheus Cave and Sataplia Nature Reserve a short drive away. Check each site's official page for seasonal opening hours.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/2593778_y-5ue4aRJgqDe-w4vNTJsgMHcan0LJ3p7ST-ti1_QUg.jpg
+  credit: 'Photo: Foursquare user content (Magnolia | მაგნოლია)'
+  license: foursquare
+  source: https://foursquare.com/v/609263aca4c02610beaf4db8
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A late table in a sleepy spa town

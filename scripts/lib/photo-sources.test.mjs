@@ -155,3 +155,68 @@ test('documented trade-off: a landmark named ONLY by a cuisine adjective refuses
     [],
   );
 });
+
+// ── 2026-11-13 장소 글 사진 전수 점검: 단어 하나만 겹쳐도 같은 가게로 받았다 ──
+// 실제로 붙어 있던 사진들이다(포스퀘어 465장 중 13장). 겹친 단어는 전부 동네 이름이나
+// 파는 음식이었고, 가게 이름의 첫 단어는 하나도 겹치지 않았다.
+test('one shared word is a match only when our name leads with it', () => {
+  const none = (name, near, theirs) => assert.equal(pickVenueHit(name, near, [{ name: theirs }]), null, `${name} ← ${theirs}`);
+  none('Chipotle Gangnam', 'Seoul, South Korea', 'Gangnam Myeonok (강남면옥)');
+  none('NUDAKE Tea House (Seongsu)', 'Seoul, South Korea', 'OSULLOC Tea House (오설록)');
+  none('Chiikawa Ramen Buta', 'Tokyo, Japan', 'RAMEN TOMIRAI');
+  none('Ignis Table', 'Shanghai, China', "Tai'an Table (泰安门)");
+  none('NIJI Sushi Izakaya', 'Kuala Lumpur, Malaysia', 'Sushi ORI');
+  none('Lina Anatolian Kitchen', 'Istanbul, Turkey', 'Sa Va Anatolian Breakfast House');
+  none('Terracotta Osteria con Brace', 'Rome, Italy', 'Osteria Pesce Fritto e Baccalà');
+  none('Panyu Lu Organ Rice Noodle Spot', 'Shanghai, China', 'Lao Di Fang Noodle House (老地方面馆)');
+  // 첫 단어가 같아도, 상대 이름에 우리 이름에 없는 단어가 있으면 다른 가게다
+  none('Atelier Kau Lou & Opia', 'Shanghai, China', 'Atelier By Taste Buds');
+});
+
+test('the lead-word rule keeps short forms, respellings and names inside ours', () => {
+  const same = (name, near, theirs) => assert.equal(pickVenueHit(name, near, [{ name: theirs }])?.name, theirs, `${name} ← ${theirs}`);
+  same('% Arabica Baitasi Store', 'Beijing, China', '% Arabica'); // 줄여 쓴 우리 이름
+  same('Nobu (The Link, One Za\'abeel)', 'Dubai, United Arab Emirates', 'Nobu');
+  same('Namsu (Namsu Shan Izakaya)', 'Bangkok, Thailand', 'Namsu Shan Cuisine & Sake Bar'); // 두 단어가 겹친다
+  same("1932 (Raffles Grand Hotel d'Angkor)", 'Siem Reap, Cambodia', "Raffles Grand Hotel d'Angkor"); // 첫 단어 없이 여러 단어
+  same('The Marble Mountains', 'Da Nang, Vietnam', 'Marble Mountain (Ngũ Hành Sơn)'); // 괄호 안은 현지어 표기
+  same('Naritasan Shinsho-ji', 'Chiba, Japan', 'Naritasan Shinshoji Temple (成田山 新勝寺)'); // 붙여 쓴 표기 + 종류 단어
+  same('Unabridged Bookstore', 'Chicago, United States', 'Unabridged Books');
+  same('Araf', 'Istanbul, Turkey', 'Araf Coffee LAB'); // 이름이 한 단어면 예전 그대로
+});
+
+// 코덱스 지적 재현(11-13)
+test('a translated kind word is not a rival name, but only for a one-word name', () => {
+  assert.equal(pickVenueHit('Duden Waterfalls', 'Antalya, Turkey', [{ name: 'Düden Şelalesi' }])?.name, 'Düden Şelalesi');
+  assert.equal(pickVenueHit('Alaaddin Hill Park', 'Konya, Turkey', [{ name: 'Alaaddin Tepesi' }])?.name, 'Alaaddin Tepesi');
+  // 이름 단어가 둘이면 종류 단어 몫의 여유를 주지 않는다
+  assert.equal(pickVenueHit('Wat Arun Temple', 'Bangkok, Thailand', [{ name: 'Wat Pho' }]), null);
+});
+
+test('a word repeated in our name counts once', () => {
+  const name = 'Chola Cafe - Biryani House - “Best Biryani in Singapore”';
+  assert.deepEqual(distinctiveTokens(name, 'Little India, Singapore'), ['chola', 'biryani']);
+  assert.equal(pickVenueHit(name, 'Little India, Singapore', [{ name: 'Biryani Express' }]), null);
+});
+
+test('a one-word name must be the word their name leads with', () => {
+  // NÔM(다이닝) 글에 닭밥집 "Cơm Gà Ta Quảng Nôm" 사진이 두 번 붙었다 — 우리 이름이 상대 이름의 끝 단어였다
+  assert.equal(pickVenueHit('NÔM', 'Ho Chi Minh City, Vietnam', [{ name: 'Cơm Gà Ta Quảng Nôm' }]), null);
+  assert.equal(pickVenueHit('Spago', 'Istanbul, Turkey', [{ name: 'Spago Istanbul by Wolfgang Puck' }])?.name, 'Spago Istanbul by Wolfgang Puck');
+  assert.equal(pickVenueHit('Mabou', 'Istanbul, Turkey', [{ name: 'Restaurant Mabou' }])?.name, 'Restaurant Mabou');
+  assert.equal(pickVenueHit('Maché', 'Madrid, Spain', [{ name: 'Restaurante Maché' }])?.name, 'Restaurante Maché');
+  assert.equal(pickVenueHit('Kubaba in Paris', 'Paris, France', [{ name: 'Kubaba' }])?.name, 'Kubaba');
+});
+
+// 코덱스 2차 지적 재현(11-13)
+test('a name written in two scripts leads with either one', () => {
+  assert.equal(pickVenueHit('쿠라리에 (KURARIE)', 'Seoul, South Korea', [{ name: 'KURARIE Cafe' }])?.name, 'KURARIE Cafe');
+  // 괄호 안이 같은 문자(지점·동네 이름)면 별칭이 아니다
+  assert.equal(pickVenueHit('NUDAKE Tea House (Seongsu)', 'Seoul, South Korea', [{ name: 'Seongsu Cafe' }]), null);
+});
+
+test('an event name is not held to the place-name lead rules', () => {
+  const hit = pickVenueHit('2026 Haddaway concert in Seoul', 'Seoul, South Korea', [{ name: 'Haddaway Live Hall' }], { event: true });
+  assert.equal(hit?.name, 'Haddaway Live Hall');
+  assert.equal(pickVenueHit('2026 Haddaway concert in Seoul', 'Seoul, South Korea', [{ name: 'Haddaway Live Hall' }]), null);
+});

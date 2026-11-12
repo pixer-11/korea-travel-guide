@@ -5,15 +5,6 @@ country: "Australia"
 region: "Gold Coast"
 category: "trendy"
 pubDate: "2026-09-29T14:17:21.525Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cafe_at_Griffith_University_Gold_Coast_Campus.jpg/3840px-Cafe_at_Griffith_University_Gold_Coast_Campus.jpg"
-  credit: "Photo: Kgbo / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cafe_at_Griffith_University_Gold_Coast_Campus.jpg"
-  via: "act"
-  focus:
-    x: 70
-    y: 45
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_02.jpg/3840px-Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_02.jpg"
     credit: "Photo: Chris Olszewski / Wikimedia Commons (CC BY-SA 4.0)"
@@ -66,6 +57,7 @@ faq:
     a: "The Broadwater foreshore path runs past Marine Parade. It makes an easy walk south to Broadwater Parklands in Southport, with views across the water to The Spit and South Stradbroke Island."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## Breakfast Before the Broadwater Wakes Up

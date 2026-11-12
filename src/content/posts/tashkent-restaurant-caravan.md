@@ -5,14 +5,6 @@ country: Uzbekistan
 region: Tashkent
 category: restaurant
 pubDate: '2026-09-09'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Caravan_Restaurant_Abu_Ghosh_-_The_Inner_Space_of_the_restaurant_-_Photo_No._3.jpg
-  credit: 'Photo: Pinhas stern / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Caravan_Restaurant_Abu_Ghosh_-_The_Inner_Space_of_the_restaurant_-_Photo_No._3.jpg
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - tashkent
@@ -31,6 +23,7 @@ faq:
     a: Card payment is standard, but carrying some cash in Uzbekistani som is a good backup. A modest tip for good service is common practice, though not rigidly enforced.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 Tashkent has no shortage of plov houses, but Restaurant Caravan built its name on doing two versions of the dish under one roof rather than picking a side. That alone makes it worth a special trip if you're trying to understand why Uzbeks argue about plov the way other countries argue about barbecue.

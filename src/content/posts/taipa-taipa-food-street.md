@@ -5,15 +5,6 @@ country: "Macau"
 region: "Taipa"
 category: "hidden-gem"
 pubDate: "2026-10-07T07:52:10.244Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg/3840px-Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024(1).jpg"
-  via: "act"
-  focus:
-    x: 60
-    y: 45
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Taipa_Ferry_Terminal_food_court_char_siu_rice_07-02-2025.jpg/3840px-Taipa_Ferry_Terminal_food_court_char_siu_rice_07-02-2025.jpg"
     credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
@@ -46,6 +37,7 @@ faq:
     a: "Yes. Hong Kong dollars and Macau patacas are both widely accepted, and QR wallets like MPay and Alipay are common. Expect change in patacas."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## A lane built for grazing

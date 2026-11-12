@@ -5,14 +5,6 @@ country: Australia
 region: Sydney
 category: trendy
 pubDate: '2026-10-01'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Watermans_Cove_Sydney.jpg/3840px-Watermans_Cove_Sydney.jpg
-  credit: 'Photo: MDRX / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Watermans_Cove_Sydney.jpg
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - sydney
@@ -31,6 +23,7 @@ faq:
     a: Walk north along the foreshore to Barangaroo Reserve for harbour views at sunset. Or head south along the water to Darling Harbour, or up to The Rocks for a drink.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## A Levantine table on the western harbour

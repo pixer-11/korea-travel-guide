@@ -16,11 +16,7 @@ heroImage:
   focus:
     x: 55
     'y': 40
-gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1379934504_SnhqJgW3Y4ihEp8tvM24WVPrzL0MdtOwOi25EtUlmnY.jpg"
-    credit: "Photo: Foursquare user content (Minamidera - Art House Project (家プロジェクト 南寺))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b739e73f964a52032b62de3"
+gallery: []
 place:
   id: ChIJKbu9xS3xUzUROoVsQa4mnro
   name: Naoshima New Museum of Art

@@ -14,10 +14,10 @@ eventOrganizer:
   url: http://www.ncf-phil.org
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Skyline_in_Manila_36.jpg/3840px-Skyline_in_Manila_36.jpg'
-  credit: 'Photo: SwarmCheng / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Skyline_in_Manila_%28Metro_Manila%3B_2023-08-11%29_E911a_35.jpg/3840px-Skyline_in_Manila_%28Metro_Manila%3B_2023-08-11%29_E911a_35.jpg'
+  credit: 'Photo: E911a / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Manila_36.jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Manila_(Metro_Manila;_2023-08-11)_E911a_35.jpg'
 gallery: []
 tags:
   - quezon city

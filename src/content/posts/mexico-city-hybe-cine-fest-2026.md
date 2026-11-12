@@ -14,10 +14,10 @@ eventOrganizer:
   url: https://www.hybecinefest.com/
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Mexico_City_Reforma_skyline_%28cropped2%29.jpg'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Mexico_City_Reforma_skyline_%28cropped%29.jpg'
   credit: 'Photo: Jonathan Salvador / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Mexico_City_Reforma_skyline_(cropped2).jpg'
+  source: 'https://commons.wikimedia.org/wiki/File:Mexico_City_Reforma_skyline_(cropped).jpg'
 gallery: []
 tags:
   - mexico city

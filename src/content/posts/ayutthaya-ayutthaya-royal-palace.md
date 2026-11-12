@@ -1,59 +1,58 @@
 ---
-title: "Ayutthaya Royal Palace: Travel Guide (4.5★)"
-description: "Ayutthaya Royal Palace sits on Khlong Tho Road in Ayutthaya's island old city, right beside Wat Phra Si Sanphet. 4.5★ (290 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Ayutthaya"
-category: "hidden-gem"
-pubDate: "2026-09-30T07:48:14.504Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg/3840px-Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg"
-  credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bang_Pa-in_summer_palace,_Ayutthaya_province,_Thailand.jpg"
-  via: "act"
-  focus:
-    x: 20
-    y: 40
+title: 'Ayutthaya Royal Palace: Travel Guide (4.5★)'
+description: Ayutthaya Royal Palace sits on Khlong Tho Road in Ayutthaya's island old city, right beside Wat Phra Si Sanphet. 4.5★ (290 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Ayutthaya
+category: hidden-gem
+pubDate: '2026-09-30T07:48:14.504Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Phra_Thinang_Sanphet_Maha_Prasat_Royal_Palace_20231230.jpg/3840px-Phra_Thinang_Sanphet_Maha_Prasat_Royal_Palace_20231230.jpg"
-    credit: "Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Phra_Thinang_Sanphet_Maha_Prasat_Royal_Palace_20231230.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Phra_Thinang_Sanphet_Maha_Prasat_Royal_Palace_20231230.jpg/3840px-Phra_Thinang_Sanphet_Maha_Prasat_Royal_Palace_20231230.jpg
+    credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Phra_Thinang_Sanphet_Maha_Prasat_Royal_Palace_20231230.jpg
 place:
-  id: "ChIJ47a_20B04jARbtqSoBljQV0"
-  name: "Ayutthaya Royal Palace"
-  address: "9H55+J77, Thanon Khlong Tho, Tambon Tha Wa Su Kri, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand"
+  id: ChIJ47a_20B04jARbtqSoBljQV0
+  name: Ayutthaya Royal Palace
+  address: 9H55+J77, Thanon Khlong Tho, Tambon Tha Wa Su Kri, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand
   rating: 4.5
   userRatingsTotal: 290
-  googleMapsUrl: "https://maps.google.com/?cid=6719761080732801646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6719761080732801646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.359035200000001
   lng: 100.5581617
   openingHours:
-    - "Monday: 8:00 AM – 6:30 PM"
-    - "Tuesday: 8:00 AM – 6:30 PM"
-    - "Wednesday: 8:00 AM – 6:30 PM"
-    - "Thursday: 8:00 AM – 6:30 PM"
-    - "Friday: 8:00 AM – 6:30 PM"
-    - "Saturday: 8:00 AM – 6:30 PM"
-    - "Sunday: 8:00 AM – 6:30 PM"
+    - 'Monday: 8:00 AM – 6:30 PM'
+    - 'Tuesday: 8:00 AM – 6:30 PM'
+    - 'Wednesday: 8:00 AM – 6:30 PM'
+    - 'Thursday: 8:00 AM – 6:30 PM'
+    - 'Friday: 8:00 AM – 6:30 PM'
+    - 'Saturday: 8:00 AM – 6:30 PM'
+    - 'Sunday: 8:00 AM – 6:30 PM'
 tags:
-  - "ayutthaya"
-  - "old quarter"
-quickAnswer: "Ayutthaya Royal Palace sits on Khlong Tho Road in Ayutthaya's island old city, right beside Wat Phra Si Sanphet. It is a quiet field of brick foundations left from the 15th-century royal compound. It opens daily from 8:00 AM to 6:30 PM. Come at opening, before the heat builds, and give it 45 to 60 minutes on its own or half a day with its temple neighbours."
+  - ayutthaya
+  - old quarter
+quickAnswer: Ayutthaya Royal Palace sits on Khlong Tho Road in Ayutthaya's island old city, right beside Wat Phra Si Sanphet. It is a quiet field of brick foundations left from the 15th-century royal compound. It opens daily from 8:00 AM to 6:30 PM. Come at opening, before the heat builds, and give it 45 to 60 minutes on its own or half a day with its temple neighbours.
 faq:
-  - q: "What are the opening hours of Ayutthaya Royal Palace?"
-    a: "It opens every day of the week, 8:00 AM to 6:30 PM."
-  - q: "How long should I spend at the Royal Palace?"
-    a: "The palace grounds take 45 to 60 minutes. Add Wat Phra Si Sanphet and Wihan Phra Mongkhon Bophit next door and you have half a day."
-  - q: "How do I get there from Ayutthaya train station?"
-    a: "The station is on the east bank. Take the short ferry across to the island, then cycle or ride a tuk-tuk west to Khlong Tho Road, where the palace sits beside Wat Phra Si Sanphet."
-  - q: "Is there much left standing?"
-    a: "Mostly brick and laterite foundations. The palace was destroyed in 1767, and much of its brick was later reused to build early Bangkok. Information boards name each hall."
-  - q: "What should I wear?"
-    a: "Light clothing, a hat and good walking shoes, because shade is limited. Cover your shoulders and knees if you plan to enter Wihan Phra Mongkhon Bophit next door."
+  - q: What are the opening hours of Ayutthaya Royal Palace?
+    a: It opens every day of the week, 8:00 AM to 6:30 PM.
+  - q: How long should I spend at the Royal Palace?
+    a: The palace grounds take 45 to 60 minutes. Add Wat Phra Si Sanphet and Wihan Phra Mongkhon Bophit next door and you have half a day.
+  - q: How do I get there from Ayutthaya train station?
+    a: The station is on the east bank. Take the short ferry across to the island, then cycle or ride a tuk-tuk west to Khlong Tho Road, where the palace sits beside Wat Phra Si Sanphet.
+  - q: Is there much left standing?
+    a: Mostly brick and laterite foundations. The palace was destroyed in 1767, and much of its brick was later reused to build early Bangkok. Information boards name each hall.
+  - q: What should I wear?
+    a: Light clothing, a hat and good walking shoes, because shade is limited. Cover your shoulders and knees if you plan to enter Wihan Phra Mongkhon Bophit next door.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/68267039_NXX5knOymGHapMUSWUDBB6wZ-Wy8C3zYAGCYcHIpxXs.jpg
+  credit: 'Photo: Foursquare user content (Ayutthaya Royal Palace (พระราชวังโบราณ))'
+  license: foursquare
+  source: https://foursquare.com/v/4cf27d0d2eb25941a3b9baa1
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Where kings once slept

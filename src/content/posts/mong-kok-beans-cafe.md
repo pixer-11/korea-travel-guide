@@ -1,31 +1,18 @@
 ---
 title: 'Beans cafe: Mong Kok Travel Guide (4.6★)'
-description: >-
-  Beans Cafe is a small, well-rated coffee shop tucked into Level 4A of Langham
-  Place mall in Mong Kok, open daily from noon to 10pm.
+description: Beans Cafe is a small, well-rated coffee shop tucked into Level 4A of Langham Place mall in Mong Kok, open daily from noon to 10pm.
 country: Hong Kong
 region: Mong Kok
 category: trendy
 pubDate: '2026-08-15T08:36:20.269Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg/3840px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg
-  credit: 'Photo: RENMIN Leei 2025 HUA / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg
-gallery: []
 place:
   id: ChIJndnhnrkBBDQRb4hO-R2Cj_I
   name: Beans cafe
-  address: >-
-    Shop no. 7, Level 4A, Langham Place, 8 Argyle St, Mong Kok, Kowloon, Hong
-    Kong
+  address: Shop no. 7, Level 4A, Langham Place, 8 Argyle St, Mong Kok, Kowloon, Hong Kong
   rating: 4.6
   userRatingsTotal: 213
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17478331744096520303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17478331744096520303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.318211599999998
   lng: 114.16867429999999
@@ -57,38 +44,29 @@ place:
 tags:
   - mong kok
   - trendy cafe
-quickAnswer: >-
-  Beans Cafe is a small, well-rated coffee shop tucked into Level 4A of Langham
-  Place mall in Mong Kok, open daily from noon to 10pm. It's a genuine
-  quiet-corner find inside a mall usually packed with shoppers — go on a weekday
-  afternoon (4pm–10pm) or, on weekends, after 9pm, to get it near-empty.
-  Budget-friendly to mid-range, and easy to combine with a Langham Place
-  shopping stop.
+quickAnswer: Beans Cafe is a small, well-rated coffee shop tucked into Level 4A of Langham Place mall in Mong Kok, open daily from noon to 10pm. It's a genuine quiet-corner find inside a mall usually packed with shoppers — go on a weekday afternoon (4pm–10pm) or, on weekends, after 9pm, to get it near-empty. Budget-friendly to mid-range, and easy to combine with a Langham Place shopping stop.
 faq:
   - q: How do I get to Beans Cafe?
-    a: >-
-      Take Mong Kok MTR Station Exit C3, which leads directly into Langham Place
-      mall. Beans Cafe is on Level 4A, shop no. 7 — a mezzanine floor, so check
-      the mall directory near the main atrium escalators.
+    a: Take Mong Kok MTR Station Exit C3, which leads directly into Langham Place mall. Beans Cafe is on Level 4A, shop no. 7 — a mezzanine floor, so check the mall directory near the main atrium escalators.
   - q: What are the opening hours?
-    a: >-
-      It's open daily from 12:00 PM to 10:00 PM, with no variation across the
-      week.
+    a: It's open daily from 12:00 PM to 10:00 PM, with no variation across the week.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays, it's calmest from 4pm to 10pm. On weekends, wait until 9pm–10pm;
-      the mid-afternoon-to-evening slot (1pm–8pm) gets busy.
+    a: Weekdays, it's calmest from 4pm to 10pm. On weekends, wait until 9pm–10pm; the mid-afternoon-to-evening slot (1pm–8pm) gets busy.
   - q: How much does it cost?
-    a: >-
-      It's mid-range for a Hong Kong specialty café — not the cheapest option in
-      Mong Kok, but not premium either.
+    a: It's mid-range for a Hong Kong specialty café — not the cheapest option in Mong Kok, but not premium either.
   - q: What's nearby if I want to combine the visit?
-    a: >-
-      Langham Place itself has shopping and a cinema. A short walk brings you to
-      the Ladies' Market, Sneaker Street, and the Flower Market.
+    a: Langham Place itself has shopping and a cinema. A short walk brings you to the Ladies' Market, Sneaker Street, and the Flower Market.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-12'
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/15032541_uh6dcpoIP69lfcXSXIjmugp-MvFutR10mFz_hO534qI.jpg
+  credit: 'Photo: Foursquare user content (Beans Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/65fed6132958ea35456daf07
+  focus:
+    x: 50
+    'y': 45
 ---
 ## Why go
 

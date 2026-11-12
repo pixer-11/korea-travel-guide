@@ -8,17 +8,6 @@ country: Vietnam
 region: Hanoi
 category: restaurant
 pubDate: '2026-08-23T08:12:25.592Z'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2024-11-03_A_cafe_in_Hanoi%27s_Old_Quarter.jpg/3840px-2024-11-03_A_cafe_in_Hanoi%27s_Old_Quarter.jpg
-  credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:2024-11-03_A_cafe_in_Hanoi%27s_Old_Quarter.jpg
-  via: act
-  focus:
-    x: 50
-    'y': 45
 gallery: []
 place:
   id: ChIJV06GoO6rNTERGV2w-iXlvCk
@@ -89,6 +78,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
+photoless: true
 ---
 ## Finding It
 

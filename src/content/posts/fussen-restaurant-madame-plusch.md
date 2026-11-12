@@ -5,15 +5,6 @@ country: "Germany"
 region: "Füssen"
 category: "restaurant"
 pubDate: "2026-10-03T12:53:14.088Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ettal%2C_das_Caf%C3%A9-Restaurant_Madame_Pl%C3%BCsch.JPG/3840px-Ettal%2C_das_Caf%C3%A9-Restaurant_Madame_Pl%C3%BCsch.JPG"
-  credit: "Photo: Dguendel / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ettal,_das_Caf%C3%A9-Restaurant_Madame_Pl%C3%BCsch.JPG"
-  via: "act"
-  focus:
-    x: 55
-    y: 55
 gallery: []
 place:
   id: "ChIJURAKmeL1nEcRniE3MySDs2E"
@@ -52,6 +43,7 @@ faq:
     a: "Yes, and dinner is the easiest way to do it. Visit Neuschwanstein and Hohenschwangau by bus from Füssen station during the day, then eat from 5pm. Castle days often bring you back during the 4 to 5pm break."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## A table that eats from the middle

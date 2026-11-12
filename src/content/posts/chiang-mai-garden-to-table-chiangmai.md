@@ -5,17 +5,6 @@ country: Thailand
 region: Chiang Mai
 category: restaurant
 pubDate: '2026-07-22T09:14:29.554Z'
-heroImage:
-  url: >-
-    https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg
-  credit: >-
-    Photo: Foursquare user content (Chiangmai Walking Street
-    (ถนนคนเดินเชียงใหม่))
-  license: foursquare
-  source: 'https://foursquare.com/v/4ce79607867f60fc8e0b37c3'
-  focus:
-    x: 50
-    'y': 35
 gallery: []
 place:
   id: ChIJT2UZ_Hw72jARiJRwNfxTJVU
@@ -82,6 +71,7 @@ faq:
       closed on Sundays, so plan your meal here on another day.
 aiGenerated: true
 updatedDate: '2026-08-31'
+photoless: true
 ---
 
 ## Why go

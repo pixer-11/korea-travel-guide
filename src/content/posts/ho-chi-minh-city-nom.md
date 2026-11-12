@@ -5,11 +5,6 @@ country: Vietnam
 region: Ho Chi Minh City
 category: restaurant
 pubDate: '2026-07-29'
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/42418573_oqPm8hEpiCAk9hJM97fuTzDMnGcWY7DvZ3GuEN_YNP0.jpg
-  credit: 'Photo: Foursquare user content (Cơm Gà Ta Quảng Nôm)'
-  license: foursquare
-  source: https://foursquare.com/v/6964982ee745175e19dd9a74
 tags:
   - ho chi minh city
   - new & trending
@@ -27,6 +22,7 @@ faq:
     a: Given its Michelin recognition and award-winning debut, it suits an evening you want to build a trip around rather than a casual, spontaneous meal.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## Why NÔM matters right now

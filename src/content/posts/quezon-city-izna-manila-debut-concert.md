@@ -16,11 +16,6 @@ eventPerformer:
   name: izna
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Skyline_in_Manila_34.jpg/3840px-Skyline_in_Manila_34.jpg'
-  credit: 'Photo: SwarmCheng / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Manila_34.jpg'
 gallery: []
 tags:
   - quezon city
@@ -39,6 +34,14 @@ faq:
     a: Staying in Quezon City keeps the post-show trip short. Cubao and the Tomas Morato area have plenty of food nearby. The drive north from NAIA in Pasay takes over an hour in traffic.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3b/Makati_CBD_skyline_%28Makati%3B_12-31-2019%29.jpg
+  credit: 'Photo: patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Makati_CBD_skyline_(Makati;_12-31-2019).jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 ## A first night in Manila
 

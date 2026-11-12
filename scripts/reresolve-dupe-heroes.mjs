@@ -122,6 +122,7 @@ for (const t of targets.slice(0, LIMIT)) {
         namedVenue: venueName, region: data.region, topic: isEvent ? eventTopic(`${venueName} ${data.title}`) : (data.tags?.[1] || data.category),
         country: data.country, used: seen,
         preferTopic: isEvent, eventMode: isEvent, allowUnsplash: !isEvent,
+        place: isEvent ? undefined : data.place, // coordinates: holds a venue photo to the spot (11-13)
       });
     } catch {}
     if (!cand?.url || cand.license === 'placeholder') break; // pool exhausted

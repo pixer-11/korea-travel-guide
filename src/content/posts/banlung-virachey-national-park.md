@@ -5,14 +5,6 @@ country: Cambodia
 region: Banlung
 category: attraction
 pubDate: '2026-08-29T15:11:43.340Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Virachey_Park_Banner.jpg/1920px-Virachey_Park_Banner.jpg
-  credit: 'Photo: Mangoholic2 / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Virachey_Park_Banner.jpg
-  focus:
-    x: 50
-    'y': 50
 place:
   id: ChIJsXPNztSYbDERjXEq9MDAeO4
   name: Virachey National Park
@@ -55,6 +47,14 @@ faq:
   - q: Can I hike independently without a guide?
     a: Not realistically. Trails are unsigned and wildlife-dense; local guides arranged through Banlung or the ranger station are essential for safety and navigation.
 aiGenerated: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1a/Veal_Thom_Grasslands.jpg
+  credit: 'Photo: Mangoholic2 / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Veal_Thom_Grasslands.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 ## What you're actually visiting
 

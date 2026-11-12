@@ -5,14 +5,6 @@ country: China
 region: Shanghai
 category: trendy
 pubDate: '2026-10-04'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Dome_Bar%2C_Radisson_Blu%2C_Shanghai.jpg/3840px-Sky_Dome_Bar%2C_Radisson_Blu%2C_Shanghai.jpg
-  credit: 'Photo: Tim Sheerman-Chase / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sky_Dome_Bar,_Radisson_Blu,_Shanghai.jpg
-  focus:
-    x: 60
-    'y': 50
 gallery: []
 tags:
   - shanghai
@@ -31,6 +23,7 @@ faq:
     a: Mobile payment through WeChat Pay or Alipay is standard in Shanghai, and both apps accept linked international cards. Tipping isn't customary in mainland China. Upscale restaurants may add a service charge, so check the bill.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## The Bund, after the lights come on

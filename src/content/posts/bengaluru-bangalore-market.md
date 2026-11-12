@@ -5,15 +5,6 @@ country: "India"
 region: "Bengaluru"
 category: "hidden-gem"
 pubDate: "2026-09-23T07:47:29.999Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/79/Capsicum_in_a_market%2C_Bangalore_%282026%29_01.jpg"
-  credit: "Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Capsicum_in_a_market,_Bangalore_(2026)_01.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 50
 gallery: []
 place:
   id: "ChIJL_cpYAgWrjsRqAm33nmVSUQ"
@@ -69,6 +60,7 @@ faq:
     a: "The surrounding Chickpet grid is full of adjoining wholesale streets for cloth, hardware and provisions, all walkable from the market."
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 Chickpet is Bengaluru's original commercial core, laid out under the Kempegowda-era street grid, and Bangalore Market sits inside its Santhusapet pocket, one lane among wholesale cloth, hardware and provision stores that have traded here for generations. This is not a tourist bazaar built for browsing; it's a working market where shopkeepers move stock in bulk.

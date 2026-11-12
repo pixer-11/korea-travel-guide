@@ -29,7 +29,8 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
-import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, makeJudgedIndex } from './lib/commons-identity.mjs';
+import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, judgeDistance, creditVenue, makeJudgedIndex } from './lib/commons-identity.mjs';
+import { pickVenueHit, distinctiveTokens } from './lib/photo-sources.mjs';
 import { requireExamined } from './lib/examined.mjs';
 import { writeAuditStore } from './lib/visual-audit-store.mjs';
 import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
@@ -86,9 +87,18 @@ for (const f of files) {
     // tiles and og:images, which is how the Wuhan tile became a photograph of a
     // billiards table.
     if (/images\.unsplash\.com/.test(url)) { stock.push({ slug, kind, url }); return; }
-    if (/4sqi\.net/.test(url)) { foursquare.push({ slug, kind, url, credit, venueName }); return; }
+    // An event's Foursquare photo is of its VENUE, so the credit is compared
+    // with eventVenue, never with the event's name — "Andrea Bocelli in Seoul"
+    // credited to Olympic Park is right. With no venue on file there is nothing
+    // to compare and the row is left out (Codex, 11-13: reading bracketed
+    // credits would otherwise have turned every such event into a mismatch).
+    if (/4sqi\.net/.test(url)) {
+      const against = isEvent ? String(d.eventVenue ?? '').trim() : venueName;
+      if (against) foursquare.push({ slug, kind, url, credit, venueName: against, claim, isEvent });
+      return;
+    }
     const title = commonsTitle(url);
-    if (title) targets.push({ slug, kind, url, title, claim, isEvent });
+    if (title) targets.push({ slug, kind, url, title, claim, isEvent, place: { name: venueName, region: claim.region, lat: d.place?.lat ?? null, lng: d.place?.lng ?? null } });
   };
   add('hero', d.heroImage?.url, d.heroImage?.credit);
   for (const g of d.gallery ?? []) add('gallery', g?.url, g?.credit);
@@ -102,12 +112,21 @@ const nearby = [];
 const supports = [];
 const unknown = [];
 const events = [];
+// The right city, the wrong address: the photo's own coordinates put the camera
+// outside the ring a photo of this place can come from. Words cannot see this
+// (the uploader names the right city and the same venue name), so it is judged
+// apart from the country/region verdict and reported for a person: a tower is
+// photographed from across the river, and some uploads carry junk coordinates.
+const far = [];
 for (const t of targets) {
   if (t.isEvent) { events.push(t); continue; }
-  const verdict = judgeIdentity(meta.get(t.title), t.claim, world);
+  const m = meta.get(t.title);
+  const verdict = judgeIdentity(m, t.claim, world);
   const row = { ...t, ...verdict };
   const bucket = { contradicts, nearby, supports }[verdict.verdict] ?? unknown;
   bucket.push(row);
+  const dist = judgeDistance(m, t.place);
+  if (dist.verdict === 'far' && verdict.verdict !== 'contradicts') far.push({ ...t, ...dist });
 }
 
 // Foursquare stores the venue the photographer was standing in, right there in
@@ -116,7 +135,19 @@ for (const t of targets) {
 const fsqBad = [];
 for (const p of foursquare) {
   const v = judgeFoursquareCredit(p.credit, p.venueName);
-  if (v.verdict === 'contradicts') fsqBad.push({ ...p, ...v });
+  if (v.verdict === 'contradicts') { fsqBad.push({ ...p, ...v }); continue; }
+  // The test the picker itself now applies (lib/photo-sources pickVenueHit):
+  // one shared word vouches only when it is the word the name leads with.
+  // judgeFoursquareCredit is lenient by design, and passed "Sa Va Anatolian
+  // Breakfast House" for Lina Anatolian and "Sushi ORI" for NIJI Sushi Izakaya
+  // on the shared word alone (owner photo review 2026-11-13). Places only: an
+  // event's name is not its venue's.
+  if (p.isEvent) continue;
+  const named = creditVenue(p.credit);
+  const near = `${p.claim.region}, ${p.claim.country}`;
+  if (named && distinctiveTokens(p.venueName, near).length && !pickVenueHit(p.venueName, near, [{ name: named }])) {
+    fsqBad.push({ ...p, verdict: 'contradicts', why: `credit names "${named}", post is "${p.venueName}" (no shared lead word)` });
+  }
 }
 
 // The two review buckets exist because this code cannot decide them; once a
@@ -145,6 +176,7 @@ const stillOpen = (rows, keyOf) => rows.filter((r) => {
 });
 const fsqOpen = stillOpen(fsqBad, (r) => r.credit);
 const nearbyOpen = stillOpen(nearby, (r) => r.title);
+const farOpen = stillOpen(far, (r) => r.title).sort((a, b) => b.km - a.km);
 
 // Only what can be removed WITHOUT a judgement call. Commons contradictions are
 // decided by a named country, and stock is a rule violation whatever it depicts
@@ -158,7 +190,7 @@ const removable = [
 ];
 
 if (JSON_OUT) {
-  console.log(JSON.stringify({ contradicts, fsqBad: fsqOpen, stock, nearby: nearbyOpen, judgedOkCount: judgedOk.length, unknownCount: unknown.length, supportsCount: supports.length, eventsSkipped: events.length }, null, 2));
+  console.log(JSON.stringify({ contradicts, fsqBad: fsqOpen, stock, nearby: nearbyOpen, far: farOpen, judgedOkCount: judgedOk.length, unknownCount: unknown.length, supportsCount: supports.length, eventsSkipped: events.length }, null, 2));
 } else {
   console.log(`\n🔴 wrong place: ${contradicts.length}   🏷️  wrong venue credited: ${fsqOpen.length}   📷 stock: ${stock.length}`);
   console.log(`🟡 needs a human: ${nearbyOpen.length}   ⚖️  judged ok (hidden): ${judgedOk.length}   ✅ confirmed: ${supports.length}   ❔ unknown: ${unknown.length}   ⏭️  events skipped: ${events.length}\n`);
@@ -172,6 +204,10 @@ if (JSON_OUT) {
   if (nearbyOpen.length) {
     console.log('\n  — same country, cannot decide from a flat region list (review by hand) —');
     for (const n of nearbyOpen) console.log(`  🟡 ${n.slug}: ${n.why}`);
+  }
+  if (farOpen.length) {
+    console.log(`\n  — 🧭 ${farOpen.length} taken far from the place: another branch or a namesake? (review by hand; settle a right one in ${JUDGED}) —`);
+    for (const n of farOpen) console.log(`  🧭 ${n.slug}  [${n.kind}]  ${n.why}\n     ${n.title}`);
   }
 }
 
@@ -218,4 +254,4 @@ if (STRIP && removable.length) {
 }
 
 requireExamined(files.length, '글', 'src/content/posts 가 비어 있나?');
-console.log(`\nIDENTITY_SUMMARY commons=${targets.length} foursquare=${foursquare.length} wrongplace=${contradicts.length} wrongvenue=${fsqOpen.length} stock=${stock.length} confirmed=${supports.length} unknown=${unknown.length} review=${nearbyOpen.length} judged=${judgedOk.length}`);
+console.log(`\nIDENTITY_SUMMARY commons=${targets.length} foursquare=${foursquare.length} wrongplace=${contradicts.length} wrongvenue=${fsqOpen.length} stock=${stock.length} confirmed=${supports.length} unknown=${unknown.length} review=${nearbyOpen.length} far=${farOpen.length} judged=${judgedOk.length}`);
