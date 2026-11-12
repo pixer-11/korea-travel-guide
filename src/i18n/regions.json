@@ -16006,5 +16006,383 @@
       "getting": "大多数游客选择搭乘飞机抵达卢克索国际机场（LXR），从开罗出发的航班大约需要1小时；另一种选择是从开罗巴什提勒车站（Bashtil）乘坐夜间卧铺火车，车程约10到11小时，终点为卢克索中央火车站。此外，开罗至卢克索也有长途巴士和私家车可供选择，但车程通常在10到12小时左右。",
       "days": "建议安排约2到3天时间，从容游览东岸的神庙群和西岸的墓葬群；若之后还计划前往阿斯旺，可再多预留一天。"
     }
+  },
+  "Frisco": {
+    "en": {
+      "blurb": "Frisco is a fast-growing Dallas suburb in Texas known for its cluster of major sports venues, including the Dallas Cowboys' headquarters and training facility, and for a planned, master-built feel that favors shopping districts and stadiums over a traditional downtown. It has grown from a small rail town into one of the wealthiest and fastest-expanding cities in the United States.",
+      "getting": "Most travellers fly into Dallas/Fort Worth International Airport (DFW), roughly ~25 to 30 minutes from Frisco by car or rideshare; Frisco has no airport or dedicated rail line of its own, so onward travel from DFW or from DART rail stations such as Parker Road typically continues by taxi, rideshare, or rental car.",
+      "days": "Plan on ~2 to 3 days to cover Frisco's main sports and entertainment venues, shopping centers, and family attractions at a relaxed pace."
+    },
+    "ko": {
+      "blurb": "프리스코는 텍사스 댈러스 근교에 위치한 급성장 중인 도시로, 댈러스 카우보이스의 본부 및 훈련 시설을 비롯한 주요 스포츠 시설들이 밀집해 있는 것으로 유명합니다. 전통적인 도심 대신 쇼핑 지구와 경기장을 중심으로 한 계획도시의 분위기가 특징이죠. 작은 철도 마을에서 출발해 지금은 미국에서 가장 부유하고 빠르게 성장하는 도시 중 하나로 발돋움했습니다.",
+      "getting": "대부분의 여행객은 댈러스-포트워스 국제공항(DFW)을 이용하며, 이곳에서 차량이나 라이드셰어로 프리스코까지 약 25~30분 정도 소요됩니다. 프리스코에는 자체 공항이나 전용 철도 노선이 없기 때문에, DFW 공항이나 파커 로드(Parker Road) 같은 DART 철도역에서부터는 보통 택시, 라이드셰어, 혹은 렌터카를 이용해 이동하게 됩니다.",
+      "days": "프리스코의 주요 스포츠 및 엔터테인먼트 시설, 쇼핑센터, 그리고 가족 단위로 즐길 수 있는 명소들을 여유롭게 둘러보려면 약 2~3일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "フリスコは、テキサス州ダラス郊外に位置する急成長中の都市で、ダラス・カウボーイズの本拠地兼練習施設をはじめとする大型スポーツ施設が集まっていることで知られています。伝統的なダウンタウンを持つ代わりに、ショッピングエリアやスタジアムを中心に据えた計画都市としての性格が強いのも特徴です。かつては小さな鉄道の町にすぎなかったフリスコですが、今ではアメリカ国内でも屈指の富裕都市、そして最も急速に発展を遂げている都市のひとつへと変貌を遂げました。",
+      "getting": "多くの旅行者は、ダラス・フォートワース国際空港(DFW)を利用します。空港からフリスコまでは、車やライドシェアでおよそ25~30分ほどです。フリスコ自体には空港や専用の鉄道路線がないため、DFW空港からも、あるいはパーカー・ロード駅などのDART鉄道の駅からも、その先はタクシーやライドシェア、レンタカーを使って移動するのが一般的です。",
+      "days": "フリスコの主要なスポーツ・エンターテインメント施設、ショッピングセンター、ファミリー向けアトラクションをゆったりと巡るには、2~3日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Frisco es un suburbio de Dallas, en Texas, de rápido crecimiento, conocido por su concentración de importantes recintos deportivos, entre ellos la sede y el centro de entrenamiento de los Dallas Cowboys, y por un diseño planificado y cuidadosamente construido que privilegia las zonas comerciales y los estadios por encima de un centro urbano tradicional. Pasó de ser un pequeño pueblo ferroviario a convertirse en una de las ciudades más prósperas y de mayor expansión en Estados Unidos.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Dallas/Fort Worth (DFW), ubicado a unos 25 o 30 minutos de Frisco en auto o servicio de transporte privado. Frisco no cuenta con aeropuerto propio ni con una línea de tren dedicada, por lo que el trayecto desde el DFW o desde estaciones del tren DART, como Parker Road, suele completarse en taxi, servicio de transporte privado o auto de alquiler.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma los principales recintos deportivos y de entretenimiento, los centros comerciales y las atracciones familiares de Frisco."
+    },
+    "zh": {
+      "blurb": "弗里斯科是得克萨斯州达拉斯郊区一座快速发展的城市，以聚集多座大型体育场馆而闻名，其中包括达拉斯牛仔队的总部及训练基地。这座城市整体经过统一规划建设，比起传统的市中心，更突出购物区和体育场馆的布局。从昔日的铁路小镇，它已发展成为美国最富裕、扩张速度最快的城市之一。",
+      "getting": "大多数游客会选择飞抵达拉斯/沃思堡国际机场（DFW），从机场开车或乘坐网约车到弗里斯科大约需要25到30分钟。弗里斯科本身没有机场，也没有专属的轻轨线路，因此无论是从DFW机场出发，还是从帕克路（Parker Road）等DART轻轨站转乘，通常都需要依靠出租车、网约车或租车继续前往目的地。",
+      "days": "建议安排2到3天时间，以轻松的节奏游览弗里斯科的主要体育与娱乐场馆、购物中心以及适合全家出游的各类景点。"
+    }
+  },
+  "Haikou": {
+    "en": {
+      "blurb": "Haikou is the laid-back capital of Hainan, China's tropical island province, where colonial-era arcade streets, volcanic rock architecture and seafront parks sit alongside a modern skyline. It serves as the main gateway to Hainan for travellers heading onward to beach resorts like Sanya, while retaining a slower, more local pace than those destinations.",
+      "getting": "Most travellers arrive via Haikou Meilan International Airport (HAK), the island's principal air hub, which has a railway station built into the terminal basement for onward high-speed connections across Hainan. From the airport, taxis, ride-hailing and airport shuttle buses reach the city centre in roughly 30 to 40 minutes, depending on traffic.",
+      "days": "Plan on ~2 to 3 days to cover Haikou's old town, waterfront and nearby volcanic sites before continuing on to other parts of Hainan."
+    },
+    "ko": {
+      "blurb": "하이커우는 중국의 열대 섬 지역인 하이난성의 여유로운 성도로, 식민지 시대의 아케이드 거리와 화산암 건축물, 바다를 끼고 있는 공원들이 현대적인 스카이라인과 어우러져 있는 곳이다. 싼야 같은 해변 리조트로 향하는 여행자들에게는 하이난으로 들어가는 주요 관문 역할을 하면서도, 그런 관광지들보다 한층 느긋하고 현지인의 일상에 가까운 분위기를 간직하고 있다.",
+      "getting": "대부분의 여행자는 하이난섬의 주요 공항인 하이커우 메이란 국제공항(HAK)을 통해 입국한다. 이 공항은 터미널 지하에 기차역이 설치되어 있어 하이난 전역으로 이어지는 고속철도로 바로 환승할 수 있다. 공항에서는 택시, 차량 호출 서비스, 공항 셔틀버스를 이용하면 교통 상황에 따라 대략 30~40분 만에 시내 중심가에 도착할 수 있다.",
+      "days": "하이커우의 구시가지와 해안가, 그리고 인근 화산 지대를 둘러보려면 2~3일 정도를 잡는 것이 적당하며, 이후 하이난의 다른 지역으로 여정을 이어가면 좋다."
+    },
+    "ja": {
+      "blurb": "海口は、中国の熱帯の島、海南省の省都でありながら、どこかのんびりとした空気が漂う街だ。植民地時代の面影を残すアーケード街や火山岩を使った建築、海沿いの公園が、近代的なスカイラインと共存している。三亜などのビーチリゾートへ向かう旅行者にとって海南島への玄関口となる一方、そうした観光地に比べるとゆったりとした地元らしいペースが今も息づいている。",
+      "getting": "多くの旅行者は、海南島の航空拠点である海口美蘭国際空港（HAK）を利用して到着する。ターミナルの地下には鉄道駅が設けられており、そこから海南島各地へ高速鉄道で移動することができる。空港からはタクシー、配車サービス、空港シャトルバスなどで市内中心部までアクセスでき、交通状況にもよるがおおよそ30～40分ほどで到着する。",
+      "days": "海口の旧市街や海沿いのエリア、近郊の火山スポットを巡るなら、2～3日ほど見ておくとよい。その後は海南島の他のエリアへと足を延ばすことができる。"
+    },
+    "es": {
+      "blurb": "Haikou es la relajada capital de Hainan, la provincia insular tropical de China, donde las calles porticadas de estilo colonial, la arquitectura de roca volcánica y los parques frente al mar conviven con un perfil urbano moderno. Es la principal puerta de entrada a Hainan para quienes se dirigen a destinos de playa como Sanya, pero conserva un ritmo más pausado y auténtico que esas zonas.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Haikou Meilan (HAK), el principal centro aéreo de la isla, que cuenta con una estación de tren integrada en el subsuelo de la terminal para conexiones de alta velocidad hacia otros puntos de Hainan. Desde el aeropuerto, los taxis, las aplicaciones de transporte y los autobuses lanzadera llegan al centro de la ciudad en unos 30 a 40 minutos, según el tráfico.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el casco antiguo de Haikou, su malecón y los enclaves volcánicos cercanos antes de continuar hacia otras zonas de Hainan."
+    },
+    "zh": {
+      "blurb": "海口是中国热带岛屿省份海南的省会，城市氛围悠闲惬意。这里既有殖民时期遗留下来的骑楼老街和火山岩建筑，也有临海公园与现代化的城市天际线相映成趣。作为游客前往三亚等海滨度假胜地的主要中转门户，海口依然保留着比那些度假区更加从容、更具本地生活气息的节奏。",
+      "getting": "大多数游客经由海口美兰国际机场（HAK）抵达，这是海南岛的主要航空枢纽。机场航站楼地下设有火车站，方便旅客换乘高铁前往海南岛其他城市。从机场出发，乘坐出租车、网约车或机场大巴到市区大约需要30到40分钟，具体时间视路况而定。",
+      "days": "建议预留约2到3天时间游览海口的老城区、滨海地带以及附近的火山景观，之后再继续前往海南岛的其他地区。"
+    }
+  },
+  "Heping": {
+    "en": {
+      "blurb": "Heping is Taichung's vast, mountainous hinterland, stretching from the carbonated hot springs of Guguan up through the high-altitude orchards and cloud forests of Lishan. It is a place of steep cross-island highways and Atayal indigenous villages rather than city streets, prized for hot spring soaks, alpine fruit and cool-climate hiking far above the coastal plain.",
+      "getting": "There is no airport or rail line within Heping itself: travellers typically reach it by bus or car from Taichung city, with routes running from Taichung's High Speed Rail station or downtown bus hubs up into Guguan, and onward by road deeper into the mountains toward Lishan. Journeys further into the district can take several hours on winding mountain roads, so allow extra time beyond the initial bus or drive from Taichung.",
+      "days": "Plan on ~2-3 days: one for soaking in Guguan's hot springs and nearby trails, and one or two more if venturing higher into Lishan's orchards and scenic lookouts."
+    },
+    "ko": {
+      "blurb": "허핑(和平)은 타이중 시가지를 벗어나 산악지대로 깊숙이 뻗어 있는 광활한 내륙 지역으로, 탄산천으로 유명한 구관(谷關)에서 시작해 고산 과수원과 운무림이 펼쳐지는 리산(梨山)까지 이어집니다. 도심의 분주함 대신 아찔한 횡단도로와 아타얄 원주민 마을이 자리한 이곳은 온천욕, 고랭지 과일, 그리고 해안 평야 저 너머 시원한 기후 속 트레킹으로 사랑받는 곳입니다.",
+      "getting": "허핑 지역 안에는 공항이나 철도가 없어, 대부분 타이중 시내에서 버스나 자동차로 이동합니다. 타이중 고속철도역이나 시내 버스터미널에서 출발해 구관까지 올라간 뒤, 다시 도로를 따라 산속 깊이 리산 방향으로 향하는 경로가 일반적입니다. 더 깊은 산간 지역으로 갈수록 구불구불한 산길을 몇 시간씩 달려야 할 수 있으므로, 타이중에서의 첫 구간 이동 시간 외에 여유 시간을 넉넉히 잡아두는 것이 좋습니다.",
+      "days": "2~3일 정도를 계획하세요. 하루는 구관의 온천과 주변 트레일을 즐기는 데 쓰고, 리산의 과수원과 전망 명소까지 올라갈 계획이라면 하루나 이틀을 더 더하면 좋습니다."
+    },
+    "ja": {
+      "blurb": "和平区は台中が抱える広大な山岳地帯で、谷関の炭酸泉から、梨山の高地果樹園や雲霧林が広がる高所まで続いている。都会的な街並みとは無縁で、険しい中部横断道路とタイヤル族の集落が点在する土地柄だ。温泉につかるもよし、高冷地フルーツを味わうもよし、海沿いの平野をはるかに見下ろす涼しい山々をハイキングするもよしと、その魅力は尽きない。",
+      "getting": "和平区内には空港も鉄道も通っていない。訪れる際は台中市内からバスか車を使うのが一般的で、台中高速鉄道駅や市街地のバスターミナルから谷関まで便が出ており、そこからさらに山道を進んで梨山方面へと向かうことになる。奥地へ進むほど曲がりくねった山道が続き、何時間もかかることがあるため、台中からの最初の移動時間に加えて余裕を持ったスケジュールを組んでおきたい。",
+      "days": "目安は2〜3日。1日は谷関で温泉と周辺のトレイルを楽しみ、さらに梨山の果樹園や展望スポットまで足を延ばすなら、もう1〜2日見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Heping es el vasto y montañoso interior de Taichung, que se extiende desde las aguas termales carbonatadas de Guguan hasta los huertos de altura y los bosques nublados de Lishan. Aquí no hay calles de ciudad, sino empinadas carreteras que cruzan la isla y aldeas indígenas atayal, un lugar apreciado por sus baños termales, su fruta de altura y sus caminatas de clima fresco muy por encima de la llanura costera.",
+      "getting": "Heping no cuenta con aeropuerto ni línea de tren propios: lo habitual es llegar en autobús o en coche desde la ciudad de Taichung, con rutas que parten de la estación de alta velocidad (HSR) de Taichung o de las terminales de autobuses del centro, subiendo hacia Guguan y continuando por carretera hacia el interior montañoso, en dirección a Lishan. Adentrarse más en el distrito puede llevar varias horas por carreteras de montaña llenas de curvas, así que conviene calcular tiempo extra además del trayecto inicial en autobús o coche desde Taichung.",
+      "days": "Calcula entre 2 y 3 días: uno para disfrutar de los baños termales de Guguan y sus senderos cercanos, y uno o dos más si quieres adentrarte en los huertos y miradores panorámicos de Lishan, en las zonas más altas."
+    },
+    "zh": {
+      "blurb": "和平区是台中幅员辽阔的山区腹地，从谷关的碳酸氢钠温泉一路向上延伸，直抵梨山的高山果园与云雾缭绕的森林。这里没有城市街道，取而代之的是陡峭蜿蜒的横贯公路和泰雅族部落，以温泉浴场、高山水果和远离海岸平原的清凉山径闻名。",
+      "getting": "和平区本身没有机场或铁路，旅客通常是从台中市区搭巴士或自驾前往：可从台中高铁站或市区巴士站出发，先抵达谷关，再沿山路继续深入前往梨山等地。越往山区深处，山路蜿蜒曲折，车程可能长达数小时，因此除了从台中出发的初段车程外，建议预留充裕时间。",
+      "days": "建议安排约2-3天：一天用来在谷关泡温泉、走访附近步道；若想深入梨山，欣赏高山果园与绝美观景点，可再多留一两天。"
+    }
+  },
+  "Iloilo City": {
+    "en": {
+      "blurb": "Iloilo City pairs centuries of Spanish and American colonial heritage, from ancestral houses to grand churches, with a food scene serious enough to have earned it UNESCO Creative City of Gastronomy status. Life here moves at an unhurried pace along the riverfront Iloilo River Esplanade, where the city's culinary icon, La Paz Batchoy, was born in the nearby public market.",
+      "getting": "Most travellers fly into Iloilo International Airport (ILO), located in Cabatuan, roughly 24km northwest of the city centre, with direct domestic connections from Manila, Cebu and Davao plus a handful of regional international routes. From the airport, taxis and airport vans are the typical way into the city, a trip of around 30-45 minutes depending on traffic.",
+      "days": "Plan on ~2-3 days to cover the heritage districts, river esplanade and food trail at an easy pace, with extra time if you're using Iloilo as a jumping-off point for Guimaras or the Gigantes Islands."
+    },
+    "ko": {
+      "blurb": "일로일로 시티는 조상 대대로 내려온 고택부터 웅장한 성당까지, 스페인과 미국 식민 시대를 거치며 켜켜이 쌓인 유산을 간직한 도시입니다. 그 미식 수준은 유네스코 음식 창의 도시로 선정될 만큼 진지해서, 음식 자체가 하나의 여행 이유가 됩니다. 강변을 따라 이어지는 일로일로 리버 에스플러네이드에서는 느긋한 시간이 흐르고, 바로 근처 공설 시장에서는 이 도시를 대표하는 음식 라빠스 바초이(La Paz Batchoy)가 탄생했습니다.",
+      "getting": "대부분의 여행객은 일로일로 국제공항(ILO)을 이용해 도착합니다. 공항은 카바투안에 위치하며 시내 중심가에서 북서쪽으로 약 24km 떨어져 있습니다. 마닐라, 세부, 다바오에서 국내선 직항편이 운항되며, 일부 지역 국제선 노선도 있습니다. 공항에서 시내까지는 택시나 공항 밴을 이용하는 것이 일반적이며, 교통 상황에 따라 30~45분 정도 소요됩니다.",
+      "days": "유산 지구와 리버 에스플러네이드, 그리고 다양한 먹거리 탐방까지 여유롭게 즐기려면 2~3일 정도를 계획하는 것이 좋습니다. 일로일로를 기미나라스(Guimaras)나 히간테스 제도(Gigantes Islands)로 가는 거점으로 활용할 계획이라면 일정에 여유 시간을 더하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "イロイロ市は、古い邸宅から荘厳な教会まで、スペインとアメリカの統治時代を物語る歴史遺産と、ユネスコ「食文化創造都市」の称号を得るほど本格的なグルメシーンが共存する街です。市のシンボル料理「ラ・パズ・バッチョイ」が誕生した公設市場の近く、川沿いのイロイロ・リバー・エスプラネードでは、ゆったりとした時間が流れています。",
+      "getting": "多くの旅行者は、市中心部から北西へ約24kmのカバトゥアンにあるイロイロ国際空港（ILO）を利用します。マニラ、セブ、ダバオからの国内直行便に加え、一部地域からの国際便も就航しています。空港から市内へはタクシーや空港バンを利用するのが一般的で、交通状況にもよりますが所要時間はおよそ30～45分です。",
+      "days": "歴史地区、リバーエスプラネード、グルメ巡りをゆったり楽しむなら2～3日が目安です。ギマラス島やヒガンテス諸島への拠点としてイロイロを利用する場合は、さらに日程に余裕を持たせましょう。"
+    },
+    "es": {
+      "blurb": "Iloilo City combina siglos de herencia colonial española y estadounidense —desde casas ancestrales hasta grandiosas iglesias— con una escena gastronómica tan destacada que le valió el título de Ciudad Creativa de la Gastronomía de la UNESCO. Aquí la vida transcurre sin prisas a lo largo del malecón del río Iloilo, el Iloilo River Esplanade, cerca de donde nació el plato emblemático de la ciudad, el La Paz Batchoy, en el mercado público del vecindario.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Iloilo (ILO), ubicado en Cabatuan, a unos 24 km al noroeste del centro de la ciudad, con vuelos domésticos directos desde Manila, Cebú y Dávao, además de algunas rutas internacionales regionales. Desde el aeropuerto, los taxis y las furgonetas de servicio son la forma habitual de llegar a la ciudad, un trayecto de entre 30 y 45 minutos según el tráfico.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma los barrios históricos, el malecón del río y la ruta gastronómica, y sumar algo más de tiempo si se usa Iloilo como punto de partida hacia Guimaras o las Islas Gigantes."
+    },
+    "zh": {
+      "blurb": "怡朗市融合了数百年的西班牙与美国殖民遗韵——从古老的祖传老宅到气势恢宏的教堂，都诉说着这段历史，而这里的美食更是声名在外，让怡朗荣获联合国教科文组织\"美食之都\"的称号。沿着怡朗河畔长廊，城市的生活节奏悠然从容，而这座城市的美食招牌——乐怕肉骨汤（La Paz Batchoy），正是诞生于附近的公共市场。",
+      "getting": "大多数旅客会选择飞抵怡朗国际机场（ILO），该机场位于卡巴图安，距市中心约24公里。机场设有来自马尼拉、宿务和达沃的国内直飞航班，另外也有少量国际区域航线。从机场前往市区，出租车和机场班车是最常见的交通方式，车程视路况而定，一般需30至45分钟。",
+      "days": "建议安排约2-3天的时间，以轻松的步调游览历史文化街区、河畔长廊，并体验当地美食之旅；如果计划以怡朗为跳板前往吉马拉斯岛或吉甘特斯群岛，建议预留更多时间。"
+    }
+  },
+  "Koh Kong": {
+    "en": {
+      "blurb": "Tucked against the Thai border in Cambodia's southwest, Koh Kong town sits at the edge of the Cardamom Mountains, where dense rainforest and mangrove rivers meet the Gulf of Thailand. It functions less as a tourist showpiece and more as a gateway: a quiet staging post for jungle treks, island hops and border crossings rather than a destination of grand sights in itself.",
+      "getting": "Koh Kong has no operating commercial airport, so most travellers arrive overland by bus. Regular services connect the town to Phnom Penh and Sihanoukville, and it is also the standard crossing point for travellers coming from Thailand via Trat and the Hat Lek, Cham Yeam border.",
+      "days": "Plan on ~2 to 3 days, enough to cover a Cardamom Mountains jungle or river trip, the nearby mangrove forest and a pause before or after crossing the Thai border."
+    },
+    "ko": {
+      "blurb": "캄보디아 남서부, 태국 국경과 맞닿은 곳에 자리한 코콩 시내는 카르다몸 산맥 자락에 위치해 있으며, 울창한 열대우림과 맹그로브 강줄기가 태국만과 만나는 지점이기도 하다. 이곳은 화려한 볼거리를 자랑하는 관광지라기보다는 하나의 관문에 가깝다. 정글 트레킹과 섬 여행, 국경을 넘나드는 여정을 위한 조용한 경유지일 뿐, 그 자체로 거창한 명소를 내세우는 곳은 아니다.",
+      "getting": "코콩에는 운영 중인 상업 공항이 없어, 대부분의 여행자는 육로로 버스를 이용해 이동한다. 프놈펜과 시아누크빌을 잇는 정기 버스 노선이 있으며, 태국 쪽에서 쁘라찐부리를 거쳐 핫렉-참얌 국경을 통해 넘어오는 여행자들에게도 이곳이 표준 경유지 역할을 한다.",
+      "days": "2~3일 정도를 계획하면 카르다몸 산맥의 정글 또는 강 투어, 인근 맹그로브 숲 탐방, 그리고 태국 국경을 넘기 전후의 여유를 충분히 즐길 수 있다."
+    },
+    "ja": {
+      "blurb": "カンボジア南西部、タイとの国境近くに位置するコッコン(Koh Kong)の町は、カルダモン山脈(Cardamom Mountains)の縁にあり、深い熱帯雨林とマングローブの川がタイランド湾と交わる場所に広がっている。観光名所としての華やかさはあまりなく、どちらかと言えば「玄関口」としての役割が大きい。ジャングルトレッキングや島めぐり、国境越えの拠点として静かに機能する町であり、それ自体に壮大な見どころがあるわけではない。",
+      "getting": "コッコンには稼働中の商業空港がないため、ほとんどの旅行者は陸路、バスで訪れる。プノンペンやシアヌークビル(Sihanoukville)からは定期便が運行しており、タイ側からトラート(Trat)を経由してハットレック(Hat Lek)・チャムイアム(Cham Yeam)国境を越えてくる旅行者にとっても、ここが定番の入国ポイントとなっている。",
+      "days": "目安としては2〜3日。カルダモン山脈でのジャングルや川めぐりのツアー、近隣のマングローブ林の散策、そしてタイとの国境越えの前後の一息つく時間を含めると、ちょうど良い長さだ。"
+    },
+    "es": {
+      "blurb": "Encajada contra la frontera con Tailandia, en el suroeste de Camboya, la ciudad de Koh Kong se asienta al borde de las montañas Cardamomo, donde la selva tupida y los ríos de manglares se encuentran con el golfo de Tailandia. Funciona menos como un escaparate turístico y más como una puerta de entrada: un tranquilo punto de partida para caminatas en la jungla, saltos de isla en isla y cruces fronterizos, más que un destino de grandes atractivos en sí mismo.",
+      "getting": "Koh Kong no cuenta con un aeropuerto comercial en funcionamiento, así que la mayoría de los viajeros llegan por tierra en autobús. Hay servicios regulares que conectan la ciudad con Phnom Penh y Sihanoukville, y también es el punto de cruce habitual para quienes vienen desde Tailandia vía Trat y el paso fronterizo de Hat Lek-Cham Yeam.",
+      "days": "Calcula entre 2 y 3 días, suficiente para hacer una excursión por la selva o los ríos de las montañas Cardamomo, visitar el cercano bosque de manglares y hacer una pausa antes o después de cruzar la frontera con Tailandia."
+    },
+    "zh": {
+      "blurb": "菩萨港（戈公）地处柬埔寨西南部，紧邻泰国边境，坐落在豆蔻山脉的边缘，茂密的雨林与红树林河流在这里汇入泰国湾。这里并非供人打卡观光的热门景点，而更像是一个中转站——无论是前往丛林徒步、跳岛游玩，还是办理边境通关，它都只是一个安静的出发点，本身并没有什么惊艳的大景点。",
+      "getting": "戈公没有运营中的商业机场，因此大多数旅行者都是经陆路乘巴士抵达。从这里有班车定期往返金边和西哈努克市，同时它也是经泰国他叻府（Trat）、经哈莱-乍扬（Hat Lek, Cham Yeam）口岸入境柬埔寨旅客的标准通关点。",
+      "days": "建议安排2至3天左右的时间，足以体验一趟豆蔻山脉的丛林或河流之旅、探访附近的红树林，并在跨越泰柬边境前后稍作停留休整。"
+    }
+  },
+  "Newark": {
+    "en": {
+      "blurb": "Newark, New Jersey's largest city, pairs a historic \"Brick City\" skyline with the Ironbound district's Portuguese and Brazilian restaurants, a neighbourhood known for its lively food scene along Ferry Street. It is also one of the country's busiest transport gateways, sitting just minutes from Manhattan yet anchored by its own museums, parks and the Prudential Center arena.",
+      "getting": "Most travellers arrive via Newark Liberty International Airport (EWR), reached from its rail station by the AirTrain Newark monorail; that station connects directly onto NJ Transit's Northeast Corridor and North Jersey Coast lines as well as Amtrak services, with onward trains to Newark Penn Station and New York Penn Station. Note that the airport rail station has no direct road access, so transfers run strictly by train or AirTrain, not by taxi pickup at the platform.",
+      "days": "A single day covers the Ironbound's dining strip and a core sight such as the Newark Museum of Art or Branch Brook Park, while ~2 days allows time for NJPAC performances, Riverfront Park and a wider loop of the city's neighbourhoods."
+    },
+    "ko": {
+      "blurb": "뉴저지주 최대 도시인 뉴어크는 \"브릭 시티\"라는 별칭에 걸맞은 유서 깊은 스카이라인과, 포르투갈 및 브라질 레스토랑이 즐비한 아이언바운드 지구를 함께 품고 있다. 특히 페리 스트리트를 따라 이어지는 활기찬 먹거리 골목으로 유명한 동네다. 뉴어크는 또한 미국에서 손꼽히게 분주한 교통 요충지로, 맨해튼에서 불과 몇 분 거리에 있으면서도 자체적인 박물관과 공원, 그리고 프루덴셜 센터 경기장을 중심으로 독자적인 매력을 갖추고 있다.",
+      "getting": "대부분의 여행자는 뉴어크 리버티 국제공항(EWR)을 통해 도착하며, 공항 내 기차역까지는 에어트레인 뉴어크 모노레일로 이동한다. 이 역은 NJ 트랜짓의 노스이스트 코리더 노선 및 노스 저지 코스트 노선, 그리고 암트랙 열차와 바로 연결되어 뉴어크 펜 스테이션과 뉴욕 펜 스테이션까지 갈아탈 수 있다. 다만 공항 기차역은 도로로 직접 접근할 수 없으므로, 환승은 반드시 기차나 에어트레인으로만 가능하며 플랫폼에서 택시를 잡을 수는 없다는 점을 유의해야 한다.",
+      "days": "하루 일정이면 아이언바운드의 먹자골목과 뉴어크 미술관이나 브랜치 브룩 파크 같은 핵심 명소 한 곳을 둘러보기에 충분하다. 2일 정도 머문다면 NJPAC 공연 관람, 리버프론트 파크 산책, 그리고 도시 곳곳의 동네를 좀 더 폭넓게 둘러볼 여유가 생긴다."
+    },
+    "ja": {
+      "blurb": "ニュージャージー州最大の都市ニューアークは、「ブリック・シティ」と呼ばれる歴史的なスカイラインと、アイアンバウンド地区のポルトガル料理・ブラジル料理レストラン街が共存する街です。アイアンバウンドはフェリー・ストリート沿いに活気あるグルメシーンが広がることで知られています。また全米でも有数の交通の要所でありながら、マンハッタンからわずか数分という立地に加え、独自の博物館や公園、プルデンシャル・センター・アリーナも擁しています。",
+      "getting": "多くの旅行者はニューアーク・リバティー国際空港(EWR)を利用して到着します。空港の鉄道駅へはエアトレイン・ニューアーク(モノレール)でアクセスでき、この駅からはNJトランジットのノースイースト・コリドー線やノース・ジャージー・コースト線、さらにアムトラックにも直結しており、ニューアーク・ペン駅やニューヨーク・ペン駅へ乗り継ぐことができます。なお空港の鉄道駅には直接乗り入れできる道路がないため、プラットフォームでのタクシー乗車はできず、乗り継ぎは鉄道またはエアトレインのみとなる点に注意してください。",
+      "days": "1日あれば、アイアンバウンドのグルメ街に加え、ニューアーク美術館やブランチ・ブルック・パークといった主要スポットを一つ巡ることができます。2日ほどあれば、NJPAC(ニュージャージー舞台芸術センター)での公演鑑賞やリバーフロント・パーク、さらに市内のさまざまな地区を広く巡る余裕が生まれます。"
+    },
+    "es": {
+      "blurb": "Newark, la ciudad más grande de Nueva Jersey, combina el histórico perfil urbano de la \"Brick City\" con los restaurantes portugueses y brasileños del distrito de Ironbound, un barrio conocido por su animada escena gastronómica a lo largo de Ferry Street. Es también una de las puertas de transporte más transitadas del país, ubicada a solo minutos de Manhattan, pero con identidad propia gracias a sus museos, parques y el estadio Prudential Center.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Newark Liberty (EWR), al que se accede desde su estación de tren mediante el monorraíl AirTrain Newark; esa estación conecta directamente con las líneas Northeast Corridor y North Jersey Coast de NJ Transit, así como con los servicios de Amtrak, con trenes de enlace hacia Newark Penn Station y New York Penn Station. Ten en cuenta que la estación de tren del aeropuerto no tiene acceso directo por carretera, por lo que los traslados se realizan exclusivamente en tren o AirTrain, y no mediante taxis que recojan en el andén.",
+      "days": "Un solo día alcanza para recorrer la zona gastronómica de Ironbound y visitar un lugar destacado, como el Newark Museum of Art o Branch Brook Park, mientras que unos 2 días permiten disfrutar de espectáculos en el NJPAC, pasear por Riverfront Park y explorar con más calma los distintos barrios de la ciudad."
+    },
+    "zh": {
+      "blurb": "纽瓦克是新泽西州最大的城市,这里既有\"砖城\"历史悠久的天际线,又有铁结区(Ironbound)热闹的葡萄牙和巴西餐馆,尤其是渡轮街（Ferry Street）一带，美食氛围十足。纽瓦克同时也是全美最繁忙的交通枢纽之一，距离曼哈顿仅几分钟车程，但自身也坐拥多座博物馆、公园，以及普天盛（Prudential Center）球馆等特色景点，毫不逊色于大都市的光环。",
+      "getting": "大多数旅客通过纽瓦克自由国际机场（EWR）抵达，机场设有火车站，可搭乘AirTrain Newark单轨列车前往；该车站与NJ Transit的东北走廊线（Northeast Corridor）、北泽西海岸线（North Jersey Coast Line）以及Amtrak列车直接衔接，可继续换乘前往纽瓦克宾夕法尼亚车站（Newark Penn Station）或纽约宾夕法尼亚车站（New York Penn Station）。需要注意的是，机场火车站并没有直接的道路通道，因此往返只能依靠火车或AirTrain，站台上无法叫到出租车接驳。",
+      "days": "如果只有一天时间，可以逛逛铁结区的美食街，再参观一个核心景点，比如纽瓦克艺术博物馆（Newark Museum of Art）或布兰奇布鲁克公园（Branch Brook Park）；如果有两天左右，则可以从容安排观看新泽西表演艺术中心（NJPAC）的演出、漫步河滨公园（Riverfront Park），并更深入地探索城市各个街区。"
+    }
+  },
+  "Orléans": {
+    "en": {
+      "blurb": "Orléans sits on the Loire River where Joan of Arc broke the English siege in 1429, and its medieval core, grand cathedral and riverside quays still trade on that history today. As the gateway to the Loire Valley's château country, it pairs compact, walkable charm with easy day trips into some of France's most celebrated countryside.",
+      "getting": "Orléans has no major airport of its own, so most travellers fly into Paris and connect by SNCF train from Gare d'Austerlitz, arriving at Les Aubrais-Orléans or the central Orléans station in about an hour. Paris Orly and Charles de Gaulle are the nearest international airports, each requiring a further rail or bus connection into the city.",
+      "days": "Two days is enough to cover the old town, cathedral and riverside on foot, while three or more allows time for a château excursion into the surrounding Loire Valley."
+    },
+    "ko": {
+      "blurb": "오를레앙은 1429년 잔 다르크가 영국군의 포위를 뚫은 곳으로, 루아르강을 따라 자리 잡고 있다. 중세의 흔적이 고스란히 남은 구시가지와 웅장한 대성당, 강변 선창은 지금도 그 역사적 명성을 이어가고 있다. 루아르 계곡 샤토 지역으로 들어가는 관문 역할을 하는 이 도시는, 걸어서 둘러보기 좋은 아담한 매력과 더불어 프랑스에서 손꼽히는 전원 풍경으로의 당일치기 여행도 손쉽게 즐길 수 있다.",
+      "getting": "오를레앙에는 자체 주요 공항이 없어, 대부분의 여행객은 파리로 입국한 뒤 SNCF 기차를 이용해 이동한다. 파리 오스테를리츠역(Gare d'Austerlitz)에서 출발하면 약 1시간 만에 레조브레-오를레앙(Les Aubrais-Orléans)역이나 오를레앙 시내 중심역에 도착할 수 있다. 가장 가까운 국제공항은 파리 오를리(Orly)와 샤를 드골(Charles de Gaulle)이며, 두 공항 모두 추가로 기차나 버스를 갈아타야 시내까지 이동할 수 있다.",
+      "days": "이틀이면 구시가지와 대성당, 강변을 도보로 둘러보기에 충분하며, 사흘 이상 머문다면 주변 루아르 계곡의 샤토 당일치기 여행까지 즐길 시간이 생긴다."
+    },
+    "ja": {
+      "blurb": "オルレアンはロワール川沿いに広がる町で、1429年にジャンヌ・ダルクがイギリス軍の包囲を打ち破った地として知られています。中世の面影を残す旧市街、壮麗な大聖堂、そして川沿いの美しい波止場には、今なおその歴史の息吹が感じられます。ロワール渓谷の古城めぐりへの玄関口でもあるこの町は、徒歩で巡れるコンパクトな魅力を持ちながら、フランスでも屈指の美しい田園地帯への日帰り旅行にも最適な拠点となっています。",
+      "getting": "オルレアンには主要な空港がないため、多くの旅行者はまずパリに到着し、オステルリッツ駅からSNCFの列車に乗り換えます。所要時間は約1時間で、レ・ゾブレ=オルレアン駅、または市内中心部のオルレアン駅に到着します。最寄りの国際空港はパリ・オルリー空港とシャルル・ド・ゴール空港で、いずれも鉄道かバスでの乗り継ぎが必要です。",
+      "days": "2日あれば、旧市街や大聖堂、川沿いの散策を十分に楽しめます。3日以上滞在すれば、周辺のロワール渓谷にある古城を訪れる余裕も生まれます。"
+    },
+    "es": {
+      "blurb": "Orléans se asienta a orillas del Loira, allí donde Juana de Arco rompió el asedio inglés en 1429, y su casco medieval, su imponente catedral y sus muelles junto al río siguen hoy viviendo de esa historia. Como puerta de entrada a la región de los châteaux del Valle del Loira, combina el encanto compacto y paseable de la ciudad con la posibilidad de hacer excursiones de un día a algunos de los paisajes más célebres de Francia.",
+      "getting": "Orléans no cuenta con un aeropuerto propio de importancia, así que la mayoría de los viajeros llega a París y continúa en tren de la SNCF desde la Gare d'Austerlitz, llegando a Les Aubrais-Orléans o a la estación central de Orléans en aproximadamente una hora. Los aeropuertos internacionales más cercanos son París Orly y Charles de Gaulle, desde donde es necesario tomar otra conexión en tren o autobús para llegar a la ciudad.",
+      "days": "Con dos días alcanza para recorrer a pie el casco antiguo, la catedral y el paseo junto al río, mientras que con tres o más se puede sumar una excursión a algún château en el Valle del Loira circundante."
+    },
+    "zh": {
+      "blurb": "奥尔良坐落在卢瓦尔河畔，1429年圣女贞德正是在此击溃英军的围城,时至今日,这座城市的中世纪老城区、宏伟大教堂和河畔码头依然承载着那段历史的荣光。作为通往卢瓦尔河谷城堡之乡的门户，奥尔良既有小巧精致、适合漫步的魅力，又能轻松安排一日游，探访法国最负盛名的乡村风光。",
+      "getting": "奥尔良本身没有大型机场，因此大多数游客会先飞抵巴黎，再从奥斯特里茨火车站（Gare d'Austerlitz）搭乘法国国铁（SNCF）列车前往，约一小时即可抵达雷奥布雷-奥尔良站（Les Aubrais-Orléans）或市中心的奥尔良站。巴黎奥利机场（Orly）和戴高乐机场（Charles de Gaulle）是距离最近的国际机场，但从这两地出发都还需转乘火车或巴士才能进入市区。",
+      "days": "两天时间足以步行游览老城区、大教堂和河畔风光，若有三天或更长时间，则可以安排一次前往周边卢瓦尔河谷的城堡之旅。"
+    }
+  },
+  "Parkent": {
+    "en": {
+      "blurb": "Parkent is a small market town in the foothills of the Western Tien Shan, best known for the Soviet era Solar Furnace, a vast mirrored heliocomplex that still ranks among the largest facilities of its kind. Surrounded by orchards and fertile valleys, it also serves as a quiet gateway for travellers heading toward the Chimgan Mountains and Charvak Reservoir.",
+      "getting": "There is no rail line to Parkent, so travellers fly into Tashkent International Airport (TAS) and continue by road. From central Tashkent, buses and marshrutkas run to Parkent's bus station, with a taxi onward to the Solar Furnace itself; the whole journey takes roughly ~1 to 1.5 hours depending on traffic.",
+      "days": "A half day to full day is enough to cover Parkent's main sights, including the Solar Furnace and a stroll through the town, though many visitors combine it with a longer trip into the nearby Chimgan Mountains."
+    },
+    "ko": {
+      "blurb": "파르켄트는 서톈산 산기슭에 자리한 작은 시장 마을로, 지금도 세계 최대 규모의 태양로 시설 중 하나로 꼽히는 구소련 시대의 태양로, 즉 거대한 거울 반사 태양열 단지로 가장 잘 알려져 있다. 과수원과 비옥한 계곡으로 둘러싸인 이곳은 침간 산맥과 차르박 저수지로 향하는 여행자들에게 조용한 관문 역할도 한다.",
+      "getting": "파르켄트까지 이어지는 철도는 없기 때문에, 여행자들은 타슈켄트 국제공항(TAS)으로 입국한 뒤 육로로 이동해야 한다. 타슈켄트 시내에서 버스나 마르슈루트카(승합차)를 타면 파르켄트 버스터미널까지 갈 수 있고, 거기서 택시로 갈아타면 태양로까지 갈 수 있다. 교통 상황에 따라 전체 이동 시간은 대략 1시간에서 1시간 30분 정도 걸린다.",
+      "days": "태양로와 마을 산책 등 파르켄트의 주요 볼거리를 둘러보는 데는 반나절에서 하루면 충분하지만, 많은 여행자들이 인근 침간 산맥으로의 긴 여행과 함께 일정을 짜기도 한다."
+    },
+    "ja": {
+      "blurb": "パルケントは、西天山の山麓に広がる小さな市場町で、何といっても有名なのはソ連時代に建設された太陽炉です。巨大な鏡面を備えたこのヘリオコンプレックスは、今なお世界最大級の施設として知られています。町の周囲は果樹園と肥沃な谷に囲まれており、チムガン山脈やチャルヴァク貯水池へ向かう旅行者にとって、静かな玄関口としての役割も果たしています。",
+      "getting": "パルケントには鉄道が通っていないため、旅行者はタシケント国際空港（TAS）まで飛行機で入り、その後は陸路で向かうことになります。タシケント中心部からはバスやマルシュルートカ（乗合タクシー）がパルケントのバスターミナルまで運行しており、そこからタクシーで太陽炉まで向かいます。交通状況にもよりますが、全行程はおよそ1時間から1時間半程度です。",
+      "days": "太陽炉の見学と町の散策など、パルケントの主な見どころを巡るには、半日から1日あれば十分です。とはいえ、多くの旅行者は近郊のチムガン山脈への小旅行と組み合わせて訪れています。"
+    },
+    "es": {
+      "blurb": "Parkent es una pequeña ciudad de mercado situada en las estribaciones del Tien Shan Occidental, conocida sobre todo por el Horno Solar de la era soviética, un enorme helio-complejo de espejos que sigue siendo una de las instalaciones más grandes de su tipo. Rodeada de huertos y valles fértiles, también funciona como una tranquila puerta de entrada para los viajeros que se dirigen hacia las montañas de Chimgan y el embalse de Charvak.",
+      "getting": "Parkent no cuenta con línea ferroviaria, por lo que los viajeros llegan en avión al Aeropuerto Internacional de Taskent (TAS) y continúan por carretera. Desde el centro de Taskent, hay autobuses y marshrutkas que llegan hasta la estación de autobuses de Parkent, desde donde se puede tomar un taxi hasta el propio Horno Solar; todo el trayecto dura aproximadamente entre 1 y 1,5 horas, según el tráfico.",
+      "days": "Con medio día o un día completo es suficiente para recorrer los principales atractivos de Parkent, incluido el Horno Solar y un paseo por la ciudad, aunque muchos visitantes aprovechan para combinarlo con una excursión más larga a las cercanas montañas de Chimgan."
+    },
+    "zh": {
+      "blurb": "帕尔肯特是西天山山麓下的一座恬静小镇，最为人称道的是苏联时代遗留下来的\"太阳炉\"——一座规模宏大的镜面聚光综合设施，至今仍是同类设施中规模最大的之一。小镇四周果园环绕，河谷肥沃，同时也是前往奇姆干山脉和恰尔瓦克水库的宁静门户。",
+      "getting": "帕尔肯特没有铁路通达，游客需先飞抵塔什干国际机场（TAS），再转陆路前往。从塔什干市中心出发，有公交车和marshrutka（小巴）可直达帕尔肯特汽车站，之后可打车前往太阳炉本身；视路况而定，全程大约需要1至1.5小时。",
+      "days": "半天到一天的时间，足以游览帕尔肯特的主要景点，包括太阳炉和镇上的闲逛漫步，不过许多游客会将其与前往附近奇姆干山脉的长途行程结合起来。"
+    }
+  },
+  "Semarang": {
+    "en": {
+      "blurb": "Semarang is a busy north-coast port city where restored Dutch colonial streets sit alongside a historic Chinatown and the striking Sam Poo Kong temple, making it one of Java's most layered cultural stops. As the capital of Central Java, it also doubles as a practical gateway for day trips into the region's temples and highlands.",
+      "getting": "Most travellers arrive via Ahmad Yani International Airport (SRG), which sits only a few kilometres from the city centre, or by train into Semarang Tawang Station, the city's main rail hub. Onward travel around Central Java is typically done by road, with buses from the regional hub connecting to nearby towns and attractions.",
+      "days": "Most visitors spend ~1 to 2 days in Semarang itself, enough to cover the old town, Sam Poo Kong and Lawang Sewu, often extending the stay to use the city as a base for trips to Borobudur or the Dieng Plateau."
+    },
+    "ko": {
+      "blurb": "스마랑은 분주한 북부 해안 항구 도시로, 복원된 네덜란드 식민지 시대 거리들이 유서 깊은 차이나타운, 그리고 인상적인 삼포콩 사원과 어우러져 있어 자바에서 가장 다채로운 문화를 느낄 수 있는 곳 중 하나입니다. 중부자바의 주도이기도 한 이곳은 인근 사원과 고원 지대로 떠나는 당일 여행의 실용적인 관문 역할도 합니다.",
+      "getting": "대부분의 여행자는 시내에서 불과 몇 킬로미터 떨어진 아마드 야니 국제공항(SRG)을 통해 도착하거나, 기차를 이용해 스마랑의 주요 철도 거점인 스마랑 타왕역으로 들어옵니다. 중부자바 지역 내 이동은 보통 육로로 이루어지며, 지역 터미널에서 출발하는 버스가 인근 도시와 관광지로 연결됩니다.",
+      "days": "대부분의 방문객은 스마랑 시내에서 약 1~2일을 보내며, 이 정도면 구시가지, 삼포콩 사원, 라왕 세우를 둘러보기에 충분합니다. 많은 여행자들이 보로부두르나 디엥 고원으로 떠나는 거점으로 활용하기 위해 체류 기간을 더 늘리기도 합니다."
+    },
+    "ja": {
+      "blurb": "スマランは、ジャワ島北岸に位置する活気ある港湾都市で、修復されたオランダ植民地時代の街並みが、歴史あるチャイナタウンや印象的なサム・ポー・コン寺院と隣り合って残っており、ジャワの中でも特に多層的な文化を味わえる街のひとつです。中部ジャワ州の州都でもあるため、周辺の寺院群や高原地帯への日帰り旅行の拠点としても便利に使えます。",
+      "getting": "多くの旅行者は、市中心部からわずか数キロの場所にあるアフマド・ヤニ国際空港(SRG)を利用するか、スマランの鉄道の玄関口であるタワン駅を経由して到着します。中部ジャワ州内のその後の移動は基本的に陸路が中心で、地域の拠点からバスが周辺の町や観光地へとつながっています。",
+      "days": "スマラン市内だけなら滞在日数の目安は1〜2日ほどで、旧市街やサム・ポー・コン、ラワン・セウを回るには十分です。ただ、ボロブドゥールやディエン高原への旅の拠点として使う場合は、滞在を延ばす旅行者も少なくありません。"
+    },
+    "es": {
+      "blurb": "Semarang es una bullyciosa ciudad portuaria en la costa norte de Java, donde las calles coloniales holandesas restauradas conviven con un histórico barrio chino y el imponente templo Sam Poo Kong, lo que la convierte en una de las paradas culturales más ricas en matices de la isla. Como capital de Java Central, también funciona como una puerta de entrada práctica para excursiones de un día a los templos y las tierras altas de la región.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Ahmad Yani (SRG), ubicado a solo unos pocos kilómetros del centro de la ciudad, o en tren hasta la estación de Semarang Tawang, el principal nudo ferroviario de la ciudad. Los desplazamientos por Java Central suelen hacerse por carretera, con autobuses que conectan este centro regional con los pueblos y atracciones cercanos.",
+      "days": "La mayoría de los visitantes pasa entre 1 y 2 días en Semarang, tiempo suficiente para recorrer el casco antiguo, el templo Sam Poo Kong y Lawang Sewu, y muchos extienden su estadía para usar la ciudad como base para excursiones a Borobudur o la meseta de Dieng."
+    },
+    "zh": {
+      "blurb": "三宝垄是爪哇北海岸一座繁忙的港口城市，保存完好的荷兰殖民风情街道与历史悠久的唐人街、引人注目的三宝公庙交相辉映，是爪哇岛文化底蕴最深厚的旅游目的地之一。作为中爪哇省的首府，三宝垄同时也是前往区域内寺庙古迹和高地地区一日游的理想门户。",
+      "getting": "大多数游客经三宝垄哈迪·阿赫玛德·雅尼国际机场（SRG）抵达，该机场距市中心仅几公里；也可乘火车抵达三宝垄塔旺站，这是该市的主要铁路枢纽。在中爪哇境内的后续行程通常以公路出行为主，从区域客运枢纽出发的巴士可连接周边城镇及各大景点。",
+      "days": "大多数游客会在三宝垄市区停留约1至2天，足以游览老城区、三宝公庙和兰滑武（Lawang Sewu），不少人还会延长行程，将三宝垄作为前往婆罗浮屠或迪昂高原的中转基地。"
+    }
+  },
+  "Taupō": {
+    "en": {
+      "blurb": "Taupō sits on the shore of New Zealand's largest lake, a volcanic crater filled with water, where geothermal valleys, trout-filled rivers and the thundering Huka Falls sit within minutes of town. It is also the launchpad for the Tongariro Alpine Crossing and some of the North Island's most dramatic volcanic scenery, making it as much an adventure base as a lakeside stop.",
+      "getting": "Taupō has its own small airport (TUO), with Air New Zealand operating domestic flights to and from Auckland. Most travellers arrive overland, however, with InterCity coaches linking Taupō to Auckland (~5 hours) and Wellington (~6 hours), since Taupō has no passenger rail line of its own.",
+      "days": "Plan on 2 to 4 days to cover the lake, Huka Falls and nearby geothermal sites at an easy pace, or longer if adding a day trip to the Tongariro Alpine Crossing."
+    },
+    "ko": {
+      "blurb": "타우포는 뉴질랜드에서 가장 큰 호수, 즉 물로 가득 찬 화산 분화구의 기슭에 자리하고 있으며, 지열 계곡과 송어가 가득한 강, 우렁차게 쏟아지는 후카 폭포가 마을에서 단 몇 분 거리에 모여 있습니다. 또한 통가리로 알파인 크로싱과 북섬에서 손꼽히는 장엄한 화산 경관으로 향하는 출발점이기도 해서, 호숫가 휴양지인 동시에 모험의 전진기지 역할을 톡톡히 해냅니다.",
+      "getting": "타우포에는 자체 소규모 공항(TUO)이 있으며, 에어뉴질랜드가 오클랜드를 오가는 국내선을 운항합니다. 다만 대부분의 여행객은 육로로 이동하는데, 타우포에는 철도가 없기 때문에 인터시티 고속버스가 오클랜드(약 5시간)와 웰링턴(약 6시간)을 타우포와 연결해 줍니다.",
+      "days": "호수와 후카 폭포, 인근 지열 명소들을 여유롭게 둘러보려면 2~4일 정도를 계획하시고, 통가리로 알파인 크로싱 당일 여행까지 더하고 싶다면 며칠 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "タウポは、ニュージーランド最大の湖のほとりに広がる町。この湖はかつての火山の噴火口に水が溜まってできたもので、地熱の谷や鱒が泳ぐ川、轟音を響かせるフカ・フォールズまで、町からわずか数分の距離に揃っている。さらにここは、トンガリロ・アルパイン・クロッシングをはじめ、北島屈指のダイナミックな火山景観への出発点でもあり、湖畔の滞在先であると同時に、アドベンチャーの拠点としての顔も持つ。",
+      "getting": "タウポには小さな空港(TUO)があり、ニュージーランド航空がオークランドとの間に国内線を運航している。とはいえ、多くの旅行者は陸路でやって来る。タウポには鉄道の旅客路線がないため、インターシティのバスがオークランド(約5時間)やウェリントン(約6時間)とタウポを結ぶ主な交通手段となっている。",
+      "days": "湖やフカ・フォールズ、周辺の地熱スポットをのんびり巡るなら2〜4日が目安。トンガリロ・アルパイン・クロッシングへの日帰りツアーを組み込む場合は、さらに日数をプラスするとよい。"
+    },
+    "es": {
+      "blurb": "Taupō se asienta a orillas del lago más grande de Nueva Zelanda, un cráter volcánico colmado de agua, donde valles geotérmicos, ríos repletos de truchas y las atronadoras cataratas de Huka se encuentran a minutos del centro. La ciudad es, además, el punto de partida para el Tongariro Alpine Crossing y para algunos de los paisajes volcánicos más espectaculares de la Isla Norte, lo que la convierte tanto en una base de aventuras como en un destino junto al lago.",
+      "getting": "Taupō cuenta con su propio aeropuerto pequeño (TUO), donde Air New Zealand opera vuelos domésticos hacia y desde Auckland. Sin embargo, la mayoría de los viajeros llega por vía terrestre, ya que los autobuses de InterCity conectan Taupō con Auckland (~5 horas) y Wellington (~6 horas), dado que la ciudad no cuenta con línea de tren de pasajeros propia.",
+      "days": "Conviene reservar entre 2 y 4 días para recorrer con calma el lago, las cataratas de Huka y los sitios geotérmicos cercanos, o más tiempo si se suma una excursión de un día al Tongariro Alpine Crossing."
+    },
+    "zh": {
+      "blurb": "陶波坐落在新西兰最大湖泊的岸边——这片湖水其实是一个注满水的火山口。地热谷地、鳟鱼成群的河流,以及气势磅礴的胡卡瀑布,都近在镇外几分钟车程之内。同时,这里也是通往汤加里罗高山步道以及北岛最壮观火山景观的出发点,使陶波不仅是湖畔小憩之地,更是户外探险的大本营。",
+      "getting": "陶波拥有自己的小型机场(TUO),新西兰航空运营往返奥克兰的国内航班。不过,大多数游客选择陆路前往,InterCity长途巴士连接陶波与奥克兰(约5小时车程)及惠灵顿(约6小时车程),因为陶波本身并没有客运铁路线。",
+      "days": "建议安排2至4天,以轻松的节奏游览湖区、胡卡瀑布及周边地热景点;若想加游汤加里罗高山步道一日行程,则可适当延长天数。"
+    }
+  },
+  "Teguise": {
+    "en": {
+      "blurb": "Teguise is Lanzarote's historic former capital, a cluster of whitewashed, cobbled streets watched over by the hilltop Castillo de Santa Bárbara. For six days of the week it is a quiet village of churches and courtyards, but every Sunday morning it fills with one of the Canary Islands' largest open-air markets.",
+      "getting": "Most travellers arrive via Lanzarote Airport (ACE) in Arrecife, since there is no direct bus from the airport to Teguise. The reliable route is a bus into Arrecife's bus station followed by a connecting regional service, or a taxi/transfer direct from the airport, with the drive itself taking well under an hour.",
+      "days": "Half a day covers the old town's churches, palace and market atmosphere, so most visitors treat Teguise as a day trip rather than a base for a longer stay."
+    },
+    "ko": {
+      "blurb": "테기세는 란사로테의 옛 수도로, 언덕 위 산타 바르바라 성이 내려다보는 하얀 벽과 돌길이 어우러진 마을이다. 일주일 중 엿새는 교회와 안뜰이 고즈넉한 조용한 마을이지만, 매주 일요일 아침이면 카나리아 제도에서 손꼽히는 대규모 노천 시장으로 북적인다.",
+      "getting": "공항에서 테기세로 가는 직행버스가 없어, 대부분의 여행자는 아레시페에 있는 란사로테 공항(ACE)을 통해 들어온다. 가장 확실한 방법은 버스를 타고 아레시페 버스터미널까지 간 뒤 지역 버스로 환승하는 것이며, 공항에서 바로 택시나 전용 차량을 이용할 수도 있다. 실제 주행 시간은 한 시간이 채 걸리지 않는다.",
+      "days": "구시가지의 교회와 궁전, 시장 분위기를 둘러보는 데는 반나절이면 충분해서, 대부분의 여행자는 테기세를 장기 체류의 거점이 아니라 당일치기 여행지로 삼는다."
+    },
+    "ja": {
+      "blurb": "テギセはランサローテ島のかつての首都であり、丘の上に築かれたサンタ・バルバラ城に見守られるように、白壁の家々と石畳の路地が入り組む歴史あふれる町です。週のうち六日は教会と中庭が静けさに包まれた小さな村ですが、毎週日曜の朝だけは一変し、カナリア諸島でも屈指の規模を誇る青空市場で賑わいを見せます。",
+      "getting": "テギセへ空港から直通のバスはないため、ほとんどの旅行者はアレシフェにあるランサローテ空港（ACE）を経由して向かいます。確実な行き方は、まずアレシフェのバスターミナルまでバスで移動し、そこから地方路線バスに乗り継ぐ方法です。もちろん、空港からタクシーや送迎サービスを利用して直接向かうことも可能で、所要時間は1時間足らずです。",
+      "days": "旧市街の教会や宮殿、そして市場の雰囲気を楽しむには半日もあれば十分です。そのため、多くの旅行者はテギセを滞在拠点としてではなく、日帰りで訪れる場所として選んでいます。"
+    },
+    "es": {
+      "blurb": "Teguise es la antigua capital histórica de Lanzarote, un entramado de calles empedradas y casas encaladas vigilado desde lo alto por el Castillo de Santa Bárbara. Durante seis días a la semana es un pueblo tranquilo de iglesias y patios recoletos, pero cada domingo por la mañana cobra vida con uno de los mercados al aire libre más grandes de las Islas Canarias.",
+      "getting": "La mayoría de los viajeros llegan a través del Aeropuerto de Lanzarote (ACE), en Arrecife, ya que no existe un autobús directo desde el aeropuerto hasta Teguise. La opción más segura es tomar un autobús hasta la estación de Arrecife y luego hacer trasbordo a un servicio regional, o bien contratar un taxi o traslado directo desde el aeropuerto, trayecto que en cualquier caso dura bastante menos de una hora.",
+      "days": "Medio día basta para recorrer las iglesias, el palacio y el ambiente del mercado del casco antiguo, por lo que la mayoría de los visitantes se acerca a Teguise como una excursión de un día más que como base para una estancia más larga."
+    },
+    "zh": {
+      "blurb": "特吉塞是兰萨罗特岛昔日的历史名城,白墙石巷纵横交错,山顶的圣芭芭拉城堡俯瞰全镇。一周里有六天,这里只是个教堂与庭院错落的宁静小镇,但每逢周日清晨,它就摇身一变,化身为加那利群岛规模最大的露天集市之一。",
+      "getting": "大多数游客会先抵达阿雷西费的兰萨罗特机场(ACE),因为机场并没有直达特吉塞的巴士。比较靠谱的方式是先乘巴士到阿雷西费汽车站,再转乘区域巴士前往;也可以选择出租车或机场接送服务直达,车程本身用不了一个小时。",
+      "days": "老城的教堂、宫殿和市集风情,半天时间就能逛个遍,所以大多数游客都把特吉塞当作一日游的目的地,而不是久留的落脚点。"
+    }
+  },
+  "Uvurkhangai": {
+    "en": {
+      "blurb": "Uvurkhangai is the heartland of Mongolia's Khangai region, where the ruins of Kharkhorin, once the capital of the Mongol Empire, sit alongside the Orkhon Valley's grasslands and the dramatic basalt cliffs of the Ulaan Tsutgalan waterfall. It is a province of monasteries, nomadic herding valleys and volcanic terrain, bridging the forested north of Mongolia with the Gobi's edge to the south.",
+      "getting": "Most travellers reach Uvurkhangai by road from Ulaanbaatar via the paved A1 Highway, a drive of roughly 6 hours to Arvaikheer, the provincial capital; there is also a small domestic airport at Arvaikheer (AVK) with infrequent flights, and no rail line serves the province. Buses and shared vans also run from Ulaanbaatar's regional transport hubs for those travelling without a private vehicle.",
+      "days": "Plan on ~3-5 days to cover Kharkhorin, the Erdene Zuu monastery and the Orkhon Valley at a relaxed pace, or longer if venturing further to Ulaan Tsutgalan waterfall and the province's remoter soums."
+    },
+    "ko": {
+      "blurb": "우브르항가이는 몽골 항가이 지역의 심장부로, 한때 몽골 제국의 수도였던 하르호린의 유적이 오르혼 계곡의 초원, 그리고 울란 추트갈랑 폭포의 웅장한 현무암 절벽과 어우러져 있는 곳이다. 사원과 유목민의 목축 계곡, 화산 지형이 펼쳐진 이 지역은 숲이 우거진 몽골 북부와 고비 사막의 경계를 잇는 다리 역할을 한다.",
+      "getting": "대부분의 여행자는 울란바토르에서 포장도로인 A1 고속도로를 타고 육로로 우브르항가이에 도착하며, 주도인 아르바이헤르까지는 약 6시간이 걸린다. 아르바이헤르에는 작은 국내 공항(AVK)이 있어 비정기적으로 항공편이 운행되지만, 철도는 이 지역에 연결되어 있지 않다. 자가 차량이 없는 여행자를 위해 울란바토르의 지방 교통 터미널에서 버스와 합승 밴도 운행된다.",
+      "days": "하르호린과 에르덴 조 사원, 오르혼 계곡을 여유롭게 둘러보려면 약 3~5일 정도를 계획하면 되고, 울란 추트갈랑 폭포나 지방의 외딴 솜(지역)까지 둘러보고 싶다면 더 긴 일정이 필요하다."
+    },
+    "ja": {
+      "blurb": "ウブルハンガイは、モンゴル・ハンガイ地方の中心に位置する県で、かつてモンゴル帝国の都があったハラホリンの遺跡と、オルホン渓谷の草原、そしてウラーン・ツトガランの滝を縁取る迫力ある玄武岩の断崖が同居する土地です。数々の僧院や遊牧民が家畜を追う谷、火山がつくり出した地形が広がり、モンゴル北部の森林地帯と南に広がるゴビ砂漠の境界をつなぐ役割も果たしています。",
+      "getting": "ウブルハンガイへは、ウランバートルから舗装されたA1ハイウェイを使って陸路で向かうのが一般的で、県都アルバイヘールまでは車で約6時間かかります。アルバイヘールには小さな国内線空港(AVK)もありますが、便数は多くありません。鉄道は通っていないため、自家用車を持たない旅行者は、ウランバートルの地方バスターミナルから出ているバスや乗合バンを利用することもできます。",
+      "days": "ハラホリン、エルデニ・ゾー僧院、オルホン渓谷をゆったり巡るなら3〜5日ほど見ておくとよいでしょう。さらにウラーン・ツトガランの滝や、よりアクセスの難しい郡部まで足を延ばす場合は、もう少し日数が必要です。"
+    },
+    "es": {
+      "blurb": "Uvurkhangai es el corazón de la región de Khangai en Mongolia, donde las ruinas de Kharkhorin, antigua capital del Imperio Mongol, conviven con las praderas del valle de Orkhon y los imponentes acantilados de basalto de la cascada Ulaan Tsutgalan. Es una provincia de monasterios, valles de pastoreo nómada y paisajes volcánicos, que hace de puente entre el norte boscoso de Mongolia y el borde del Gobi hacia el sur.",
+      "getting": "La mayoría de los viajeros llega a Uvurkhangai por carretera desde Ulán Bator a través de la autopista pavimentada A1, un trayecto de unas 6 horas hasta Arvaikheer, la capital provincial. También existe un pequeño aeropuerto doméstico en Arvaikheer (AVK) con vuelos poco frecuentes, y la provincia no cuenta con línea de ferrocarril. Para quienes viajan sin vehículo propio, también circulan autobuses y furgonetas compartidas desde las terminales regionales de transporte de Ulán Bator.",
+      "days": "Conviene reservar entre 3 y 5 días para recorrer con calma Kharkhorin, el monasterio de Erdene Zuu y el valle de Orkhon, o más tiempo si se planea llegar hasta la cascada Ulaan Tsutgalan y los soums más remotos de la provincia."
+    },
+    "zh": {
+      "blurb": "后杭爱省（Uvurkhangai）是蒙古杭爱地区的核心地带，这里既有曾作为蒙古帝国都城的哈拉和林（Kharkhorin）遗址，也有鄂尔浑河谷（Orkhon Valley）的辽阔草原，以及乌兰楚特古兰瀑布（Ulaan Tsutgalan）壮观的玄武岩峭壁。这是一个遍布寺院、游牧河谷与火山地貌的省份，北接蒙古森林地带，南连戈壁边缘，承南启北。",
+      "getting": "大多数旅行者从乌兰巴托出发，沿已铺装的A1公路驱车前往后杭爱省，车程约6小时可抵达省会阿尔拜赫尔（Arvaikheer）。阿尔拜赫尔也设有一座小型国内机场（AVK），但航班班次有限；该省没有铁路线路。对于没有私家车的旅行者，也可以从乌兰巴托的长途汽车站乘坐班车或拼车前往。",
+      "days": "建议安排约3至5天，以轻松的节奏游览哈拉和林、额尔德尼召寺（Erdene Zuu）和鄂尔浑河谷；若想进一步探访乌兰楚特古兰瀑布及省内更偏远的苏木（soum），则需安排更长时间。"
+    }
+  },
+  "Vitoria-Gasteiz": {
+    "en": {
+      "blurb": "Vitoria-Gasteiz is the Basque Country's quiet capital, a city of medieval streets ringed by green belts of parkland that have earned it a reputation as one of Europe's greenest urban centres. Its old town climbs a hill in the shape of an almond, with the Gothic Santa María Cathedral at its core and arcaded squares spreading out below.",
+      "getting": "Vitoria-Gasteiz has its own small airport (VIT) with limited routes, so most travellers fly into Bilbao Airport (BIO) and continue by bus or road, a journey of around 45 minutes. The city's railway station sits on the Madrid-Hendaye line, with direct regional and long-distance trains from Madrid, Bilbao area connections and other northern Spanish cities.",
+      "days": "Plan on 2 to 3 days to cover the old town, cathedral and surrounding parks at an easy pace, with time left for a side trip into the Rioja Alavesa wine country."
+    },
+    "ko": {
+      "blurb": "비토리아-가스테이스는 바스크 지방의 조용한 주도로, 중세의 골목길이 초록빛 녹지대로 둘러싸인 도시다. 이 덕분에 유럽에서 가장 녹지가 풍부한 도시 중 하나로 꼽힌다. 아몬드 모양으로 언덕을 따라 펼쳐진 구시가지 중심에는 고딕 양식의 산타 마리아 대성당이 자리하고, 그 아래로는 아케이드로 둘러싸인 광장들이 넓게 펼쳐져 있다.",
+      "getting": "비토리아-가스테이스에는 자체 공항(VIT)이 있지만 취항 노선이 많지 않아, 대부분의 여행자는 빌바오 공항(BIO)으로 입국한 뒤 버스나 자동차로 약 45분 거리를 이동한다. 시내 기차역은 마드리드-엔다예 노선에 위치해 있어, 마드리드에서 오는 직행 열차와 장거리 열차, 빌바오 지역 연계편, 그리고 북부 스페인 다른 도시들과의 열차편을 이용할 수 있다.",
+      "days": "구시가지와 대성당, 주변 공원들을 여유롭게 둘러보려면 2~3일 정도를 계획하면 좋다. 여기에 리오하 알라베사 와인 산지로 떠나는 당일 여행을 더할 시간도 남겨두자."
+    },
+    "ja": {
+      "blurb": "ビトリア＝ガステイスは、バスク州の静かな州都。緑地帯が市街を取り囲み、ヨーロッパでも屈指の「緑の都市」として知られています。旧市街はアーモンドの形をした丘の上に広がり、中心にはゴシック様式のサンタ・マリア大聖堂がそびえ、その麓にはアーケードに囲まれた広場が点在しています。",
+      "getting": "ビトリア＝ガステイスには小規模な空港（VIT）がありますが就航路線は限られているため、多くの旅行者はビルバオ空港（BIO）を利用し、そこからバスや車で約45分かけて移動します。市内の鉄道駅はマドリード～エンダイエ線上にあり、マドリードからの直通列車や、ビルバオ方面、その他スペイン北部の都市との接続便が運行しています。",
+      "days": "旧市街や大聖堂、周辺の公園をゆったり巡るなら2～3日が目安です。余裕があれば、リオハ・アラベサのワイン産地への小旅行にも足を延ばしてみましょう。"
+    },
+    "es": {
+      "blurb": "Vitoria-Gasteiz es la tranquila capital del País Vasco, una ciudad de calles medievales rodeada de cinturones verdes que le han valido fama de ser uno de los centros urbanos más verdes de Europa. Su casco antiguo trepa por una colina con forma de almendra, con la gótica Catedral de Santa María como núcleo y plazas porticadas que se extienden a sus pies.",
+      "getting": "Vitoria-Gasteiz cuenta con su propio aeropuerto (VIT), aunque con rutas limitadas, por lo que la mayoría de los viajeros llegan al Aeropuerto de Bilbao (BIO) y continúan en autobús o por carretera, un trayecto de unos 45 minutos. La estación de ferrocarril de la ciudad se encuentra en la línea Madrid-Hendaya, con trenes regionales y de larga distancia directos desde Madrid, conexiones con el área de Bilbao y otras ciudades del norte de España.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma el casco antiguo, la catedral y los parques de los alrededores, dejando además tiempo para una escapada a la comarca vinícola de Rioja Alavesa."
+    },
+    "zh": {
+      "blurb": "加斯泰兹是巴斯克地区宁静低调的首府,中世纪街巷环绕其间,四周被大片绿色公园地带围绕,因此赢得了\"欧洲最绿城市\"之一的美誉。老城依山而建,呈杏仁状的轮廓徐徐展开,哥特式的圣玛利亚大教堂坐镇城市核心,四周则是一片片拱廊环绕的广场。",
+      "getting": "维多利亚-加斯泰兹拥有自己的小型机场(VIT),但航线有限,因此大多数旅客会选择飞往毕尔巴鄂机场(BIO),再转乘巴士或自驾前往,车程约45分钟。这座城市的火车站位于马德里至昂代(Hendaye)铁路线上,设有往返马德里的直达区域列车和长途列车,同时也与毕尔巴鄂地区及西班牙北部其他城市相连。",
+      "days": "建议安排2到3天时间,以轻松的节奏游览老城、大教堂及周边公园,还可以留出时间前往里奥哈阿拉维萨(Rioja Alavesa)葡萄酒产区来一场短途之旅。"
+    }
+  },
+  "Whanganui": {
+    "en": {
+      "blurb": "Whanganui sits where the North Island's longest navigable river meets the Tasman Sea, its wide colonial-era streets and working river port shaped by more than a century as a trading town. Today it's known for a strong arts and craft glass scene layered over this river heritage, making it a quieter, more textured stop than New Zealand's bigger tourist centres.",
+      "getting": "Whanganui has its own small airport (WAG) with flights to Auckland, but most travellers arrive by road: InterCity coaches run from Wellington (~3.5 to 4 hours) and connect through to Auckland and Palmerston North, with the latter's airport serving as the nearest major air gateway. There is no direct passenger rail line into Whanganui itself.",
+      "days": "Plan on 1 to 2 days to cover the river heritage trail, Whanganui's galleries and glass studios, and a stroll through the compact Victorian-era centre."
+    },
+    "ko": {
+      "blurb": "왕거누이는 북섬에서 가장 긴 항행 가능한 강이 태즈먼해와 만나는 지점에 자리하고 있으며, 식민지 시대를 떠올리게 하는 넓은 거리와 현역 강항구는 한 세기가 넘는 무역 도시로서의 역사를 고스란히 간직하고 있다. 오늘날에는 이러한 강변 유산 위에 탄탄한 예술·공예 유리 공예 문화가 더해져, 뉴질랜드의 대형 관광 중심지보다 한결 차분하고 깊이 있는 매력을 지닌 곳으로 알려져 있다.",
+      "getting": "왕거누이에는 자체 소형 공항(WAG)이 있어 오클랜드행 항공편을 이용할 수 있지만, 대부분의 여행자는 육로로 이동한다. 인터시티(InterCity) 고속버스가 웰링턴에서 출발해(약 3.5~4시간 소요) 오클랜드와 파머스턴 노스까지 연결되며, 파머스턴 노스 공항이 가장 가까운 주요 관문 공항 역할을 한다. 왕거누이까지 직접 연결되는 여객 철도 노선은 없다.",
+      "days": "강변 유산 트레일, 왕거누이의 갤러리와 유리 공예 스튜디오, 그리고 아담한 빅토리아 시대풍 시내 산책까지 둘러보려면 1~2일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ワンガヌイは、北島最長の航行可能な川がタスマン海に注ぐ場所にある町で、幅広い植民地時代の街並みと現役の河川港には、交易の町として栄えた一世紀以上の歴史が刻まれている。今日では、こうした川の歴史的背景に重なるように盛んなアート&クラフトガラスのシーンで知られており、ニュージーランドの主要観光地に比べると静かで味わい深い寄り道先となっている。",
+      "getting": "ワンガヌイには独自の小さな空港(WAG)があり、オークランドへの便が就航しているが、ほとんどの旅行者は陸路で訪れる。InterCityの長距離バスがウェリントンから運行しており(所要約3.5~4時間)、オークランドやパーマストンノースへも接続している。特にパーマストンノースの空港は、最寄りの主要な空の玄関口となっている。ワンガヌイへ直接乗り入れる旅客鉄道路線はない。",
+      "days": "川にまつわる歴史を辿るトレイル、ワンガヌイのギャラリーやガラス工房巡り、こぢんまりとしたビクトリア朝時代の中心街の散策まで含めると、1~2日あるとちょうどよい。"
+    },
+    "es": {
+      "blurb": "Whanganui se encuentra en el punto donde el río navegable más largo de la Isla Norte desemboca en el mar de Tasmania, con sus amplias calles de época colonial y su puerto fluvial activo, moldeados por más de un siglo de historia como ciudad comercial. Hoy en día es conocida por una vibrante escena artesanal de vidrio artístico que se suma a esta herencia fluvial, lo que la convierte en una parada más tranquila y con más matices que los grandes centros turísticos de Nueva Zelanda.",
+      "getting": "Whanganui cuenta con su propio pequeño aeropuerto (WAG), con vuelos a Auckland, aunque la mayoría de los viajeros llegan por carretera: los autobuses de InterCity conectan desde Wellington (entre 3,5 y 4 horas aproximadamente) y continúan hacia Auckland y Palmerston North, cuyo aeropuerto es la puerta de entrada aérea más importante de la zona. No existe una línea ferroviaria de pasajeros directa hasta Whanganui.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer la ruta del patrimonio fluvial, visitar las galerías y talleres de vidrio de Whanganui, y pasear por el compacto centro de estilo victoriano."
+    },
+    "zh": {
+      "blurb": "旺加努伊坐落于北岛最长通航河流与塔斯曼海的交汇处，殖民时期留下的宽阔街道和繁忙的河港，见证了这座城市作为贸易重镇一个多世纪的历史。如今，在这层河运底蕴之上，旺加努伊更以浓厚的艺术与玻璃工艺氛围闻名，相比新西兰那些热门的大城市，这里显得更为静谧、也更有韵味，是一处值得细细品味的落脚点。",
+      "getting": "旺加努伊拥有自己的小型机场（WAG），有航班飞往奥克兰，不过大多数旅客还是选择陆路前往：InterCity长途大巴从惠灵顿出发（车程约3.5至4小时），并可换乘前往奥克兰和北帕默斯顿，后者的机场是距离最近的主要航空枢纽。目前没有直达旺加努伊的客运铁路线。",
+      "days": "建议安排1到2天时间，探索河运历史步道、旺加努伊的各家画廊与玻璃工作室，并在紧凑别致的维多利亚风格市中心漫步闲逛。"
+    }
   }
 }

@@ -1121,6 +1121,12 @@
     "es": "Fremantle",
     "zh": "弗里曼特尔"
   },
+  "Frisco": {
+    "ko": "프리스코",
+    "ja": "フリスコ",
+    "es": "Frisco",
+    "zh": "弗里斯科"
+  },
   "Fujairah": {
     "ko": "푸자이라",
     "ja": "フジャイラ",
@@ -1373,6 +1379,12 @@
     "es": "Hac Sa",
     "zh": "黑沙"
   },
+  "Haikou": {
+    "ko": "하이커우",
+    "ja": "海口",
+    "es": "Haikou",
+    "zh": "海口"
+  },
   "Hamburg": {
     "ko": "함부르크",
     "ja": "ハンブルク",
@@ -1414,6 +1426,12 @@
     "ja": "ハイデルベルク",
     "es": "Heidelberg",
     "zh": "海德堡"
+  },
+  "Heping": {
+    "ko": "허핑",
+    "ja": "和平",
+    "es": "Heping",
+    "zh": "和平"
   },
   "Hiroshima": {
     "ko": "히로시마",
@@ -1512,6 +1530,12 @@
     "zh": "伊维萨"
   },
   "Iloilo": {
+    "ko": "일로일로",
+    "ja": "イロイロ",
+    "es": "Iloilo",
+    "zh": "伊洛伊洛"
+  },
+  "Iloilo City": {
     "ko": "일로일로",
     "ja": "イロイロ",
     "es": "Iloilo",
@@ -1786,6 +1810,12 @@
     "ja": "チャーン島",
     "es": "Koh Chang",
     "zh": "象岛"
+  },
+  "Koh Kong": {
+    "ko": "꼬꽁",
+    "ja": "コッコン",
+    "es": "Koh Kong",
+    "zh": "戈公"
   },
   "Koh Phi Phi": {
     "ko": "피피 섬",
@@ -2501,6 +2531,12 @@
     "es": "Nueva Zelanda",
     "zh": "新西兰"
   },
+  "Newark": {
+    "ko": "뉴어크",
+    "ja": "ニューアーク",
+    "es": "Newark",
+    "zh": "纽瓦克"
+  },
   "Nha Trang": {
     "ko": "나트랑",
     "ja": "ニャチャン",
@@ -2597,6 +2633,12 @@
     "es": "Orchard Road",
     "zh": "乌节路"
   },
+  "Orléans": {
+    "ko": "오를레앙",
+    "ja": "オルレアン",
+    "es": "Orleans",
+    "zh": "奥尔良"
+  },
   "Osaka": {
     "ko": "오사카",
     "ja": "大阪",
@@ -2674,6 +2716,12 @@
     "ja": "パリ",
     "es": "París",
     "zh": "巴黎"
+  },
+  "Parkent": {
+    "ko": "파르켄트",
+    "ja": "パルケント",
+    "es": "Parkent",
+    "zh": "帕尔肯特"
   },
   "Pasay": {
     "ko": "파사이",
@@ -3113,6 +3161,12 @@
     "es": "Selçuk",
     "zh": "塞尔丘克"
   },
+  "Semarang": {
+    "ko": "스마랑",
+    "ja": "スマラン",
+    "es": "Semarang",
+    "zh": "三宝垄"
+  },
   "Seminyak": {
     "ko": "스미냑",
     "ja": "スミニャック",
@@ -3461,6 +3515,12 @@
     "es": "Taupo",
     "zh": "陶波"
   },
+  "Taupō": {
+    "ko": "타우포",
+    "ja": "タウポ",
+    "es": "Taupo",
+    "zh": "陶波"
+  },
   "Tbilisi": {
     "ko": "트빌리시",
     "ja": "トビリシ",
@@ -3472,6 +3532,12 @@
     "ja": "テアナウ",
     "es": "Te Anau",
     "zh": "蒂阿瑙"
+  },
+  "Teguise": {
+    "ko": "테기세",
+    "ja": "テギセ",
+    "es": "Teguise",
+    "zh": "特吉塞"
   },
   "Telangana": {
     "ko": "텔랑가나",
@@ -3695,6 +3761,12 @@
     "es": "Ushuaia",
     "zh": "乌斯怀亚"
   },
+  "Uvurkhangai": {
+    "ko": "우부르항가이",
+    "ja": "ウブルハンガイ",
+    "es": "Uvurjangai",
+    "zh": "乌布苏努尔"
+  },
   "Uzbekistan": {
     "ko": "우즈베키스탄",
     "ja": "ウズベキスタン",
@@ -3755,6 +3827,12 @@
     "es": "Vinicunca",
     "zh": "维尼昆卡"
   },
+  "Vitoria-Gasteiz": {
+    "ko": "비토리아가스테이스",
+    "ja": "ビトリア＝ガステイス",
+    "es": "Vitoria-Gasteiz",
+    "zh": "维多利亚-加斯泰斯"
+  },
   "Waitomo": {
     "ko": "와이토모",
     "ja": "ワイトモ",
@@ -3790,6 +3868,12 @@
     "ja": "ウェリントン",
     "es": "Wellington",
     "zh": "惠灵顿"
+  },
+  "Whanganui": {
+    "ko": "왕거누이",
+    "ja": "ワンガヌイ",
+    "es": "Whanganui",
+    "zh": "旺格努伊"
   },
   "Whistler": {
     "ko": "휘슬러",

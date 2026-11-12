@@ -3,4 +3,27 @@
 // one, decided from the city's province (see that file). Hand entries in
 // venue-tz.mjs win. tz null: the city could not be placed — its page shows no
 // local-time state, and "why" says what was missing. Edit venue-tz.mjs instead.
-export default {};
+export default {
+  "United States": {
+    "Newark": {
+      "tz": "America/New_York",
+      "province": "New Jersey"
+    },
+    "Frisco": {
+      "tz": "America/Chicago",
+      "province": "Texas"
+    }
+  },
+  "Indonesia": {
+    "Semarang": {
+      "tz": "Asia/Jakarta",
+      "province": "Central Java"
+    }
+  },
+  "Mongolia": {
+    "Uvurkhangai": {
+      "tz": "Asia/Ulaanbaatar",
+      "province": "Ovorkhangai"
+    }
+  }
+};
