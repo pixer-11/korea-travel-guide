@@ -46,7 +46,20 @@ const DRY = process.argv.includes('--dry');
 const MIN_WIDTH = 1024;
 // Vision calls one post may spend a night. Rejections are remembered for 30
 // days (lib/city-hero-rejects), so the next night starts further down the list.
-const VISION_PER_POST = 4;
+const VISION_PER_POST = Math.max(1, Number(process.env.CITY_VISION_PER_POST) || 4);
+// Sight guides of the city to search by name, most-reviewed first.
+const LANDMARKS_PER_POST = 6;
+// Kinds of city scene, for a city whose skyline photos are taken already.
+const SCENES = ['old town', 'mosque', 'temple', 'cathedral', 'square', 'monument', 'museum', 'river', 'lake', 'park', 'at night', 'panorama', 'landscape', 'aerial view'];
+const picksIn = new Map(); // region → photos placed this run, to rotate the search order
+const spentViews = new Map(); // region → view searches that already placed a photo this run
+// Photographs of a place as it was (the Prokudin-Gorsky "Syr Darya Oblast. City
+// of Tashkent" plates came up for a 2026 expo). The archive-year rule in
+// commons only sees a year in the title, and these carry none.
+// Narrow on purpose: "Giza Governorate", "colonial era buildings" and "Oblast
+// Museum" are modern photos of old things (review, 11-12). The plates are
+// titled "<Region> Oblast. <Place>.", and a dated archive says "circa 1910".
+const HISTORICAL = /\b(prokudin|gorsky|gorskii)\b|\boblast\.\s|\b(c\.|circa)\s?1[89]\d\d\b|\bsoviet[\s-]era\b/i;
 
 const readJson = (p) => { try { return JSON.parse(readFileSync(p, 'utf8')); } catch { return {}; } };
 const covers = readJson('data/region-covers.json');
@@ -62,6 +75,7 @@ let rejectsChanged = pruneRejections(rejects);
 // guide ("Westhafen Tower" on the Main Tower guide) says the photo is not that
 // building, not that it is not Frankfurt (Codex, 11-12).
 const regionOf = new Map();
+const landmarks = new Map(); // region → [{name, n}] from the site's own sight guides
 const handRejectedInRegion = (region, url) => {
   const fam = photoFamily(url);
   if (!fam) return false;
@@ -124,6 +138,15 @@ for (const f of files) {
   let data;
   try { ({ data } = matter(raw)); } catch { continue; }
   if (data.region && /^event/.test(String(data.category ?? ''))) regionOf.set(f.replace(/\.md$/, ''), String(data.region).trim());
+  // The city's own sights, as this site already covers them: the names to ask
+  // Commons for when a skyline search has run dry (Tashkent's Commons is mostly
+  // parked cars, and seventeen Tashkent events each need a photo of their own).
+  if (data.region && data.draft !== true && /^(attraction|hidden-gem)$/.test(String(data.category ?? ''))) {
+    const name = String(data.place?.name || String(data.title ?? '').split(':')[0]).trim();
+    const key = String(data.region).trim();
+    const list = landmarks.get(key) ?? landmarks.set(key, []).get(key);
+    if (name) list.push({ name, n: Number(data.place?.userRatingsTotal) || 0 });
+  }
   const url = data.heroImage?.url;
   if (url) { markUsedImage(used, url); continue; }
   if (data.draft === true) continue;
@@ -145,7 +168,10 @@ for (const t of targets) {
   // 1. the region's verified cover, when it is not already someone's hero
   let pick = null;
   const cover = covers[region]?.url;
-  if (cover && !isUsedImage(used, cover)) {
+  // A cover that has been ruled out for this post falls through to Commons; it
+  // used to be picked here and then refused below, ending the post's search
+  // (Kunming, every night).
+  if (cover && !isUsedImage(used, cover) && !ruledOut(t, cover)) {
     pick = { url: cover, credit: covers[region].credit, source: covers[region].source };
   }
 
@@ -159,9 +185,28 @@ for (const t of targets) {
   if (!pick) {
     const venue = String(t.data.eventVenue ?? '').replace(/\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim();
     const venueUsable = venue && !/\b(multiple|various|several|venues|tba|tbc|online|citywide|city-wide)\b/i.test(venue);
+    // City views: skylines, then the city's best-known sights (most-reviewed
+    // first), then kinds of scene. The filename must still name the city
+    // (cross + heroTierReason), so a sight's photo is only taken when it says
+    // where it is. Each post of the same city starts one step further down
+    // this list, so seventeen Tashkent events do not all get the same park.
+    const views = [
+      `${region} skyline`, `${region} cityscape`,
+      ...[...(landmarks.get(region) ?? [])].sort((a, b) => b.n - a.n).slice(0, LANDMARKS_PER_POST).map((l) => `${l.name} ${region}`),
+      ...SCENES.map((s) => `${region} ${s}`),
+    ];
+    // A view that already gave this city a photo tonight goes to the back, or
+    // the dozen photos of one park fill a dozen guides.
+    const spent = spentViews.get(region) ?? new Set();
+    // Only the unspent views rotate; spent ones always come last, or the turn
+    // wraps them back in front of views nobody has tried (review, 11-12).
+    const fresh = views.filter((v) => !spent.has(v));
+    const turn = fresh.length ? (picksIn.get(region) ?? 0) % fresh.length : 0;
+    const ordered = [...fresh.slice(turn), ...fresh.slice(0, turn), ...views.filter((v) => spent.has(v))];
     const searches = [
       ...(venueUsable ? [`${venue} ${region}`, venue].map((q) => ({ q, cross: tokens(venue) })) : []),
-      ...[`${region} skyline`, `${region} cityscape`, `${region} ${country}`, region].map((q) => ({ q, cross: regionTokens })),
+      ...ordered.map((q) => ({ q, cross: regionTokens, view: true })),
+      ...[`${region} ${country}`, region].map((q) => ({ q, cross: regionTokens })),
     ];
     const looked = new Set(used);
     let visionLeft = VISION_PER_POST;
@@ -176,6 +221,7 @@ for (const t of targets) {
         // so nothing placed here is stripped the next morning.
         const tier = heroTierReason(hit.url, t.data, covers);
         if (!tier) continue;
+        if (HISTORICAL.test(fileOf(hit.url).replace(/[_]+/g, ' '))) continue;
         // A file that names another place on the site is that place: "Nice view
         // of Chicago skyline" names Nice only as an adjective (11-12 dry run).
         if (otherPlaceIn(hit.url, [region, country, venue])) continue;
@@ -220,13 +266,14 @@ for (const t of targets) {
         // fails closed (no key, an outage: no pick), and a person still reads
         // the result in audit-event-hero-identity the next morning.
         if (visionLeft-- <= 0) break;
-        const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: ask, category: 'city, venue, landscape or landmark view', region, country });
+        const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: ask, category: 'present-day city, venue, landscape or landmark view that would make an attractive banner (not an archival or historical photo, not a vehicle, animal, product or close-up)', region, country });
         if (!vis.ok) {
           console.log(`  · ${t.slug.slice(0, 46)}: ${fileOf(hit.url).slice(0, 40)} — vision: ${String(vis.reason).slice(0, 70)}`);
           if (!DRY && rememberRejection(rejects, rejectAs, hit.url, vis.reason)) rejectsChanged = true;
           continue;
         }
         pick = { url: hit.url, credit: hit.credit, source: hit.source };
+        if (s.view) (spentViews.get(region) ?? spentViews.set(region, new Set()).get(region)).add(s.q);
         break;
       }
     }
@@ -245,6 +292,7 @@ for (const t of targets) {
   const url = cleanCommonsUrl(pick.url);
   console.log(`  ${DRY ? '·' : '+'} ${t.slug.slice(0, 46).padEnd(48)}${fileOf(url).slice(0, 44)}`);
   markUsedImage(used, url);
+  picksIn.set(region, (picksIn.get(region) ?? 0) + 1);
   filled++;
   if (DRY) continue;
 

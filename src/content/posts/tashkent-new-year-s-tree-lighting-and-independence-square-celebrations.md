@@ -13,6 +13,11 @@ eventOffers:
   free: true
   currency: UZS
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/56/Tashkent_museum_of_applied_arts.jpg'
+  credit: 'Photo: Ehedaya at English Wikipedia / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_museum_of_applied_arts.jpg'
 gallery: []
 tags:
   - tashkent

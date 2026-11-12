@@ -11,6 +11,11 @@ eventStartDate: '2026-12-13'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cityscape_of_Kunming_at_dawn_-_DSC03511.JPG/3840px-Cityscape_of_Kunming_at_dawn_-_DSC03511.JPG'
+  credit: 'Photo: Daderot / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cityscape_of_Kunming_at_dawn_-_DSC03511.JPG'
 gallery: []
 tags:
   - kunming

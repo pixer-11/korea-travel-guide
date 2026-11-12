@@ -10,6 +10,11 @@ eventEndDate: '2026-12-11'
 eventRecurring: true
 eventVenue: Uzexpocentre
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/38/Inside_Chorsu_bazaar_in_Tashkent%2C_Uzbekistan.jpg'
+  credit: 'Photo: Benjamin Goetzinger / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Inside_Chorsu_bazaar_in_Tashkent,_Uzbekistan.jpg'
 gallery: []
 tags:
   - tashkent

@@ -12,6 +12,11 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Siem_Reap_Pub_Street_02.jpg/3840px-Siem_Reap_Pub_Street_02.jpg'
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Siem_Reap_Pub_Street_02.jpg'
 gallery: []
 tags:
   - siem reap

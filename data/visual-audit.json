@@ -34900,6 +34900,12 @@
   "reason": "hand-reviewed: a hotel building unrelated to the venue (Uzexpocentre)",
   "at": "2026-11-12T11:19:36.769Z"
  },
+ "tashkent-e-techexpo-uzbekistan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tashkent_Metro_Tunnel_2023.jpg/3840px-Tashkent_Metro_Tunnel_2023.jpg": {
+  "slug": "tashkent-e-techexpo-uzbekistan-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a dim underground metro passage; does not show the city",
+  "at": "2026-11-12T12:28:55.953Z"
+ },
  "tashkent-friendly-thug-52-ngg-tashkent-concert\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/FRIENDLY_THUG_52_NGG.jpg": {
   "slug": "tashkent-friendly-thug-52-ngg-tashkent-concert",
   "verdict": "MATCH",

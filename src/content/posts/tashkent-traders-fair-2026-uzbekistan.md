@@ -9,6 +9,11 @@ eventStartDate: '2026-11-14'
 eventEndDate: '2026-11-14'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_view_of_Tashkent%2C_2026-05-06_%281%29.jpg'
+  credit: 'Photo: Bestalex / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tashkent,_2026-05-06_(1).jpg'
 gallery: []
 tags:
   - tashkent

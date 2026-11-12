@@ -12,6 +12,11 @@ eventOrganizer:
   name: Ministry of Tourism Cambodia
   url: https://www.tourism.gov.kh
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bayon_Temple%2C_Siem_Reap%2C_Cambodia_-_panoramio.jpg/3840px-Bayon_Temple%2C_Siem_Reap%2C_Cambodia_-_panoramio.jpg'
+  credit: 'Photo: Scorewith German / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bayon_Temple,_Siem_Reap,_Cambodia_-_panoramio.jpg'
 tags:
   - siem reap
   - event

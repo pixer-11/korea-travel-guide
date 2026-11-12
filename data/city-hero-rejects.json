@@ -310,5 +310,141 @@
  "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ford_Transit._Bunyodkor_avenue%2C_Tashkent%2C_Uzbekistan.jpg/3840px-Ford_Transit._Bunyodkor_avenue%2C_Tashkent%2C_Uzbekistan.jpg": {
   "reason": "Shows a parked truck, not a city view",
   "at": "2026-11-12T11:48:18.325Z"
+ },
+ "Chonburi\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Gull_Wing_Maxivan_-_Chonburi_Night_Market%2C_Thailand.jpg": {
+  "reason": "Vehicle close-up, not a representative city view",
+  "at": "2026-11-12T12:22:39.387Z"
+ },
+ "Chonburi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Songthaew_Terminal_in_Chonburi_%281%29.jpg/3840px-Songthaew_Terminal_in_Chonburi_%281%29.jpg": {
+  "reason": "Focuses on parked vehicles, not a representative city view",
+  "at": "2026-11-12T12:22:42.671Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Dinosaur_carving_at_Ta_Prohm_temple%2C_Siem_Reap%2C_Cambodia_%285534467622%29.jpg": {
+  "reason": "Close-up stone carving, not a city view",
+  "at": "2026-11-12T12:23:49.912Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/Buddhist_temple_in_Tashkent.jpg": {
+  "reason": "Buddhist temple interior, unrelated to Tashkent cityscape",
+  "at": "2026-11-12T12:24:15.206Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/b/b2/Tashkent_Spaso-Preobrazhensky_Cathedral_military18.jpg": {
+  "reason": "Archival historical photo, not present-day view",
+  "at": "2026-11-12T12:25:12.495Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Church_in_the_name_Holy_Peter_and_Paul_at_Tashkent_prison46.jpg": {
+  "reason": "Archival historical postcard, not present-day photo",
+  "at": "2026-11-12T12:25:15.721Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Tashkent_Spaso-Preobrazhensky_Cathedral_military21.jpg": {
+  "reason": "Historical archival photo from 1908, not present-day",
+  "at": "2026-11-12T12:25:19.103Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/c/cd/Tashkent_Spaso-Preobrazhensky_Cathedral_military20.jpg": {
+  "reason": "Archival historical postcard photo, not present-day view",
+  "at": "2026-11-12T12:25:21.501Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Temple_of_Alexander_Nevsky_in_Tashkent.JPG/3840px-Temple_of_Alexander_Nevsky_in_Tashkent.JPG": {
+  "reason": "Orthodox church, not representative of Tashkent",
+  "at": "2026-11-12T12:25:27.934Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Iosifogeorgievsky_cathedral_in_Tashkent.jpg": {
+  "reason": "Historical archival postcard photo, not present-day view",
+  "at": "2026-11-12T12:25:30.935Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Teachers_Seminary_in_Tashkent.jpg": {
+  "reason": "Archival historical photo, not present-day Tashkent view",
+  "at": "2026-11-12T12:25:33.041Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Church_of_the_Intercession_of_the_Holy_Virgin_in_Tashkent.jpg": {
+  "reason": "Archival historical photo, not present-day view",
+  "at": "2026-11-12T12:25:35.018Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Transportation_model_in_the_Tashkent_Polytechnic_Museum_%281%29.jpg/3840px-Transportation_model_in_the_Tashkent_Polytechnic_Museum_%281%29.jpg": {
+  "reason": "Miniature diorama model with historical photo backdrop, not real view",
+  "at": "2026-11-12T12:25:52.414Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Transportation_model_in_the_Tashkent_Polytechnic_Museum.jpg/3840px-Transportation_model_in_the_Tashkent_Polytechnic_Museum.jpg": {
+  "reason": "Miniature diorama model, not a real Tashkent view",
+  "at": "2026-11-12T12:25:57.932Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Ilham_Aliyev_visited_Independence_Monument_in_Tashkent_02.jpg": {
+  "reason": "Ceremonial event photo, not a city view",
+  "at": "2026-11-12T12:26:04.375Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Ilham_Aliyev_visited_Independence_Monument_in_Tashkent_12.jpg": {
+  "reason": "Photo focuses on two people, not a city view",
+  "at": "2026-11-12T12:26:06.952Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/Ilham_Aliyev_visited_Independence_Monument_in_Tashkent_05.jpg": {
+  "reason": "Portrait of a person laying flowers, not a cityscape",
+  "at": "2026-11-12T12:26:08.639Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/Ilham_Aliyev_visited_Independence_Monument_in_Tashkent_03.jpg": {
+  "reason": "Ceremonial guard event, not a city view",
+  "at": "2026-11-12T12:26:11.277Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/Ilham_Aliyev_visited_Independence_Monument_in_Tashkent_07.jpg": {
+  "reason": "Focus is on officials, not a city view",
+  "at": "2026-11-12T12:26:13.915Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/9/98/Ilham_Aliyev_visited_Independence_Monument_in_Tashkent_06.jpg": {
+  "reason": "Ceremonial event with person and wreath, not Tashkent view",
+  "at": "2026-11-12T12:26:16.650Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Ilham_Aliyev_visited_Independence_Monument_in_Tashkent_04.jpg": {
+  "reason": "Political ceremony photo, not a city view",
+  "at": "2026-11-12T12:26:20.648Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tree_and_a_Little_River_in_Tashkent_Botanical_Garden.jpg/3840px-Tree_and_a_Little_River_in_Tashkent_Botanical_Garden.jpg": {
+  "reason": "Generic forest scene, not representative of Tashkent cityscape",
+  "at": "2026-11-12T12:26:30.296Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chirchiq_river._Tashkent_01.jpg/3840px-Chirchiq_river._Tashkent_01.jpg": {
+  "reason": "Generic riverside scene, not a recognizable Tashkent landmark",
+  "at": "2026-11-12T12:26:34.067Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/South_beach_of_Tashkent_aquapark_lake.JPG": {
+  "reason": "Animal/bird close-up, not a Tashkent landmark view",
+  "at": "2026-11-12T12:26:42.229Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lake_in_Tashkent_Botanical_Garden.jpg/3840px-Lake_in_Tashkent_Botanical_Garden.jpg": {
+  "reason": "Generic pond/garden scene, not representative of Tashkent",
+  "at": "2026-11-12T12:27:13.957Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/A_beautiful_lake_in_Tashkent_botanical_garden.jpg/3840px-A_beautiful_lake_in_Tashkent_botanical_garden.jpg": {
+  "reason": "Generic pond/forest scene, not recognizable Tashkent landmark",
+  "at": "2026-11-12T12:27:21.593Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/A_lake_in_the_Tashkent_Botanical_Garden.jpg/3840px-A_lake_in_the_Tashkent_Botanical_Garden.jpg": {
+  "reason": "Generic pond/forest, not identifiable as Tashkent landmark",
+  "at": "2026-11-12T12:27:25.295Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_small_lake_in_Tashkent_botanical_garden_on_june.jpg/3840px-A_small_lake_in_Tashkent_botanical_garden_on_june.jpg": {
+  "reason": "Generic pond/forest scene, not identifiable as Tashkent",
+  "at": "2026-11-12T12:27:32.649Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lake_in_tashkent_botanical_garden.jpg/3840px-Lake_in_tashkent_botanical_garden.jpg": {
+  "reason": "Generic pond/forest scene, not Tashkent-specific landmark",
+  "at": "2026-11-12T12:27:41.087Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/A_small_lake_in_the_Tashkent_Botanical_Garden_%281%29.jpg/3840px-A_small_lake_in_the_Tashkent_Botanical_Garden_%281%29.jpg": {
+  "reason": "Generic nature wetland scene, not Tashkent landmark",
+  "at": "2026-11-12T12:27:50.585Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/A_small_lake_in_the_Tashkent_Botanical_Garden.jpg": {
+  "reason": "Generic forest pond, not identifiable as Tashkent landmark",
+  "at": "2026-11-12T12:27:52.854Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tashkent_%28regi%C3%B3n%29_2.jpg/3840px-Tashkent_%28regi%C3%B3n%29_2.jpg": {
+  "reason": "Generic farmland, not representative of Tashkent city view",
+  "at": "2026-11-12T12:28:16.804Z"
+ },
+ "Kunming\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Kunming.%E6%98%86%E6%98%8E.skyline.sunset.2013.jpg": {
+  "reason": "Prominent building under construction with crane visible",
+  "at": "2026-11-12T12:29:41.531Z"
+ },
+ "Kunming\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Boats_on_Kunming_Lake_near_17_Arch_Bridge.jpg/3840px-Boats_on_Kunming_Lake_near_17_Arch_Bridge.jpg": {
+  "reason": "Shows Beijing's Summer Palace, not Kunming city",
+  "at": "2026-11-12T12:29:47.319Z"
  }
 }

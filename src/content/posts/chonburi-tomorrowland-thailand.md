@@ -10,6 +10,11 @@ eventEndDate: '2026-12-13'
 eventRecurring: false
 eventVenue: Wisdom Valley
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ko_Khrok_Island_Chonburi_Thailand_by_Don_Ramey_Logan.jpg/3840px-Ko_Khrok_Island_Chonburi_Thailand_by_Don_Ramey_Logan.jpg'
+  credit: 'Photo: Don Ramey Logan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ko_Khrok_Island_Chonburi_Thailand_by_Don_Ramey_Logan.jpg'
 gallery: []
 tags:
   - chonburi

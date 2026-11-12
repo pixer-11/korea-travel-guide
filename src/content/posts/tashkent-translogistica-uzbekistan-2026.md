@@ -13,6 +13,11 @@ eventOrganizer:
   name: Iteca Exhibitions
   url: https://iteca.uz/en/calendar-of-events
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tashkent_City_Park_November_2019.jpg/3840px-Tashkent_City_Park_November_2019.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_November_2019.jpg'
 gallery: []
 tags:
   - tashkent

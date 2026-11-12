@@ -10,6 +10,11 @@ eventEndDate: '2027-01-31'
 eventRecurring: true
 eventVenue: Central Asian Expocenter (CAEx)
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tashkent_City_Park_water.jpg/3840px-Tashkent_City_Park_water.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_water.jpg'
 gallery: []
 tags:
   - tashkent

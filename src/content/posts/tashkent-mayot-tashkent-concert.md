@@ -18,6 +18,11 @@ eventPerformer:
   name: MAYOT
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mustaqillik_maydoni%2C_Tashkent%2C_Uzbekistan._%286136468825%29.jpg/3840px-Mustaqillik_maydoni%2C_Tashkent%2C_Uzbekistan._%286136468825%29.jpg'
+  credit: 'Photo: Fabio Achilli from Milano, Italy / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mustaqillik_maydoni,_Tashkent,_Uzbekistan._(6136468825).jpg'
 gallery: []
 tags:
   - tashkent

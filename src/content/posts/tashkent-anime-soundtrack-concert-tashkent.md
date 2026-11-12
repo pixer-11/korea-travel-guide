@@ -10,6 +10,11 @@ eventEndDate: '2026-12-13'
 eventRecurring: false
 eventVenue: Turkistan Concert Hall
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Magic_city%2C_Navoiy_Park%2C_Tashkent_2026_02.jpg/3840px-Magic_city%2C_Navoiy_Park%2C_Tashkent_2026_02.jpg'
+  credit: 'Photo: Shuvaev / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Magic_city,_Navoiy_Park,_Tashkent_2026_02.jpg'
 gallery: []
 tags:
   - tashkent

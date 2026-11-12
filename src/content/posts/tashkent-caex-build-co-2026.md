@@ -13,6 +13,11 @@ eventOrganizer:
   name: CAEx Uzbekistan
   url: https://caexuzbekistan.com/events-calendar/?language=en
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tashkent_City_Park_Lake.jpg/3840px-Tashkent_City_Park_Lake.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_Lake.jpg'
 gallery: []
 tags:
   - tashkent

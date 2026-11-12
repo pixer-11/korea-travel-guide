@@ -13,6 +13,11 @@ eventOrganizer:
   name: Uzexpocentre
   url: https://www.uzexpocentre.uz
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Minor_Mosque_Tashkent.jpg'
+  credit: 'Photo: Yuriy Pavlovich / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Minor_Mosque_Tashkent.jpg'
 gallery: []
 tags:
   - tashkent

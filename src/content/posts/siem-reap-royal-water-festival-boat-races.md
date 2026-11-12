@@ -12,6 +12,11 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/The_famous_tree_growing_in_the_Ta_Prohm_temple_ruins%2CSiem_Reap%2CCambodia_-_panoramio.jpg'
+  credit: 'Photo: ::::=UT=:::: / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_famous_tree_growing_in_the_Ta_Prohm_temple_ruins,Siem_Reap,Cambodia_-_panoramio.jpg'
 gallery: []
 tags:
   - siem reap

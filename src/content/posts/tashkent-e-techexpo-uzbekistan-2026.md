@@ -13,6 +13,11 @@ eventOrganizer:
   name: Uzexpocentre
   url: https://www.uzexpocentre.uz
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tashkent_City_Park_at_night.jpg/3840px-Tashkent_City_Park_at_night.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_at_night.jpg'
 gallery: []
 tags:
   - tashkent
