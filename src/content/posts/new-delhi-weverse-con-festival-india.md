@@ -14,6 +14,11 @@ eventOrganizer:
 eventOffers:
   url: https://weverseconfestival.weverse.io/en/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/39/New_Delhi_skyline_at_dusk.jpg'
+  credit: 'Photo: This Image was created by User:PlaneMad. / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:New_Delhi_skyline_at_dusk.jpg'
 gallery: []
 tags:
   - new delhi

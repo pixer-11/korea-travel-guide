@@ -9,6 +9,11 @@ eventStartDate: '2026-12-12'
 eventEndDate: '2026-12-12'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Modern_Building_skyline_in_Lima%2C_Peru.jpg'
+  credit: 'Photo: Tremoro0 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Modern_Building_skyline_in_Lima,_Peru.jpg'
 gallery: []
 tags:
   - lima

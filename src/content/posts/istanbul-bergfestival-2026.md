@@ -9,6 +9,11 @@ eventStartDate: '2026-12-03'
 eventEndDate: '2026-12-06'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/1e/Istanbul_skyline_02.jpg'
+  credit: 'Photo: SegLig / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Istanbul_skyline_02.jpg'
 gallery: []
 tags:
   - istanbul

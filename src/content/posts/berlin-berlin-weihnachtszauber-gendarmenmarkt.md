@@ -10,6 +10,11 @@ eventEndDate: '2026-12-31'
 eventRecurring: true
 eventVenue: Gendarmenmarkt
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berlin_Gendarmenmarkt_BW_4.jpg/3840px-Berlin_Gendarmenmarkt_BW_4.jpg'
+  credit: 'Photo: Berthold Werner / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Berlin_Gendarmenmarkt_BW_4.jpg'
 gallery: []
 tags:
   - berlin

@@ -13,6 +13,11 @@ eventOrganizer:
   name: ACM SIGGRAPH
   url: https://www.siggraph.org/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Kuala_Lumpur_Convention_Centre_%28northeastern_exterior%29%2C_Kuala_Lumpur.jpg'
+  credit: 'Photo: User:Two hundred percent. / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Convention_Centre_(northeastern_exterior),_Kuala_Lumpur.jpg'
 gallery: []
 tags:
   - kuala lumpur

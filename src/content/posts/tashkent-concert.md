@@ -13,6 +13,11 @@ eventPerformer:
   name: Пошлая Молли
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/View_from_Hotel_Uzbekistan_in_Tashkent_5.jpg/3840px-View_from_Hotel_Uzbekistan_in_Tashkent_5.jpg'
+  credit: 'Photo: Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:View_from_Hotel_Uzbekistan_in_Tashkent_5.jpg'
 gallery: []
 tags:
   - tashkent

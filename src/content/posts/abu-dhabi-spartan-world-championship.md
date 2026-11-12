@@ -10,6 +10,11 @@ eventEndDate: '2026-11-22'
 eventRecurring: true
 eventVenue: Al Wathba Desert
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg/3840px-Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg'
+  credit: 'Photo: N.Perera / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi,_U.A.E.jpg'
 gallery: []
 tags:
   - abu dhabi

@@ -13,6 +13,11 @@ eventOrganizer:
   name: World Triathlon
   url: https://triathlon.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hudayriyat_Island.jpg/3840px-Hudayriyat_Island.jpg'
+  credit: 'Photo: Slywire / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hudayriyat_Island.jpg'
 tags:
   - abu dhabi
   - event

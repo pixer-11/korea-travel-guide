@@ -13,6 +13,11 @@ eventOrganizer:
   name: Dubai Marathon
   url: https://www.dubaimarathon.org/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dubai_Skyline_2016.jpg/3840px-Dubai_Skyline_2016.jpg'
+  credit: 'Photo: Tonenight / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_Skyline_2016.jpg'
 gallery: []
 tags:
   - dubai

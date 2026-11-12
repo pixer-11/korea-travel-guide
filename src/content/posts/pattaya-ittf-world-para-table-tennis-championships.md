@@ -11,6 +11,11 @@ eventRecurring: true
 eventOrganizer:
   name: International Table Tennis Federation (ITTF)
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Skyline_of_Pattaya_from_the_Pier_on_a_morning.jpg/3840px-Skyline_of_Pattaya_from_the_Pier_on_a_morning.jpg'
+  credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Pattaya_from_the_Pier_on_a_morning.jpg'
 gallery: []
 tags:
   - pattaya

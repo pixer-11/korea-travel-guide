@@ -9,6 +9,11 @@ eventStartDate: '2026-12-31'
 eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Skyline_Barcelona%2C_December_2025.jpg/3840px-Skyline_Barcelona%2C_December_2025.jpg'
+  credit: 'Photo: Hstoops / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_Barcelona,_December_2025.jpg'
 gallery: []
 tags:
   - barcelona

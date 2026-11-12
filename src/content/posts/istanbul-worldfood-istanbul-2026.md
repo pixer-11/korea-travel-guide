@@ -10,6 +10,11 @@ eventEndDate: '2026-12-18'
 eventRecurring: true
 eventVenue: Istanbul Expo Center
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Skyline_-_Istanbul%2C_Turkey_-_October_11%2C_2025.jpg/3840px-Skyline_-_Istanbul%2C_Turkey_-_October_11%2C_2025.jpg'
+  credit: 'Photo: Giorgio Galeotti / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_-_Istanbul,_Turkey_-_October_11,_2025.jpg'
 gallery: []
 tags:
   - istanbul

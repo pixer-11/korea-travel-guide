@@ -13,6 +13,11 @@ eventPerformer:
   name: Jimmy Lin & Nicky Wu
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg/3840px-Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg'
 gallery: []
 tags:
   - kuala lumpur

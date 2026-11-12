@@ -194,5 +194,121 @@
  "Vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/2018-08-31_01_FIREBOAT_1_%28FB-1%29_-_City_of_Vancouver%2C_BC%2C_Canada.jpg": {
   "reason": "Shows a fire rescue boat, not a Vancouver landmark view",
   "at": "2026-11-12T05:15:36.667Z"
+ },
+ "Chonburi\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Songthaew_in_Chonburi_%287%29.jpg": {
+  "reason": "Shows a vehicle on road, not a city view",
+  "at": "2026-11-12T11:46:00.446Z"
+ },
+ "Chonburi\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Songthaew_in_Chonburi_%286%29.jpg": {
+  "reason": "Shows a vehicle, not a Chonburi view",
+  "at": "2026-11-12T11:47:17.155Z"
+ },
+ "Chonburi\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Songthaew_in_Chonburi_%283%29.jpg": {
+  "reason": "Shows a parked vehicle, not a Chonburi landmark",
+  "at": "2026-11-12T11:47:18.705Z"
+ },
+ "Chonburi\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/Songthaew_in_Chonburi_%28Specific_Bus%29.jpg": {
+  "reason": "Shows a vehicle/truck, not a city view",
+  "at": "2026-11-12T11:47:20.268Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Common_imperial_%28Cheritra_freja_evansi%29_Siem_Reap.jpg/3840px-Common_imperial_%28Cheritra_freja_evansi%29_Siem_Reap.jpg": {
+  "reason": "Image shows a butterfly, unrelated to city view",
+  "at": "2026-11-12T11:47:22.085Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Golden_birdwing_%28Troides_aeacus_aeacus%29_female_Siem_Reap.jpg/3840px-Golden_birdwing_%28Troides_aeacus_aeacus%29_female_Siem_Reap.jpg": {
+  "reason": "Image shows a butterfly, unrelated to Siem Reap view",
+  "at": "2026-11-12T11:47:23.678Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_female_at_nest_Siem_Reap.jpg/3840px-Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_female_at_nest_Siem_Reap.jpg": {
+  "reason": "Bird and nest, unrelated to Siem Reap venue view",
+  "at": "2026-11-12T11:47:25.357Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Preah_Pithu_T_Monks_-_Siem_Reap.jpg/3840px-Preah_Pithu_T_Monks_-_Siem_Reap.jpg": {
+  "reason": "Focuses on monks, not a city/landmark view",
+  "at": "2026-11-12T11:47:30.070Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tonle_Sap_Siem_Reap_Cambodia_Residential-boat-01.jpg/3840px-Tonle_Sap_Siem_Reap_Cambodia_Residential-boat-01.jpg": {
+  "reason": "Floating house boat, not a Siem Reap city view",
+  "at": "2026-11-12T11:47:32.232Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tonle_Sap_Siem_Reap_Cambodia_Girl-steering-her-boat-01.jpg/3840px-Tonle_Sap_Siem_Reap_Cambodia_Girl-steering-her-boat-01.jpg": {
+  "reason": "Shows a girl on boat, not a city view",
+  "at": "2026-11-12T11:47:34.028Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/20171129_Wat_Preah_Prom_Rath_Siem_Reap_6216_DxO.jpg/3840px-20171129_Wat_Preah_Prom_Rath_Siem_Reap_6216_DxO.jpg": {
+  "reason": "Close-up of cow statues, not a city view",
+  "at": "2026-11-12T11:47:35.692Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/a/a6/Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_male_Siem_Reap.jpg": {
+  "reason": "Image shows a bird, not a Siem Reap view",
+  "at": "2026-11-12T11:47:37.360Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_female_at_nest_Siem_Reap_2.jpg/3840px-Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_female_at_nest_Siem_Reap_2.jpg": {
+  "reason": "Unrelated subject: a bird and nest, not Siem Reap",
+  "at": "2026-11-12T11:47:39.269Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_female_Siem_Reap.jpg": {
+  "reason": "Shows a bird, unrelated to Siem Reap venue/landscape",
+  "at": "2026-11-12T11:47:46.521Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Siem_Reap_Airport_Gates.jpg/3840px-Siem_Reap_Airport_Gates.jpg": {
+  "reason": "Generic airport gate interior, has watermark overlay",
+  "at": "2026-11-12T11:47:48.558Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Siem_Reap_Airport_Gates_3.jpg/3840px-Siem_Reap_Airport_Gates_3.jpg": {
+  "reason": "Watermark present and image is signage-focused, not venue view",
+  "at": "2026-11-12T11:47:50.249Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/5/54/Skyline_of_Tashkent.jpg": {
+  "reason": "Prominent construction site with cranes dominates foreground",
+  "at": "2026-11-12T11:47:53.563Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/VAZ-2106_at_Lutfiy_street._Tashkent%2C_Uzbekistan.jpg/3840px-VAZ-2106_at_Lutfiy_street._Tashkent%2C_Uzbekistan.jpg": {
+  "reason": "Shows a parked car, not a city view",
+  "at": "2026-11-12T11:47:55.274Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/7/7b/GM_Labo._Muqimiy_street%2C_Tashkent%2C_Uzbekistan_01.jpg": {
+  "reason": "Image shows a parked truck, not a city view",
+  "at": "2026-11-12T11:47:57.248Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KAMAZ-5360._Foziltepa_street%2C_Tashkent%2C_Uzbekistan_01.jpg/3840px-KAMAZ-5360._Foziltepa_street%2C_Tashkent%2C_Uzbekistan_01.jpg": {
+  "reason": "Shows a truck, not a Tashkent view/landmark",
+  "at": "2026-11-12T11:47:59.218Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Moskvich-412_at_Bogobod_street._Tashkent%2C_Uzbekistan.jpg/3840px-Moskvich-412_at_Bogobod_street._Tashkent%2C_Uzbekistan.jpg": {
+  "reason": "Shows a parked car, not a Tashkent city view",
+  "at": "2026-11-12T11:48:01.413Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VAZ_2101._Chilonzor-5%2C_Tashkent%2C_Uzbekistan_01.jpg/3840px-VAZ_2101._Chilonzor-5%2C_Tashkent%2C_Uzbekistan_01.jpg": {
+  "reason": "Shows a parked car, not Tashkent cityscape",
+  "at": "2026-11-12T11:48:03.116Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/VAZ-2102_at_Chilonzor-6_square._Tashkent%2C_Uzbekistan.jpg/3840px-VAZ-2102_at_Chilonzor-6_square._Tashkent%2C_Uzbekistan.jpg": {
+  "reason": "Shows a parked car, not a Tashkent view",
+  "at": "2026-11-12T11:48:04.675Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Isuzu_SAZ_HD_50._Muqimiy_st._Tashkent%2C_Uzbekistan_01.jpg/3840px-Isuzu_SAZ_HD_50._Muqimiy_st._Tashkent%2C_Uzbekistan_01.jpg": {
+  "reason": "Shows a parked bus, not a Tashkent city view",
+  "at": "2026-11-12T11:48:06.243Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Moskvich-412._Chilonzor-5%2C_Tashkent%2C_Uzbekistan_01.jpg/3840px-Moskvich-412._Chilonzor-5%2C_Tashkent%2C_Uzbekistan_01.jpg": {
+  "reason": "Shows a parked car, not a Tashkent view",
+  "at": "2026-11-12T11:48:08.153Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Opel_Kadett._Muqimiy_st._Tashkent%2C_Uzbekistan_01.jpg/3840px-Opel_Kadett._Muqimiy_st._Tashkent%2C_Uzbekistan_01.jpg": {
+  "reason": "Shows a parked car, not a Tashkent view",
+  "at": "2026-11-12T11:48:09.983Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VAZ-2102._Chimkent_street%2C_Tashkent%2C_Uzbekistan.jpg/3840px-VAZ-2102._Chimkent_street%2C_Tashkent%2C_Uzbekistan.jpg": {
+  "reason": "Shows a parked car, not a city view",
+  "at": "2026-11-12T11:48:14.649Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/VAZ-2104._Bunyodkor_avenue%2C_Tashkent%2C_Uzbekistan.jpg/3840px-VAZ-2104._Bunyodkor_avenue%2C_Tashkent%2C_Uzbekistan.jpg": {
+  "reason": "Shows a parked car, not a Tashkent city view",
+  "at": "2026-11-12T11:48:16.386Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ford_Transit._Bunyodkor_avenue%2C_Tashkent%2C_Uzbekistan.jpg/3840px-Ford_Transit._Bunyodkor_avenue%2C_Tashkent%2C_Uzbekistan.jpg": {
+  "reason": "Shows a parked truck, not a city view",
+  "at": "2026-11-12T11:48:18.325Z"
  }
 }

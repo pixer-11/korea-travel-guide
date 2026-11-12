@@ -13,6 +13,11 @@ eventPerformer:
   name: Chen Jia
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-01.jpg/3840px-Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-01.jpg'
 gallery: []
 tags:
   - kuala lumpur

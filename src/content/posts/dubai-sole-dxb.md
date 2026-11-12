@@ -10,6 +10,11 @@ eventEndDate: '2026-12-13'
 eventRecurring: true
 eventVenue: Dubai Design District
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Dubai_skyline_2015_%28crop%29.jpg'
+  credit: 'Photo: Tim.Reckmann / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_skyline_2015_(crop).jpg'
 gallery: []
 tags:
   - dubai

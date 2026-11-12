@@ -16,6 +16,11 @@ eventOffers:
   free: true
   currency: IDR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Denpasar_dari_Duta_Plaza_-_panoramio.jpg/3840px-Denpasar_dari_Duta_Plaza_-_panoramio.jpg'
+  credit: 'Photo: musnahterinjak / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Denpasar_dari_Duta_Plaza_-_panoramio.jpg'
 gallery: []
 tags:
   - denpasar

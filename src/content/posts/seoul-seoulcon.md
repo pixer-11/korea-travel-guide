@@ -13,6 +13,11 @@ eventOrganizer:
   name: Seoul Festival Portal
   url: https://festival.seoul.go.kr
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Han_River_Seoul_skyline_Pixabay_1214950.jpg/3840px-Han_River_Seoul_skyline_Pixabay_1214950.jpg'
+  credit: 'Photo: USAGI_POST / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Han_River_Seoul_skyline_Pixabay_1214950.jpg'
 gallery: []
 tags:
   - seoul

@@ -10,6 +10,11 @@ eventEndDate: '2027-01-17'
 eventRecurring: true
 eventVenue: Tenis Club Argentino
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Buenos_Aires_Skyline_in_Color.jpg'
+  credit: 'Photo: Jimmy Baikovicius / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires_Skyline_in_Color.jpg'
 gallery: []
 tags:
   - buenos aires

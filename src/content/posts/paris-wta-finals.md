@@ -12,6 +12,11 @@ eventOrganizer:
   name: Women's Tennis Association
   url: https://www.wtatennis.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/69/Paris_skyline_from_the_Centre_Georges-Pompidou_2010.jpg'
+  credit: 'Photo: zoetnet / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Paris_skyline_from_the_Centre_Georges-Pompidou_2010.jpg'
 gallery: []
 tags:
   - paris

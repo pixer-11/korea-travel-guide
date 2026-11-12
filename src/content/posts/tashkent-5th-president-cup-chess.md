@@ -12,6 +12,11 @@ eventOrganizer:
   name: FIDE
   url: https://www.fide.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/54/Modern_Tashkent._Skyline.jpg'
+  credit: 'Photo: Citiguide / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Modern_Tashkent._Skyline.jpg'
 gallery: []
 tags:
   - tashkent

@@ -13,6 +13,11 @@ eventPerformer:
   name: Catch The Young
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/London_Skyline_-_Flickr_-_concrete%5Efells.jpg'
+  credit: 'Photo: concrete fells from London, United Kingdom / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:London_Skyline_-_Flickr_-_concrete%5Efells.jpg'
 gallery: []
 tags:
   - london

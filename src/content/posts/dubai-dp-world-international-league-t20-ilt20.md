@@ -15,6 +15,11 @@ eventOrganizer:
 eventOffers:
   url: https://www.ilt20.ae
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dubai_skyline_unsplash.jpg/3840px-Dubai_skyline_unsplash.jpg'
+  credit: 'Photo: Robert Bock / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg'
 gallery: []
 tags:
   - dubai

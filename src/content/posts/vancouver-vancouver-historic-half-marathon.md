@@ -10,6 +10,11 @@ eventEndDate: '2026-11-29'
 eventRecurring: true
 eventVenue: Stanley Park Seawall
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Stanley_Seawall.jpg'
+  credit: 'Photo: bobanny / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Stanley_Seawall.jpg'
 gallery: []
 tags:
   - vancouver

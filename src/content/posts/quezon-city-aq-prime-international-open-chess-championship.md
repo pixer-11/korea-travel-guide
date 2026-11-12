@@ -13,6 +13,11 @@ eventOrganizer:
   name: National Chess Federation of the Philippines (NCFP)
   url: http://www.ncf-phil.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Skyline_in_Manila_36.jpg/3840px-Skyline_in_Manila_36.jpg'
+  credit: 'Photo: SwarmCheng / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Manila_36.jpg'
 gallery: []
 tags:
   - quezon city

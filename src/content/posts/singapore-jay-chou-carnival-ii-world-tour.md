@@ -13,6 +13,11 @@ eventPerformer:
   name: Jay Chou
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Singapore_%28SG%29%2C_National_Stadium_--_2019_--_4721.jpg/3840px-Singapore_%28SG%29%2C_National_Stadium_--_2019_--_4721.jpg'
+  credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Singapore_(SG),_National_Stadium_--_2019_--_4721.jpg'
 gallery: []
 tags:
   - singapore

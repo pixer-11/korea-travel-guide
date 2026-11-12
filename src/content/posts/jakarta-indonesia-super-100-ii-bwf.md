@@ -12,6 +12,11 @@ eventOrganizer:
   name: Badminton Association of Indonesia
   url: https://bwfworldtour.bwfbadminton.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%282%29.jpg/1280px-View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%282%29.jpg'
+  credit: 'Photo: Sam Hidayat / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:View_of_Jakarta_skyline_seen_from_Jalan_Kendal,_Thamrin_(2).jpg'
 gallery: []
 tags:
   - jakarta

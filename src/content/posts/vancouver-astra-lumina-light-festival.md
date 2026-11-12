@@ -10,6 +10,11 @@ eventEndDate: '2026-12-31'
 eventRecurring: true
 eventVenue: Stanley Park
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vancouver_Skyline_04.jpg/3840px-Vancouver_Skyline_04.jpg'
+  credit: 'Photo: Xicotencatl / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Vancouver_Skyline_04.jpg'
 gallery: []
 tags:
   - vancouver

@@ -18,6 +18,11 @@ eventPerformer:
   name: K-Pop Forever!
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Istanbul_skyline_03.jpg'
+  credit: 'Photo: SegLig / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Istanbul_skyline_03.jpg'
 gallery: []
 tags:
   - istanbul

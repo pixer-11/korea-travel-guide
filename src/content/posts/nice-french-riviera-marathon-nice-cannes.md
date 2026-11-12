@@ -9,6 +9,11 @@ eventStartDate: '2026-11-08'
 eventEndDate: '2026-11-08'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Nice%2C_France_%2815406655095%29.jpg'
+  credit: 'Photo: Kurt Bauschardt from Edmonton, Canada / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Nice,_France_(15406655095).jpg'
 gallery: []
 tags:
   - nice

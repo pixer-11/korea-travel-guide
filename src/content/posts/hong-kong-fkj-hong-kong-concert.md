@@ -13,6 +13,11 @@ eventPerformer:
   name: FKJ
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hong_Kong_Night_Skyline_non-HDR.jpg/3840px-Hong_Kong_Night_Skyline_non-HDR.jpg'
+  credit: 'Photo: Base64 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Night_Skyline_non-HDR.jpg'
 gallery: []
 tags:
   - hong kong

@@ -807,14 +807,24 @@ export function containsRespaced(text, needle) {
   return false;
 }
 
-export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null, event = false, region = '' } = {}) {
+export async function commonsBest(query, opts = {}) {
+  return (await commonsRanked(query, opts))[0] ?? null;
+}
+
+/**
+ * Every candidate commonsBest would accept, best first. A caller with its own
+ * later test (a vision check, a rejection record) walks down this list; asking
+ * commonsBest again returns the same first file every time, and the event city
+ * tier stood empty on that for Dubai, London and Hong Kong (2026-11-12).
+ */
+export async function commonsRanked(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null, event = false, region = '' } = {}) {
   // subject/near were added to commonsCandidates for the Instagram carousel and,
   // for a while, ONLY the carousel passed them — so the vantage test and the
   // geo limit did nothing at all on the path that picks the hero image every
   // article is published with. An empty subject makes namesSubjectNotVantage
   // return true for everything, so the filter was not merely weaker, it was off.
   const cands = await commonsCandidates(query, 14, subject, near, { region });
-  if (!cands.length) return null;
+  if (!cands.length) return [];
   const qtok = tokens(query);
   const must = mustInclude.map((s) => fold(s)).filter(Boolean);
   // crossCheck: require the image title to share ≥minCross tokens with these words
@@ -866,9 +876,8 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
     // or host is taken (2026-09-03, two tour cities in one portrait).
     .filter((s) => !isUsedImage(used, s.c.url));
 
-  if (!eligible.length) return null;
   // Prefer Commons-assessed great photos; otherwise keep Commons' own relevance
   // order (which ranks the iconic shot first), NOT raw title-token overlap.
   eligible.sort((a, b) => (b.c.featured - a.c.featured) || (a.rank - b.rank));
-  return eligible[0].c;
+  return eligible.map((s) => s.c);
 }

@@ -12,6 +12,11 @@ eventOrganizer:
   name: International Surfing Association
   url: https://isasurf.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lima%2C_Urban_Skyline--Ciudad_de_Lima%2C_Skyline_urbano.jpg/3840px-Lima%2C_Urban_Skyline--Ciudad_de_Lima%2C_Skyline_urbano.jpg'
+  credit: 'Photo: Joshua87 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Lima,_Urban_Skyline--Ciudad_de_Lima,_Skyline_urbano.jpg'
 gallery: []
 tags:
   - lima

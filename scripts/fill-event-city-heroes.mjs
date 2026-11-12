@@ -27,8 +27,10 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import matter from 'gray-matter';
-import { commonsBest, tokens, cleanCommonsUrl } from './lib/commons.mjs';
-import { identityRejection } from './lib/photo-verdict.mjs';
+import { commonsRanked, tokens, cleanCommonsUrl } from './lib/commons.mjs';
+import { heroTierReason } from './lib/event-hero-tier.mjs';
+import { loadWorld } from './lib/commons-identity.mjs';
+import { identityRejection, isHandRejection, photoFamily } from './lib/photo-verdict.mjs';
 import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 import { verifyHeroImage } from './lib/vision-check.mjs';
@@ -37,11 +39,14 @@ import { REJECTS_FILE, wasRejected, rememberRejection, pruneRejections } from '.
 // A file that names an EVENT is that event's photo, not the city's: "Santander
 // La Mezza di Torino 2017" (a half marathon) went onto the Torino City
 // Marathon on 2026-10-06. The city tier is for views of the place.
-import { NAMES_AN_EVENT } from './lib/event-file-identity.mjs';
+import { NAMES_AN_EVENT, SCENE_WORDS, GENERIC_FILE_WORDS } from './lib/event-file-identity.mjs';
 
 const DIR = 'src/content/posts';
 const DRY = process.argv.includes('--dry');
 const MIN_WIDTH = 1024;
+// Vision calls one post may spend a night. Rejections are remembered for 30
+// days (lib/city-hero-rejects), so the next night starts further down the list.
+const VISION_PER_POST = 4;
 
 const readJson = (p) => { try { return JSON.parse(readFileSync(p, 'utf8')); } catch { return {}; } };
 const covers = readJson('data/region-covers.json');
@@ -50,10 +55,59 @@ const rejects = readJson(REJECTS_FILE);
 let rejectsChanged = pruneRejections(rejects);
 
 // A person or a patrol has already ruled this photo out for this post.
+// A person's "not this city" is about the photo and the city, not one post: a
+// Florida (Buenos Aires Province) skyline rejected on one Buenos Aires event
+// went straight onto the next Buenos Aires event in the same run (11-12).
+// Filled in the read loop below, from EVENT posts only: a rejection on a venue
+// guide ("Westhafen Tower" on the Main Tower guide) says the photo is not that
+// building, not that it is not Frankfurt (Codex, 11-12).
+const regionOf = new Map();
+const handRejectedInRegion = (region, url) => {
+  const fam = photoFamily(url);
+  if (!fam) return false;
+  for (const [k, v] of Object.entries(audit)) {
+    if (!isHandRejection(v)) continue;
+    const [slug, rejected] = k.split('\x01');
+    if (regionOf.get(slug) === region && photoFamily(rejected) === fam) return true;
+  }
+  return false;
+};
 const ruledOut = (t, url) => {
   if (identityRejection(audit, t.slug, url, t.data.category)) return true;
+  if (handRejectedInRegion(String(t.data.region ?? '').trim(), url)) return true;
   const exact = audit[`${t.slug}\x01${cleanCommonsUrl(url)}`] ?? audit[`${t.slug}\x01${url}`];
   return !!exact && /MISMATCH/.test(String(exact.verdict)) && !isMeasurementFailure(exact);
+};
+
+// Every place name the site knows (data/countries.json), for "does this file
+// name somewhere else?".
+const WORLD = await loadWorld().catch(() => null);
+const PLACES = [...(WORLD?.regions ?? []), ...(WORLD?.countries ?? [])].map((p) => tokens(p)).filter((t) => t.length);
+const PLACE_WORDS = new Set(PLACES.flat());
+const fileWordsOf = (url) => tokens(fileOf(url).replace(/^\d+px-/, '').replace(/\.[a-z0-9]+$/i, ''));
+// A place counts only when ALL its words are there: "south" alone is a
+// direction, not South Korea (Kai_Tak_Arena_South_Entrance; Codex, 11-12).
+const otherPlaceIn = (url, own) => {
+  const mine = new Set(own.flatMap((s) => tokens(s)));
+  const have = new Set(fileWordsOf(url));
+  // Own only when ALL its words are ours: Quebec City shares "city" with
+  // Mexico City and is still somewhere else (Codex, 11-12).
+  return PLACES.find((p) => p.every((w) => have.has(w)) && !p.every((w) => mine.has(w)))?.join(' ') ?? null;
+};
+// The same kind-of-place words heroTierReason ignores (lib/event-hero-tier
+// GENERIC), so the two agree on what a venue's own name is.
+const KIND_WORDS = new Set(['the', 'and', 'arena', 'stadium', 'park', 'hall', 'center', 'centre', 'theatre', 'theater', 'club', 'square', 'ground', 'grounds', 'complex', 'venue', 'dome', 'forum', 'city', 'tennis', 'convention', 'exhibition', 'international', 'trade', 'national']);
+const distinctWords = (s) => tokens(s).filter((w) => !KIND_WORDS.has(w));
+// Whole month names only: "Mayday" is a band, not May (Codex, 11-12).
+const MONTH_WORDS = new Set(['jan', 'january', 'feb', 'february', 'mar', 'march', 'apr', 'april', 'may', 'jun', 'june', 'jul', 'july', 'aug', 'august', 'sep', 'sept', 'september', 'oct', 'october', 'nov', 'november', 'dec', 'december']);
+// A date, a year or a camera's frame number ("p1140375", "dsc0012"). A name
+// with a digit in it ("8turn") is a name.
+const NUMBERISH = /^(\d+|[a-z]{1,4}\d{3,})$/;
+// What a filename says beyond the place, its kind, the scene and the date.
+const residualWords = (url, own) => {
+  const mine = new Set(own.flatMap((s) => tokens(s)));
+  return fileWordsOf(url).filter((w) => !mine.has(w) && !KIND_WORDS.has(w) && !SCENE_WORDS.has(w)
+    && !GENERIC_FILE_WORDS.has(w) && !PLACE_WORDS.has(w) && !NUMBERISH.test(w) && !MONTH_WORDS.has(w));
 };
 
 const q = (s) => "'" + String(s).split("'").join("''") + "'";
@@ -69,6 +123,7 @@ for (const f of files) {
   const raw = await readFile(join(DIR, f), 'utf8');
   let data;
   try { ({ data } = matter(raw)); } catch { continue; }
+  if (data.region && /^event/.test(String(data.category ?? ''))) regionOf.set(f.replace(/\.md$/, ''), String(data.region).trim());
   const url = data.heroImage?.url;
   if (url) { markUsedImage(used, url); continue; }
   if (data.draft === true) continue;
@@ -94,33 +149,86 @@ for (const t of targets) {
     pick = { url: cover, credit: covers[region].credit, source: covers[region].source };
   }
 
-  // 2. otherwise Commons, and the filename has to name the region
+  // 2. otherwise Commons: the venue first (the place the reader is going ranks
+  //    above the city, as audit-event-heroes already rules), then views of the
+  //    city. Each search is walked down past files that are taken, ruled out
+  //    or rejected before; until 2026-11-12 only its first file was ever
+  //    looked at, so Dubai's "car on a dune bashing tour" was rejected once,
+  //    remembered, and then the only answer every night, and 80 upcoming
+  //    events in big cities stood without a photo.
   if (!pick) {
-    for (const query of [`${region} ${country}`, region]) {
-      const hit = await commonsBest(query, {
-        used, minWidth: MIN_WIDTH, allowPortrait: false,
-        crossCheck: regionTokens, minCross: 1,
-      });
-      if (!hit?.url) continue;
-      const name = fileOf(hit.url).toLowerCase();
-      if (!regionTokens.some((tk) => name.includes(tk))) continue;
-      if (isUsedImage(used, hit.url)) continue;
-      if (NAMES_AN_EVENT.test(name.replace(/[_-]+/g, ' '))) continue;
-      // Both answers cost nothing here and a vision call below.
-      if (ruledOut(t, hit.url) || wasRejected(rejects, region, hit.url)) continue;
-      // The filename names the region, which a dog breed ("Speckled tongue of
-      // the Phu Quoc Ridgeback") or a palace fresco does too. Vision answers
-      // the one question the name cannot: is this a view of the place? It
-      // fails closed (no key, an outage: no pick), and a person still reads
-      // the result in audit-event-hero-identity the next morning.
-      const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: `a view of ${region}`, category: 'city, landscape or landmark view', region, country });
-      if (!vis.ok) {
-        console.log(`  · ${t.slug.slice(0, 46)}: ${fileOf(hit.url).slice(0, 40)} — vision: ${String(vis.reason).slice(0, 70)}`);
-        if (!DRY && rememberRejection(rejects, region, hit.url, vis.reason)) rejectsChanged = true;
-        continue;
+    const venue = String(t.data.eventVenue ?? '').replace(/\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim();
+    const venueUsable = venue && !/\b(multiple|various|several|venues|tba|tbc|online|citywide|city-wide)\b/i.test(venue);
+    const searches = [
+      ...(venueUsable ? [`${venue} ${region}`, venue].map((q) => ({ q, cross: tokens(venue) })) : []),
+      ...[`${region} skyline`, `${region} cityscape`, `${region} ${country}`, region].map((q) => ({ q, cross: regionTokens })),
+    ];
+    const looked = new Set(used);
+    let visionLeft = VISION_PER_POST;
+    for (const s of searches) {
+      if (pick || visionLeft <= 0) break;
+      const ranked = await commonsRanked(s.q, { used: looked, minWidth: MIN_WIDTH, allowPortrait: false, crossCheck: s.cross, minCross: 1 });
+      for (const hit of ranked) {
+        if (!hit?.url || isUsedImage(looked, hit.url)) continue;
+        markUsedImage(looked, hit.url);
+        const name = fileOf(hit.url).toLowerCase();
+        // The same whole-word test the audit uses to keep a city or venue photo,
+        // so nothing placed here is stripped the next morning.
+        const tier = heroTierReason(hit.url, t.data, covers);
+        if (!tier) continue;
+        // A file that names another place on the site is that place: "Nice view
+        // of Chicago skyline" names Nice only as an adjective (11-12 dry run).
+        if (otherPlaceIn(hit.url, [region, country, venue])) continue;
+        const words = fileWordsOf(hit.url);
+        // "City" is not what names Mexico City: Quebec City has it too.
+        const cityWords = distinctWords(region).length ? distinctWords(region) : regionTokens;
+        const namesCity = cityWords.every((w) => words.includes(w));
+        // A venue photo when the venue's own words are in the file, or, for a
+        // venue named after its city ("Kaohsiung Arena"), its whole name is.
+        // Otherwise every city photo would look like a venue photo and the
+        // venue rules would throw out the Confucius Temple (Codex, 11-12).
+        const venueOwn = distinctWords(venue).filter((w) => !regionTokens.includes(w) && !tokens(country).includes(w));
+        const venueAll = tokens(venue).filter((w) => w !== 'the' && w !== 'and');
+        const venuePhoto = !!venue && ((/행사장/.test(tier) && venueOwn.length > 0)
+          || (venueAll.length > 1 && venueAll.every((w) => words.includes(w))));
+        if (venuePhoto) {
+          // A one-word venue is often a chain or a common noun: Cinépolis is a
+          // cinema in every Mexican city, and the dry run offered the Mazatlán
+          // one for Mexico City. Such a venue photo must name the city too.
+          if (venueOwn.length < 2 && !namesCity) continue;
+          // A venue photo that says anything beyond the venue, the scene and
+          // the date shows someone else's night there: "The Black Keys,
+          // Islington Assembly Hall", "Bodega at Islington Assembly Hall" (a
+          // band) for an 8TURN show. Another act's photo is the one thing this
+          // tier must not place (09-08 rule). City views keep their landmarks.
+          if (residualWords(hit.url, [region, country, venue]).length) continue;
+        }
+        // An event named in the file, outside the venue's own name: "Expo" in
+        // AsiaWorld-Expo is the building (Codex, 11-12). Only on a venue photo;
+        // a city file saying "Hong Kong Expo 2026" names an event.
+        const venueWords = venuePhoto ? new Set(tokens(venue)) : new Set();
+        if (NAMES_AN_EVENT.test(words.filter((w) => !venueWords.has(w)).join(' '))) continue;
+        // The question vision is asked, and the key its answer is kept under:
+        // "not a view of the hall" must not stop the photo as a view of the city.
+        const ask = venuePhoto ? `a view of ${venue} in ${region}` : `a view of ${region}`;
+        const rejectAs = venuePhoto ? `${region} @ ${venue}` : region;
+        // Both answers cost nothing here and a vision call below.
+        if (ruledOut(t, hit.url) || wasRejected(rejects, rejectAs, hit.url)) continue;
+        // The filename names the place, which a dog breed ("Speckled tongue of
+        // the Phu Quoc Ridgeback") or a palace fresco does too. Vision answers
+        // the one question the name cannot: is this a view of the place? It
+        // fails closed (no key, an outage: no pick), and a person still reads
+        // the result in audit-event-hero-identity the next morning.
+        if (visionLeft-- <= 0) break;
+        const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: ask, category: 'city, venue, landscape or landmark view', region, country });
+        if (!vis.ok) {
+          console.log(`  · ${t.slug.slice(0, 46)}: ${fileOf(hit.url).slice(0, 40)} — vision: ${String(vis.reason).slice(0, 70)}`);
+          if (!DRY && rememberRejection(rejects, rejectAs, hit.url, vis.reason)) rejectsChanged = true;
+          continue;
+        }
+        pick = { url: hit.url, credit: hit.credit, source: hit.source };
+        break;
       }
-      pick = { url: hit.url, credit: hit.credit, source: hit.source };
-      break;
     }
   }
 

@@ -13,6 +13,11 @@ eventPerformer:
   name: Yuuri
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hong_Kong_Skyline_-_Dec_2007.jpg/3840px-Hong_Kong_Skyline_-_Dec_2007.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_-_Dec_2007.jpg'
 gallery: []
 tags:
   - hong kong

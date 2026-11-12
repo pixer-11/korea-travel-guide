@@ -10,6 +10,11 @@ eventEndDate: '2026-11-22'
 eventRecurring: true
 eventVenue: Khoroum Valley, South Sinai Desert
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/70/Sharm_el_Sheikh_R01.jpg'
+  credit: 'Photo: Marc Ryckaert (MJJR) / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sharm_el_Sheikh_R01.jpg'
 gallery: []
 tags:
   - sharm el sheikh

@@ -10,6 +10,11 @@ eventEndDate: '2026-11-28'
 eventRecurring: false
 eventVenue: Mega Star Arena KL
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Kuala_Lumpur_Malaysia_Skyline-03.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-03.jpg'
 gallery: []
 tags:
   - kuala lumpur

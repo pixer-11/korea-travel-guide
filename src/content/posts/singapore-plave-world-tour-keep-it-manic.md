@@ -13,6 +13,11 @@ eventPerformer:
   name: PLAVE
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Singapore_Skyline-01.jpg/3840px-Singapore_Skyline-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Singapore_Skyline-01.jpg'
 gallery: []
 tags:
   - singapore

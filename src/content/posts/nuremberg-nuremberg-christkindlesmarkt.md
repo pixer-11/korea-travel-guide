@@ -16,6 +16,11 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20230107_Hauptmarkt_Nuremberg_HDR.jpg/3840px-20230107_Hauptmarkt_Nuremberg_HDR.jpg'
+  credit: 'Photo: Flocci Nivis / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:20230107_Hauptmarkt_Nuremberg_HDR.jpg'
 tags:
   - nuremberg
   - event

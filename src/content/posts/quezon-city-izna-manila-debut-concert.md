@@ -16,6 +16,11 @@ eventPerformer:
   name: izna
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Skyline_in_Manila_34.jpg/3840px-Skyline_in_Manila_34.jpg'
+  credit: 'Photo: SwarmCheng / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Manila_34.jpg'
 gallery: []
 tags:
   - quezon city

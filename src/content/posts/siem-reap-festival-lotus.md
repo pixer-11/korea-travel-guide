@@ -13,6 +13,11 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Street_scene%2C_Siem_Reap%2C_2018_%2812%29.jpg/3840px-Street_scene%2C_Siem_Reap%2C_2018_%2812%29.jpg'
+  credit: 'Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Street_scene,_Siem_Reap,_2018_(12).jpg'
 gallery: []
 tags:
   - siem reap

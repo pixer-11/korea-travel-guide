@@ -14,6 +14,11 @@ eventOrganizer:
 eventOffers:
   url: https://corporate.bwfbadminton.com/events/calendar/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-01.jpg'
 gallery: []
 tags:
   - hue

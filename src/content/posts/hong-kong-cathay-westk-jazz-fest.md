@@ -10,6 +10,11 @@ eventEndDate: '2026-11-14'
 eventRecurring: true
 eventVenue: West Kowloon Cultural District
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/West_Kowloon_Cultural_District_03-01-2023%282%29.jpg/3840px-West_Kowloon_Cultural_District_03-01-2023%282%29.jpg'
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:West_Kowloon_Cultural_District_03-01-2023(2).jpg'
 gallery: []
 tags:
   - hong kong

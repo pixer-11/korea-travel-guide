@@ -13,6 +13,11 @@ eventOrganizer:
   name: Paris Opera
   url: https://www.operadeparis.fr
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Skyline_of_Paris_4.jpg/3840px-Skyline_of_Paris_4.jpg'
+  credit: 'Photo: DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Paris_4.jpg'
 gallery: []
 tags:
   - paris

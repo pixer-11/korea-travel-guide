@@ -12,6 +12,11 @@ eventVenue: EartH Theatre
 eventOrganizer:
   name: Korean Cultural Centre UK
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/98/London_Skyline_%28125508655_cropped%29.png'
+  credit: 'Photo: Igrigorik / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655_cropped).png'
 gallery: []
 tags:
   - london

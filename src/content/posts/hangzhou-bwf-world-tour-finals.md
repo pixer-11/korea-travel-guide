@@ -12,6 +12,11 @@ eventOrganizer:
   name: Badminton World Federation (BWF)
   url: https://bwfworldtour.bwfbadminton.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Huanglong_%26_Broken_Bridge_-_Hangzhou_Skylines.jpg'
+  credit: 'Photo: User:CatOnMars / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Huanglong_%26_Broken_Bridge_-_Hangzhou_Skylines.jpg'
 tags:
   - hangzhou
   - event

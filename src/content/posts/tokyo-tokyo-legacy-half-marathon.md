@@ -14,6 +14,11 @@ eventOrganizer:
 eventOffers:
   url: https://legacyhalf.tokyo/en/index.html
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tokyo_skyline_seen_from_Tokyo_Skytree.jpg/3840px-Tokyo_skyline_seen_from_Tokyo_Skytree.jpg'
+  credit: 'Photo: Ruthsic / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tokyo_skyline_seen_from_Tokyo_Skytree.jpg'
 gallery: []
 tags:
   - tokyo

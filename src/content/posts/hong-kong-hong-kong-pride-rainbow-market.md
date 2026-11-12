@@ -13,6 +13,11 @@ eventOffers:
   free: true
   currency: HKD
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hong_Kong_%2826379549654%29.jpg/3840px-Hong_Kong_%2826379549654%29.jpg'
+  credit: 'Photo: Kārlis Dambrāns from Latvia / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_(26379549654).jpg'
 gallery: []
 tags:
   - hong kong

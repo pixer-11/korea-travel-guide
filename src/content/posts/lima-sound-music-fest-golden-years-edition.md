@@ -10,6 +10,11 @@ eventEndDate: '2026-11-21'
 eventRecurring: true
 eventVenue: Estadio Nacional
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Estadio_Nacional%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_127.JPG/3840px-Estadio_Nacional%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_127.JPG'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Estadio_Nacional,_Lima,_Per%C3%BA,_2015-07-28,_DD_127.JPG'
 tags:
   - lima
   - event

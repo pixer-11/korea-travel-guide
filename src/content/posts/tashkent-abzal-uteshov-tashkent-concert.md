@@ -13,6 +13,11 @@ eventPerformer:
   name: Abzal Uteshov
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Tashkent_City_at_Night.jpg'
+  credit: 'Photo: Drksll / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_at_Night.jpg'
 gallery: []
 tags:
   - tashkent

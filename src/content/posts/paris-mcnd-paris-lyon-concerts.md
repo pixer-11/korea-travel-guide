@@ -12,6 +12,11 @@ eventPerformer:
   name: MCND
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/0/0d/Skyline_in_Paris%2C_12_July_2017.jpg'
+  credit: 'Photo: Christer Gundersen / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg'
 gallery: []
 tags:
   - paris

@@ -13,6 +13,11 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20171129_Wat_Preah_Prom_Rath_Siem_Reap_6207_DxO.jpg/3840px-20171129_Wat_Preah_Prom_Rath_Siem_Reap_6207_DxO.jpg'
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:20171129_Wat_Preah_Prom_Rath_Siem_Reap_6207_DxO.jpg'
 tags:
   - siem reap
   - event

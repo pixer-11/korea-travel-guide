@@ -12,6 +12,11 @@ eventOrganizer:
   name: MESA
   url: https://www.mesa.mn
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ulaanbaatar_skyline_in_night.jpg/3840px-Ulaanbaatar_skyline_in_night.jpg'
+  credit: 'Photo: Sebacalka / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ulaanbaatar_skyline_in_night.jpg'
 gallery: []
 tags:
   - ulaanbaatar

@@ -11,6 +11,11 @@ eventRecurring: true
 eventOrganizer:
   name: Royal Spanish Football Federation
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Madrid_cathedral_2020_-_view_from_the_dome.jpg/3840px-Madrid_cathedral_2020_-_view_from_the_dome.jpg'
+  credit: 'Photo: Fernando Pascullo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Madrid_cathedral_2020_-_view_from_the_dome.jpg'
 gallery: []
 tags:
   - madrid

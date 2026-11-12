@@ -15,6 +15,11 @@ eventOrganizer:
 eventOffers:
   url: https://www.ultrachallenge.com/london-winter-walk/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Oval_cricket_ground_2022-08-11.jpg/3840px-The_Oval_cricket_ground_2022-08-11.jpg'
+  credit: 'Photo: Nick Richards / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Oval_cricket_ground_2022-08-11.jpg'
 gallery: []
 tags:
   - london

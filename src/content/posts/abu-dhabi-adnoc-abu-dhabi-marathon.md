@@ -11,6 +11,11 @@ eventRecurring: true
 eventOffers:
   url: https://www.adnocabudhabimarathon.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/3840px-Abu_dhabi_skylines_2014.jpg'
+  credit: 'Photo: Wadiia / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg'
 gallery: []
 tags:
   - abu dhabi

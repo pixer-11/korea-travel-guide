@@ -10,6 +10,11 @@ eventEndDate: '2026-12-06'
 eventRecurring: true
 eventVenue: Centro Costa Salguero
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Buenos_Aires_skyline_%2840896504682%29.jpg'
+  credit: 'Photo: Deensel / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires_skyline_(40896504682).jpg'
 gallery: []
 tags:
   - buenos aires

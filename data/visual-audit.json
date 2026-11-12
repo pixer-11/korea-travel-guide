@@ -5514,6 +5514,12 @@
   "reason": "publish gate: Exterior of the historic museum building with gate and signage",
   "at": "2026-10-01T07:49:54.974Z"
  },
+ "buenos-aires-argentina-comic-con-december-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Florida%2C_Buenos_Aires_Province_skyline_2.jpg": {
+  "slug": "buenos-aires-argentina-comic-con-december-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Florida is a town in Buenos Aires Province, not the city of Buenos Aires",
+  "at": "2026-11-12T11:19:36.162Z"
+ },
  "buenos-aires-argentina-comic-con-december-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Concert_Heroes_at_Los_Angeles_Comic_Con_2026.jpg": {
   "slug": "buenos-aires-argentina-comic-con-december-2026",
   "verdict": "MISMATCH",
@@ -5531,6 +5537,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in Germany, post says Argentina",
   "at": "2026-11-09T19:37:04.489Z"
+ },
+ "buenos-aires-arteba-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Maipu_Avenue_skyline_in_Florida%2C_Buenos_Aires_Province.jpg/3840px-Maipu_Avenue_skyline_in_Florida%2C_Buenos_Aires_Province.jpg": {
+  "slug": "buenos-aires-arteba-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Florida is a town in Buenos Aires Province, not the city of Buenos Aires",
+  "at": "2026-11-12T11:19:36.461Z"
  },
  "buenos-aires-babymetal-buenos-aires\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Babymetal_-_US_Tour_2019_06.jpg": {
   "slug": "buenos-aires-babymetal-buenos-aires",
@@ -7942,6 +7954,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Bang Saen beachfront coastal development view.",
   "at": "2026-10-29T00:57:15.108Z"
+ },
+ "chonburi-tomorrowland-thailand\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/IPE_Chonburi_Stadium.JPG": {
+  "slug": "chonburi-tomorrowland-thailand",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a football match at a city stadium, not the festival venue (Wisdom Valley); misleads the reader about where it is",
+  "at": "2026-11-12T11:22:44.489Z"
  },
  "chonburi-tomorrowland-thailand\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Tomorrowland_%282042391013%29.jpg": {
   "slug": "chonburi-tomorrowland-thailand",
@@ -34875,6 +34893,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Futsal match, unrelated to a concert event",
   "at": "2026-10-18T23:14:53.179Z"
+ },
+ "tashkent-e-techexpo-uzbekistan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ramada_hotel_in_Tashkent.jpg/3840px-Ramada_hotel_in_Tashkent.jpg": {
+  "slug": "tashkent-e-techexpo-uzbekistan-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a hotel building unrelated to the venue (Uzexpocentre)",
+  "at": "2026-11-12T11:19:36.769Z"
  },
  "tashkent-friendly-thug-52-ngg-tashkent-concert\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/FRIENDLY_THUG_52_NGG.jpg": {
   "slug": "tashkent-friendly-thug-52-ngg-tashkent-concert",

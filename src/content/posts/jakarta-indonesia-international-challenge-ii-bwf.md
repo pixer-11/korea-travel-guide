@@ -12,6 +12,11 @@ eventOrganizer:
   name: Badminton Association of Indonesia
   url: https://pbsi.id
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%281%29.jpg/1280px-View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%281%29.jpg'
+  credit: 'Photo: Sam Hidayat / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:View_of_Jakarta_skyline_seen_from_Jalan_Kendal,_Thamrin_(1).jpg'
 gallery: []
 tags:
   - jakarta

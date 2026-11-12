@@ -13,6 +13,11 @@ eventPerformer:
   name: ALL(H)OURS
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/London-Skyline-P1140375.jpg/3840px-London-Skyline-P1140375.jpg'
+  credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:London-Skyline-P1140375.jpg'
 gallery: []
 tags:
   - london

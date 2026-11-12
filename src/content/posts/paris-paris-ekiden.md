@@ -9,6 +9,11 @@ eventStartDate: '2026-11-01'
 eventEndDate: '2026-11-01'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paris_Skyline_at_Sunset.jpg/3840px-Paris_Skyline_at_Sunset.jpg'
+  credit: 'Photo: DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Paris_Skyline_at_Sunset.jpg'
 gallery: []
 tags:
   - paris

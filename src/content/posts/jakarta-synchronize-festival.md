@@ -10,6 +10,11 @@ eventEndDate: '2026-10-18'
 eventRecurring: true
 eventVenue: Gambir Expo - Arena PRJ Kemayoran
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/b6/Jakarta_Skyline_Part_2.jpg'
+  credit: 'Photo: yohanes budiyanto / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Skyline_Part_2.jpg'
 gallery: []
 tags:
   - jakarta

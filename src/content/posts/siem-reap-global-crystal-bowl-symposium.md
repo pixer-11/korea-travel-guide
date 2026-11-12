@@ -10,6 +10,11 @@ eventEndDate: '2026-11-06'
 eventRecurring: true
 eventVenue: TUI BLUE Angkor Grace Wellness Resort
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Siem_Reap_River_in_Siem_Reap_%281%29.jpg/3840px-Siem_Reap_River_in_Siem_Reap_%281%29.jpg'
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Siem_Reap_River_in_Siem_Reap_(1).jpg'
 gallery: []
 tags:
   - siem reap

@@ -9,6 +9,11 @@ eventStartDate: '2026-12-12'
 eventEndDate: '2026-12-12'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vancouver_Skyline_01.jpg/3840px-Vancouver_Skyline_01.jpg'
+  credit: 'Photo: Xicotencatl / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Vancouver_Skyline_01.jpg'
 gallery: []
 tags:
   - vancouver

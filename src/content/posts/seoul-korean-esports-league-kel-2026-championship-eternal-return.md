@@ -12,6 +12,11 @@ eventOrganizer:
   name: Ministry of Culture, Sports and Tourism (MCST), KeSPA, Nimble Neuron
   url: http://kel.e-sports.or.kr/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Seoul%2C_South_Korea_skyline_with_Building_63%2C_2001.jpg/3840px-Seoul%2C_South_Korea_skyline_with_Building_63%2C_2001.jpg'
+  credit: 'Photo: Matthew T Rader / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Seoul,_South_Korea_skyline_with_Building_63,_2001.jpg'
 gallery: []
 tags:
   - seoul

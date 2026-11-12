@@ -12,6 +12,11 @@ eventOrganizer:
   name: GNC
   url: https://www.nationschampionship.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mexico_City_Skyline_%285604867225%29.jpg/3840px-Mexico_City_Skyline_%285604867225%29.jpg'
+  credit: 'Photo: Francisco Anzola / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mexico_City_Skyline_(5604867225).jpg'
 gallery: []
 tags:
   - mexico city

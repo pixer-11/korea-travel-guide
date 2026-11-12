@@ -9,6 +9,11 @@ eventStartDate: '2026-09-01'
 eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Paris_skyline_from_Montmartre_2026-01-03.jpg/3840px-Paris_skyline_from_Montmartre_2026-01-03.jpg'
+  credit: 'Photo: Renée Kools / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Paris_skyline_from_Montmartre_2026-01-03.jpg'
 gallery: []
 tags:
   - paris

@@ -10,6 +10,11 @@ eventEndDate: '2027-01-24'
 eventRecurring: true
 eventVenue: Chinggis Khaany Khuree complex
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ulaanbaatar_skyline_in_night_2.jpg/3840px-Ulaanbaatar_skyline_in_night_2.jpg'
+  credit: 'Photo: Sebacalka / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ulaanbaatar_skyline_in_night_2.jpg'
 gallery: []
 tags:
   - ulaanbaatar

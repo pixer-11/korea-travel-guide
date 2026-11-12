@@ -10,6 +10,11 @@ eventEndDate: '2026-11-14'
 eventRecurring: true
 eventVenue: The Agricultural Museum, Dokki
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Department_of_Plant_Taxonomy%2C_Agricultural_Museum%2C_Cairo.jpg/3840px-Department_of_Plant_Taxonomy%2C_Agricultural_Museum%2C_Cairo.jpg'
+  credit: 'Photo: Amr F.Nagy / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Department_of_Plant_Taxonomy,_Agricultural_Museum,_Cairo.jpg'
 gallery: []
 tags:
   - cairo

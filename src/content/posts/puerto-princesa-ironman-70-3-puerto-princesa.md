@@ -13,6 +13,11 @@ eventOrganizer:
   name: Ironman
   url: https://www.ironman.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Fa_Yu_Temple_-03-_Puerto_Princesa_City.jpg'
+  credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Fa_Yu_Temple_-03-_Puerto_Princesa_City.jpg'
 tags:
   - puerto princesa
   - event

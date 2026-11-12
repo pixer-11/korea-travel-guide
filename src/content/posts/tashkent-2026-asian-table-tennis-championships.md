@@ -12,6 +12,11 @@ eventOrganizer:
   name: Asian Table Tennis Union
   url: https://asia.ittf.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/33/Tashkent_skyline_2019.jpg'
+  credit: 'Photo: Guidecity / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_skyline_2019.jpg'
 gallery: []
 tags:
   - tashkent

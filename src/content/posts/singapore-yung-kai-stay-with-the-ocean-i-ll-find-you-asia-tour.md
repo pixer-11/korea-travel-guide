@@ -13,6 +13,11 @@ eventPerformer:
   name: yung kai
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Capitol_Theatre%2C_Capitol_Piazza%2C_Singapore_-_20150610-01.jpg'
+  credit: 'Photo: Jacklee / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Capitol_Theatre,_Capitol_Piazza,_Singapore_-_20150610-01.jpg'
 gallery: []
 tags:
   - singapore

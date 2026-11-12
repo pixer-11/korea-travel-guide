@@ -13,6 +13,11 @@ eventOrganizer:
   name: arteBA Fundación
   url: https://www.arteba.org/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buenos_Aires%2C_Argentina_Skyline_-_panoramio_%283%29.jpg/3840px-Buenos_Aires%2C_Argentina_Skyline_-_panoramio_%283%29.jpg'
+  credit: 'Photo: Michelle Maria / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires,_Argentina_Skyline_-_panoramio_(3).jpg'
 gallery: []
 tags:
   - buenos aires

@@ -13,6 +13,11 @@ eventOffers:
   free: true
   currency: MXN
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/e4/WTC_-_Pepsi_Center_-_panoramio.jpg'
+  credit: 'Photo: JavierDo / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:WTC_-_Pepsi_Center_-_panoramio.jpg'
 gallery: []
 tags:
   - mexico city

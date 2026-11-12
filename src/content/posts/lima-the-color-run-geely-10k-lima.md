@@ -10,6 +10,11 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventVenue: Estadio Monumental U Marathon
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/49/Lima%2C_Peru_Skyline_from_Surco.jpg'
+  credit: 'Photo: Quado678 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Lima,_Peru_Skyline_from_Surco.jpg'
 gallery: []
 tags:
   - lima

@@ -16,6 +16,11 @@ eventOffers:
   free: true
   currency: ARS
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Buenos_Aires_skyline_-_panoramio.jpg/3840px-Buenos_Aires_skyline_-_panoramio.jpg'
+  credit: 'Photo: Aleksandrs Timofejev… / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Buenos_Aires_skyline_-_panoramio.jpg'
 tags:
   - buenos aires
   - event

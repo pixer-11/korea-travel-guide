@@ -13,6 +13,11 @@ eventOrganizer:
   name: BCA
   url: https://citralandmarathon.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Surabaya_Pusat.jpg'
+  credit: 'Photo: Ya, saya inBaliTimur / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Surabaya_Pusat.jpg'
 gallery: []
 tags:
   - surabaya
