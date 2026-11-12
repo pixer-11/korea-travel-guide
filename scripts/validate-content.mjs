@@ -34,6 +34,7 @@ import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE, VENUE_UNCON
 import { upcomingPastTense, endedPresentTense } from './lib/invented-outcomes.mjs';
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 import { hasBodyDisclosure } from './lib/body-disclosure.mjs';
+import { spellingTwins } from './lib/region-spelling.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -829,8 +830,12 @@ async function main() {
     // "New York City" (1) rendered as separate tiles with near-identical pages
     // (owner-caught 2026-08-09). Normalise away case and a trailing "City"
     // before comparing; a twin must adopt the existing spelling to publish.
-    const twin = new Map();
-    const normRegion = (r) => r.toLowerCase().replace(/\s+city$/i, '').replace(/\s+/g, ' ').trim();
+    // "Existing" = the spelling most guides carry (lib/region-spelling). It used
+    // to be whichever file sorted first, which on 11-12 told seven Iloilo guides
+    // to adopt one new event's "Iloilo City".
+    for (const { post: p, canonical } of spellingTwins(posts)) {
+      issues.push(`REGION SPELLING TWIN "${p.region}" vs "${canonical}" (${p.country}) — one city split into two hubs; adopt "${canonical}": ${p.f}`);
+    }
     for (const p of posts) {
       if (!p.region) continue;
       const prev = regionCountry.get(p.region);
@@ -838,13 +843,6 @@ async function main() {
         issues.push(`REGION NAME COLLISION "${p.region}" spans countries (${prev.country}: ${prev.f} vs ${p.country}: ${p.f}) — qualify the new region name`);
       } else if (!prev) {
         regionCountry.set(p.region, { country: p.country, f: p.f });
-      }
-      const n = normRegion(p.region);
-      const t = twin.get(n);
-      if (t && t.region !== p.region && t.country === p.country) {
-        issues.push(`REGION SPELLING TWIN "${p.region}" vs "${t.region}" (${p.country}) — one city split into two hubs; adopt "${t.region}": ${p.f}`);
-      } else if (!t) {
-        twin.set(n, { region: p.region, country: p.country, f: p.f });
       }
     }
   }

@@ -1,8 +1,8 @@
 ---
-title: 'Dinagyang Festival: Dates, Tickets & Venue (Iloilo City)'
+title: 'Dinagyang Festival: Dates, Tickets & Venue (Iloilo)'
 description: The Dinagyang Festival in Iloilo City takes place on Sunday, January 24, 2027, the fourth Sunday of January, when its street dancing competition fills the downtown streets.
 country: Philippines
-region: Iloilo City
+region: Iloilo
 category: event
 pubDate: '2026-11-12'
 eventStartDate: '2027-01-22'
@@ -31,7 +31,7 @@ gallery:
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:2026_Dinagyang_Festival_Iloilo_City_03.jpg
 tags:
-  - iloilo city
+  - iloilo
   - event
 quickAnswer: The Dinagyang Festival in Iloilo City takes place on Sunday, January 24, 2027, the fourth Sunday of January, when its street dancing competition fills the downtown streets. It honours the Santo Niño, the Child Jesus. Watching from the street along the route is free; the stands around the judging areas are the part that usually needs a ticket.
 faq:

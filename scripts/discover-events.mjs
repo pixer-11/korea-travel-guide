@@ -20,6 +20,7 @@ import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { makeTitle, latinTitleName } from './lib/titles.mjs';
+import { regionSpellings, adoptRegionSpelling } from './lib/region-spelling.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
 import { keyToken, tokens as nameTokens, performerCategoryPhotos, eventCategoryPhotos } from './lib/commons.mjs';
@@ -234,6 +235,11 @@ function planDiscovered(item, ctx, log = console.log) {
   // (lib/country-of-city — an exact region match in one other country only).
   const country = ownCountry(item.city, ctx.country, ctx.countries || []);
   if (country !== ctx.country) log(`   ${item.city}: filed under ${country}, not ${ctx.country}`);
+  // The spelling this country's guides already use, before slug and title
+  // exist: "Iloilo City" next to seven "Iloilo" guides split the hub (11-12).
+  const spelled = adoptRegionSpelling(item.city, country, ctx.regionSpellings ?? new Map());
+  if (spelled !== item.city) log(`   ${item.city}: filed as "${spelled}", the spelling its guides use`);
+  item.city = spelled;
   const cat = kind === 'event' ? 'event'
     : ['restaurant', 'trendy', 'hidden-gem'].includes(item.category) ? item.category : 'trendy';
   const key = `${kind}:${slugify(`${country}-${item.name}`)}`;
@@ -571,12 +577,16 @@ async function main() {
   // Normalized topic keys of existing posts → generation-time near-dup prevention
   // (same rule validate-content uses to detect them after the fact).
   const existingTopics = new Set();
+  const regionRows = [];
   for (const f of (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'))) {
     try {
       const { data } = matter(await readFile(join(POSTS_DIR, f), 'utf8'));
       if (data.title && data.region) existingTopics.add(topicKey(data.title, data.region));
+      // Live guides only, as the validator counts: drafts are not a hub yet.
+      if (data.region && data.country && data.draft !== true) regionRows.push({ country: data.country, region: data.region });
     } catch {}
   }
+  const spellings = regionSpellings(regionRows);
   // Anchor tokens of existing EVENT posts per country — validate-content's own
   // duplicate rule (keyToken + country + overlapping dates), applied BEFORE a
   // full article + hero + vision + four translations are paid for. The weaker
@@ -646,6 +656,9 @@ async function main() {
     const shadow = {
       countries, existing: new Set(existing), done: new Set(done),
       existingTopics: new Set(existingTopics), eventAnchors: [...eventAnchors], kind: 'event',
+      // The same spelling map as the real pass, or the batch writes for a slug
+      // the real pass never asks for and the writer is paid twice (Codex, 11-12).
+      regionSpellings: spellings,
     };
     const asks = [];
     for (const c of active) {
@@ -666,7 +679,7 @@ async function main() {
   }
 
   for (const c of active) {
-    const ctx = { country: c.name, countries, existing, done, existingTopics, usedImages, eventAnchors, prewritten };
+    const ctx = { country: c.name, countries, existing, done, existingTopics, usedImages, eventAnchors, prewritten, regionSpellings: spellings };
     let ev = 0, hs = 0;
     for (const item of lists.get(c.name)) {
       if (ev >= EVENTS_PER_COUNTRY) break;
