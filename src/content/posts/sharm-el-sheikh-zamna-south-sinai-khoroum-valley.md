@@ -10,14 +10,6 @@ eventEndDate: '2026-11-22'
 eventRecurring: true
 eventVenue: Khoroum Valley, South Sinai Desert
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bornco_en_el_Polif%C3%B3rum_Zamn%C3%A1%2C_M%C3%A9rida%2C_Tour_El_Gran_Baile.jpg/1920px-Bornco_en_el_Polif%C3%B3rum_Zamn%C3%A1%2C_M%C3%A9rida%2C_Tour_El_Gran_Baile.jpg
-  credit: 'Photo: Alaniarq / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bornco_en_el_Polif%C3%B3rum_Zamn%C3%A1,_M%C3%A9rida,_Tour_El_Gran_Baile.jpg
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - sharm el sheikh

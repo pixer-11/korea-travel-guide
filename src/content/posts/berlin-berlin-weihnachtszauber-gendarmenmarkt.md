@@ -10,14 +10,6 @@ eventEndDate: '2026-12-31'
 eventRecurring: true
 eventVenue: Gendarmenmarkt
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Weihnachtszauber.jpg/3840px-Weihnachtszauber.jpg
-  credit: 'Photo: RonPorter / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Weihnachtszauber.jpg
-  focus:
-    x: 55
-    'y': 35
 gallery: []
 tags:
   - berlin

@@ -9,16 +9,6 @@ eventStartDate: '2026-12-31'
 eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/46/XXII_Cursa_Vila_ol%C3%ADmpica_-_nens.JPG
-  credit: 'Photo: Jordiferrer / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:XXII_Cursa_Vila_ol%C3%ADmpica_-_nens.JPG
-  focus:
-    x: 72
-    'y': 36
-    top: 32
-    bottom: 39
 gallery: []
 tags:
   - barcelona

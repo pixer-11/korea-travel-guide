@@ -10,16 +10,6 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventVenue: Estadio Monumental U Marathon
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/10/Color_of_Friendship.jpg
-  credit: 'Photo: Md Rafayat Haque Khan / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Color_of_Friendship.jpg
-  focus:
-    x: 37
-    'y': 29
-    top: 2
-    bottom: 55
 gallery: []
 tags:
   - lima
