@@ -2,23 +2,23 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 172,
+   "attempts": 174,
    "hits": 18
   },
   "historic site": {
-   "attempts": 127,
-   "hits": 65
+   "attempts": 129,
+   "hits": 66
   },
   "park": {
-   "attempts": 142,
-   "hits": 78
+   "attempts": 147,
+   "hits": 80
   },
   "viewpoint": {
-   "attempts": 112,
-   "hits": 15
+   "attempts": 120,
+   "hits": 19
   },
   "art gallery": {
-   "attempts": 78,
+   "attempts": 79,
    "hits": 10
   },
   "night view": {
@@ -30,7 +30,7 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 105,
+   "attempts": 107,
    "hits": 53
   },
   "noodles": {
@@ -46,8 +46,8 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 60,
-   "hits": 10
+   "attempts": 70,
+   "hits": 11
   },
   "seafood": {
    "attempts": 94,
@@ -66,8 +66,8 @@
    "hits": 13
   },
   "street food": {
-   "attempts": 144,
-   "hits": 18
+   "attempts": 148,
+   "hits": 20
   },
   "bakery": {
    "attempts": 80,
@@ -82,11 +82,11 @@
    "hits": 2
   },
   "concept cafe": {
-   "attempts": 58,
+   "attempts": 59,
    "hits": 0
   },
   "top attraction": {
-   "attempts": 184,
+   "attempts": 185,
    "hits": 133
   },
   "grill": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 55,
+   "attempts": 56,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -1382,5 +1382,5 @@
    "hits": 1
   }
  },
- "updated": "2026-11-11T07:47:10.157Z"
+ "updated": "2026-11-12T07:49:27.139Z"
 }

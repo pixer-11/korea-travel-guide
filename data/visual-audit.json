@@ -4193,6 +4193,12 @@
   "reason": "patrol reject: Rural windmill scene, unrelated to Beijing Marathon event",
   "at": "2026-10-01T23:24:06.919Z"
  },
+ "beijing-central-radio-tv-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Central_TV_Tower_from_Yuyuantan_%2820211022095011%29.jpg/1920px-Central_TV_Tower_from_Yuyuantan_%2820211022095011%29.jpg": {
+  "slug": "beijing-central-radio-tv-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the actual tower, recognizable and representative",
+  "at": "2026-11-12T07:49:27.049Z"
+ },
  "beijing-china-open-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_entrance_of_National_Tennis_Center_during_2024_China_Open_%2820241005143003%29.jpg/3840px-South_entrance_of_National_Tennis_Center_during_2024_China_Open_%2820241005143003%29.jpg": {
   "slug": "beijing-china-open-tennis",
   "verdict": "MATCH",
@@ -7985,6 +7991,12 @@
   "reason": "publish gate: Authentic Christchurch Tramway tram, clearly labeled and representative",
   "at": "2026-10-23T13:19:35.903Z"
  },
+ "christchurch-christchurch-tramway-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Christchurch_Tramway_Restaurant_Carriage_2016.jpg/3840px-Christchurch_Tramway_Restaurant_Carriage_2016.jpg": {
+  "slug": "christchurch-christchurch-tramway-restaurant",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows actual Christchurch Tramway Restaurant vehicle on street",
+  "at": "2026-11-12T07:49:27.014Z"
+ },
  "christchurch-coca-cola-christmas-in-the-park-christchurch\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Coca-Cola-truck-Peterbilt.jpg": {
   "slug": "christchurch-coca-cola-christmas-in-the-park-christchurch",
   "verdict": "MATCH",
@@ -10592,6 +10604,12 @@
   "reason": "publish gate: Carved stone relief with hieroglyphs, representative of museum exhibit",
   "at": "2026-11-09T17:54:17.941Z"
  },
+ "giza-orman-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Orman_Garden_-_Lotus_pond_01.jpg/3840px-Orman_Garden_-_Lotus_pond_01.jpg": {
+  "slug": "giza-orman-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden pond with bridge, plausible Orman Garden scene",
+  "at": "2026-11-12T07:49:26.717Z"
+ },
  "giza-red-pyramid\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rote_Pyramide_%28Dahschur%29_04.jpg/1920px-Rote_Pyramide_%28Dahschur%29_04.jpg": {
   "slug": "giza-red-pyramid",
   "verdict": "MATCH",
@@ -12620,6 +12638,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Recognisable Port Arthur penitentiary ruins by water, representative view",
   "at": "2026-10-02T08:03:22.932Z"
+ },
+ "hobart-rosny-hill-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hobart%2C_kunanyi%2C_the_river_and_Tasman_Bridge_from_the_Rosny_Lookout.jpg/3840px-Hobart%2C_kunanyi%2C_the_river_and_Tasman_Bridge_from_the_Rosny_Lookout.jpg": {
+  "slug": "hobart-rosny-hill-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic view from Rosny Hill Lookout over Hobart and bridge",
+  "at": "2026-11-12T07:49:26.958Z"
  },
  "hobart-royal-tasmanian-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Hobart_Botanical_Gardens_Entrance.png": {
   "slug": "hobart-royal-tasmanian-botanical-gardens",
@@ -20215,6 +20239,12 @@
   "reason": "publish gate: Shows avenue lined with ram statues, matches venue",
   "at": "2026-11-10T07:46:30.985Z"
  },
+ "luxor-colossi-of-memnon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Colossi_of_Memnon_May_2015_2.JPG/1920px-Colossi_of_Memnon_May_2015_2.JPG": {
+  "slug": "luxor-colossi-of-memnon",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows both colossi statues, representative hero view",
+  "at": "2026-11-12T07:49:26.807Z"
+ },
  "luxor-karnak\u0001https://fastly.4sqi.net/img/general/original/2573088_c2HsAkK-QqlQxDBX3YXuPoY9lIA6pAkoMc2M5_t5Y6o.jpg": {
   "slug": "luxor-karnak",
   "verdict": "MATCH",
@@ -20256,6 +20286,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Ramesseum temple ruins in Luxor",
   "at": "2026-11-09T17:54:17.618Z"
+ },
+ "luxor-the-avenue-of-sphinxes\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/The_Avenue_of_Sphinxes_Luxor_Temple_-_panoramio.jpg": {
+  "slug": "luxor-the-avenue-of-sphinxes",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows a sphinx statue from the avenue in Luxor",
+  "at": "2026-11-12T07:49:26.843Z"
  },
  "luxor-valley-of-the-kings\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Luxor_Valley_of_the_Kings_R01.jpg/3840px-Luxor_Valley_of_the_Kings_R01.jpg": {
   "slug": "luxor-valley-of-the-kings",
@@ -22741,6 +22777,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Night exterior of Saint Joseph's Oratory dome, representative view",
   "at": "2026-11-05T07:49:41.409Z"
+ },
+ "montreal-time-out-market-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Montreal_Eaton_Centre_Time_Out_Market.jpg/3840px-Montreal_Eaton_Centre_Time_Out_Market.jpg": {
+  "slug": "montreal-time-out-market-montreal",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior food hall with diners, representative of venue",
+  "at": "2026-11-12T07:49:26.881Z"
  },
  "montreal-vieux-port-de-montreal\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/Montreal_Old_port.jpg": {
   "slug": "montreal-vieux-port-de-montreal",
@@ -25709,6 +25751,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Performer group photo of TREASURE on stage",
   "at": "2026-11-12T04:22:54.264Z"
+ },
+ "osaka-umeda-sky-building\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Umeda_Sky_Building_seen_from_Lucua_202508.jpg/3840px-Umeda_Sky_Building_seen_from_Lucua_202508.jpg": {
+  "slug": "osaka-umeda-sky-building",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Umeda Sky Building distinctive twin-tower skyline in Osaka",
+  "at": "2026-11-12T07:49:27.085Z"
  },
  "ottawa-byward-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg/1920px-ByWard_Market_Building_in_Ottawa%2C_Ontario.jpg": {
   "slug": "ottawa-byward-market",
@@ -36213,6 +36261,12 @@
   "reason": "Tokyo Tower illuminated in cityscape at dusk",
   "at": "2026-07-25T02:50:33.798Z"
  },
+ "tokyo-tsutaya-books-daikanyama\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Daikanyama_T-Site_Building_3_2018.jpg/1920px-Daikanyama_T-Site_Building_3_2018.jpg": {
+  "slug": "tokyo-tsutaya-books-daikanyama",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Tsutaya Books with signage, representative view",
+  "at": "2026-11-12T07:49:27.120Z"
+ },
  "tokyo-tyler-the-creator-chromakopia-the-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg": {
   "slug": "tokyo-tyler-the-creator-chromakopia-the-world-tour",
   "verdict": "MATCH",
@@ -38167,6 +38221,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Shows Xi'an city wall watchtowers, authentic fortification architecture",
   "at": "2026-08-16T20:37:31.010Z"
+ },
+ "xi-an-small-wild-goose-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Small_Wild_Goose_Pagoda_2024_04.jpg": {
+  "slug": "xi-an-small-wild-goose-pagoda",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows pagoda base, stairs, entrance - representative exterior view",
+  "at": "2026-11-12T07:49:26.921Z"
  },
  "xi-an-tang-paradise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tang_Paradise_2024_04.jpg/1920px-Tang_Paradise_2024_04.jpg": {
   "slug": "xi-an-tang-paradise",

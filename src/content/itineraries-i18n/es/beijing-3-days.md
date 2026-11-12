@@ -1,37 +1,37 @@
 ---
 lang: es
 slug: beijing-3-days
-sourceHash: 7bab8dcd54aeace153b5b05d4e4054963037393b
-title: 'Pekín en 3 días: itinerario por el Templo del Cielo, la Ciudad Prohibida y el Palacio de Verano'
-description: Un itinerario de 3 días por Pekín que va desde el Templo del Cielo y Wangfujing hasta el parque Jingshan, la Mansión del Príncipe Gong y el Templo de Lama, para terminar con el Museo del Palacio, la Ciudad Prohibida y el Palacio de Verano.
-quickAnswer: 'Este es un itinerario de 3 días por Pekín: el primer día abarca la zona del Templo del Cielo hasta Wangfujing, el segundo día va desde el parque Jingshan, pasando por la Mansión del Príncipe Gong en Xicheng, hasta el Templo de Lama, y el tercer día es una jornada más completa que recorre el Museo del Palacio, la Ciudad Prohibida y el Palacio de Verano.'
+sourceHash: 66484ffee788f69f4b5cfe30a8e69d5bcf160633
+title: 'Pekín en 3 días: la Ciudad Prohibida, el parque Jingshan, el Palacio de Verano y más'
+description: Un itinerario de 3 días por Pekín que recorre los sitios imperiales y los antiguos callejones de Dong Cheng Qu, los parques y mansiones de Xi Cheng Qu, y llega hasta el Palacio de Verano y el Templo de los Lamas, con una alternativa prevista para el primer día en caso de lluvia.
+quickAnswer: 'Este es un itinerario de 3 días por Pekín: el primer día recorre la Ciudad Prohibida, la librería Wangfujing y Liulichang en Dong Cheng Qu; el segundo día pasa por el parque Jingshan, la Mansión del Príncipe Gong y la Torre Central de Radio y Televisión, entre Xi Cheng Qu y Haidian; y el tercer día abarca el Palacio de Verano, el Templo de los Lamas y un regreso a la Ciudad Prohibida.'
 faq:
-  - q: ¿Cómo debería moverme entre las paradas de este itinerario?
-    a: La mayoría de las paradas indican el transporte público como la mejor forma de cubrir la distancia, ya que varios tramos superan lo que es cómodo caminar; un par de trayectos más cortos, como el área del Templo del Cielo, se pueden hacer a pie en menos de media hora.
-  - q: ¿Qué día implica más caminata o tiempo de pie?
-    a: El tercer día es el más intenso, ya que combina el Museo del Palacio con la Ciudad Prohibida de forma consecutiva, antes de tomar el transporte público hacia el Palacio de Verano para la tarde-noche.
-  - q: ¿Es flexible este itinerario si llueve?
-    a: El primer y el segundo día cuentan cada uno con una alternativa para días de lluvia por si cambia el clima, mientras que el tercer día no tiene alternativa indicada, por lo que es mejor reservarlo para un día despejado.
-  - q: ¿Cuál es el mejor momento para visitar las paradas más concurridas?
-    a: Varias paradas señalan que llegar justo al comienzo del día, antes de que se acumulen las multitudes, permite una visita más tranquila, sobre todo en las atracciones más grandes.
-  - q: ¿Necesito reservar algo con antelación?
-    a: Tanto el Museo del Palacio como la Ciudad Prohibida requieren entradas con horario reservadas con antelación, ya que limitan el número de visitantes diarios.
+  - q: ¿Cómo moverme durante este itinerario de 3 días por Pekín?
+    a: La mayoría de las paradas están más allá de una distancia cómoda a pie entre sí, así que conviene planear desplazamientos en transporte público; algunos pares, como la Ciudad Prohibida y el parque Jingshan, o los callejones alrededor de Liulichang, están lo bastante cerca como para ir caminando.
+  - q: ¿Cuánto tiempo debo reservar en cada parada?
+    a: Los tiempos de visita varían mucho, desde aproximadamente una hora en la librería Wangfujing hasta tres horas completas o más en la Ciudad Prohibida y el Palacio de Verano, así que conviene revisar el tiempo sugerido para cada parada y organizar el día en consecuencia.
+  - q: ¿Cuál es el mejor momento del día para visitar los lugares más concurridos?
+    a: Conviene llegar justo cuando arranca el día en las paradas principales, como la Ciudad Prohibida, el parque Jingshan y el Templo de los Lamas, ya que la afluencia de visitantes aumenta de forma constante a lo largo del día y es mayor los fines de semana.
+  - q: ¿Este itinerario es flexible si el clima empeora?
+    a: El primer día cuenta con una alternativa prevista en caso de mal tiempo, aunque los días dos y tres no incluyen un cambio de plan, así que conviene contar con condiciones despejadas para esos días, especialmente para la terraza al aire libre de la Torre Central de Radio y Televisión.
+  - q: ¿Necesito entradas anticipadas para alguna de estas paradas?
+    a: Sí, se recomienda reservar con antelación entradas con horario asignado para la Ciudad Prohibida, ya que limita el número de visitantes diarios y puede agotarse.
 days:
-  - label: 'Eje imperial sur: del Templo del Cielo a Wangfujing'
-    intro: El día comienza en los salones circulares y los jardines de cipreses del Templo del Cielo, y continúa hacia los puestos de perlas del mercado Hongqiao, justo enfrente. La tarde se cierra con una visita a la librería Wangfujing, en la calle del mismo nombre.
-  - label: Las alturas de Jingshan, los patios de Shichahai y el incienso del Templo de Lama
-    intro: Empezando en la zona de Jingshan para disfrutar de una vista desde lo alto sobre la Ciudad Prohibida, el día cruza hacia Xicheng para recorrer los patios y el jardín amurallado de la Mansión del Príncipe Gong. Termina volviendo a la zona de Guozijian, en Dongcheng, para visitar los cinco salones del Templo de Lama.
-  - label: Del eje de la Ciudad Prohibida al lago del Palacio de Verano
-    intro: Una jornada más completa que comienza en el Museo del Palacio y continúa directamente, justo al lado, hacia la propia Ciudad Prohibida, recorriendo todo el eje norte-sur. Termina con un trayecto en transporte público hasta el Palacio de Verano, donde el Corredor Largo y el lago Kunming ocupan la tarde-noche.
+  - label: De la Ciudad Prohibida a los callejones de anticuarios de Liulichang
+    intro: El primer día comienza en Dong Cheng Qu con un recorrido largo y tranquilo por la Ciudad Prohibida, para después pasar a los estantes de la librería Wangfujing y cambiar un poco el ritmo. La tarde se cierra entre los talleres de caligrafía y las tiendas de antigüedades de Liulichang, en el distrito de Xicheng.
+  - label: De las alturas de Jingshan a una vista giratoria de la ciudad
+    intro: El segundo día comienza justo al lado de la Ciudad Prohibida, en el mirador de la colina del parque Jingshan, y continúa hacia los patios y el jardín de la Mansión del Príncipe Gong, cerca del lago Shichahai. Desde allí, un trayecto en transporte público lleva hasta el distrito de Haidian para disfrutar de amplias vistas nocturnas desde la Torre Central de Radio y Televisión.
+  - label: Del Palacio de Verano al Templo de los Lamas y de vuelta a la Ciudad Prohibida
+    intro: El tercer día empieza con una mañana completa explorando la Colina de la Longevidad y el lago Kunming en el Palacio de Verano, para luego cruzar la ciudad hasta los cinco salones del Templo de los Lamas, en Dong Cheng Qu. El día se cierra de vuelta en la Ciudad Prohibida, recorriendo todo su eje norte-sur bajo la luz del atardecer.
 whys:
-  beijing-temple-of-heaven: Su circular Salón de Oración por las Buenas Cosechas, el Muro de los Ecos y el parque de cipreses que lo rodea hacen de esta una primera parada extensa y tranquila, y entrar por la Puerta Sur marca el rumbo del resto del día.
-  beijing-hongqiao-market: Justo frente a la puerta este del Templo del Cielo, este mercado de varios pisos es conocido por sus perlas y ofrece un contraste práctico de regateo frente al monumento de la mañana.
-  beijing-wangfujing-bookstore: Una gran librería general con una amplia variedad de títulos en chino y una sección más pequeña en inglés, es una manera sencilla y relajada de cerrar el día en la calle Wangfujing.
-  beijing-jingshan-park: Su colina central es el mejor mirador sobre los tejados dorados de la Ciudad Prohibida, y está más tranquila entre semana y los fines de semana por la mañana, antes de que los senderos se llenen.
-  beijing-prince-gong-mansion: Esta es la residencia principesca de la dinastía Qing mejor conservada y abierta al público, con patios, corredores pintados y un jardín amurallado que recompensa llegar justo al comienzo del día para disfrutar de senderos de rocallas más tranquilos.
-  beijing-lama-temple: Con cinco salones principales que recorrer sin prisa, este templo en Yonghegong Dajie se disfruta mejor llegando justo al comienzo del día o más entrada la tarde, bien antes del tramo final.
-  beijing-the-palace-museum: Como el imprescindible complejo palaciego imperial de Pekín, conviene llegar justo al comienzo del día, cuando hay menos afluencia, antes de recorrer todo el eje norte-sur.
-  beijing-forbidden-city: Entrar por la Puerta del Meridiano y salir por el norte a través de la Puerta de la Proeza Divina completa el mismo eje norte-sur de la mañana, lo que la convierte en una continuación natural justo al lado.
-  beijing-summer-palace: Dedicarle un buen tramo de tiempo permite recorrer el Corredor Largo, la Torre del Incienso Budista en la Colina de la Longevidad y dar una vuelta por el lago Kunming; llegar justo al comienzo del día o más entrada la tarde evita las peores aglomeraciones.
+  beijing-the-palace-museum: Es el imprescindible complejo del palacio imperial de Pekín, y recorrer todo su eje norte-sur ofrece un comienzo de viaje que sienta las bases.
+  beijing-wangfujing-bookstore: Una gran librería generalista con una amplia variedad de títulos chinos, es un contrapunto tranquilo y de ritmo pausado tras una mañana dedicada a la Ciudad Prohibida.
+  beijing-liulichang: Este callejón restaurado de tiendas de caligrafía, pintura y antigüedades ofrece un cierre de día relajado y perfecto para pasear, y se disfruta mejor en un día entre semana.
+  beijing-jingshan-park: Su colina central es el mejor mirador para contemplar los tejados dorados de la Ciudad Prohibida, y es más tranquila justo durante las horas de la mañana.
+  beijing-prince-gong-mansion: La residencia principesca de la dinastía Qing mejor conservada abierta al público, cuyos patios, corredores y jardín amurallado merecen entre dos y tres horas con calma.
+  beijing-central-radio-tv-tower: Su terraza de observación al aire libre domina toda la ciudad, lo que la convierte en un punto culminante adecuado para cerrar el día en una tarde despejada.
+  beijing-summer-palace: Un sitio muy popular y muy bien valorado, merece una mañana completa para recorrer el Corredor Largo, la Colina de la Longevidad y el lago Kunming.
+  beijing-lama-temple: Con cinco salones principales para recorrer sin prisa, es una parada vespertina tranquila a la que se llega directamente desde su propia estación de metro.
+  beijing-forbidden-city: Cerrar el viaje aquí permite recorrer todo el eje desde la Puerta del Meridiano hasta la Puerta de Shenwu al atardecer, un broche de oro adecuado para el itinerario.
 rainWhys: {}
 ---

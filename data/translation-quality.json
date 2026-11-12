@@ -38822,11 +38822,11 @@
   "at": "2026-11-09T08:15:10.530Z"
  },
  "ko/barcelona-jesse-joy-barcelona": {
-  "hash": "7332685fa65d",
+  "hash": "61b169ca32a2",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 공연장을 찾는 이유는 바로 이 아담한 규모입니다.",
-  "at": "2026-11-02T08:11:21.808Z"
+  "worst": "그래서 조용히 감상하는 무대라기보다 스페인어 떼창이 이어지는 밤에 가깝습니다.",
+  "at": "2026-11-12T07:59:53.302Z"
  },
  "ko/barcelona-young-posse-pilot3-world-tour-barcelona": {
   "hash": "c93b13ebcaf4",
@@ -40157,5 +40157,82 @@
   "registerBreak": false,
   "worst": "一边是陶艺的历史，一边是陶瓷在当代建筑尺度上的运用，两座馆都在同一个地区。",
   "at": "2026-11-11T15:34:51.811Z"
+ },
+ "es/barcelona-jesse-joy-barcelona": {
+  "hash": "2b3eedcbcd6d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El Molino, el antiguo cabaret del molino rojo.",
+  "at": "2026-11-12T07:59:39.101Z"
+ },
+ "es/cologne-cologne-marathon-carnival-marathon": {
+  "hash": "5e17597b28a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El carnaval de Colonia tiene sus propias reglas, y al",
+  "at": "2026-11-12T07:59:40.014Z"
+ },
+ "es/singapore-my-chemical-romance-reunion-tour": {
+  "hash": "c9d4c03431d3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "quienes valoran más una camiseta de la gira que un buen sitio en la pista acostumbran a dirigirse allí",
+  "at": "2026-11-12T07:59:41.176Z"
+ },
+ "ja/barcelona-jesse-joy-barcelona": {
+  "hash": "eab151b89a29",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この会場が好まれる理由は、ちょうどよい広さにあります。",
+  "at": "2026-11-12T07:59:45.248Z"
+ },
+ "ja/cologne-cologne-marathon-carnival-marathon": {
+  "hash": "af208b982aa9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "その秋のドイツでは、都市を走るロードレースがいくつも開かれる日程になっていました。",
+  "at": "2026-11-12T07:59:52.287Z"
+ },
+ "ko/cologne-cologne-marathon-carnival-marathon": {
+  "hash": "b33f501f3d59",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그해 가을 독일에서는 도시 로드 레이스가 여러 차례 있었습니다.",
+  "at": "2026-11-12T07:59:54.276Z"
+ },
+ "ko/semarang-semarang-10k": {
+  "hash": "8d193e14c5e9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-12T08:00:00.189Z"
+ },
+ "zh/barcelona-jesse-joy-barcelona": {
+  "hash": "6e6d558da874",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "与其说是安安静静听歌的夜晚，他们的演唱会更像一场西班牙语大合唱。",
+  "at": "2026-11-12T08:00:01.074Z"
+ },
+ "zh/cologne-cologne-marathon-carnival-marathon": {
+  "hash": "ec6661d16644",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "跑者的装备偏向长袖和手套，起跑时还会套一件用完即弃的外衣。",
+  "at": "2026-11-12T08:00:01.995Z"
+ },
+ "zh/singapore-toy-story-peaceminusone-the-first-fan": {
+  "hash": "7971d16bc44c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "展览于2026年10月16日至11月11日在克拉码头举办展期，具体所在单位、每日开放时间以及门票或入场时段的安排，均由主办方负责。",
+  "at": "2026-11-12T08:00:03.007Z"
+ },
+ "ja/beijing-central-radio-tv-tower": {
+  "hash": "dde36af25628",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "眺めを楽しみながら腰を落ち着けて食べる食事だと考えてください。",
+  "at": "2026-11-12T08:00:04.020Z"
  }
 }

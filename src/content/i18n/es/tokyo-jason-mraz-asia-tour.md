@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: tokyo-jason-mraz-asia-tour
-srcHash: '88bf1e2ebb5b'
+srcHash: 'a2e79344b9c1'
 title: 'Gira asiática de Jason Mraz: fechas, entradas y recinto (Tokio)'
-description: Jason Mraz regresa a Japón tras siete años de ausencia. Su gira asiática hace parada en el Tokyo Garden Theater de Ariake (Tokio) y en el Festival Hall de Osaka los días 10–11 de noviembre de 2026.
-quickAnswer: Jason Mraz vuelve a actuar en Japón por primera vez en siete años. Dentro de su gira asiática, tocará en el Tokyo Garden Theater de Ariake (Tokio) y en el Festival Hall de Osaka los días 10–11 de noviembre de 2026. Para llegar a Ariake puede tomar la línea Yurikamome hasta la estación de Ariake-tennis-no-mori o la línea Rinkai hasta la estación de Kokusai-Tenjijo. Consulte en la web oficial qué noche corresponde a Tokio y compre allí sus entradas, sin recurrir a otros canales.
+description: Para el 10 y el 11 de noviembre de 2026, la gira asiática de Jason Mraz anunció dos conciertos en Japón, uno en el Tokyo Garden Theater de Ariake y otro en el Festival Hall de Osaka. Eran sus primeras actuaciones en el país en siete años.
+quickAnswer: Las fechas anunciadas de la gira asiática de Jason Mraz en Japón eran el 10 y el 11 de noviembre de 2026. Había una noche en el Tokyo Garden Theater de Ariake (Tokio) y otra en el Festival Hall de Osaka, y se presentaron como sus primeros conciertos en el país en siete años. A Ariake llegan la línea Yurikamome (estación de Ariake-tennis-no-mori) y la línea Rinkai (estación de Kokusai-Tenjijo). El anuncio daba ambas fechas juntas, pero no precisaba qué noche correspondía a Tokio.
 faq:
-  - q: ¿Cuándo y dónde actúa Jason Mraz en Japón?
-    a: La gira pasa por Japón los días 10–11 de noviembre de 2026, con una noche en el Tokyo Garden Theater de Ariake y otra en el Festival Hall de Osaka. En la página oficial de la gira podrá comprobar qué fecha corresponde a cada ciudad.
+  - q: ¿Cuándo y dónde tocaba Jason Mraz en Japón?
+    a: Las fechas japonesas de la gira eran el 10 y el 11 de noviembre de 2026. Había una noche en el Tokyo Garden Theater de Ariake y otra en el Festival Hall de Osaka. El anuncio no indicaba qué noche correspondía a cada ciudad.
   - q: ¿Cuál es la estación más cercana al Tokyo Garden Theater?
-    a: La más próxima es Ariake-tennis-no-mori, en la línea Yurikamome. La otra opción principal es la estación de Kokusai-Tenjijo, en la línea Rinkai, aunque desde allí el paseo es algo más largo.
+    a: La más cercana es Ariake-tennis-no-mori, en la línea Yurikamome. La otra opción principal es Kokusai-Tenjijo, en la línea Rinkai, aunque desde allí el paseo es algo más largo.
   - q: ¿Cómo puede comprar entradas un visitante extranjero?
-    a: Utilice únicamente los enlaces de venta que figuran en la página oficial de la gira o del promotor. En Japón, las entradas para conciertos suelen venderse por sorteo en plataformas como e+, Ticket Pia o Lawson Ticket. Como pueden emitirse a nombre del comprador, conviene llevar el pasaporte por si se lo piden como identificación.
-  - q: ¿Se pueden hacer fotos o grabar vídeo durante el concierto?
-    a: En los conciertos japoneses es habitual que esté prohibido grabar. Lea las normas impresas junto a su entrada y los avisos del recinto, y tenga presente que el personal las hará cumplir.
-  - q: ¿Dónde se puede cenar cerca del recinto antes del concierto?
-    a: El propio complejo Ariake Garden, del que forma parte el teatro, cuenta con restaurantes y tiendas. El Tokyo Big Sight queda a pocos minutos a pie, y el paseo marítimo de Odaiba está a unas pocas paradas de la Yurikamome en dirección al centro.
+    a: En Japón, las entradas para conciertos suelen venderse por sorteo en plataformas como e+, Ticket Pia o Lawson Ticket. Los enlaces a estas plataformas están en la página de la gira del artista o del promotor. Es habitual que las entradas se emitan a nombre del comprador, y en los controles de acceso el pasaporte sirve como documento de identidad.
+  - q: ¿Se podían hacer fotos o grabar vídeo en el concierto?
+    a: En los conciertos japoneses suele estar prohibido grabar. Las normas vienen impresas con la entrada y están expuestas en el recinto. El personal se encarga de hacerlas cumplir.
+  - q: ¿Qué había cerca del recinto para cenar antes del concierto?
+    a: Ariake Garden, el complejo al que pertenece el teatro, tiene restaurantes y tiendas. Tokyo Big Sight está a pocos minutos a pie. El paseo marítimo de Odaiba queda a unas pocas paradas de la Yurikamome, en dirección al centro.
 ---
 
-## Siete años después, dos noches de regreso
+## Siete años de ausencia, dos noches de regreso
 
-Hacía siete años que Jason Mraz no actuaba en Japón. Esta etapa de su gira asiática pone fin a la espera con dos fechas, 10–11 de noviembre de 2026: una noche en el Tokyo Garden Theater y otra en el Festival Hall de Osaka.
+Jason Mraz llevaba siete años sin actuar en Japón. Para este tramo de su gira asiática se anunciaron dos fechas, el 10 y el 11 de noviembre de 2026. Una noche correspondía al Tokyo Garden Theater y la otra al Festival Hall de Osaka.
 
-El anuncio ofrece ambas fechas juntas, sin precisar qué noche corresponde a cada ciudad. Antes de reservar hotel o plaza en el shinkansen, consulte la página oficial de la gira. Al tratarse de un recorrido tan breve, quienes quieran asistir a los dos conciertos tendrán que desplazarse de una ciudad a otra con muy poco margen.
+El anuncio presentaba ambas fechas juntas, pero no aclaraba a qué ciudad correspondía cada noche. Como la serie era tan breve, para asistir a los dos conciertos había que desplazarse de una ciudad a otra con muy poco margen.
 
-## El Tokyo Garden Theater por dentro
+## Así es el Tokyo Garden Theater
 
-Se trata de una moderna sala cubierta concebida para conciertos, con un aforo de unas 8,000 personas. Inaugurada en 2020, se encuentra dentro de Ariake Garden, un complejo comercial y hotelero levantado sobre terrenos ganados a la bahía de Tokio.
+Es una moderna sala cubierta concebida para conciertos. Se inauguró en 2020 y forma parte de Ariake Garden, un complejo comercial y hotelero levantado sobre terrenos ganados al mar en la bahía de Tokio. Tiene capacidad para unas 8.000 personas.
 
-Lo que más llama la atención es la disposición de los asientos. Las gradas se elevan con fuerte pendiente en tres de los lados del escenario, de modo que los niveles superiores quedan más cerca del artista de lo que cabría esperar en una sala de estas dimensiones. Esa cercanía le sienta muy bien a un espectáculo que gira en torno a una guitarra acústica y a canciones como "I'm Yours", "Lucky" o "I Won't Give Up". Incluso desde lo más alto, el escenario se siente próximo.
+Lo más llamativo es la disposición de los asientos. Las gradas suben con mucha pendiente por tres lados del escenario. Por eso, los niveles superiores quedan más cerca del artista de lo que cabría esperar en una sala de estas dimensiones. Este formato encaja muy bien con un músico cuyos conciertos giran en torno a una guitarra acústica y a canciones como "I'm Yours", "Lucky" o "I Won't Give Up". Incluso desde lo más alto, la sensación es de cercanía.
 
 ## Cómo llegar a Ariake la noche del concierto
 
-Ariake está en la parte del distrito de Koto que da a la bahía, más allá de Odaiba. Llegar es sencillo, aunque la zona cuenta con menos líneas de tren que el centro de Tokio. Hay dos rutas principales:
+Ariake está más allá de Odaiba, en la parte del distrito de Koto que da a la bahía. Llegar es sencillo, aunque hay menos líneas de tren que en el centro de Tokio. Las principales rutas son estas:
 
-- **Línea Yurikamome:** bájese en la estación de Ariake-tennis-no-mori, la más cercana. Este tren sin conductor sale de Shimbashi y, al cruzar el puente Rainbow, regala vistas de la bahía durante el trayecto.
-- **Línea Rinkai:** bájese en la estación de Kokusai-Tenjijo, desde donde el paseo es algo más largo. Algunos trenes de la Rinkai continúan directamente desde la línea JR Saikyo, algo muy práctico si viene de Shinjuku o Shibuya.
-- **Desde Toyosu:** la Yurikamome también llega hasta Toyosu, por lo que desde la línea Yurakucho puede enlazar con ella para ir a Ariake.
+- **Línea Yurikamome:** la parada más cercana es Ariake-tennis-no-mori. Este tren sin conductor sale de Shimbashi y cruza el puente Rainbow (Rainbow Bridge). Durante el trayecto se ve la bahía.
+- **Línea Rinkai:** desde la estación de Kokusai-Tenjijo el paseo es algo más largo. Algunos trenes de la Rinkai continúan directamente por la línea JR Saikyo, lo que resulta práctico desde Shinjuku o Shibuya.
+- **Desde Toyosu:** la Yurikamome también llega a Toyosu, así que a Ariake se puede llegar por esa vía desde la línea Yurakucho.
 
-Tras el bis, miles de personas salen a la vez hacia los mismos andenes, así que cuente con colas en la Yurikamome. Si no tiene prisa, cene antes en Ariake Garden y deje que se disperse la multitud.
+Al terminar el bis, miles de personas salen a la vez hacia los mismos pocos andenes. Por eso suele haber colas en la Yurikamome. Quien se queda a comer en Ariake Garden antes de ir a la estación da tiempo a que la multitud se disperse.
 
 ## Entradas a la japonesa
 
-En Japón, la venta de entradas para conciertos funciona de manera distinta a la de la mayoría de los países, y eso desconcierta a muchos visitantes. Buena parte de los grandes espectáculos se venden mediante sorteo (抽選, chūsen) en plataformas como e+, Ticket Pia y Lawson Ticket. Solo una parte de las localidades sale a la venta por estricto orden de compra.
+En Japón, la venta de entradas para conciertos no funciona como en la mayoría de los países, y eso desconcierta a muchos visitantes. Muchos de los grandes conciertos venden sus entradas mediante sorteo (抽選, chūsen) en plataformas como e+, Ticket Pia y Lawson Ticket. Solo una parte de las localidades se vende por estricto orden de llegada.
 
-Conviene saber lo siguiente:
+Este es el funcionamiento habitual:
 
-- **Recurra solo a los canales oficiales.** Siga los enlaces de la página de la gira del artista o del promotor, y verifique allí las fechas, el recinto y las modalidades de entrada.
-- **Prepárese para nombres y documentos.** Las entradas japonesas suelen emitirse a nombre del comprador, y el personal puede pedir identificación en el acceso. Lleve consigo el pasaporte.
-- **Las entradas digitales** suelen guardarse en una aplicación de venta en el móvil. Instálela e inicie sesión antes del día del concierto, cuando aún tenga tiempo de resolver cualquier problema.
-- **Evite la reventa no oficial.** En la puerta pueden rechazar las entradas revendidas. Si el concierto dispone de un sistema oficial de reventa, esa es la forma segura de conseguir una entrada adicional.
+- **Canales oficiales.** Los enlaces de venta legítimos están en la página de la gira del artista o del promotor.
+- **Nombres y documentación.** Las entradas japonesas suelen emitirse a nombre del comprador, y el personal puede pedir la identificación en la puerta. El pasaporte sirve como documento.
+- **Entradas digitales.** Normalmente se guardan en una aplicación de venta en el teléfono del comprador. Hay que instalarla e iniciar sesión en ella con antelación.
+- **Reventa no oficial.** En la puerta se pueden rechazar las entradas revendidas. Si un concierto tiene un sistema oficial de reventa, esa es la forma segura de conseguir una entrada sobrante.
 
-El anuncio de la gira no incluye lista de precios. Consulte en la página de venta las categorías de localidades y los precios vigentes.
+El anuncio de esta gira no incluía ninguna lista de precios.
 
 ## Normas de comportamiento en Ariake
 
-Lo que más sorprende a los visitantes es lo atento que se muestra el público japonés. La gente aplaude y corea los grandes estribillos, pero guarda silencio en las canciones más pausadas. Si habla durante una balada, los demás lo notarán.
+A los visitantes lo que más les sorprende es lo atento que es el público japonés. La gente aplaude y canta en los grandes estribillos, pero guarda silencio en las canciones más lentas. Si alguien habla durante una balada, no pasa desapercibido.
 
-En los conciertos japoneses es habitual que esté prohibido grabar y hacer fotos. Antes de levantar el móvil, lea los avisos del recinto y las normas impresas junto a su entrada. El personal las hará cumplir con cortesía, pero también con firmeza.
+En los conciertos japoneses suele estar prohibido grabar y hacer fotos. Las normas vienen impresas con la entrada y están expuestas en el recinto. El personal las hace cumplir con amabilidad, pero también con firmeza.
 
-La venta de productos oficiales suele abrir mucho antes que las puertas, y los aficionados esperan en filas que el personal mantiene ordenadas. Si quiere una camiseta de la gira, vaya primero a la cola del merchandising. Las taquillas de monedas se llenan pronto los días de concierto, así que viaje ligero de equipaje.
+La venta de productos oficiales suele abrir mucho antes que las puertas, y el personal mantiene en orden las colas de los fans. Los que quieren una camiseta de la gira suelen ir primero a esa cola. Los días de concierto, las taquillas de monedas se llenan pronto, así que llevar poco equipaje facilita las cosas.
 
 ## Antes y después del concierto
 
-Si llega con antelación, Ariake ofrece de sobra para llenar la tarde. Ariake Garden reúne restaurantes y tiendas bajo el mismo techo que el teatro, lo que lo convierte en la opción más cómoda para cenar. A pocos minutos a pie se encuentra el Tokyo Big Sight, el centro de exposiciones de las pirámides invertidas. Y el paseo marítimo de Odaiba queda a unas pocas paradas de la Yurikamome, de vuelta hacia el centro.
+En Ariake hay mucho con lo que llenar una tarde. Ariake Garden tiene restaurantes y tiendas bajo el mismo techo que el teatro, así que es el lugar más cómodo para cenar. A pocos minutos a pie está Tokyo Big Sight, el centro de exposiciones de las pirámides invertidas. El paseo marítimo de Odaiba queda a unas pocas paradas de la Yurikamome, en dirección al centro.
 
-Si sus entradas son para Osaka, el Festival Hall se alza en Nakanoshima, la isla fluvial del centro de la ciudad. Las estaciones más cercanas son Higobashi, en la línea Yotsubashi, y Watanabebashi, en la línea Keihan Nakanoshima. La sala es célebre por su acústica y por su gran escalinata cubierta de alfombra roja. Confirme en la web oficial los horarios y las entradas de ambas ciudades.
+El concierto de Osaka correspondía al Festival Hall, que está en Nakanoshima, la isla fluvial del centro de la ciudad. Las estaciones más cercanas son Higobashi, en la línea Yotsubashi, y Watanabebashi, en la línea Keihan Nakanoshima. La sala es famosa por su acústica y por su gran escalinata con alfombra roja.
