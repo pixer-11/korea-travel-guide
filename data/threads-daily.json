@@ -113,28 +113,29 @@
     "york-uk-championship-snooker",
     "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
     "taiyuan-yingze-park",
-    "hong-kong-simple-plan-bigger-than-you-think-tour"
+    "hong-kong-simple-plan-bigger-than-you-think-tour",
+    "jakarta-bts-world-tour-arirang-jakarta"
   ],
-  "lastSentDay": "2026-11-12",
+  "lastSentDay": "2026-11-13",
   "material": {
-    "day": "2026-11-12",
-    "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
-    "title": "Simple Plan - Bigger Than You Think! Tour: Dates, Tickets & Venue (Hong Kong)",
+    "day": "2026-11-13",
+    "slug": "jakarta-bts-world-tour-arirang-jakarta",
+    "title": "BTS World Tour ARIRANG Jakarta: Dates, Tickets & Venue (Jakarta)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-12-hong-kong-simple-plan-bigger-than-you-think-tour-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-12-hong-kong-simple-plan-bigger-than-you-think-tour-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-13-jakarta-bts-world-tour-arirang-jakarta-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-13-jakarta-bts-world-tour-arirang-jakarta-2.jpg"
     ],
-    "igCaption": "Simple Plan's Bigger Than You Think! Tour lands in Hong Kong on Tuesday, December 1, 2026 — a school-night show for a band that's been soundtracking crowds since their 2002 debut. Dry, cool December air outside, strong AC inside, and an MTR ride home before the last train — plan accordingly.\n\n#HongKong #events #travel #wanderatlas #SimplePlan #ConcertTravel #TravelGuide #WanderAtlas #PopPunk\n📷 Photo: Nick Starr from Tampa Bay, Fl / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "Simple Plan plays Hong Kong Dec 1, 2026 — which song are you hoping makes the setlist: \"Perfect,\" \"Addicted,\" or \"Summer Paradise\"?",
-    "link": "https://wanderatlasguides.com/posts/hong-kong-simple-plan-bigger-than-you-think-tour/"
+    "igCaption": "BTS is back together for ARIRANG, their first world tour since military service, with two nights in Jakarta between Christmas and New Year. Expect wet-season downpours, packed holiday traffic, and a stadium full of ARMY Bombs lighting up the night.\n\n#Jakarta #Indonesia #events #travel #wanderatlas #BTS #ARIRANGTour #TravelGuide #ConcertTravel\n📷 Photo: I Dare U JK / Wikimedia Commons (CC BY 3.0) (edited)",
+    "thOption": "December in Jakarta means sudden downpours — ponchos only, since stadiums often restrict umbrellas. Would you risk going without rain gear for ARIRANG?",
+    "link": "https://wanderatlasguides.com/posts/jakarta-bts-world-tour-arirang-jakarta/"
   },
   "social": {
-    "thDay": "2026-11-12",
-    "thId": "17916231993590153",
-    "igDay": "2026-11-11",
-    "igId": "18129854498298798",
-    "thSlug": "hong-kong-simple-plan-bigger-than-you-think-tour",
-    "igSlug": "taiyuan-yingze-park",
+    "thDay": "2026-11-13",
+    "thId": "18116342822165630",
+    "igDay": "2026-11-13",
+    "igId": "18224026666356364",
+    "thSlug": "jakarta-bts-world-tour-arirang-jakarta",
+    "igSlug": "jakarta-bts-world-tour-arirang-jakarta",
     "history": [
       {
         "day": "2026-10-10",
@@ -644,7 +645,25 @@
         "day": "2026-11-06",
         "slug": "incheon-monsta-x-world-tour-the-x-nexus-encore",
         "thId": "18098961992416786",
-        "igId": "18277377982305695"
+        "igId": "18277377982305695",
+        "insights": {
+          "at": "2026-11-13",
+          "th": {
+            "views": 18,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-07",
@@ -677,6 +696,12 @@
         "day": "2026-11-12",
         "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
         "thId": "17916231993590153"
+      },
+      {
+        "day": "2026-11-13",
+        "slug": "jakarta-bts-world-tour-arirang-jakarta",
+        "thId": "18116342822165630",
+        "igId": "18224026666356364"
       }
     ]
   }
