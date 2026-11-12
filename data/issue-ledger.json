@@ -1,5 +1,11 @@
 {
   "validate-content": {},
-  "audit-translations": {},
+  "audit-translations": {
+    "broken-syllable posts/ko/semarang-semarang-10k.md": {
+      "since": "2026-11-12",
+      "last": "2026-11-12",
+      "seen": 1
+    }
+  },
   "audit-hours-claims": {}
 }
