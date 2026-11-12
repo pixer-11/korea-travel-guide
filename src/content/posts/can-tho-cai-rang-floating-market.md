@@ -63,6 +63,7 @@ place:
       - 20
       - 21
     venueId: ven_307373316d5739786a446d5245446f4a2d71743030536a4a496843
+  phone: '+84 774 839 165'
 tags:
   - can tho
   - top attraction
