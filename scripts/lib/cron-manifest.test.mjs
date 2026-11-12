@@ -143,6 +143,9 @@ test('a weekly job is rescued once, on its own day, and only if it never ran', (
   assert.equal(dispatched(GRACE_MIN + 1, []), true, 'the alarm never woke it: rescue');
   assert.equal(dispatched(GRACE_MIN + 1, [{ status: 'completed', conclusion: 'failure' }]), false, 'it ran and failed: its own alert says so');
   assert.equal(dispatched(25 * 60, []), false, 'more than a day late: leave it to the next slot');
+  // 2026-11-11: a GitHub outage ended the alarm's dispatch as startup_failure —
+  // no job ever started, so that is a missed slot, not a run that failed.
+  assert.equal(dispatched(GRACE_MIN + 1, [{ status: 'completed', conclusion: 'startup_failure' }]), true, 'nothing started: rescue');
 });
 
 // Not every cron belongs in the manifest (weeklies can wait a week; the

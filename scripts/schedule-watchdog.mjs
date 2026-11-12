@@ -104,8 +104,11 @@ for (const w of RESCUABLE) {
   // refresh 는 커서를 한 번 더 돌려 Places 예산을 더 쓰고 alt-photos 는 같은
   // 백로그를 병렬로 읽는다. 그래도 구조는 계속한다 — 그날 일이 통째로 빠지는
   // 쪽이 더 비싸기 때문이다. 가드를 붙이는 것이 다음 작업이다.
-  const ran = (runs.workflow_runs ?? []).some((r) =>
-    w.rescueOnce || r.status !== 'completed' || r.conclusion === 'success');
+  // startup_failure 는 "돌았다"가 아니다 — 작업이 하나도 시작되지 않은 실행이다.
+  // 11-11 20:40 UTC 깃허브 Actions 장애 때 행사 발굴(주간)이 이렇게 끝났고,
+  // rescueOnce 가 그것을 "한 번 돌고 실패"로 읽어 그 주 발굴이 통째로 빠졌다.
+  const ran = (runs.workflow_runs ?? []).some((r) => r.conclusion !== 'startup_failure'
+    && (w.rescueOnce || r.status !== 'completed' || r.conclusion === 'success'));
   const verdict = ran ? 'ok' : (overdueMin <= graceFor(w) ? 'waiting' : 'MISSED');
   console.log(`${w.file}: expected ${new Date(lastExpected).toISOString()} (+${overdueMin}m) → ${verdict}`);
   if (verdict !== 'MISSED') continue;
