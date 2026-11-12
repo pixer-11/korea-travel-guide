@@ -12340,6 +12340,12 @@
   "reason": "hand-reviewed: filename shares only \"minh\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-03T08:22:42.869Z"
  },
+ "ho-chi-minh-city-8wonder-winter-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/R%C3%ADo_Saig%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_29.JPG/3840px-R%C3%ADo_Saig%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_29.JPG": {
+  "slug": "ho-chi-minh-city-8wonder-winter-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"minh\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-12T16:13:08.729Z"
+ },
  "ho-chi-minh-city-a-by-tung\u0001https://fastly.4sqi.net/img/general/original/403991234_w39WssMySFuPtbmz3qc_I4LOlCWiO0URo2_Aiasdr_U.jpg": {
   "slug": "ho-chi-minh-city-a-by-tung",
   "verdict": "MISMATCH",
