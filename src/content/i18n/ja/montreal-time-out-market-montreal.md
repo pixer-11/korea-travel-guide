@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: montreal-time-out-market-montreal
-srcHash: '9198ae8ba280'
+srcHash: 'cf53a060dc8d'
 title: タイムアウト・マーケット・モントリオール：モントリオールのグルメスポット（4.3★）
-description: タイムアウト・マーケット・モントリオール（Time Out Market Montréal）は、モントリオール中心部の705 Rue Sainte-Catherine Ouestにあるイートン・センター（Centre Eaton）内のフードホールで、地下鉄マギル駅から歩いてすぐです。評価は4.3★（5,171件のレビュー）。訪れた人の声や営業時間、楽しみ方のコツをご紹介します。
+description: タイムアウト・マーケット・モントリオール（Time Out Market Montréal）は、モントリオール中心部の705 Rue Sainte-Catherine Ouestにあるイートン・センター（Centre Eaton）内のフードホールで、地下鉄マギル駅から歩いてすぐです。評価は4.3★（5,173件のレビュー）。訪れた人の声や営業時間、楽しみ方のコツをご紹介します。
 quickAnswer: タイムアウト・マーケット・モントリオール（Time Out Market Montréal）は、モントリオール中心部の705 Rue Sainte-Catherine Ouestにあるイートン・センター（Centre Eaton）内のフードホールです。地下鉄マギル駅から歩いてすぐの場所にあります。館内には地元の人気店が手がけるカウンターが集まっていて、バーや相席スタイルの客席もあります。平日なら正午〜午後4時が比較的すいています。遅くまで営業している日は午後9時〜10時も落ち着いています。週末の正午〜午後8時は避けるのがおすすめです。
 faq:
   - q: タイムアウト・マーケット・モントリオールがいちばんすいているのはいつですか？

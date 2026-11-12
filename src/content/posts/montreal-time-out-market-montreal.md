@@ -1,42 +1,48 @@
 ---
-title: "Time Out Market Montréal: Where to Eat in Montreal (4.3★)"
-description: "Time Out Market Montréal is a food hall inside Centre Eaton at 705 Rue Sainte-Catherine Ouest, downtown Montreal, a few steps from McGill metro station. 4.3★ (5,171 reviews) — what visitors say, hours, and tips."
-country: "Canada"
-region: "Montreal"
-category: "restaurant"
-pubDate: "2026-11-12T07:49:29.865Z"
+title: 'Time Out Market Montréal: Where to Eat in Montreal (4.3★)'
+description: >-
+  Time Out Market Montréal is a food hall inside Centre Eaton at 705 Rue
+  Sainte-Catherine Ouest, downtown Montreal, a few steps from McGill metro
+  station. 4.3★ (5,173 reviews) — what visitors say, hours, and tips.
+country: Canada
+region: Montreal
+category: restaurant
+pubDate: '2026-11-12T07:49:29.865Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Montreal_Eaton_Centre_Time_Out_Market.jpg/3840px-Montreal_Eaton_Centre_Time_Out_Market.jpg"
-  credit: "Photo: Lumaag / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Montreal_Eaton_Centre_Time_Out_Market.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Montreal_Eaton_Centre_Time_Out_Market.jpg/3840px-Montreal_Eaton_Centre_Time_Out_Market.jpg
+  credit: 'Photo: Lumaag / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Montreal_Eaton_Centre_Time_Out_Market.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJy_cua0QayUwR-HoXFL004ek"
-  name: "Time Out Market Montréal"
-  address: "705 Rue Sainte-Catherine Ouest, Montréal, QC H3B 4G5, Canada"
+  id: ChIJy_cua0QayUwR-HoXFL004ek
+  name: Time Out Market Montréal
+  address: '705 Rue Sainte-Catherine Ouest, Montréal, QC H3B 4G5, Canada'
   rating: 4.3
-  userRatingsTotal: 5171
+  userRatingsTotal: 5173
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16852809267287653112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16852809267287653112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.5027544
   lng: -73.5714715
-  phone: "+1 514-370-3883"
+  phone: +1 514-370-3883
   openingHours:
-    - "Monday: 11:30 AM – 9:00 PM"
-    - "Tuesday: 11:30 AM – 9:00 PM"
-    - "Wednesday: 11:30 AM – 10:00 PM"
-    - "Thursday: 11:30 AM – 10:00 PM"
-    - "Friday: 11:30 AM – 10:00 PM"
-    - "Saturday: 11:30 AM – 10:00 PM"
-    - "Sunday: 11:30 AM – 6:00 PM"
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 6:00 PM'
   busyness:
-    updated: 2026-11-12
+    updated: 2026-11-12T00:00:00.000Z
     weekdayQuiet:
       - 12
       - 13
@@ -54,24 +60,45 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_6b653430304c46586f482d527755796151306175635f794a496843"
+    venueId: ven_6b653430304c46586f482d527755796151306175635f794a496843
 tags:
-  - "montreal"
-  - "street food"
-quickAnswer: "Time Out Market Montréal is a food hall inside Centre Eaton at 705 Rue Sainte-Catherine Ouest, downtown Montreal, a few steps from McGill metro station. Under one roof you'll find counters run by well-known local kitchens, plus bars and shared seating. On weekdays it's calmest between 12pm and 4pm, and from 9pm to 10pm on the nights it stays open late. Avoid weekends between 12pm and 8pm."
+  - montreal
+  - street food
+quickAnswer: >-
+  Time Out Market Montréal is a food hall inside Centre Eaton at 705 Rue
+  Sainte-Catherine Ouest, downtown Montreal, a few steps from McGill metro
+  station. Under one roof you'll find counters run by well-known local kitchens,
+  plus bars and shared seating. On weekdays it's calmest between 12pm and 4pm,
+  and from 9pm to 10pm on the nights it stays open late. Avoid weekends between
+  12pm and 8pm.
 faq:
-  - q: "When is the quietest time to visit Time Out Market Montréal?"
-    a: "On weekdays it's usually calmest from 12pm to 4pm, and from 9pm to 10pm on Wednesday to Friday, when it's open until 10. Avoid weekends from 12pm to 8pm, which is when it's busiest."
-  - q: "How do I get to Time Out Market Montréal?"
-    a: "Take the Green Line to McGill metro station. Indoor passages connect it to Centre Eaton at 705 Rue Sainte-Catherine Ouest, and the market is inside the mall."
-  - q: "Is it open late or on Sundays?"
-    a: "At the moment it opens at 11:30am every day. It closes at 9pm Monday and Tuesday, 10pm Wednesday to Saturday, and 6pm on Sunday."
-  - q: "Do I need a reservation?"
-    a: "No. It's a food hall with shared seating, so you order at each counter and sit wherever there's room. Getting there early or on a weekday afternoon is the way to avoid waiting."
-  - q: "What else is nearby?"
-    a: "Christ Church Cathedral is right next to Centre Eaton. Place Ville Marie, the McGill campus, the McCord Stewart Museum and the Quartier des Spectacles are all within walking distance."
+  - q: When is the quietest time to visit Time Out Market Montréal?
+    a: >-
+      On weekdays it's usually calmest from 12pm to 4pm, and from 9pm to 10pm on
+      Wednesday to Friday, when it's open until 10. Avoid weekends from 12pm to
+      8pm, which is when it's busiest.
+  - q: How do I get to Time Out Market Montréal?
+    a: >-
+      Take the Green Line to McGill metro station. Indoor passages connect it to
+      Centre Eaton at 705 Rue Sainte-Catherine Ouest, and the market is inside
+      the mall.
+  - q: Is it open late or on Sundays?
+    a: >-
+      At the moment it opens at 11:30am every day. It closes at 9pm Monday and
+      Tuesday, 10pm Wednesday to Saturday, and 6pm on Sunday.
+  - q: Do I need a reservation?
+    a: >-
+      No. It's a food hall with shared seating, so you order at each counter and
+      sit wherever there's room. Getting there early or on a weekday afternoon
+      is the way to avoid waiting.
+  - q: What else is nearby?
+    a: >-
+      Christ Church Cathedral is right next to Centre Eaton. Place Ville Marie,
+      the McGill campus, the McCord Stewart Museum and the Quartier des
+      Spectacles are all within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## A food court with a downtown address

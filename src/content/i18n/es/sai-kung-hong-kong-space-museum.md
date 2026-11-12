@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sai-kung-hong-kong-space-museum
-srcHash: 'c5dd2b819ce7'
+srcHash: '0494b9efd898'
 title: 'Museo del Espacio de Hong Kong: guía de viaje de Tsim Sha Tsui (4.2★)'
 description: En pleno paseo marítimo de Kowloon, sobre Salisbury Road (Tsim Sha Tsui), se alza el Museo del Espacio de Hong Kong. Con 4.2★ y 6,972 reseñas, reunimos aquí las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Museo del Espacio de Hong Kong (Hong Kong Space Museum) se encuentra en Salisbury Road, en Tsim Sha Tsui, a orillas del puerto de Kowloon. Bajo su cúpula ovoide y sin ventanas hay un planetario, una sala Omnimax y exposiciones sobre el espacio. Los martes permanece cerrado. Como los fines de semana la mayor afluencia se concentra entre las 12pm y las 7pm, lo ideal es llegar por la mañana, justo cuando abre a las 10am.

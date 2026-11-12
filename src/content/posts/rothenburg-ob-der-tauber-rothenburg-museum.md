@@ -1,56 +1,82 @@
 ---
-title: "Rothenburg Museum: Rothenburg ob der Tauber Travel Guide"
-description: "The Rothenburg Museum sits in a former Dominican convent at Klosterhof 5, a few minutes' walk from the Marktplatz in Rothenburg ob der Tauber's old town. 4.7★ (469 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Rothenburg ob der Tauber"
-category: "attraction"
-pubDate: "2026-10-16T08:07:26.803Z"
+title: 'Rothenburg Museum: Rothenburg ob der Tauber Travel Guide'
+description: >-
+  The Rothenburg Museum sits in a former Dominican convent at Klosterhof 5, a
+  few minutes' walk from the Marktplatz in Rothenburg ob der Tauber's old town.
+  4.7★ (477 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Rothenburg ob der Tauber
+category: attraction
+pubDate: '2026-10-16T08:07:26.803Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg/3840px-Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg"
-  credit: "Photo: Dguendel / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_das_Rothenburg-Museum.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg/3840px-Rothenburg_ob_der_Tauber%2C_das_Rothenburg-Museum.jpg
+  credit: 'Photo: Dguendel / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_das_Rothenburg-Museum.jpg
+  via: act
   focus:
     x: 60
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJeaxWCqePmEcRAD9M4kMuGaU"
-  name: "Rothenburg Museum"
-  address: "Klosterhof 5, 91541 Rothenburg ob der Tauber, Germany"
+  id: ChIJeaxWCqePmEcRAD9M4kMuGaU
+  name: Rothenburg Museum
+  address: 'Klosterhof 5, 91541 Rothenburg ob der Tauber, Germany'
   rating: 4.7
-  userRatingsTotal: 469
-  googleMapsUrl: "https://maps.google.com/?cid=11896590759770210048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 477
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11896590759770210048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.3784147
   lng: 10.176274
-  phone: "+49 9861 939043"
+  phone: +49 9861 939043
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "rothenburg ob der tauber"
-  - "museum"
-quickAnswer: "The Rothenburg Museum sits in a former Dominican convent at Klosterhof 5, a few minutes' walk from the Marktplatz in Rothenburg ob der Tauber's old town. Highlights include the medieval convent kitchen, the Rothenburg Passion panels and the tankard tied to the Meistertrunk legend. Allow 1.5–2 hours. Hours are currently 10am–6pm, but they change with the season, so check the official site before you go."
+  - rothenburg ob der tauber
+  - museum
+quickAnswer: >-
+  The Rothenburg Museum sits in a former Dominican convent at Klosterhof 5, a
+  few minutes' walk from the Marktplatz in Rothenburg ob der Tauber's old town.
+  Highlights include the medieval convent kitchen, the Rothenburg Passion panels
+  and the tankard tied to the Meistertrunk legend. Allow 1.5–2 hours. Hours are
+  currently 10am–6pm, but they change with the season, so check the official
+  site before you go.
 faq:
-  - q: "How long should I spend at the Rothenburg Museum?"
-    a: "Allow 1.5–2 hours. That covers the convent kitchen, the Rothenburg Passion panels, the Meistertrunk tankard and the arms collection without rushing."
-  - q: "What are the opening hours?"
-    a: "At the moment it is open 10am–6pm every day. Hours change with the season and on holidays, so check the museum's official website before you visit."
-  - q: "How do I get there from Rothenburg station?"
-    a: "Walk through the Rödertor into the old town and on to the Marktplatz, about 15–20 minutes. The museum is at Klosterhof 5, just behind St. Jakob's church."
-  - q: "Is it busy?"
-    a: "It is generally quieter than the town's main sights. Many visitors pass it on their way between the Marktplatz and the Plönlein, so it makes a calm stop when the streets are crowded at midday."
-  - q: "What is near the museum?"
-    a: "St. Jakob's church with Riemenschneider's Holy Blood Altar is next door. The Marktplatz, Town Hall, Medieval Crime and Justice Museum and Burggarten are all within a short walk."
+  - q: How long should I spend at the Rothenburg Museum?
+    a: >-
+      Allow 1.5–2 hours. That covers the convent kitchen, the Rothenburg Passion
+      panels, the Meistertrunk tankard and the arms collection without rushing.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it is open 10am–6pm every day. Hours change with the season
+      and on holidays, so check the museum's official website before you visit.
+  - q: How do I get there from Rothenburg station?
+    a: >-
+      Walk through the Rödertor into the old town and on to the Marktplatz,
+      about 15–20 minutes. The museum is at Klosterhof 5, just behind St.
+      Jakob's church.
+  - q: Is it busy?
+    a: >-
+      It is generally quieter than the town's main sights. Many visitors pass it
+      on their way between the Marktplatz and the Plönlein, so it makes a calm
+      stop when the streets are crowded at midday.
+  - q: What is near the museum?
+    a: >-
+      St. Jakob's church with Riemenschneider's Holy Blood Altar is next door.
+      The Marktplatz, Town Hall, Medieval Crime and Justice Museum and
+      Burggarten are all within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## A convent behind St. Jakob

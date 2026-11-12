@@ -1,55 +1,85 @@
 ---
-title: "Sai Kung Public Pier: Travel Guide (4.1★)"
-description: "Sai Kung Public Pier is the waterfront hub of Sai Kung town, where sampan and speedboat operators shuttle visitors to outlying islands and beaches, and tanks of live seafood line the promenade. 4.1★ (9,368 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sai Kung"
-category: "attraction"
-pubDate: "2026-08-12T17:16:02.272Z"
+title: 'Sai Kung Public Pier: Travel Guide (4.2★)'
+description: >-
+  Sai Kung Public Pier is the waterfront hub of Sai Kung town, where sampan and
+  speedboat operators shuttle visitors to outlying islands and beaches, and
+  tanks of live seafood line the promenade. 4.2★ (9,519 reviews) — what visitors
+  say, hours, and tips.
+country: Hong Kong
+region: Sai Kung
+category: attraction
+pubDate: '2026-08-12T17:16:02.272Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sai_Kung_Public_Pier_202506.jpg/3840px-Sai_Kung_Public_Pier_202506.jpg"
-  credit: "Photo: Tombus20032000 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sai_Kung_Public_Pier_202506.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sai_Kung_Public_Pier_202506.jpg/3840px-Sai_Kung_Public_Pier_202506.jpg
+  credit: 'Photo: Tombus20032000 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sai_Kung_Public_Pier_202506.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sai_Kung_New_Public_Pier_202506.jpg/3840px-Sai_Kung_New_Public_Pier_202506.jpg"
-    credit: "Photo: Tombus20032000 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sai_Kung_New_Public_Pier_202506.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sai_Kung_New_Public_Pier_202506.jpg/3840px-Sai_Kung_New_Public_Pier_202506.jpg
+    credit: 'Photo: Tombus20032000 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sai_Kung_New_Public_Pier_202506.jpg
 place:
-  id: "ChIJHy9qB5gFBDQRRLQ-DTV6K-w"
-  name: "Sai Kung Public Pier"
-  address: "Sai Kung, Hong Kong"
-  rating: 4.1
-  userRatingsTotal: 9368
-  googleMapsUrl: "https://maps.google.com/?cid=17017829985223619652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJHy9qB5gFBDQRRLQ-DTV6K-w
+  name: Sai Kung Public Pier
+  address: 'Sai Kung, New Territories, Hong Kong'
+  rating: 4.2
+  userRatingsTotal: 9519
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17017829985223619652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3819824
   lng: 114.2748135
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "sai kung"
-  - "top attraction"
-quickAnswer: "Sai Kung Public Pier is the waterfront hub of Sai Kung town, where sampan and speedboat operators shuttle visitors to outlying islands and beaches, and tanks of live seafood line the promenade. It's open around the clock, but the best time to go is late morning on a weekday before tour boats fill with weekend crowds. Budget 15-30 minutes at the pier itself, plus however long your boat trip or seafood dinner takes."
+  - sai kung
+  - top attraction
+quickAnswer: >-
+  Sai Kung Public Pier is the waterfront hub of Sai Kung town, where sampan and
+  speedboat operators shuttle visitors to outlying islands and beaches, and
+  tanks of live seafood line the promenade. It's open around the clock, but the
+  best time to go is late morning on a weekday before tour boats fill with
+  weekend crowds. Budget 15-30 minutes at the pier itself, plus however long
+  your boat trip or seafood dinner takes.
 faq:
-  - q: "How do I get to Sai Kung Public Pier from central Hong Kong?"
-    a: "Take the MTR to Choi Hung or Hang Hau station, then a green minibus (1A from Choi Hung, 101M from Hang Hau) into Sai Kung town. A taxi from Kowloon takes about 30-40 minutes."
-  - q: "How much do the boat tours cost?"
-    a: "Prices are negotiated directly with sampan and speedboat operators at the pier rather than fixed or ticketed, so it's worth comparing a couple of boats before agreeing on a price and trip length."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday late mornings are calmest, before lunch crowds and weekend day-trippers arrive. Weekend afternoons see the heaviest queues for both boats and seafood restaurants."
-  - q: "How long should I spend at the pier?"
-    a: "The pier itself takes 15-30 minutes to explore, but most visitors combine it with a sampan or speedboat trip lasting anywhere from 30 minutes to a half-day."
-  - q: "Can I eat seafood right at the pier?"
-    a: "Yes — tanks along the promenade sell live seafood by weight, which nearby restaurants will cook to order, a standard local practice rather than a tourist gimmick."
+  - q: How do I get to Sai Kung Public Pier from central Hong Kong?
+    a: >-
+      Take the MTR to Choi Hung or Hang Hau station, then a green minibus (1A
+      from Choi Hung, 101M from Hang Hau) into Sai Kung town. A taxi from
+      Kowloon takes about 30-40 minutes.
+  - q: How much do the boat tours cost?
+    a: >-
+      Prices are negotiated directly with sampan and speedboat operators at the
+      pier rather than fixed or ticketed, so it's worth comparing a couple of
+      boats before agreeing on a price and trip length.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday late mornings are calmest, before lunch crowds and weekend
+      day-trippers arrive. Weekend afternoons see the heaviest queues for both
+      boats and seafood restaurants.
+  - q: How long should I spend at the pier?
+    a: >-
+      The pier itself takes 15-30 minutes to explore, but most visitors combine
+      it with a sampan or speedboat trip lasting anywhere from 30 minutes to a
+      half-day.
+  - q: Can I eat seafood right at the pier?
+    a: >-
+      Yes — tanks along the promenade sell live seafood by weight, which nearby
+      restaurants will cook to order, a standard local practice rather than a
+      tourist gimmick.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## Why go

@@ -1,44 +1,50 @@
 ---
-title: "Polynesian Spa: Rotorua Travel Guide (4.5★)"
-description: "Polynesian Spa sits at the lake end of Hinemoa Street in Rotorua's Lakeside area, a short walk from the city centre. 4.5★ (8,953 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Rotorua"
-category: "attraction"
-pubDate: "2026-10-21T13:29:46.361Z"
+title: 'Polynesian Spa: Rotorua Travel Guide (4.5★)'
+description: >-
+  Polynesian Spa sits at the lake end of Hinemoa Street in Rotorua's Lakeside
+  area, a short walk from the city centre. 4.5★ (8,997 reviews) — what visitors
+  say, hours, and tips.
+country: New Zealand
+region: Rotorua
+category: attraction
+pubDate: '2026-10-21T13:29:46.361Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Day_4-_Polynesian_Spa.jpg/1920px-Day_4-_Polynesian_Spa.jpg"
-  credit: "Photo: Wendy Harman / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Day_4-_Polynesian_Spa.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Day_4-_Polynesian_Spa.jpg/1920px-Day_4-_Polynesian_Spa.jpg
+  credit: 'Photo: Wendy Harman / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Day_4-_Polynesian_Spa.jpg'
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Polynesian_Spa%2C_Rotorua.jpg"
-    credit: "Photo: Holiday Point / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Polynesian_Spa,_Rotorua.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/2f/Polynesian_Spa%2C_Rotorua.jpg
+    credit: 'Photo: Holiday Point / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Polynesian_Spa,_Rotorua.jpg'
 place:
-  id: "ChIJsfUuDoedbm0Rdb71QCAYJgw"
-  name: "Polynesian Spa"
-  address: "1000 Hinemoa Street, Lakeside, Rotorua 3010, New Zealand"
+  id: ChIJsfUuDoedbm0Rdb71QCAYJgw
+  name: Polynesian Spa
+  address: '1000 Hinemoa Street, Lakeside, Rotorua 3010, New Zealand'
   rating: 4.5
-  userRatingsTotal: 8953
-  googleMapsUrl: "https://maps.google.com/?cid=875413704378007157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8997
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=875413704378007157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -38.1378947
   lng: 176.2582214
-  phone: "+64 7 348 1328"
+  phone: +64 7 348 1328
   openingHours:
-    - "Monday: 9:00 AM – 11:00 PM"
-    - "Tuesday: 9:00 AM – 11:00 PM"
-    - "Wednesday: 9:00 AM – 11:00 PM"
-    - "Thursday: 9:00 AM – 11:00 PM"
-    - "Friday: 9:00 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: 9:00 AM – 11:00 PM"
+    - 'Monday: 9:00 AM – 11:00 PM'
+    - 'Tuesday: 9:00 AM – 11:00 PM'
+    - 'Wednesday: 9:00 AM – 11:00 PM'
+    - 'Thursday: 9:00 AM – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-10-21
+    updated: 2026-10-21T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -59,24 +65,43 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_77674a594143513137626452306d6264656f44755566734a496843"
+    venueId: ven_77674a594143513137626452306d6264656f44755566734a496843
 tags:
-  - "rotorua"
-  - "Polynesian Spa"
-quickAnswer: "Polynesian Spa sits at the lake end of Hinemoa Street in Rotorua's Lakeside area, a short walk from the city centre. It has family, adult-only and private geothermal pools, plus spa therapies and a café. It currently opens 9am–11pm. For the calmest soak, go 9am–1pm on a weekday or 10pm–11pm any night, and avoid 3pm–8pm on weekends."
+  - rotorua
+  - Polynesian Spa
+quickAnswer: >-
+  Polynesian Spa sits at the lake end of Hinemoa Street in Rotorua's Lakeside
+  area, a short walk from the city centre. It has family, adult-only and private
+  geothermal pools, plus spa therapies and a café. It currently opens 9am–11pm.
+  For the calmest soak, go 9am–1pm on a weekday or 10pm–11pm any night, and
+  avoid 3pm–8pm on weekends.
 faq:
-  - q: "When is the quietest time to visit Polynesian Spa?"
-    a: "On weekdays it is calmest 9am–1pm and 10pm–11pm. On weekends the quiet windows are 9am–11am and 10pm–11pm. Avoid 3pm–8pm on weekends, the busiest stretch."
-  - q: "Where is Polynesian Spa and can I walk there?"
-    a: "It is at 1000 Hinemoa Street, Lakeside, Rotorua, where the street meets Lake Rotorua next to Government Gardens. From the Tūtānekai Street restaurant area it is roughly a ten-minute walk east."
-  - q: "Do I need to book in advance?"
-    a: "Private pools and spa therapies run on time slots and are worth reserving on the official website, especially at weekends. Book the same way if you have a fixed time in mind."
-  - q: "How long should I spend there?"
-    a: "Allow at least two hours for bathing at a relaxed pace, with breaks between soaks. Add time for a treatment or a meal at the on-site café."
-  - q: "Can children use the pools?"
-    a: "Yes, there is a dedicated family area. The adult-only and lake-facing pools are separate, so families should choose the family entry."
+  - q: When is the quietest time to visit Polynesian Spa?
+    a: >-
+      On weekdays it is calmest 9am–1pm and 10pm–11pm. On weekends the quiet
+      windows are 9am–11am and 10pm–11pm. Avoid 3pm–8pm on weekends, the busiest
+      stretch.
+  - q: Where is Polynesian Spa and can I walk there?
+    a: >-
+      It is at 1000 Hinemoa Street, Lakeside, Rotorua, where the street meets
+      Lake Rotorua next to Government Gardens. From the Tūtānekai Street
+      restaurant area it is roughly a ten-minute walk east.
+  - q: Do I need to book in advance?
+    a: >-
+      Private pools and spa therapies run on time slots and are worth reserving
+      on the official website, especially at weekends. Book the same way if you
+      have a fixed time in mind.
+  - q: How long should I spend there?
+    a: >-
+      Allow at least two hours for bathing at a relaxed pace, with breaks
+      between soaks. Add time for a treatment or a meal at the on-site café.
+  - q: Can children use the pools?
+    a: >-
+      Yes, there is a dedicated family area. The adult-only and lake-facing
+      pools are separate, so families should choose the family entry.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## Where the street runs out at the lake

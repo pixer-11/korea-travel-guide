@@ -1,45 +1,52 @@
 ---
-title: "Stadtmauer Rothenburg: Rothenburg ob der Tauber Travel Guide"
-description: "The Stadtmauer Rothenburg is the medieval town wall around Rothenburg ob der Tauber. 4.8★ (828 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Rothenburg ob der Tauber"
-category: "attraction"
-pubDate: "2026-10-02T14:17:36.740Z"
+title: 'Stadtmauer Rothenburg: Rothenburg ob der Tauber Travel Guide'
+description: >-
+  The Stadtmauer Rothenburg is the medieval town wall around Rothenburg ob der
+  Tauber. 4.8★ (835 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Rothenburg ob der Tauber
+category: attraction
+pubDate: '2026-10-02T14:17:36.740Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg"
-  credit: "Photo: Dguendel / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg
+  credit: 'Photo: Dguendel / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg
+  via: act
   focus:
     x: 55
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rothenburg_ob_der_Tauber_Wehrgang-20130816-RM-144152.jpg/3840px-Rothenburg_ob_der_Tauber_Wehrgang-20130816-RM-144152.jpg"
-    credit: "Photo: Reinhold Möller Ermell / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber_Wehrgang-20130816-RM-144152.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rothenburg_ob_der_Tauber_Wehrgang-20130816-RM-144152.jpg/3840px-Rothenburg_ob_der_Tauber_Wehrgang-20130816-RM-144152.jpg
+    credit: 'Photo: Reinhold Möller Ermell / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber_Wehrgang-20130816-RM-144152.jpg
 place:
-  id: "ChIJGexcNaSPmEcRsUpJ1mBLsS0"
-  name: "Stadtmauer Rothenburg"
-  address: "Röderschütt, 91541 Rothenburg ob der Tauber, Germany"
+  id: ChIJGexcNaSPmEcRsUpJ1mBLsS0
+  name: Stadtmauer Rothenburg
+  address: 'Röderschütt, 91541 Rothenburg ob der Tauber, Germany'
   rating: 4.8
-  userRatingsTotal: 828
-  googleMapsUrl: "https://maps.google.com/?cid=3292495681868614321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 835
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3292495681868614321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.3802302
   lng: 10.1820895
-  phone: "+49 9861 404800"
+  phone: +49 9861 404800
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayBusy:
       - 20
     weekendQuiet:
@@ -55,24 +62,44 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_3053734c426d314a7055735263456d5053614e637865474a496843"
+    venueId: ven_3053734c426d314a7055735263456d5053614e637865474a496843
 tags:
-  - "rothenburg ob der tauber"
-  - "top attraction"
-quickAnswer: "The Stadtmauer Rothenburg is the medieval town wall around Rothenburg ob der Tauber. You can walk long stretches of its covered wooden walkway for free at any hour, and the easiest way up is beside the Rödertor on Röderschütt. Go on a weekend between 9am and 12pm, when it is quietest, and avoid 2pm to 10pm, when it is busiest."
+  - rothenburg ob der tauber
+  - top attraction
+quickAnswer: >-
+  The Stadtmauer Rothenburg is the medieval town wall around Rothenburg ob der
+  Tauber. You can walk long stretches of its covered wooden walkway for free at
+  any hour, and the easiest way up is beside the Rödertor on Röderschütt. Go on
+  a weekend between 9am and 12pm, when it is quietest, and avoid 2pm to 10pm,
+  when it is busiest.
 faq:
-  - q: "When is the quietest time to walk the Stadtmauer Rothenburg?"
-    a: "On weekends it is calmest between 9am and 12pm. It is busiest between 2pm and 10pm, so on a Saturday or Sunday go up in the morning."
-  - q: "Where do I get onto the wall walk?"
-    a: "The handiest staircase is at the Rödertor on Röderschütt, on the east side of town and closest to the train station. You can also climb up at the Galgentor, the Klingentor and the Spitalbastei."
-  - q: "How long does walking the wall take?"
-    a: "The stretch from the Rödertor south to the Spitalbastei takes about an hour at an easy pace with photo stops. Doing the full covered length takes longer, and you have to come down to street level where the walkway breaks along the western cliff."
-  - q: "Is the wall walk open at night?"
-    a: "Yes. It is open 24 hours a day, seven days a week. Remember that people live right below the walkway, so keep your voice down after dark."
-  - q: "Is the wall walk accessible?"
-    a: "Not really. You reach it by steep stairs, the walkway is narrow and the roof beams are low in places, so it doesn't work for wheelchairs or pushchairs."
+  - q: When is the quietest time to walk the Stadtmauer Rothenburg?
+    a: >-
+      On weekends it is calmest between 9am and 12pm. It is busiest between 2pm
+      and 10pm, so on a Saturday or Sunday go up in the morning.
+  - q: Where do I get onto the wall walk?
+    a: >-
+      The handiest staircase is at the Rödertor on Röderschütt, on the east side
+      of town and closest to the train station. You can also climb up at the
+      Galgentor, the Klingentor and the Spitalbastei.
+  - q: How long does walking the wall take?
+    a: >-
+      The stretch from the Rödertor south to the Spitalbastei takes about an
+      hour at an easy pace with photo stops. Doing the full covered length takes
+      longer, and you have to come down to street level where the walkway breaks
+      along the western cliff.
+  - q: Is the wall walk open at night?
+    a: >-
+      Yes. It is open 24 hours a day, seven days a week. Remember that people
+      live right below the walkway, so keep your voice down after dark.
+  - q: Is the wall walk accessible?
+    a: >-
+      Not really. You reach it by steep stairs, the walkway is narrow and the
+      roof beams are low in places, so it doesn't work for wheelchairs or
+      pushchairs.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## A roof over your head, a town at your feet

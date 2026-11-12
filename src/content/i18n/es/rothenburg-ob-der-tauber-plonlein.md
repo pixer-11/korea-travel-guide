@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rothenburg-ob-der-tauber-plonlein
-srcHash: '4a15c5db1171'
+srcHash: '7aafa02c25a4'
 title: 'Plönlein: guía de viaje de Rothenburg ob der Tauber (4.7★)'
-description: 'En el casco antiguo de Rothenburg ob der Tauber, el Plönlein es la esquina donde la calle se divide en dos en torno a una estrecha casa amarilla con entramado de madera: un ramal sube hacia la torre Siebersturm y el otro baja hacia la puerta Kobolzeller Tor. 4.7★ (6,509 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el casco antiguo de Rothenburg ob der Tauber, el Plönlein es la esquina donde la calle se divide en dos en torno a una estrecha casa amarilla con entramado de madera: un ramal sube hacia la torre Siebersturm y el otro baja hacia la puerta Kobolzeller Tor. 4.7★ (6,563 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En el casco antiguo de Rothenburg ob der Tauber, el Plönlein es la esquina donde la calle se divide en dos en torno a una estrecha casa amarilla con entramado de madera: un ramal sube hacia la torre Siebersturm y el otro baja hacia la puerta Kobolzeller Tor. Al ser una calle pública sin ninguna puerta que la cierre, puede visitarse a cualquier hora. Si desea una foto sin los grupos organizados del mediodía, acérquese a primera hora de la mañana o al atardecer.'
 faq:
   - q: ¿Cómo se llega al Plönlein desde la plaza del Mercado (Marktplatz)?

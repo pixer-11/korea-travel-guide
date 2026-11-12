@@ -1,59 +1,89 @@
 ---
-title: "The Avenue of Sphinxes: Luxor Travel Guide (4.7★)"
-description: "The Avenue of Sphinxes in Luxor runs roughly 2.7 km across the East Bank, linking Karnak Temple in the north with Luxor Temple on the Nile Corniche. 4.7★ (972 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "attraction"
-pubDate: "2026-11-12T07:49:28.827Z"
+title: 'The Avenue of Sphinxes: Luxor Travel Guide (4.7★)'
+description: >-
+  The Avenue of Sphinxes in Luxor runs roughly 2.7 km across the East Bank,
+  linking Karnak Temple in the north with Luxor Temple on the Nile Corniche.
+  4.7★ (973 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: attraction
+pubDate: '2026-11-12T07:49:28.827Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/17/The_Avenue_of_Sphinxes_Luxor_Temple_-_panoramio.jpg"
-  credit: "Photo: ianpudsey / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Avenue_of_Sphinxes_Luxor_Temple_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/17/The_Avenue_of_Sphinxes_Luxor_Temple_-_panoramio.jpg
+  credit: 'Photo: ianpudsey / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Avenue_of_Sphinxes_Luxor_Temple_-_panoramio.jpg
+  via: act
   focus:
     x: 30
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Avenue_of_Sphinxes_-_Karnak_Temple_-_Luxor_-_panoramio.jpg"
-    credit: "Photo: ianpudsey / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Avenue_of_Sphinxes_-_Karnak_Temple_-_Luxor_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/bf/Avenue_of_Sphinxes_-_Karnak_Temple_-_Luxor_-_panoramio.jpg
+    credit: 'Photo: ianpudsey / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Avenue_of_Sphinxes_-_Karnak_Temple_-_Luxor_-_panoramio.jpg
 place:
-  id: "ChIJSaVOmBwVSRQRw3poKBIklF0"
-  name: "The Avenue of Sphinxes"
-  address: "طريق معبد الكرنك الي، معبد الأقصر، Karnak, Luxor, Luxor Governorate 1362610, Egypt"
+  id: ChIJSaVOmBwVSRQRw3poKBIklF0
+  name: The Avenue of Sphinxes
+  address: >-
+    طريق معبد الكرنك الي، معبد الأقصر، Karnak, Luxor, Luxor Governorate 1362610,
+    Egypt
   rating: 4.7
-  userRatingsTotal: 972
-  googleMapsUrl: "https://maps.google.com/?cid=6743054202486422211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 973
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6743054202486422211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.7084956
   lng: 32.6487578
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
 tags:
-  - "luxor"
-  - "park"
-quickAnswer: "The Avenue of Sphinxes in Luxor runs roughly 2.7 km across the East Bank, linking Karnak Temple in the north with Luxor Temple on the Nile Corniche. It is currently listed as open 6:00 AM to 5:00 PM, so walk it early, before the heat builds. Allow about an hour on foot, or combine it with a visit to either temple."
+  - luxor
+  - park
+quickAnswer: >-
+  The Avenue of Sphinxes in Luxor runs roughly 2.7 km across the East Bank,
+  linking Karnak Temple in the north with Luxor Temple on the Nile Corniche. It
+  is currently listed as open 6:00 AM to 5:00 PM, so walk it early, before the
+  heat builds. Allow about an hour on foot, or combine it with a visit to either
+  temple.
 faq:
-  - q: "How long is the Avenue of Sphinxes and how long does it take to walk?"
-    a: "It runs about 2.7 km between Karnak Temple and Luxor Temple. Walking the full length takes roughly 40–60 minutes, longer with photo stops."
-  - q: "What are the opening hours?"
-    a: "Google currently lists 6:00 AM to 5:00 PM every day. Egyptian heritage sites adjust their hours by season, so check at the ticket office before you go."
-  - q: "Which end should I start from?"
-    a: "Start at Luxor Temple on the Corniche for the best-preserved human-headed sphinxes. Walk north to finish at the ram-headed sphinxes outside Karnak, then go into Karnak itself."
-  - q: "When is the best time of day to walk it?"
-    a: "Go right after the 6:00 AM opening. There is almost no shade along the route, and by midday the heat makes the walk hard going for much of the year."
-  - q: "What else is nearby?"
-    a: "Karnak Temple sits at the northern end and Luxor Temple at the southern end. The ferry landing for the West Bank, where you'll find the Valley of the Kings, is a short walk from Luxor Temple."
+  - q: How long is the Avenue of Sphinxes and how long does it take to walk?
+    a: >-
+      It runs about 2.7 km between Karnak Temple and Luxor Temple. Walking the
+      full length takes roughly 40–60 minutes, longer with photo stops.
+  - q: What are the opening hours?
+    a: >-
+      Google currently lists 6:00 AM to 5:00 PM every day. Egyptian heritage
+      sites adjust their hours by season, so check at the ticket office before
+      you go.
+  - q: Which end should I start from?
+    a: >-
+      Start at Luxor Temple on the Corniche for the best-preserved human-headed
+      sphinxes. Walk north to finish at the ram-headed sphinxes outside Karnak,
+      then go into Karnak itself.
+  - q: When is the best time of day to walk it?
+    a: >-
+      Go right after the 6:00 AM opening. There is almost no shade along the
+      route, and by midday the heat makes the walk hard going for much of the
+      year.
+  - q: What else is nearby?
+    a: >-
+      Karnak Temple sits at the northern end and Luxor Temple at the southern
+      end. The ferry landing for the West Bank, where you'll find the Valley of
+      the Kings, is a short walk from Luxor Temple.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## A processional road between two temples

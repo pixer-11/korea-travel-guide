@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rotorua-kuirau-park
-srcHash: 'd361795397e1'
+srcHash: '389314e32c3f'
 title: 'Parque Kuirau (Kuirau Park): guía de viaje de Rotorua (4.5★)'
-description: 'En el extremo occidental del centro de Rotorua, a pocos pasos de Fenton Street y del i-SITE, se encuentra el parque Kuirau, un parque geotérmico público y gratuito. 4.5★ (3,687 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo occidental del centro de Rotorua, a pocos pasos de Fenton Street y del i-SITE, se encuentra el parque Kuirau, un parque geotérmico público y gratuito. 4.5★ (3,700 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el extremo occidental del centro de Rotorua, a pocos minutos a pie de Fenton Street y del i-SITE, se encuentra el parque Kuirau, un parque geotérmico público y gratuito. Merece la visita por su lago humeante y sus pozas de lodo hirviente protegidas con vallas. También tiene pozas termales para los pies, donde puede sentarse sin pagar nada. Con una hora basta para recorrerlo, aunque el sábado conviene dedicarle la mañana, porque ese día el mercado se instala en el parque.
 faq:
   - q: ¿Hay que pagar para entrar en el parque Kuirau?

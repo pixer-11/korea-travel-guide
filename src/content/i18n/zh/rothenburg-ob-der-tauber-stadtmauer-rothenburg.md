@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: rothenburg-ob-der-tauber-stadtmauer-rothenburg
-srcHash: '47cea4f5455c'
+srcHash: '909866e8a545'
 title: 罗滕堡城墙：陶伯河上游罗滕堡旅行指南
-description: 罗滕堡城墙（Stadtmauer Rothenburg）是环绕陶伯河上游罗滕堡的中世纪城墙，评分4.8★（828条评价）。本文汇总游客评价、开放时间与游览建议。
+description: 罗滕堡城墙（Stadtmauer Rothenburg）是环绕陶伯河上游罗滕堡的中世纪城墙，评分4.8★（835条评价）。本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 罗滕堡城墙（Stadtmauer Rothenburg）是环绕陶伯河上游罗滕堡（Rothenburg ob der Tauber）的中世纪城墙。城墙上有带顶棚的木质步道，大部分路段全天候免费开放，最方便的登墙处在Röderschütt街的勒德门（Rödertor）旁。周末上午9点至中午12点人最少，最适合前往；下午2点至晚上10点最拥挤，最好避开。
 faq:
   - q: 什么时候去罗滕堡城墙人最少？

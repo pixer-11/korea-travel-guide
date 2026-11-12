@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: montreal-time-out-market-montreal
-srcHash: '9198ae8ba280'
+srcHash: 'cf53a060dc8d'
 title: 'Time Out Market Montréal: dónde comer en Montreal (4.3★)'
-description: En el interior del Centre Eaton, en el 705 Rue Sainte-Catherine Ouest y a pocos pasos de la estación de metro McGill, se encuentra Time Out Market Montréal, un mercado gastronómico del centro de Montreal. Con 4.3★ (5,171 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En el interior del Centre Eaton, en el 705 Rue Sainte-Catherine Ouest y a pocos pasos de la estación de metro McGill, se encuentra Time Out Market Montréal, un mercado gastronómico del centro de Montreal. Con 4.3★ (5,173 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En pleno centro de Montreal, dentro del Centre Eaton (705 Rue Sainte-Catherine Ouest) y a pocos pasos de la estación de metro McGill, se encuentra el mercado gastronómico Time Out Market Montréal. Bajo un mismo techo reúne puestos de cocinas locales de renombre, además de bares y mesas compartidas. Entre semana, los momentos más tranquilos son de 12pm a 4pm y, las noches en que cierra tarde, de 9pm a 10pm. Conviene evitar los fines de semana entre las 12pm y las 8pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Time Out Market Montréal?

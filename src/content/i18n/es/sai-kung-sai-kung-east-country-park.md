@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sai-kung-sai-kung-east-country-park
-srcHash: '1747f82dc580'
+srcHash: '12848ab4d911'
 title: 'Sai Kung East Country Park: Guía de Viaje (4.5★)'
-description: 'Sai Kung East Country Park es una extensa zona montañosa de los Nuevos Territorios situada al este de la localidad de Sai Kung, que abarca el embalse de High Island (High Island Reservoir), las columnas volcánicas hexagonales de la región volcánica de Sai Kung (Sai Kung Volcanic Rock Region) y playas como Long Ke y Tai Long Wan. 4.5★ (2,192 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Sai Kung East Country Park es una extensa zona montañosa de los Nuevos Territorios situada al este de la localidad de Sai Kung, que abarca el embalse de High Island (High Island Reservoir), las columnas volcánicas hexagonales de la región volcánica de Sai Kung (Sai Kung Volcanic Rock Region) y playas como Long Ke y Tai Long Wan. 4.5★ (2,194 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Sai Kung East Country Park es una extensa zona montañosa de los Nuevos Territorios situada al este de la localidad de Sai Kung, que abarca el embalse de High Island (High Island Reservoir), las columnas volcánicas hexagonales de la región volcánica de Sai Kung (Sai Kung Volcanic Rock Region) y playas como Long Ke y Tai Long Wan. Permanece abierto las 24 horas durante todo el año, aunque los meses más frescos (de octubre a marzo) son los mejores para recorrer los tramos del Maclehose Trail que lo atraviesan. La mayoría de los visitantes llega en minibús o furgoneta contratada desde la localidad de Sai Kung, ya que el transporte público dentro del propio parque es muy limitado.
 faq:
   - q: ¿Cómo llego a Sai Kung East Country Park sin coche?

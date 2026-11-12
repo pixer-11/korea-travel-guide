@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-the-avenue-of-sphinxes
-srcHash: 'cc955ead6ab8'
+srcHash: '23237d9c474b'
 title: 'La Avenida de las Esfinges: guía de viaje de Luxor (4.7★)'
-description: 'Con unos 2,7 km de recorrido por la orilla oriental de Luxor, la Avenida de las Esfinges une el templo de Karnak, al norte, con el templo de Luxor, junto a la Corniche del Nilo. Valoración de 4.7★ (972 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Con unos 2,7 km de recorrido por la orilla oriental de Luxor, la Avenida de las Esfinges une el templo de Karnak, al norte, con el templo de Luxor, junto a la Corniche del Nilo. Valoración de 4.7★ (973 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Con unos 2,7 km de recorrido por la orilla oriental de Luxor, la Avenida de las Esfinges une el templo de Karnak, al norte, con el templo de Luxor, situado junto a la Corniche del Nilo. Según el horario publicado actualmente, abre de 6:00 AM a 5:00 PM, de modo que conviene recorrerla temprano, antes de que apriete el calor. A pie se tarda alrededor de una hora; también puede combinarse con la visita a cualquiera de los dos templos.
 faq:
   - q: ¿Qué longitud tiene la Avenida de las Esfinges y cuánto se tarda en recorrerla a pie?

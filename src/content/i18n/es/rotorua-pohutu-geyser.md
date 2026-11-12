@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rotorua-pohutu-geyser
-srcHash: 'c41662067907'
+srcHash: 'cb8af71f8a08'
 title: 'Géiser Pohutu: guía de viaje de Rotorua (4.6★)'
-description: El géiser Pohutu se encuentra dentro de Te Puia, en 20 Hemo Road, en el valle geotérmico de Whakarewarewa, unos 3km al sur del centro de Rotorua. Con 4.6★ (1,227 reseñas), le contamos qué opinan los visitantes y le damos horarios y consejos.
+description: El géiser Pohutu se encuentra dentro de Te Puia, en 20 Hemo Road, en el valle geotérmico de Whakarewarewa, unos 3km al sur del centro de Rotorua. Con 4.6★ (1,261 reseñas), le contamos qué opinan los visitantes y le damos horarios y consejos.
 quickAnswer: El géiser Pohutu se encuentra dentro de Te Puia, en 20 Hemo Road, en pleno valle geotérmico de Whakarewarewa, a unos 3km al sur del centro de Rotorua. Es el mayor géiser de Nueva Zelanda y entra en erupción muchas veces al día. Si reserva al menos una hora para quedarse en los miradores, lo verá en acción casi con total seguridad. El horario actual es de 9am a 4pm, aunque varía a lo largo del año, de modo que conviene consultar en la web oficial de Te Puia el horario de este mes.
 faq:
   - q: ¿Con qué frecuencia entra en erupción el géiser Pohutu?

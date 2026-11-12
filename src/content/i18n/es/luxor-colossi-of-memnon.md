@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-colossi-of-memnon
-srcHash: '5d3101d5111b'
+srcHash: '97e475bf73ae'
 title: 'Colosos de Memnón: guía de viaje de Luxor (4.6★)'
-description: En la orilla occidental de Luxor, junto a la carretera principal que une el Nilo con el Valle de los Reyes, Medinet Habu y el Rameseum, se alzan los Colosos de Memnón. Con una valoración de 4.6★ (12,003 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: En la orilla occidental de Luxor, junto a la carretera principal que une el Nilo con el Valle de los Reyes, Medinet Habu y el Rameseum, se alzan los Colosos de Memnón. Con una valoración de 4.6★ (12,008 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: En la orilla occidental de Luxor, junto a la carretera principal que va del Nilo al Valle de los Reyes, Medinet Habu y el Rameseum, se alzan los Colosos de Memnón. Calcule entre 20 y 30 minutos de visita y acuda a primera hora de la mañana, antes de que apriete el calor. Como la mayoría de las excursiones empiezan por aquí, conviene reservar algo de tiempo para esperar a que se marche algún grupo de autocar.
 faq:
   - q: ¿Dónde se encuentran exactamente los Colosos de Memnón?

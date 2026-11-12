@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: montreal-time-out-market-montreal
-srcHash: '9198ae8ba280'
+srcHash: 'cf53a060dc8d'
 title: '타임아웃 마켓 몬트리올: 몬트리올에서 꼭 가 볼 만한 맛집 (4.3★)'
 description: 타임아웃 마켓 몬트리올은 몬트리올 도심 이튼 센터(Centre Eaton, 705 Rue Sainte-Catherine Ouest) 안에 있는 푸드홀로, 맥길(McGill) 지하철역에서 몇 걸음이면 닿습니다. 리뷰 5,171개, 평점 4.3★인 이곳의 방문객 평가와 영업시간, 이용 팁을 정리했습니다.
 quickAnswer: 타임아웃 마켓 몬트리올(Time Out Market Montréal)은 몬트리올 도심 이튼 센터(Centre Eaton, 705 Rue Sainte-Catherine Ouest) 안에 자리한 푸드홀입니다. 맥길(McGill) 지하철역에서 몇 걸음이면 닿습니다. 현지에서 이름난 주방들이 운영하는 매장과 바, 함께 앉는 공용 좌석이 한 지붕 아래 모여 있습니다. 평일에는 낮 12시부터 오후 4시 사이가 가장 한산하고, 늦게까지 문을 여는 날에는 오후 9시부터 10시 사이도 여유롭습니다. 주말 낮 12시부터 오후 8시 사이는 피하는 편이 좋습니다.

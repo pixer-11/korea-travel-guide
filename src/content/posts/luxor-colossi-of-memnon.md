@@ -1,50 +1,77 @@
 ---
-title: "Colossi of Memnon: Luxor Travel Guide (4.6★)"
-description: "The Colossi of Memnon stand on Luxor's West Bank, beside the main road from the Nile toward the Valley of the Kings, Medinet Habu and the Ramesseum. 4.6★ (12,003 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "attraction"
-pubDate: "2026-11-12T07:49:27.790Z"
+title: 'Colossi of Memnon: Luxor Travel Guide (4.6★)'
+description: >-
+  The Colossi of Memnon stand on Luxor's West Bank, beside the main road from
+  the Nile toward the Valley of the Kings, Medinet Habu and the Ramesseum. 4.6★
+  (12,008 reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: attraction
+pubDate: '2026-11-12T07:49:27.790Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Colossi_of_Memnon_May_2015_2.JPG/1920px-Colossi_of_Memnon_May_2015_2.JPG"
-  credit: "Photo: MusikAnimal / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Colossi_of_Memnon_May_2015_2.JPG/1920px-Colossi_of_Memnon_May_2015_2.JPG
+  credit: 'Photo: MusikAnimal / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/68/Colossi_of_Memnon_R02.jpg"
-    credit: "Photo: Marc Ryckaert (MJJR) / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_R02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/68/Colossi_of_Memnon_R02.jpg
+    credit: 'Photo: Marc Ryckaert (MJJR) / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_R02.jpg'
 place:
-  id: "ChIJCQiffGsWSRQRO-o7fYKJVwc"
-  name: "Colossi of Memnon"
-  address: "Luxor, Al Bairat, Al Qarna, Luxor Governorate 1341703, Egypt"
+  id: ChIJCQiffGsWSRQRO-o7fYKJVwc
+  name: Colossi of Memnon
+  address: 'Luxor, Al Bairat, Al Qarna, Luxor Governorate 1341703, Egypt'
   rating: 4.6
-  userRatingsTotal: 12003
-  googleMapsUrl: "https://maps.google.com/?cid=529042674779155003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12008
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=529042674779155003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.7203984
   lng: 32.6104276
 tags:
-  - "luxor"
-  - "historic site"
-quickAnswer: "The Colossi of Memnon stand on Luxor's West Bank, beside the main road from the Nile toward the Valley of the Kings, Medinet Habu and the Ramesseum. Plan 20 to 30 minutes and go early in the morning, before the heat. Most tours stop here first, so build in time to wait until a coach group moves on."
+  - luxor
+  - historic site
+quickAnswer: >-
+  The Colossi of Memnon stand on Luxor's West Bank, beside the main road from
+  the Nile toward the Valley of the Kings, Medinet Habu and the Ramesseum. Plan
+  20 to 30 minutes and go early in the morning, before the heat. Most tours stop
+  here first, so build in time to wait until a coach group moves on.
 faq:
-  - q: "Where exactly are the Colossi of Memnon?"
-    a: "They're on Luxor's West Bank in the Al Qarna area. They sit right beside the main road that runs from the Nile toward the Valley of the Kings, so most West Bank tours pass them on the way in."
-  - q: "How long should I spend at the Colossi of Memnon?"
-    a: "Around 20 to 30 minutes is enough to walk round both statues, see the smaller royal figures and read some of the Roman-era graffiti. Allow longer if you want to watch the excavation behind them."
-  - q: "What is the best time of day to visit?"
-    a: "Early morning. There's almost no shade, the east-facing statues get the best light after sunrise, and the hot-air balloons often float past in the background. It's also when you can fit the stop in before the Valley of the Kings."
-  - q: "Do the Colossi of Memnon still sing?"
-    a: "No. After an earthquake in 27 BC cracked it, the northern statue gave off a sound around dawn, but it went quiet after Roman repairs, traditionally credited to Septimius Severus."
-  - q: "What else is nearby?"
-    a: "Medinet Habu is a short drive south, and the Ramesseum and Deir el-Medina are close as well. The Valley of the Kings and Hatshepsut's temple at Deir el-Bahari are a little further into the hills."
+  - q: Where exactly are the Colossi of Memnon?
+    a: >-
+      They're on Luxor's West Bank in the Al Qarna area. They sit right beside
+      the main road that runs from the Nile toward the Valley of the Kings, so
+      most West Bank tours pass them on the way in.
+  - q: How long should I spend at the Colossi of Memnon?
+    a: >-
+      Around 20 to 30 minutes is enough to walk round both statues, see the
+      smaller royal figures and read some of the Roman-era graffiti. Allow
+      longer if you want to watch the excavation behind them.
+  - q: What is the best time of day to visit?
+    a: >-
+      Early morning. There's almost no shade, the east-facing statues get the
+      best light after sunrise, and the hot-air balloons often float past in the
+      background. It's also when you can fit the stop in before the Valley of
+      the Kings.
+  - q: Do the Colossi of Memnon still sing?
+    a: >-
+      No. After an earthquake in 27 BC cracked it, the northern statue gave off
+      a sound around dawn, but it went quiet after Roman repairs, traditionally
+      credited to Septimius Severus.
+  - q: What else is nearby?
+    a: >-
+      Medinet Habu is a short drive south, and the Ramesseum and Deir el-Medina
+      are close as well. The Valley of the Kings and Hatshepsut's temple at Deir
+      el-Bahari are a little further into the hills.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## Two kings in a field of sugar cane

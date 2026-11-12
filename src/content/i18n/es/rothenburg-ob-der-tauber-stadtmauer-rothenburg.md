@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rothenburg-ob-der-tauber-stadtmauer-rothenburg
-srcHash: '47cea4f5455c'
+srcHash: '909866e8a545'
 title: 'Muralla de Rothenburg (Stadtmauer): guía de viaje de Rothenburg ob der Tauber'
-description: 'La muralla de Rothenburg (Stadtmauer) es el recinto medieval que rodea Rothenburg ob der Tauber. Valoración de 4.8★ (828 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La muralla de Rothenburg (Stadtmauer) es el recinto medieval que rodea Rothenburg ob der Tauber. Valoración de 4.8★ (835 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La muralla de Rothenburg (Stadtmauer) es el recinto medieval que rodea Rothenburg ob der Tauber. Su adarve de madera, cubierto por un tejado, puede recorrerse en largos tramos de forma gratuita y a cualquier hora. El acceso más sencillo está junto al Rödertor, en Röderschütt. Si va en fin de semana, la franja más tranquila es entre las 9am y las 12pm; conviene evitar la de 2pm a 10pm, que es cuando más gente hay.
 faq:
   - q: ¿Cuál es el momento más tranquilo para recorrer la muralla de Rothenburg?

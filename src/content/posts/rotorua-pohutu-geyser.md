@@ -1,58 +1,89 @@
 ---
-title: "Pohutu Geyser: Rotorua Travel Guide (4.6★)"
-description: "Pohutu Geyser sits inside Te Puia at 20 Hemo Road in Rotorua's Whakarewarewa geothermal valley, about 3km south of the city centre. 4.6★ (1,227 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Rotorua"
-category: "attraction"
-pubDate: "2026-10-20T14:48:11.179Z"
+title: 'Pohutu Geyser: Rotorua Travel Guide (4.6★)'
+description: >-
+  Pohutu Geyser sits inside Te Puia at 20 Hemo Road in Rotorua's Whakarewarewa
+  geothermal valley, about 3km south of the city centre. 4.6★ (1,261 reviews) —
+  what visitors say, hours, and tips.
+country: New Zealand
+region: Rotorua
+category: attraction
+pubDate: '2026-10-20T14:48:11.179Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Priroda_Aotearoe.jpg/1920px-Priroda_Aotearoe.jpg"
-  credit: "Photo: August Dominus / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Priroda_Aotearoe.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Priroda_Aotearoe.jpg/1920px-Priroda_Aotearoe.jpg
+  credit: 'Photo: August Dominus / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Priroda_Aotearoe.jpg'
   focus:
     x: 60
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2018-12-30_160446_Pohutu_Geyser_Whakarewarewa_Village_anagoria.jpg/3840px-2018-12-30_160446_Pohutu_Geyser_Whakarewarewa_Village_anagoria.jpg"
-    credit: "Photo: Anagoria / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2018-12-30_160446_Pohutu_Geyser_Whakarewarewa_Village_anagoria.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2018-12-30_160446_Pohutu_Geyser_Whakarewarewa_Village_anagoria.jpg/3840px-2018-12-30_160446_Pohutu_Geyser_Whakarewarewa_Village_anagoria.jpg
+    credit: 'Photo: Anagoria / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:2018-12-30_160446_Pohutu_Geyser_Whakarewarewa_Village_anagoria.jpg
 place:
-  id: "ChIJnY8moFcnbG0R-r9L-pPgEPo"
-  name: "Pohutu Geyser"
-  address: "20 Hemo Road, Rotorua 3010, New Zealand"
+  id: ChIJnY8moFcnbG0R-r9L-pPgEPo
+  name: Pohutu Geyser
+  address: '20 Hemo Road, Rotorua 3010, New Zealand'
   rating: 4.6
-  userRatingsTotal: 1227
-  googleMapsUrl: "https://maps.google.com/?cid=18019149035273437178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1261
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18019149035273437178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -38.163513099999996
   lng: 176.25402549999998
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
 tags:
-  - "rotorua"
-  - "Te Puia"
-quickAnswer: "Pohutu Geyser sits inside Te Puia at 20 Hemo Road in Rotorua's Whakarewarewa geothermal valley, about 3km south of the city centre. It's New Zealand's largest geyser and erupts many times a day, so plan on at least an hour on the viewing decks and you'll almost always see it go. Hours currently run 9am–4pm, but they change through the year, so check Te Puia's official site for this month's times."
+  - rotorua
+  - Te Puia
+quickAnswer: >-
+  Pohutu Geyser sits inside Te Puia at 20 Hemo Road in Rotorua's Whakarewarewa
+  geothermal valley, about 3km south of the city centre. It's New Zealand's
+  largest geyser and erupts many times a day, so plan on at least an hour on the
+  viewing decks and you'll almost always see it go. Hours currently run 9am–4pm,
+  but they change through the year, so check Te Puia's official site for this
+  month's times.
 faq:
-  - q: "How often does Pohutu Geyser erupt?"
-    a: "Many times a day, but not to a fixed schedule. If the Prince of Wales' Feathers geyser next to it starts to build, Pohutu often follows soon after. An hour on the viewing decks usually gives you a good chance of seeing it."
-  - q: "How do I get to Pohutu Geyser from central Rotorua?"
-    a: "Pohutu is inside Te Puia at 20 Hemo Road, about 3km south of the city centre. It's a short drive down Fenton Street, with parking at the entrance, or a flat walk of around 40 minutes. You enter through Te Puia's gate."
-  - q: "What are the opening hours?"
-    a: "Right now Te Puia shows 9am–4pm every day. Hours change through the year and there are separate evening experiences, so check Te Puia's official site for this month's times."
-  - q: "How long should I spend there?"
-    a: "Allow an hour if you only want to see the geyser. Allow two to three hours to also walk the mud pools and terraces, see the kiwi house, and watch the carvers and weavers at the New Zealand Māori Arts and Crafts Institute."
-  - q: "What else is nearby?"
-    a: "Whakarewarewa: The Living Māori Village sits across the valley, and the Redwoods Whakarewarewa Forest is a few minutes east. Kuirau Park and Lake Rotorua are back toward the city centre."
+  - q: How often does Pohutu Geyser erupt?
+    a: >-
+      Many times a day, but not to a fixed schedule. If the Prince of Wales'
+      Feathers geyser next to it starts to build, Pohutu often follows soon
+      after. An hour on the viewing decks usually gives you a good chance of
+      seeing it.
+  - q: How do I get to Pohutu Geyser from central Rotorua?
+    a: >-
+      Pohutu is inside Te Puia at 20 Hemo Road, about 3km south of the city
+      centre. It's a short drive down Fenton Street, with parking at the
+      entrance, or a flat walk of around 40 minutes. You enter through Te Puia's
+      gate.
+  - q: What are the opening hours?
+    a: >-
+      Right now Te Puia shows 9am–4pm every day. Hours change through the year
+      and there are separate evening experiences, so check Te Puia's official
+      site for this month's times.
+  - q: How long should I spend there?
+    a: >-
+      Allow an hour if you only want to see the geyser. Allow two to three hours
+      to also walk the mud pools and terraces, see the kiwi house, and watch the
+      carvers and weavers at the New Zealand Māori Arts and Crafts Institute.
+  - q: What else is nearby?
+    a: >-
+      Whakarewarewa: The Living Māori Village sits across the valley, and the
+      Redwoods Whakarewarewa Forest is a few minutes east. Kuirau Park and Lake
+      Rotorua are back toward the city centre.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 Steam is the constant here. It drifts off the silica terraces of the Whakarewarewa valley in sheets, and the ground under the boardwalk is pale, crusted and warm. Then, with very little warning, a column of boiling water climbs out of a vent in the rock and keeps climbing.

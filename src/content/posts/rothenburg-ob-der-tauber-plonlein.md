@@ -1,60 +1,89 @@
 ---
-title: "Plönlein: Rothenburg ob der Tauber Travel Guide (4.7★)"
-description: "Plönlein is the forked street corner in Rothenburg ob der Tauber's old town, where a narrow yellow half-timbered house sits between two lanes, one climbing to the Siebersturm and one dropping to the Kobolzeller Tor. 4.7★ (6,509 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Rothenburg ob der Tauber"
-category: "attraction"
-pubDate: "2026-10-17T07:46:11.870Z"
+title: 'Plönlein: Rothenburg ob der Tauber Travel Guide (4.7★)'
+description: >-
+  Plönlein is the forked street corner in Rothenburg ob der Tauber's old town,
+  where a narrow yellow half-timbered house sits between two lanes, one climbing
+  to the Siebersturm and one dropping to the Kobolzeller Tor. 4.7★ (6,563
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Rothenburg ob der Tauber
+category: attraction
+pubDate: '2026-10-17T07:46:11.870Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/00/Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_-_panoramio.jpg"
-  credit: "Photo: Ralf Houven / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Pl%C3%B6nlein_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/00/Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_-_panoramio.jpg
+  credit: 'Photo: Ralf Houven / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Pl%C3%B6nlein_-_panoramio.jpg
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_%284%29.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_%284%29.jpg"
-    credit: "Photo: Palickap / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Pl%C3%B6nlein_(4).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_%284%29.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Pl%C3%B6nlein_%284%29.jpg
+    credit: 'Photo: Palickap / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Rothenburg_ob_der_Tauber,_Pl%C3%B6nlein_(4).jpg
 place:
-  id: "ChIJw2hyTK-PmEcRUSD1dlnW3S0"
-  name: "Plönlein"
-  address: "u. Schmiedgasse, 91541 Rothenburg ob der Tauber, Germany"
+  id: ChIJw2hyTK-PmEcRUSD1dlnW3S0
+  name: Plönlein
+  address: 'u. Schmiedgasse, 91541 Rothenburg ob der Tauber, Germany'
   rating: 4.7
-  userRatingsTotal: 6509
-  googleMapsUrl: "https://maps.google.com/?cid=3305033381296021585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6563
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3305033381296021585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.374435899999995
   lng: 10.180105
-  phone: "+49 9861 404800"
+  phone: +49 9861 404800
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "rothenburg ob der tauber"
-  - "historic site"
-quickAnswer: "Plönlein is the forked street corner in Rothenburg ob der Tauber's old town, where a narrow yellow half-timbered house sits between two lanes, one climbing to the Siebersturm and one dropping to the Kobolzeller Tor. It's a public street with no gate, so you can visit at any hour. Come early in the morning or in the evening to get a photo without the midday tour groups."
+  - rothenburg ob der tauber
+  - historic site
+quickAnswer: >-
+  Plönlein is the forked street corner in Rothenburg ob der Tauber's old town,
+  where a narrow yellow half-timbered house sits between two lanes, one climbing
+  to the Siebersturm and one dropping to the Kobolzeller Tor. It's a public
+  street with no gate, so you can visit at any hour. Come early in the morning
+  or in the evening to get a photo without the midday tour groups.
 faq:
-  - q: "How do I get to Plönlein from the Marktplatz?"
-    a: "Walk south along Obere Schmiedgasse into Untere Schmiedgasse. It takes about five minutes, all downhill and on cobbles. Plönlein is the fork at the bottom of the street."
-  - q: "Is Plönlein open at night?"
-    a: "Yes. It's a public street with no gate, so you can come at any hour. Early morning and evening are the calmest times for photos, because the coach groups come through from mid-morning."
-  - q: "How long should I spend at Plönlein?"
-    a: "About 15–20 minutes for photos. Allow an hour if you also walk through the Siebersturm to the Kobolzeller Tor and the Spitaltor."
-  - q: "What is the yellow house at Plönlein?"
-    a: "It's a narrow half-timbered house standing in the wedge where the street splits. The upper lane goes to the Siebersturm and the lower one, Kobolzeller Steige, goes down to the Kobolzeller Tor."
-  - q: "What is near Plönlein?"
-    a: "The Siebersturm, the Kobolzeller Tor, the Spitaltor with its walkable town walls, and the Marktplatz with the Rathaus. All of them are within a few minutes' walk."
+  - q: How do I get to Plönlein from the Marktplatz?
+    a: >-
+      Walk south along Obere Schmiedgasse into Untere Schmiedgasse. It takes
+      about five minutes, all downhill and on cobbles. Plönlein is the fork at
+      the bottom of the street.
+  - q: Is Plönlein open at night?
+    a: >-
+      Yes. It's a public street with no gate, so you can come at any hour. Early
+      morning and evening are the calmest times for photos, because the coach
+      groups come through from mid-morning.
+  - q: How long should I spend at Plönlein?
+    a: >-
+      About 15–20 minutes for photos. Allow an hour if you also walk through the
+      Siebersturm to the Kobolzeller Tor and the Spitaltor.
+  - q: What is the yellow house at Plönlein?
+    a: >-
+      It's a narrow half-timbered house standing in the wedge where the street
+      splits. The upper lane goes to the Siebersturm and the lower one,
+      Kobolzeller Steige, goes down to the Kobolzeller Tor.
+  - q: What is near Plönlein?
+    a: >-
+      The Siebersturm, the Kobolzeller Tor, the Spitaltor with its walkable town
+      walls, and the Marktplatz with the Rathaus. All of them are within a few
+      minutes' walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## Where the lane splits in two

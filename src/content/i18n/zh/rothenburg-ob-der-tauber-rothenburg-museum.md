@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: rothenburg-ob-der-tauber-rothenburg-museum
-srcHash: 'f7931b9fc8f9'
+srcHash: '1d94e3ed6c5e'
 title: 罗滕堡博物馆：陶伯河上游罗滕堡旅行指南
-description: 罗滕堡博物馆位于 Klosterhof 5，馆舍原是一座多明我会女修道院，从陶伯河上游罗滕堡（Rothenburg ob der Tauber）老城的集市广场（Marktplatz）步行过去只要几分钟。评分4.7★（469条评价），本文整理了游客评价、开放时间和参观建议。
+description: 罗滕堡博物馆位于 Klosterhof 5，馆舍原是一座多明我会女修道院，从陶伯河上游罗滕堡（Rothenburg ob der Tauber）老城的集市广场（Marktplatz）步行过去只要几分钟。评分4.7★（477条评价），本文整理了游客评价、开放时间和参观建议。
 quickAnswer: 罗滕堡博物馆位于 Klosterhof 5，馆舍原是一座多明我会女修道院，从陶伯河上游罗滕堡老城的集市广场步行过去只要几分钟。中世纪修道院厨房、《罗滕堡受难图》组画和与“豪饮传说”（Meistertrunk）有关的大酒杯，都是不容错过的看点。建议留出1.5–2小时。目前开放时间为上午10点至下午6点，但会随季节调整，出发前请先查看官网。
 faq:
   - q: 罗滕堡博物馆需要参观多长时间？

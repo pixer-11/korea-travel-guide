@@ -1,60 +1,85 @@
 ---
-title: "Kuirau Park: Rotorua Travel Guide (4.5★)"
-description: "Kuirau Park is a free public geothermal park on the western edge of central Rotorua, a short walk from Fenton Street and the i-SITE. 4.5★ (3,687 reviews) — what visitors say, hours, and tips."
-country: "New Zealand"
-region: "Rotorua"
-category: "attraction"
-pubDate: "2026-10-20T14:48:09.121Z"
+title: 'Kuirau Park: Rotorua Travel Guide (4.5★)'
+description: >-
+  Kuirau Park is a free public geothermal park on the western edge of central
+  Rotorua, a short walk from Fenton Street and the i-SITE. 4.5★ (3,700 reviews)
+  — what visitors say, hours, and tips.
+country: New Zealand
+region: Rotorua
+category: attraction
+pubDate: '2026-10-20T14:48:09.121Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/73/Kuirau_Park_in_Rotorua_01.jpg"
-  credit: "Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kuirau_Park_in_Rotorua_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/73/Kuirau_Park_in_Rotorua_01.jpg
+  credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kuirau_Park_in_Rotorua_01.jpg'
+  via: act
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Kuirau_Park_in_Rotorua_02.jpg"
-    credit: "Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kuirau_Park_in_Rotorua_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/e/ef/Kuirau_Park_in_Rotorua_02.jpg
+    credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Kuirau_Park_in_Rotorua_02.jpg'
 place:
-  id: "ChIJEVO1AXcnbG0R4DydJGLvAA8"
-  name: "Kuirau Park"
-  address: "1371, Pukuatua Street, Ranolf Street, Rotorua 3010, New Zealand"
+  id: ChIJEVO1AXcnbG0R4DydJGLvAA8
+  name: Kuirau Park
+  address: '1371, Pukuatua Street, Ranolf Street, Rotorua 3010, New Zealand'
   rating: 4.5
-  userRatingsTotal: 3687
-  googleMapsUrl: "https://maps.google.com/?cid=1081127115369037024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3700
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1081127115369037024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -38.1366247
   lng: 176.24489739999999
-  phone: "+64 7 348 4199"
+  phone: +64 7 348 4199
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "rotorua"
-  - "top attraction"
-quickAnswer: "Kuirau Park is a free public geothermal park on the western edge of central Rotorua, a short walk from Fenton Street and the i-SITE. Come for the steaming lake, fenced boiling mud pits and hot foot pools you can sit in at no charge. An hour covers it; give it a morning on Saturday, when the market sets up in the park."
+  - rotorua
+  - top attraction
+quickAnswer: >-
+  Kuirau Park is a free public geothermal park on the western edge of central
+  Rotorua, a short walk from Fenton Street and the i-SITE. Come for the steaming
+  lake, fenced boiling mud pits and hot foot pools you can sit in at no charge.
+  An hour covers it; give it a morning on Saturday, when the market sets up in
+  the park.
 faq:
-  - q: "Do I have to pay to enter Kuirau Park?"
-    a: "No. Kuirau Park is a public council park with no gate or ticket booth, and the foot pools have no charge."
-  - q: "How long should I spend at Kuirau Park?"
-    a: "About an hour covers the lake, the mud pools and a soak in the foot pools. Allow longer on a Saturday morning if you also want to browse the market."
-  - q: "Can I swim in the hot pools at Kuirau Park?"
-    a: "No. Only the foot pools are for public use, and only for your feet. The other pools are near boiling and fenced off. For full-body bathing, go to Polynesian Spa on the lakefront."
-  - q: "How do I get to Kuirau Park from central Rotorua?"
-    a: "Walk west from the i-SITE on Fenton Street along Pukuatua Street. It takes roughly ten minutes. The park runs between Ranolf Street and Pukuatua Street, and there is street parking around it."
-  - q: "What is there to see near Kuirau Park?"
-    a: "Eat Streat on Tutanekai Street and the Lake Rotorua waterfront are a short walk away. So are Government Gardens and Polynesian Spa. For geysers, Te Puia at Whakarewarewa is a short drive south."
+  - q: Do I have to pay to enter Kuirau Park?
+    a: >-
+      No. Kuirau Park is a public council park with no gate or ticket booth, and
+      the foot pools have no charge.
+  - q: How long should I spend at Kuirau Park?
+    a: >-
+      About an hour covers the lake, the mud pools and a soak in the foot pools.
+      Allow longer on a Saturday morning if you also want to browse the market.
+  - q: Can I swim in the hot pools at Kuirau Park?
+    a: >-
+      No. Only the foot pools are for public use, and only for your feet. The
+      other pools are near boiling and fenced off. For full-body bathing, go to
+      Polynesian Spa on the lakefront.
+  - q: How do I get to Kuirau Park from central Rotorua?
+    a: >-
+      Walk west from the i-SITE on Fenton Street along Pukuatua Street. It takes
+      roughly ten minutes. The park runs between Ranolf Street and Pukuatua
+      Street, and there is street parking around it.
+  - q: What is there to see near Kuirau Park?
+    a: >-
+      Eat Streat on Tutanekai Street and the Lake Rotorua waterfront are a short
+      walk away. So are Government Gardens and Polynesian Spa. For geysers, Te
+      Puia at Whakarewarewa is a short drive south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 Steam comes up through the grass here. It rises from crater pools beside the footpaths and drifts off a lake the colour of milky tea, and it does this in a city park with a playground and picnic tables. Kuirau Park sits between Ranolf Street and Pukuatua Street on the western side of Rotorua's centre, and it has no gate and no ticket booth.

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rothenburg-ob-der-tauber-rothenburg-museum
-srcHash: 'f7931b9fc8f9'
+srcHash: '1d94e3ed6c5e'
 title: 'Museo de Rothenburg: guía de viaje de Rothenburg ob der Tauber'
-description: Instalado en un antiguo convento dominico en Klosterhof 5, el Museo de Rothenburg queda a pocos minutos a pie de la Plaza del Mercado (Marktplatz), en el casco antiguo de Rothenburg ob der Tauber. Con 4.7★ (469 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
+description: Instalado en un antiguo convento dominico en Klosterhof 5, el Museo de Rothenburg queda a pocos minutos a pie de la Plaza del Mercado (Marktplatz), en el casco antiguo de Rothenburg ob der Tauber. Con 4.7★ (477 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
 quickAnswer: En el casco antiguo de Rothenburg ob der Tauber, a pocos minutos a pie de la Plaza del Mercado (Marktplatz), un antiguo convento dominico situado en Klosterhof 5 acoge el Museo de Rothenburg. Entre sus piezas más destacadas figuran la cocina medieval del convento, las tablas de la Pasión de Rothenburg y la jarra vinculada a la leyenda del Meistertrunk. Calcule entre 1.5–2 horas para la visita. El horario actual es de 10am–6pm, pero varía según la temporada, así que consulte la web oficial antes de ir.
 faq:
   - q: ¿Cuánto tiempo conviene dedicar al Museo de Rothenburg?

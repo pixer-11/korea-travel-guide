@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: montreal-time-out-market-montreal
-srcHash: '9198ae8ba280'
+srcHash: 'cf53a060dc8d'
 title: Time Out 蒙特利尔美食市场：蒙特利尔觅食好去处（4.3★）
-description: Time Out 蒙特利尔美食市场是一处美食广场，位于蒙特利尔市中心圣凯瑟琳西街705号（705 Rue Sainte-Catherine Ouest）的伊顿中心内，距麦吉尔地铁站仅几步之遥。评分4.3★（5,171条评价），本文汇总游客评价、营业时间与实用贴士。
+description: Time Out 蒙特利尔美食市场是一处美食广场，位于蒙特利尔市中心圣凯瑟琳西街705号（705 Rue Sainte-Catherine Ouest）的伊顿中心内，距麦吉尔地铁站仅几步之遥。评分4.3★（5,173条评价），本文汇总游客评价、营业时间与实用贴士。
 quickAnswer: Time Out 蒙特利尔美食市场（Time Out Market Montréal）坐落在蒙特利尔市中心圣凯瑟琳西街705号（705 Rue Sainte-Catherine Ouest）的伊顿中心（Centre Eaton）里，从麦吉尔（McGill）地铁站步行几步即到。这里汇集了多家本地知名餐厅开设的档口，还有酒吧和公共座位区。工作日中午12点至下午4点人最少；在营业到深夜的日子里，晚上9点至10点也比较清静。周末中午12点至晚上8点最好避开。
 faq:
   - q: 什么时候去 Time Out 蒙特利尔美食市场人最少？

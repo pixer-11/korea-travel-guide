@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: osaka-umeda-sky-building
-srcHash: 'e77628f8ad83'
+srcHash: '3730dda2cc0c'
 title: 'Umeda Sky Building: guía de viaje de Osaka (4.4★)'
-description: En el barrio de Umeda (distrito de Kita), en Osaka, se alzan dos torres de 40 plantas unidas en lo alto por un observatorio con azotea al aire libre. Se llega en unos 10 minutos a pie desde la estación JR de Osaka. Con 4.4★ (44,737 reseñas), le contamos qué opinan los visitantes, el horario y algunos consejos.
+description: En el barrio de Umeda (distrito de Kita), en Osaka, se alzan dos torres de 40 plantas unidas en lo alto por un observatorio con azotea al aire libre. Se llega en unos 10 minutos a pie desde la estación JR de Osaka. Con 4.4★ (44,748 reseñas), le contamos qué opinan los visitantes, el horario y algunos consejos.
 quickAnswer: El Umeda Sky Building consta de dos torres de 40 plantas, situadas en el barrio de Umeda (distrito de Kita), en Osaka. Ambas se unen en lo alto mediante un observatorio coronado por una azotea al aire libre. Está a unos 10 minutos a pie de la estación JR de Osaka. Actualmente abre de 9:30am a 10pm. Entre semana, la franja más tranquila suele ser de 9pm a 10pm. Los fines de semana conviene ir de 10am a 11am o de 8pm a 10pm y evitar las tardes, de 1pm a 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Umeda Sky Building?

@@ -1,37 +1,45 @@
 ---
-title: "Manarat Al Saadiyat: Saadiyat Island Travel Guide (4.6★)"
-description: "Manarat Al Saadiyat is the cultural hub of Saadiyat Island's Cultural District, open daily 10am–8pm, mixing rotating art exhibitions, a cinema/theatre, and displays on Abu Dhabi's museum projects. 4.6★ (3,426 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Saadiyat Island"
-category: "attraction"
-pubDate: "2026-08-12T09:43:59.539Z"
+title: 'Manarat Al Saadiyat: Saadiyat Island Travel Guide (4.6★)'
+description: >-
+  Manarat Al Saadiyat is the cultural hub of Saadiyat Island's Cultural
+  District, open daily 10am–8pm, mixing rotating art exhibitions, a
+  cinema/theatre, and displays on Abu Dhabi's museum projects. 4.6★ (3,531
+  reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Saadiyat Island
+category: attraction
+pubDate: '2026-08-12T09:43:59.539Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Manarat_al_Saadiyat_01.jpg/3840px-Manarat_al_Saadiyat_01.jpg"
-  credit: "Photo: Davide Mauro / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Manarat_al_Saadiyat_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Manarat_al_Saadiyat_01.jpg/3840px-Manarat_al_Saadiyat_01.jpg
+  credit: 'Photo: Davide Mauro / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Manarat_al_Saadiyat_01.jpg'
 gallery: []
 place:
-  id: "ChIJdyeUFkJnXj4RZ37L2WWmKpo"
-  name: "Manarat Al Saadiyat"
-  address: "Sheikh Khalifa Bin Zayed Al Nahyan Hwy - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates"
+  id: ChIJdyeUFkJnXj4RZ37L2WWmKpo
+  name: Manarat Al Saadiyat
+  address: >-
+    Sheikh Khalifa Bin Zayed Al Nahyan Hwy - Al Saadiyat Island - Cultural
+    District - Abu Dhabi - United Arab Emirates
   rating: 4.6
-  userRatingsTotal: 3426
-  googleMapsUrl: "https://maps.google.com/?cid=11108874387238649447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3531
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11108874387238649447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.5342114
   lng: 54.418909899999996
-  phone: "+971 2 657 5800"
+  phone: +971 2 657 5800
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekendQuiet:
       - 10
       - 11
@@ -41,24 +49,43 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_6f704b6d5757324c37335a52346a586e4a6b46556579644a496843"
+    venueId: ven_6f704b6d5757324c37335a52346a586e4a6b46556579644a496843
 tags:
-  - "saadiyat island"
-  - "top attraction"
-quickAnswer: "Manarat Al Saadiyat is the cultural hub of Saadiyat Island's Cultural District, open daily 10am–8pm, mixing rotating art exhibitions, a cinema/theatre, and displays on Abu Dhabi's museum projects. Budget 1–1.5 hours, more if a major exhibition is on. Weekend mornings between 10am and 1pm are calmest — avoid the 4pm–8pm rush when families and gallery-hoppers pour in."
+  - saadiyat island
+  - top attraction
+quickAnswer: >-
+  Manarat Al Saadiyat is the cultural hub of Saadiyat Island's Cultural
+  District, open daily 10am–8pm, mixing rotating art exhibitions, a
+  cinema/theatre, and displays on Abu Dhabi's museum projects. Budget 1–1.5
+  hours, more if a major exhibition is on. Weekend mornings between 10am and 1pm
+  are calmest — avoid the 4pm–8pm rush when families and gallery-hoppers pour
+  in.
 faq:
-  - q: "How long should I spend at Manarat Al Saadiyat?"
-    a: "Plan on 1 to 1.5 hours for the permanent architectural exhibits plus one current show. Add extra time if a major touring exhibition or film screening is on."
-  - q: "What are the opening hours?"
-    a: "Manarat Al Saadiyat is open every day of the week, including weekends, from 10:00 AM to 8:00 PM, with no weekly closure day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends between 10am and 1pm are the calmest window. Try to avoid 4pm–8pm on weekends, when it's busiest with families and visitors."
-  - q: "How do I get to Manarat Al Saadiyat?"
-    a: "It's on Sheikh Khalifa Bin Zayed Al Nahyan Highway in Saadiyat Island's Cultural District, about 20–25 minutes by car or taxi from central Abu Dhabi. There's no metro link, but on-site parking is available."
-  - q: "What's nearby if I want to combine my visit?"
-    a: "Louvre Abu Dhabi is a few minutes away by road and pairs naturally with a Manarat visit, as does Saadiyat's public beach for afterward."
+  - q: How long should I spend at Manarat Al Saadiyat?
+    a: >-
+      Plan on 1 to 1.5 hours for the permanent architectural exhibits plus one
+      current show. Add extra time if a major touring exhibition or film
+      screening is on.
+  - q: What are the opening hours?
+    a: >-
+      Manarat Al Saadiyat is open every day of the week, including weekends,
+      from 10:00 AM to 8:00 PM, with no weekly closure day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekends between 10am and 1pm are the calmest window. Try to avoid 4pm–8pm
+      on weekends, when it's busiest with families and visitors.
+  - q: How do I get to Manarat Al Saadiyat?
+    a: >-
+      It's on Sheikh Khalifa Bin Zayed Al Nahyan Highway in Saadiyat Island's
+      Cultural District, about 20–25 minutes by car or taxi from central Abu
+      Dhabi. There's no metro link, but on-site parking is available.
+  - q: What's nearby if I want to combine my visit?
+    a: >-
+      Louvre Abu Dhabi is a few minutes away by road and pairs naturally with a
+      Manarat visit, as does Saadiyat's public beach for afterward.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 
 ## Why Manarat Al Saadiyat matters

@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: rothenburg-ob-der-tauber-stadtmauer-rothenburg
-srcHash: '47cea4f5455c'
+srcHash: '909866e8a545'
 title: '로텐부르크 성벽: 로텐부르크 오프 데어 타우버 여행 가이드'
-description: 로텐부르크 성벽(Stadtmauer Rothenburg)은 로텐부르크 오프 데어 타우버를 둘러싼 중세 성벽입니다. 평점 4.8★(리뷰 828개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
+description: 로텐부르크 성벽(Stadtmauer Rothenburg)은 로텐부르크 오프 데어 타우버를 둘러싼 중세 성벽입니다. 평점 4.8★(리뷰 835개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
 quickAnswer: 로텐부르크 성벽(Stadtmauer Rothenburg)은 로텐부르크 오프 데어 타우버를 감싸고 있는 중세 성벽입니다. 지붕 덮인 목조 통로가 길게 이어지며, 시간에 상관없이 무료로 걸을 수 있습니다. 가장 오르기 쉬운 곳은 뢰더쉬트(Röderschütt) 거리에 있는 뢰더 문(Rödertor) 옆 계단입니다. 주말이라면 가장 한산한 오전 9시~낮 12시에 가시고, 가장 붐비는 오후 2시~밤 10시는 피하는 것이 좋습니다.
 faq:
   - q: 로텐부르크 성벽을 가장 한산하게 걸을 수 있는 시간은 언제인가요?

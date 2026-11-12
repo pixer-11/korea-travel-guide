@@ -1,44 +1,50 @@
 ---
-title: "Hong Kong Space Museum: Tsim Sha Tsui Travel Guide (4.2★)"
-description: "The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, right on the Kowloon harbourfront. 4.2★ (6,972 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Tsim Sha Tsui"
-category: "attraction"
-pubDate: "2026-08-31T12:35:57.567Z"
+title: 'Hong Kong Space Museum: Tsim Sha Tsui Travel Guide (4.2★)'
+description: >-
+  The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, right on
+  the Kowloon harbourfront. 4.2★ (7,031 reviews) — what visitors say, hours, and
+  tips.
+country: Hong Kong
+region: Tsim Sha Tsui
+category: attraction
+pubDate: '2026-08-31T12:35:57.567Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hong_Kong_Space_Museum.jpg/1920px-Hong_Kong_Space_Museum.jpg"
-  credit: "Photo: Prosperity Horizons / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Space_Museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hong_Kong_Space_Museum.jpg/1920px-Hong_Kong_Space_Museum.jpg
+  credit: 'Photo: Prosperity Horizons / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Space_Museum.jpg'
   focus:
     x: 30
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/53849208_NIC13YuHD2sPkAUXWA6pUURIoYmR5IS1wd54gkEscog.jpg"
-    credit: "Photo: Foursquare user content (Hong Kong Space Museum (香港太空館))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b0588d5f964a52018dc22e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/53849208_NIC13YuHD2sPkAUXWA6pUURIoYmR5IS1wd54gkEscog.jpg
+    credit: 'Photo: Foursquare user content (Hong Kong Space Museum (香港太空館))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b0588d5f964a52018dc22e3'
 place:
-  id: "ChIJp4NnsfMABDQRAgmAAMI9V08"
-  name: "Hong Kong Space Museum"
-  address: "Hong Kong Space Museum, 10 Salisbury Rd, Tsim Sha Tsui, Kowloon, Hong Kong"
+  id: ChIJp4NnsfMABDQRAgmAAMI9V08
+  name: Hong Kong Space Museum
+  address: 'Hong Kong Space Museum, 10 Salisbury Rd, Tsim Sha Tsui, Kowloon, Hong Kong'
   rating: 4.2
-  userRatingsTotal: 6972
-  googleMapsUrl: "https://maps.google.com/?cid=5717106155411474690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7031
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5717106155411474690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.294287999999998
   lng: 114.17190099999999
-  phone: "+852 2721 0226"
+  phone: +852 2721 0226
   openingHours:
-    - "Monday: 1:00 – 9:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 1:00 – 9:00 PM"
-    - "Thursday: 1:00 – 9:00 PM"
-    - "Friday: 1:00 – 9:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 1:00 – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 1:00 – 9:00 PM'
+    - 'Thursday: 1:00 – 9:00 PM'
+    - 'Friday: 1:00 – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-31
+    updated: 2026-08-31T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -52,24 +58,41 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_38305639494d41416d674152514442414d66736e4e34704a496843"
+    venueId: ven_38305639494d41416d674152514442414d66736e4e34704a496843
 tags:
-  - "tsim sha tsui"
-  - "museum"
-quickAnswer: "The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, right on the Kowloon harbourfront. Its windowless egg-shaped dome houses a planetarium, Omnimax theatre and space exhibits, and it's closed Tuesdays. Weekends draw the biggest crowds between 12pm and 7pm, so aim for a morning slot right at 10am opening."
+  - tsim sha tsui
+  - museum
+quickAnswer: >-
+  The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, right on
+  the Kowloon harbourfront. Its windowless egg-shaped dome houses a planetarium,
+  Omnimax theatre and space exhibits, and it's closed Tuesdays. Weekends draw
+  the biggest crowds between 12pm and 7pm, so aim for a morning slot right at
+  10am opening.
 faq:
-  - q: "Where is the Hong Kong Space Museum?"
-    a: "On Salisbury Road in Tsim Sha Tsui, Kowloon. It sits right on the harbourfront next to the Hong Kong Cultural Centre."
-  - q: "What are the opening hours?"
-    a: "1pm–9pm Monday, Wednesday, Thursday and Friday; 10am–9pm Saturday and Sunday; closed all day Tuesday."
-  - q: "When is the best time to avoid crowds?"
-    a: "Weekends get busiest from 12pm to 7pm, so arrive right at the 10am Saturday or Sunday opening, or visit on a quieter weekday afternoon."
-  - q: "How long should I plan for a visit?"
-    a: "About 1.5 to 2 hours covers both exhibition halls and one Sky Show planetarium screening."
-  - q: "How do I get there by public transport?"
-    a: "Take the MTR to Tsim Sha Tsui station and use exit E or J, following signs to the Cultural Centre; alternatively, the Star Ferry from Central lands within walking distance."
+  - q: Where is the Hong Kong Space Museum?
+    a: >-
+      On Salisbury Road in Tsim Sha Tsui, Kowloon. It sits right on the
+      harbourfront next to the Hong Kong Cultural Centre.
+  - q: What are the opening hours?
+    a: >-
+      1pm–9pm Monday, Wednesday, Thursday and Friday; 10am–9pm Saturday and
+      Sunday; closed all day Tuesday.
+  - q: When is the best time to avoid crowds?
+    a: >-
+      Weekends get busiest from 12pm to 7pm, so arrive right at the 10am
+      Saturday or Sunday opening, or visit on a quieter weekday afternoon.
+  - q: How long should I plan for a visit?
+    a: >-
+      About 1.5 to 2 hours covers both exhibition halls and one Sky Show
+      planetarium screening.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the MTR to Tsim Sha Tsui station and use exit E or J, following signs
+      to the Cultural Centre; alternatively, the Star Ferry from Central lands
+      within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 ## Finding the egg on the harbourfront
 

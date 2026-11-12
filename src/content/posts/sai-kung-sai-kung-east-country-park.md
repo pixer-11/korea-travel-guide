@@ -1,59 +1,88 @@
 ---
-title: "Sai Kung East Country Park: Travel Guide (4.5★)"
-description: "Sai Kung East Country Park is a mountainous swath of the New Territories east of Sai Kung town, covering the High Island Reservoir, the hexagonal volcanic columns of the Sai Kung Volcanic Rock Region, and beaches like Long Ke and Tai Long Wan. 4.5★ (2,192 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sai Kung"
-category: "attraction"
-pubDate: "2026-08-31T15:15:31.059Z"
+title: 'Sai Kung East Country Park: Travel Guide (4.5★)'
+description: >-
+  Sai Kung East Country Park is a mountainous swath of the New Territories east
+  of Sai Kung town, covering the High Island Reservoir, the hexagonal volcanic
+  columns of the Sai Kung Volcanic Rock Region, and beaches like Long Ke and Tai
+  Long Wan. 4.5★ (2,194 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Sai Kung
+category: attraction
+pubDate: '2026-08-31T15:15:31.059Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sai_Kung_Folded_Rock.JPG/1920px-Sai_Kung_Folded_Rock.JPG"
-  credit: "Photo: Chingleung / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sai_Kung_Folded_Rock.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sai_Kung_Folded_Rock.JPG/1920px-Sai_Kung_Folded_Rock.JPG
+  credit: 'Photo: Chingleung / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sai_Kung_Folded_Rock.JPG'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hexagonal_volcanic_tuffs_Sai_Kung.jpg"
-    credit: "Photo: Keitaso / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hexagonal_volcanic_tuffs_Sai_Kung.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/b8/Hexagonal_volcanic_tuffs_Sai_Kung.jpg
+    credit: 'Photo: Keitaso / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Hexagonal_volcanic_tuffs_Sai_Kung.jpg
 place:
-  id: "ChIJA_7ztccaBDQR7bq7X31kqNA"
-  name: "Sai Kung East Country Park"
-  address: "Sai Kung, New Territories, Hong Kong"
+  id: ChIJA_7ztccaBDQR7bq7X31kqNA
+  name: Sai Kung East Country Park
+  address: 'Sai Kung, New Territories, Hong Kong'
   rating: 4.5
-  userRatingsTotal: 2192
-  googleMapsUrl: "https://maps.google.com/?cid=15035377845616229101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2194
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15035377845616229101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.4084695
   lng: 114.34352109999999
-  phone: "+852 2792 7365"
+  phone: +852 2792 7365
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "sai kung"
-  - "park"
-quickAnswer: "Sai Kung East Country Park is a mountainous swath of the New Territories east of Sai Kung town, covering the High Island Reservoir, the hexagonal volcanic columns of the Sai Kung Volcanic Rock Region, and beaches like Long Ke and Tai Long Wan. It's open 24 hours year-round, with the cooler months (October to March) the best time to tackle the Maclehose Trail sections that cross it. Most visitors arrive via minibus or hired van from Sai Kung town, since public transport inside the park itself is minimal."
+  - sai kung
+  - park
+quickAnswer: >-
+  Sai Kung East Country Park is a mountainous swath of the New Territories east
+  of Sai Kung town, covering the High Island Reservoir, the hexagonal volcanic
+  columns of the Sai Kung Volcanic Rock Region, and beaches like Long Ke and Tai
+  Long Wan. It's open 24 hours year-round, with the cooler months (October to
+  March) the best time to tackle the Maclehose Trail sections that cross it.
+  Most visitors arrive via minibus or hired van from Sai Kung town, since public
+  transport inside the park itself is minimal.
 faq:
-  - q: "How do I get to Sai Kung East Country Park without a car?"
-    a: "Take minibus 29R from Sai Kung town to Pak Tam Chung, then a connecting minibus or taxi onward to the East Dam or Wong Shek Pier depending on your destination."
-  - q: "How long does the Tai Long Wan hike take?"
-    a: "Plan one to two hours each way from Pak Tam Au or Wong Shek to reach Sai Wan or Ham Tin beach, depending on your pace and which beach you choose."
-  - q: "When is the best time to visit?"
-    a: "October to March offers the driest, coolest conditions for hiking. Weekday mornings are quieter than weekends, when the East Dam and beach trailheads get crowded."
-  - q: "Is the volcanic rock area accessible without a long hike?"
-    a: "Yes. A short walk from the East Dam car park leads to viewing platforms overlooking the hexagonal rock columns, no serious hiking required."
-  - q: "Can I swim in the reservoir or at the beaches?"
-    a: "The High Island Reservoir is drinking-water supply and off-limits for swimming. Tai Long Wan beaches allow swimming but have no lifeguards outside limited summer hours."
+  - q: How do I get to Sai Kung East Country Park without a car?
+    a: >-
+      Take minibus 29R from Sai Kung town to Pak Tam Chung, then a connecting
+      minibus or taxi onward to the East Dam or Wong Shek Pier depending on your
+      destination.
+  - q: How long does the Tai Long Wan hike take?
+    a: >-
+      Plan one to two hours each way from Pak Tam Au or Wong Shek to reach Sai
+      Wan or Ham Tin beach, depending on your pace and which beach you choose.
+  - q: When is the best time to visit?
+    a: >-
+      October to March offers the driest, coolest conditions for hiking. Weekday
+      mornings are quieter than weekends, when the East Dam and beach trailheads
+      get crowded.
+  - q: Is the volcanic rock area accessible without a long hike?
+    a: >-
+      Yes. A short walk from the East Dam car park leads to viewing platforms
+      overlooking the hexagonal rock columns, no serious hiking required.
+  - q: Can I swim in the reservoir or at the beaches?
+    a: >-
+      The High Island Reservoir is drinking-water supply and off-limits for
+      swimming. Tai Long Wan beaches allow swimming but have no lifeguards
+      outside limited summer hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-12'
 ---
 Sai Kung East Country Park sits on a peninsula of steep granite ridges and volcanic rock east of Sai Kung town, bordered by Port Shelter and the open waters toward the Ninepin Group. It covers roughly 47 square kilometres, making it one of Hong Kong's largest country parks. Inside its boundaries: the High Island Reservoir, sections of the Maclehose Trail, and some of the territory's most photographed coastline.
 
