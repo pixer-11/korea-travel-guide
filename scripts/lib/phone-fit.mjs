@@ -15,10 +15,17 @@ export function pastBy(right, edge) {
  * How far a text runs past its own cell. Chrome trims half of a full-width closing
  * mark at the end of a line and the text range still counts its whole advance, so
  * that half is not the words leaving the cell (福冈圣诞市集（…）, zh at 390px).
+ * The curly closing quotes are full-width too when the text is Chinese, Japanese
+ * or Korean, and only then: 阿雷佐“圣诞之城” read 0.88px past a cell its own box
+ * sat exactly inside (zh /events at 360px, 2026-11-13). In Latin text ” is a
+ * narrow mark that nothing trims, so there an overrun is still an overrun.
  */
+const FULL_WIDTH_CLOSER = /[）」』】〕》〉、。，．！？：；]/;
+const CJK = /[぀-ヿ㐀-鿿가-힯]/;
 export function wordsPastCell({ right, edge, text, px }) {
   const over = pastBy(right, edge);
-  return /[）」』】〕》〉、。，．！？：；]/.test(text) && over <= px * 0.55 ? 0 : over;
+  const trimmed = FULL_WIDTH_CLOSER.test(text) || (/[”’]/.test(text) && CJK.test(text));
+  return trimmed && over <= px * 0.55 ? 0 : over;
 }
 
 /** A one-line credit that lost its tail: the licence is the part that goes. */

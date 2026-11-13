@@ -75,3 +75,13 @@ test('long Spanish labels keep a column they fit in', () => {
   const post = readFileSync(fileURLToPath(new URL('../../src/styles/post-layout.css', import.meta.url)), 'utf8');
   assert.match(post, /html\[lang\^='es'\] \.side-row \{ grid-template-columns: 5\.5rem minmax\(0, 1fr\); \}/);
 });
+
+// 2026-11-13 실서버 정기 검사 오탐: /zh/events 360px 에서 한 줄짜리 행사 이름 끝의 전각 닫는 따옴표.
+// 글자 상자는 칸에 정확히 들어가 있었고(오른쪽 319 = 칸 오른쪽 319) 범위 측정만 0.88px 을 더 셌다.
+test('wordsPastCell: 한·중·일 글의 닫는 따옴표도 줄 끝에서 절반이 잘린다', () => {
+  assert.equal(wordsPastCell({ right: 319.88, edge: 319, text: '阿雷佐“圣诞之城”', px: 16.32 }), 0);
+  // 진짜 넘침(반 글자 넘게)은 그대로 잡는다
+  assert.ok(wordsPastCell({ right: 335, edge: 319, text: '阿雷佐“圣诞之城”', px: 16.32 }) > 0);
+  // 로마자 글의 ” 는 좁은 글자라 잘리지 않는다 — 넘치면 넘친 것이다
+  assert.ok(wordsPastCell({ right: 319.88, edge: 319, text: 'Arezzo “City of Christmas”', px: 16.32 }) > 0);
+});
