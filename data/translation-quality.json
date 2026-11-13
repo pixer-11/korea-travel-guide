@@ -40290,5 +40290,82 @@
   "registerBreak": false,
   "worst": "车程约15分钟，从后门下车时付费。",
   "at": "2026-11-13T07:52:51.221Z"
+ },
+ "es/hamilton-xg-concert-td-coliseum": {
+  "hash": "62e96263a59b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Para un grupo de siete integrantes que despliega grandes formaciones sobre el escenario, la config",
+  "at": "2026-11-13T15:36:15.094Z"
+ },
+ "es/manila-5sos-everyone-s-a-star-world-tour": {
+  "hash": "c570b9475a3f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Si cada noche",
+  "at": "2026-11-13T15:36:16.200Z"
+ },
+ "es/tashkent-translogistica-uzbekistan-2026": {
+  "hash": "e2aa96a558c8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Uzbekistán es uno de los dos únicos países del mundo doblemente sin litoral",
+  "at": "2026-11-13T15:36:17.121Z"
+ },
+ "ja/manila-5sos-everyone-s-a-star-world-tour": {
+  "hash": "084bcc94addf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "大物ポップ・ロックアーティストの東南アジア公演が1日だけで終わることは、近年ほとんどなくなりました。",
+  "at": "2026-11-13T15:36:18.366Z"
+ },
+ "ja/tashkent-mayot-tashkent-concert": {
+  "hash": "9af0a55e8ce4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そのため、ロシア語で活動するアーティストの公演がこの街ではたびたび組まれています。",
+  "at": "2026-11-13T15:36:19.924Z"
+ },
+ "ja/tashkent-translogistica-uzbekistan-2026": {
+  "hash": "bb5b8e12b99d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ウズベキスタンは二重内陸国のため、物資の輸出入そのものが日々のビジネス課題となっています。",
+  "at": "2026-11-13T15:36:21.139Z"
+ },
+ "ko/hamilton-xg-concert-td-coliseum": {
+  "hash": "9f2e10e03fea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "일곱 명이 넓게 대형을 펼치는 그룹에게는 이 아레나의 높은 엔드 스테이지 구성이 잘 어울립니다.",
+  "at": "2026-11-13T15:36:27.823Z"
+ },
+ "ko/tashkent-translogistica-uzbekistan-2026": {
+  "hash": "1966990c8850",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "우즈베키스탄은 국경을 맞댄 나라들까지 모두 내륙국인 이중 내륙국입니다.",
+  "at": "2026-11-13T15:36:33.093Z"
+ },
+ "ko/vancouver-koyote-festival-north-america-tour-vancouver": {
+  "hash": "f475c707201a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오래된 케이팝 그룹의 공연에서 관객은 영상을 찍기보다 따라 부르기에 훨씬 열심입니다.",
+  "at": "2026-11-13T15:36:37.813Z"
+ },
+ "zh/tashkent-translogistica-uzbekistan-2026": {
+  "hash": "f9a4de3c9e95",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "乌兹别克斯坦是双重内陆国，货物进出口是企业每天都要面对的难题",
+  "at": "2026-11-13T15:36:43.940Z"
+ },
+ "zh/vancouver-koyote-festival-north-america-tour-vancouver": {
+  "hash": "44c5e9d02a95",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "星期四在温哥华是工作日。这里的工作日晚场演唱会，不少观众往往下班直接赶来，散场后直接回家。",
+  "at": "2026-11-13T15:36:51.148Z"
  }
 }
