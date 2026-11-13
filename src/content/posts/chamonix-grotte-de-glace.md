@@ -66,6 +66,7 @@ faq:
       Praz or Argentière for a ground-level glacier view.
 aiGenerated: true
 updatedDate: '2026-08-30'
+draft: true
 ---
 
 ## Why go
