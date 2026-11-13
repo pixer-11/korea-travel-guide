@@ -5901,11 +5901,11 @@
   "at": "2026-08-15T03:33:45.173Z"
  },
  "es/sai-kung-sai-kung-public-pier": {
-  "hash": "59def8c35738",
+  "hash": "711bdc419c1d",
   "score": 1,
   "registerBreak": false,
-  "worst": "Curtidos operadores de sampanas gritan sus destinos.",
-  "at": "2026-08-15T03:33:58.522Z"
+  "worst": "galeras que siguen bien vivos",
+  "at": "2026-11-13T07:52:16.395Z"
  },
  "es/sai-kung-sai-kung-town": {
   "hash": "abd67571057b",
@@ -13132,11 +13132,11 @@
   "at": "2026-08-15T08:42:06.142Z"
  },
  "ja/sai-kung-sai-kung-public-pier": {
-  "hash": "a9bb17998875",
+  "hash": "676635ddbe6e",
   "score": 1,
   "registerBreak": false,
-  "worst": "料金はその場で各船頭と個別に交渉するため、決める前に2〜3隻を比較してみる価値があります。",
-  "at": "2026-08-15T03:05:29.185Z"
+  "worst": "訪れる人がいちばん陥りやすい失敗は、きちんとしたチケット売り場があると思い込んでやって来ることです。",
+  "at": "2026-11-13T07:52:17.321Z"
  },
  "ja/sai-kung-sai-kung-town": {
   "hash": "555da7c2d9b8",
@@ -20426,11 +20426,11 @@
   "at": "2026-08-15T02:33:15.124Z"
  },
  "ko/sai-kung-sai-kung-public-pier": {
-  "hash": "a70b460ed03d",
+  "hash": "e9ccc638a245",
   "score": 1,
   "registerBreak": false,
-  "worst": "다만 '열려 있다'는 것은 대부분 공간 자체를 의미할 뿐, 투어 업자나 해산물 가판대는 별개입니다.",
-  "at": "2026-08-15T11:56:16.355Z"
+  "worst": "햇볕에 그을린 삼판선 업자들이 목적지를 외쳐 부르고, 산책로의 수조 안에서는 능성어와 가루파, 갯가재가 펄떡이며 헤엄칩니다.",
+  "at": "2026-11-13T07:52:18.822Z"
  },
  "ko/sai-kung-sai-kung-town": {
   "hash": "0851c90cf549",
@@ -27272,11 +27272,11 @@
   "at": "2026-08-15T10:52:43.578Z"
  },
  "zh/sai-kung-sai-kung-public-pier": {
-  "hash": "ce896057a844",
+  "hash": "11c693061cbf",
   "score": 1,
   "registerBreak": false,
-  "worst": "到了晚上，气氛截然不同：空气转凉，海鲜餐厅灯笼高挂，船只也载着当天最后一批乘客陆续归航。",
-  "at": "2026-08-15T04:11:26.796Z"
+  "worst": "这里没有什么名胜古迹可看。你走进的是一个仍在运作的海滨码头",
+  "at": "2026-11-13T07:52:19.676Z"
  },
  "zh/sai-kung-sai-kung-town": {
   "hash": "dbdaacea9b7f",
@@ -40234,5 +40234,61 @@
   "registerBreak": false,
   "worst": "眺めを楽しみながら腰を落ち着けて食べる食事だと考えてください。",
   "at": "2026-11-12T08:00:04.020Z"
+ },
+ "es/florence-piazzale-michelangelo": {
+  "hash": "b602dc3a63c7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "la franja de mayor afluencia suele ir de 10am a 8pm, así que llegar para la hora dorada...",
+  "at": "2026-11-13T07:52:25.853Z"
+ },
+ "es/hiroshima-hiroshima-orizuru-tower": {
+  "hash": "1c59d6d5ae67",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente abre a las 10am y cierra a las 6pm, pero los miradores ajustan su horario...",
+  "at": "2026-11-13T07:52:30.296Z"
+ },
+ "ja/florence-piazzale-michelangelo": {
+  "hash": "f86c7123f5b5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "混雑予測を見ると、もっとよい選択肢があります。",
+  "at": "2026-11-13T07:52:34.684Z"
+ },
+ "ja/hiroshima-hiroshima-orizuru-tower": {
+  "hash": "dfa87fa71357",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "展望台の屋外部分にはガラスがなく、上る目的はあくまでもこの眺めにあるからです。",
+  "at": "2026-11-13T07:52:35.682Z"
+ },
+ "ko/florence-piazzale-michelangelo": {
+  "hash": "f58c82b05652",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-13T07:52:36.489Z"
+ },
+ "ko/hiroshima-hiroshima-orizuru-tower": {
+  "hash": "653e9ba932eb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "카페: 평화공원을 걸은 다리가 충분히 쉴 때까지 머무르시면 됩니다",
+  "at": "2026-11-13T07:52:39.866Z"
+ },
+ "zh/florence-piazzale-michelangelo": {
+  "hash": "441bab21cc66",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "整座纪念碑都是为了致敬这位艺术家，广场也正是以他的名字命名。",
+  "at": "2026-11-13T07:52:40.860Z"
+ },
+ "zh/hiroshima-hiroshima-orizuru-tower": {
+  "hash": "5dce7e63fed9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "车程约15分钟，从后门下车时付费。",
+  "at": "2026-11-13T07:52:51.221Z"
  }
 }

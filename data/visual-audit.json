@@ -10094,6 +10094,12 @@
   "reason": "Renaissance fresco from Palazzo Vecchio interior",
   "at": "2026-07-27T12:46:59.950Z"
  },
+ "florence-piazzale-michelangelo\u0001https://upload.wikimedia.org/wikipedia/commons/a/a2/Panorama_di_Firenze_centro_visto_dal_Piazzale_Michelangelo.jpg": {
+  "slug": "florence-piazzale-michelangelo",
+  "verdict": "MATCH",
+  "reason": "publish gate: View of Florence skyline, exactly as seen from Piazzale Michelangelo",
+  "at": "2026-11-13T07:48:51.096Z"
+ },
  "florence-ponte-vecchio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg/1920px-Ponte_Vecchio_from_Ponte_alle_Grazie.jpg": {
   "slug": "florence-ponte-vecchio",
   "verdict": "MATCH",
@@ -12659,6 +12665,12 @@
   "reason": "hand-reviewed: a hotel club-lounge buffet, not this cafe (owner photo review 2026-11-13)",
   "at": "2026-11-12T16:37:49.752Z"
  },
+ "hiroshima-hiroshima-orizuru-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Observatory_of_the_Hiroshima_Orizuru_Tower.jpg/3840px-Observatory_of_the_Hiroshima_Orizuru_Tower.jpg": {
+  "slug": "hiroshima-hiroshima-orizuru-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: View from observation deck with city skyline at night",
+  "at": "2026-11-13T07:48:51.128Z"
+ },
  "hiroshima-hiroshima-peace-memorial-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hiroshima_Peace_Memorial_Museum_2009.jpg/1920px-Hiroshima_Peace_Memorial_Museum_2009.jpg": {
   "slug": "hiroshima-hiroshima-peace-memorial-museum",
   "verdict": "MATCH",
@@ -13084,6 +13096,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Entrance gate with Pinocchio sign plausibly matches gardens entry",
   "at": "2026-10-03T07:43:34.757Z"
+ },
+ "hobart-salamanca-arts-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/260906_SAC_Exterior_04.jpg/1920px-260906_SAC_Exterior_04.jpg": {
+  "slug": "hobart-salamanca-arts-centre",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront with visible Salamanca Arts Centre signage",
+  "at": "2026-11-13T07:48:50.927Z"
  },
  "hobart-salamanca-market\u0001https://upload.wikimedia.org/wikipedia/commons/5/5d/Salamanca_Market_2010.jpg": {
   "slug": "hobart-salamanca-market",
@@ -23493,6 +23511,12 @@
   "reason": "publish gate: Exterior view of Bonsecours Market with dome and facade",
   "at": "2026-11-02T08:01:28.803Z"
  },
+ "montreal-crew-collective-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/2/20/Crew_Collective_and_Caf%C3%A9%2C_Montr%C3%A9al%2C_Canada_%28Unsplash_ZNog43hBeE8%29.jpg": {
+  "slug": "montreal-crew-collective-cafe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior bakery display showing pastries and treats in venue",
+  "at": "2026-11-13T07:48:50.895Z"
+ },
  "montreal-jean-talon-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/March%C3%A9_Jean-Talon_05-11-2024.jpg/1920px-March%C3%A9_Jean-Talon_05-11-2024.jpg": {
   "slug": "montreal-jean-talon-market",
   "verdict": "MATCH",
@@ -28664,6 +28688,12 @@
   "reason": "publish gate: Thai temple exterior matching Wat Chalong architecture",
   "at": "2026-09-03T10:37:41.978Z"
  },
+ "phuket-windmill-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Panorama_from_Windmill_Viewpoint.jpg/3840px-Panorama_from_Windmill_Viewpoint.jpg": {
+  "slug": "phuket-windmill-viewpoint",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic viewpoint panorama consistent with Phuket coastal overlook",
+  "at": "2026-11-13T07:48:51.069Z"
+ },
  "pingxi-lingjiao-waterfall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg/1920px-Lingjiao_Falls_%E5%B6%BA%E8%85%B3%E7%80%91%E5%B8%83_-_panoramio.jpg": {
   "slug": "pingxi-lingjiao-waterfall",
   "verdict": "MATCH",
@@ -29310,6 +29340,12 @@
   "reason": "publish gate: Shows temple gate entrance with signage, representative hero shot",
   "at": "2026-09-20T07:37:03.923Z"
  },
+ "quebec-city-dufferin-terrace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Victoria_Kiosk_with_Canadian_flags.jpg/1920px-Victoria_Kiosk_with_Canadian_flags.jpg": {
+  "slug": "quebec-city-dufferin-terrace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Dufferin Terrace gazebo with Canadian flag, representative view",
+  "at": "2026-11-13T07:48:50.986Z"
+ },
  "quebec-city-fairmont-le-chateau-frontenac\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ch%C3%A2teau_Frontenac_02.jpg/1920px-Ch%C3%A2teau_Frontenac_02.jpg": {
   "slug": "quebec-city-fairmont-le-chateau-frontenac",
   "verdict": "MATCH",
@@ -29878,6 +29914,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Foursquare venue Osteria Pesce Fritto e Baccala (owner photo review 2026-11-13)",
   "at": "2026-11-12T16:37:58.280Z"
+ },
+ "rome-terrazza-delle-quadrighe\u0001https://upload.wikimedia.org/wikipedia/commons/f/f0/Terrazza_delle_Quadrighe_-_panoramio.jpg": {
+  "slug": "rome-terrazza-delle-quadrighe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Roman Forum ruins, plausible scenic viewpoint photo",
+  "at": "2026-11-13T07:48:51.041Z"
  },
  "rome-trevi-fountain\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg": {
   "slug": "rome-trevi-fountain",
@@ -32007,6 +32049,12 @@
   "verdict": "MATCH",
   "reason": "Ornate Andalusian architecture typical of Royal Alcázar",
   "at": "2026-07-25T02:49:23.822Z"
+ },
+ "seville-setas-de-sevilla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Setas_de_Sevilla_%288%29.jpg/3840px-Setas_de_Sevilla_%288%29.jpg": {
+  "slug": "seville-setas-de-sevilla",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Metropol Parasol's distinctive lit walkway structure at night",
+  "at": "2026-11-13T07:48:51.012Z"
  },
  "sha-tin-dab-pa-modern-chinese-cuisine\u0001https://fastly.4sqi.net/img/general/original/1719059__LufEYfhAKDY5WmMv_AoU3M_7L6da2utr10MaQKbxlQ.jpg": {
   "slug": "sha-tin-dab-pa-modern-chinese-cuisine",
@@ -39356,6 +39404,18 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Shows Xi'an city wall watchtowers, authentic fortification architecture",
   "at": "2026-08-16T20:37:31.010Z"
+ },
+ "xi-an-giant-wild-goose-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Giant_Wild_Goose_Pagoda.jpg/1920px-Giant_Wild_Goose_Pagoda.jpg": {
+  "slug": "xi-an-giant-wild-goose-pagoda",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear recognizable photo of the pagoda itself",
+  "at": "2026-11-13T07:48:50.957Z"
+ },
+ "xi-an-shaanxi-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Shaanxi_History_Museum.jpg/1920px-Shaanxi_History_Museum.jpg": {
+  "slug": "xi-an-shaanxi-history-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of Shaanxi History Museum complex",
+  "at": "2026-11-13T07:48:50.845Z"
  },
  "xi-an-small-wild-goose-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/3/31/Small_Wild_Goose_Pagoda_2024_04.jpg": {
   "slug": "xi-an-small-wild-goose-pagoda",

@@ -1,8 +1,13 @@
+SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
+SKIP new city "Montreal" — weekly new-city cap (2/7d) reached
+SKIP new city "Phuket" — weekly new-city cap (2/7d) reached
+SKIP new city "Rome" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 SKIP new city "Taipei" — weekly new-city cap (2/7d) reached
 SKIP new city "Ulaanbaatar" — weekly new-city cap (2/7d) reached
 SKIP new city "Washington DC" — weekly new-city cap (2/7d) reached
+SKIP new city "Xi'an" — weekly new-city cap (2/7d) reached
 SKIP new city "York" — weekly new-city cap (2/7d) reached
 
 Seoul, South Korea — 27 qualifying post(s), variants: 3, 5
@@ -42,6 +47,9 @@ Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
 Ho Chi Minh City, Vietnam — 17 qualifying post(s), variants: 3
   = Ho Chi Minh City 3d — unchanged, skipping
 
+Hobart, Australia — 12 qualifying post(s), variants: 3
+NEW_ITINERARY: Hobart 3d
+
 Hong Kong, Hong Kong — 90 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
   = Hong Kong 5d — unchanged, skipping
@@ -59,9 +67,6 @@ Macau, Macau — 52 qualifying post(s), variants: 3, 5
   = Macau 3d — unchanged, skipping
   = Macau 5d — unchanged, skipping
 
-Macau Peninsula, Macau — 12 qualifying post(s), variants: 3
-  · Macau Peninsula 3d — skipped: day 1 totals only 191 min (floor 240) and no further sight can be added to it
-
 New Orleans, United States — 17 qualifying post(s), variants: 3
   = New Orleans 3d — unchanged, skipping
 
@@ -78,7 +83,7 @@ Singapore, Singapore — 79 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
