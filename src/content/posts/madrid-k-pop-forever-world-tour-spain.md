@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Alberto Racatumba / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Madrid_Skyline_-_Spain.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - madrid

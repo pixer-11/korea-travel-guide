@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Gunawan Kartapranata / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Car_Free_Day.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - jakarta

@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: User:Two hundred percent. / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Convention_Centre_(northeastern_exterior),_Kuala_Lumpur.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - kuala lumpur

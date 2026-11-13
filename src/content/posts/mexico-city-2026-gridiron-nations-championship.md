@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Francisco Anzola / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Mexico_City_Skyline_(5604867225).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - mexico city

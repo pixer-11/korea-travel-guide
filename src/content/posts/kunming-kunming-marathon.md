@@ -16,6 +16,9 @@ heroImage:
   credit: 'Photo: Daderot / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Cityscape_of_Kunming_at_dawn_-_DSC03511.JPG'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - kunming

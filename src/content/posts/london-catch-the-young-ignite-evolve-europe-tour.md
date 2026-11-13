@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: concrete fells from London, United Kingdom / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:London_Skyline_-_Flickr_-_concrete%5Efells.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - london

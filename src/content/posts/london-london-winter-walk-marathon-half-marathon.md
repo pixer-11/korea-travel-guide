@@ -20,6 +20,9 @@ heroImage:
   credit: 'Photo: Spudgun67 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hobbs_Gate,_The_Oval,_Kennington_Oval,_London_SE11_5TB_(2).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - london

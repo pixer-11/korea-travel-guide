@@ -3632,7 +3632,9 @@
   "strasbourg-musee-de-l-uvre-notre-dame\u0001https://fastly.4sqi.net/img/general/original/110499992_CIe5ne_gJQe9SMcDOqudbmUMuWv3OT3koVv3WU2B_ww.jpg": 1440,
   "stuttgart-chinese-garden-stuttgart\u0001https://upload.wikimedia.org/wikipedia/commons/6/65/Chinesischer_Garten_Stuttgart.jpg": 3120,
   "xi-an-giant-wild-goose-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Giant_Wild_Goose_Pagoda.jpg/1920px-Giant_Wild_Goose_Pagoda.jpg": 1920,
-  "xi-an-shaanxi-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Shaanxi_History_Museum.jpg/1920px-Shaanxi_History_Museum.jpg": 1920
+  "xi-an-shaanxi-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Shaanxi_History_Museum.jpg/1920px-Shaanxi_History_Museum.jpg": 1920,
+  "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/58890857_qyQo-u369dfwzjMI11XVnom4SM5xHZx9IpB71USocHs.jpg": 1440,
+  "hiroshima-hiroshima-breakfast\u0001https://live.staticflickr.com/5013/5581034860_9283a555eb_b.jpg": 1024
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3714,8 +3716,8 @@
   },
   "cameron-highlands-sam-poh-temple": {
    "width": 674,
-   "attempts": 12,
-   "nextTry": "2026-11-13",
+   "attempts": 13,
+   "nextTry": "2026-11-20",
    "flaggedAt": "2026-08-20",
    "lastResult": "no-wider"
   },
@@ -3728,22 +3730,22 @@
   },
   "hong-kong-montana": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-11-13",
+   "attempts": 12,
+   "nextTry": "2026-11-20",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "lyon-ayla": {
    "width": 1008,
-   "attempts": 11,
-   "nextTry": "2026-11-13",
+   "attempts": 12,
+   "nextTry": "2026-11-20",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "madrid-el-campero": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-11-13",
+   "attempts": 12,
+   "nextTry": "2026-11-20",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
@@ -3784,8 +3786,8 @@
   },
   "jakarta-erre-urrechu": {
    "width": 1080,
-   "attempts": 10,
-   "nextTry": "2026-11-13",
+   "attempts": 11,
+   "nextTry": "2026-11-20",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -4139,7 +4141,13 @@
    "attempts": 0,
    "nextTry": "2026-11-13",
    "flaggedAt": "2026-11-13"
+  },
+  "hiroshima-hiroshima-breakfast": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-11-13",
+   "flaggedAt": "2026-11-13"
   }
  },
- "updated": "2026-11-13T15:41:13.967Z"
+ "updated": "2026-11-13T19:41:33.351Z"
 }

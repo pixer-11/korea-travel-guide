@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Ben Morlok / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Modern_Istanbul_skyline_at_sunset.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - istanbul

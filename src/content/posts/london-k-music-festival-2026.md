@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Igrigorik / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655_cropped).png'
+  focus:
+    x: 35
+    y: 45
 gallery: []
 tags:
   - london

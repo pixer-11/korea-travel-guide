@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: SegLig / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Istanbul_skyline_01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - istanbul

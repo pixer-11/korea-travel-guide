@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Canary_Wharf_Skyline_2,_London_UK_-_Oct_2012.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - london

@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Tremoro0 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Modern_Building_skyline_in_Lima,_Peru.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - lima

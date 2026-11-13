@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - kuala lumpur

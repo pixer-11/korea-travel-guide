@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: yohanes budiyanto / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Skyline_Part_2.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - jakarta

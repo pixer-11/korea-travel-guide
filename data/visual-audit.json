@@ -3377,6 +3377,24 @@
   "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
   "at": "2026-11-13T00:06:08.090Z"
  },
+ "bangkok-saladaeng\u0001https://live.staticflickr.com/7243/6906990292_16216f915f_b.jpg": {
+  "slug": "bangkok-saladaeng",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a station sign, not the actual place",
+  "at": "2026-11-13T19:36:38.178Z"
+ },
+ "bangkok-saladaeng\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Pedro_Meier_Mail_Art._Briefumschlag_mit_Figuren._Adressiert_an_Pedro_Meier%2C_Sala_Daeng_Road%2C_Bangkok_Thailand._1992._Photo_%C2%A9_Pedro_Meier.jpg": {
+  "slug": "bangkok-saladaeng",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is an artwork/envelope collage, not a photo of the place",
+  "at": "2026-11-13T19:36:34.327Z"
+ },
+ "bangkok-saladaeng\u0001https://upload.wikimedia.org/wikipedia/commons/e/e8/Pedro_Meier_Mail_Art._Mandarin_Oriental_Hotel%2C_Chao_Phraya_River%2C_Bangkok._Briefumschlag_%C3%BCbermalt._Adressiert_an_Pedro_Meier%2C_Sala_Daeng_Road%2C_Bangkok_Thailand._1992._Photo_%C2%A9_Pedro_Meier.jpg": {
+  "slug": "bangkok-saladaeng",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Envelope artwork with address, not a place photo",
+  "at": "2026-11-13T19:36:32.698Z"
+ },
  "bangkok-saladaeng\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg/1920px-Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg": {
   "slug": "bangkok-saladaeng",
   "verdict": "WEAK",
@@ -7135,6 +7153,30 @@
   "reason": "Tai Kwun courtyard with brick buildings and stairs",
   "reasonKo": "타이쿤의 벽돌 건물과 계단",
   "at": "2026-08-18T13:26:45.232Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/36857714_j5cf7TBpPuKjQnTe9zVMofmcdvm-v_HfFXJ93MWJdlM.jpg": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows glacier covered with tarps, not ice cave interior",
+  "at": "2026-11-13T19:38:27.709Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/39040510_F7-hszLC44oM_9opoAF9J6KBVIPsEtzM2RvUvsmFvck.jpg": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Covered glacier with excavator, not the ice cave attraction",
+  "at": "2026-11-13T19:38:25.515Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/58890857_JFmR_Uh3QaVYgEWqxJIVQFBceuQtvNv4OmyUlHVpaXQ.jpg": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Aerial glacier view, not ice cave interior.",
+  "at": "2026-11-13T19:38:30.025Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/58890857_qyQo-u369dfwzjMI11XVnom4SM5xHZx9IpB71USocHs.jpg": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Snorkeling/diving in glacial meltwater, Chamonix",
+  "at": "2026-11-13T19:38:33.009Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg/3840px-Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg": {
   "slug": "chamonix-grotte-de-glace",
@@ -12239,8 +12281,8 @@
  "hangzhou-zhejiang-art-museum\u0001https://live.staticflickr.com/91/282085595_42fc21b782_k.jpg": {
   "slug": "hangzhou-zhejiang-art-museum",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Stone lion statue, not Zhejiang Art Museum building",
-  "at": "2026-11-12T19:37:08.319Z"
+  "reason": "patrol reject: Stone lion statue, not the art museum itself",
+  "at": "2026-11-13T19:37:16.303Z"
  },
  "hangzhou-zhejiang-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Bowl%2C_Guan_ware%2C_Hangzhou%2C_Zhejiang_province%2C_China%2C_Southern_Song_dynasty%2C_12th-13th_century_AD%2C_stoneware_with_Guan_glaze_-_Freer_Gallery_of_Art_-_DSC05570.JPG": {
   "slug": "hangzhou-zhejiang-art-museum",
@@ -12652,6 +12694,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Glass conservatory building with garden steps, plausible botanical garden",
   "at": "2026-09-19T07:48:37.777Z"
+ },
+ "hiroshima-hiroshima-breakfast\u0001https://live.staticflickr.com/5013/5581034860_9283a555eb_b.jpg": {
+  "slug": "hiroshima-hiroshima-breakfast",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Authentic Japanese breakfast setting, Hiroshima area",
+  "at": "2026-11-13T19:36:57.001Z"
  },
  "hiroshima-hiroshima-breakfast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/1920px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg": {
   "slug": "hiroshima-hiroshima-breakfast",

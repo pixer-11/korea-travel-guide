@@ -20,6 +20,9 @@ heroImage:
   credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg'
+  focus:
+    x: 55
+    y: 35
 gallery: []
 tags:
   - kuala lumpur

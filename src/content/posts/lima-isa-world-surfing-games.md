@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Joshua87 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Lima,_Urban_Skyline--Ciudad_de_Lima,_Skyline_urbano.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - lima

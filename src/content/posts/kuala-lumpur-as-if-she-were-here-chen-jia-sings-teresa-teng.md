@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Slyronit / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_2.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - kuala lumpur

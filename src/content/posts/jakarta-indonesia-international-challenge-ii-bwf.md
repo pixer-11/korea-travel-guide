@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Sam Hidayat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:View_of_Jakarta_skyline_seen_from_Jalan_Kendal,_Thamrin_(1).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - jakarta

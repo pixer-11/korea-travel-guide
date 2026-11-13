@@ -1,9 +1,6 @@
 ---
 title: 'Hiroshima Breakfast: Travel Guide'
-description: >-
-  Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho,
-  central Naka Ward, a short walk from the Hondori shopping arcade and Peace
-  Memorial Park.
+description: Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho, central Naka Ward, a short walk from the Hondori shopping arcade and Peace Memorial Park.
 country: Japan
 region: Hiroshima
 category: trendy
@@ -11,11 +8,10 @@ pubDate: 2026-07-21T00:00:00.000Z
 place:
   id: ChIJ335XLQCjWjUR9zjRdZaSy8M
   name: Hiroshima Breakfast
-  address: 'Japan, 〒730-0854 Hiroshima, Naka Ward, Dohashichō, 6−23−１０１ 1F'
+  address: Japan, 〒730-0854 Hiroshima, Naka Ward, Dohashichō, 6−23−１０１ 1F
   rating: 4.9
   userRatingsTotal: 188
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14108531432587606263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14108531432587606263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.392738
   lng: 132.447024
@@ -31,41 +27,29 @@ place:
 tags:
   - hiroshima
   - trendy cafe
-quickAnswer: >-
-  Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho,
-  central Naka Ward, a short walk from the Hondori shopping arcade and Peace
-  Memorial Park. It's best visited on foot between roughly 8–10am on a weekday
-  to avoid queues, since the space is tiny and reservations aren't typically
-  taken. Budget 45–60 minutes, and pair the visit with a walk through Hondori or
-  a morning at the Peace Memorial Park before the day's crowds arrive.
+quickAnswer: Hiroshima Breakfast is a small, highly-rated morning café in Dohashicho, central Naka Ward, a short walk from the Hondori shopping arcade and Peace Memorial Park. It's best visited on foot between roughly 8–10am on a weekday to avoid queues, since the space is tiny and reservations aren't typically taken. Budget 45–60 minutes, and pair the visit with a walk through Hondori or a morning at the Peace Memorial Park before the day's crowds arrive.
 faq:
   - q: How do I get to Hiroshima Breakfast without a car?
-    a: >-
-      Take the Hiroshima tram toward Kamiyacho and get off at Kamiyacho-nishi or
-      Kamiyacho-higashi; from there it's a short walk into Dohashicho. It's also
-      about 20-25 minutes on foot from Hiroshima Station.
+    a: Take the Hiroshima tram toward Kamiyacho and get off at Kamiyacho-nishi or Kamiyacho-higashi; from there it's a short walk into Dohashicho. It's also about 20-25 minutes on foot from Hiroshima Station.
   - q: Do I need a reservation?
-    a: >-
-      Small breakfast cafés like this typically operate first-come,
-      first-served. Given its 4.9 rating and small footprint, arriving right at
-      opening or slightly before on weekends is the safest bet to avoid a wait.
+    a: Small breakfast cafés like this typically operate first-come, first-served. Given its 4.9 rating and small footprint, arriving right at opening or slightly before on weekends is the safest bet to avoid a wait.
   - q: How long should I plan for a visit?
-    a: >-
-      Budget 45-60 minutes for a relaxed sit-down breakfast, longer on weekends
-      if there's a queue.
+    a: Budget 45-60 minutes for a relaxed sit-down breakfast, longer on weekends if there's a queue.
   - q: What's the best time of day and year to visit?
-    a: >-
-      Go early morning on a weekday for the shortest wait. During cherry blossom
-      season (late March-early April) and autumn foliage weeks, expect more
-      visitors citywide, so an early arrival matters even more.
+    a: Go early morning on a weekday for the shortest wait. During cherry blossom season (late March-early April) and autumn foliage weeks, expect more visitors citywide, so an early arrival matters even more.
   - q: What else can I see nearby?
-    a: >-
-      The Hondori shopping arcade, Peace Memorial Park and Atomic Bomb Dome,
-      Shukkeien Garden, and Hiroshima Castle are all within a 15-20 minute walk,
-      making it easy to build a morning-to-afternoon downtown loop.
+    a: The Hondori shopping arcade, Peace Memorial Park and Atomic Bomb Dome, Shukkeien Garden, and Hiroshima Castle are all within a 15-20 minute walk, making it easy to build a morning-to-afternoon downtown loop.
 aiGenerated: true
 updatedDate: '2026-09-03'
 photoless: true
+heroImage:
+  url: https://live.staticflickr.com/5013/5581034860_9283a555eb_b.jpg
+  credit: 'Photo: snogglethorpe / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/52752867@N00/5581034860
+  focus:
+    x: 40
+    'y': 55
 ---
 
 ## Why go

@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Estadio_Nacional,_Lima,_Per%C3%BA,_2015-07-28,_DD_127.JPG'
+  focus:
+    x: 50
+    y: 45
 tags:
   - lima
   - event

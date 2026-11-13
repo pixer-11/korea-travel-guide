@@ -16,6 +16,9 @@ heroImage:
   credit: 'Photo: Fernando Pascullo / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Madrid_cathedral_2020_-_view_from_the_dome.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - madrid
