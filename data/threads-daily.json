@@ -114,27 +114,30 @@
     "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
     "taiyuan-yingze-park",
     "hong-kong-simple-plan-bigger-than-you-think-tour",
-    "jakarta-bts-world-tour-arirang-jakarta"
+    "jakarta-bts-world-tour-arirang-jakarta",
+    "new-york-strand-bookstore"
   ],
-  "lastSentDay": "2026-11-13",
+  "lastSentDay": "2026-11-14",
   "material": {
-    "day": "2026-11-13",
-    "slug": "jakarta-bts-world-tour-arirang-jakarta",
-    "title": "BTS World Tour ARIRANG Jakarta: Dates, Tickets & Venue (Jakarta)",
+    "day": "2026-11-14",
+    "slug": "new-york-strand-bookstore",
+    "title": "Strand Bookstore: New York Travel Guide (4.8★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-13-jakarta-bts-world-tour-arirang-jakarta-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-13-jakarta-bts-world-tour-arirang-jakarta-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-14-new-york-strand-bookstore-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-14-new-york-strand-bookstore-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-14-new-york-strand-bookstore-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-14-new-york-strand-bookstore-4.jpg"
     ],
-    "igCaption": "BTS is back together for ARIRANG, their first world tour since military service, with two nights in Jakarta between Christmas and New Year. Expect wet-season downpours, packed holiday traffic, and a stadium full of ARMY Bombs lighting up the night.\n\n#Jakarta #Indonesia #events #travel #wanderatlas #BTS #ARIRANGTour #TravelGuide #ConcertTravel\n📷 Photo: I Dare U JK / Wikimedia Commons (CC BY 3.0) (edited)",
-    "thOption": "December in Jakarta means sudden downpours — ponchos only, since stadiums often restrict umbrellas. Would you risk going without rain gear for ARIRANG?",
-    "link": "https://wanderatlasguides.com/posts/jakarta-bts-world-tour-arirang-jakarta/"
+    "igCaption": "That papery, inky smell hits before you even see the shelves. Strand Bookstore has been stacking books floor to ceiling on Broadway since 1957, with 18 miles of shelves to prove it. Rare editions in the basement, discounted advance copies upstairs, and dollar carts on the sidewalk — just budget real time to get lost in it.\n\n#StrandBookstore #NewYork #UnitedStates #travelguide #travel #wanderatlas #NYCTravel #BookLovers #GreenwichVillage #NewYorkCity\n📷 Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Ajay Suresh from New York, NY, USA / Wikimedia Commons (CC BY 2.0) (edited)",
+    "thOption": "Strand's \"18 miles of books\" is printed right on the tote bags — would you spend 3 hours browsing to find out if it's true, or just grab a staff pick and go?",
+    "link": "https://wanderatlasguides.com/posts/new-york-strand-bookstore/"
   },
   "social": {
-    "thDay": "2026-11-13",
-    "thId": "18116342822165630",
+    "thDay": "2026-11-14",
+    "thId": "17914961238513687",
     "igDay": "2026-11-13",
     "igId": "18224026666356364",
-    "thSlug": "jakarta-bts-world-tour-arirang-jakarta",
+    "thSlug": "new-york-strand-bookstore",
     "igSlug": "jakarta-bts-world-tour-arirang-jakarta",
     "history": [
       {
@@ -668,7 +671,17 @@
       {
         "day": "2026-11-07",
         "slug": "nusa-penida-diamond-beach",
-        "thId": "18650004853031853"
+        "thId": "18650004853031853",
+        "insights": {
+          "at": "2026-11-14",
+          "th": {
+            "views": 6,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-08",
@@ -702,6 +715,11 @@
         "slug": "jakarta-bts-world-tour-arirang-jakarta",
         "thId": "18116342822165630",
         "igId": "18224026666356364"
+      },
+      {
+        "day": "2026-11-14",
+        "slug": "new-york-strand-bookstore",
+        "thId": "17914961238513687"
       }
     ]
   }
