@@ -21,14 +21,7 @@ faq:
   - q: How long should I plan to spend?
     a: Allow two to three hours for dinner at the robata followed by drinks in the bar. For just a cocktail and some records, about an hour is enough.
 aiGenerated: true
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1384727293_JU0fj-HQ6bgbDLkOvUJcDgGGpMNDzRJAidtXpsQseAU.jpg
-  credit: 'Photo: Foursquare user content (Saikindo)'
-  license: foursquare
-  source: https://foursquare.com/v/6a0c764286b6595f49f4e927
-  focus:
-    x: 65
-    'y': 55
+photoless: true
 ---
 ## A record bar on the business island
 

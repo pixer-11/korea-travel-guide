@@ -1,55 +1,46 @@
 ---
-title: "AGRA BAZAAR: Travel Guide"
-description: "AGRA BAZAAR is a small market listing at 8/63 Sewala Jat, Dhawlikar, in Rakabganj, Agra, open 10am to 8:30pm every day except Saturday, when it is closed."
-country: "India"
-region: "Agra"
-category: "hidden-gem"
-pubDate: "2026-09-24T07:43:26.115Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Busy_street_in_the_old_Bazaar%2C_Agra%2C_11-2009_-_panoramio.jpg"
-  credit: "Photo: David M. / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Busy_street_in_the_old_Bazaar,_Agra,_11-2009_-_panoramio.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 60
-gallery: []
+title: 'AGRA BAZAAR: Travel Guide'
+description: AGRA BAZAAR is a small market listing at 8/63 Sewala Jat, Dhawlikar, in Rakabganj, Agra, open 10am to 8:30pm every day except Saturday, when it is closed.
+country: India
+region: Agra
+category: hidden-gem
+pubDate: '2026-09-24T07:43:26.115Z'
 place:
-  id: "ChIJuUwkat13dDkRXuZwl85jH70"
-  name: "AGRA BAZAAR"
-  address: "8/63, Sewala Jat, Dhawlikar, Rakabganj, Agra, Uttar Pradesh 282003, India"
+  id: ChIJuUwkat13dDkRXuZwl85jH70
+  name: AGRA BAZAAR
+  address: 8/63, Sewala Jat, Dhawlikar, Rakabganj, Agra, Uttar Pradesh 282003, India
   rating: 4
   userRatingsTotal: 94
-  googleMapsUrl: "https://maps.google.com/?cid=13627720736401581662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13627720736401581662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.177512999999998
   lng: 78.0084024
   openingHours:
-    - "Monday: 10:00 AM – 8:30 PM"
-    - "Tuesday: 10:00 AM – 8:30 PM"
-    - "Wednesday: 10:00 AM – 8:30 PM"
-    - "Thursday: 10:00 AM – 8:30 PM"
-    - "Friday: 10:00 AM – 8:30 PM"
-    - "Saturday: Closed"
-    - "Sunday: 10:00 AM – 8:30 PM"
+    - 'Monday: 10:00 AM – 8:30 PM'
+    - 'Tuesday: 10:00 AM – 8:30 PM'
+    - 'Wednesday: 10:00 AM – 8:30 PM'
+    - 'Thursday: 10:00 AM – 8:30 PM'
+    - 'Friday: 10:00 AM – 8:30 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: 10:00 AM – 8:30 PM'
 tags:
-  - "agra"
-  - "local market"
-quickAnswer: "AGRA BAZAAR is a small market listing at 8/63 Sewala Jat, Dhawlikar, in Rakabganj, Agra, open 10am to 8:30pm every day except Saturday, when it is closed. It fits best as a short stop on a non-Saturday afternoon between the Taj Mahal and Agra Fort sights. Get there on your own with the full address, not through a driver's recommendation."
+  - agra
+  - local market
+quickAnswer: AGRA BAZAAR is a small market listing at 8/63 Sewala Jat, Dhawlikar, in Rakabganj, Agra, open 10am to 8:30pm every day except Saturday, when it is closed. It fits best as a short stop on a non-Saturday afternoon between the Taj Mahal and Agra Fort sights. Get there on your own with the full address, not through a driver's recommendation.
 faq:
-  - q: "What days is AGRA BAZAAR open?"
-    a: "It opens 10:00am to 8:30pm Sunday through Friday. It is closed on Saturday, which catches out visitors who expect a Sunday closure."
-  - q: "Where exactly is AGRA BAZAAR?"
-    a: "At 8/63 Sewala Jat, Dhawlikar, Rakabganj, Agra 282003, in central Agra a short drive from Agra Fort. Drop a map pin on the full address, because 'Agra Bazaar' is easily confused with Sadar Bazaar or Kinari Bazaar."
-  - q: "How do I get there from the Taj Mahal?"
-    a: "Book an Uber or Ola to the exact address, or take an auto-rickshaw after agreeing the fare. Refuse any detours to other shops offered along the way."
-  - q: "How long should I plan to spend?"
-    a: "Allow 30 to 60 minutes for browsing. It works well as an afternoon stop after the Taj Mahal or Agra Fort, and on Fridays, when the Taj is closed."
-  - q: "Can I pay by card?"
-    a: "UPI QR payments are the norm in Agra, and foreign cards are less reliable at smaller outlets. Carry some rupees as backup and ask for a bill for larger purchases."
+  - q: What days is AGRA BAZAAR open?
+    a: It opens 10:00am to 8:30pm Sunday through Friday. It is closed on Saturday, which catches out visitors who expect a Sunday closure.
+  - q: Where exactly is AGRA BAZAAR?
+    a: At 8/63 Sewala Jat, Dhawlikar, Rakabganj, Agra 282003, in central Agra a short drive from Agra Fort. Drop a map pin on the full address, because 'Agra Bazaar' is easily confused with Sadar Bazaar or Kinari Bazaar.
+  - q: How do I get there from the Taj Mahal?
+    a: Book an Uber or Ola to the exact address, or take an auto-rickshaw after agreeing the fare. Refuse any detours to other shops offered along the way.
+  - q: How long should I plan to spend?
+    a: Allow 30 to 60 minutes for browsing. It works well as an afternoon stop after the Taj Mahal or Agra Fort, and on Fridays, when the Taj is closed.
+  - q: Can I pay by card?
+    a: UPI QR payments are the norm in Agra, and foreign cards are less reliable at smaller outlets. Carry some rupees as backup and ask for a bill for larger purchases.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 ## Rakabganj, not the Taj Ganj strip

@@ -228,6 +228,14 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               `EXCEPTION: if the subject IS a viewpoint, observation deck or scenic overlook, the panorama seen FROM it is what visitors come for — a photo of that view, consistent with this locale, is a CORRECT hero.\n` +
               `REJECT the place in a state a visitor will not see: under construction, scaffolded, being restored, closed off, or before it was finished.\n` +
               `REJECT a photograph OF A SIGN, notice, plaque, map, poster, banner or screen — text about the place is not a picture of it, however clearly it names it.\n` +
+              // Selection only. Brightness numbers cannot say this: measured on
+              // all 3,644 live heroes (2026-11-13), a floodlit bridge and an
+              // unlit lane at night have the same mean luma and the same share
+              // of black. Nine venue heroes were too dark to show the place
+              // (Heidelberg's Old Bridge as a black aerial, a cafe ceiling).
+              (existing
+                ? ''
+                : `REJECT a photo too dark to make out its subject: an unlit street or room at night, a place lost in shadow. A LIT landmark, skyline, sign or stage at night is fine.\n`) +
               // Re-audit is the OPPOSITE bar. "When unsure, REJECT" is right for
               // choosing a new photo and wrong for judging one that already
               // passed: the night the selection rules got stricter, the patrol

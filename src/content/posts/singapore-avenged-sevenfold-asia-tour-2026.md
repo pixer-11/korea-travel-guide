@@ -33,15 +33,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg
-  credit: 'Photo: Metalheart / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20180603_N%C3%BCrnberg_Rock_im_Park_Avenged_Sevenfold_0123.jpg/3840px-20180603_N%C3%BCrnberg_Rock_im_Park_Avenged_Sevenfold_0123.jpg
+  credit: 'Photo: © Markus Felix | PushingPixels (contact me) / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_in_Bercy_1.jpg
+  source: https://commons.wikimedia.org/wiki/File:20180603_N%C3%BCrnberg_Rock_im_Park_Avenged_Sevenfold_0123.jpg
   focus:
-    x: 46
-    'y': 39
-    top: 35
-    bottom: 43
+    x: 54
+    'y': 27
+    top: 24
+    bottom: 30
 ---
 ## Why this show matters
 

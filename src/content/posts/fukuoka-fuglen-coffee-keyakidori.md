@@ -5,14 +5,6 @@ country: Japan
 region: Fukuoka
 category: hidden-gem
 pubDate: '2026-07-29'
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/66805671_TcriChD9yv7A1egWZ3X97_AalkLtgcaPozEiWUtSd7s.jpg
-  credit: 'Photo: Foursquare user content (Fuglen Keyakidori)'
-  license: foursquare
-  source: https://foursquare.com/v/69fa74ddf1dd8e03f96a420a
-  focus:
-    x: 50
-    y: 35
 tags:
   - fukuoka
   - new & trending
@@ -30,6 +22,14 @@ faq:
     a: Keyakidori Avenue itself, with its boutiques and cafés under a canopy of zelkova trees, is the main draw within walking distance, along with the broader Tenjin and Yakuin districts.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/66805671_ZEv5IFJEzz6v-fQ3hNhHmn2Te6Dz_cvlY_hj-ivYcA0.jpg
+  credit: 'Photo: Foursquare user content (Fuglen Keyakidori)'
+  license: foursquare
+  source: https://foursquare.com/v/69fa74ddf1dd8e03f96a420a
+  focus:
+    x: 55
+    'y': 65
 ---
 ## Why go
 

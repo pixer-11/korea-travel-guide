@@ -54,11 +54,6 @@
   "category": "Bob Dylan",
   "at": "2026-10-08T14:52:21.321Z"
  },
- "singapore-avenged-sevenfold-asia-tour-2026": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg",
-  "category": "Avenged Sevenfold",
-  "at": "2026-10-08T14:52:39.341Z"
- },
  "taipei-xg-taipei-arena-concert": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/230127_XG_Music_Bank_01.png",
   "category": "XG",
@@ -163,11 +158,6 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/G-Dragon_-_M.O.T.T.E_World_Tour_in_Sydney_2017_-_10.jpg",
   "category": "G-Dragon",
   "at": "2026-10-12T00:03:50.482Z"
- },
- "dubai-trevor-noah-live-in-dubai": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg/3840px-Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg",
-  "category": "Trevor Noah",
-  "at": "2026-10-12T00:04:02.768Z"
  },
  "taipei-taipei-marathon": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2021_Taipei_Marathon_starting_point.jpg/3840px-2021_Taipei_Marathon_starting_point.jpg",
@@ -1268,5 +1258,30 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Slayer_-_pentagram_-_live_2006.jpg",
   "category": "Slayer",
   "at": "2026-11-12T04:32:10.804Z"
+ },
+ "bangkok-avenged-sevenfold-asia-tour-2026": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Avenged_Sevenfold_concert_2009.jpg",
+  "category": "Avenged Sevenfold",
+  "at": "2026-11-13T00:08:29.288Z"
+ },
+ "dubai-amr-diab-live-in-dubai": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Amr_Abdul_Baset_Diab.jpg",
+  "category": "Amr Diab",
+  "at": "2026-11-13T00:08:51.890Z"
+ },
+ "dubai-trevor-noah-live-in-dubai": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Trevor_Noah_at_Malapo_Crossing.jpg",
+  "category": "Trevor Noah",
+  "at": "2026-11-13T00:09:19.197Z"
+ },
+ "jakarta-avenged-sevenfold-jakarta-2026": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johnny_Christ_in_2018.jpg/3840px-Johnny_Christ_in_2018.jpg",
+  "category": "Avenged Sevenfold",
+  "at": "2026-11-13T00:10:39.455Z"
+ },
+ "singapore-avenged-sevenfold-asia-tour-2026": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20180603_N%C3%BCrnberg_Rock_im_Park_Avenged_Sevenfold_0123.jpg/3840px-20180603_N%C3%BCrnberg_Rock_im_Park_Avenged_Sevenfold_0123.jpg",
+  "category": "Avenged Sevenfold",
+  "at": "2026-11-13T00:11:42.107Z"
  }
 }

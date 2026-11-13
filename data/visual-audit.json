@@ -421,11 +421,23 @@
   "reason": "Qasr Al Hosn fortress with modern Abu Dhabi skyline",
   "at": "2026-07-25T02:40:23.669Z"
  },
+ "abu-dhabi-saikindo\u0001https://fastly.4sqi.net/img/general/original/1384727293_97i_VR9f-cGWWDvirud6ywM2rfQy0_H-Ic0Np4FwkqQ.jpg": {
+  "slug": "abu-dhabi-saikindo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Interior shelving, not restaurant venue imagery",
+  "at": "2026-11-13T00:06:58.947Z"
+ },
  "abu-dhabi-saikindo\u0001https://fastly.4sqi.net/img/general/original/1384727293_JU0fj-HQ6bgbDLkOvUJcDgGGpMNDzRJAidtXpsQseAU.jpg": {
   "slug": "abu-dhabi-saikindo",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Sai Kin Doi neon sign, modern trendy interior",
-  "at": "2026-10-05T21:30:22.995Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:08.017Z"
+ },
+ "abu-dhabi-saikindo\u0001https://fastly.4sqi.net/img/general/original/1384727293_PPI3BhSq49e9YIPWeDQpRzmSb64MRMYKx9sO2kIayCg.jpg": {
+  "slug": "abu-dhabi-saikindo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of lamp and menus, not venue view",
+  "at": "2026-11-13T00:07:01.044Z"
  },
  "abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Sonu_Nigam_MI08.jpg": {
   "slug": "abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour",
@@ -651,11 +663,23 @@
   "reason": "publish gate: Exterior of South Australian Museum with signage visible",
   "at": "2026-09-30T14:18:41.189Z"
  },
+ "agra-agra-bazaar\u0001https://live.staticflickr.com/4086/5410967229_62c57658f6_b.jpg": {
+  "slug": "agra-agra-bazaar",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a Meena Bazaar signboard, another market (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:20:56.884Z"
+ },
+ "agra-agra-bazaar\u0001https://live.staticflickr.com/4088/4840219667_d51c946ee9_b.jpg": {
+  "slug": "agra-agra-bazaar",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: two photos pasted on a white sheet, not a photograph of the bazaar (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:19:50.893Z"
+ },
  "agra-agra-bazaar\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Busy_street_in_the_old_Bazaar%2C_Agra%2C_11-2009_-_panoramio.jpg": {
   "slug": "agra-agra-bazaar",
-  "verdict": "MATCH",
-  "reason": "publish gate: Indian bazaar street scene, plausible representative view",
-  "at": "2026-09-24T07:43:19.126Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:07.902Z"
  },
  "agra-agra-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/1920px-Agra_03-2016_10_Agra_Fort.jpg": {
   "slug": "agra-agra-fort",
@@ -2493,6 +2517,12 @@
   "reason": "patrol reject: identity: Commons places this in Paris, post says Bangkok",
   "at": "2026-08-29T02:25:07.204Z"
  },
+ "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Avenged_Sevenfold_concert_2009.jpg": {
+  "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performance, plausible rock band act",
+  "at": "2026-11-13T00:08:29.288Z"
+ },
  "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Avenged_Sevenfold.JPG": {
   "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
   "verdict": "MATCH",
@@ -2532,9 +2562,9 @@
  },
  "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Avenged_Sevenfold_in_Bercy_7.jpg/1920px-Avenged_Sevenfold_in_Bercy_7.jpg": {
   "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
-  "verdict": "MATCH",
-  "reason": "width upgrade: Musician performing with guitar on stage, fits concert event",
-  "at": "2026-09-02T22:15:33.419Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: stage shot almost entirely black, the performer cannot be made out (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:06:08.496Z"
  },
  "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Avenged_Sevenfold.JPG/960px-Avenged_Sevenfold.JPG": {
   "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
@@ -3335,18 +3365,29 @@
   "reasonKo": "레스토랑이 아닌 도시 풍경",
   "at": "2026-08-04T11:56:56.346Z"
  },
+ "bangkok-saladaeng\u0001https://fastly.4sqi.net/img/general/original/8234291_MeuNVVLlA7UtQMc4-yzaT3UsKgPlWQpsmz5aTAztwQY.jpg": {
+  "slug": "bangkok-saladaeng",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Street festival art, not Saladaeng venue/food/interior",
+  "at": "2026-11-13T00:06:31.677Z"
+ },
  "bangkok-saladaeng\u0001https://fastly.4sqi.net/img/general/original/84485681_uC3EIoALBKmv50GGQr2I08PcmqDGduoChUYuv1MAHyU.jpg": {
   "slug": "bangkok-saladaeng",
-  "verdict": "MATCH",
-  "reason": "Night street scene in Bangkok's Saladaeng district",
-  "reasonKo": "방콕 살라댕 지역의 야간 거리 풍경",
-  "at": "2026-08-06T03:07:32.841Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:08.090Z"
  },
  "bangkok-saladaeng\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg/1920px-Silom_Saladaeng_Soi_1_night_view_Don_Ramey_Logan.jpg": {
   "slug": "bangkok-saladaeng",
   "verdict": "WEAK",
   "reason": "Bangkok cityscape, but not specific to Saladaeng venue",
   "at": "2026-07-25T02:41:02.340Z"
+ },
+ "bangkok-saladaeng\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_Sala_Daeng_Intersection_%26_Thai-Japanese_Bridge.jpg/1920px-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_Sala_Daeng_Intersection_%26_Thai-Japanese_Bridge.jpg": {
+  "slug": "bangkok-saladaeng",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows bridge/intersection, not Sala Daeng Road itself",
+  "at": "2026-11-13T00:06:34.585Z"
  },
  "bangkok-sato-san\u0001https://fastly.4sqi.net/img/general/original/13689189_zXV4eEvikdtvnnQG0aNzTabF0OiubW-E-D7dyKk06VE.jpg": {
   "slug": "bangkok-sato-san",
@@ -3880,9 +3921,9 @@
  },
  "barcelona-osteria-condal\u0001https://fastly.4sqi.net/img/general/original/52669440_8iSS-1RklI4uU9jS2kmTH8nmszMo7TpyLwSUSn0dVyY.jpg": {
   "slug": "barcelona-osteria-condal",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Restaurant meal, Barcelona setting, authentic venue photo",
-  "at": "2026-10-01T23:22:58.560Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Foursquare venue Hotel Condal: shopping bags and a salad in a hotel bar, not shown to be the osteria (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:13:33.713Z"
  },
  "barcelona-parada-torres\u0001https://fastly.4sqi.net/img/general/original/5091439_qWXBvKS1-KO3Bxj8v-X27kZIn7uu-n3IT5NpXX_RxlU.jpg": {
   "slug": "barcelona-parada-torres",
@@ -8488,6 +8529,12 @@
   "reason": "publish gate: Golden reliquary shrine, representative image of Cologne landmark",
   "at": "2026-10-02T14:23:56.788Z"
  },
+ "cologne-shrine-of-the-three-kings\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Shrine_of_the_Three_Magi%2C_Cologne_Cathedral_%289812091324%29.jpg": {
+  "slug": "cologne-shrine-of-the-three-kings",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows the golden reliquary shrine itself, representative hero",
+  "at": "2026-11-13T00:15:53.883Z"
+ },
  "cologne-world-darts-gala-cologne\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Darts_host_%284236270709%29.jpg": {
   "slug": "cologne-world-darts-gala-cologne",
   "verdict": "MISMATCH",
@@ -9275,11 +9322,23 @@
   "reason": "Desert landscape with SUV, not restaurant venue",
   "at": "2026-07-25T02:42:33.087Z"
  },
- "dubai-amr-diab-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/Arash_Mohseni%2C_Amr_Diab.jpg": {
+ "dubai-amr-diab-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Amrdiabzzzzzz.jpg": {
+  "slug": "dubai-amr-diab-live-in-dubai",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Pencil sketch illustration, not a real photo",
+  "at": "2026-11-13T00:08:48.350Z"
+ },
+ "dubai-amr-diab-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Amr_Abdul_Baset_Diab.jpg": {
   "slug": "dubai-amr-diab-live-in-dubai",
   "verdict": "MATCH",
-  "reason": "patrol replace: Performer portrait for music event, plausible act",
-  "at": "2026-09-17T22:21:43.813Z"
+  "reason": "patrol replace: Portrait of performer plausibly matching event act",
+  "at": "2026-11-13T00:08:51.890Z"
+ },
+ "dubai-amr-diab-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/Arash_Mohseni%2C_Amr_Diab.jpg": {
+  "slug": "dubai-amr-diab-live-in-dubai",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a promotional artwork with lettering, not a photograph (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:06:09.090Z"
  },
  "dubai-atif-aslam-live\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/Atif_Aslam_at_o2_arena_on_22_april_2012.jpg": {
   "slug": "dubai-atif-aslam-live",
@@ -9506,12 +9565,17 @@
   "reason": "event-mode back-audit: Portrait of performer, valid hero for concert event",
   "at": "2026-09-13T16:20:53.242Z"
  },
- "dubai-nobu-one-za-abeel\u0001https://fastly.4sqi.net/img/general/original/536378159_0kcneMJv1Bb5wGN-Fx1YP5Ss9UA2w1LnWYelZjdz8kg.jpg": {
+ "dubai-nobu-one-za-abeel\u0001https://fastly.4sqi.net/img/general/original/471239124_CXb6P2FF7z6Q29bfaKMaUWq7g_ojlyyAbJk8ySn5ifI.jpg": {
   "slug": "dubai-nobu-one-za-abeel",
   "verdict": "MATCH",
-  "reason": "Modern Dubai interior with artistic neon installation",
-  "reasonKo": "두바이의 현대적 실내 예술 설치미술",
-  "at": "2026-08-03T12:47:29.458Z"
+  "reason": "patrol replace: Rooftop pool overlooking Dubai skyline at night",
+  "at": "2026-11-13T00:09:03.505Z"
+ },
+ "dubai-nobu-one-za-abeel\u0001https://fastly.4sqi.net/img/general/original/536378159_0kcneMJv1Bb5wGN-Fx1YP5Ss9UA2w1LnWYelZjdz8kg.jpg": {
+  "slug": "dubai-nobu-one-za-abeel",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:08.058Z"
  },
  "dubai-nobu-one-za-abeel\u0001https://images.unsplash.com/photo-1726109072699-44852d8fce74?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RHViYWklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjByZXN0YXVyYW50JTIwZm9vZCUyMGRpbmluZ3xlbnwwfDB8fHwxNzg0OTA2NDYyfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "dubai-nobu-one-za-abeel",
@@ -9610,11 +9674,17 @@
   "reason": "patrol replace: Neon sign for Iris Suteki restaurant interior",
   "at": "2026-09-10T21:50:29.216Z"
  },
- "dubai-trevor-noah-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg/3840px-Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg": {
+ "dubai-trevor-noah-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Trevor_Noah_at_Malapo_Crossing.jpg": {
   "slug": "dubai-trevor-noah-live-in-dubai",
   "verdict": "MATCH",
-  "reason": "event publish gate: Concert stage with lighting, matches event type",
-  "at": "2026-10-12T00:04:02.738Z"
+  "reason": "patrol replace: Concert stage setup, Dubai Opera venue interior",
+  "at": "2026-11-13T00:09:19.197Z"
+ },
+ "dubai-trevor-noah-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg/3840px-Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg": {
+  "slug": "dubai-trevor-noah-live-in-dubai",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: an empty stage and curtain, no performer (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:06:08.794Z"
  },
  "dubai-waterfront-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Home_image_WATERFRONT_MARKET.jpg/1920px-Home_image_WATERFRONT_MARKET.jpg": {
   "slug": "dubai-waterfront-market",
@@ -10281,10 +10351,15 @@
  },
  "fukuoka-fuglen-coffee-keyakidori\u0001https://fastly.4sqi.net/img/general/original/66805671_TcriChD9yv7A1egWZ3X97_AalkLtgcaPozEiWUtSd7s.jpg": {
   "slug": "fukuoka-fuglen-coffee-keyakidori",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:07.942Z"
+ },
+ "fukuoka-fuglen-coffee-keyakidori\u0001https://fastly.4sqi.net/img/general/original/66805671_ZEv5IFJEzz6v-fQ3hNhHmn2Te6Dz_cvlY_hj-ivYcA0.jpg": {
+  "slug": "fukuoka-fuglen-coffee-keyakidori",
   "verdict": "MATCH",
-  "reason": "Interior bar/counter, Japanese café ambiance",
-  "reasonKo": "일본 카페 인테리어, 바 카운터",
-  "at": "2026-08-03T12:47:40.450Z"
+  "reason": "patrol replace: Modern café interior, warm wooden aesthetic, Japan",
+  "at": "2026-11-13T00:06:46.998Z"
  },
  "fukuoka-fukuoka-christmas-market-christmas-advent\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Christmas_choral_concert_at_Murmansk_College_of_Arts%2C_2018.jpg": {
   "slug": "fukuoka-fukuoka-christmas-market-christmas-advent",
@@ -10946,6 +11021,12 @@
   "reasonKo": "고아의 역사적 요새 유적지",
   "at": "2026-08-03T12:47:57.581Z"
  },
+ "goa-fort-aguada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Aguada_Fort_Top_View%2C_North_Goa.jpg/3840px-Aguada_Fort_Top_View%2C_North_Goa.jpg": {
+  "slug": "goa-fort-aguada",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Aerial view of Fort Aguada bastion and beach, Goa",
+  "at": "2026-11-13T00:17:05.539Z"
+ },
  "goa-fort-aguada\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fort_Aguada_Remote_view_25012016.jpg/1920px-Fort_Aguada_Remote_view_25012016.jpg": {
   "slug": "goa-fort-aguada",
   "verdict": "MATCH",
@@ -11043,6 +11124,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Birds on table, not representative cafe scene",
   "at": "2026-11-12T17:04:06.932Z"
+ },
+ "gold-coast-ernest-junction-railway-tunnel\u0001https://fastly.4sqi.net/img/general/original/5658400_1SU92x2FPSPK-_Kps_rDYw8OtozNUN5sFM-yYzB1QaM.jpg": {
+  "slug": "gold-coast-ernest-junction-railway-tunnel",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows tunnel entrance and approach path, representative view",
+  "at": "2026-11-13T00:17:17.407Z"
  },
  "gold-coast-ernest-junction-railway-tunnel\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Ernest_Junction_Railway_Tunnel_west_approach_cuttings%2C_2019.jpg": {
   "slug": "gold-coast-ernest-junction-railway-tunnel",
@@ -11943,6 +12030,12 @@
   "reason": "publish gate: Representative tunnel interior view, matches Old Elbe Tunnel",
   "at": "2026-10-05T07:41:41.879Z"
  },
+ "hamburg-planten-un-blomen\u0001https://fastly.4sqi.net/img/general/original/1408023519_alrhdVncMpg2eXV4na_1iuD9e5-rclPlFSLcxt4QkNA.jpg": {
+  "slug": "hamburg-planten-un-blomen",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows Heinrich-Hertz-Turm and park greenery near Planten un Blomen",
+  "at": "2026-11-13T00:17:42.517Z"
+ },
  "hamburg-planten-un-blomen\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/Sonnt%C3%A4gliche_Wiese_in_Planten_un_Blomen.jpg": {
   "slug": "hamburg-planten-un-blomen",
   "verdict": "MATCH",
@@ -12493,11 +12586,17 @@
   "reason": "publish gate: Museum artwork/relief display, representative of museum exhibits",
   "at": "2026-10-12T08:03:15.472Z"
  },
- "heidelberg-old-bridge-heidelberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Bridge_%28Heidelberg%29_from_Philosophenweg_Night_Aug_2020_brighter.jpg/3840px-Old_Bridge_%28Heidelberg%29_from_Philosophenweg_Night_Aug_2020_brighter.jpg": {
+ "heidelberg-old-bridge-heidelberg\u0001https://live.staticflickr.com/6058/5870200697_498df744dc_b.jpg": {
   "slug": "heidelberg-old-bridge-heidelberg",
   "verdict": "MATCH",
-  "reason": "publish gate: Aerial night view of Old Bridge Heidelberg over river",
-  "at": "2026-10-13T08:14:26.904Z"
+  "reason": "patrol replace: Heidelberg's Old Bridge, castle, and riverside at night",
+  "at": "2026-11-13T00:09:45.490Z"
+ },
+ "heidelberg-old-bridge-heidelberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Bridge_%28Heidelberg%29_from_Philosophenweg_Night_Aug_2020_brighter.jpg/3840px-Old_Bridge_%28Heidelberg%29_from_Philosophenweg_Night_Aug_2020_brighter.jpg": {
+  "slug": "heidelberg-old-bridge-heidelberg",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:07.828Z"
  },
  "heidelberg-schlossgarten-heidelberg\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Heidelberg_-_Schlossgarten-001.JPG": {
   "slug": "heidelberg-schlossgarten-heidelberg",
@@ -12920,6 +13019,12 @@
   "reason": "publish gate: Representative courtyard view of historic site architecture",
   "at": "2026-10-03T07:38:45.694Z"
  },
+ "hobart-cascades-female-factory-historic-site\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cascades_Female_Factory_entrance.JPG/3840px-Cascades_Female_Factory_entrance.JPG": {
+  "slug": "hobart-cascades-female-factory-historic-site",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows entrance gate and sign of the historic site",
+  "at": "2026-11-13T00:18:15.097Z"
+ },
  "hobart-elizabeth-street-pier\u0001https://fastly.4sqi.net/img/general/original/33215919_iEKr7RFrkvJ_O0d8u9SD8SmO-auQld8mtyWFlzQbJ_A.jpg": {
   "slug": "hobart-elizabeth-street-pier",
   "verdict": "MATCH",
@@ -12955,6 +13060,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: MONA's distinctive architecture and river view, Hobart",
   "at": "2026-09-28T16:51:59.567Z"
+ },
+ "hobart-port-arthur-historic-site\u0001https://fastly.4sqi.net/img/general/original/8004733_0USih1wEwSyw2IIwbrUqhzRnGdqQNU9Qw0bsqsXVb-M.jpg": {
+  "slug": "hobart-port-arthur-historic-site",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows iconic Penitentiary ruins at Port Arthur Historic Site",
+  "at": "2026-11-13T00:18:37.599Z"
  },
  "hobart-port-arthur-historic-site\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/PortArthurPenitentiary.jpg": {
   "slug": "hobart-port-arthur-historic-site",
@@ -15153,6 +15264,30 @@
   "reason": "patrol reject: Photo of a screen, not the actual event or venue",
   "at": "2026-11-05T01:45:39.597Z"
  },
+ "istanbul-liminal\u0001https://fastly.4sqi.net/img/general/original/12280196_8Xy-TrfWNHFfL88NMFgzNrE4UtBiqkxwr4f81UlpkZ8.jpg": {
+  "slug": "istanbul-liminal",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Dark indoor table shot, not representative venue view",
+  "at": "2026-11-13T00:09:55.166Z"
+ },
+ "istanbul-liminal\u0001https://fastly.4sqi.net/img/general/original/12280196_cSbZMTHjXZ_DBjNpL-0rBxJoBMsMbvbRhJk6NFHX6lI.jpg": {
+  "slug": "istanbul-liminal",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated drink/food tabletop shot, not representative venue view",
+  "at": "2026-11-13T00:09:57.361Z"
+ },
+ "istanbul-liminal\u0001https://fastly.4sqi.net/img/general/original/127885974_Ek4OH_VwihI2Hs6YW4kM0qLLBCrgfmmWw1Av9N24qMo.jpg": {
+  "slug": "istanbul-liminal",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Plated sushi close-up, not representative venue hero shot",
+  "at": "2026-11-13T00:09:59.539Z"
+ },
+ "istanbul-liminal\u0001https://fastly.4sqi.net/img/general/original/127885974__pLTsliQ-JfuR-HXE-5X3y7hwwtA7MJi1_yTKfef7u8.jpg": {
+  "slug": "istanbul-liminal",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Asian cuisine setup, typical Istanbul restaurant ambiance",
+  "at": "2026-11-13T00:10:02.586Z"
+ },
  "istanbul-liminal\u0001https://fastly.4sqi.net/img/general/original/391269740_QaaEuLrmrD14ntZwLivL3zhacMM4_oFvMGhzXQumHAo.jpg": {
   "slug": "istanbul-liminal",
   "verdict": "MISMATCH",
@@ -15161,9 +15296,9 @@
  },
  "istanbul-liminal\u0001https://fastly.4sqi.net/img/general/original/66339995_OmEUk9k8o1rnAj5iYQHo8FkhoZWb25SdDOorX4eUGP0.jpg": {
   "slug": "istanbul-liminal",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Interior seating and drink at venue, plausible hero shot",
-  "at": "2026-09-18T21:47:34.879Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:07.978Z"
  },
  "istanbul-lina-anatolian\u0001https://fastly.4sqi.net/img/general/original/1402308174_R4efqtR002rKTL-Y0xalLRaDJcxXBK3wDN7585V90Ow.jpg": {
   "slug": "istanbul-lina-anatolian",
@@ -15580,9 +15715,9 @@
  },
  "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c3/Avenged_Sevenfold_in_Bercy_4.jpg": {
   "slug": "jakarta-avenged-sevenfold-jakarta-2026",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Two musicians performing on stage with guitars",
-  "at": "2026-10-05T15:22:53.437Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: stage shot almost entirely black, the performer cannot be made out (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:06:08.463Z"
  },
  "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": {
   "slug": "jakarta-avenged-sevenfold-jakarta-2026",
@@ -15596,6 +15731,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in Paris, post says Jakarta",
   "at": "2026-10-05T15:11:53.224Z"
+ },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johnny_Christ_in_2018.jpg/3840px-Johnny_Christ_in_2018.jpg": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Bass player performing at concert event",
+  "at": "2026-11-13T00:10:39.456Z"
  },
  "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Ruka_at_KLIA_20-06-2025.jpg": {
   "slug": "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta",
@@ -16842,11 +16983,17 @@
   "reason": "Sultan Mosque at night, Kampong Glam, Singapore",
   "at": "2026-07-25T02:45:15.218Z"
  },
- "kampong-glam-telok-blangah-hill-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg/1920px-Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg": {
+ "kampong-glam-telok-blangah-hill-park\u0001https://fastly.4sqi.net/img/general/original/85142592_RrpcGh3seqV9lMY3kV9qGvLAk8xCL-aJW8hj_y3C0Uc.jpg": {
   "slug": "kampong-glam-telok-blangah-hill-park",
   "verdict": "MATCH",
-  "reason": "publish gate: Elevated walkway with skyline matches park's canopy walk view",
-  "at": "2026-08-28T08:59:49.726Z"
+  "reason": "patrol replace: Lush tropical park setting matches Singapore hill park venue",
+  "at": "2026-11-13T00:11:01.778Z"
+ },
+ "kampong-glam-telok-blangah-hill-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg/1920px-Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg": {
+  "slug": "kampong-glam-telok-blangah-hill-park",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:07.867Z"
  },
  "kampot-bokor-hill-station\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bokor_palace_hotel_Cambodia.jpg/1920px-Bokor_palace_hotel_Cambodia.jpg": {
   "slug": "kampot-bokor-hill-station",
@@ -25933,6 +26080,12 @@
   "reason": "publish gate: Plaza fountain with trees, representative of El Llano park",
   "at": "2026-10-07T07:40:01.667Z"
  },
+ "oaxaca-hierve-el-agua\u0001https://fastly.4sqi.net/img/general/original/64768789_gSKnpTSub5RaS19PSbStyRATx51pzoLtFhakBX9Iooc.jpg": {
+  "slug": "oaxaca-hierve-el-agua",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows the mineral rock formation and pool at Hierve el Agua",
+  "at": "2026-11-13T00:19:00.048Z"
+ },
  "oaxaca-hierve-el-agua\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/HierveElAguaMexico1.jpg": {
   "slug": "oaxaca-hierve-el-agua",
   "verdict": "MATCH",
@@ -32968,9 +33121,9 @@
  },
  "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg": {
   "slug": "singapore-avenged-sevenfold-asia-tour-2026",
-  "verdict": "MATCH",
-  "reason": "performer upgrade: Concert performer on stage, fits band tour event",
-  "at": "2026-10-08T14:52:39.351Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: stage shot almost entirely black, the performer cannot be made out (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:06:08.424Z"
  },
  "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Avenged_Sevenfold_in_Bercy_5.jpg": {
   "slug": "singapore-avenged-sevenfold-asia-tour-2026",
@@ -33008,6 +33161,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Singapore Indoor Stadium exterior entrance, correct venue.",
   "at": "2026-08-31T23:40:18.237Z"
+ },
+ "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20180603_N%C3%BCrnberg_Rock_im_Park_Avenged_Sevenfold_0123.jpg/3840px-20180603_N%C3%BCrnberg_Rock_im_Park_Avenged_Sevenfold_0123.jpg": {
+  "slug": "singapore-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performance, likely Avenged Sevenfold or similar roc",
+  "at": "2026-11-13T00:11:42.107Z"
  },
  "singapore-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg": {
   "slug": "singapore-babymonster-world-tour-choom",
@@ -33947,12 +34106,17 @@
   "reason": "publish gate: Street view of Strasbourg's Grande-Île with cathedral visible",
   "at": "2026-11-04T07:42:57.274Z"
  },
- "strasbourg-musee-de-l-uvre-notre-dame\u0001https://fastly.4sqi.net/img/general/original/66963966_YgwacUMKC3lN8VU5STt4ytD-KwazEbXteXZ_jM3LVvw.jpg": {
+ "strasbourg-musee-de-l-uvre-notre-dame\u0001https://fastly.4sqi.net/img/general/original/110499992_CIe5ne_gJQe9SMcDOqudbmUMuWv3OT3koVv3WU2B_ww.jpg": {
   "slug": "strasbourg-musee-de-l-uvre-notre-dame",
   "verdict": "MATCH",
-  "reason": "Stained glass windows in museum interior display",
-  "reasonKo": "박물관 내부의 스테인드글라스 전시",
-  "at": "2026-08-03T14:39:07.769Z"
+  "reason": "patrol replace: Medieval museum interior with period artifacts and arches",
+  "at": "2026-11-13T00:11:59.718Z"
+ },
+ "strasbourg-musee-de-l-uvre-notre-dame\u0001https://fastly.4sqi.net/img/general/original/66963966_YgwacUMKC3lN8VU5STt4ytD-KwazEbXteXZ_jM3LVvw.jpg": {
+  "slug": "strasbourg-musee-de-l-uvre-notre-dame",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: too dark to make out the place (owner photo review 2026-11-13, brightness sweep)",
+  "at": "2026-11-13T00:06:08.127Z"
  },
  "strasbourg-parc-de-l-orangerie\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Strasbourg_%28Bas-Rhin%29_-_Neustadt_-_Parc_de_l%27Orangerie_-_52314133303.jpg/3840px-Strasbourg_%28Bas-Rhin%29_-_Neustadt_-_Parc_de_l%27Orangerie_-_52314133303.jpg": {
   "slug": "strasbourg-parc-de-l-orangerie",
@@ -33997,6 +34161,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Chinese garden with pond, pavilion, lantern - representative view",
   "at": "2026-10-05T07:54:09.864Z"
+ },
+ "stuttgart-chinese-garden-stuttgart\u0001https://upload.wikimedia.org/wikipedia/commons/6/65/Chinesischer_Garten_Stuttgart.jpg": {
+  "slug": "stuttgart-chinese-garden-stuttgart",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the Chinese Garden (Qingyin Yuan) in Stuttgart — Chinese pavilion by water, representative of Chinese Garden",
+  "at": "2026-11-13T00:21:25.474Z"
+ },
+ "stuttgart-chinese-garden-stuttgart\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chinese_garden_%E2%80%93_Panorama_%28Andreas_Mischok_via_Poly_Haven%29.jpg/3840px-Chinese_garden_%E2%80%93_Panorama_%28Andreas_Mischok_via_Poly_Haven%29.jpg": {
+  "slug": "stuttgart-chinese-garden-stuttgart",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: 360-degree equirectangular panorama, warped as a flat banner (owner photo review 2026-11-13)",
+  "at": "2026-11-13T00:19:50.581Z"
  },
  "stuttgart-karlsplatz\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Flohmarkt_Karlsplatz_Stuttgart_2.jpg": {
   "slug": "stuttgart-karlsplatz",

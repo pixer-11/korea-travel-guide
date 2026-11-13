@@ -1,35 +1,30 @@
 ---
 title: 'Port Arthur Historic Site: Hobart Travel Guide (4.6★)'
-description: >-
-  Port Arthur Historic Site is a former convict settlement on the Tasman
-  Peninsula, about a 90-minute drive southeast of Hobart along the Arthur
-  Highway. 4.6★ (11,611 reviews) — what visitors say, hours, and tips.
+description: Port Arthur Historic Site is a former convict settlement on the Tasman Peninsula, about a 90-minute drive southeast of Hobart along the Arthur Highway. 4.6★ (11,611 reviews) — what visitors say, hours, and tips.
 country: Australia
 region: Hobart
 category: attraction
 pubDate: '2026-10-02T08:03:22.920Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/c/c2/PortArthurPenitentiary.jpg
-  credit: 'Photo: Martybugs at en.wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:PortArthurPenitentiary.jpg'
+  url: https://fastly.4sqi.net/img/general/original/8004733_0USih1wEwSyw2IIwbrUqhzRnGdqQNU9Qw0bsqsXVb-M.jpg
+  credit: 'Photo: Foursquare user content (Port Arthur Historic Site)'
+  license: foursquare
+  source: https://foursquare.com/v/4bd422e841b9ef3b857f01e6
   focus:
     x: 45
-    'y': 55
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1373690244_TFETBdPINurHovVomEVq7Q2ulWh8Y0aO77YJthkWXr4.jpg"
-    credit: "Photo: Foursquare user content (Port Arthur Historic Site)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bd422e841b9ef3b857f01e6"
+  - url: https://fastly.4sqi.net/img/general/original/1373690244_TFETBdPINurHovVomEVq7Q2ulWh8Y0aO77YJthkWXr4.jpg
+    credit: 'Photo: Foursquare user content (Port Arthur Historic Site)'
+    license: foursquare
+    source: https://foursquare.com/v/4bd422e841b9ef3b857f01e6
 place:
   id: ChIJm4KN7kOlbaoRY-m_N1IXZec
   name: Port Arthur Historic Site
-  address: 'Visitor Centre, Port Arthur TAS 7182, Australia'
+  address: Visitor Centre, Port Arthur TAS 7182, Australia
   rating: 4.6
   userRatingsTotal: 11611
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=16673758837299210595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=16673758837299210595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -43.1457711
   lng: 147.8505419
@@ -45,40 +40,18 @@ place:
 tags:
   - hobart
   - historic site
-quickAnswer: >-
-  Port Arthur Historic Site is a former convict settlement on the Tasman
-  Peninsula, about a 90-minute drive southeast of Hobart along the Arthur
-  Highway. Plan a full day: the site is open 9am to 5pm daily, and arriving
-  close to 9am gives you time for the harbour cruise, the main ruins and the
-  Isle of the Dead before closing.
+quickAnswer: 'Port Arthur Historic Site is a former convict settlement on the Tasman Peninsula, about a 90-minute drive southeast of Hobart along the Arthur Highway. Plan a full day: the site is open 9am to 5pm daily, and arriving close to 9am gives you time for the harbour cruise, the main ruins and the Isle of the Dead before closing.'
 faq:
   - q: How far is Port Arthur Historic Site from Hobart?
-    a: >-
-      It is about a 90-minute drive southeast of Hobart. You cross the Tasman
-      Bridge and take the Arthur Highway (A9) through Sorell and down the Tasman
-      Peninsula. Coach day tours from Hobart are the main option if you are not
-      driving.
+    a: It is about a 90-minute drive southeast of Hobart. You cross the Tasman Bridge and take the Arthur Highway (A9) through Sorell and down the Tasman Peninsula. Coach day tours from Hobart are the main option if you are not driving.
   - q: What are the opening hours?
-    a: >-
-      The site is open 9am to 5pm every day of the week. Evening ghost tours run
-      after closing and are booked separately, so check the official website for
-      dates.
+    a: The site is open 9am to 5pm every day of the week. Evening ghost tours run after closing and are booked separately, so check the official website for dates.
   - q: How long should I spend at Port Arthur?
-    a: >-
-      Plan on a full day. The introductory walk and harbour cruise, the
-      Penitentiary, the Separate Prison, the church and the restored houses
-      easily take five to six hours. That doesn't include an Isle of the Dead or
-      Point Puer tour, or stops on the drive.
+    a: Plan on a full day. The introductory walk and harbour cruise, the Penitentiary, the Separate Prison, the church and the restored houses easily take five to six hours. That doesn't include an Isle of the Dead or Point Puer tour, or stops on the drive.
   - q: How do I avoid the crowds?
-    a: >-
-      Leave Hobart early enough to arrive near the 9am opening. Coach tours tend
-      to arrive mid-morning, so going early lets you see the Separate Prison and
-      the Penitentiary before the groups get there.
+    a: Leave Hobart early enough to arrive near the 9am opening. Coach tours tend to arrive mid-morning, so going early lets you see the Separate Prison and the Penitentiary before the groups get there.
   - q: What else is nearby?
-    a: >-
-      On the way you can stop at Eaglehawk Neck, the Tessellated Pavement,
-      Tasman Arch and Devils Kitchen in Tasman National Park. Remarkable Cave is
-      a short drive south of the site.
+    a: On the way you can stop at Eaglehawk Neck, the Tessellated Pavement, Tasman Arch and Devils Kitchen in Tasman National Park. Remarkable Cave is a short drive south of the site.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-03'

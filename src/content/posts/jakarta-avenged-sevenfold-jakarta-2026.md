@@ -31,15 +31,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Avenged_Sevenfold_in_Bercy_4.jpg
-  credit: 'Photo: Metalheart / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johnny_Christ_in_2018.jpg/3840px-Johnny_Christ_in_2018.jpg
+  credit: 'Photo: © Markus Felix | PushingPixels (contact me) / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_in_Bercy_4.jpg
+  source: https://commons.wikimedia.org/wiki/File:Johnny_Christ_in_2018.jpg
   focus:
-    x: 77
-    'y': 31
-    top: 24
-    bottom: 37
+    x: 50
+    'y': 18
+    top: 10
+    bottom: 26
 ---
 ## A metal band in an 80,000-seat bowl
 

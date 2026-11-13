@@ -1,57 +1,56 @@
 ---
-title: "Ernest Junction Railway Tunnel: Gold Coast Travel Guide"
-description: "Ernest Junction Railway Tunnel sits off Ashmore Road in Molendinar, Gold Coast, a short drive inland from Southport."
-country: "Australia"
-region: "Gold Coast"
-category: "attraction"
-pubDate: "2026-10-02T07:52:16.128Z"
+title: 'Ernest Junction Railway Tunnel: Gold Coast Travel Guide'
+description: Ernest Junction Railway Tunnel sits off Ashmore Road in Molendinar, Gold Coast, a short drive inland from Southport.
+country: Australia
+region: Gold Coast
+category: attraction
+pubDate: '2026-10-02T07:52:16.128Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/51/Ernest_Junction_Railway_Tunnel_west_approach_cuttings%2C_2019.jpg"
-  credit: "Photo: Heritage branch staff / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ernest_Junction_Railway_Tunnel_west_approach_cuttings,_2019.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/5658400_1SU92x2FPSPK-_Kps_rDYw8OtozNUN5sFM-yYzB1QaM.jpg
+  credit: 'Photo: Foursquare user content (Ernest Junction Tunnel)'
+  license: foursquare
+  source: https://foursquare.com/v/5daa643c2557e80008b6deb3
   focus:
-    x: 49
-    y: 50
+    x: 50
+    'y': 60
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernest_Junction_tunnel_portal_July_2026_3.jpg/3840px-Ernest_Junction_tunnel_portal_July_2026_3.jpg"
-    credit: "Photo: Nottashaa432 / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ernest_Junction_tunnel_portal_July_2026_3.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernest_Junction_tunnel_portal_July_2026_3.jpg/3840px-Ernest_Junction_tunnel_portal_July_2026_3.jpg
+    credit: 'Photo: Nottashaa432 / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ernest_Junction_tunnel_portal_July_2026_3.jpg
 place:
-  id: "ChIJBZQibygRkWsRHQ27qTSBXbw"
-  name: "Ernest Junction Railway Tunnel"
-  address: "797 Ashmore Rd, Molendinar QLD 4214, Australia"
+  id: ChIJBZQibygRkWsRHQ27qTSBXbw
+  name: Ernest Junction Railway Tunnel
+  address: 797 Ashmore Rd, Molendinar QLD 4214, Australia
   rating: 4.6
   userRatingsTotal: 98
-  googleMapsUrl: "https://maps.google.com/?cid=13573146915150433565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13573146915150433565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -27.9653417
   lng: 153.35626539999998
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "gold coast"
-  - "historic site"
-quickAnswer: "Ernest Junction Railway Tunnel sits off Ashmore Road in Molendinar, Gold Coast, a short drive inland from Southport. It's a heritage-listed fragment of the old South Coast railway line, which closed in 1964. Google lists the site as open 24 hours, but go in daylight, give it 30 to 45 minutes, and wear shoes that can handle mud."
+  - gold coast
+  - historic site
+quickAnswer: Ernest Junction Railway Tunnel sits off Ashmore Road in Molendinar, Gold Coast, a short drive inland from Southport. It's a heritage-listed fragment of the old South Coast railway line, which closed in 1964. Google lists the site as open 24 hours, but go in daylight, give it 30 to 45 minutes, and wear shoes that can handle mud.
 faq:
-  - q: "Where exactly is Ernest Junction Railway Tunnel?"
-    a: "It's at 797 Ashmore Rd, Molendinar QLD 4214, a short drive inland from Southport on the Gold Coast. Enter the full street address into your map app, because the site is easy to miss from the road."
-  - q: "Can I get there by public transport?"
-    a: "Not directly. The G:link light rail reaches Southport and Griffith University, and a local bus or rideshare covers the last stretch. Check current bus routes on the Translink website before you go."
-  - q: "Is it open at night?"
-    a: "Google lists it as open 24 hours because there's no gate, but go in daylight. The ground is uneven and often wet, and Ashmore Road is busy."
-  - q: "How long should I spend there?"
-    a: "About 30 to 45 minutes is enough to see the portal and cutting. Pair it with Southport or the Broadwater parklands nearby."
-  - q: "Can I walk through the tunnel?"
-    a: "Only where it's clearly open and safe. If the portal is fenced, gated or signed, stay outside, since closures at old tunnels often protect wildlife or visitors."
+  - q: Where exactly is Ernest Junction Railway Tunnel?
+    a: It's at 797 Ashmore Rd, Molendinar QLD 4214, a short drive inland from Southport on the Gold Coast. Enter the full street address into your map app, because the site is easy to miss from the road.
+  - q: Can I get there by public transport?
+    a: Not directly. The G:link light rail reaches Southport and Griffith University, and a local bus or rideshare covers the last stretch. Check current bus routes on the Translink website before you go.
+  - q: Is it open at night?
+    a: Google lists it as open 24 hours because there's no gate, but go in daylight. The ground is uneven and often wet, and Ashmore Road is busy.
+  - q: How long should I spend there?
+    a: About 30 to 45 minutes is enough to see the portal and cutting. Pair it with Southport or the Broadwater parklands nearby.
+  - q: Can I walk through the tunnel?
+    a: Only where it's clearly open and safe. If the portal is fenced, gated or signed, stay outside, since closures at old tunnels often protect wildlife or visitors.
 aiGenerated: true
 draft: false
 ---

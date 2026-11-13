@@ -22,12 +22,12 @@ faq:
     a: Suadiye has a growing cluster of newer restaurants, cafes and bars within walking distance, plus a coastal path along the Marmara shoreline that's worth a stroll before or after your drink.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/66339995_OmEUk9k8o1rnAj5iYQHo8FkhoZWb25SdDOorX4eUGP0.jpg
+  url: https://fastly.4sqi.net/img/general/original/127885974__pLTsliQ-JfuR-HXE-5X3y7hwwtA7MJi1_yTKfef7u8.jpg
   credit: 'Photo: Foursquare user content (Liminal)'
   license: foursquare
   source: https://foursquare.com/v/69b5c6b9f46f2a03fd8598f2
   focus:
-    x: 55
+    x: 50
     'y': 45
 ---
 

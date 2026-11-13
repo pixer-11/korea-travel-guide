@@ -5,14 +5,6 @@ country: France
 region: Strasbourg
 category: attraction
 pubDate: '2026-07-26T08:31:00.021Z'
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/66963966_YgwacUMKC3lN8VU5STt4ytD-KwazEbXteXZ_jM3LVvw.jpg
-  credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'
-  license: foursquare
-  source: https://foursquare.com/v/4d9850a4744f37047bc4eb57
-  focus:
-    x: 65
-    y: 35
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/197608695_1ABwlhhTcLg01pxJVcIsipNpyJWBENg4VMafqcBMZ9o.jpg
     credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'
@@ -28,7 +20,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 48.580977
   lng: 7.751474
-  phone: '+33 3 68 98 50 00'
+  phone: +33 3 68 98 50 00
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM'
@@ -54,6 +46,14 @@ faq:
     a: No advance booking is necessary; it doesn't draw the queues the cathedral does, so you can typically buy tickets at the door and walk straight in.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/110499992_CIe5ne_gJQe9SMcDOqudbmUMuWv3OT3koVv3WU2B_ww.jpg
+  credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'
+  license: foursquare
+  source: https://foursquare.com/v/4d9850a4744f37047bc4eb57
+  focus:
+    x: 50
+    'y': 55
 ---
 
 You almost walk past it. The entrance sits in the shadow of Strasbourg Cathedral's rose-pink sandstone spire, squeezed between half-timbered gables on Place du Château, and unless you already know to look for the low wooden door and small sign, the crowds streaming toward the cathedral's west front carry right on past it. That's the first thing that makes this museum feel different from almost everything else in the old town: even at peak tourist season, you can stand in front of a 13th-century stained-glass window here in near silence.

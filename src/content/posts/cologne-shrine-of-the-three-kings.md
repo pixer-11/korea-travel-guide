@@ -1,53 +1,52 @@
 ---
-title: "Shrine of the Three Kings: Cologne Travel Guide (4.8★)"
-description: "The Shrine of the Three Kings sits behind the high altar of Cologne Cathedral, a short walk from Köln Hauptbahnhof, and you can view it from the ambulatory without a ticket. 4.8★ (392 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Cologne"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:24:14.776Z"
+title: 'Shrine of the Three Kings: Cologne Travel Guide (4.8★)'
+description: The Shrine of the Three Kings sits behind the high altar of Cologne Cathedral, a short walk from Köln Hauptbahnhof, and you can view it from the ambulatory without a ticket. 4.8★ (392 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Cologne
+category: hidden-gem
+pubDate: '2026-10-02T14:24:14.776Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/99/Cologne_Cathedral_Shrine_of_Magi.jpg"
-  credit: "Photo: Arminia / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cologne_Cathedral_Shrine_of_Magi.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Shrine_of_the_Three_Magi%2C_Cologne_Cathedral_%289812091324%29.jpg
+  credit: 'Photo: Gary Todd from Xinzheng, China / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Shrine_of_the_Three_Magi,_Cologne_Cathedral_(9812091324).jpg
   focus:
     x: 50
-    y: 45
-gallery: []
+    'y': 45
 place:
-  id: "ChIJ-ydP-a8lv0cRfBO-EehI_1s"
-  name: "Shrine of the Three Kings"
-  address: "Domkloster 4, 50667 Köln, Germany"
+  id: ChIJ-ydP-a8lv0cRfBO-EehI_1s
+  name: Shrine of the Three Kings
+  address: Domkloster 4, 50667 Köln, Germany
   rating: 4.8
   userRatingsTotal: 392
-  googleMapsUrl: "https://maps.google.com/?cid=6629097338079941500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6629097338079941500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.9412981
   lng: 6.958764599999999
-  phone: "+49 221 17940300"
+  phone: +49 221 17940300
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 11:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
 tags:
-  - "cologne"
-  - "hidden gem"
-quickAnswer: "The Shrine of the Three Kings sits behind the high altar of Cologne Cathedral, a short walk from Köln Hauptbahnhof, and you can view it from the ambulatory without a ticket. Listed hours are 10am to 7pm Monday to Saturday and 11am to 7pm on Sunday. Plan 20 to 30 minutes for the shrine, and allow longer if you also want the Gero Cross and the Lochner altarpiece nearby."
+  - cologne
+  - hidden gem
+quickAnswer: The Shrine of the Three Kings sits behind the high altar of Cologne Cathedral, a short walk from Köln Hauptbahnhof, and you can view it from the ambulatory without a ticket. Listed hours are 10am to 7pm Monday to Saturday and 11am to 7pm on Sunday. Plan 20 to 30 minutes for the shrine, and allow longer if you also want the Gero Cross and the Lochner altarpiece nearby.
 faq:
-  - q: "Where exactly is the Shrine of the Three Kings?"
-    a: "It is inside Cologne Cathedral (Domkloster 4), behind the high altar at the east end of the choir. Walk the full length of the nave and view it from the ambulatory."
-  - q: "What are the visiting hours?"
-    a: "10am to 7pm Monday to Saturday, and 11am to 7pm on Sunday. Services can close parts of the cathedral, so allow some flexibility."
-  - q: "How do I get there by public transport?"
-    a: "Take a train to Köln Hauptbahnhof or a tram to Dom/Hbf U-Bahn station. Both are directly beside the cathedral square."
-  - q: "How long should I allow?"
-    a: "20 to 30 minutes for the shrine itself. Allow an hour or more if you add the Gero Cross, the Lochner altarpiece and the cathedral treasury."
-  - q: "Can I see the skulls inside?"
-    a: "Usually not. Traditionally the front panel is opened around the Feast of the Epiphany (6 January), when the crowned skulls can be seen."
+  - q: Where exactly is the Shrine of the Three Kings?
+    a: It is inside Cologne Cathedral (Domkloster 4), behind the high altar at the east end of the choir. Walk the full length of the nave and view it from the ambulatory.
+  - q: What are the visiting hours?
+    a: 10am to 7pm Monday to Saturday, and 11am to 7pm on Sunday. Services can close parts of the cathedral, so allow some flexibility.
+  - q: How do I get there by public transport?
+    a: Take a train to Köln Hauptbahnhof or a tram to Dom/Hbf U-Bahn station. Both are directly beside the cathedral square.
+  - q: How long should I allow?
+    a: 20 to 30 minutes for the shrine itself. Allow an hour or more if you add the Gero Cross, the Lochner altarpiece and the cathedral treasury.
+  - q: Can I see the skulls inside?
+    a: Usually not. Traditionally the front panel is opened around the Feast of the Epiphany (6 January), when the crowned skulls can be seen.
 aiGenerated: true
 draft: false
 ---

@@ -33,15 +33,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Arash_Mohseni%2C_Amr_Diab.jpg
-  credit: 'Photo: Arash Mohseni / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/6/66/Amr_Abdul_Baset_Diab.jpg
+  credit: 'Photo: Kareem Nour / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Arash_Mohseni,_Amr_Diab.jpg
+  source: https://commons.wikimedia.org/wiki/File:Amr_Abdul_Baset_Diab.jpg
   focus:
-    x: 66
+    x: 47
     'y': 15
-    top: 6
-    bottom: 24
+    top: 2
+    bottom: 28
 ---
 Amr Diab does not need much of an introduction across the Arab world, and Dubai has long been one of his most reliable stops outside Cairo. On November 7, 2026, he was set to bring a full-scale production to Coca-Cola Arena, mixing the newer singles that keep him on regional radio with the decades-old tracks that made him a household name from the Gulf to the Maghreb.
 

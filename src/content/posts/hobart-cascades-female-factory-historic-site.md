@@ -1,57 +1,57 @@
 ---
-title: "Cascades Female Factory Historic Site: Hobart Travel Guide"
-description: "The Cascades Female Factory Historic Site in South Hobart is a World Heritage–listed former convict women's workhouse at 16 Degraves St, open daily 9:30am to 4:30pm. 4.4★ (1,666 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Hobart"
-category: "hidden-gem"
-pubDate: "2026-10-03T07:38:45.658Z"
+title: 'Cascades Female Factory Historic Site: Hobart Travel Guide'
+description: The Cascades Female Factory Historic Site in South Hobart is a World Heritage–listed former convict women's workhouse at 16 Degraves St, open daily 9:30am to 4:30pm. 4.4★ (1,666 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Hobart
+category: hidden-gem
+pubDate: '2026-10-03T07:38:45.658Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/30/CascadesWomens.jpg"
-  credit: "Photo: Beattie Studios, Hobart / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:CascadesWomens.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cascades_Female_Factory_entrance.JPG/3840px-Cascades_Female_Factory_entrance.JPG
+  credit: 'Photo: Azoma / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cascades_Female_Factory_entrance.JPG
   focus:
-    x: 40
-    y: 50
+    x: 45
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Yard_4_washing_lines%2C_Female_Factory.jpg"
-    credit: "Photo: Philarazzi / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Yard_4_washing_lines,_Female_Factory.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/6/6f/Yard_4_washing_lines%2C_Female_Factory.jpg
+    credit: 'Photo: Philarazzi / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Yard_4_washing_lines,_Female_Factory.jpg
 place:
-  id: "ChIJcWyo5eh1bqoRQkCL2ZmEHPs"
-  name: "Cascades Female Factory Historic Site"
-  address: "16 Degraves St, South Hobart TAS 7004, Australia"
+  id: ChIJcWyo5eh1bqoRQkCL2ZmEHPs
+  name: Cascades Female Factory Historic Site
+  address: 16 Degraves St, South Hobart TAS 7004, Australia
   rating: 4.4
   userRatingsTotal: 1666
-  googleMapsUrl: "https://maps.google.com/?cid=18094483199182454850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18094483199182454850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -42.8938148
   lng: 147.29931539999998
-  phone: "+61 1800 139 478"
+  phone: +61 1800 139 478
   openingHours:
-    - "Monday: 9:30 AM – 4:30 PM"
-    - "Tuesday: 9:30 AM – 4:30 PM"
-    - "Wednesday: 9:30 AM – 4:30 PM"
-    - "Thursday: 9:30 AM – 4:30 PM"
-    - "Friday: 9:30 AM – 4:30 PM"
-    - "Saturday: 9:30 AM – 4:30 PM"
-    - "Sunday: 9:30 AM – 4:30 PM"
+    - 'Monday: 9:30 AM – 4:30 PM'
+    - 'Tuesday: 9:30 AM – 4:30 PM'
+    - 'Wednesday: 9:30 AM – 4:30 PM'
+    - 'Thursday: 9:30 AM – 4:30 PM'
+    - 'Friday: 9:30 AM – 4:30 PM'
+    - 'Saturday: 9:30 AM – 4:30 PM'
+    - 'Sunday: 9:30 AM – 4:30 PM'
 tags:
-  - "hobart"
-  - "old quarter"
-quickAnswer: "The Cascades Female Factory Historic Site in South Hobart is a World Heritage–listed former convict women's workhouse at 16 Degraves St, open daily 9:30am to 4:30pm. Allow one to two hours for the walled yards, the exhibits and a dramatised tour, and walk out along the Hobart Rivulet track from the city centre."
+  - hobart
+  - old quarter
+quickAnswer: The Cascades Female Factory Historic Site in South Hobart is a World Heritage–listed former convict women's workhouse at 16 Degraves St, open daily 9:30am to 4:30pm. Allow one to two hours for the walled yards, the exhibits and a dramatised tour, and walk out along the Hobart Rivulet track from the city centre.
 faq:
-  - q: "How do I get to the Cascades Female Factory from Hobart CBD?"
-    a: "Walk the Hobart Rivulet track upstream from the city. It takes roughly 30 to 40 minutes on a gentle incline and ends near Degraves Street in South Hobart. Metro Tasmania buses also run along Macquarie Street towards South Hobart and the Cascade Brewery area."
-  - q: "What are the opening hours?"
-    a: "The site opens 9:30am to 4:30pm every day of the week. Arrive with enough time to see the yards before closing, especially if you have booked a tour."
-  - q: "How long should I spend there?"
-    a: "An hour covers the yards and exhibits at your own pace. Allow up to two hours if you join a guided or dramatised tour."
-  - q: "Do I need to book a tour?"
-    a: "It's wise to. Tours run at set times with limited spaces, so book ahead through the Port Arthur Historic Site Management Authority's official website, which also lists current ticket prices."
-  - q: "What else is nearby?"
-    a: "The Cascade Brewery is a short walk up the road. Salamanca Place and Battery Point are back towards the city. Port Arthur, the related convict site on the Tasman Peninsula, makes a full-day trip from Hobart."
+  - q: How do I get to the Cascades Female Factory from Hobart CBD?
+    a: Walk the Hobart Rivulet track upstream from the city. It takes roughly 30 to 40 minutes on a gentle incline and ends near Degraves Street in South Hobart. Metro Tasmania buses also run along Macquarie Street towards South Hobart and the Cascade Brewery area.
+  - q: What are the opening hours?
+    a: The site opens 9:30am to 4:30pm every day of the week. Arrive with enough time to see the yards before closing, especially if you have booked a tour.
+  - q: How long should I spend there?
+    a: An hour covers the yards and exhibits at your own pace. Allow up to two hours if you join a guided or dramatised tour.
+  - q: Do I need to book a tour?
+    a: It's wise to. Tours run at set times with limited spaces, so book ahead through the Port Arthur Historic Site Management Authority's official website, which also lists current ticket prices.
+  - q: What else is nearby?
+    a: The Cascade Brewery is a short walk up the road. Salamanca Place and Battery Point are back towards the city. Port Arthur, the related convict site on the Tasman Peninsula, makes a full-day trip from Hobart.
 aiGenerated: true
 draft: false
 ---

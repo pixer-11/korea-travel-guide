@@ -13,15 +13,6 @@ eventPerformer:
   name: Trevor Noah
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg/3840px-Trevor_Noah_2019-02-01_-_pre-show_stage_%2846151352475%29.jpg
-  credit: 'Photo: Hayden Schiff from Cincinnati, USA / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Trevor_Noah_2019-02-01_-_pre-show_stage_(46151352475).jpg
-  focus:
-    x: 50
-    'y': 50
-gallery: []
 tags:
   - dubai
   - event
@@ -39,6 +30,16 @@ faq:
     a: The Dubai Fountain performances on Burj Lake are a few minutes' walk away. Souk Al Bahar and The Dubai Mall both have waterfront restaurants, and the Burj Khalifa's observation decks are next door.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4f/Trevor_Noah_at_Malapo_Crossing.jpg
+  credit: 'Photo: Shiraz Chakera / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Trevor_Noah_at_Malapo_Crossing.jpg
+  focus:
+    x: 51
+    'y': 52
+    top: 50
+    bottom: 54
 ---
 
 ## Five nights under a glass hull

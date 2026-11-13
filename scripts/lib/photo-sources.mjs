@@ -44,6 +44,10 @@ async function fsqFetch(pathAndQuery) {
 const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'restaurante', 'ristorante', 'the', 'and', 'bar', 'house', 'shop', 'store',
   'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center',
   'centre', 'hotel', 'lounge',
+  // Added 2026-11-13: 'market' was here and its other names were not. "AGRA
+  // BAZAAR" (a named market) took a diptych of some bazaar lanes, then the
+  // Meena Bazaar signboard, on the word 'bazaar' alone.
+  'bazaar', 'bazar', 'souk', 'souq', 'mercado', 'marche', 'pasar',
   // Added 2026-07-28: 'Tonkin Specialty Coffee' matched 'Shin Specialty Coffee'
   // on the word 'specialty' alone. These describe a category, never a venue.
   'specialty', 'speciality', 'roasters', 'roastery', 'bakery', 'bistro', 'eatery', 'diner', 'branch',

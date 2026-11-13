@@ -1,38 +1,30 @@
 ---
 title: 'Planten un Blomen: Hamburg Travel Guide (4.8★)'
-description: >-
-  Planten un Blomen is a free public park in central Hamburg, stretching from
-  Dammtor station to the Messe exhibition halls, open daily from 7am to 11pm.
-  4.8★ (26,977 reviews) — what visitors say, hours, and tips.
+description: Planten un Blomen is a free public park in central Hamburg, stretching from Dammtor station to the Messe exhibition halls, open daily from 7am to 11pm. 4.8★ (26,977 reviews) — what visitors say, hours, and tips.
 country: Germany
 region: Hamburg
 category: attraction
 pubDate: '2026-10-05T07:52:24.152Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/a/a9/Sonnt%C3%A4gliche_Wiese_in_Planten_un_Blomen.jpg
-  credit: 'Photo: Hinnerk Haardt / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Sonnt%C3%A4gliche_Wiese_in_Planten_un_Blomen.jpg
+  url: https://fastly.4sqi.net/img/general/original/1408023519_alrhdVncMpg2eXV4na_1iuD9e5-rclPlFSLcxt4QkNA.jpg
+  credit: 'Photo: Foursquare user content (Planten un Blomen)'
+  license: foursquare
+  source: https://foursquare.com/v/4b40a24ff964a52076b925e3
   focus:
     x: 50
-    'y': 45
+    'y': 50
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Planten_un_blomen_sommer2023_03.jpg/3840px-Planten_un_blomen_sommer2023_03.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Planten_un_blomen_sommer2023_03.jpg/3840px-Planten_un_blomen_sommer2023_03.jpg
     credit: 'Photo: Dirtsc / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Planten_un_blomen_sommer2023_03.jpg
+    source: https://commons.wikimedia.org/wiki/File:Planten_un_blomen_sommer2023_03.jpg
 place:
   id: ChIJnQn-7D2PsUcRXC53QWChQkM
   name: Planten un Blomen
-  address: 'St. Petersburger Str., 20355 Hamburg, Germany'
+  address: St. Petersburger Str., 20355 Hamburg, Germany
   rating: 4.8
   userRatingsTotal: 26977
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=4846613583791337052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=4846613583791337052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 53.5620171
   lng: 9.9820652
@@ -48,39 +40,18 @@ place:
 tags:
   - hamburg
   - park
-quickAnswer: >-
-  Planten un Blomen is a free public park in central Hamburg, stretching from
-  Dammtor station to the Messe exhibition halls, open daily from 7am to 11pm.
-  Come for the Japanese Garden and tea house, the rose garden and the tropical
-  greenhouses by day, then stay after dark in summer for the water-light
-  concerts on the Parksee.
+quickAnswer: Planten un Blomen is a free public park in central Hamburg, stretching from Dammtor station to the Messe exhibition halls, open daily from 7am to 11pm. Come for the Japanese Garden and tea house, the rose garden and the tropical greenhouses by day, then stay after dark in summer for the water-light concerts on the Parksee.
 faq:
   - q: What are the opening hours of Planten un Blomen?
-    a: >-
-      The park is open every day from 7am to 11pm, with the same hours seven
-      days a week. Individual attractions inside, such as the greenhouses and
-      the tea house, keep their own schedules, so check those separately.
+    a: The park is open every day from 7am to 11pm, with the same hours seven days a week. Individual attractions inside, such as the greenhouses and the tea house, keep their own schedules, so check those separately.
   - q: What is the nearest station to Planten un Blomen?
-    a: >-
-      Dammtor station (S-Bahn and regional trains) is closest to the eastern
-      entrance and the greenhouses. Stephansplatz (U1) is nearby too. For the
-      Japanese Garden and the Parksee, Messehallen (U2) on the western side is
-      the most convenient.
+    a: Dammtor station (S-Bahn and regional trains) is closest to the eastern entrance and the greenhouses. Stephansplatz (U1) is nearby too. For the Japanese Garden and the Parksee, Messehallen (U2) on the western side is the most convenient.
   - q: When can I see the water-light concerts?
-    a: >-
-      They run nightly on the Parksee from late spring to early autumn and begin
-      after dark, so the start time shifts across the season. The current
-      schedule is on the park's official website. Arrive early to get a seat on
-      the terraces.
+    a: They run nightly on the Parksee from late spring to early autumn and begin after dark, so the start time shifts across the season. The current schedule is on the park's official website. Arrive early to get a seat on the terraces.
   - q: How long should I spend at Planten un Blomen?
-    a: >-
-      Give it about two hours for the greenhouses, the Japanese Garden and the
-      lake. Allow a half day or a whole evening if you add a summer concert, a
-      tea ceremony or the fountain show.
+    a: Give it about two hours for the greenhouses, the Japanese Garden and the lake. Allow a half day or a whole evening if you add a summer concert, a tea ceremony or the fountain show.
   - q: What is near Planten un Blomen?
-    a: >-
-      The Heinrich-Hertz-Turm and the Messe halls border the western side. From
-      the Dammtor end you can walk to the Alster lakes and Hamburg's Rathaus.
+    a: The Heinrich-Hertz-Turm and the Messe halls border the western side. From the Dammtor end you can walk to the Alster lakes and Hamburg's Rathaus.
 aiGenerated: true
 draft: false
 updatedDate: '2026-10-05'
