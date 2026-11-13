@@ -1,36 +1,45 @@
 ---
-title: "Piazzale Michelangelo: Florence Travel Guide (4.8★)"
-description: "Piazzale Michelangelo is the hilltop viewing terrace in Florence's Oltrarno, just above the San Niccolò neighbourhood, with the whole city laid out below: the Duomo, Palazzo Vecchio and the Arno bridges. 4.8★ (115,450 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Florence"
-category: "attraction"
-pubDate: "2026-11-13T07:48:59.082Z"
+title: 'Piazzale Michelangelo: Florence Travel Guide (4.8★)'
+description: >-
+  Piazzale Michelangelo is the hilltop viewing terrace in Florence's Oltrarno,
+  just above the San Niccolò neighbourhood, with the whole city laid out below:
+  the Duomo, Palazzo Vecchio and the Arno bridges. 4.8★ (115,456 reviews) — what
+  visitors say, hours, and tips.
+country: Italy
+region: Florence
+category: attraction
+pubDate: '2026-11-13T07:48:59.082Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Panorama_di_Firenze_centro_visto_dal_Piazzale_Michelangelo.jpg"
-  credit: "Photo: PROPOLI87 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panorama_di_Firenze_centro_visto_dal_Piazzale_Michelangelo.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a2/Panorama_di_Firenze_centro_visto_dal_Piazzale_Michelangelo.jpg
+  credit: 'Photo: PROPOLI87 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Panorama_di_Firenze_centro_visto_dal_Piazzale_Michelangelo.jpg
+  via: act
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Firenze_-_Vista_dal_Piazzale_Michelangelo.jpg"
-    credit: "Photo: PROPOLI87 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Firenze_-_Vista_dal_Piazzale_Michelangelo.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/d5/Firenze_-_Vista_dal_Piazzale_Michelangelo.jpg
+    credit: 'Photo: PROPOLI87 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Firenze_-_Vista_dal_Piazzale_Michelangelo.jpg
 place:
-  id: "ChIJQzhmQ_dTKhMRGVENguFo97Q"
-  name: "Piazzale Michelangelo"
-  address: "Piazzale Michelangelo, 50125 Firenze FI, Italy"
+  id: ChIJQzhmQ_dTKhMRGVENguFo97Q
+  name: Piazzale Michelangelo
+  address: 'Piazzale Michelangelo, 50125 Firenze FI, Italy'
   rating: 4.8
-  userRatingsTotal: 115450
-  googleMapsUrl: "https://maps.google.com/?cid=13040006563833401625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 115456
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13040006563833401625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.7629314
   lng: 11.265056099999999
   busyness:
-    updated: 2026-11-13
+    updated: 2026-11-13T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -51,24 +60,46 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_5137396f4675674e455647524d684b54645f516d687a514a496843"
+    venueId: ven_5137396f4675674e455647524d684b54645f516d687a514a496843
 tags:
-  - "florence"
-  - "viewpoint"
-quickAnswer: "Piazzale Michelangelo is the hilltop viewing terrace in Florence's Oltrarno, just above the San Niccolò neighbourhood, with the whole city laid out below: the Duomo, Palazzo Vecchio and the Arno bridges. The best time to go is 7am–8am, the quietest hour on both weekdays and weekends. Avoid 10am–8pm on weekends, when the terrace is usually at its busiest."
+  - florence
+  - viewpoint
+quickAnswer: >-
+  Piazzale Michelangelo is the hilltop viewing terrace in Florence's Oltrarno,
+  just above the San Niccolò neighbourhood, with the whole city laid out below:
+  the Duomo, Palazzo Vecchio and the Arno bridges. The best time to go is
+  7am–8am, the quietest hour on both weekdays and weekends. Avoid 10am–8pm on
+  weekends, when the terrace is usually at its busiest.
 faq:
-  - q: "When is the quietest time to visit Piazzale Michelangelo?"
-    a: "The quietest hour is usually 7am–8am, on both weekdays and weekends. Try not to come between 10am and 8pm on weekends, which is typically the busiest stretch."
-  - q: "How do I get to Piazzale Michelangelo from the centre of Florence?"
-    a: "Walk across Ponte alle Grazie, head east through San Niccolò to Porta San Niccolò, then climb the Rampe del Poggi. It takes roughly 20–30 minutes from the Ponte Vecchio. City buses 12 and 13 also stop at the piazzale."
-  - q: "Is the David at Piazzale Michelangelo the original?"
-    a: "No. It is a bronze replica. Michelangelo's marble original is indoors at the Galleria dell'Accademia. The base copies his Dawn, Dusk, Day and Night figures from the Medici tombs."
-  - q: "How long should I spend there?"
-    a: "About an hour for the view and the square. Allow two to three hours if you add San Miniato al Monte, the rose garden and the walk back down through San Niccolò."
-  - q: "What is near Piazzale Michelangelo?"
-    a: "San Salvatore al Monte and the Romanesque basilica of San Miniato al Monte are just uphill. The Giardino delle Rose and the seasonal Iris Garden are on the slopes nearby, and San Niccolò's streets lie at the bottom of the hill."
+  - q: When is the quietest time to visit Piazzale Michelangelo?
+    a: >-
+      The quietest hour is usually 7am–8am, on both weekdays and weekends. Try
+      not to come between 10am and 8pm on weekends, which is typically the
+      busiest stretch.
+  - q: How do I get to Piazzale Michelangelo from the centre of Florence?
+    a: >-
+      Walk across Ponte alle Grazie, head east through San Niccolò to Porta San
+      Niccolò, then climb the Rampe del Poggi. It takes roughly 20–30 minutes
+      from the Ponte Vecchio. City buses 12 and 13 also stop at the piazzale.
+  - q: Is the David at Piazzale Michelangelo the original?
+    a: >-
+      No. It is a bronze replica. Michelangelo's marble original is indoors at
+      the Galleria dell'Accademia. The base copies his Dawn, Dusk, Day and Night
+      figures from the Medici tombs.
+  - q: How long should I spend there?
+    a: >-
+      About an hour for the view and the square. Allow two to three hours if you
+      add San Miniato al Monte, the rose garden and the walk back down through
+      San Niccolò.
+  - q: What is near Piazzale Michelangelo?
+    a: >-
+      San Salvatore al Monte and the Romanesque basilica of San Miniato al Monte
+      are just uphill. The Giardino delle Rose and the seasonal Iris Garden are
+      on the slopes nearby, and San Niccolò's streets lie at the bottom of the
+      hill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 ## A terrace built to look back at Florence

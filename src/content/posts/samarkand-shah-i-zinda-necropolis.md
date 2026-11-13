@@ -1,44 +1,51 @@
 ---
-title: "Shah-i-Zinda necropolis: Samarkand Travel Guide (4.8★)"
-description: "Shah-i-Zinda is a climbing corridor of turquoise-and-cobalt mausoleums just northeast of Samarkand's Registan, open daily 7am–10pm. 4.8★ (5,594 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Samarkand"
-category: "attraction"
-pubDate: "2026-08-20T09:14:49.255Z"
+title: 'Shah-i-Zinda necropolis: Samarkand Travel Guide (4.8★)'
+description: >-
+  Shah-i-Zinda is a climbing corridor of turquoise-and-cobalt mausoleums just
+  northeast of Samarkand's Registan, open daily 7am–10pm. 4.8★ (6,163 reviews) —
+  what visitors say, hours, and tips.
+country: Uzbekistan
+region: Samarkand
+category: attraction
+pubDate: '2026-08-20T09:14:49.255Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Shohi-Zinda_majmuasi_%28Shah-i-Zinda%2C_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0%29.jpg/3840px-Shohi-Zinda_majmuasi_%28Shah-i-Zinda%2C_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0%29.jpg"
-  credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shohi-Zinda_majmuasi_(Shah-i-Zinda,_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Shohi-Zinda_majmuasi_%28Shah-i-Zinda%2C_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0%29.jpg/3840px-Shohi-Zinda_majmuasi_%28Shah-i-Zinda%2C_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0%29.jpg
+  credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Shohi-Zinda_majmuasi_(Shah-i-Zinda,_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0).jpg
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Shah-i-Zinda_02.jpg/3840px-Shah-i-Zinda_02.jpg"
-    credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Shah-i-Zinda_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Shah-i-Zinda_02.jpg/3840px-Shah-i-Zinda_02.jpg
+    credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Shah-i-Zinda_02.jpg'
 place:
-  id: "ChIJtWrGxqQYTT8R7glw_6oUdmA"
-  name: "Shah-i-Zinda necropolis"
-  address: "Shohi Zinda ko'chasi, Samarqand, Samarqand viloyati, Uzbekistan"
+  id: ChIJtWrGxqQYTT8R7glw_6oUdmA
+  name: Shah-i-Zinda necropolis
+  address: 'Shohi Zinda ko''chasi, Samarqand, Samarqand viloyati, Uzbekistan'
   rating: 4.8
-  userRatingsTotal: 5594
-  googleMapsUrl: "https://maps.google.com/?cid=6950765799555467758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6163
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6950765799555467758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.6621368
   lng: 66.9879377
-  phone: "+998 71 233 53 82"
+  phone: +998 71 233 53 82
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 7:00 AM – 10:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -64,24 +71,41 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_416d64556f365f776c67375238545459517178477257744a496843"
+    venueId: ven_416d64556f365f776c67375238545459517178477257744a496843
 tags:
-  - "samarkand"
-  - "Shah-i-Zinda"
-quickAnswer: "Shah-i-Zinda is a climbing corridor of turquoise-and-cobalt mausoleums just northeast of Samarkand's Registan, open daily 7am–10pm. It's genuinely one of the city's most-visited sites, so aim for early morning or after 7pm to avoid the 11am–7pm weekend crush. Budget 60–90 minutes to walk the full staircase of tombs up to the hilltop core."
+  - samarkand
+  - Shah-i-Zinda
+quickAnswer: >-
+  Shah-i-Zinda is a climbing corridor of turquoise-and-cobalt mausoleums just
+  northeast of Samarkand's Registan, open daily 7am–10pm. It's genuinely one of
+  the city's most-visited sites, so aim for early morning or after 7pm to avoid
+  the 11am–7pm weekend crush. Budget 60–90 minutes to walk the full staircase of
+  tombs up to the hilltop core.
 faq:
-  - q: "How long should I spend at Shah-i-Zinda?"
-    a: "Plan for 60–90 minutes to walk the full staircase, pause at the main mausoleums, and reach the shrine chamber at the top."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning right after the 7am opening or after 7pm are calmest on both weekdays and weekends. Weekends get crowded between 11am and 7pm."
-  - q: "How do I get there from the Registan?"
-    a: "It's about a 15–20 minute walk northeast, or a few minutes by taxi. No metro serves Samarkand, so walking or a short taxi ride are the standard options."
-  - q: "What should I wear?"
-    a: "Dress modestly — shoulders and knees covered — since it's an active cemetery and shrine, not just a historic sight."
-  - q: "Can I combine it with other sights nearby?"
-    a: "Yes. Bibi-Khanym Mosque and Siab Bazaar are a short walk away, and the Registan is about 15–20 minutes on foot, making an easy half-day loop."
+  - q: How long should I spend at Shah-i-Zinda?
+    a: >-
+      Plan for 60–90 minutes to walk the full staircase, pause at the main
+      mausoleums, and reach the shrine chamber at the top.
+  - q: When is the quietest time to visit?
+    a: >-
+      Early morning right after the 7am opening or after 7pm are calmest on both
+      weekdays and weekends. Weekends get crowded between 11am and 7pm.
+  - q: How do I get there from the Registan?
+    a: >-
+      It's about a 15–20 minute walk northeast, or a few minutes by taxi. No
+      metro serves Samarkand, so walking or a short taxi ride are the standard
+      options.
+  - q: What should I wear?
+    a: >-
+      Dress modestly — shoulders and knees covered — since it's an active
+      cemetery and shrine, not just a historic sight.
+  - q: Can I combine it with other sights nearby?
+    a: >-
+      Yes. Bibi-Khanym Mosque and Siab Bazaar are a short walk away, and the
+      Registan is about 15–20 minutes on foot, making an easy half-day loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 ## Why go

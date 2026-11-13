@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: salta-catedral-basilica-de-salta
-srcHash: 'eace4debaf3e'
+srcHash: '0f3e6f5f99e3'
 title: サルタ大聖堂の旅行ガイド（4.8★）
-description: サルタ大聖堂（Catedral Basílica de Salta）は、サルタ中心部のメイン広場である7月9日広場の北側、España 558にあります。評価は4.8★（9,192件のレビュー）です。訪れた人の声や開館時間、見学のコツをまとめました。
+description: サルタ大聖堂（Catedral Basílica de Salta）は、サルタ中心部のメイン広場である7月9日広場の北側、España 558にあります。評価は4.8★（9,211件のレビュー）です。訪れた人の声や開館時間、見学のコツをまとめました。
 quickAnswer: サルタ大聖堂（Catedral Basílica de Salta）は、サルタ中心部のメイン広場である7月9日広場（Plaza 9 de Julio）の北側、España 558に建っています。ピンク色のファサードと金色に輝く内部が特徴で、今も現役の大聖堂として使われています。昼間はいったん閉まるので注意してください。週末は午前8時〜9時と午後5時〜6時が比較的すいています。午前10時〜12時と午後7時〜9時は避けるのがおすすめです。
 faq:
   - q: サルタ大聖堂がいちばんすいているのは何時ごろですか？

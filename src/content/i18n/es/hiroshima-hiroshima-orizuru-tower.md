@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hiroshima-hiroshima-orizuru-tower
-srcHash: '7b6e7310896b'
+srcHash: '54a78c059417'
 title: 'Torre Orizuru de Hiroshima: guía de viaje (4.0★)'
-description: 'Junto a la Cúpula de la Bomba Atómica, en la avenida Aioi-dori del barrio de Ōtemachi (distrito de Naka), se alza la Torre Orizuru de Hiroshima, cuya azotea al aire libre se asoma directamente sobre la Cúpula y el Parque Conmemorativo de la Paz. 4.0★ (4,635 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Junto a la Cúpula de la Bomba Atómica, en la avenida Aioi-dori del barrio de Ōtemachi (distrito de Naka), se alza la Torre Orizuru de Hiroshima, cuya azotea al aire libre se asoma directamente sobre la Cúpula y el Parque Conmemorativo de la Paz. 4.0★ (4,638 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Junto a la Cúpula de la Bomba Atómica, en la avenida Aioi-dori del barrio de Ōtemachi (distrito de Naka), se alza la Torre Orizuru de Hiroshima (Hiroshima Orizuru Tower). Desde su azotea al aire libre se contemplan a vista de pájaro la Cúpula y el Parque Conmemorativo de la Paz. Tanto entre semana como en fin de semana, la franja más tranquila es la de 10am a 11am. Los sábados y domingos conviene evitar el intervalo de 1pm–5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Torre Orizuru de Hiroshima?

@@ -1,59 +1,88 @@
 ---
-title: "San Bernardo's Hill: Salta Travel Guide (4.7★)"
-description: "San Bernardo's Hill (Cerro San Bernardo) rises straight out of eastern Salta, and you can reach the summit viewpoint by cable car from Parque San Martín or by a long stone stairway that starts behind the Güemes Monument. 4.7★ (53,144 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Salta"
-category: "attraction"
-pubDate: "2026-10-25T13:01:01.785Z"
+title: 'San Bernardo''s Hill: Salta Travel Guide (4.7★)'
+description: >-
+  San Bernardo's Hill (Cerro San Bernardo) rises straight out of eastern Salta,
+  and you can reach the summit viewpoint by cable car from Parque San Martín or
+  by a long stone stairway that starts behind the Güemes Monument. 4.7★ (53,283
+  reviews) — what visitors say, hours, and tips.
+country: Argentina
+region: Salta
+category: attraction
+pubDate: '2026-10-25T13:01:01.785Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/82/Salta_Desde_El_Cerro_San_Bernardo_%28242638079%29.jpeg"
-  credit: "Photo: Nicolas Solop / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Salta_Desde_El_Cerro_San_Bernardo_(242638079).jpeg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/82/Salta_Desde_El_Cerro_San_Bernardo_%28242638079%29.jpeg
+  credit: 'Photo: Nicolas Solop / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Salta_Desde_El_Cerro_San_Bernardo_(242638079).jpeg
+  via: act
   focus:
     x: 50
-    y: 60
+    'y': 60
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/74/Cerro_san_bernardo_2.jpg"
-    credit: "Photo: Gonzalo Rivero / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cerro_san_bernardo_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/74/Cerro_san_bernardo_2.jpg
+    credit: 'Photo: Gonzalo Rivero / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Cerro_san_bernardo_2.jpg'
 place:
-  id: "ChIJe79Z1YTDG5QRp9udRq-nV-g"
-  name: "San Bernardo's Hill"
-  address: "Cam. Cerro San Bernardo, A4400 Salta, Argentina"
+  id: ChIJe79Z1YTDG5QRp9udRq-nV-g
+  name: San Bernardo's Hill
+  address: 'Cam. Cerro San Bernardo, A4400 Salta, Argentina'
   rating: 4.7
-  userRatingsTotal: 53144
-  googleMapsUrl: "https://maps.google.com/?cid=16742034511018974119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 53283
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16742034511018974119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -24.7892723
   lng: -65.3925136
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "salta"
-  - "top attraction"
-quickAnswer: "San Bernardo's Hill (Cerro San Bernardo) rises straight out of eastern Salta, and you can reach the summit viewpoint by cable car from Parque San Martín or by a long stone stairway that starts behind the Güemes Monument. Plan on 2–3 hours: ride up, spend an hour at the top, walk down. The site currently lists 9:00 AM – 7:00 PM daily, but check the cable car's own hours before you go because they can change through the year."
+  - salta
+  - top attraction
+quickAnswer: >-
+  San Bernardo's Hill (Cerro San Bernardo) rises straight out of eastern Salta,
+  and you can reach the summit viewpoint by cable car from Parque San Martín or
+  by a long stone stairway that starts behind the Güemes Monument. Plan on 2–3
+  hours: ride up, spend an hour at the top, walk down. The site currently lists
+  9:00 AM – 7:00 PM daily, but check the cable car's own hours before you go
+  because they can change through the year.
 faq:
-  - q: "How do I get to the top of San Bernardo's Hill?"
-    a: "Take the cable car from Parque San Martín on Avenida Hipólito Yrigoyen, or climb the stairway that starts behind the Güemes Monument at the top of Paseo Güemes. A paved road also lets taxis drive to the summit."
-  - q: "How long does the stair climb take?"
-    a: "Most people need 45 minutes to an hour to climb more than a thousand steps. The altitude makes it harder than it looks. Walking down is quicker but hard on the knees."
-  - q: "How much time should I set aside for the visit?"
-    a: "Allow 2–3 hours: the ride or climb up, an hour at the summit lookouts, gardens and café, and the walk down."
-  - q: "What are the opening hours?"
-    a: "It is currently listed as 9:00 AM – 7:00 PM daily. Cable car and summit hours can change with the season, so confirm on the official site or at the base station before you go."
-  - q: "What else is nearby?"
-    a: "Parque San Martín sits at the cable car base. Plaza 9 de Julio, the cathedral and the Museo de Arqueología de Alta Montaña are about a 20-minute walk west along Paseo Güemes."
+  - q: How do I get to the top of San Bernardo's Hill?
+    a: >-
+      Take the cable car from Parque San Martín on Avenida Hipólito Yrigoyen, or
+      climb the stairway that starts behind the Güemes Monument at the top of
+      Paseo Güemes. A paved road also lets taxis drive to the summit.
+  - q: How long does the stair climb take?
+    a: >-
+      Most people need 45 minutes to an hour to climb more than a thousand
+      steps. The altitude makes it harder than it looks. Walking down is quicker
+      but hard on the knees.
+  - q: How much time should I set aside for the visit?
+    a: >-
+      Allow 2–3 hours: the ride or climb up, an hour at the summit lookouts,
+      gardens and café, and the walk down.
+  - q: What are the opening hours?
+    a: >-
+      It is currently listed as 9:00 AM – 7:00 PM daily. Cable car and summit
+      hours can change with the season, so confirm on the official site or at
+      the base station before you go.
+  - q: What else is nearby?
+    a: >-
+      Parque San Martín sits at the cable car base. Plaza 9 de Julio, the
+      cathedral and the Museo de Arqueología de Alta Montaña are about a
+      20-minute walk west along Paseo Güemes.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 ## A green wall at the end of the street

@@ -1,47 +1,77 @@
 ---
-title: "Valle Encantado: Salta Travel Guide (4.8★)"
-description: "Valle Encantado is a small high valley just off RP33 near the top of the Cuesta del Obispo, on the road from Salta city to Cachi. 4.8★ (221 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Salta"
-category: "hidden-gem"
-pubDate: "2026-10-27T07:54:48.702Z"
+title: 'Valle Encantado: Salta Travel Guide (4.8★)'
+description: >-
+  Valle Encantado is a small high valley just off RP33 near the top of the
+  Cuesta del Obispo, on the road from Salta city to Cachi. 4.8★ (222 reviews) —
+  what visitors say, hours, and tips.
+country: Argentina
+region: Salta
+category: hidden-gem
+pubDate: '2026-10-27T07:54:48.702Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg/3840px-Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg"
-  credit: "Photo: TraviataTheiler / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg/3840px-Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg
+  credit: 'Photo: TraviataTheiler / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Paisaje_capturado_desde_un_sector_del_Valle_Encantado_-_Parque_Nacional_Los_Cardones.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJPSki41KrHpQRNQ_GBNdm9lk"
-  name: "Valle Encantado"
-  address: "RP33, Salta, Argentina"
+  id: ChIJPSki41KrHpQRNQ_GBNdm9lk
+  name: Valle Encantado
+  address: 'RP33, Salta, Argentina'
   rating: 4.8
-  userRatingsTotal: 221
-  googleMapsUrl: "https://maps.google.com/?cid=6482481787330498357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 222
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6482481787330498357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -25.1840267
   lng: -65.8519328
 tags:
-  - "salta"
-  - "hidden gem"
-quickAnswer: "Valle Encantado is a small high valley just off RP33 near the top of the Cuesta del Obispo, on the road from Salta city to Cachi. Plan it as a 30–60 minute stop on a Salta–Cachi day trip, ideally in the dry months from April to November. Bring your own water and food: the valley is a short detour on a dirt track, and you shouldn't count on finding services there."
+  - salta
+  - hidden gem
+quickAnswer: >-
+  Valle Encantado is a small high valley just off RP33 near the top of the
+  Cuesta del Obispo, on the road from Salta city to Cachi. Plan it as a 30–60
+  minute stop on a Salta–Cachi day trip, ideally in the dry months from April to
+  November. Bring your own water and food: the valley is a short detour on a
+  dirt track, and you shouldn't count on finding services there.
 faq:
-  - q: "How do I get to Valle Encantado from Salta?"
-    a: "Drive south from Salta city through Cerrillos, El Carril and Chicoana. Take RP33 up the Quebrada de Escoipe and the Cuesta del Obispo, then turn off at the signposted dirt track near the top of the climb. Allow roughly two hours. A car, tour or remise is the practical way to go."
-  - q: "Can an ordinary car reach the valley?"
-    a: "In dry weather, usually yes, if you take the unpaved side track slowly. After heavy summer rain the track can turn muddy. Ask locally in Chicoana or at your accommodation before leaving the paved road."
-  - q: "When is the best time of year to visit?"
-    a: "The dry season, roughly April to November, has the clearest skies and firmest tracks. Winter mornings are very cold. Summer brings greener ground but also clouds on the Cuesta del Obispo and afternoon storms, so go early in the day."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–60 minutes walking among the rock formations. It works best as one stop on a Salta–Cachi day trip, combined with Piedra del Molino and Los Cardones National Park."
-  - q: "Will the altitude affect me?"
-    a: "The valley is around 3,000 metres up and Piedra del Molino is higher still, so you may feel short of breath. Walk slowly and drink water. Many people take coca leaves or mate de coca, which are sold legally in Salta city."
+  - q: How do I get to Valle Encantado from Salta?
+    a: >-
+      Drive south from Salta city through Cerrillos, El Carril and Chicoana.
+      Take RP33 up the Quebrada de Escoipe and the Cuesta del Obispo, then turn
+      off at the signposted dirt track near the top of the climb. Allow roughly
+      two hours. A car, tour or remise is the practical way to go.
+  - q: Can an ordinary car reach the valley?
+    a: >-
+      In dry weather, usually yes, if you take the unpaved side track slowly.
+      After heavy summer rain the track can turn muddy. Ask locally in Chicoana
+      or at your accommodation before leaving the paved road.
+  - q: When is the best time of year to visit?
+    a: >-
+      The dry season, roughly April to November, has the clearest skies and
+      firmest tracks. Winter mornings are very cold. Summer brings greener
+      ground but also clouds on the Cuesta del Obispo and afternoon storms, so
+      go early in the day.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 30–60 minutes walking among the rock formations. It
+      works best as one stop on a Salta–Cachi day trip, combined with Piedra del
+      Molino and Los Cardones National Park.
+  - q: Will the altitude affect me?
+    a: >-
+      The valley is around 3,000 metres up and Piedra del Molino is higher
+      still, so you may feel short of breath. Walk slowly and drink water. Many
+      people take coca leaves or mate de coca, which are sold legally in Salta
+      city.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 ## A detour above the switchbacks

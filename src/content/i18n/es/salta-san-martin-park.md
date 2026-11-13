@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: salta-san-martin-park
-srcHash: '21ea45b86523'
+srcHash: 'bfd52934be6b'
 title: 'Parque San Martín de Salta: guía de viaje (4.3★)'
-description: El Parque San Martín se encuentra sobre la Av. San Martín, en el borde sureste del centro de Salta. Con una valoración de 4.3★ (27,170 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: El Parque San Martín se encuentra sobre la Av. San Martín, en el borde sureste del centro de Salta. Con una valoración de 4.3★ (27,182 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: El Parque San Martín se encuentra sobre la Av. San Martín, en el borde sureste del centro de Salta. Alrededor de su lago bordeado de palmeras se alquilan botes a pedal. También alberga una estatua de José de San Martín y la estación de partida del teleférico al cerro San Bernardo. Conviene reservarle entre 1–2 horas. En la actualidad abre de 7am–10pm. Como figura entre los lugares más concurridos de Salta, lo ideal es ir temprano, cuando el lago está más tranquilo.
 faq:
   - q: ¿Cómo se llega al Parque San Martín desde la Plaza 9 de Julio?

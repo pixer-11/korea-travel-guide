@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sai-kung-sai-kung-seafood-street
-srcHash: 'c6854f71228a'
+srcHash: '6b62c5fdacf6'
 title: 'Sai Kung Seafood Street: guía de viaje (4,0★)'
-description: 'Sai Kung Seafood Street recorre Market St en el pueblo de Sai Kung, en los Nuevos Territorios: usted elige marisco vivo directamente de los tanques que hay en la calle y el restaurante se lo cocina. 4,0★ (2.444 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Sai Kung Seafood Street recorre Market St en el pueblo de Sai Kung, en los Nuevos Territorios: usted elige marisco vivo directamente de los tanques que hay en la calle y el restaurante se lo cocina. 4,0★ (2.456 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Sai Kung Seafood Street recorre Market St en el pueblo de Sai Kung, en los Nuevos Territorios: usted elige marisco vivo directamente de los tanques que hay en la calle y el restaurante se lo cocina. La calle en sí permanece abierta las 24 horas y el momento de mayor tranquilidad es entre las 7 y las 8 de la mañana, todos los días. Conviene evitar los fines de semana entre las 11:00 y las 23:00, cuando hay más ambiente, y comprobar el horario propio de cada restaurante antes de ir.'
 faq:
   - q: ¿Cuál es el mejor momento para visitar Sai Kung Seafood Street sin aglomeraciones?

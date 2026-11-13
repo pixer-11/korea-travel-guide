@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: rome-terrazza-delle-quadrighe
-srcHash: 'd958165b85e5'
+srcHash: 'c9e365e3a843'
 title: 'Terrazza delle Quadrighe: guía de viaje de Roma (4.6★)'
-description: En lo alto del Vittoriano, en la Piazza Venezia de Roma, la Terrazza delle Quadrighe ofrece vistas de 360° sobre el Foro Romano, el Coliseo y la cúpula de San Pedro; se sube en un ascensor de cristal. Con 4.6★ (589 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En lo alto del Vittoriano, en la Piazza Venezia de Roma, la Terrazza delle Quadrighe ofrece vistas de 360° sobre el Foro Romano, el Coliseo y la cúpula de San Pedro; se sube en un ascensor de cristal. Con 4.6★ (590 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: La Terrazza delle Quadrighe es la azotea que corona el Vittoriano, en la Piazza Venezia de Roma. Se accede en un ascensor de cristal y desde arriba se disfruta de una vista de 360° sobre el Foro Romano, el Coliseo y la cúpula de San Pedro. Actualmente abre de 9:30am a 6:45pm, pero el horario del mirador varía a lo largo del año, así que conviene consultar la web oficial del Vittoriano antes de ir. Calcule entre 30 y 45 minutos en la terraza, o unas dos horas si también quiere recorrer el monumento.
 faq:
   - q: ¿Cómo se llega a la Terrazza delle Quadrighe?

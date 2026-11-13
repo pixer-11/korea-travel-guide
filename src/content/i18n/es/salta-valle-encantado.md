@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: salta-valle-encantado
-srcHash: '61ce0214595d'
+srcHash: '4f2507e25768'
 title: 'Valle Encantado: guía de viaje de Salta (4.8★)'
-description: A pocos metros de la RP33, casi en lo alto de la Cuesta del Obispo, el Valle Encantado es un pequeño valle de altura que queda de paso en el camino de Salta capital a Cachi. Tiene 4.8★ (221 reseñas). Aquí encontrará opiniones de los visitantes, horarios y consejos.
+description: A pocos metros de la RP33, casi en lo alto de la Cuesta del Obispo, el Valle Encantado es un pequeño valle de altura que queda de paso en el camino de Salta capital a Cachi. Tiene 4.8★ (222 reseñas). Aquí encontrará opiniones de los visitantes, horarios y consejos.
 quickAnswer: El Valle Encantado es un pequeño valle de altura que se abre junto a la RP33, casi en la cima de la Cuesta del Obispo, en la ruta que une Salta capital con Cachi. Conviene incluirlo como una parada de 30–60 minutos dentro de una excursión de un día entre Salta y Cachi, preferentemente durante la temporada seca, de abril a noviembre. Lleve su propia agua y comida. Para llegar hay que desviarse un breve tramo por un camino de tierra, y lo prudente es no dar por hecho que allí habrá servicios.
 faq:
   - q: ¿Cómo se llega al Valle Encantado desde Salta?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: salta-san-bernardo-s-hill
-srcHash: '4e91979e70fa'
+srcHash: '4b4fad21eaa5'
 title: 'Cerro San Bernardo: guía de viaje de Salta (4.7★)'
-description: 'El Cerro San Bernardo se alza de golpe en el este de Salta. A su mirador de la cumbre se sube en teleférico desde el Parque San Martín o por una larga escalinata de piedra que nace detrás del Monumento a Güemes. 4.7★ (53,144 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Cerro San Bernardo se alza de golpe en el este de Salta. A su mirador de la cumbre se sube en teleférico desde el Parque San Martín o por una larga escalinata de piedra que nace detrás del Monumento a Güemes. 4.7★ (53,283 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Cerro San Bernardo se alza de golpe en el este de Salta. A su mirador de la cumbre se llega en teleférico desde el Parque San Martín o a pie, por una larga escalinata de piedra que nace detrás del Monumento a Güemes. Conviene reservar entre 2 y 3 horas: subida, una hora arriba y bajada a pie. El horario publicado actualmente es de 9:00 AM a 7:00 PM todos los días, aunque varía a lo largo del año, así que consulte antes el del teleférico.'
 faq:
   - q: ¿Cómo se llega a la cima del Cerro San Bernardo?

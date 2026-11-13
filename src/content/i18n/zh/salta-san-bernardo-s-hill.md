@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: salta-san-bernardo-s-hill
-srcHash: '4e91979e70fa'
+srcHash: '4b4fad21eaa5'
 title: 圣贝尔纳多山：萨尔塔旅行指南（4.7★）
-description: 圣贝尔纳多山（Cerro San Bernardo）在萨尔塔城东拔地而起。去山顶观景台，可以从圣马丁公园（Parque San Martín）坐缆车，也可以从居埃梅斯纪念碑背后沿长长的石阶步行上山。评分4.7★（53,144条评价），本文汇总游客评价、开放时间和实用贴士。
+description: 圣贝尔纳多山（Cerro San Bernardo）在萨尔塔城东拔地而起。去山顶观景台，可以从圣马丁公园（Parque San Martín）坐缆车，也可以从居埃梅斯纪念碑背后沿长长的石阶步行上山。评分4.7★（53,283条评价），本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 圣贝尔纳多山（Cerro San Bernardo）在萨尔塔城东拔地而起。去山顶观景台，可以从圣马丁公园（Parque San Martín）坐缆车，也可以从居埃梅斯纪念碑背后沿长长的石阶步行上山。全程建议预留2–3小时：坐缆车上山，在山顶待一小时，再步行下山。目前公布的开放时间为每天上午9点–晚上7点，但缆车的运营时间全年可能有变，出发前请另行确认。
 faq:
   - q: 怎样登上圣贝尔纳多山山顶？

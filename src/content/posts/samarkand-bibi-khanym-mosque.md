@@ -1,44 +1,52 @@
 ---
-title: "Bibi-Khanym Mosque: Samarkand Travel Guide (4.6★)"
-description: "Bibi-Khanym Mosque is Samarkand's monumental 14th-century Timurid mosque, a five-minute walk northeast of the Siab Bazaar and Registan. 4.6★ (2,873 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Samarkand"
-category: "attraction"
-pubDate: "2026-08-20T09:19:52.192Z"
+title: 'Bibi-Khanym Mosque: Samarkand Travel Guide (4.6★)'
+description: >-
+  Bibi-Khanym Mosque is Samarkand's monumental 14th-century Timurid mosque, a
+  five-minute walk northeast of the Siab Bazaar and Registan. 4.6★ (3,180
+  reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Samarkand
+category: attraction
+pubDate: '2026-08-20T09:19:52.192Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8_%D0%A5%D0%B0%D0%BD%D1%83%D0%BC._%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4.jpg/1920px-%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8_%D0%A5%D0%B0%D0%BD%D1%83%D0%BC._%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4.jpg"
-  credit: "Photo: Шухрат Саъдиев / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8_%D0%A5%D0%B0%D0%BD%D1%83%D0%BC._%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8_%D0%A5%D0%B0%D0%BD%D1%83%D0%BC._%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4.jpg/1920px-%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8_%D0%A5%D0%B0%D0%BD%D1%83%D0%BC._%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4.jpg
+  credit: 'Photo: Шухрат Саъдиев / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8_%D0%A5%D0%B0%D0%BD%D1%83%D0%BC._%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B4.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bibi-Khanym_Mosque_interior%2C_Samarkand_%28%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%A5%D0%B0%D0%BD%D1%83%D0%BC%2C_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D0%B8%29.jpg/3840px-Bibi-Khanym_Mosque_interior%2C_Samarkand_%28%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%A5%D0%B0%D0%BD%D1%83%D0%BC%2C_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D0%B8%29.jpg"
-    credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bibi-Khanym_Mosque_interior,_Samarkand_(%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%A5%D0%B0%D0%BD%D1%83%D0%BC,_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D0%B8).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bibi-Khanym_Mosque_interior%2C_Samarkand_%28%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%A5%D0%B0%D0%BD%D1%83%D0%BC%2C_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D0%B8%29.jpg/3840px-Bibi-Khanym_Mosque_interior%2C_Samarkand_%28%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%A5%D0%B0%D0%BD%D1%83%D0%BC%2C_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D0%B8%29.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bibi-Khanym_Mosque_interior,_Samarkand_(%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%91%D0%B8%D0%B1%D0%B8-%D0%A5%D0%B0%D0%BD%D1%83%D0%BC,_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D0%B8).jpg
 place:
-  id: "ChIJSYwab7kYTT8RnhlpOyOfDXE"
-  name: "Bibi-Khanym Mosque"
-  address: "MX6J+73W, Bibikhonim Str., Samarqand, Samarqand viloyati, Uzbekistan"
+  id: ChIJSYwab7kYTT8RnhlpOyOfDXE
+  name: Bibi-Khanym Mosque
+  address: 'MX6J+73W, Bibikhonim Str., Samarqand, Samarqand viloyati, Uzbekistan'
   rating: 4.6
-  userRatingsTotal: 2873
-  googleMapsUrl: "https://maps.google.com/?cid=8146342274652510622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3180
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8146342274652510622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.6607343
   lng: 66.98020029999999
-  phone: "+998 97 793 46 75"
+  phone: +998 97 793 46 75
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -61,24 +69,38 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_455844664f794f706c686e52385454596b3762617759534a496843"
+    venueId: ven_455844664f794f706c686e52385454596b3762617759534a496843
 tags:
-  - "samarkand"
-  - "Bibi-Khanym Mosque"
-quickAnswer: "Bibi-Khanym Mosque is Samarkand's monumental 14th-century Timurid mosque, a five-minute walk northeast of the Siab Bazaar and Registan. It's open daily, 7am–10pm on weekdays and from 9am on weekends; go early morning to get the courtyard and blue dome mostly to yourself, since weekends fill up between noon and 6pm. Budget 45–60 minutes."
+  - samarkand
+  - Bibi-Khanym Mosque
+quickAnswer: >-
+  Bibi-Khanym Mosque is Samarkand's monumental 14th-century Timurid mosque, a
+  five-minute walk northeast of the Siab Bazaar and Registan. It's open daily,
+  7am–10pm on weekdays and from 9am on weekends; go early morning to get the
+  courtyard and blue dome mostly to yourself, since weekends fill up between
+  noon and 6pm. Budget 45–60 minutes.
 faq:
-  - q: "What are the opening hours?"
-    a: "7am–10pm Monday through Friday, and 9am–10pm on Saturday and Sunday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after 7am opening are calmest. On weekends, arrive right at the 9am opening rather than midday."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to an hour walking the courtyard and sanctuary."
-  - q: "How do I get there from the Registan?"
-    a: "It's about a 10-15 minute walk north, or a short, inexpensive taxi ride if you'd rather skip the walk."
-  - q: "What should I avoid?"
-    a: "Avoid weekends between 12pm and 6pm, when crowds peak — that's the busiest window all week."
+  - q: What are the opening hours?
+    a: '7am–10pm Monday through Friday, and 9am–10pm on Saturday and Sunday.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after 7am opening are calmest. On weekends,
+      arrive right at the 9am opening rather than midday.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 45 minutes to an hour walking the courtyard and
+      sanctuary.
+  - q: How do I get there from the Registan?
+    a: >-
+      It's about a 10-15 minute walk north, or a short, inexpensive taxi ride if
+      you'd rather skip the walk.
+  - q: What should I avoid?
+    a: >-
+      Avoid weekends between 12pm and 6pm, when crowds peak — that's the busiest
+      window all week.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 You see the dome before you see the gate. Rising above the rooftops of old Samarkand, its ribbed turquoise surface catches the morning light long before you reach the entrance portal on Bibikhonim Street.

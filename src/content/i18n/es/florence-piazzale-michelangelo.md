@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: florence-piazzale-michelangelo
-srcHash: '37fcdfeeebac'
+srcHash: 'd36a2181ab6e'
 title: 'Piazzale Michelangelo: guía de viaje de Florencia (4.8★)'
-description: 'En lo alto de una colina del Oltrarno florentino, justo encima del barrio de San Niccolò, se encuentra la terraza panorámica del Piazzale Michelangelo, desde donde se domina toda la ciudad: el Duomo, el Palazzo Vecchio y los puentes del Arno. 4.8★ (115,450 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En lo alto de una colina del Oltrarno florentino, justo encima del barrio de San Niccolò, se encuentra la terraza panorámica del Piazzale Michelangelo, desde donde se domina toda la ciudad: el Duomo, el Palazzo Vecchio y los puentes del Arno. 4.8★ (115,456 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En lo alto de una colina del Oltrarno florentino, justo encima del barrio de San Niccolò, se encuentra la terraza panorámica del Piazzale Michelangelo, desde donde se domina toda la ciudad: el Duomo, el Palazzo Vecchio y los puentes del Arno. Lo ideal es ir entre las 7am y las 8am, la hora más tranquila tanto entre semana como en fin de semana. Conviene evitar la franja de 10am a 8pm los fines de semana, cuando la terraza suele registrar más afluencia.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Piazzale Michelangelo?

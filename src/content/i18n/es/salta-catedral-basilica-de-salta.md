@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: salta-catedral-basilica-de-salta
-srcHash: 'eace4debaf3e'
+srcHash: '0f3e6f5f99e3'
 title: 'Catedral Basílica de Salta: guía de viaje (4.8★)'
-description: En el lado norte de la Plaza 9 de Julio, la plaza principal del centro de Salta, se alza la Catedral Basílica de Salta, en España 558. Con 4.8★ (9,192 reseñas), aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
+description: En el lado norte de la Plaza 9 de Julio, la plaza principal del centro de Salta, se alza la Catedral Basílica de Salta, en España 558. Con 4.8★ (9,211 reseñas), aquí encontrará qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: La Catedral Basílica de Salta ocupa el lado norte de la Plaza 9 de Julio, la plaza principal del centro de Salta, en España 558. Es una catedral en pleno culto, de fachada rosada e interior dorado, y cierra al mediodía. Los fines de semana hay menos gente de 8am a 9am y de 5pm a 6pm. Conviene evitar las franjas de 10am a 12pm y de 7pm a 9pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Catedral Basílica de Salta?

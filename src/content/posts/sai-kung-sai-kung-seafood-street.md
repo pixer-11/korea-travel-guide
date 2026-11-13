@@ -1,44 +1,55 @@
 ---
-title: "Sai Kung Seafood Street: Travel Guide (4.0★)"
-description: "Sai Kung Seafood Street runs along Market St in Sai Kung town, New Territories: you choose live seafood from the tanks out front and the restaurant cooks it for you. 4.0★ (2,444 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sai Kung"
-category: "hidden-gem"
-pubDate: "2026-09-24T07:42:21.836Z"
+title: 'Sai Kung Seafood Street: Travel Guide (4.0★)'
+description: >-
+  Sai Kung Seafood Street runs along Market St in Sai Kung town, New
+  Territories: you choose live seafood from the tanks out front and the
+  restaurant cooks it for you. 4.0★ (2,456 reviews) — what visitors say, hours,
+  and tips.
+country: Hong Kong
+region: Sai Kung
+category: hidden-gem
+pubDate: '2026-09-24T07:42:21.836Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1b/%E8%A5%BF%E8%B4%A1%E6%B5%B7%E9%B2%9C%E8%A1%97%E5%A4%9C%E6%99%AF_Sai_Kung_Seafood_Street%28night%29_-_panoramio.jpg"
-  credit: "Photo: wanghongliu / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%B4%A1%E6%B5%B7%E9%B2%9C%E8%A1%97%E5%A4%9C%E6%99%AF_Sai_Kung_Seafood_Street(night)_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1b/%E8%A5%BF%E8%B4%A1%E6%B5%B7%E9%B2%9C%E8%A1%97%E5%A4%9C%E6%99%AF_Sai_Kung_Seafood_Street%28night%29_-_panoramio.jpg
+  credit: 'Photo: wanghongliu / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%B4%A1%E6%B5%B7%E9%B2%9C%E8%A1%97%E5%A4%9C%E6%99%AF_Sai_Kung_Seafood_Street(night)_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/dd/HK_Sai_Kung_Seafood_Street_Cuisine.JPG"
-    credit: "Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA 2.5)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:HK_Sai_Kung_Seafood_Street_Cuisine.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/dd/HK_Sai_Kung_Seafood_Street_Cuisine.JPG
+    credit: >-
+      Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA
+      2.5)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:HK_Sai_Kung_Seafood_Street_Cuisine.JPG
 place:
-  id: "ChIJB16OGr0FBDQRaZ-I3NIrNx4"
-  name: "Sai Kung Seafood Street"
-  address: "Market St, Sai Kung, New Territories, Hong Kong"
+  id: ChIJB16OGr0FBDQRaZ-I3NIrNx4
+  name: Sai Kung Seafood Street
+  address: 'Market St, Sai Kung, New Territories, Hong Kong'
   rating: 4
-  userRatingsTotal: 2444
-  googleMapsUrl: "https://maps.google.com/?cid=2177257129499991913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2456
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2177257129499991913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.379402799999998
   lng: 114.2720684
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-24
+    updated: 2026-09-24T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -61,24 +72,48 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_34784e72494e33492d5a6152514442463072474f3631424a496843"
+    venueId: ven_34784e72494e33492d5a6152514442463072474f3631424a496843
 tags:
-  - "sai kung"
-  - "local market"
-quickAnswer: "Sai Kung Seafood Street runs along Market St in Sai Kung town, New Territories: you choose live seafood from the tanks out front and the restaurant cooks it for you. The street itself is open 24 hours and quietest between 7am and 8am every day. Avoid weekends from 11am to 11pm, when it is at its busiest, and check each restaurant's own hours before you go."
+  - sai kung
+  - local market
+quickAnswer: >-
+  Sai Kung Seafood Street runs along Market St in Sai Kung town, New
+  Territories: you choose live seafood from the tanks out front and the
+  restaurant cooks it for you. The street itself is open 24 hours and quietest
+  between 7am and 8am every day. Avoid weekends from 11am to 11pm, when it is at
+  its busiest, and check each restaurant's own hours before you go.
 faq:
-  - q: "When is the quietest time to visit Sai Kung Seafood Street?"
-    a: "Between 7am and 8am, on both weekdays and weekends. That's before most restaurants open, so it's best for walking the waterfront and seeing the fishing boats. Weekends from 11am to 11pm are the busiest period, so eat on a weekday if you can."
-  - q: "How do I get to Sai Kung Seafood Street by public transport?"
-    a: "Take minibus 1A from Choi Hung Station (Kwun Tong Line), bus 92 from Diamond Hill Station, or minibus 101M from Hang Hau Station (Tseung Kwan O Line) to Sai Kung town. From the terminus, walk a few minutes to the waterfront and Market St."
-  - q: "Is the street really open 24 hours?"
-    a: "The street is always accessible, but individual restaurants keep their own hours. Check with the restaurant you plan to eat at before you head out, especially for late dinners."
-  - q: "How does ordering seafood from the tanks work?"
-    a: "You pick live seafood from the tanks. Staff weigh it in front of you and it's priced per catty (about 600g), then you choose a cooking style such as steamed or salt-and-pepper. Always confirm the price per catty and any cooking charge before it goes to the kitchen."
-  - q: "What else is there to do near Sai Kung Seafood Street?"
-    a: "Kaito ferries and sampans leave from Sai Kung Public Pier for Sharp Island, Hap Mun Bay and Yim Tin Tsai. In town, Sai Kung's small Tin Hau Temple is a short walk from the waterfront."
+  - q: When is the quietest time to visit Sai Kung Seafood Street?
+    a: >-
+      Between 7am and 8am, on both weekdays and weekends. That's before most
+      restaurants open, so it's best for walking the waterfront and seeing the
+      fishing boats. Weekends from 11am to 11pm are the busiest period, so eat
+      on a weekday if you can.
+  - q: How do I get to Sai Kung Seafood Street by public transport?
+    a: >-
+      Take minibus 1A from Choi Hung Station (Kwun Tong Line), bus 92 from
+      Diamond Hill Station, or minibus 101M from Hang Hau Station (Tseung Kwan O
+      Line) to Sai Kung town. From the terminus, walk a few minutes to the
+      waterfront and Market St.
+  - q: Is the street really open 24 hours?
+    a: >-
+      The street is always accessible, but individual restaurants keep their own
+      hours. Check with the restaurant you plan to eat at before you head out,
+      especially for late dinners.
+  - q: How does ordering seafood from the tanks work?
+    a: >-
+      You pick live seafood from the tanks. Staff weigh it in front of you and
+      it's priced per catty (about 600g), then you choose a cooking style such
+      as steamed or salt-and-pepper. Always confirm the price per catty and any
+      cooking charge before it goes to the kitchen.
+  - q: What else is there to do near Sai Kung Seafood Street?
+    a: >-
+      Kaito ferries and sampans leave from Sai Kung Public Pier for Sharp
+      Island, Hap Mun Bay and Yim Tin Tsai. In town, Sai Kung's small Tin Hau
+      Temple is a short walk from the waterfront.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 Tanks line the pavement at knee and chest height, stacked in tiers, with aerator tubes bubbling through every one. Mantis shrimp flick against the glass. Crabs sit tied with string. Behind them, dining rooms open straight onto the street, and past the last table the harbour starts.

@@ -1,59 +1,90 @@
 ---
-title: "Windmill Viewpoint: Phuket Travel Guide (4.7★)"
-description: "Windmill Viewpoint sits on the ridge above Ya Nui Beach in Rawai, on Phuket's southern tip, between Nai Harn and Promthep Cape, and it is one of the island's favourite free sunset spots. 4.7★ (6,534 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Phuket"
-category: "attraction"
-pubDate: "2026-11-13T07:48:58.053Z"
+title: 'Windmill Viewpoint: Phuket Travel Guide (4.7★)'
+description: >-
+  Windmill Viewpoint sits on the ridge above Ya Nui Beach in Rawai, on Phuket's
+  southern tip, between Nai Harn and Promthep Cape, and it is one of the
+  island's favourite free sunset spots. 4.7★ (6,535 reviews) — what visitors
+  say, hours, and tips.
+country: Thailand
+region: Phuket
+category: attraction
+pubDate: '2026-11-13T07:48:58.053Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Panorama_from_Windmill_Viewpoint.jpg/3840px-Panorama_from_Windmill_Viewpoint.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panorama_from_Windmill_Viewpoint.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Panorama_from_Windmill_Viewpoint.jpg/3840px-Panorama_from_Windmill_Viewpoint.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Panorama_from_Windmill_Viewpoint.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Big_Buddha_from_Windmill_Viewpoint.jpg/3840px-Big_Buddha_from_Windmill_Viewpoint.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Big_Buddha_from_Windmill_Viewpoint.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Big_Buddha_from_Windmill_Viewpoint.jpg/3840px-Big_Buddha_from_Windmill_Viewpoint.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Big_Buddha_from_Windmill_Viewpoint.jpg
 place:
-  id: "ChIJ2fW0mh8mUDARF9QBYA9rLks"
-  name: "Windmill Viewpoint"
-  address: "Q894+VG9, Ya Nui, Rawai, Mueang Phuket District, Phuket 83100, Thailand"
+  id: ChIJ2fW0mh8mUDARF9QBYA9rLks
+  name: Windmill Viewpoint
+  address: 'Q894+VG9, Ya Nui, Rawai, Mueang Phuket District, Phuket 83100, Thailand'
   rating: 4.7
-  userRatingsTotal: 6534
-  googleMapsUrl: "https://maps.google.com/?cid=5417385115552699415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6535
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5417385115552699415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.769662299999999
   lng: 98.30635410000001
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "phuket"
-  - "night view"
-quickAnswer: "Windmill Viewpoint sits on the ridge above Ya Nui Beach in Rawai, on Phuket's southern tip, between Nai Harn and Promthep Cape, and it is one of the island's favourite free sunset spots. Arrive about an hour before sunset to get a good patch of grass and somewhere to park. It works best in the dry season, November to April."
+  - phuket
+  - night view
+quickAnswer: >-
+  Windmill Viewpoint sits on the ridge above Ya Nui Beach in Rawai, on Phuket's
+  southern tip, between Nai Harn and Promthep Cape, and it is one of the
+  island's favourite free sunset spots. Arrive about an hour before sunset to
+  get a good patch of grass and somewhere to park. It works best in the dry
+  season, November to April.
 faq:
-  - q: "Where exactly is Windmill Viewpoint in Phuket?"
-    a: "It's in Ya Nui, Rawai, at the southern tip of Phuket, on the coastal road (Route 4233) between Nai Harn and Promthep Cape. Look for the white wind turbine on the ridge above Ya Nui Beach. The plus code is Q894+VG9."
-  - q: "What is the best time to visit Windmill Viewpoint?"
-    a: "Come for sunset, which falls roughly between 6pm and 7pm through the year. Arrive about an hour early to find parking and a spot on the grass. The dry season, November to April, gives the clearest skies."
-  - q: "How do I get there without a scooter?"
-    a: "Book a Grab or Bolt, or hire a taxi and agree on a waiting time before you go. Songthaews from Phuket Town run towards Rawai and Nai Harn, but they don't climb to the viewpoint and stop in the evening. Getting a ride back after sunset can take a while."
-  - q: "Is it better than Promthep Cape for sunset?"
-    a: "They're a few minutes apart on the same road. Promthep Cape is more famous and more built-up, and it draws tour buses. Windmill Viewpoint is a looser grass slope, and Promthep Cape appears in your view. With your own transport you can see both in one evening."
-  - q: "What else is nearby?"
-    a: "Ya Nui Beach and Koh Man are directly below. Nai Harn Beach and Nai Harn Lake are a short ride north, and Promthep Cape is just south. The Rawai seafront and its seafood market are an easy stop for dinner afterwards."
+  - q: Where exactly is Windmill Viewpoint in Phuket?
+    a: >-
+      It's in Ya Nui, Rawai, at the southern tip of Phuket, on the coastal road
+      (Route 4233) between Nai Harn and Promthep Cape. Look for the white wind
+      turbine on the ridge above Ya Nui Beach. The plus code is Q894+VG9.
+  - q: What is the best time to visit Windmill Viewpoint?
+    a: >-
+      Come for sunset, which falls roughly between 6pm and 7pm through the year.
+      Arrive about an hour early to find parking and a spot on the grass. The
+      dry season, November to April, gives the clearest skies.
+  - q: How do I get there without a scooter?
+    a: >-
+      Book a Grab or Bolt, or hire a taxi and agree on a waiting time before you
+      go. Songthaews from Phuket Town run towards Rawai and Nai Harn, but they
+      don't climb to the viewpoint and stop in the evening. Getting a ride back
+      after sunset can take a while.
+  - q: Is it better than Promthep Cape for sunset?
+    a: >-
+      They're a few minutes apart on the same road. Promthep Cape is more famous
+      and more built-up, and it draws tour buses. Windmill Viewpoint is a looser
+      grass slope, and Promthep Cape appears in your view. With your own
+      transport you can see both in one evening.
+  - q: What else is nearby?
+    a: >-
+      Ya Nui Beach and Koh Man are directly below. Nai Harn Beach and Nai Harn
+      Lake are a short ride north, and Promthep Cape is just south. The Rawai
+      seafront and its seafood market are an easy stop for dinner afterwards.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 ## A grass slope under a white turbine

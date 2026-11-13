@@ -1,43 +1,50 @@
 ---
-title: "Afrasiyab Museum: Samarkand Travel Guide (4.0★)"
-description: "The Afrasiyab Museum sits on the northern edge of Samarkand's ancient mound site, open daily 9am–5pm, and holds the famous 7th-8th century Sogdian palace fresco showing envoys, elephants and boats. 4.0★ (944 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Samarkand"
-category: "attraction"
-pubDate: "2026-08-20T09:21:55.704Z"
+title: 'Afrasiyab Museum: Samarkand Travel Guide (4.0★)'
+description: >-
+  The Afrasiyab Museum sits on the northern edge of Samarkand's ancient mound
+  site, open daily 9am–5pm, and holds the famous 7th-8th century Sogdian palace
+  fresco showing envoys, elephants and boats. 4.0★ (1,059 reviews) — what visitors
+  say, hours, and tips.
+country: Uzbekistan
+region: Samarkand
+category: attraction
+pubDate: '2026-08-20T09:21:55.704Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Afrasiab_Museum_of_Samarkand.jpg/1920px-Afrasiab_Museum_of_Samarkand.jpg"
-  credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Afrasiab_Museum_of_Samarkand.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Afrasiab_Museum_of_Samarkand.jpg/1920px-Afrasiab_Museum_of_Samarkand.jpg
+  credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Afrasiab_Museum_of_Samarkand.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Afrasiyab_museum.jpg/3840px-Afrasiyab_museum.jpg"
-    credit: "Photo: Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Afrasiyab_museum.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Afrasiyab_museum.jpg/3840px-Afrasiyab_museum.jpg
+    credit: 'Photo: Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Afrasiyab_museum.jpg'
 place:
-  id: "ChIJw0l0-qEYTT8RwBId8WMqbrU"
-  name: "Afrasiyab Museum"
-  address: "MX9V+P89, Toshkent yo'li, Samarqand, Samarqand viloyati, Uzbekistan"
+  id: ChIJw0l0-qEYTT8RwBId8WMqbrU
+  name: Afrasiyab Museum
+  address: 'MX9V+P89, Toshkent yo''li, Samarqand, Samarqand viloyati, Uzbekistan'
   rating: 4
-  userRatingsTotal: 944
-  googleMapsUrl: "https://maps.google.com/?cid=13073433377038471872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1059
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13073433377038471872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.669295
   lng: 66.9933669
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -46,24 +53,38 @@ place:
       - 10
       - 11
       - 12
-    venueId: "ven_557262714d573864494277523854545945712d306c30774a496843"
+    venueId: ven_557262714d573864494277523854545945712d306c30774a496843
 tags:
-  - "samarkand"
-  - "Afrasiyab Museum"
-quickAnswer: "The Afrasiyab Museum sits on the northern edge of Samarkand's ancient mound site, open daily 9am–5pm, and holds the famous 7th-8th century Sogdian palace fresco showing envoys, elephants and boats. Give it 45–60 minutes. Go right at opening or before 10am on a weekday, since weekend mornings from 10am to 1pm draw the biggest crowds."
+  - samarkand
+  - Afrasiyab Museum
+quickAnswer: >-
+  The Afrasiyab Museum sits on the northern edge of Samarkand's ancient mound
+  site, open daily 9am–5pm, and holds the famous 7th-8th century Sogdian palace
+  fresco showing envoys, elephants and boats. Give it 45–60 minutes. Go right at
+  opening or before 10am on a weekday, since weekend mornings from 10am to 1pm
+  draw the biggest crowds.
 faq:
-  - q: "How long should I spend at the Afrasiyab Museum?"
-    a: "45-60 minutes is enough for most visitors — the collection is compact, with the fresco room as the highlight."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 10am, right at opening, before tour groups arrive."
-  - q: "What are the opening hours?"
-    a: "The museum is open daily from 9am to 5pm, with no weekly closure."
-  - q: "What's the best time to avoid crowds on weekends?"
-    a: "Try to avoid 10am to 1pm on weekends, when coach groups tend to cluster around the fresco."
-  - q: "What else is nearby?"
-    a: "Bibi-Khanym Mosque and Shah-i-Zinda necropolis are both a short drive away, and the Afrasiyab mound itself is right behind the museum."
+  - q: How long should I spend at the Afrasiyab Museum?
+    a: >-
+      45-60 minutes is enough for most visitors — the collection is compact,
+      with the fresco room as the highlight.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 10am, right at opening, before tour groups
+      arrive.
+  - q: What are the opening hours?
+    a: 'The museum is open daily from 9am to 5pm, with no weekly closure.'
+  - q: What's the best time to avoid crowds on weekends?
+    a: >-
+      Try to avoid 10am to 1pm on weekends, when coach groups tend to cluster
+      around the fresco.
+  - q: What else is nearby?
+    a: >-
+      Bibi-Khanym Mosque and Shah-i-Zinda necropolis are both a short drive
+      away, and the Afrasiyab mound itself is right behind the museum.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 ## Why go
 

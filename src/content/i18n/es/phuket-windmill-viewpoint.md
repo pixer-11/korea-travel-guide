@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: phuket-windmill-viewpoint
-srcHash: 'b7ce78eafbbf'
+srcHash: 'f361ca8a9d71'
 title: 'Windmill Viewpoint: guía de viaje de Phuket (4.7★)'
-description: 'En lo alto de la loma que domina la playa de Ya Nui, en Rawai, entre Nai Harn y el cabo Promthep, Windmill Viewpoint es uno de los lugares gratuitos preferidos para ver el atardecer en el extremo sur de Phuket. 4.7★ (6,534 reseñas): opiniones de los visitantes, horario y consejos.'
+description: 'En lo alto de la loma que domina la playa de Ya Nui, en Rawai, entre Nai Harn y el cabo Promthep, Windmill Viewpoint es uno de los lugares gratuitos preferidos para ver el atardecer en el extremo sur de Phuket. 4.7★ (6,535 reseñas): opiniones de los visitantes, horario y consejos.'
 quickAnswer: En lo alto de la loma que domina la playa de Ya Nui, en Rawai, entre Nai Harn y el cabo Promthep, Windmill Viewpoint es uno de los lugares gratuitos preferidos para ver el atardecer en el extremo sur de Phuket. Conviene llegar una hora antes de la puesta de sol para encontrar un buen rincón en la hierba y dónde aparcar. La mejor época es la estación seca, de noviembre a abril.
 faq:
   - q: ¿Dónde se encuentra exactamente Windmill Viewpoint en Phuket?

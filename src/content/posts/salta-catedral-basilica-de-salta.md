@@ -1,45 +1,53 @@
 ---
-title: "Catedral Basílica de Salta: Travel Guide (4.8★)"
-description: "The Catedral Basílica de Salta stands on the north side of Plaza 9 de Julio, the main square of central Salta, at España 558. 4.8★ (9,192 reviews) — what visitors say, hours, and tips."
-country: "Argentina"
-region: "Salta"
-category: "attraction"
-pubDate: "2026-10-31T07:54:39.596Z"
+title: 'Catedral Basílica de Salta: Travel Guide (4.8★)'
+description: >-
+  The Catedral Basílica de Salta stands on the north side of Plaza 9 de Julio,
+  the main square of central Salta, at España 558. 4.8★ (9,211 reviews) — what
+  visitors say, hours, and tips.
+country: Argentina
+region: Salta
+category: attraction
+pubDate: '2026-10-31T07:54:39.596Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Catedral_Bas%C3%ADlica_de_Salta_-_panoramio.jpg"
-  credit: "Photo: littletroll / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Catedral_Bas%C3%ADlica_de_Salta_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/6c/Catedral_Bas%C3%ADlica_de_Salta_-_panoramio.jpg
+  credit: 'Photo: littletroll / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Catedral_Bas%C3%ADlica_de_Salta_-_panoramio.jpg
+  via: act
   focus:
     x: 60
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Catedral_Bas%C3%ADlica_de_Salta_-_panoramio_%281%29.jpg"
-    credit: "Photo: littletroll / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Catedral_Bas%C3%ADlica_de_Salta_-_panoramio_(1).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/5c/Catedral_Bas%C3%ADlica_de_Salta_-_panoramio_%281%29.jpg
+    credit: 'Photo: littletroll / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Catedral_Bas%C3%ADlica_de_Salta_-_panoramio_(1).jpg
 place:
-  id: "ChIJR8dCX7vDG5QR56Cq8v8iRCY"
-  name: "Catedral Basílica de Salta"
-  address: "España 558, A4400 Salta, Argentina"
+  id: ChIJR8dCX7vDG5QR56Cq8v8iRCY
+  name: Catedral Basílica de Salta
+  address: 'España 558, A4400 Salta, Argentina'
   rating: 4.8
-  userRatingsTotal: 9192
-  googleMapsUrl: "https://maps.google.com/?cid=2757367354540859623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9211
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2757367354540859623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -24.7884361
   lng: -65.4104676
-  phone: "+54 387 609-3870"
+  phone: +54 387 609-3870
   openingHours:
-    - "Monday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM"
-    - "Tuesday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM"
-    - "Wednesday: 6:30 AM – 1:30 PM, 5:00 – 9:00 PM"
-    - "Thursday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM"
-    - "Friday: 6:30 AM – 1:30 PM, 5:00 – 8:30 PM"
-    - "Saturday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM"
-    - "Sunday: 7:30 AM – 1:00 PM, 5:30 – 9:30 PM"
+    - 'Monday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 6:30 AM – 1:30 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM'
+    - 'Friday: 6:30 AM – 1:30 PM, 5:00 – 8:30 PM'
+    - 'Saturday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 7:30 AM – 1:00 PM, 5:30 – 9:30 PM'
   busyness:
-    updated: 2026-10-31
+    updated: 2026-10-31T00:00:00.000Z
     weekdayBusy:
       - 9
       - 10
@@ -53,24 +61,46 @@ place:
       - 11
       - 19
       - 20
-    venueId: "ven_59435269387638714336355251354744763758436438524a496843"
+    venueId: ven_59435269387638714336355251354744763758436438524a496843
 tags:
-  - "salta"
-  - "historic site"
-quickAnswer: "The Catedral Basílica de Salta stands on the north side of Plaza 9 de Julio, the main square of central Salta, at España 558. It's a working cathedral with a pink facade and a gilded interior, and it shuts at midday. On weekends it's quietest from 8am–9am and 5pm–6pm, and you'll want to avoid 10am–12pm and 7pm–9pm."
+  - salta
+  - historic site
+quickAnswer: >-
+  The Catedral Basílica de Salta stands on the north side of Plaza 9 de Julio,
+  the main square of central Salta, at España 558. It's a working cathedral with
+  a pink facade and a gilded interior, and it shuts at midday. On weekends it's
+  quietest from 8am–9am and 5pm–6pm, and you'll want to avoid 10am–12pm and
+  7pm–9pm.
 faq:
-  - q: "When is the quietest time to visit the Catedral Basílica de Salta?"
-    a: "On weekends it's quietest between 8am and 9am and between 5pm and 6pm. On Sunday it reopens at 5:30pm, so that window is shorter. Avoid 10am–12pm and 7pm–9pm on weekends, the busiest hours."
-  - q: "Is the cathedral open all day?"
-    a: "No. At the moment it closes at midday, from 1:30pm (1pm on Sunday) until the afternoon reopening. That's 4:30pm on most days, 5pm on Wednesday and Friday, and 5:30pm on Sunday. Times can change on holidays and during the September festival."
-  - q: "How long do I need inside?"
-    a: "Allow 30–45 minutes to walk the nave and side chapels and see the Panteón de las Glorias del Norte. A quick look from the back takes about ten."
-  - q: "What is the Fiesta del Milagro?"
-    a: "It's Salta's biggest religious festival, held each September. It honours the Señor and Virgen del Milagro, whose images are kept in the cathedral. It peaks on 15 September with a procession around Plaza 9 de Julio. Expect big crowds and book your accommodation early."
-  - q: "What else is near the cathedral?"
-    a: "The Cabildo de Salta and MAAM are both on Plaza 9 de Julio. Iglesia San Francisco is a couple of blocks east, and the Teleférico San Bernardo is a short walk away."
+  - q: When is the quietest time to visit the Catedral Basílica de Salta?
+    a: >-
+      On weekends it's quietest between 8am and 9am and between 5pm and 6pm. On
+      Sunday it reopens at 5:30pm, so that window is shorter. Avoid 10am–12pm
+      and 7pm–9pm on weekends, the busiest hours.
+  - q: Is the cathedral open all day?
+    a: >-
+      No. At the moment it closes at midday, from 1:30pm (1pm on Sunday) until
+      the afternoon reopening. That's 4:30pm on most days, 5pm on Wednesday and
+      Friday, and 5:30pm on Sunday. Times can change on holidays and during the
+      September festival.
+  - q: How long do I need inside?
+    a: >-
+      Allow 30–45 minutes to walk the nave and side chapels and see the Panteón
+      de las Glorias del Norte. A quick look from the back takes about ten.
+  - q: What is the Fiesta del Milagro?
+    a: >-
+      It's Salta's biggest religious festival, held each September. It honours
+      the Señor and Virgen del Milagro, whose images are kept in the cathedral.
+      It peaks on 15 September with a procession around Plaza 9 de Julio. Expect
+      big crowds and book your accommodation early.
+  - q: What else is near the cathedral?
+    a: >-
+      The Cabildo de Salta and MAAM are both on Plaza 9 de Julio. Iglesia San
+      Francisco is a couple of blocks east, and the Teleférico San Bernardo is a
+      short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 ## A pink front on Plaza 9 de Julio

@@ -1,56 +1,86 @@
 ---
-title: "Terrazza delle Quadrighe: Rome Travel Guide (4.6★)"
-description: "Terrazza delle Quadrighe is the roof terrace on top of the Vittoriano in Rome's Piazza Venezia, reached by a glass lift, with 360° views over the Roman Forum, the Colosseum and St Peter's dome. 4.6★ (589 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Rome"
-category: "attraction"
-pubDate: "2026-11-13T07:48:57.026Z"
+title: 'Terrazza delle Quadrighe: Rome Travel Guide (4.6★)'
+description: >-
+  Terrazza delle Quadrighe is the roof terrace on top of the Vittoriano in
+  Rome's Piazza Venezia, reached by a glass lift, with 360° views over the Roman
+  Forum, the Colosseum and St Peter's dome. 4.6★ (590 reviews) — what visitors
+  say, hours, and tips.
+country: Italy
+region: Rome
+category: attraction
+pubDate: '2026-11-13T07:48:57.026Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Terrazza_delle_Quadrighe_-_panoramio.jpg"
-  credit: "Photo: Mister No / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Terrazza_delle_Quadrighe_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f0/Terrazza_delle_Quadrighe_-_panoramio.jpg
+  credit: 'Photo: Mister No / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Terrazza_delle_Quadrighe_-_panoramio.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJsQeLTbNhLxMRj2ZP6qu4fd0"
-  name: "Terrazza delle Quadrighe"
-  address: "Piazza di S. Marco, 49, 00186 Roma RM, Italy"
+  id: ChIJsQeLTbNhLxMRj2ZP6qu4fd0
+  name: Terrazza delle Quadrighe
+  address: 'Piazza di S. Marco, 49, 00186 Roma RM, Italy'
   rating: 4.6
-  userRatingsTotal: 589
-  googleMapsUrl: "https://maps.google.com/?cid=15960115702980896399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 590
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15960115702980896399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8943466
   lng: 12.4831966
-  phone: "+39 06 6999 4211"
+  phone: +39 06 6999 4211
   openingHours:
-    - "Monday: 9:30 AM – 6:45 PM"
-    - "Tuesday: 9:30 AM – 6:45 PM"
-    - "Wednesday: 9:30 AM – 6:45 PM"
-    - "Thursday: 9:30 AM – 6:45 PM"
-    - "Friday: 9:30 AM – 6:45 PM"
-    - "Saturday: 9:30 AM – 6:45 PM"
-    - "Sunday: 9:30 AM – 6:45 PM"
+    - 'Monday: 9:30 AM – 6:45 PM'
+    - 'Tuesday: 9:30 AM – 6:45 PM'
+    - 'Wednesday: 9:30 AM – 6:45 PM'
+    - 'Thursday: 9:30 AM – 6:45 PM'
+    - 'Friday: 9:30 AM – 6:45 PM'
+    - 'Saturday: 9:30 AM – 6:45 PM'
+    - 'Sunday: 9:30 AM – 6:45 PM'
 tags:
-  - "rome"
-  - "viewpoint"
-quickAnswer: "Terrazza delle Quadrighe is the roof terrace on top of the Vittoriano in Rome's Piazza Venezia, reached by a glass lift, with 360° views over the Roman Forum, the Colosseum and St Peter's dome. It currently opens 9:30am–6:45pm, but observation hours shift through the year, so check the official Vittoriano site before you go. Allow 30–45 minutes at the top, or about two hours if you also walk the monument."
+  - rome
+  - viewpoint
+quickAnswer: >-
+  Terrazza delle Quadrighe is the roof terrace on top of the Vittoriano in
+  Rome's Piazza Venezia, reached by a glass lift, with 360° views over the Roman
+  Forum, the Colosseum and St Peter's dome. It currently opens 9:30am–6:45pm,
+  but observation hours shift through the year, so check the official Vittoriano
+  site before you go. Allow 30–45 minutes at the top, or about two hours if you
+  also walk the monument.
 faq:
-  - q: "How do I get to Terrazza delle Quadrighe?"
-    a: "It's on top of the Vittoriano in Piazza Venezia. Many city bus lines stop in the square, and Colosseo station (Metro Line B) is about a 15-minute walk along Via dei Fori Imperiali. The glass lift is at the back of the monument, on the Capitoline side."
-  - q: "What are the opening hours?"
-    a: "At the moment it opens 9:30am–6:45pm every day of the week. Observation terrace hours change through the year and on some holidays, so check the official Vittoriano site for this month's times."
-  - q: "How long should I spend there?"
-    a: "30–45 minutes is enough for the terrace itself. Allow about two hours if you also walk the monument's outer terraces and visit the Museo Centrale del Risorgimento inside."
-  - q: "What can I see from the top?"
-    a: "You get a full 360° view. It takes in the Roman Forum and the Colosseum, the Capitoline Hill, Via del Corso running north, and St Peter's dome to the west."
-  - q: "Are there rules on the monument?"
-    a: "Yes. The Vittoriano holds the Tomb of the Unknown Soldier, so guards stop people sitting on the steps or eating on the monument. Expect a bag check at the entrance."
+  - q: How do I get to Terrazza delle Quadrighe?
+    a: >-
+      It's on top of the Vittoriano in Piazza Venezia. Many city bus lines stop
+      in the square, and Colosseo station (Metro Line B) is about a 15-minute
+      walk along Via dei Fori Imperiali. The glass lift is at the back of the
+      monument, on the Capitoline side.
+  - q: What are the opening hours?
+    a: >-
+      At the moment it opens 9:30am–6:45pm every day of the week. Observation
+      terrace hours change through the year and on some holidays, so check the
+      official Vittoriano site for this month's times.
+  - q: How long should I spend there?
+    a: >-
+      30–45 minutes is enough for the terrace itself. Allow about two hours if
+      you also walk the monument's outer terraces and visit the Museo Centrale
+      del Risorgimento inside.
+  - q: What can I see from the top?
+    a: >-
+      You get a full 360° view. It takes in the Roman Forum and the Colosseum,
+      the Capitoline Hill, Via del Corso running north, and St Peter's dome to
+      the west.
+  - q: Are there rules on the monument?
+    a: >-
+      Yes. The Vittoriano holds the Tomb of the Unknown Soldier, so guards stop
+      people sitting on the steps or eating on the monument. Expect a bag check
+      at the entrance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-13'
 ---
 
 ## Level with the chariots

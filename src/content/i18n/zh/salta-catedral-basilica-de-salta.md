@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: salta-catedral-basilica-de-salta
-srcHash: 'eace4debaf3e'
+srcHash: '0f3e6f5f99e3'
 title: 萨尔塔主教座堂旅行指南（4.8★）
-description: 萨尔塔主教座堂（Catedral Basílica de Salta）位于萨尔塔市中心主广场七月九日广场（Plaza 9 de Julio）北侧，地址为España 558。评分4.8★（9,192条评价），本文汇总游客评价、开放时间和参观建议。
+description: 萨尔塔主教座堂（Catedral Basílica de Salta）位于萨尔塔市中心主广场七月九日广场（Plaza 9 de Julio）北侧，地址为España 558。评分4.8★（9,211条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 萨尔塔主教座堂（Catedral Basílica de Salta）坐落在萨尔塔市中心主广场七月九日广场（Plaza 9 de Julio）的北侧，地址为España 558。教堂外立面是粉色的，内部金碧辉煌，至今仍在举行宗教活动，中午会闭门。周末人最少的时段是上午8点至9点和下午5点至6点，上午10点至12点和晚上7点至9点最好避开。
 faq:
   - q: 什么时候去萨尔塔主教座堂人最少？
