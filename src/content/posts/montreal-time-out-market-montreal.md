@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/501671172_udSD7Uv_ldX63MDGixXXnm1DEifDq17YSs2n2fOeZaU.jpg"
+    credit: "Photo: Foursquare user content (Time Out Market Montréal)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5d8e2ecd2190f90008ac61b1"
 place:
   id: ChIJy_cua0QayUwR-HoXFL004ek
   name: Time Out Market Montréal
@@ -99,6 +103,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-12'
+galleryAddedOn: '2026-11-14'
 ---
 
 ## A food court with a downtown address

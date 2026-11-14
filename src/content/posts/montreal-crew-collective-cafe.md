@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/59737823_3iuorZgs0HUSwBHB-1zi0bBrkFJ0OctEfBLpjOUkLLk.jpg"
+    credit: "Photo: Foursquare user content (Crew Collective & Cafe)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/56e9cf37498e8d07ac01d8f4"
 place:
   id: "ChIJBdEBS1gayUwRaDkzJYgthoQ"
   name: "Crew Collective & Cafe"
@@ -64,6 +68,7 @@ faq:
     a: "For a coffee and a look at the ceiling, 30–45 minutes is enough. Notre-Dame Basilica on Place d'Armes is a short walk east, and Place Jacques-Cartier and the Old Port are a few blocks south."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-14'
 ---
 
 Push through the doors at 360 Rue Saint-Jacques and the scale changes. The ceiling sits far above you, coffered and painted, with chandeliers hanging on long chains over rows of laptops. This was the main banking hall of the Royal Bank of Canada's head office, and the room still behaves like one: stone underfoot, long counters, and voices that carry.

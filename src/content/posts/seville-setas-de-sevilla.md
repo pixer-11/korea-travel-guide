@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11425697_KH_MB2dP9xqu8gtbn1RawZz48Vkoq0puwz9aLcr6iNA.jpg"
+    credit: "Photo: Foursquare user content (Setas de Sevilla)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5d062454b6eedb002c604fee"
 place:
   id: "ChIJH1SaEAVsEg0RxNL-4W2upL0"
   name: "Setas de Sevilla"
@@ -72,6 +76,7 @@ faq:
     a: "Tickets are sold at the lower level, where the lifts to the walkway leave from, and on the official website. The current price is posted on the official site and at the ticket office. Booking ahead helps at sunset and on weekend afternoons."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-14'
 ---
 
 ## A wooden waffle over the old town

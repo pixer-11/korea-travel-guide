@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 46
     y: 25
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/25112390_8ZDZeyVgc87GWC1y2mAKfZd_a4QUYciBwcHl-lByx3I.jpg"
+    credit: "Photo: Foursquare user content (Nidec Kyoto Tower (ニデック京都タワー))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bb451aa643cd13ac799395c"
 place:
   id: "ChIJd9pWqK8IAWAR1L-X_-4WKew"
   name: "Nidec Kyoto Tower"
@@ -67,6 +71,7 @@ faq:
     a: "Higashi Hongan-ji is about five minutes' walk north, and its Shōsei-en garden is a little further east. Nishi Hongan-ji and Tō-ji are also close by. Across the road, Kyoto Station has Kyoto Ramen Kōji and a rooftop terrace with a free, lower view."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-14'
 ---
 
 ## A lighthouse for a city with no sea

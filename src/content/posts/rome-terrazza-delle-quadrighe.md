@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 55
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/217372309_D3UIsPpWYh1SQUpcAV8j5GS_iuMMOR7v3iKHrXDX100.jpg"
+    credit: "Photo: Foursquare user content (Terrazza delle Quadrighe)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4f0c212be4b020a8d94f991b"
 place:
   id: ChIJsQeLTbNhLxMRj2ZP6qu4fd0
   name: Terrazza delle Quadrighe
@@ -81,6 +85,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-13'
+galleryAddedOn: '2026-11-14'
 ---
 
 ## Level with the chariots

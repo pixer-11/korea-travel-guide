@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/531764521_J8THlJk6Ngh_ayAYvCfIGLUIJUxx2Z64CWtPHeThGDo.jpg"
+    credit: "Photo: Foursquare user content (Hiroshima Orizuru Tower (おりづるタワー))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/57832781498e6150d580e2f0"
 place:
   id: ChIJyz9bjQyiWjURHMzhMGEGw8Q
   name: Hiroshima Orizuru Tower
@@ -88,6 +92,7 @@ faq:
 aiGenerated: true
 draft: false
 updatedDate: '2026-11-13'
+galleryAddedOn: '2026-11-14'
 ---
 
 ## The Dome from above

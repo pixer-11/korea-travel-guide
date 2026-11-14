@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 30
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/17907812_hmtr_35suFhv7iMZU_1xRkOWjoAWEmWR3tvXx6usITQ.jpg"
+    credit: "Photo: Foursquare user content (Salamanca Arts Centre)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b96e3a6f964a520a1eb34e3"
 place:
   id: "ChIJTQAH2Yd1bqoRzwUyCk77eCQ"
   name: "Salamanca Arts Centre"
@@ -50,6 +54,7 @@ faq:
     a: "Salamanca Market runs outside on Saturdays. Kelly's Steps lead up into Battery Point and Arthur Circus, Princes Park is at the southern end of Salamanca Place, and Constitution Dock and the MONA ferry at Brooke Street Pier are a few minutes' walk north."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-14'
 ---
 
 ## Sandstone first, art second

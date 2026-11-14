@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1416180769_kN5xC2A_9N6-muDSkpZS_dPiVNfu7l563i6Y4OFHFBA.jpg"
+    credit: "Photo: Foursquare user content (Rosny Hill)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/54a0a6c2498e7b2806d26c90"
 place:
   id: "ChIJhY42BorfbaoRN8xQo-rwpbw"
   name: "Rosny Hill Lookout"
@@ -83,6 +87,7 @@ faq:
     a: "Bellerive's waterfront boardwalk, Bellerive Oval and the Kangaroo Bluff Historic Site are all a short drive south. Eastlands shopping centre in Rosny Park is at the foot of the hill."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-14'
 ---
 
 ## The city, seen from across the water
