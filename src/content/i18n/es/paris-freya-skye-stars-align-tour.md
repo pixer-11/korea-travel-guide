@@ -1,63 +1,63 @@
 ---
 lang: es
 slug: paris-freya-skye-stars-align-tour
-srcHash: '7e11e381d3e5'
-title: 'Freya Skye - Stars Align Tour: fechas, entradas y recinto (París)'
-description: Freya Skye lleva su Stars Align Tour a París, Francia, el 13 de noviembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el viaje en torno a la fecha.
-quickAnswer: Freya Skye llevará el Stars Align Tour a París el 13 de noviembre de 2026, con una actuación en la Salle Pleyel, en el distrito VIII, que será su primera fecha francesa de la gira. Se trata de una sala de conciertos con asientos numerados y no de un recinto tipo arena, así que puede esperarse un espectáculo más íntimo que sus actuaciones en festivales. Conviene confirmar el horario y las entradas en el sitio oficial antes de organizar el viaje o el alojamiento en torno a la fecha.
+srcHash: 'e00fdf7035cf'
+title: 'Freya Skye - Stars Align Tour: fecha, entradas y sala (París)'
+description: La gira Stars Align Tour de Freya Skye tenía prevista su parada en la Salle Pleyel de París el 13 de noviembre de 2026, primera fecha de la artista en Francia dentro de la gira.
+quickAnswer: El concierto de Freya Skye en París, dentro de la Stars Align Tour, estaba previsto para el 13 de noviembre de 2026 en la Salle Pleyel, en el distrito 8. Era su primera fecha en Francia de la gira. La Salle Pleyel no es un pabellón, sino un auditorio con butacas, un marco mucho más íntimo que el de sus actuaciones en festivales. Lo que se anunció fueron la fecha y la sala.
 faq:
-  - q: ¿Cuándo toca Freya Skye en París dentro del Stars Align Tour?
-    a: El 13 de noviembre de 2026, en la Salle Pleyel, en el distrito VIII, su primera fecha francesa de la gira.
+  - q: ¿Cuándo actuaba Freya Skye en París con la Stars Align Tour?
+    a: La fecha de París era el 13 de noviembre de 2026, en la Salle Pleyel, en el distrito 8. Se trataba de su primera cita en Francia dentro de la gira.
   - q: ¿Cómo se llega a la Salle Pleyel?
-    a: Se puede tomar la Línea 2 de metro hasta Ternes o Courcelles, o las Líneas 9/13 hasta Miromesnil; todas quedan a poca distancia a pie del recinto, situado en Rue du Faubourg Saint-Honoré.
-  - q: ¿Dónde se pueden comprar las entradas o consultar el horario exacto?
-    a: Conviene confirmar el horario y las entradas en el sitio oficial de la Salle Pleyel o en la página oficial de la gira de Freya Skye, en lugar de fiarse de listados de reventa.
-  - q: ¿La Salle Pleyel tiene asientos numerados?
-    a: Sí, es una sala de conciertos con butacas, construida en la década de 1920 pensando en la acústica orquestal, así que puede esperarse asiento asignado y un estilo de sala más formal que en un concierto de pop en una arena.
-  - q: ¿Qué hay cerca para cenar antes del concierto?
-    a: La calle de mercado Rue de Lévis, a poca distancia a pie hacia el norte, tiene panaderías, queserías y bistrós adecuados para una cena temprana; la zona queda más tranquila para comer de madrugada después del espectáculo.
+    a: La línea 2 del metro para en Ternes y Courcelles, y las líneas 9 y 13, en Miromesnil. Desde cualquiera de estas estaciones se llega cómodamente a pie a la sala, situada en la Rue du Faubourg Saint-Honoré.
+  - q: ¿Dónde se podían comprar las entradas o consultar el horario exacto?
+    a: Lo anunciado fueron la fecha, el 13 de noviembre de 2026, y la sala, la Salle Pleyel. Las fuentes principales para entradas y horarios eran la propia sala y la página oficial de la gira de Freya Skye, no los listados de terceros.
+  - q: ¿La Salle Pleyel tiene butacas?
+    a: Sí. Es un auditorio con butacas construido en la década de 1920 para la acústica orquestal, con localidades numeradas y unas costumbres más formales que las de un concierto pop en un pabellón.
+  - q: ¿Qué opciones había cerca para cenar antes del concierto?
+    a: La Rue de Lévis, una calle de mercado a poca distancia hacia el norte, cuenta con panaderías, queserías y bistrós adecuados para una cena temprana. Después de un concierto, la zona ofrece menos animación para comer a altas horas.
 ---
 
-La Salle Pleyel no suele aparecer en el itinerario de una gira de pop británico. Es la sala que París construyó para orquestas en 1927, toda ella de líneas Art Déco y con una acústica célebre por su precisión, lo que convierte la parada de Freya Skye aquí el 13 de noviembre de 2026 en una combinación poco habitual de artista y recinto.
+No es habitual encontrar la Salle Pleyel en el itinerario de una gira de pop británico. París levantó esta sala en 1927 pensando en las orquestas, con líneas art déco y una acústica célebre por su precisión. Por eso la parada de Freya Skye, fijada para el 13 de noviembre de 2026, suponía un encuentro poco común entre artista y escenario.
 
-## Por qué la Salle Pleyel es la verdadera noticia
+## Por qué la Salle Pleyel era lo más llamativo
 
-Esta es la primera fecha francesa del Stars Align Tour, y la elección de la sala dice mucho sobre cómo se está planteando el espectáculo. La Salle Pleyel sienta a su público en butacas en lugar de llenar una pista de pie, de modo que tanto las líneas de visión como el sonido están pensados para escuchar, no solo para generar una pared de ruido cerca del escenario.
+Se trataba de la primera fecha en Francia de la Stars Align Tour, y la elección de la sala ya revelaba el enfoque del espectáculo. En la Salle Pleyel el público ocupa butacas en lugar de agolparse en una pista de pie, de modo que tanto la visibilidad como el sonido están concebidos para escuchar, y no solo para recibir un muro de ruido junto al escenario.
 
-Quienes hayan visto antes a Freya Skye en un festival o en una arena pueden esperar un registro de espectáculo distinto. Los tramos de balada de un set de pop suelen calar más hondo en una sala como esta que al aire libre.
+Un concierto en la Pleyel tiene un tono muy distinto al de un festival o un pabellón. Los tramos más cargados de baladas de un repertorio pop suelen calar más hondo en una sala así que al aire libre.
 
 ## Cómo llegar a la Salle Pleyel
 
-El recinto se encuentra en Rue du Faubourg Saint-Honoré, en el distrito VIII, a poca distancia a pie del Parc Monceau y de las calles comerciales que rodean Rue de Courcelles.
+La sala se encuentra en la Rue du Faubourg Saint-Honoré, en el distrito 8, a pocos minutos a pie del Parc Monceau y de las calles comerciales que rodean la Rue de Courcelles.
 
-- Estación de metro más cercana: Ternes o Courcelles, ambas en la Línea 2
-- También se puede llegar a pie desde Miromesnil, en las Líneas 9 y 13
-- El barrio es residencial y tranquilo por la noche, así que conviene planear la ruta de salida antes de que termine el concierto, no después
+- Metro más cercano: Ternes o Courcelles, ambas de la línea 2
+- También se llega caminando desde Miromesnil, en las líneas 9 y 13
+- Es un barrio residencial y tranquilo por la noche
 
-Al tratarse de una sala de conciertos y no de un complejo tipo estadio, no hay una gran explanada ni una larga avenida de acceso. En general, se llega a la puerta a los pocos minutos de salir del metro.
+Al tratarse de un auditorio y no de un recinto deportivo, no hay grandes explanadas ni largos accesos. Desde la salida del metro hasta la puerta suele haber apenas un par de minutos a pie.
 
-## Entradas y confirmación de los detalles
+## Entradas y datos del concierto
 
-Aquí no se indican precios, ventanas de venta ni horarios concretos, ya que esos datos cambian y esta página está pensada para seguir siendo fiable mucho después del concierto. Conviene confirmar el horario y las entradas en el sitio oficial de la Salle Pleyel o en la página oficial de la gira de Freya Skye antes de reservar el viaje.
+El anuncio de la parada en París recogía la fecha, el 13 de noviembre de 2026, y la sala, la Salle Pleyel, como primera cita de la gira en Francia.
 
-Allí también se encuentra el plano de butacas real. En una sala como Pleyel, la diferencia entre un asiento de patio de butacas y uno del anfiteatro superior es notable tanto en sonido como en visibilidad, por lo que merece la pena consultar el plano antes de elegir categoría.
+En una sala como la Pleyel, las categorías de entrada se ajustan al plano de butacas, y entre una localidad de platea y otra en el anfiteatro superior hay una diferencia notable tanto de sonido como de visibilidad.
 
-## Llegar al recinto y acomodarse
+## La llegada y el ambiente de la sala
 
-La Salle Pleyel mantiene un estilo de casa más formal que el de un recinto de pop habitual: se guardan los abrigos, los asientos están numerados y los acomodadores pedirán que cada uno ocupe el suyo en lugar de aglomerarse cerca del escenario. Conviene llegar con tiempo suficiente para encontrar la fila sin prisas.
+Frente a un recinto pop convencional, la Salle Pleyel mantiene unas costumbres algo más formales: los abrigos se dejan en el guardarropa, las butacas están numeradas y los acomodadores piden al público que ocupe su asiento en lugar de arremolinarse junto al escenario.
 
-- En salas de este tipo, las puertas suelen abrir bastante antes de la hora de inicio anunciada; conviene contar con ese margen
-- Los bares del interior sirven bebidas antes del espectáculo y durante los intervalos, pero solo se pueden llevar al auditorio donde esté permitido
-- Las normas sobre teléfonos y cámaras en recintos de perfil más clásico suelen ser más estrictas que en un concierto de pop en una arena, así que conviene consultar las reglas propias del recinto en lugar de dar por sentadas las normas habituales de los festivales
+- En salas de este tipo, las puertas suelen abrirse con bastante antelación respecto a la hora anunciada
+- Los bares del interior sirven bebidas antes del concierto y en los descansos, y solo se permite entrar con ellas en el patio de butacas donde está autorizado
+- En los recintos de tradición clásica, las normas sobre móviles y cámaras suelen ser más estrictas que en los conciertos pop de pabellón, y rigen las reglas propias de la sala, no las habituales de los festivales
 
-## Dónde comer y alojarse cerca antes del concierto
+## Dónde comer y alojarse cerca
 
-El distrito VIII no es una zona de restauración nocturna como sí lo son el Marais o Bastille, así que una cena antes del espectáculo funciona mejor que buscar algo después.
+El distrito 8 no es una zona de cenas a altas horas, como sí lo son el Marais o la Bastilla, así que el barrio se presta más a cenar antes del concierto que después.
 
-Rue de Lévis, una calle de mercado cubierto a poca distancia a pie hacia el norte, cuenta con panaderías, queserías y pequeños bistrós adecuados para una cena temprana antes de un concierto en sala. El propio Parc Monceau merece un paseo pausado antes del espectáculo si se llega con tiempo y el clima acompaña; sus puertas cierran al anochecer, así que es una parada previa al concierto, no posterior.
+La Rue de Lévis, una calle de mercado cubierta a poca distancia hacia el norte, reúne panaderías, queserías y pequeños bistrós muy adecuados para una cena temprana antes de un concierto en auditorio. El propio Parc Monceau invita a un paseo sin prisas con luz de día; sus verjas se cierran al anochecer, por lo que encaja como desvío previo al concierto, no posterior.
 
-## Cómo volver después
+## La vuelta a casa
 
-Los espectáculos en salas de conciertos de esta zona de París suelen terminar de golpe, por lo que las entradas de metro de Ternes y Courcelles pueden registrar una breve afluencia justo después de la última canción. Caminar una o dos manzanas antes de bajar al metro suele ser mejor que esperar a que pase la aglomeración inicial en la entrada más cercana.
+En esta zona de París, el público de los auditorios suele salir todo a la vez, de modo que las bocas de metro de Ternes y Courcelles pueden registrar una breve avalancha nada más terminar la última canción. Caminar una o dos manzanas antes de bajar al metro suele resultar mejor que esperar a que se disuelva la aglomeración inicial en la entrada más próxima.
 
-Los taxis y los coches de las aplicaciones de transporte no tienen un lugar obvio donde formar fila frente a una sala situada en una calle residencial como esta, así que conviene considerar el metro como la opción más fiable esa noche, en lugar de contar con parar un coche a la salida.
+En una calle residencial como esta, los taxis y los vehículos con conductor no tienen un lugar claro donde esperar frente a la sala, por lo que el metro es una forma más fiable de regresar que intentar conseguir un coche a la salida.

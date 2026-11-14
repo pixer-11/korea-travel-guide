@@ -16,17 +16,12 @@ Seoul, South Korea — 27 qualifying post(s), variants: 3, 5
   = Seoul 5d — unchanged, skipping
 
 Tokyo, Japan — 24 qualifying post(s), variants: 3, 5
-  ~ Tokyo 3d — structure changed by 4 slug(s), regenerating prose
-  ✅ Tokyo 3d — updated
-  ~ Tokyo 5d — structure changed by 5 slug(s), regenerating prose
-  ⚠ Tokyo 5d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-  ⚠ Tokyo 5d — model reply was malformed (model output missing quickAnswer (stop_reason=tool_use in=9114 out=2914/4000)); asking once more
-ERROR processing Tokyo: model output missing quickAnswer (stop_reason=tool_use in=9114 out=3366/4000)
+  = Tokyo 3d — unchanged, skipping
+  = Tokyo 5d — unchanged, skipping
 
 Bangkok, Thailand — 24 qualifying post(s), variants: 3, 5
   = Bangkok 3d — unchanged, skipping
-  ⚠ Bangkok 5d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-NEW_ITINERARY: Bangkok 5d
+  = Bangkok 5d — unchanged, skipping
 
 Bali, Indonesia — 13 qualifying post(s), variants: 3
   = Bali 3d — unchanged, skipping
@@ -53,7 +48,7 @@ Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
 
 Hiroshima, Japan — 12 qualifying post(s), variants: 3
-NEW_ITINERARY: Hiroshima 3d
+  = Hiroshima 3d — unchanged, skipping
 
 Ho Chi Minh City, Vietnam — 17 qualifying post(s), variants: 3
   = Ho Chi Minh City 3d — unchanged, skipping
@@ -91,7 +86,7 @@ Singapore, Singapore — 79 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

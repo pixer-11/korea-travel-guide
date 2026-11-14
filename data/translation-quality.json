@@ -40388,5 +40388,54 @@
   "registerBreak": false,
   "worst": "这座纪念地还能让人看到商场和海滩之外的阿布扎比，了解一个年轻的国家如何铭记自己的英雄。",
   "at": "2026-11-14T07:49:04.670Z"
+ },
+ "es/hong-kong-diana-krall-live-in-hong-kong": {
+  "hash": "6f04b32225fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Hasta desde los pisos superiores el piano queda cerca, algo muy adecuado...",
+  "at": "2026-11-14T14:22:54.589Z"
+ },
+ "es/istanbul-throwback-festival-2026": {
+  "hash": "73d4bc6974a5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "**Ferris** que enlazan Kadıköy, Üsküdar, Karaköy, Eminönü y Beşiktaş",
+  "at": "2026-11-14T14:23:01.187Z"
+ },
+ "es/ottawa-k-pop-infinity-tour-ontario": {
+  "hash": "21e3992f1c58",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Quienes se quedan a dormir suelen elegir el centro o el ByWard Market,",
+  "at": "2026-11-14T14:23:02.105Z"
+ },
+ "ja/hong-kong-diana-krall-live-in-hong-kong": {
+  "hash": "c61fc25b85f6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "大劇場は全席着席のフォーマルなホールで、観客もそれにふさわしい振る舞いを心がけています。",
+  "at": "2026-11-14T14:23:03.253Z"
+ },
+ "ja/sydney-ikon-fourever-world-tour": {
+  "hash": "e183133ed443",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "K-POPや海外ツアー中のインディーアーティストに好まれるのは、このサイズ感ゆえです。",
+  "at": "2026-11-14T14:25:33.298Z"
+ },
+ "ko/sydney-ikon-fourever-world-tour": {
+  "hash": "bece12b1af49",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "내부는 시드니의 중간 규모 공연장에 속합니다. 수용 인원이 수만 명이 아니라 수천 명 단위입니다.",
+  "at": "2026-11-14T14:25:34.558Z"
+ },
+ "zh/sydney-ikon-fourever-world-tour": {
+  "hash": "ab709a7870ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这份日程把星期六空了出来，方便跟着巡演前往墨尔本的歌迷。",
+  "at": "2026-11-14T14:23:28.507Z"
  }
 }

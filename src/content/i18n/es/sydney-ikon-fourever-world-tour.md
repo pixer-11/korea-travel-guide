@@ -1,76 +1,74 @@
 ---
 lang: es
 slug: sydney-ikon-fourever-world-tour
-srcHash: '94765e1c888e'
+srcHash: '8e5eb603c38a'
 title: 'iKON Fourever World Tour en Sídney: fechas, entradas y recinto'
-description: La fecha de la iKON Fourever World Tour en Sídney es el viernes 13 de noviembre de 2026, en el Hordern Pavilion de Moore Park. La segunda parada australiana de la gira es Melbourne, dos días después.
-quickAnswer: La fecha de la iKON Fourever World Tour en Sídney es el viernes 13 de noviembre de 2026, en el Hordern Pavilion de Moore Park. Dos días después, la gira pasa por Melbourne, su segunda parada en Australia. El Hordern está en Driver Avenue, junto al Entertainment Quarter. La mayoría de los fans llega en tren ligero hasta la parada de Moore Park o sube a pie desde Central.
+description: El iKON Fourever World Tour tenía prevista su parada de Sídney en el Hordern Pavilion de Moore Park el viernes 13 de noviembre de 2026. La fecha de Melbourne llegaba dos días después.
+quickAnswer: El concierto del iKON Fourever World Tour en Sídney estaba programado en el Hordern Pavilion de Moore Park para el viernes 13 de noviembre de 2026. Dos días después, la gira tenía su segunda fecha australiana en Melbourne. El Hordern se encuentra en Driver Avenue, junto al Entertainment Quarter. La mayoría del público llega en tren ligero hasta la parada de Moore Park o sube a pie desde Central.
 faq:
-  - q: ¿Cuándo y dónde es el concierto de la iKON Fourever World Tour en Sídney?
-    a: En el Hordern Pavilion, Driver Avenue, Moore Park, el viernes 13 de noviembre de 2026.
+  - q: ¿Cuándo y dónde era el concierto del iKON Fourever World Tour en Sídney?
+    a: La fecha anunciada para Sídney era el viernes 13 de noviembre de 2026, en el Hordern Pavilion (Driver Avenue, Moore Park).
   - q: ¿Cómo se llega al Hordern Pavilion?
-    a: Las líneas de tren ligero L2 Randwick y L3 Kingsford paran en Moore Park, sobre Anzac Parade, a poca distancia a pie del recinto. La estación Central queda a unos 25–30 minutos andando, y los autobuses de Anzac Parade también paran cerca.
-  - q: ¿Hay otra fecha en Australia?
-    a: Sí. Dos días después de Sídney, la gira pasa por Melbourne, el domingo 15 de noviembre de 2026.
+    a: Las líneas de tren ligero L2 Randwick y L3 Kingsford paran en Moore Park, sobre Anzac Parade, a poca distancia a pie del recinto. Desde la estación Central hay unos 25–30 minutos caminando, y los autobuses de Anzac Parade también tienen parada cerca.
+  - q: ¿Había otra fecha en Australia?
+    a: Sí. La fecha de Melbourne era el domingo 15 de noviembre de 2026, dos días después del concierto de Sídney.
   - q: ¿Qué suelen llevar los fans?
-    a: Muchos llevan la varita luminosa oficial de iKON, el Konbat, ya vinculada y cargada, además de un bolso pequeño y una tarjeta o el móvil para pagar, ya que en el recinto apenas se usa efectivo.
-  - q: ¿Dónde se puede comer cerca del recinto?
-    a: El Entertainment Quarter, junto al Hordern, tiene restaurantes informales y bares. En Crown Street, en Surry Hills, a un corto paseo hacia el oeste, la oferta es más amplia e incluye comida coreana.
+    a: En los conciertos de iKON, los fans suelen llevar la barra luminosa oficial del grupo, el Konbat, ya vinculada y con la batería cargada. Completan el equipo un bolso pequeño y una tarjeta o el móvil para pagar, ya que en el recinto apenas se usa efectivo.
+  - q: ¿Dónde se podía comer cerca del recinto?
+    a: Junto al Hordern, el Entertainment Quarter tenía restaurantes informales y bares. A un corto paseo hacia el oeste, Crown Street, en Surry Hills, ofrecía una variedad mayor, con comida coreana incluida.
 ---
 
 ## Un viernes por la noche en Moore Park
 
-Seis integrantes, un pabellón histórico y una sola noche en Sídney. La parada de la iKON Fourever World Tour en el Hordern Pavilion es el viernes 13 de noviembre de 2026. Dos días más tarde, el domingo, le toca el turno a Melbourne.
+Seis integrantes, un pabellón histórico y una sola noche en Sídney. La fecha anunciada para el iKON Fourever World Tour en el Hordern Pavilion era el viernes 13 de noviembre de 2026. Dos días más tarde, el domingo, la gira pasaba por Melbourne.
 
-Imagine el ambiente de Driver Avenue en una noche de concierto. Los fans enrollan sus pancartas y las guardan en bolsas de tela, mientras en la acera se intercambian fotocartas. Contra la fachada clara del pabellón, más de uno prueba su varita luminosa. El Hordern es una sala de exposiciones de los años veinte, así que el espacio interior recuerda más a una gran nave de techo alto que al graderío de un estadio moderno.
+Las noches de K-pop en el Hordern suelen traer sus propios rituales de cola, desde el intercambio de fotocartas hasta las pruebas de barras luminosas contra la pared clara del pabellón. El Hordern es una sala de exposiciones de los años veinte. Por eso el interior recuerda más a una nave amplia de techo alto que al graderío en forma de cuenco de un estadio moderno.
 
 ## Quiénes son hoy iKON
 
-La formación del grupo ha cambiado mucho desde sus comienzos. iKON surgió de los programas de supervivencia WIN y Mix & Match, y debutó en 2015 con YG Entertainment. En 2018, su sencillo «Love Scenario» fue una de las canciones de K-pop más populares del año en Corea, y lo cantaban por igual niños y oficinistas.
+La formación del grupo ha cambiado mucho desde sus inicios. iKON debutó en 2015 con YG Entertainment tras pasar por los programas de supervivencia WIN y Mix & Match. Su sencillo de 2018, «Love Scenario», fue una de las canciones de K-pop de mayor éxito de aquel año en Corea, y lo cantaban por igual niños y oficinistas.
 
-B.I abandonó el grupo en 2019. Los seis miembros actuales son Jay, Song, Bobby, DK, Ju-ne y Chan, que en 2023 dejaron YG para firmar con 143 Entertainment. A estas alturas de su carrera, una gira mundial tiene algo de reencuentro con sus seguidores, ya que buena parte del público de Sídney los acompaña desde la época de «Rhythm Ta» y «My Type». Los fans de iKON se hacen llamar iKONIC.
+B.I dejó el grupo en 2019. Los seis miembros actuales son Jay, Song, Bobby, DK, Ju-ne y Chan, que se marcharon de YG y firmaron con 143 Entertainment en 2023. A estas alturas de su trayectoria, una gira mundial tiene algo de reencuentro con sus seguidores de siempre, muchos de los cuales los acompañan desde la época de «Rhythm Ta» y «My Type». Los fans de iKON se hacen llamar iKONIC.
 
-No se conoce el repertorio de la noche. Conviene, por tanto, tomar cualquier canción como un deseo y no como una promesa.
+## El propio Hordern Pavilion
 
-## El Hordern Pavilion
+El edificio es más antiguo de lo que cabría esperar. Se construyó en 1924 para la Royal Agricultural Society, en los tiempos en que la Sydney Royal Easter Show se celebraba en estos terrenos de Moore Park. Está catalogado como patrimonio y, visto desde fuera, conserva todavía el aire de un pabellón de feria: alargado, simétrico y con un revoque de tono claro.
 
-El edificio es más antiguo de lo que cabría pensar. La Royal Agricultural Society lo construyó en 1924, cuando la Sydney Royal Easter Show aún se organizaba en estos terrenos de Moore Park. Hoy está protegido como patrimonio, y su exterior alargado, simétrico y de revoque claro conserva todavía el aire de un pabellón de feria.
-
-Por dentro es una de las salas de conciertos de tamaño medio de Sídney, con un aforo de miles de personas y no de decenas de miles. Precisamente por esas dimensiones lo prefieren los grupos de K-pop y los artistas independientes en gira. Incluso desde el fondo de la pista se distinguen las caras sin tener que mirar las pantallas toda la noche.
+Por dentro es una de las salas de conciertos de tamaño medio de Sídney, con aforo para miles de personas y no para decenas de miles. Precisamente por esas dimensiones gusta tanto a los grupos de K-pop y a las bandas independientes en gira. Incluso desde el fondo de la pista se distinguen las caras sin tener que mirar las pantallas toda la noche.
 
 ## Cómo llegar a Driver Avenue
 
-La mayoría del público llega en tren ligero. Tanto la línea L2 Randwick como la L3 Kingsford paran en Moore Park, sobre Anzac Parade. Desde allí, un corto paseo por el parque conduce al Entertainment Quarter y al Hordern.
+La mayoría del público llega en tren ligero. Las líneas L2 Randwick y L3 Kingsford tienen parada en Moore Park, sobre Anzac Parade, y desde allí basta un breve paseo por el parque para llegar al Entertainment Quarter y al Hordern.
 
 Otras opciones:
-- **A pie desde Central:** unos 25–30 minutos por Foveaux Street, atravesando Surry Hills, o por los senderos de Moore Park.
+- **A pie desde Central:** unos 25–30 minutos por Foveaux Street, atravesando Surry Hills, o por los caminos de Moore Park.
 - **Autobús:** las líneas de Anzac Parade salen de Central y del centro de la ciudad y pasan por Moore Park.
-- **Coche:** el Entertainment Quarter tiene aparcamiento, aunque se llena las noches en que también hay partido en los estadios cercanos.
+- **Coche:** el Entertainment Quarter dispone de aparcamiento, aunque se llena las noches en que también hay partido en los estadios cercanos.
 
-El Sydney Cricket Ground y el Allianz Stadium están justo al lado. Cuando un partido y un concierto coinciden la misma noche, tanto el tren ligero como Anzac Parade se saturan en ambos sentidos.
+El Sydney Cricket Ground y el Allianz Stadium están justo al lado. Cuando un partido y un concierto coinciden en la misma noche, tanto el tren ligero como Anzac Parade se llenan de gente en ambos sentidos.
 
-## Varitas luminosas, cánticos y el brillo del Konbat
+## Barras luminosas, cánticos y el brillo del Konbat
 
-El público del K-pop tiene sus propias costumbres. La varita luminosa oficial de iKON, conocida como Konbat, tiene forma de martillo. Cuando la sala entera las enciende, la pista oscura del Hordern se convierte en un único manto de color. Quienes tienen una suelen ponerle pilas nuevas y vincularla con la aplicación antes de salir de casa, porque dentro la cobertura escasea.
+El público del K-pop tiene sus propias costumbres. La barra luminosa oficial de iKON, apodada Konbat, tiene forma de martillo. Cuando toda la sala las enciende, la pista a oscuras del Hordern se convierte en un único manto de color. Quienes tienen una suelen ponerle pilas nuevas y vincularla con la aplicación antes de salir de casa, porque dentro apenas queda cobertura.
 
-El otro ritual son los cánticos de los fans. En los grandes éxitos, los iKONIC gritan entre verso y verso los nombres de los miembros en un orden fijo. Muchos de los que van por primera vez los aprenden en las semanas previas gracias a las guías de cánticos que los propios fans publican en internet. Unirse al coro, aunque sea con torpeza, es la mitad de la experiencia.
+El otro ritual son los cánticos. En los grandes éxitos, los iKONIC corean los nombres de los miembros entre verso y verso, siguiendo un orden fijo. Muchos de quienes van por primera vez los aprenden en las semanas anteriores con guías que otros fans publican en internet. Sumarse a ellos, aunque sea con torpeza, es la mitad de la experiencia.
 
-Las cuentas de fans australianas suelen organizar proyectos de pancartas, en los que el público levanta lemas impresos durante una canción elegida. A veces se reparten papeletas en la cola.
+Las cuentas de fans australianas suelen organizar proyectos de pancartas, en los que el público levanta lemas impresos durante una canción elegida. A veces las hojas de papel se reparten en la misma cola.
 
 ## El Hordern como lo viven los habituales
 
-Algunas costumbres facilitan la noche:
+Algunas costumbres hacen más llevadera la noche:
 
-- **Primero, los productos oficiales:** en los conciertos de K-pop del Hordern, las colas del puesto de productos oficiales suelen ser más largas justo antes de la apertura de puertas. Muchos fans acuden en cuanto abre o lo dejan para después del concierto.
+- **Primero, los productos oficiales:** en el Hordern, las colas del puesto de productos oficiales de K-pop suelen ser más largas justo antes de la apertura de puertas. Muchos fans se dirigen al puesto en cuanto abre o lo dejan para después del concierto.
 - **Pago con tarjeta:** en los recintos de Sídney, la barra y el puesto de productos funcionan casi siempre sin efectivo. Lo habitual es pagar con tarjeta sin contacto o con el móvil.
-- **Bolsos:** en los recintos de conciertos australianos suelen estar restringidos los bolsos grandes y las cámaras profesionales. Los fans van ligeros, con un pequeño bolso bandolera.
+- **Bolsos:** las salas de conciertos australianas suelen restringir los bolsos grandes y las cámaras profesionales, así que los fans van ligeros, con un pequeño bolso bandolera.
 - **Propinas:** en la barra no se esperan, como es norma en Australia.
-- **La salida:** tras el bis, la multitud se dirige en masa a la parada de tren ligero de Moore Park. Algunos fans prefieren caminar hasta Oxford Street, en Paddington, o bajar a Surry Hills y tomar allí el transporte.
+- **Salida:** tras el bis, la multitud suele encaminarse en masa hacia la parada de tren ligero de Moore Park. Algunos fans prefieren caminar hasta Oxford Street, en Paddington, o bajar hasta Surry Hills y tomar allí el transporte.
 
-Los enlaces de venta de entradas para los conciertos del Hordern Pavilion aparecen en la propia cartelera de eventos del recinto. Los fans suelen limitarse a esos canales oficiales y evitan los anuncios de reventa, conocidos por los timos en torno a las giras de K-pop.
+Las entradas para los conciertos del Hordern Pavilion se venden a través de la propia cartelera de eventos del recinto. Los anuncios de reventa han sido un conocido foco de estafas en torno a las giras de K-pop.
 
 ## Antes y después, en los alrededores
 
-A pocos pasos hay mucho donde elegir. Justo al lado del recinto, el Entertainment Quarter reúne restaurantes informales y bares, y es el lugar más evidente para cenar antes del concierto. Un corto paseo hacia el oeste lleva a Crown Street, en Surry Hills, con una oferta mucho más variada que incluye varios locales coreanos y asiáticos.
+A pocos pasos había mucho donde elegir. Junto al recinto, el Entertainment Quarter reunía restaurantes informales y bares, y era la opción más evidente para comer antes del concierto. Crown Street, en Surry Hills, quedaba a un corto paseo hacia el oeste y ofrecía una variedad mucho mayor, con varios locales coreanos y asiáticos.
 
-Al este, Moore Park linda con Centennial Park. En una cálida tarde de noviembre, ya a finales de la primavera austral, es un lugar agradable para sentarse antes de que abran las puertas. Los fans que siguen la gira hasta Melbourne disponen del sábado para viajar. La ruta Sídney–Melbourne es uno de los corredores aéreos nacionales con más tráfico del mundo.
+Por el este, Centennial Park linda con Moore Park. En una tarde templada de noviembre, a finales de la primavera, era un lugar agradable para sentarse antes de la apertura de puertas. El calendario dejaba libre el sábado para los fans que seguían la gira hasta Melbourne. La ruta entre Sídney y Melbourne es uno de los corredores aéreos nacionales con más tráfico del mundo.
