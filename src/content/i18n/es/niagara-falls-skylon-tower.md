@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: niagara-falls-skylon-tower
-srcHash: '86a130616060'
+srcHash: '6afa1b7725c5'
 title: 'Skylon Tower: guía de viaje de Niagara Falls (4.4★)'
-description: Situada en 5200 Robinson St, en Niagara Falls (Ontario), la Skylon Tower es la torre mirador que domina el barrio de Fallsview. Desde su plataforma, en parte cubierta y en parte al aire libre, se contemplan de frente el desfiladero y las cataratas de la Herradura y Americanas. Con 4.4★ (14,765 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: Situada en 5200 Robinson St, en Niagara Falls (Ontario), la Skylon Tower es la torre mirador que domina el barrio de Fallsview. Desde su plataforma, en parte cubierta y en parte al aire libre, se contemplan de frente el desfiladero y las cataratas de la Herradura y Americanas. Con 4.4★ (14,766 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: La Skylon Tower se encuentra en 5200 Robinson St, en Niagara Falls (Ontario). Esta torre mirador domina el barrio de Fallsview y cuenta con una plataforma, en parte cubierta y en parte al aire libre, desde la que se ve de frente el desfiladero con las cataratas de la Herradura (Horseshoe Falls) y las cataratas Americanas (American Falls). Cualquier día de la semana suele haber menos gente de 9am a 11am. Por la noche, la franja más tranquila va de 9pm a 11pm entre semana y de 10pm a 11pm los fines de semana. Los fines de semana conviene evitar la franja de 12pm a 10pm, que es cuando más se alargan las colas de los ascensores.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Skylon Tower?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: madrid-sorolla-museum
-srcHash: 'fba3e9f93baa'
+srcHash: '12406be2ff0b'
 title: 'Museo Sorolla: guía de viaje de Madrid (4.7★)'
-description: 'En el barrio madrileño de Chamberí, en la calle de Zurbano 68, se encuentra el Museo Sorolla, antigua casa y taller del pintor Joaquín Sorolla, a pocos minutos a pie de las estaciones de metro Rubén Darío (Línea 5) e Iglesia (Línea 1). Valoración de 4.7★ (21,519 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el barrio madrileño de Chamberí, en la calle de Zurbano 68, se encuentra el Museo Sorolla, antigua casa y taller del pintor Joaquín Sorolla, a pocos minutos a pie de las estaciones de metro Rubén Darío (Línea 5) e Iglesia (Línea 1). Valoración de 4.7★ (21,521 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el barrio madrileño de Chamberí, en la calle de Zurbano 68, se encuentra el Museo Sorolla, la que fue casa y taller del pintor Joaquín Sorolla. Las estaciones de metro Rubén Darío (Línea 5) e Iglesia (Línea 1) quedan a pocos minutos a pie. Para recorrer el jardín, el taller y sus célebres escenas de playa conviene reservar entre 60–90 minutos. Actualmente cierra los lunes y, los domingos, a las 3pm, de modo que lo más cómodo es acudir una mañana entre semana, poco después de la apertura de las 9:30am.
 faq:
   - q: ¿Cuál es la estación de metro más cercana al Museo Sorolla?

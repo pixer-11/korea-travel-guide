@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-diego-gaslamp-quarter
-srcHash: '304842c80faf'
+srcHash: '7a5c7246b71e'
 title: 'Gaslamp Quarter: guía de viaje de San Diego (4.5★)'
-description: 'El Gaslamp Quarter es el barrio histórico del centro de San Diego, con unas 16 manzanas de edificios comerciales de época victoriana que bordean la Fifth Avenue entre Broadway y el Convention Center. Valoración de 4.5★ (2,376 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Gaslamp Quarter es el barrio histórico del centro de San Diego, con unas 16 manzanas de edificios comerciales de época victoriana que bordean la Fifth Avenue entre Broadway y el Convention Center. Valoración de 4.5★ (2,377 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Gaslamp Quarter es el barrio histórico del centro de San Diego. Sus unas 16 manzanas de edificios comerciales victorianos bordean la Fifth Avenue, entre Broadway y el Convention Center. Conviene recorrerlo de día para apreciar la arquitectura y volver por la noche para cenar y tomar algo. Se llega en el Trolley hasta la estación Gaslamp Quarter. Antes de ir, consulte el calendario de los Padres, ya que las calles se llenan de gente cuando hay partido en el Petco Park.
 faq:
   - q: ¿Cómo se llega al Gaslamp Quarter en transporte público?

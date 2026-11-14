@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-diego-san-diego-natural-history-museum
-srcHash: 'd25200f8d126'
+srcHash: '804bd415f269'
 title: 'Museo de Historia Natural de San Diego: guía de viaje (4,6★)'
-description: 'El Museo de Historia Natural de San Diego, conocido localmente como "the Nat", se encuentra en el 1788 de El Prado, en Balboa Park, rodeado de los demás museos y jardines del parque. 4,6★ (3.494 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'El Museo de Historia Natural de San Diego, conocido localmente como "the Nat", se encuentra en el 1788 de El Prado, en Balboa Park, rodeado de los demás museos y jardines del parque. 4,6★ (3.576 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia Natural de San Diego, conocido localmente como "the Nat", se encuentra en el 1788 de El Prado, en Balboa Park, rodeado de los demás museos y jardines del parque. Abre todos los días de 10:00 a 17:00, y si quiere disfrutar de las salas casi en solitario, conviene llegar justo a la apertura un fin de semana, cuando la afluencia es menor antes de las 11:00. Calcule entre dos y tres horas si piensa recorrer la sala de fósiles, las exhibiciones sobre terremotos y ver una película en el teatro.
 faq:
   - q: ¿Cuál es el horario del Museo de Historia Natural de San Diego?

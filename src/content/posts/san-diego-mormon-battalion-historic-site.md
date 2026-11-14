@@ -1,44 +1,51 @@
 ---
-title: "Mormon Battalion Historic Site: San Diego Travel Guide"
-description: "The Mormon Battalion Historic Site sits on Juan St in San Diego's Old Town, right along the walkable historic park district, and admission is free. 4.9★ (2,907 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Diego"
-category: "attraction"
-pubDate: "2026-09-09T07:39:41.254Z"
+title: 'Mormon Battalion Historic Site: San Diego Travel Guide'
+description: >-
+  The Mormon Battalion Historic Site sits on Juan St in San Diego's Old Town,
+  right along the walkable historic park district, and admission is free. 4.9★
+  (2,926 reviews) — what visitors say, hours, and tips.
+country: United States
+region: San Diego
+category: attraction
+pubDate: '2026-09-09T07:39:41.254Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg/1920px-San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg"
-  credit: "Photo: MARELBU / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Diego_-_Old_Town,_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg/1920px-San_Diego_-_Old_Town%2C_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg
+  credit: 'Photo: MARELBU / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:San_Diego_-_Old_Town,_CA_USA_-_Mormon_Battalion_Historic_Site_-_panoramio.jpg
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/576040_33fM_09OhhTOlmpmlgbSK2db5zQ3Ahhgn6QUCzlC70o.jpg"
-    credit: "Photo: Foursquare user content (Mormon Battalion Historic Site)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bb4152e643cd13a846c395c"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/576040_33fM_09OhhTOlmpmlgbSK2db5zQ3Ahhgn6QUCzlC70o.jpg
+    credit: 'Photo: Foursquare user content (Mormon Battalion Historic Site)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bb4152e643cd13a846c395c'
 place:
-  id: "ChIJr3AaK9yq3oAR5gWZgzH17Uw"
-  name: "Mormon Battalion Historic Site"
-  address: "2510 Juan St, San Diego, CA 92110, USA"
+  id: ChIJr3AaK9yq3oAR5gWZgzH17Uw
+  name: Mormon Battalion Historic Site
+  address: '2510 Juan St, San Diego, CA 92110, USA'
   rating: 4.9
-  userRatingsTotal: 2907
-  googleMapsUrl: "https://maps.google.com/?cid=5543356309372995046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2926
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5543356309372995046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 32.7542165
   lng: -117.19408129999998
-  phone: "+1 619-298-3317"
+  phone: +1 619-298-3317
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 1:00 – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 1:00 – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 1:00 – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 1:00 – 7:00 PM'
   busyness:
-    updated: 2026-09-09
+    updated: 2026-09-09T00:00:00.000Z
     weekdayBusy:
       - 11
       - 13
@@ -58,26 +65,45 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_77553731487a675a57673552416f337179394b614133724a496843"
+    venueId: ven_77553731487a675a57673552416f337179394b614133724a496843
 tags:
-  - "san diego"
-  - "historic site"
-quickAnswer: "The Mormon Battalion Historic Site sits on Juan St in San Diego's Old Town, right along the walkable historic park district, and admission is free. It's open daily except Tuesday and Sunday mornings, and the calmest window is 10am to 11am on Saturday, before the rush of family groups. Budget about an hour, since the visit runs as a guided, scene-by-scene walkthrough rather than a self-paced museum."
+  - san diego
+  - historic site
+quickAnswer: >-
+  The Mormon Battalion Historic Site sits on Juan St in San Diego's Old Town,
+  right along the walkable historic park district, and admission is free. It's
+  open daily except Tuesday and Sunday mornings, and the calmest window is 10am
+  to 11am on Saturday, before the rush of family groups. Budget about an hour,
+  since the visit runs as a guided, scene-by-scene walkthrough rather than a
+  self-paced museum.
 faq:
-  - q: "How much does it cost to visit the Mormon Battalion Historic Site?"
-    a: "Admission is free. The site operates on donations and there's no ticket counter."
-  - q: "How long should I plan for the visit?"
-    a: "Most guided walkthroughs run 45 minutes to an hour, depending on how many questions you ask along the way."
-  - q: "When is the quietest time to visit?"
-    a: "On Saturdays, 10am to 11am is calmest; things pick up steadily from 11am and stay busy until closing at 7pm."
-  - q: "What are the opening hours?"
-    a: "Monday, Wednesday through Saturday it's open 10am to 7pm. Tuesday and Sunday it doesn't open until 1pm, also closing at 7pm."
-  - q: "Is it easy to combine with other Old Town sights?"
-    a: "Yes, it sits right at the edge of Old Town San Diego State Historic Park, an easy walk to the park's shops, adobe buildings, and restaurants."
-  - q: "How do I get there without a car?"
-    a: "The Old Town Transit Center is a short walk away, served by the trolley's Blue and Green Lines as well as Amtrak and Coaster rail."
+  - q: How much does it cost to visit the Mormon Battalion Historic Site?
+    a: >-
+      Admission is free. The site operates on donations and there's no ticket
+      counter.
+  - q: How long should I plan for the visit?
+    a: >-
+      Most guided walkthroughs run 45 minutes to an hour, depending on how many
+      questions you ask along the way.
+  - q: When is the quietest time to visit?
+    a: >-
+      On Saturdays, 10am to 11am is calmest; things pick up steadily from 11am
+      and stay busy until closing at 7pm.
+  - q: What are the opening hours?
+    a: >-
+      Monday, Wednesday through Saturday it's open 10am to 7pm. Tuesday and
+      Sunday it doesn't open until 1pm, also closing at 7pm.
+  - q: Is it easy to combine with other Old Town sights?
+    a: >-
+      Yes, it sits right at the edge of Old Town San Diego State Historic Park,
+      an easy walk to the park's shops, adobe buildings, and restaurants.
+  - q: How do I get there without a car?
+    a: >-
+      The Old Town Transit Center is a short walk away, served by the trolley's
+      Blue and Green Lines as well as Amtrak and Coaster rail.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 You won't find turnstiles or ticket lines here. You'll find a young missionary guide waiting at the door to walk you, personally, through a story most visitors to Old Town have never heard: the longest infantry march in US military history, made by a battalion of Mormon volunteers from Iowa to San Diego in 1846-47 during the Mexican-American War.

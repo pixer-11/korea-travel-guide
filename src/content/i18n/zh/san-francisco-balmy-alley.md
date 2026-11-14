@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: san-francisco-balmy-alley
-srcHash: '224457765446'
+srcHash: '2109ade6aed6'
 title: 巴尔米巷（Balmy Alley）：旧金山旅行指南（4.5★）
-description: 巴尔米巷是旧金山米慎区（Mission District）内一条长约一个街区的壁画小巷，位于哈里森街（Harrison Street）以西，介于24街与25街之间。4.5★（1,021条点评）——游客怎么说、开放时间与实用建议。
+description: 巴尔米巷是旧金山米慎区（Mission District）内一条长约一个街区的壁画小巷，位于哈里森街（Harrison Street）以西，介于24街与25街之间。4.5★（1,028条点评）——游客怎么说、开放时间与实用建议。
 quickAnswer: 巴尔米巷是旧金山米慎区内一条长约一个街区的壁画小巷，位于哈里森街以西，介于24街与25街之间。这里全天24小时开放，免费游览。工作日早上7点到10点人最少；周末上午10点到晚上11点是高峰时段，建议避开。
 faq:
   - q: 巴尔米巷具体位置在哪里？

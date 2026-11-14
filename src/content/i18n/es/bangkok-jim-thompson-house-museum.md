@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bangkok-jim-thompson-house-museum
-srcHash: 'e8b1b1ab0081'
+srcHash: 'e6a455fe8a4b'
 title: 'Museo Casa de Jim Thompson: guía de viaje de Bangkok (4.5★)'
-description: En el soi Kasem San 2, en el distrito bangkokiano de Pathum Wan y a pocos pasos de la estación National Stadium del BTS (salida 1), se alza el Museo Casa de Jim Thompson, un conjunto de casas tradicionales de teca. Con una valoración de 4.5★ (17,763 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
+description: En el soi Kasem San 2, en el distrito bangkokiano de Pathum Wan y a pocos pasos de la estación National Stadium del BTS (salida 1), se alza el Museo Casa de Jim Thompson, un conjunto de casas tradicionales de teca. Con una valoración de 4.5★ (17,765 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
 quickAnswer: En el soi Kasem San 2, dentro del distrito de Pathum Wan, en Bangkok, se encuentra el Museo Casa de Jim Thompson, un conjunto de casas tradicionales de teca situado a un breve paseo de la estación National Stadium del BTS (salida 1). Actualmente abre de 10am a 5pm. Tanto entre semana como los fines de semana, la franja más tranquila suele ser de 10am a 11am. Las casas se recorren en una visita guiada de aproximadamente una hora.
 faq:
   - q: ¿Cuál es el mejor momento para visitar el Museo Casa de Jim Thompson sin aglomeraciones?

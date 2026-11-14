@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-francisco-city-lights-booksellers-publishers
-srcHash: 'c69681695a2f'
+srcHash: '134d288c48e2'
 title: 'City Lights Booksellers & Publishers: guía de viaje de San Francisco'
-description: 'City Lights Booksellers & Publishers es la librería independiente de tres plantas situada en el 261 de Columbus Ave, en North Beach (San Francisco), donde se publicó por primera vez a los poetas de la Generación Beat. 4.7★ (4.427 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'City Lights Booksellers & Publishers es la librería independiente de tres plantas situada en el 261 de Columbus Ave, en North Beach (San Francisco), donde se publicó por primera vez a los poetas de la Generación Beat. 4.7★ (4.462 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: City Lights Booksellers & Publishers es la librería independiente de tres plantas situada en el 261 de Columbus Ave, en North Beach (San Francisco), donde se publicó por primera vez a los poetas de la Generación Beat. Abre todos los días de 10:00 a 22:00. Entre semana se mantiene tranquila durante todo ese horario, pero los fines de semana conviene evitar la franja de 12:00 a 21:00 y acudir a la apertura, a las 10:00, o después de las 21:00.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar City Lights?

@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: san-diego-botanical-building
-srcHash: '887753268cb2'
+srcHash: '732ed6d8cb01'
 title: 植物館(ボタニカルビルディング):サンディエゴ旅行ガイド(4.7★)
-description: サンディエゴのバルボア パーク(Balboa Park)にある植物館(Botanical Building)は毎日午前10時から午後4時まで開館しており、入場は無料です。4.7★(5,104件のレビュー)をもとに、訪問者の声や営業時間、訪問のコツをご紹介します。
+description: サンディエゴのバルボア パーク(Balboa Park)にある植物館(Botanical Building)は毎日午前10時から午後4時まで開館しており、入場は無料です。4.7★(5,169件のレビュー)をもとに、訪問者の声や営業時間、訪問のコツをご紹介します。
 quickAnswer: サンディエゴのバルボア パーク(Balboa Park)にある植物館(Botanical Building)は、毎日午前10時から午後4時まで開館しており、入場は無料です。1915年のパナマ・カリフォルニア博覧会(Panama-California Exposition)の際に建てられたラス(木の薄板)張りのドームで、内部には反射池の上に2,000種類以上の植物が生い茂っています。平日の午前中が最も空いており、逆に週末の正午から午後4時にかけては最も混み合います。
 faq:
   - q: 植物館(Botanical Building)の入館料はいくらですか?

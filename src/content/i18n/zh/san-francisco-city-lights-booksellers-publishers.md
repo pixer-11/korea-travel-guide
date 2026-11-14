@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: san-francisco-city-lights-booksellers-publishers
-srcHash: 'c69681695a2f'
+srcHash: '134d288c48e2'
 title: 城市之光书店：旧金山旅行指南
-description: 城市之光书店（City Lights Booksellers & Publishers）坐落于旧金山北滩（North Beach）哥伦布大道（Columbus Ave）261号，是一家三层楼的独立书店，垮掉派诗人的作品最初便在此出版。4.7星（4,427条评价）——看看游客怎么说，营业时间和游玩贴士都在这里。
+description: 城市之光书店（City Lights Booksellers & Publishers）坐落于旧金山北滩（North Beach）哥伦布大道（Columbus Ave）261号，是一家三层楼的独立书店，垮掉派诗人的作品最初便在此出版。4.7星（4,462条评价）——看看游客怎么说，营业时间和游玩贴士都在这里。
 quickAnswer: 城市之光书店是旧金山北滩哥伦布大道261号的一家三层独立书店，垮掉派诗人的作品最初便在此出版。书店每天上午10点营业至晚上10点。工作日全天都比较清静，但周末最好避开中午12点到晚上9点这段时间，改在上午10点开门时或晚上9点以后前来。
 faq:
   - q: 什么时候去城市之光书店人最少？

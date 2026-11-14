@@ -1,45 +1,53 @@
 ---
-title: "Hiroshima Museum of Art: Travel Guide (4.4★)"
-description: "The Hiroshima Museum of Art sits in Motomachi, Naka Ward, inside Hiroshima Central Park, a short walk from Kamiyacho tram stop and about 10 minutes on foot from Peace Memorial Park. 4.4★ (2,955 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Hiroshima"
-category: "attraction"
-pubDate: "2026-11-14T07:45:38.446Z"
+title: 'Hiroshima Museum of Art: Travel Guide (4.4★)'
+description: >-
+  The Hiroshima Museum of Art sits in Motomachi, Naka Ward, inside Hiroshima
+  Central Park, a short walk from Kamiyacho tram stop and about 10 minutes on
+  foot from Peace Memorial Park. 4.4★ (2,956 reviews) — what visitors say,
+  hours, and tips.
+country: Japan
+region: Hiroshima
+category: attraction
+pubDate: '2026-11-14T07:45:38.446Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hiroshima_Museum_of_Art_20170311.jpg/3840px-Hiroshima_Museum_of_Art_20170311.jpg"
-  credit: "Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hiroshima_Museum_of_Art_20170311.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hiroshima_Museum_of_Art_20170311.jpg/3840px-Hiroshima_Museum_of_Art_20170311.jpg
+  credit: 'Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hiroshima_Museum_of_Art_20170311.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/View_of_Hiroshima_Museum_of_Art.jpg/3840px-View_of_Hiroshima_Museum_of_Art.jpg"
-    credit: "Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:View_of_Hiroshima_Museum_of_Art.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/View_of_Hiroshima_Museum_of_Art.jpg/3840px-View_of_Hiroshima_Museum_of_Art.jpg
+    credit: 'Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:View_of_Hiroshima_Museum_of_Art.jpg
 place:
-  id: "ChIJK3HPk327WjURYX3Mbfgw-3s"
-  name: "Hiroshima Museum of Art"
-  address: "3-2 Motomachi, Naka Ward, Hiroshima, 730-0011, Japan"
+  id: ChIJK3HPk327WjURYX3Mbfgw-3s
+  name: Hiroshima Museum of Art
+  address: '3-2 Motomachi, Naka Ward, Hiroshima, 730-0011, Japan'
   rating: 4.4
-  userRatingsTotal: 2955
-  googleMapsUrl: "https://maps.google.com/?cid=8933788129371651425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2956
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8933788129371651425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.398696199999996
   lng: 132.4581124
-  phone: "+81 82-223-2530"
+  phone: +81 82-223-2530
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-14
+    updated: 2026-11-14T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -49,24 +57,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_73332d776766624d33585952556a573732336b5048334b4a496843"
+    venueId: ven_73332d776766624d33585952556a573732336b5048334b4a496843
 tags:
-  - "hiroshima"
-  - "art gallery"
-quickAnswer: "The Hiroshima Museum of Art sits in Motomachi, Naka Ward, inside Hiroshima Central Park, a short walk from Kamiyacho tram stop and about 10 minutes on foot from Peace Memorial Park. It holds French art from Romanticism through Impressionism to Picasso, plus modern Japanese painting, and needs about 1–1.5 hours. Go on a weekday between 9am and 10am or 4pm and 5pm for the quietest rooms; avoid weekends from 11am to 4pm."
+  - hiroshima
+  - art gallery
+quickAnswer: >-
+  The Hiroshima Museum of Art sits in Motomachi, Naka Ward, inside Hiroshima
+  Central Park, a short walk from Kamiyacho tram stop and about 10 minutes on
+  foot from Peace Memorial Park. It holds French art from Romanticism through
+  Impressionism to Picasso, plus modern Japanese painting, and needs about 1–1.5
+  hours. Go on a weekday between 9am and 10am or 4pm and 5pm for the quietest
+  rooms; avoid weekends from 11am to 4pm.
 faq:
-  - q: "When is the quietest time to visit the Hiroshima Museum of Art?"
-    a: "On weekdays, crowds are typically lightest from 9am to 10am and from 4pm to 5pm. On weekends, avoid 11am–4pm, when it is usually busiest."
-  - q: "How do I get there from Hiroshima Station or the Peace Park?"
-    a: "Take a Hiroden streetcar to Kamiyacho-nishi or Kamiyacho-higashi and walk north into Hiroshima Central Park, about 5–10 minutes. From the Atomic Bomb Dome, it is roughly a 10-minute walk north. Kencho-mae Station on the Astram Line is also close."
-  - q: "How long should I spend there?"
-    a: "Allow 60–90 minutes for the permanent collection and courtyard, and more if a special exhibition is running."
-  - q: "Is it the same as the Hiroshima Prefectural Museum of Art?"
-    a: "No. The Prefectural Museum of Art is a separate museum next to Shukkeien garden. The Hiroshima Museum of Art is at 3-2 Motomachi, in Hiroshima Central Park."
-  - q: "What can I see nearby?"
-    a: "Hiroshima Castle is about 10 minutes' walk north through the park. The Atomic Bomb Dome and Peace Memorial Park are about 10 minutes south along the river."
+  - q: When is the quietest time to visit the Hiroshima Museum of Art?
+    a: >-
+      On weekdays, crowds are typically lightest from 9am to 10am and from 4pm
+      to 5pm. On weekends, avoid 11am–4pm, when it is usually busiest.
+  - q: How do I get there from Hiroshima Station or the Peace Park?
+    a: >-
+      Take a Hiroden streetcar to Kamiyacho-nishi or Kamiyacho-higashi and walk
+      north into Hiroshima Central Park, about 5–10 minutes. From the Atomic
+      Bomb Dome, it is roughly a 10-minute walk north. Kencho-mae Station on the
+      Astram Line is also close.
+  - q: How long should I spend there?
+    a: >-
+      Allow 60–90 minutes for the permanent collection and courtyard, and more
+      if a special exhibition is running.
+  - q: Is it the same as the Hiroshima Prefectural Museum of Art?
+    a: >-
+      No. The Prefectural Museum of Art is a separate museum next to Shukkeien
+      garden. The Hiroshima Museum of Art is at 3-2 Motomachi, in Hiroshima
+      Central Park.
+  - q: What can I see nearby?
+    a: >-
+      Hiroshima Castle is about 10 minutes' walk north through the park. The
+      Atomic Bomb Dome and Peace Memorial Park are about 10 minutes south along
+      the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 ## A round building in a city park

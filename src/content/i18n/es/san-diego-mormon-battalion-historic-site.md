@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-diego-mormon-battalion-historic-site
-srcHash: '198ad6f5e90f'
+srcHash: '0b7088216f34'
 title: 'Sitio Histórico del Batallón Mormón: Guía de Viaje de San Diego'
-description: 'El Sitio Histórico del Batallón Mormón se encuentra en Juan St, en el barrio de Old Town de San Diego, justo en la zona peatonal del distrito histórico, y la entrada es gratuita. 4.9★ (2,907 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Sitio Histórico del Batallón Mormón se encuentra en Juan St, en el barrio de Old Town de San Diego, justo en la zona peatonal del distrito histórico, y la entrada es gratuita. 4.9★ (2,926 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Sitio Histórico del Batallón Mormón se encuentra en Juan St, en el barrio de Old Town de San Diego, justo en la zona peatonal del distrito histórico, y la entrada es gratuita. Abre todos los días excepto los martes y domingos por la mañana, y el momento más tranquilo para visitarlo es entre las 10:00 y las 11:00 los sábados, antes de que llegue la avalancha de familias. Conviene reservar alrededor de una hora, ya que la visita se desarrolla como un recorrido guiado, escena por escena, y no como un museo de ritmo libre.
 faq:
   - q: ¿Cuánto cuesta visitar el Sitio Histórico del Batallón Mormón?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-alte-nationalgalerie
-srcHash: 'd68a4580c9b3'
+srcHash: '091dc81bb0ee'
 title: 'Alte Nationalgalerie: guía de viaje de Berlín (4.5★)'
-description: En la Isla de los Museos, en el distrito berlinés de Mitte, se alza la Alte Nationalgalerie, un museo de arte con forma de templo que alberga obras de Caspar David Friedrich, Adolph Menzel y una notable selección de impresionistas franceses. Con 4.5★ (10,300 reseñas), reunimos aquí las opiniones de los visitantes, el horario y algunos consejos.
+description: En la Isla de los Museos, en el distrito berlinés de Mitte, se alza la Alte Nationalgalerie, un museo de arte con forma de templo que alberga obras de Caspar David Friedrich, Adolph Menzel y una notable selección de impresionistas franceses. Con 4.5★ (10,303 reseñas), reunimos aquí las opiniones de los visitantes, el horario y algunos consejos.
 quickAnswer: En la Isla de los Museos, dentro del distrito berlinés de Mitte, se levanta la Alte Nationalgalerie, un museo de arte con forma de templo que custodia obras de Caspar David Friedrich, Adolph Menzel y una notable selección de impresionistas franceses. Actualmente abre de martes a domingo, de 10:00 a 18:00, y cierra los lunes. Como los fines de semana entre las 11:00 y las 18:00 suelen ser las horas de mayor afluencia, conviene ir entre semana o presentarse en la puerta a las 10:00.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Alte Nationalgalerie?

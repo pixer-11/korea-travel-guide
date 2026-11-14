@@ -1,41 +1,69 @@
 ---
 title: 'Alcatraz Island: San Francisco Travel Guide'
-description: Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or 9am — to see the cellhouse before tour groups thicken.
+description: >-
+  Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead
+  (further out in summer), and choose the first morning departure — around
+  8:45am or 9am — to see the cellhouse before tour groups thicken.
 country: United States
 region: San Francisco
 category: attraction
 pubDate: '2026-07-26T07:55:25.204Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alcatraz_2021.jpg/1920px-Alcatraz_2021.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alcatraz_2021.jpg/1920px-Alcatraz_2021.jpg
   credit: 'Photo: Chris6d / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Alcatraz_2021.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Alcatraz_2021.jpg'
 place:
   id: ChIJI09XaRWBhYARF65xWugonBg
   name: Alcatraz Island
-  address: Alcatraz Island, San Francisco, CA, USA
+  address: 'Alcatraz Island, San Francisco, CA, USA'
   rating: 4.6
-  userRatingsTotal: 2580
-  googleMapsUrl: https://maps.google.com/?cid=1773337331692056087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2702
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1773337331692056087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 37.826663599999996
   lng: -122.42301219999999
 tags:
   - san francisco
   - Alcatraz Island
-quickAnswer: Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead (further out in summer), and choose the first morning departure — around 8:45am or 9am — to see the cellhouse before tour groups thicken. Budget 2.5 to 3 hours total including the boat ride and the excellent audio tour narrated by former inmates and guards. Bring a jacket; the Bay wind on the crossing is colder than it looks from shore.
+quickAnswer: >-
+  Book Alcatraz Cruises ferry tickets from Pier 33 at least 2-3 weeks ahead
+  (further out in summer), and choose the first morning departure — around
+  8:45am or 9am — to see the cellhouse before tour groups thicken. Budget 2.5 to
+  3 hours total including the boat ride and the excellent audio tour narrated by
+  former inmates and guards. Bring a jacket; the Bay wind on the crossing is
+  colder than it looks from shore.
 faq:
   - q: How do I get tickets to Alcatraz Island?
-    a: Tickets are sold only through Alcatraz Cruises, the official ferry operator, departing from Pier 33 on The Embarcadero. Book online in advance — 2-3 weeks ahead is safe, longer for summer weekends — since walk-up tickets are rarely available.
+    a: >-
+      Tickets are sold only through Alcatraz Cruises, the official ferry
+      operator, departing from Pier 33 on The Embarcadero. Book online in
+      advance — 2-3 weeks ahead is safe, longer for summer weekends — since
+      walk-up tickets are rarely available.
   - q: How long should I plan for the visit?
-    a: 'Budget 2.5 to 3 hours total: about 15 minutes each way on the ferry, and 2 or more hours on the island exploring the cellhouse audio tour and gardens.'
+    a: >-
+      Budget 2.5 to 3 hours total: about 15 minutes each way on the ferry, and 2
+      or more hours on the island exploring the cellhouse audio tour and
+      gardens.
   - q: When is the least crowded time to go?
-    a: The first morning ferry departures are calmest, before tour groups build up through mid-morning and afternoon. Winter weekdays overall see noticeably thinner crowds than summer weekends.
+    a: >-
+      The first morning ferry departures are calmest, before tour groups build
+      up through mid-morning and afternoon. Winter weekdays overall see
+      noticeably thinner crowds than summer weekends.
   - q: Is the audio tour worth it?
-    a: Yes — it's included with most tickets and widely considered the highlight, narrated by former guards and inmates as you walk through the actual cellblocks.
+    a: >-
+      Yes — it's included with most tickets and widely considered the highlight,
+      narrated by former guards and inmates as you walk through the actual
+      cellblocks.
   - q: What should I bring?
-    a: A jacket for the windy, often foggy crossing, comfortable closed-toe shoes for the steep dock path and yard, and a card for payment since cash isn't the norm on the island.
+    a: >-
+      A jacket for the windy, often foggy crossing, comfortable closed-toe shoes
+      for the steep dock path and yard, and a card for payment since cash isn't
+      the norm on the island.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 ## Why go

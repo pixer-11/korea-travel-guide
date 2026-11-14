@@ -1,45 +1,54 @@
 ---
-title: "Ferry Building: San Francisco Travel Guide (4.6★)"
-description: "The Ferry Building in San Francisco's Embarcadero waterfront is a restored 1898 transit hall now packed with produce stalls, cheese counters, and prepared-food vendors, open daily 6am–10pm. 4.6★ (38,455 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Francisco"
-category: "hidden-gem"
-pubDate: "2026-09-21T07:45:38.718Z"
+title: 'Ferry Building: San Francisco Travel Guide (4.6★)'
+description: >-
+  The Ferry Building in San Francisco's Embarcadero waterfront is a restored
+  1898 transit hall now packed with produce stalls, cheese counters, and
+  prepared-food vendors, open daily 6am–10pm. 4.6★ (38,854 reviews) — what
+  visitors say, hours, and tips.
+country: United States
+region: San Francisco
+category: hidden-gem
+pubDate: '2026-09-21T07:45:38.718Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Francisco_Ferry_Building_%28cropped%29.jpg/3840px-San_Francisco_Ferry_Building_%28cropped%29.jpg"
-  credit: "Photo: JaGa / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Francisco_Ferry_Building_(cropped).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Francisco_Ferry_Building_%28cropped%29.jpg/3840px-San_Francisco_Ferry_Building_%28cropped%29.jpg
+  credit: 'Photo: JaGa / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:San_Francisco_Ferry_Building_(cropped).jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/View_of_the_Ferry_Building_from_Pier_1%2C_San_Francisco_dllu.jpg/3840px-View_of_the_Ferry_Building_from_Pier_1%2C_San_Francisco_dllu.jpg"
-    credit: "Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:View_of_the_Ferry_Building_from_Pier_1,_San_Francisco_dllu.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/View_of_the_Ferry_Building_from_Pier_1%2C_San_Francisco_dllu.jpg/3840px-View_of_the_Ferry_Building_from_Pier_1%2C_San_Francisco_dllu.jpg
+    credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:View_of_the_Ferry_Building_from_Pier_1,_San_Francisco_dllu.jpg
 place:
-  id: "ChIJWTGPjmaAhYARxz6l1hOj92w"
-  name: "Ferry Building"
-  address: "1 Ferry Building, San Francisco, CA 94105, USA"
+  id: ChIJWTGPjmaAhYARxz6l1hOj92w
+  name: Ferry Building
+  address: '1 Ferry Building, San Francisco, CA 94105, USA'
   rating: 4.6
-  userRatingsTotal: 38455
-  googleMapsUrl: "https://maps.google.com/?cid=7851923780944608967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 38854
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7851923780944608967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.7954425
   lng: -122.3936136
-  phone: "+1 415-983-8000"
+  phone: +1 415-983-8000
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 10:00 PM"
-    - "Wednesday: 6:00 AM – 10:00 PM"
-    - "Thursday: 6:00 AM – 10:00 PM"
-    - "Friday: 6:00 AM – 10:00 PM"
-    - "Saturday: 6:00 AM – 10:00 PM"
-    - "Sunday: 6:00 AM – 10:00 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-09-21
+    updated: 2026-09-21T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 20
@@ -64,24 +73,42 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_7732396a4f68316c367a785241596841616d6a504754574a496843"
+    venueId: ven_7732396a4f68316c367a785241596841616d6a504754574a496843
 tags:
-  - "san francisco"
-  - "local market"
-quickAnswer: "The Ferry Building in San Francisco's Embarcadero waterfront is a restored 1898 transit hall now packed with produce stalls, cheese counters, and prepared-food vendors, open daily 6am–10pm. It's very popular, so aim for the early morning hours before 9am to beat the weekend crush that runs 9am–7pm. Tuesdays and Saturdays add the farmers market on the plaza outside."
+  - san francisco
+  - local market
+quickAnswer: >-
+  The Ferry Building in San Francisco's Embarcadero waterfront is a restored
+  1898 transit hall now packed with produce stalls, cheese counters, and
+  prepared-food vendors, open daily 6am–10pm. It's very popular, so aim for the
+  early morning hours before 9am to beat the weekend crush that runs 9am–7pm.
+  Tuesdays and Saturdays add the farmers market on the plaza outside.
 faq:
-  - q: "What are the Ferry Building's hours?"
-    a: "It's open daily from 6am to 10pm, though individual vendors inside set their own shorter hours within that window."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends run calmer from 7am onward; the busiest stretch is weekends between 9am and 7pm, so early morning is your best window."
-  - q: "How do I get there without a car?"
-    a: "Take BART or Muni Metro to Embarcadero station, or hop the F-line historic streetcar, which stops right in front. Ferries also dock at the piers behind the building."
-  - q: "Is the farmers market the same as the indoor food hall?"
-    a: "No. The Ferry Plaza Farmers Market sets up outside on the bay side on Tuesdays, Thursdays, and Saturdays, separate from the year-round indoor vendors."
-  - q: "How much time should I plan for a visit?"
-    a: "A quick walk through takes about 20 minutes; most visitors spend closer to an hour browsing and eating."
+  - q: What are the Ferry Building's hours?
+    a: >-
+      It's open daily from 6am to 10pm, though individual vendors inside set
+      their own shorter hours within that window.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends run calmer from 7am onward; the busiest stretch
+      is weekends between 9am and 7pm, so early morning is your best window.
+  - q: How do I get there without a car?
+    a: >-
+      Take BART or Muni Metro to Embarcadero station, or hop the F-line historic
+      streetcar, which stops right in front. Ferries also dock at the piers
+      behind the building.
+  - q: Is the farmers market the same as the indoor food hall?
+    a: >-
+      No. The Ferry Plaza Farmers Market sets up outside on the bay side on
+      Tuesdays, Thursdays, and Saturdays, separate from the year-round indoor
+      vendors.
+  - q: How much time should I plan for a visit?
+    a: >-
+      A quick walk through takes about 20 minutes; most visitors spend closer to
+      an hour browsing and eating.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 ## Inside the 1898 hall

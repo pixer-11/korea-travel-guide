@@ -1,67 +1,96 @@
 ---
-title: "Jim Thompson House Museum: Bangkok Travel Guide (4.5★)"
-description: "Jim Thompson House Museum is a compound of traditional teak houses on Soi Kasem San 2 in Bangkok's Pathum Wan district, a short walk from BTS National Stadium (Exit 1). 4.5★ (17,763 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Bangkok"
-category: "attraction"
-pubDate: "2026-11-14T07:45:34.284Z"
+title: 'Jim Thompson House Museum: Bangkok Travel Guide (4.5★)'
+description: >-
+  Jim Thompson House Museum is a compound of traditional teak houses on Soi
+  Kasem San 2 in Bangkok's Pathum Wan district, a short walk from BTS National
+  Stadium (Exit 1). 4.5★ (17,765 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Bangkok
+category: attraction
+pubDate: '2026-11-14T07:45:34.284Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067633572%29.jpg/3840px-Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067633572%29.jpg"
-  credit: "Photo: Clay Gilliland / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_Bangkok,_Tahiland_(15067633572).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067633572%29.jpg/3840px-Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067633572%29.jpg
+  credit: 'Photo: Clay Gilliland / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_Bangkok,_Tahiland_(15067633572).jpg
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067629752%29.jpg/3840px-Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067629752%29.jpg"
-    credit: "Photo: Clay Gilliland / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_Bangkok,_Tahiland_(15067629752).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067629752%29.jpg/3840px-Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067629752%29.jpg
+    credit: 'Photo: Clay Gilliland / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_Bangkok,_Tahiland_(15067629752).jpg
 place:
-  id: "ChIJWVT7hDKZ4jARGJOhe21RhOk"
-  name: "Jim Thompson House Museum"
-  address: "6 Soi Kasem San 2, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+  id: ChIJWVT7hDKZ4jARGJOhe21RhOk
+  name: Jim Thompson House Museum
+  address: >-
+    6 Soi Kasem San 2, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon
+    10330, Thailand
   rating: 4.5
-  userRatingsTotal: 17763
-  googleMapsUrl: "https://maps.google.com/?cid=16826663638430487320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17765
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16826663638430487320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7493569
   lng: 100.5281613
-  phone: "+66 2 216 7368"
+  phone: +66 2 216 7368
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-11-14
+    updated: 2026-11-14T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
       - 10
-    venueId: "ven_6b4f6852313265684f4a4752416a345a4b4468375456574a496843"
+    venueId: ven_6b4f6852313265684f4a4752416a345a4b4468375456574a496843
 tags:
-  - "bangkok"
-  - "Jim Thompson House"
-quickAnswer: "Jim Thompson House Museum is a compound of traditional teak houses on Soi Kasem San 2 in Bangkok's Pathum Wan district, a short walk from BTS National Stadium (Exit 1). It is currently open 10am–5pm, and it is usually calmest between 10am and 11am on both weekdays and weekends. You see the houses on a guided tour that takes about an hour."
+  - bangkok
+  - Jim Thompson House
+quickAnswer: >-
+  Jim Thompson House Museum is a compound of traditional teak houses on Soi
+  Kasem San 2 in Bangkok's Pathum Wan district, a short walk from BTS National
+  Stadium (Exit 1). It is currently open 10am–5pm, and it is usually calmest
+  between 10am and 11am on both weekdays and weekends. You see the houses on a
+  guided tour that takes about an hour.
 faq:
-  - q: "When is the quietest time to visit Jim Thompson House Museum?"
-    a: "It is usually calmest from 10am to 11am, on weekdays and on weekends. Arrive at the 10am opening for the smallest tour groups."
-  - q: "How do I get to Jim Thompson House from the BTS?"
-    a: "Take the Silom Line to National Stadium and use Exit 1. Walk a short way along Rama I Road and turn into Soi Kasem San 2. It takes about five minutes."
-  - q: "Can I walk around the houses without a guide?"
-    a: "No. You can only enter the houses on a guided tour, which runs in English and several other languages. You can explore the garden on your own once the tour ends."
-  - q: "How long should I plan for the visit?"
-    a: "The tour lasts about 45 minutes to an hour. Allow around 90 minutes in total, including the garden and the shop."
-  - q: "What else is nearby?"
-    a: "The Bangkok Art and Culture Centre and MBK Center are right by National Stadium station, and Siam Square is one BTS stop away. Across the canal is Ban Khrua, the weaving community linked to Thompson's silk business."
+  - q: When is the quietest time to visit Jim Thompson House Museum?
+    a: >-
+      It is usually calmest from 10am to 11am, on weekdays and on weekends.
+      Arrive at the 10am opening for the smallest tour groups.
+  - q: How do I get to Jim Thompson House from the BTS?
+    a: >-
+      Take the Silom Line to National Stadium and use Exit 1. Walk a short way
+      along Rama I Road and turn into Soi Kasem San 2. It takes about five
+      minutes.
+  - q: Can I walk around the houses without a guide?
+    a: >-
+      No. You can only enter the houses on a guided tour, which runs in English
+      and several other languages. You can explore the garden on your own once
+      the tour ends.
+  - q: How long should I plan for the visit?
+    a: >-
+      The tour lasts about 45 minutes to an hour. Allow around 90 minutes in
+      total, including the garden and the shop.
+  - q: What else is nearby?
+    a: >-
+      The Bangkok Art and Culture Centre and MBK Center are right by National
+      Stadium station, and Siam Square is one BTS stop away. Across the canal is
+      Ban Khrua, the weaving community linked to Thompson's silk business.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 ## Teak walls beside a working canal

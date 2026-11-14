@@ -1,44 +1,50 @@
 ---
-title: "City Lights Booksellers & Publishers: San Francisco Travel Guide"
-description: "City Lights Booksellers & Publishers is the three-level independent bookstore at 261 Columbus Ave in North Beach, San Francisco, where the Beat poets were first published. 4.7★ (4,427 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Francisco"
-category: "hidden-gem"
-pubDate: "2026-09-27T07:47:41.657Z"
+title: 'City Lights Booksellers & Publishers: San Francisco Travel Guide'
+description: >-
+  City Lights Booksellers & Publishers is the three-level independent bookstore
+  at 261 Columbus Ave in North Beach, San Francisco, where the Beat poets were
+  first published. 4.7★ (4,462 reviews) — what visitors say, hours, and tips.
+country: United States
+region: San Francisco
+category: hidden-gem
+pubDate: '2026-09-27T07:47:41.657Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/1920px-City_Lights_Booksellers.jpg"
-  credit: "Photo: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:City_Lights_Booksellers.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/1920px-City_Lights_Booksellers.jpg
+  credit: 'Photo: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:City_Lights_Booksellers.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/be/City_Lights_outside.jpg"
-    credit: "Photo: Gianpiero Actis / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:City_Lights_outside.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/be/City_Lights_outside.jpg
+    credit: 'Photo: Gianpiero Actis / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:City_Lights_outside.jpg'
 place:
-  id: "ChIJ9W7ofPSAhYARPkhgF24V8KI"
-  name: "City Lights Booksellers & Publishers"
-  address: "261 Columbus Ave, San Francisco, CA 94133, USA"
+  id: ChIJ9W7ofPSAhYARPkhgF24V8KI
+  name: City Lights Booksellers & Publishers
+  address: '261 Columbus Ave, San Francisco, CA 94133, USA'
   rating: 4.7
-  userRatingsTotal: 4427
-  googleMapsUrl: "https://maps.google.com/?cid=11740907791137654846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4462
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11740907791137654846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.7976271
   lng: -122.40662130000001
-  phone: "+1 415-362-8193"
+  phone: +1 415-362-8193
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-09-27
+    updated: 2026-09-27T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -56,24 +62,42 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_494b385634324667686b5052415968415350666f3757394a496843"
+    venueId: ven_494b385634324667686b5052415968415350666f3757394a496843
 tags:
-  - "san francisco"
-  - "bookshop"
-quickAnswer: "City Lights Booksellers & Publishers is the three-level independent bookstore at 261 Columbus Ave in North Beach, San Francisco, where the Beat poets were first published. It opens 10am to 10pm every day. Weekdays stay calm through all those hours, but on weekends skip 12pm to 9pm and come at 10am or after 9pm instead."
+  - san francisco
+  - bookshop
+quickAnswer: >-
+  City Lights Booksellers & Publishers is the three-level independent bookstore
+  at 261 Columbus Ave in North Beach, San Francisco, where the Beat poets were
+  first published. It opens 10am to 10pm every day. Weekdays stay calm through
+  all those hours, but on weekends skip 12pm to 9pm and come at 10am or after
+  9pm instead.
 faq:
-  - q: "When is the quietest time to visit City Lights?"
-    a: "On weekdays it stays calm the whole time it's open, 10am to 10pm. On weekends, avoid 12pm to 9pm, which is the busiest stretch. Come at 10am opening or after 9pm instead."
-  - q: "What are City Lights' opening hours?"
-    a: "It's open every day from 10am to 10pm, weekends included."
-  - q: "How do I get to City Lights by public transit?"
-    a: "Take Muni's T Third line to Chinatown–Rose Pak station. From there it's a short walk to 261 Columbus Ave at Broadway in North Beach."
-  - q: "How long should I spend there?"
-    a: "Allow about 45 minutes to see all three floors. Give it longer if you want to read in the upstairs poetry room or add Jack Kerouac Alley and the Beat Museum next door."
-  - q: "What's nearby?"
-    a: "Next to the shop are Jack Kerouac Alley and Vesuvio Cafe. A short walk takes you to the Beat Museum on Broadway, Caffe Trieste, Washington Square, Saints Peter and Paul Church and Chinatown's Grant Avenue. Coit Tower is a steeper walk up the hill."
+  - q: When is the quietest time to visit City Lights?
+    a: >-
+      On weekdays it stays calm the whole time it's open, 10am to 10pm. On
+      weekends, avoid 12pm to 9pm, which is the busiest stretch. Come at 10am
+      opening or after 9pm instead.
+  - q: What are City Lights' opening hours?
+    a: 'It''s open every day from 10am to 10pm, weekends included.'
+  - q: How do I get to City Lights by public transit?
+    a: >-
+      Take Muni's T Third line to Chinatown–Rose Pak station. From there it's a
+      short walk to 261 Columbus Ave at Broadway in North Beach.
+  - q: How long should I spend there?
+    a: >-
+      Allow about 45 minutes to see all three floors. Give it longer if you want
+      to read in the upstairs poetry room or add Jack Kerouac Alley and the Beat
+      Museum next door.
+  - q: What's nearby?
+    a: >-
+      Next to the shop are Jack Kerouac Alley and Vesuvio Cafe. A short walk
+      takes you to the Beat Museum on Broadway, Caffe Trieste, Washington
+      Square, Saints Peter and Paul Church and Chinatown's Grant Avenue. Coit
+      Tower is a steeper walk up the hill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 ## Three floors, one argument about books

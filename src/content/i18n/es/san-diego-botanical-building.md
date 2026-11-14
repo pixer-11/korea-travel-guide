@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-diego-botanical-building
-srcHash: '887753268cb2'
+srcHash: '732ed6d8cb01'
 title: 'Edificio Botánico: Guía de viaje de San Diego (4,7★)'
-description: 'El Edificio Botánico de Balboa Park, en San Diego, abre todos los días de 10:00 a 16:00 h y la entrada es gratuita. 4,7★ (5.104 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Edificio Botánico de Balboa Park, en San Diego, abre todos los días de 10:00 a 16:00 h y la entrada es gratuita. 4,7★ (5.169 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Edificio Botánico de Balboa Park, en San Diego, abre todos los días de 10:00 a 16:00 h y la entrada es gratuita. Se trata de la cúpula recubierta de listones de madera que data de la Exposición Panamá-California de 1915, y alberga más de 2.000 plantas sobre un estanque reflectante. Las mañanas entre semana son el momento más tranquilo para la visita, mientras que las tardes de fin de semana, entre el mediodía y las 16:00 h, atraen a la mayor cantidad de visitantes.
 faq:
   - q: ¿Cuánto cuesta visitar el Edificio Botánico?

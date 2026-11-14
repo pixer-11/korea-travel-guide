@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hiroshima-hiroshima-museum-of-art
-srcHash: 'f61c789e892e'
+srcHash: '7a4799392d38'
 title: 'Museo de Arte de Hiroshima: guía de viaje (4.4★)'
-description: En pleno Parque Central de Hiroshima, en Motomachi (distrito de Naka), el Museo de Arte de Hiroshima queda a pocos pasos de la parada de tranvía de Kamiyacho y a unos 10 minutos a pie del Parque Conmemorativo de la Paz. Con 4.4★ (2,955 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos útiles.
+description: En pleno Parque Central de Hiroshima, en Motomachi (distrito de Naka), el Museo de Arte de Hiroshima queda a pocos pasos de la parada de tranvía de Kamiyacho y a unos 10 minutos a pie del Parque Conmemorativo de la Paz. Con 4.4★ (2,956 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos útiles.
 quickAnswer: 'En pleno Parque Central de Hiroshima, en Motomachi (distrito de Naka), se encuentra el Museo de Arte de Hiroshima (Hiroshima Museum of Art). Llegar es sencillo: está a pocos pasos de la parada de tranvía de Kamiyacho y a unos 10 minutos a pie del Parque Conmemorativo de la Paz. Su colección recorre el arte francés desde el Romanticismo hasta Picasso, pasando por el Impresionismo, y dedica además un espacio a la pintura japonesa moderna. Para verlo bastan entre 1 y 1,5 horas. Si busca salas tranquilas, acuda un día laborable entre las 9am y las 10am o entre las 4pm y las 5pm, y evite los fines de semana de 11am a 4pm.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Arte de Hiroshima?

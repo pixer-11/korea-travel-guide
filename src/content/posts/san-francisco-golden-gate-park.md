@@ -1,59 +1,90 @@
 ---
-title: "Golden Gate Park: San Francisco Travel Guide (4.8★)"
-description: "Golden Gate Park in San Francisco is a 1,017-acre stretch running from the Haight straight to the Pacific, and it's big enough that \"best time\" depends on what you're chasing: weekday mornings for quiet trails, Sunday for the car-free JFK Drive scene. 4.8★ (44,744 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Francisco"
-category: "attraction"
-pubDate: "2026-09-17T07:48:55.558Z"
+title: 'Golden Gate Park: San Francisco Travel Guide (4.8★)'
+description: >-
+  Golden Gate Park in San Francisco is a 1,017-acre stretch running from the
+  Haight straight to the Pacific, and it's big enough that "best time" depends
+  on what you're chasing: weekday mornings for quiet trails, Sunday for the
+  car-free JFK Drive scene. 4.8★ (44,860 reviews) — what visitors say, hours,
+  and tips.
+country: United States
+region: San Francisco
+category: attraction
+pubDate: '2026-09-17T07:48:55.558Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/66/California-06241_-_In_front_of_museum_%2820449897948%29.jpg"
-  credit: "Photo: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:California-06241_-_In_front_of_museum_(20449897948).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/66/California-06241_-_In_front_of_museum_%2820449897948%29.jpg
+  credit: 'Photo: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:California-06241_-_In_front_of_museum_(20449897948).jpg
   focus:
     x: 65
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/45315891_Lk_F2Fjr7WUG7gFF1cQ-v05Gt0Urm5KljM2KBI3pheY.jpg"
-    credit: "Photo: Foursquare user content (Golden Gate Park)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/445e36bff964a520fb321fe3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/45315891_Lk_F2Fjr7WUG7gFF1cQ-v05Gt0Urm5KljM2KBI3pheY.jpg
+    credit: 'Photo: Foursquare user content (Golden Gate Park)'
+    license: foursquare
+    source: 'https://foursquare.com/v/445e36bff964a520fb321fe3'
 place:
-  id: "ChIJY_dFYHKHhYARMKc772iLvnE"
-  name: "Golden Gate Park"
-  address: "San Francisco, CA, USA"
+  id: ChIJY_dFYHKHhYARMKc772iLvnE
+  name: Golden Gate Park
+  address: 'San Francisco, CA, USA'
   rating: 4.8
-  userRatingsTotal: 44744
-  googleMapsUrl: "https://maps.google.com/?cid=8196141654667405104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 44860
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8196141654667405104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.7689203
   lng: -122.482977
-  phone: "+1 415-831-2700"
+  phone: +1 415-831-2700
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "san francisco"
-  - "park"
-quickAnswer: "Golden Gate Park in San Francisco is a 1,017-acre stretch running from the Haight straight to the Pacific, and it's big enough that \"best time\" depends on what you're chasing: weekday mornings for quiet trails, Sunday for the car-free JFK Drive scene. Give it at least half a day if you want to combine the museums with the gardens, and go on foot or by bike rather than trying to drive between sights, since parking near the de Young and California Academy of Sciences fills fast on weekends."
+  - san francisco
+  - park
+quickAnswer: >-
+  Golden Gate Park in San Francisco is a 1,017-acre stretch running from the
+  Haight straight to the Pacific, and it's big enough that "best time" depends
+  on what you're chasing: weekday mornings for quiet trails, Sunday for the
+  car-free JFK Drive scene. Give it at least half a day if you want to combine
+  the museums with the gardens, and go on foot or by bike rather than trying to
+  drive between sights, since parking near the de Young and California Academy
+  of Sciences fills fast on weekends.
 faq:
-  - q: "How much time should I budget for Golden Gate Park?"
-    a: "A focused half-day covers one section well, like the museum cluster or the Tea Garden and Stow Lake. Seeing the full three-mile length, including the bison paddock and windmill, takes most of a day."
-  - q: "Is Golden Gate Park open at night?"
-    a: "The park has no gates and is technically open 24 hours, but most visitors stick to daylight hours; museums, the Tea Garden, and boat rentals all keep their own separate daytime schedules."
-  - q: "What's the best day to visit for biking?"
-    a: "Sunday, when a long stretch of JFK Drive closes to cars and fills with cyclists and skaters instead."
-  - q: "Where do I park near the museums?"
-    a: "There's a garage beneath the Music Concourse near the de Young and California Academy of Sciences, but it fills up on weekends; arriving at opening or using public transit is more reliable."
-  - q: "Is the Japanese Tea Garden worth the entrance fee?"
-    a: "Most visitors think so; it's compact but historically distinct from the rest of the park, dating to 1894, and going right at opening avoids the worst of the crowds and tour groups."
+  - q: How much time should I budget for Golden Gate Park?
+    a: >-
+      A focused half-day covers one section well, like the museum cluster or the
+      Tea Garden and Stow Lake. Seeing the full three-mile length, including the
+      bison paddock and windmill, takes most of a day.
+  - q: Is Golden Gate Park open at night?
+    a: >-
+      The park has no gates and is technically open 24 hours, but most visitors
+      stick to daylight hours; museums, the Tea Garden, and boat rentals all
+      keep their own separate daytime schedules.
+  - q: What's the best day to visit for biking?
+    a: >-
+      Sunday, when a long stretch of JFK Drive closes to cars and fills with
+      cyclists and skaters instead.
+  - q: Where do I park near the museums?
+    a: >-
+      There's a garage beneath the Music Concourse near the de Young and
+      California Academy of Sciences, but it fills up on weekends; arriving at
+      opening or using public transit is more reliable.
+  - q: Is the Japanese Tea Garden worth the entrance fee?
+    a: >-
+      Most visitors think so; it's compact but historically distinct from the
+      rest of the park, dating to 1894, and going right at opening avoids the
+      worst of the crowds and tour groups.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 Most people picture Golden Gate Park as one thing, maybe the bison paddock or the Japanese Tea Garden, and then get there and realize it's three miles long. It runs from the edge of the Haight almost to the Pacific Ocean, a rectangle of reclaimed sand dunes that San Francisco spent the 1870s onward turning into meadows, lakes, and windbreaks of eucalyptus and Monterey pine. At 1,017 acres it's bigger than Central Park, and it doesn't reveal itself from any single entrance.

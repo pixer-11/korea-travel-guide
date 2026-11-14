@@ -1,54 +1,81 @@
 ---
-title: "Sorolla Museum: Madrid Travel Guide (4.7★)"
-description: "The Sorolla Museum is the former home and studio of painter Joaquín Sorolla at Calle de Zurbano 68 in Madrid's Chamberí neighbourhood, a short walk from Rubén Darío (Line 5) and Iglesia (Line 1) metro stations. 4.7★ (21,519 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Madrid"
-category: "attraction"
-pubDate: "2026-11-14T07:45:36.362Z"
+title: 'Sorolla Museum: Madrid Travel Guide (4.7★)'
+description: >-
+  The Sorolla Museum is the former home and studio of painter Joaquín Sorolla at
+  Calle de Zurbano 68 in Madrid's Chamberí neighbourhood, a short walk from
+  Rubén Darío (Line 5) and Iglesia (Line 1) metro stations. 4.7★ (21,521
+  reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Madrid
+category: attraction
+pubDate: '2026-11-14T07:45:36.362Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museo_Sorolla_%28Madrid%29_01.jpg/1920px-Museo_Sorolla_%28Madrid%29_01.jpg"
-  credit: "Photo: Luis García (Zaqarbal) / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_Sorolla_(Madrid)_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museo_Sorolla_%28Madrid%29_01.jpg/1920px-Museo_Sorolla_%28Madrid%29_01.jpg
+  credit: 'Photo: Luis García (Zaqarbal) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museo_Sorolla_(Madrid)_01.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJiymaZO0oQg0RIuMgSth17No"
-  name: "Sorolla Museum"
-  address: "Calle de Zurbano, 68, Chamberí, 28010 Madrid, Spain"
+  id: ChIJiymaZO0oQg0RIuMgSth17No
+  name: Sorolla Museum
+  address: 'Calle de Zurbano, 68, Chamberí, 28010 Madrid, Spain'
   rating: 4.7
-  userRatingsTotal: 21519
-  googleMapsUrl: "https://maps.google.com/?cid=15775113166589059874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21521
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15775113166589059874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.4359666
   lng: -3.6927782999999996
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 8:00 PM"
-    - "Wednesday: 9:30 AM – 8:00 PM"
-    - "Thursday: 9:30 AM – 8:00 PM"
-    - "Friday: 9:30 AM – 8:00 PM"
-    - "Saturday: 9:30 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 3:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 8:00 PM'
+    - 'Wednesday: 9:30 AM – 8:00 PM'
+    - 'Thursday: 9:30 AM – 8:00 PM'
+    - 'Friday: 9:30 AM – 8:00 PM'
+    - 'Saturday: 9:30 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 3:00 PM'
 tags:
-  - "madrid"
-  - "art gallery"
-quickAnswer: "The Sorolla Museum is the former home and studio of painter Joaquín Sorolla at Calle de Zurbano 68 in Madrid's Chamberí neighbourhood, a short walk from Rubén Darío (Line 5) and Iglesia (Line 1) metro stations. Plan on 60–90 minutes for the garden, the studio and the painted beach scenes. It is currently closed on Mondays and shuts at 3pm on Sundays, so a weekday morning near the 9:30am opening is the easiest visit."
+  - madrid
+  - art gallery
+quickAnswer: >-
+  The Sorolla Museum is the former home and studio of painter Joaquín Sorolla at
+  Calle de Zurbano 68 in Madrid's Chamberí neighbourhood, a short walk from
+  Rubén Darío (Line 5) and Iglesia (Line 1) metro stations. Plan on 60–90
+  minutes for the garden, the studio and the painted beach scenes. It is
+  currently closed on Mondays and shuts at 3pm on Sundays, so a weekday morning
+  near the 9:30am opening is the easiest visit.
 faq:
-  - q: "Which metro station is closest to the Sorolla Museum?"
-    a: "Rubén Darío (Line 5) and Iglesia (Line 1) are both a short walk from Calle de Zurbano 68. Gregorio Marañón (Lines 7 and 10) is also close by."
-  - q: "How long should I spend at the Sorolla Museum?"
-    a: "Most visitors need 60–90 minutes for the garden, the ground-floor studio and the upstairs galleries. Add time if you want to sit in the garden afterwards."
-  - q: "Is the Sorolla Museum open on Mondays?"
-    a: "No. Under the current schedule it is closed on Monday, open 9:30am–8pm Tuesday to Saturday, and open 10am–3pm on Sunday. Hours can change seasonally and on holidays, so check the official site before you go."
-  - q: "Do I need to book tickets in advance?"
-    a: "Booking ahead is wise because the house is small and popular, and weekends draw queues. Tickets and current prices are on the museum's official website."
-  - q: "What else is nearby?"
-    a: "The Museo Lázaro Galdiano on Calle de Serrano is walkable, Plaza de Olavide has café terraces, and Paseo de la Castellana leads south toward the Prado."
+  - q: Which metro station is closest to the Sorolla Museum?
+    a: >-
+      Rubén Darío (Line 5) and Iglesia (Line 1) are both a short walk from Calle
+      de Zurbano 68. Gregorio Marañón (Lines 7 and 10) is also close by.
+  - q: How long should I spend at the Sorolla Museum?
+    a: >-
+      Most visitors need 60–90 minutes for the garden, the ground-floor studio
+      and the upstairs galleries. Add time if you want to sit in the garden
+      afterwards.
+  - q: Is the Sorolla Museum open on Mondays?
+    a: >-
+      No. Under the current schedule it is closed on Monday, open 9:30am–8pm
+      Tuesday to Saturday, and open 10am–3pm on Sunday. Hours can change
+      seasonally and on holidays, so check the official site before you go.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      Booking ahead is wise because the house is small and popular, and weekends
+      draw queues. Tickets and current prices are on the museum's official
+      website.
+  - q: What else is nearby?
+    a: >-
+      The Museo Lázaro Galdiano on Calle de Serrano is walkable, Plaza de
+      Olavide has café terraces, and Paseo de la Castellana leads south toward
+      the Prado.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 ## A house built around the light

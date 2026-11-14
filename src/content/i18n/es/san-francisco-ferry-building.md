@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-francisco-ferry-building
-srcHash: '7fd08ff89b5d'
+srcHash: 'af5d9fe33d60'
 title: 'Ferry Building: guía de viaje de San Francisco (4.6★)'
-description: 'El Ferry Building, en el paseo marítimo del Embarcadero de San Francisco, es una antigua terminal de transporte de 1898 restaurada que hoy alberga puestos de productos frescos, quesos y comida preparada, abierta todos los días de 6 a 22 h. 4.6★ (38,455 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Ferry Building, en el paseo marítimo del Embarcadero de San Francisco, es una antigua terminal de transporte de 1898 restaurada que hoy alberga puestos de productos frescos, quesos y comida preparada, abierta todos los días de 6 a 22 h. 4.6★ (38,854 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Ferry Building, en el paseo marítimo del Embarcadero de San Francisco, es una antigua terminal de transporte de 1898 restaurada que hoy alberga puestos de productos frescos, quesos y comida preparada, abierta todos los días de 6 a 22 h. Es un lugar muy popular, así que conviene visitarlo temprano, antes de las 9 h, para evitar la aglomeración del fin de semana, que se extiende de 9 a 19 h. Los martes y sábados, además, se instala el mercado de agricultores en la plaza exterior.
 faq:
   - q: ¿Cuál es el horario del Ferry Building?

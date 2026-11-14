@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bangkok-jim-thompson-house-museum
-srcHash: 'e8b1b1ab0081'
+srcHash: 'e6a455fe8a4b'
 title: 金·汤普森之家博物馆：曼谷旅行指南（4.5★）
-description: 金·汤普森之家博物馆是一组传统柚木老屋，坐落在曼谷巴吞旺区（Pathum Wan）的Soi Kasem San 2巷内，从BTS国家体育场站（National Stadium）1号出口步行很快就到。评分4.5★（17,763条评价），本文汇总游客评价、开放时间与参观建议。
+description: 金·汤普森之家博物馆是一组传统柚木老屋，坐落在曼谷巴吞旺区（Pathum Wan）的Soi Kasem San 2巷内，从BTS国家体育场站（National Stadium）1号出口步行很快就到。评分4.5★（17,765条评价），本文汇总游客评价、开放时间与参观建议。
 quickAnswer: 金·汤普森之家博物馆是一组传统柚木老屋，坐落在曼谷巴吞旺区（Pathum Wan）的Soi Kasem San 2巷内，从BTS国家体育场站（National Stadium）1号出口步行很快就到。目前开放时间为上午10点至下午5点，无论工作日还是周末，上午10点到11点通常人最少。老屋须跟随导览参观，全程约一小时。
 faq:
   - q: 什么时候去金·汤普森之家博物馆人最少？

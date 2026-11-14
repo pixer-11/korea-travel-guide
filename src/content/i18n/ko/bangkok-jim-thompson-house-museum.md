@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: bangkok-jim-thompson-house-museum
-srcHash: 'e8b1b1ab0081'
+srcHash: 'e6a455fe8a4b'
 title: '짐 톰슨 하우스 박물관: 방콕 여행 가이드 (4.5★)'
-description: 짐 톰슨 하우스 박물관은 방콕 빠툼완(Pathum Wan) 지구 소이 까셈산 2(Soi Kasem San 2)에 있는 전통 티크 가옥 단지입니다. BTS 내셔널 스타디움역(National Stadium) 1번 출구에서 걸어서 금방입니다. 평점 4.5★(리뷰 17,763개)를 받은 이곳의 방문객 후기와 운영 시간, 둘러보기 팁을 정리했습니다.
+description: 짐 톰슨 하우스 박물관은 방콕 빠툼완(Pathum Wan) 지구 소이 까셈산 2(Soi Kasem San 2)에 있는 전통 티크 가옥 단지입니다. BTS 내셔널 스타디움역(National Stadium) 1번 출구에서 걸어서 금방입니다. 평점 4.5★(리뷰 17,765개)를 받은 이곳의 방문객 후기와 운영 시간, 둘러보기 팁을 정리했습니다.
 quickAnswer: 짐 톰슨 하우스 박물관은 방콕 빠툼완(Pathum Wan) 지구 소이 까셈산 2(Soi Kasem San 2)에 자리한 전통 티크 가옥 단지입니다. BTS 내셔널 스타디움역(National Stadium) 1번 출구에서 조금만 걸으면 닿습니다. 현재 운영 시간은 오전 10시~오후 5시이며, 평일과 주말 모두 오전 10시에서 11시 사이가 대체로 가장 한산합니다. 가옥 내부는 약 1시간 동안 진행되는 가이드 투어로만 관람할 수 있습니다.
 faq:
   - q: 짐 톰슨 하우스 박물관이 가장 한산한 시간은 언제인가요?

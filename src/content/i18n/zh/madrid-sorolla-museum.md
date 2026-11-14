@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: madrid-sorolla-museum
-srcHash: 'fba3e9f93baa'
+srcHash: '12406be2ff0b'
 title: 马德里索罗利亚博物馆旅行指南（4.7★）
-description: 索罗利亚博物馆（Museo Sorolla）位于马德里钱贝里区（Chamberí）的Calle de Zurbano 68号，曾是画家华金·索罗利亚的故居兼画室。从地铁Rubén Darío站（5号线）或Iglesia站（1号线）步行过去都不远。评分4.7★（21,519条评价），本文汇总游客评价、开放时间和参观建议。
+description: 索罗利亚博物馆（Museo Sorolla）位于马德里钱贝里区（Chamberí）的Calle de Zurbano 68号，曾是画家华金·索罗利亚的故居兼画室。从地铁Rubén Darío站（5号线）或Iglesia站（1号线）步行过去都不远。评分4.7★（21,521条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 索罗利亚博物馆（Museo Sorolla）位于马德里钱贝里区（Chamberí）的Calle de Zurbano 68号，前身是画家华金·索罗利亚的住宅和画室。从地铁Rubén Darío站（5号线）或Iglesia站（1号线）步行片刻即到。花园、画室再加上满墙的海滩画作，一般要看60–90分钟。博物馆目前周一闭馆，周日下午3点就关门，所以最省心的安排是选个工作日，赶在上午9:30开门时入馆。
 faq:
   - q: 离索罗利亚博物馆最近的地铁站是哪个？

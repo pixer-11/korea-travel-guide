@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-francisco-golden-gate-park
-srcHash: 'd5a7c324a7c0'
+srcHash: 'b347484e4992'
 title: 'Golden Gate Park: guía de viaje de San Francisco (4,8★)'
-description: 'El Golden Gate Park de San Francisco se extiende a lo largo de 1.017 acres desde el Haight hasta el mismísimo Pacífico, y es tan grande que el "mejor momento" para visitarlo depende de lo que busques: mañanas entre semana para senderos tranquilos, domingo para vivir el ambiente sin coches de JFK Drive. 4,8★ (44.744 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'El Golden Gate Park de San Francisco se extiende a lo largo de 1.017 acres desde el Haight hasta el mismísimo Pacífico, y es tan grande que el "mejor momento" para visitarlo depende de lo que busques: mañanas entre semana para senderos tranquilos, domingo para vivir el ambiente sin coches de JFK Drive. 4,8★ (44.860 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: 'El Golden Gate Park de San Francisco se extiende a lo largo de 1.017 acres desde el Haight hasta el mismísimo Pacífico, y es tan grande que el "mejor momento" para visitarlo depende de lo que busques: mañanas entre semana para senderos tranquilos, domingo para vivir el ambiente sin coches de JFK Drive. Si quieres combinar los museos con los jardines, resérvale al menos medio día, y muévete a pie o en bicicleta en lugar de intentar ir en coche de un punto a otro, ya que el aparcamiento cerca del de Young y de la California Academy of Sciences se llena rápido los fines de semana.'
 faq:
   - q: ¿Cuánto tiempo debería dedicarle al Golden Gate Park?

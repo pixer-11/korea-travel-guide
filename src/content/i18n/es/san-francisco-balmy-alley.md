@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-francisco-balmy-alley
-srcHash: '224457765446'
+srcHash: '2109ade6aed6'
 title: 'Balmy Alley: Guía de viaje de San Francisco (4,5★)'
-description: 'Balmy Alley es un callejón de un solo tramo lleno de murales en el Distrito Mission de San Francisco, entre las calles 24 y 25, justo al oeste de Harrison Street. 4,5★ (1.021 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Balmy Alley es un callejón de un solo tramo lleno de murales en el Distrito Mission de San Francisco, entre las calles 24 y 25, justo al oeste de Harrison Street. 4,5★ (1.028 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Balmy Alley es un callejón de un solo tramo lleno de murales en el Distrito Mission de San Francisco, entre las calles 24 y 25, justo al oeste de Harrison Street. Se puede recorrer las 24 horas y la entrada es gratuita. El momento más tranquilo es de 7:00 a 10:00 los días laborables; conviene evitar los fines de semana de 10:00 a 23:00, cuando hay más afluencia.
 faq:
   - q: ¿Dónde está exactamente Balmy Alley?

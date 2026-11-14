@@ -1,40 +1,46 @@
 ---
-title: "San Diego Natural History Museum: Travel Guide (4.6★)"
-description: "The San Diego Natural History Museum, known locally as \"the Nat,\" sits at 1788 El Prado in Balboa Park, right among the park's other museums and gardens. 4.6★ (3,494 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Diego"
-category: "attraction"
-pubDate: "2026-09-08T14:28:51.554Z"
+title: 'San Diego Natural History Museum: Travel Guide (4.6★)'
+description: >-
+  The San Diego Natural History Museum, known locally as "the Nat," sits at 1788
+  El Prado in Balboa Park, right among the park's other museums and gardens.
+  4.6★ (3,576 reviews) — what visitors say, hours, and tips.
+country: United States
+region: San Diego
+category: attraction
+pubDate: '2026-09-08T14:28:51.554Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/San_Diego_Natural_History_Museum_exterior.jpg/1920px-San_Diego_Natural_History_Museum_exterior.jpg"
-  credit: "Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:San_Diego_Natural_History_Museum_exterior.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/San_Diego_Natural_History_Museum_exterior.jpg/1920px-San_Diego_Natural_History_Museum_exterior.jpg
+  credit: 'Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:San_Diego_Natural_History_Museum_exterior.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJN0BfV5ZU2YARe0K26koVPa4"
-  name: "San Diego Natural History Museum"
-  address: "1788 El Prado, San Diego, CA 92101, USA"
+  id: ChIJN0BfV5ZU2YARe0K26koVPa4
+  name: San Diego Natural History Museum
+  address: '1788 El Prado, San Diego, CA 92101, USA'
   rating: 4.6
-  userRatingsTotal: 3494
-  googleMapsUrl: "https://maps.google.com/?cid=12555214747688387195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3576
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12555214747688387195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 32.7323223
   lng: -117.147364
-  phone: "+1 619-232-3821"
+  phone: +1 619-232-3821
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-08
+    updated: 2026-09-08T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 16
@@ -46,24 +52,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_346150566f6b36324b306552415932555a35566642304e4a496843"
+    venueId: ven_346150566f6b36324b306552415932555a35566642304e4a496843
 tags:
-  - "san diego"
-  - "museum"
-quickAnswer: "The San Diego Natural History Museum, known locally as \"the Nat,\" sits at 1788 El Prado in Balboa Park, right among the park's other museums and gardens. It's open daily from 10am to 5pm, and if you want the galleries to yourself, arrive right at opening on a weekend, when foot traffic is lowest before 11am. Plan on two to three hours if you're seeing the fossil hall, the earthquake exhibits, and a film in the theater."
+  - san diego
+  - museum
+quickAnswer: >-
+  The San Diego Natural History Museum, known locally as "the Nat," sits at 1788
+  El Prado in Balboa Park, right among the park's other museums and gardens.
+  It's open daily from 10am to 5pm, and if you want the galleries to yourself,
+  arrive right at opening on a weekend, when foot traffic is lowest before 11am.
+  Plan on two to three hours if you're seeing the fossil hall, the earthquake
+  exhibits, and a film in the theater.
 faq:
-  - q: "What are the opening hours for the San Diego Natural History Museum?"
-    a: "It's open daily, including weekends, from 10:00 AM to 5:00 PM. Hours don't currently vary by day, but confirm on the museum's website before visiting since traveling exhibits can occasionally shift schedules."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, arrive between 10am and 11am for the calmest galleries; crowds build steadily from noon through closing. Weekdays stay manageable throughout the full 10am to 5pm window."
-  - q: "How much time should I budget for a visit?"
-    a: "Plan on two to three hours for the permanent fossil halls and a rotating exhibit, plus an extra hour if you catch a film in the Kaplan Theater."
-  - q: "Where should I park for the museum?"
-    a: "Balboa Park offers free parking, but weekend lots fill quickly. The closest options are near Village Place and the Spanish Village Art Center, both a short walk from the museum."
-  - q: "What else is nearby in Balboa Park?"
-    a: "The San Diego Zoo entrance is a short walk north, and the Museum of Us, Museum of Photographic Arts, and Mingei International Museum all sit along the same El Prado promenade."
+  - q: What are the opening hours for the San Diego Natural History Museum?
+    a: >-
+      It's open daily, including weekends, from 10:00 AM to 5:00 PM. Hours don't
+      currently vary by day, but confirm on the museum's website before visiting
+      since traveling exhibits can occasionally shift schedules.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, arrive between 10am and 11am for the calmest galleries;
+      crowds build steadily from noon through closing. Weekdays stay manageable
+      throughout the full 10am to 5pm window.
+  - q: How much time should I budget for a visit?
+    a: >-
+      Plan on two to three hours for the permanent fossil halls and a rotating
+      exhibit, plus an extra hour if you catch a film in the Kaplan Theater.
+  - q: Where should I park for the museum?
+    a: >-
+      Balboa Park offers free parking, but weekend lots fill quickly. The
+      closest options are near Village Place and the Spanish Village Art Center,
+      both a short walk from the museum.
+  - q: What else is nearby in Balboa Park?
+    a: >-
+      The San Diego Zoo entrance is a short walk north, and the Museum of Us,
+      Museum of Photographic Arts, and Mingei International Museum all sit along
+      the same El Prado promenade.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 Balboa Park has more than a dozen museums lined up along El Prado, and it would be easy to walk past this one without a second glance. Its cream-colored facade blends into the Spanish Colonial Revival architecture that defines the whole park. But step inside and you're in one of the older natural history institutions on the West Coast, with fossil halls, mineral displays, and a research wing that still sends scientists into the field.

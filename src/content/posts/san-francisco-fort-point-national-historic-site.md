@@ -1,35 +1,41 @@
 ---
 title: 'Fort Point National Historic Site: San Francisco Travel Guide'
-description: Fort Point is the brick Civil War-era fort tucked directly beneath the Golden Gate Bridge's south anchorage, open Thursday through Monday, 10am–5pm.
+description: >-
+  Fort Point is the brick Civil War-era fort tucked directly beneath the Golden
+  Gate Bridge's south anchorage, open Thursday through Monday, 10am–5pm.
 country: United States
 region: San Francisco
 category: hidden-gem
 pubDate: '2026-07-31T10:19:14.402Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/22755244_QXhlxSs_efKrnV8qk3gH0-tW4g1qKRNM3Ia4drREX3o.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/22755244_QXhlxSs_efKrnV8qk3gH0-tW4g1qKRNM3Ia4drREX3o.jpg
   credit: 'Photo: Foursquare user content (Fort Point National Historic Site)'
   license: foursquare
-  source: https://foursquare.com/v/46dabca2f964a5207c4a1fe3
+  source: 'https://foursquare.com/v/46dabca2f964a5207c4a1fe3'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3023_(bw).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3023_(bw).jpg
 place:
   id: ChIJ_fRRLeqGhYAROWsCl5027X8
   name: Fort Point National Historic Site
-  address: 201 Marine Dr, San Francisco, CA 94129, USA
+  address: '201 Marine Dr, San Francisco, CA 94129, USA'
   rating: 4.8
-  userRatingsTotal: 4104
+  userRatingsTotal: 4263
   priceLevel: 0
-  googleMapsUrl: https://maps.google.com/?cid=9218084062768556857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9218084062768556857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.810611699999995
   lng: -122.47708999999999
-  phone: '+1 415 561-4959'
+  phone: +1 415 561-4959
   openingHours:
     - 'Monday: 10:00 AM – 5:00 PM'
     - 'Tuesday: Closed'
@@ -41,19 +47,39 @@ place:
 tags:
   - san francisco
   - hidden gem
-quickAnswer: Fort Point is the brick Civil War-era fort tucked directly beneath the Golden Gate Bridge's south anchorage, open Thursday through Monday, 10am–5pm (closed Tuesday and Wednesday). Entry is free, so budget 45–90 minutes to walk the gun decks, catch a ranger talk or cannon drill, and feel the bridge deck hum overhead. Go on a clear, low-wind morning if you can — the fort sits right at the mouth of the bay and the wind off the strait can be brutal by afternoon.
+quickAnswer: >-
+  Fort Point is the brick Civil War-era fort tucked directly beneath the Golden
+  Gate Bridge's south anchorage, open Thursday through Monday, 10am–5pm (closed
+  Tuesday and Wednesday). Entry is free, so budget 45–90 minutes to walk the gun
+  decks, catch a ranger talk or cannon drill, and feel the bridge deck hum
+  overhead. Go on a clear, low-wind morning if you can — the fort sits right at
+  the mouth of the bay and the wind off the strait can be brutal by afternoon.
 faq:
   - q: Is there an entrance fee for Fort Point?
-    a: No, entry is free — it's run by the National Park Service as part of the Golden Gate National Recreation Area.
+    a: >-
+      No, entry is free — it's run by the National Park Service as part of the
+      Golden Gate National Recreation Area.
   - q: What are the opening hours?
-    a: Thursday through Monday, 10am–5pm. It's closed Tuesdays and Wednesdays, so avoid planning a midweek visit around it.
+    a: >-
+      Thursday through Monday, 10am–5pm. It's closed Tuesdays and Wednesdays, so
+      avoid planning a midweek visit around it.
   - q: How do I get to Fort Point without a car?
-    a: Walk or bike the Golden Gate Promenade from Crissy Field (about 20–30 minutes on foot), or take Muni bus 28 and walk the last stretch. You can also walk down a paved path directly from the Golden Gate Bridge's pedestrian walkway.
+    a: >-
+      Walk or bike the Golden Gate Promenade from Crissy Field (about 20–30
+      minutes on foot), or take Muni bus 28 and walk the last stretch. You can
+      also walk down a paved path directly from the Golden Gate Bridge's
+      pedestrian walkway.
   - q: How long should I plan to spend there?
-    a: Most visitors spend 45–90 minutes exploring the casemates and gun decks, longer if you catch a ranger talk or a weekend cannon drill.
+    a: >-
+      Most visitors spend 45–90 minutes exploring the casemates and gun decks,
+      longer if you catch a ranger talk or a weekend cannon drill.
   - q: What's nearby if I want to make a day of it?
-    a: Crissy Field's beach and marsh trails, the Golden Gate Bridge Welcome Center, and the Presidio's forested trails are all within easy walking or biking distance.
+    a: >-
+      Crissy Field's beach and marsh trails, the Golden Gate Bridge Welcome
+      Center, and the Presidio's forested trails are all within easy walking or
+      biking distance.
 aiGenerated: true
+updatedDate: '2026-11-14'
 ---
 ## Why go
 

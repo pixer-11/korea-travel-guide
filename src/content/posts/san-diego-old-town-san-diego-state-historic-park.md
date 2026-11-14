@@ -1,44 +1,52 @@
 ---
-title: "Old Town San Diego State Historic Park: Travel Guide (4.7★)"
-description: "Old Town San Diego State Historic Park is a free, open-air 1800s district of adobe buildings, museums and Mexican restaurants, open daily 10am–5pm. 4.7★ (31,730 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Diego"
-category: "hidden-gem"
-pubDate: "2026-08-16T08:05:13.057Z"
+title: 'Old Town San Diego State Historic Park: Travel Guide (4.7★)'
+description: >-
+  Old Town San Diego State Historic Park is a free, open-air 1800s district of
+  adobe buildings, museums and Mexican restaurants, open daily 10am–5pm. 4.7★
+  (32,014 reviews) — what visitors say, hours, and tips.
+country: United States
+region: San Diego
+category: hidden-gem
+pubDate: '2026-08-16T08:05:13.057Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Old_Town%2C_San_Diego%2C_CA%2C_USA_-_panoramio_%2887%29_crop.jpg/1920px-Old_Town%2C_San_Diego%2C_CA%2C_USA_-_panoramio_%2887%29_crop.jpg"
-  credit: "Photo: Roman Eugeniusz / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Old_Town,_San_Diego,_CA,_USA_-_panoramio_(87)_crop.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Old_Town%2C_San_Diego%2C_CA%2C_USA_-_panoramio_%2887%29_crop.jpg/1920px-Old_Town%2C_San_Diego%2C_CA%2C_USA_-_panoramio_%2887%29_crop.jpg
+  credit: 'Photo: Roman Eugeniusz / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Old_Town,_San_Diego,_CA,_USA_-_panoramio_(87)_crop.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/San_Diego_%28California%2C_USA%29%2C_Old_Town_--_2012_--_5547.jpg/3840px-San_Diego_%28California%2C_USA%29%2C_Old_Town_--_2012_--_5547.jpg"
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:San_Diego_(California,_USA),_Old_Town_--_2012_--_5547.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/San_Diego_%28California%2C_USA%29%2C_Old_Town_--_2012_--_5547.jpg/3840px-San_Diego_%28California%2C_USA%29%2C_Old_Town_--_2012_--_5547.jpg
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:San_Diego_(California,_USA),_Old_Town_--_2012_--_5547.jpg
 place:
-  id: "ChIJe9OrW-eq3oARuXXd8wQMg14"
-  name: "Old Town San Diego State Historic Park"
-  address: "San Diego Avenue and, Twiggs St, San Diego, CA 92110, USA"
+  id: ChIJe9OrW-eq3oARuXXd8wQMg14
+  name: Old Town San Diego State Historic Park
+  address: 'San Diego Avenue and, Twiggs St, San Diego, CA 92110, USA'
   rating: 4.7
-  userRatingsTotal: 31730
-  googleMapsUrl: "https://maps.google.com/?cid=6810300276925101497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 32014
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6810300276925101497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 32.7549063
   lng: -117.19764070000001
-  phone: "+1 619-220-5422"
+  phone: +1 619-220-5422
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -48,24 +56,40 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_3431674d5177386458587552416f3371652d57724f39654a496843"
+    venueId: ven_3431674d5177386458587552416f3371652d57724f39654a496843
 tags:
-  - "san diego"
-  - "hidden gem"
-quickAnswer: "Old Town San Diego State Historic Park is a free, open-air 1800s district of adobe buildings, museums and Mexican restaurants, open daily 10am–5pm. Go on a weekday between 10am and noon to beat the crowds — weekend afternoons (12pm–5pm) get packed. Budget two to three hours, and pair it with a taco lunch on San Diego Avenue."
+  - san diego
+  - hidden gem
+quickAnswer: >-
+  Old Town San Diego State Historic Park is a free, open-air 1800s district of
+  adobe buildings, museums and Mexican restaurants, open daily 10am–5pm. Go on a
+  weekday between 10am and noon to beat the crowds — weekend afternoons
+  (12pm–5pm) get packed. Budget two to three hours, and pair it with a taco
+  lunch on San Diego Avenue.
 faq:
-  - q: "Is Old Town San Diego State Historic Park free to visit?"
-    a: "Yes, entry to the park and most of its historic buildings is free. A few attractions nearby, like Whaley House, charge separate admission."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 10am and noon are the calmest. Weekend afternoons from 12pm to 5pm are the busiest, so avoid arriving then if you can."
-  - q: "How do I get there without a car?"
-    a: "Take the MTS Trolley Blue or Green Line, or Amtrak/Coaster trains, to the Old Town Transit Center, which sits right at the park's edge."
-  - q: "How long should I plan for a visit?"
-    a: "Two to three hours covers the main museum buildings, a walk through the plaza, and a meal at one of the Mexican restaurants."
-  - q: "What's nearby if I have extra time?"
-    a: "Presidio Park and the Junipero Serra Museum sit on the hill just above Old Town, offering views over the district and San Diego River valley."
+  - q: Is Old Town San Diego State Historic Park free to visit?
+    a: >-
+      Yes, entry to the park and most of its historic buildings is free. A few
+      attractions nearby, like Whaley House, charge separate admission.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 10am and noon are the calmest. Weekend afternoons from
+      12pm to 5pm are the busiest, so avoid arriving then if you can.
+  - q: How do I get there without a car?
+    a: >-
+      Take the MTS Trolley Blue or Green Line, or Amtrak/Coaster trains, to the
+      Old Town Transit Center, which sits right at the park's edge.
+  - q: How long should I plan for a visit?
+    a: >-
+      Two to three hours covers the main museum buildings, a walk through the
+      plaza, and a meal at one of the Mexican restaurants.
+  - q: What's nearby if I have extra time?
+    a: >-
+      Presidio Park and the Junipero Serra Museum sit on the hill just above Old
+      Town, offering views over the district and San Diego River valley.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-14'
 ---
 
 ## Why go
