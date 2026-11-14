@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Siem_Reap_Pub_Street_02.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - siem reap

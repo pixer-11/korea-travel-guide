@@ -21,6 +21,9 @@ heroImage:
   credit: 'Photo: Flocci Nivis / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:20230107_Hauptmarkt_Nuremberg_HDR.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - nuremberg
   - event

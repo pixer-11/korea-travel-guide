@@ -6,13 +6,13 @@ region: Chamonix
 category: attraction
 pubDate: '2026-08-14T08:47:52.966Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/58890857_qyQo-u369dfwzjMI11XVnom4SM5xHZx9IpB71USocHs.jpg
-  credit: 'Photo: Foursquare user content (Grotte de Glace)'
-  license: foursquare
-  source: https://foursquare.com/v/53b12c31498e1475af12f824
+  url: https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG
+  credit: 'Photo: Rémih / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=21989077
   focus:
-    x: 50
-    'y': 50
+    x: 40
+    'y': 55
 place:
   id: ChIJ_bwf3gRMiUcRxJQ2iMoyhUk
   name: Grotte de Glace
@@ -41,7 +41,6 @@ faq:
     a: Yes — many visitors pair it with the Aiguille du Midi cable car or a walk around Chamonix's town center, and hikers often add a trail around Les Praz or Argentière for a ground-level glacier view.
 aiGenerated: true
 updatedDate: '2026-08-30'
-draft: true
 ---
 
 ## Why go

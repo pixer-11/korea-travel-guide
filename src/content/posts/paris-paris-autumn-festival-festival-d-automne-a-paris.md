@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: A Chinese ID / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Paris,_taken_from_Louvre,_Jul_4_2018.jpg'
+  focus:
+    x: 45
+    y: 40
 gallery: []
 tags:
   - paris

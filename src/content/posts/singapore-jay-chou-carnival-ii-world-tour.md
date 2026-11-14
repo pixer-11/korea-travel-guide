@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Singapore_(SG),_National_Stadium_--_2019_--_4721.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - singapore

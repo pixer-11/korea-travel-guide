@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Fa_Yu_Temple_-03-_Puerto_Princesa_City.jpg'
+  focus:
+    x: 50
+    y: 40
 tags:
   - puerto princesa
   - event

@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Singapore_Skyline-01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - singapore

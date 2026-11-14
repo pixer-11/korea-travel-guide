@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Street_scene,_Siem_Reap,_2018_(12).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - siem reap

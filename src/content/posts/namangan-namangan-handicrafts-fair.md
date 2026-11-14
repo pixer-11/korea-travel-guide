@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Miss Kamola / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Baliqliko%E2%80%98l_ziyoratgohi._Namangan.jpg'
+  focus:
+    x: 45
+    y: 35
 gallery: []
 tags:
   - namangan

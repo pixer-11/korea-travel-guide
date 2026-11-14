@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Marc Ryckaert (MJJR) / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Sharm_el_Sheikh_R01.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - sharm el sheikh

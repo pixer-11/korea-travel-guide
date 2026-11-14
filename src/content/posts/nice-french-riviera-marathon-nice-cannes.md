@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Kurt Bauschardt from Edmonton, Canada / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Nice,_France_(15406655095).jpg'
+  focus:
+    x: 35
+    y: 40
 gallery: []
 tags:
   - nice

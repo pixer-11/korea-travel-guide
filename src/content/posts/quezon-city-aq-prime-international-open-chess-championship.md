@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: E911a / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Manila_(Metro_Manila;_2023-08-11)_E911a_35.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - quezon city

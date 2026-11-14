@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Matthew T Rader / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Seoul,_South_Korea_skyline_with_Building_63,_2001.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - seoul

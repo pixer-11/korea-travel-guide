@@ -3566,6 +3566,12 @@
   "reason": "Generic Bangkok sign, not the venue itself",
   "at": "2026-07-25T02:41:10.959Z"
  },
+ "bangkok-view-rooftop-bangkok\u0001https://live.staticflickr.com/2630/32818284245_5b7b848c21_b.jpg": {
+  "slug": "bangkok-view-rooftop-bangkok",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Bangkok skyline at night, rooftop perspective",
+  "at": "2026-11-14T19:37:20.368Z"
+ },
  "bangkok-view-rooftop-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bangkok_rooftop_tennis_court_2017-11_MB.jpg/3840px-Bangkok_rooftop_tennis_court_2017-11_MB.jpg": {
   "slug": "bangkok-view-rooftop-bangkok",
   "verdict": "MISMATCH",
@@ -7195,6 +7201,24 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Snorkeling/diving in glacial meltwater, Chamonix",
   "at": "2026-11-13T19:38:33.009Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://live.staticflickr.com/1297/5186220119_5b70b20958_b.jpg": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wide glacier terrain view, not ice cave entrance",
+  "at": "2026-11-14T19:37:48.754Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Ice cave with glowing light installations, authentic",
+  "at": "2026-11-14T19:37:53.279Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up fragment of ice texture, not representative view",
+  "at": "2026-11-14T19:37:50.651Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg/3840px-Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg": {
   "slug": "chamonix-grotte-de-glace",
@@ -12305,8 +12329,8 @@
  "hangzhou-zhejiang-art-museum\u0001https://live.staticflickr.com/91/282085595_42fc21b782_k.jpg": {
   "slug": "hangzhou-zhejiang-art-museum",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Stone lion statue, not the art museum itself",
-  "at": "2026-11-13T19:37:16.303Z"
+  "reason": "patrol reject: Lion statue, not art museum building",
+  "at": "2026-11-14T19:36:54.233Z"
  },
  "hangzhou-zhejiang-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Bowl%2C_Guan_ware%2C_Hangzhou%2C_Zhejiang_province%2C_China%2C_Southern_Song_dynasty%2C_12th-13th_century_AD%2C_stoneware_with_Guan_glaze_-_Freer_Gallery_of_Art_-_DSC05570.JPG": {
   "slug": "hangzhou-zhejiang-art-museum",
@@ -23972,6 +23996,12 @@
   "reason": "patrol re-check: Exterior storefront with signage clearly showing Leopold Cafe entrance",
   "at": "2026-08-16T20:18:13.116Z"
  },
+ "mumbai-mokai\u0001https://fastly.4sqi.net/img/general/original/1378677409_BIPtceEJaXTn_gF5hEHZJcKs4jBoFinwcE8NOQZvKQw.jpg": {
+  "slug": "mumbai-mokai",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Interior view of venue with drinks, tables, staff visible",
+  "at": "2026-11-14T19:42:24.831Z"
+ },
  "mumbai-mokai\u0001https://fastly.4sqi.net/img/general/original/7978579_0skMaLb3G-w9_2uI-FnNoQrJWTg6c_aLA_YipSmPang.jpg": {
   "slug": "mumbai-mokai",
   "verdict": "MISMATCH",
@@ -34366,6 +34396,12 @@
   "reason": "Hill landscape typical of Ramkhamhaeng National Park",
   "reasonKo": "람캄향 국립공원 전형적 산림경관",
   "at": "2026-09-18T16:41:55.728Z"
+ },
+ "sukhothai-sukhothai-buddha-park\u0001https://live.staticflickr.com/4158/34409498401_13bf08788b_b.jpg": {
+  "slug": "sukhothai-sukhothai-buddha-park",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Ancient temples reflected in water, Sukhothai style",
+  "at": "2026-11-14T19:40:53.675Z"
  },
  "sukhothai-sukhothai-buddha-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/13th_Century_Thai_City_of_Sukhothai-_Wat_Chana_Songkhram_Buddha%2C_Sukhothai_Historical_Park_5.jpg/3840px-13th_Century_Thai_City_of_Sukhothai-_Wat_Chana_Songkhram_Buddha%2C_Sukhothai_Historical_Park_5.jpg": {
   "slug": "sukhothai-sukhothai-buddha-park",

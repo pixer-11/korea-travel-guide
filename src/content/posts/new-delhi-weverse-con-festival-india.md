@@ -19,6 +19,9 @@ heroImage:
   credit: 'Photo: Whoeverblocksmeisamotherfu*ker / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Cannaught_Place,_New_Delhi.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - new delhi

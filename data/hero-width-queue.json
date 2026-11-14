@@ -3643,7 +3643,10 @@
   "madrid-sorolla-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museo_Sorolla_%28Madrid%29_01.jpg/1920px-Museo_Sorolla_%28Madrid%29_01.jpg": 1920,
   "niagara-falls-skylon-tower\u0001https://upload.wikimedia.org/wikipedia/commons/1/16/Tourists_and_staff_in_the_Skylon_Tower_observation_deck%2C_Niagara_Falls%2C_Canada%2C_2007.jpg": 3008,
   "tokyo-yoyogi-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Shibuya%2C_Yoyogi_Park%2C_Shinjuku%2C_seen_from_Shibuya_Stream.jpg/3840px-Shibuya%2C_Yoyogi_Park%2C_Shinjuku%2C_seen_from_Shibuya_Stream.jpg": 3840,
-  "vancouver-vancouver-seawall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seawall2.jpg/1920px-Seawall2.jpg": 1920
+  "vancouver-vancouver-seawall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seawall2.jpg/1920px-Seawall2.jpg": 1920,
+  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536,
+  "bangkok-view-rooftop-bangkok\u0001https://live.staticflickr.com/2630/32818284245_5b7b848c21_b.jpg": 1024,
+  "sukhothai-sukhothai-buddha-park\u0001https://live.staticflickr.com/4158/34409498401_13bf08788b_b.jpg": 1024
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3800,13 +3803,6 @@
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
-  "mumbai-mokai": {
-   "width": 906,
-   "attempts": 10,
-   "nextTry": "2026-11-14",
-   "flaggedAt": "2026-09-03",
-   "lastResult": "no-wider"
-  },
   "saint-denis-jay-z-stade-de-france-2026": {
    "width": 735,
    "attempts": 1,
@@ -3886,8 +3882,8 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 7,
-   "nextTry": "2026-11-14",
+   "attempts": 8,
+   "nextTry": "2026-11-21",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3900,8 +3896,8 @@
   },
   "bali-sana-uluwatu": {
    "width": 1080,
-   "attempts": 6,
-   "nextTry": "2026-11-14",
+   "attempts": 7,
+   "nextTry": "2026-11-21",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -4156,7 +4152,19 @@
    "attempts": 0,
    "nextTry": "2026-11-13",
    "flaggedAt": "2026-11-13"
+  },
+  "bangkok-view-rooftop-bangkok": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-11-14",
+   "flaggedAt": "2026-11-14"
+  },
+  "sukhothai-sukhothai-buddha-park": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-11-14",
+   "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-14T14:28:12.014Z"
+ "updated": "2026-11-14T19:42:38.926Z"
 }

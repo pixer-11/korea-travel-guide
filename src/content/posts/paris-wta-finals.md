@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: zoetnet / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Paris_skyline_from_the_Centre_Georges-Pompidou_2010.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - paris

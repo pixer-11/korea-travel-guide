@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:20171129_Wat_Preah_Prom_Rath_Siem_Reap_6207_DxO.jpg'
+  focus:
+    x: 45
+    y: 45
 tags:
   - siem reap
   - event

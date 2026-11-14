@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: USAGI_POST / Wikimedia Commons (CC0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Han_River_Seoul_skyline_Pixabay_1214950.jpg'
+  focus:
+    x: 35
+    y: 45
 gallery: []
 tags:
   - seoul

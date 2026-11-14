@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Scorewith German / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Bayon_Temple,_Siem_Reap,_Cambodia_-_panoramio.jpg'
+  focus:
+    x: 60
+    y: 50
 tags:
   - siem reap
   - event

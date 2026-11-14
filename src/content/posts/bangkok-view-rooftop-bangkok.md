@@ -1,27 +1,17 @@
 ---
 title: 'View Rooftop: Bangkok Travel Guide (4.8★)'
-description: >-
-  View Rooftop sits on the 9th floor of the Novotel Bangkok Platinum Pratunam, a
-  low-key perch (not one of the 60-plus-floor giants) that trades altitude for
-  value — cold drinks, a pool-bar setting, and a wraparound skyline view over
-  the Pratunam garment district. 4.8★ (2,103 reviews) — what visitors say,
-  hours, and tips.
+description: View Rooftop sits on the 9th floor of the Novotel Bangkok Platinum Pratunam, a low-key perch (not one of the 60-plus-floor giants) that trades altitude for value — cold drinks, a pool-bar setting, and a wraparound skyline view over the Pratunam garment district. 4.8★ (2,103 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Bangkok
 category: trendy
 pubDate: '2026-08-05T11:06:55.494Z'
-gallery: []
 place:
   id: ChIJR4LgSl-f4jARSMzR8x4RA3E
   name: View Rooftop Bangkok
-  address: >-
-    9th Floor, Novotel Bangkok, Platinum Pratunam, 220 Thanon Phetchaburi,
-    Khwaeng Thanon Phetchaburi, Khet Ratchathewi, Krung Thep Maha Nakhon 10400,
-    Thailand
+  address: 9th Floor, Novotel Bangkok, Platinum Pratunam, 220 Thanon Phetchaburi, Khwaeng Thanon Phetchaburi, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand
   rating: 4.8
   userRatingsTotal: 2103
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=8143371375853292616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=8143371375853292616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.749584400000002
   lng: 100.54066329999999
@@ -37,45 +27,30 @@ place:
 tags:
   - bangkok
   - bar
-quickAnswer: >-
-  View Rooftop sits on the 9th floor of the Novotel Bangkok Platinum Pratunam, a
-  low-key perch (not one of the 60-plus-floor giants) that trades altitude for
-  value — cold drinks, a pool-bar setting, and a wraparound skyline view over
-  the Pratunam garment district. Go right around sunset (roughly 5:30–6:30pm
-  depending on season) to catch the light change over the city before the crowd
-  from the hotel and nearby Platinum Mall fills in. Budget for a mid-range drink
-  or two rather than a meal, and confirm current hours with the hotel before
-  heading up.
+quickAnswer: View Rooftop sits on the 9th floor of the Novotel Bangkok Platinum Pratunam, a low-key perch (not one of the 60-plus-floor giants) that trades altitude for value — cold drinks, a pool-bar setting, and a wraparound skyline view over the Pratunam garment district. Go right around sunset (roughly 5:30–6:30pm depending on season) to catch the light change over the city before the crowd from the hotel and nearby Platinum Mall fills in. Budget for a mid-range drink or two rather than a meal, and confirm current hours with the hotel before heading up.
 faq:
   - q: How do I get to View Rooftop?
-    a: >-
-      It's on the 9th floor of the Novotel Bangkok Platinum Pratunam on Thanon
-      Phetchaburi. The nearest BTS stations are Chit Lom and Phaya Thai, but a
-      Grab or taxi directly to the hotel is usually the easiest route given
-      Bangkok traffic.
+    a: It's on the 9th floor of the Novotel Bangkok Platinum Pratunam on Thanon Phetchaburi. The nearest BTS stations are Chit Lom and Phaya Thai, but a Grab or taxi directly to the hotel is usually the easiest route given Bangkok traffic.
   - q: What's the best time to visit?
-    a: >-
-      Aim for the hour before sunset so you catch the light change over the
-      skyline, then stay as it lights up in the evening. Weeknights are
-      generally quieter than Friday and Saturday nights.
+    a: Aim for the hour before sunset so you catch the light change over the skyline, then stay as it lights up in the evening. Weeknights are generally quieter than Friday and Saturday nights.
   - q: How much does it cost?
-    a: >-
-      There's no cover charge to know of, but expect to pay mid-range hotel-bar
-      prices for cocktails, wine, or beer. It's priced as a drinks-and-snacks
-      spot rather than a full dinner venue.
+    a: There's no cover charge to know of, but expect to pay mid-range hotel-bar prices for cocktails, wine, or beer. It's priced as a drinks-and-snacks spot rather than a full dinner venue.
   - q: How long should I plan to stay?
-    a: >-
-      Most visitors spend one to two hours here — enough time for a couple of
-      drinks and the sunset transition — before heading elsewhere for dinner.
+    a: Most visitors spend one to two hours here — enough time for a couple of drinks and the sunset transition — before heading elsewhere for dinner.
   - q: What's nearby?
-    a: >-
-      Platinum Fashion Mall is right next door, making this a convenient rest
-      stop during a shopping trip, and Pratunam Market and the Baiyoke Sky Tower
-      area are both within easy reach.
+    a: Platinum Fashion Mall is right next door, making this a convenient rest stop during a shopping trip, and Pratunam Market and the Baiyoke Sky Tower area are both within easy reach.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 photoless: true
+heroImage:
+  url: https://live.staticflickr.com/2630/32818284245_5b7b848c21_b.jpg
+  credit: 'Photo: Ninara / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/37583176@N00/32818284245
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Why go

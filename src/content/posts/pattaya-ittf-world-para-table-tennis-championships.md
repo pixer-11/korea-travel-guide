@@ -16,6 +16,9 @@ heroImage:
   credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Pattaya_from_the_Pier_on_a_morning.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - pattaya

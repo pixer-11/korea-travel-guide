@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Siem_Reap_River_in_Siem_Reap_(1).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - siem reap

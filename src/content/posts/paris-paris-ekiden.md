@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Paris_Skyline_at_Sunset.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - paris

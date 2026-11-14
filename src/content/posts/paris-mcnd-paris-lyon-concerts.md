@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Christer Gundersen / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Paris,_12_July_2017.jpg'
+  focus:
+    x: 65
+    y: 45
 gallery: []
 tags:
   - paris

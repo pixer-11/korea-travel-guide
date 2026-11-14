@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Filinvest_City_from_air_(Muntinlupa;_11-24-2021)_edit_(cropped).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - muntinlupa

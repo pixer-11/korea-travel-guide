@@ -1,25 +1,17 @@
 ---
 title: 'Sukhothai Buddha Park: Travel Guide (4.5★)'
-description: >-
-  Sukhothai Buddha Park is a quiet, gently overgrown compound of Buddha statues
-  on Soi Si Sukho, open daily 6am–6pm, that most visitors pair with a bike ride
-  around the nearby Sukhothai Historical Park. 4.5★ (165 reviews) — what
-  visitors say, hours, and tips.
+description: Sukhothai Buddha Park is a quiet, gently overgrown compound of Buddha statues on Soi Si Sukho, open daily 6am–6pm, that most visitors pair with a bike ride around the nearby Sukhothai Historical Park. 4.5★ (165 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Sukhothai
 category: attraction
 pubDate: '2026-08-15T08:03:37.147Z'
-gallery: []
 place:
   id: ChIJ5ySyJc1V3jARgPJAS37jkLU
   name: Sukhothai Buddha Park
-  address: >-
-    30 Soi Si Sukho, Tambon Thani, Amphoe Mueang Sukhothai, Chang Wat Sukhothai
-    64000, Thailand
+  address: 30 Soi Si Sukho, Tambon Thani, Amphoe Mueang Sukhothai, Chang Wat Sukhothai 64000, Thailand
   rating: 4.5
   userRatingsTotal: 165
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=13083207049079222912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=13083207049079222912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 17.0056395
   lng: 99.8258986
@@ -55,38 +47,29 @@ place:
 tags:
   - sukhothai
   - top attraction
-quickAnswer: >-
-  Sukhothai Buddha Park is a quiet, gently overgrown compound of Buddha statues
-  on Soi Si Sukho, open daily 6am–6pm, that most visitors pair with a bike ride
-  around the nearby Sukhothai Historical Park. Go on a weekday between 11am and
-  3pm for near-total solitude, or on weekends after 2pm — the early morning
-  hours before noon on Saturday and Sunday draw the biggest crowds. Budget 45
-  minutes to an hour, and bring water since shade is limited.
+quickAnswer: Sukhothai Buddha Park is a quiet, gently overgrown compound of Buddha statues on Soi Si Sukho, open daily 6am–6pm, that most visitors pair with a bike ride around the nearby Sukhothai Historical Park. Go on a weekday between 11am and 3pm for near-total solitude, or on weekends after 2pm — the early morning hours before noon on Saturday and Sunday draw the biggest crowds. Budget 45 minutes to an hour, and bring water since shade is limited.
 faq:
   - q: How do I get to Sukhothai Buddha Park?
-    a: >-
-      It's a short scooter or bicycle ride from Sukhothai's old town at 30 Soi
-      Si Sukho, Tambon Thani. There's no train station nearby; most travelers
-      arrive in Sukhothai by bus from Bangkok, Chiang Mai, or Phitsanulok.
+    a: It's a short scooter or bicycle ride from Sukhothai's old town at 30 Soi Si Sukho, Tambon Thani. There's no train station nearby; most travelers arrive in Sukhothai by bus from Bangkok, Chiang Mai, or Phitsanulok.
   - q: What are the opening hours?
-    a: >-
-      The park is open daily from 6:00 AM to 6:00 PM, with no closing days
-      listed.
+    a: The park is open daily from 6:00 AM to 6:00 PM, with no closing days listed.
   - q: When is the quietest time to visit?
-    a: >-
-      On weekdays it's calmest between 11am and 3pm. On weekends, go between 2pm
-      and 6pm — weekend mornings from 7am to noon are the busiest.
+    a: On weekdays it's calmest between 11am and 3pm. On weekends, go between 2pm and 6pm — weekend mornings from 7am to noon are the busiest.
   - q: How long should I spend there?
-    a: >-
-      Most visitors spend 45 minutes to an hour walking the grounds at an
-      unhurried pace.
+    a: Most visitors spend 45 minutes to an hour walking the grounds at an unhurried pace.
   - q: What else is nearby?
-    a: >-
-      Sukhothai Historical Park, a UNESCO World Heritage Site with the city's
-      famous temple ruins, is close enough to combine into the same day trip.
+    a: Sukhothai Historical Park, a UNESCO World Heritage Site with the city's famous temple ruins, is close enough to combine into the same day trip.
 aiGenerated: true
 draft: false
 photoless: true
+heroImage:
+  url: https://live.staticflickr.com/4158/34409498401_13bf08788b_b.jpg
+  credit: 'Photo: Ninara / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/37583176@N00/34409498401
+  focus:
+    x: 42
+    'y': 35
 ---
 
 ## Why go

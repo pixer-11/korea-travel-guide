@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: JavierDo / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:WTC_-_Pepsi_Center_-_panoramio.jpg'
+  focus:
+    x: 45
+    y: 35
 gallery: []
 tags:
   - mexico city

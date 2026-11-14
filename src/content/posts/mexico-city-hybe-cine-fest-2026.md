@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Jonathan Salvador / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Mexico_City_Reforma_skyline_(cropped).jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - mexico city
