@@ -44,7 +44,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
-Nancy Ajram has spent more than two decades as one of the biggest names in Arabic pop, and a Dubai arena date is the kind of show that tends to become a citywide singalong. Her concert was set for October 24, 2026, at Coca-Cola Arena, the emirate's main indoor venue for arena-scale concerts.
+Nancy Ajram has spent more than two decades as one of the biggest names in Arabic pop, and a Dubai arena date is the kind of show that tends to become a citywide singalong. Her concert was held at Coca-Cola Arena, the emirate's main indoor venue for arena-scale concerts.
 
 ## What to expect from the show
 

@@ -38,7 +38,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## An elite race with a long record
 
 Fukuoka is one of road running's oldest proving grounds. The race began in 1947, and its IAAF Gold Label status puts it among the top-ranked marathons in the world. It is a men's race for qualified elite runners. Strict qualifying times keep the field small and fast.
@@ -72,6 +71,6 @@ What locals typically do:
 - Cheer "ganbare!" (keep going) for every runner, Japanese or not, and keep clapping long after the leaders pass.
 - Keep their voices down near the start and save the noise for the finish.
 - Take their rubbish home, because Fukuoka streets have very few public bins.
-- Eat afterwards at the yatai food stalls in Nakasu and Tenjin, which open in the evening.
+- Visit the yatai food stalls in Nakasu and Tenjin, which open in the evening.
 
 Most people pay by IC card (Hayakaken, Suica and others work on the subway) and use cash at the yatai. Tipping is not part of Japanese custom anywhere along the course.

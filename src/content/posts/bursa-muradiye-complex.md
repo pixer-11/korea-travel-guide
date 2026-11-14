@@ -98,7 +98,6 @@ draft: false
 updatedDate: '2026-11-07'
 galleryAddedOn: '2026-11-08'
 ---
-
 ## A garden full of princes
 
 Behind the wall, the street noise drops away. Murad II founded this complex in the 1420s: a mosque, a madrasa, a bathhouse and a soup kitchen. Over the following century it became a dynastic burial ground, and a dozen domed tombs now stand among cypresses and clipped shrubs.
@@ -109,7 +108,7 @@ Most of the people buried here are princes. Several of them lost the brutal Otto
 
 Four tombs reward most of your attention. Each has its own personality.
 
-- **Murad II's tomb.** It is the plainest building here, and he wanted it that way. The sultan asked for a simple grave open to the sky, so an opening in the dome lets rain fall straight onto it.
+- **Murad II's tomb.** It is the plainest building here. The sultan asked for a simple grave open to the sky, so an opening in the dome lets rain fall straight onto it.
 - **Şehzade Mustafa's tomb.** This is the son of Süleyman the Magnificent, executed in 1553. His tomb is lined with İznik tiles in blues and turquoise.
 - **Cem Sultan's tomb.** Cem was Mehmed II's son, who spent years in exile in Europe. His walls are covered in painted decoration rather than tile.
 - **Şehzade Ahmed's tomb.** It is another tile-rich interior, and the contrast with Murad's bare dome is the point.

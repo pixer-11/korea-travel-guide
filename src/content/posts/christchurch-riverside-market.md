@@ -101,7 +101,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-11-05'
 ---
-
 ## Under one roof on Oxford Terrace
 
 Riverside Market is one of the most-reviewed places in central Christchurch, so you won't have it to yourself. It sits at 96 Oxford Terrace, facing the Avon River, which Māori call Ōtākaro. Under one roof you'll find retailers selling locally sourced food alongside sit-down restaurants, cafes and bars.
@@ -113,7 +112,7 @@ That mix sets the day's pattern. In the morning people come for coffee and groce
 The doors currently open at 7:30am every day. The building closes at 8pm Sunday to Wednesday and at 9pm Thursday to Saturday. Hours can change, so check the market's official site before a late visit.
 
 - **Quietest:** 8am–10am, weekdays and weekends alike.
-- **Also quiet:** 8pm–9pm, but only on Thursday, Friday and Saturday, because it closes at 8pm on the other days.
+- **Also quiet:** 8pm–9pm on Thursday, Friday and Saturday, when the building stays open later.
 - **Avoid:** weekends from 11am to 7pm. Seats and counter space are hardest to find then.
 
 A walk around takes about 30 minutes. Allow 1–2 hours if you're eating.

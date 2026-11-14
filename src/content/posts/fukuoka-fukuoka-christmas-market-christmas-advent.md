@@ -40,10 +40,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Seven weeks of lights
 
-Fukuoka's winter season is long. Christmas Advent runs from November 7 to December 25, 2026. It is often called Japan's most visited winter event, and it doesn't stay in one park: it stretches across the city from Hakata Station to Tenjin.
+Fukuoka's winter season is long. Christmas Advent runs from November 7 to December 25, 2026, and it doesn't stay in one park: it stretches across the city from Hakata Station to Tenjin.
 
 Three things make up the programme: illuminations, a Christmas market and a series of classical concerts. You can treat it as one big night out or come back a few times. Because it runs for seven weeks, a free evening on almost any trip to Fukuoka in late autumn will overlap with it.
 

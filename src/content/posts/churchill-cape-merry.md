@@ -119,7 +119,7 @@ Google currently lists the site as open 24 hours. That only means it's an open o
 Crowds are easy to plan around:
 - **Quietest on weekdays:** 8pm–9pm.
 - **Quietest on weekends:** 3pm–7pm.
-- **Avoid on weekends:** 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–11pm, when the point fills up.
+- **Avoid on weekends:** 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–8pm, when the point fills up.
 
 July evenings stay light late at this latitude, so an after-dinner visit works well.
 

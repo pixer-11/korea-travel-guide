@@ -142,6 +142,17 @@
      "The show was set for September 26, 2026, at Etihad Arena on Yas Island. It was announced as a single date in Abu Dhabi.",
      "Tickets were sold by the organiser, which also set the ticket categories, prices and door times. The billing named BTS, BLACKPINK and KATSEYE as the acts whose music the tribute troupe would perform."
     ]
+   },
+   {
+    "from": "b883df74cbd7",
+    "to": "7f2e98a766a1",
+    "at": "2026-11-14T18:43:29.569Z",
+    "removed": [
+     "This was a cover show, and that was the whole point. K-POP Fever was planned as a night of BTS, BLACKPINK and KATSEYE songs performed by a troupe of professional singers and dancers on the Etihad Arena stage. The date announced for Abu Dhabi was September 26, 2026."
+    ],
+    "added": [
+     "This was a cover show, and that was the whole point. K-POP Fever was planned as a night of BTS, BLACKPINK and KATSEYE songs performed by a troupe of professional singers and dancers on the Etihad Arena stage. A date was announced for the Abu Dhabi show."
+    ]
    }
   ]
  },
@@ -240,6 +251,17 @@
      "Expect the mood to change between the two sets. Capaldi is known for slow, piano-led ballads that tend to turn into crowd singalongs.",
      "Larsson works at a faster tempo, built around dance-pop. Neither artist's setlist or running order is part of our verified material, so we have left both out here."
     ]
+   },
+   {
+    "from": "5d44a5b7e867",
+    "to": "00acbe9fa3a5",
+    "at": "2026-11-14T18:43:29.570Z",
+    "removed": [
+     "Etihad Park is Yas Island's open-air concert ground, known as du Arena until it was renamed in 2019. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi – Yas Island hotel, built over the track, are visible from the surrounding roads."
+    ],
+    "added": [
+     "Etihad Park is Yas Island's open-air concert ground. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi – Yas Island hotel, built over the track, are visible from the surrounding roads."
+    ]
    }
   ]
  },
@@ -330,30 +352,15 @@
  "abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
   "steps": [
    {
-    "from": "a5208ecdd1a4",
-    "to": "b4a7beebf4e3",
-    "at": "2026-10-24T21:10:40.433Z",
-    "removed": [
-     "Hall assignments and daily opening hours came from the organizers, who set them for the weekend rather than leaving them to third parties.",
-     "MEFCC announced the specific guest list, panel schedule and ticket pricing tiers for the weekend. Guest rosters shift edition to edition, so last year's names are no guide to this one.",
-     "Regulars treat MEFCC like a marathon, not a sprint. Tickets were sold online in advance through the official site; weekend days move briskly, and door queues are always slower than online checkout."
-    ],
-    "added": [
-     "Hall assignments and daily opening hours were set by the organizers for the weekend.",
-     "MEFCC typically announces its guest list, panel schedule and ticket pricing tiers ahead of the event. Guest rosters shift edition to edition, so last year's names are no guide to this one.",
-     "Regulars treat MEFCC like a marathon, not a sprint. Tickets are sold online in advance through the official site; weekend days move briskly, and door queues are always slower than online checkout."
-    ]
-   },
-   {
     "from": "b4a7beebf4e3",
-    "to": "8e729ba506e5",
-    "at": "2026-11-07T22:18:03.599Z",
+    "to": "30d8782bfab0",
+    "at": "2026-11-14T18:43:29.570Z",
     "removed": [
      "Hall assignments and daily opening hours were set by the organizers for the weekend.",
      "Seasoned attendees pace themselves across all three days rather than chasing every panel on day one. The biggest mistake first-timers make is a single marathon day, which misses the quieter pockets, like weekday mornings, when panels and photo ops feel far less rushed."
     ],
     "added": [
-     "Specific hall assignments and daily opening hours are typically published by the organizers closer to the event.",
+     "As with past editions, specific hall assignments and daily opening hours are typically published by organizers closer to the event.",
      "Seasoned attendees pace themselves across all three days rather than chasing every panel on day one. The biggest mistake first-timers make is a single marathon day, which misses the quieter pockets, like early mornings, when panels and photo ops feel far less rushed."
     ]
    }
@@ -872,6 +879,21 @@
    }
   ]
  },
+ "asan-korea-masters-bwf-badminton": {
+  "steps": [
+   {
+    "from": "1ec0c404b5a2",
+    "to": "4eaf7f086c4f",
+    "at": "2026-11-14T18:43:29.571Z",
+    "removed": [
+     "Because the city is compact, a weekend here is easy to arrange. You can spend the morning at Hyeonchungsa, watch the afternoon semi-finals, then soak in the hot springs at night. Admiral Yi probably never planned to have a badminton hall named after him. It suits the town anyway."
+    ],
+    "added": [
+     "Because the city is compact, a weekend here is easy to arrange. You can spend the morning at Hyeonchungsa, watch the afternoon semi-finals, then soak in the hot springs at night. The admiral never imagined a badminton hall bearing his name, but it suits the town well."
+    ]
+   }
+  ]
+ },
  "assago-korn-milan-assago-2026": {
   "steps": [
    {
@@ -989,6 +1011,32 @@
      "- **Train:** Waitematā Station (Britomart) sits at the bottom of Queen Street. From there it is roughly a 15-minute uphill walk to Aotea Square.\n- **Bus:** Many routes run along Queen Street, Wellesley Street and Symonds Street, all within a few minutes' walk.\n- **Ferry:** Downtown Ferry Terminal is beside Britomart, so visitors from Devonport, Waiheke or the North Shore come straight in by water.\n- **Car:** The Civic car park lies beneath the Aotea Square precinct. It fills quickly during big events, and road closures around Queen Street are common for large gatherings.",
      "After fireworks displays on the square, the downhill walk to Britomart is the busiest stretch. Plenty of people let the first rush clear by lingering over a last chai."
     ]
+   },
+   {
+    "from": "6bad11975905",
+    "to": "59ef751eb69c",
+    "at": "2026-11-14T18:43:29.572Z",
+    "removed": [
+     "- **Train:** Waitematā Station (Britomart) sits at the bottom of Queen Street. From there it is roughly a 15-minute uphill walk to Aotea Square.\n- **Bus:** Many routes run along Queen Street, Wellesley Street and Symonds Street, all within a few minutes' walk.\n- **Ferry:** Downtown Ferry Terminal is beside Britomart, so visitors from Devonport, Waiheke or the North Shore come straight in by water.\n- **Car:** The Civic car park lies beneath the Aotea Square precinct. It fills quickly during big events, and road closures around Queen Street are common for large gatherings."
+    ],
+    "added": [
+     "- **Train:** Britomart Train Station sits at the bottom of Queen Street. From there it is roughly a 15-minute uphill walk to Aotea Square.\n- **Bus:** Many routes run along Queen Street, Wellesley Street and Symonds Street, all within a few minutes' walk.\n- **Ferry:** Downtown Ferry Terminal is beside Britomart, so visitors from Devonport, Waiheke or the North Shore come straight in by water.\n- **Car:** The Civic car park lies beneath the Aotea Square precinct. It fills quickly during big events, and road closures around Queen Street are common for large gatherings."
+    ]
+   }
+  ]
+ },
+ "auckland-boyz-ii-men-new-zealand-tour": {
+  "steps": [
+   {
+    "from": "44bd329a07a4",
+    "to": "ff72f5fa2139",
+    "at": "2026-11-14T18:43:29.573Z",
+    "removed": [
+     "December is early summer in Auckland. Sunset falls around 8:30pm, so on concert nights it is often still light as people head in to the venue. Weather turns quickly on the isthmus, and a light layer usually covers both a warm afternoon and a breezy walk back after the show."
+    ],
+    "added": [
+     "December is early summer in Auckland, with long evening daylight, so on concert nights it is often still light as people head in to the venue. Weather turns quickly on the isthmus, and a light layer usually covers both a warm afternoon and a breezy walk back after the show."
+    ]
    }
   ]
  },
@@ -1068,6 +1116,17 @@
     "added": [
      "Hours here run by the clock, and the clock changes. The summit's opening and closing times shift through the year rather than staying fixed, so check the Tūpuna Maunga Authority website for the current month before you plan an early or late visit."
     ]
+   },
+   {
+    "from": "b9914ee5196c",
+    "to": "ff624a7cdf65",
+    "at": "2026-11-14T18:43:29.574Z",
+    "removed": [
+     "Maungawhau is the highest natural point on the Auckland isthmus. It rises to roughly 196 metres, and you climb it on foot from a residential street. It formed in an eruption around 28,000 years ago. The name means \"mountain of the whau tree\"."
+    ],
+    "added": [
+     "Maungawhau is the highest natural point on the Auckland isthmus. It rises to roughly 196 metres, and you climb it on foot from a residential street. It formed in a volcanic eruption thousands of years ago. The name means \"mountain of the whau tree\"."
+    ]
    }
   ]
  },
@@ -1114,6 +1173,17 @@
     ],
     "added": [
      "Barbecue is the city's main food event. Brisket queues at the best-known barbecue joints can start well before lunch, so many visitors visit those on the day before or after the race weekend. Visitors who fly in for the full four days usually budget at least a week in Austin."
+    ]
+   },
+   {
+    "from": "549064167f23",
+    "to": "83e6be57c45b",
+    "at": "2026-11-14T18:43:29.574Z",
+    "removed": [
+     "Barbecue is the city's main food event. Brisket queues at the best-known barbecue joints can start well before lunch, so many visitors visit those on the day before or after the race weekend. Visitors who fly in for the full four days usually budget at least a week in Austin."
+    ],
+    "added": [
+     "Barbecue is the city's main food event. Brisket queues at the best-known barbecue joints can start well before lunch, so many visitors visit those on the day before or after the race weekend. Visitors who fly in for the full four days usually add a day or two on either end for travel and sightseeing."
     ]
    }
   ]
@@ -1172,6 +1242,21 @@
     "added": [
      "There's no other weekend in Austin quite like this one. For three days the city's usual slow drawl gives way to the shriek of twenty V6 hybrid engines, a full-blown music festival bolted onto a race weekend, and a crowd that mixes Texas oil money, European F1 diehards, and curious first-timers. For 2026, the music side featured a lineup of major headliners.",
      "The classic first-timer mistake is underestimating exit time. Leaving before the podium ceremony or the final concert set to \"beat traffic\" is common, but locals who've done it a few times say the shuttle and rideshare lines are just as long no matter how early you leave."
+    ]
+   }
+  ]
+ },
+ "avellaneda-racing-club-10k-5k-race": {
+  "steps": [
+   {
+    "from": "350a0339c7d2",
+    "to": "e7a36be62482",
+    "at": "2026-11-14T18:43:29.576Z",
+    "removed": [
+     "Avellaneda is a working town and its Sunday mornings are quiet. Cafés along Avenida Mitre are the usual meeting spot when families come to meet their runners."
+    ],
+    "added": [
+     "Avellaneda is a working town and its Sunday mornings are quiet. Families usually find a quiet spot nearby to meet their runners after the race."
     ]
    }
   ]
@@ -1447,6 +1532,17 @@
     ],
     "added": [
      "These are this week's hours, not fixed ones. Parks Canada sites change their schedules by season and may close on some holidays, so check the official Banff Park Museum page for this month's times. Admission is charged; check the official page for the current fee."
+    ]
+   },
+   {
+    "from": "f2f2343b52dd",
+    "to": "aa5c8918994f",
+    "at": "2026-11-14T18:43:29.577Z",
+    "removed": [
+     "The museum makes a good starting point for this end of Banff. Cross the Bow River Bridge and walk up to **Cascade of Time Garden**, the terraced gardens below the Parks Canada administration building, with a straight view back up Banff Avenue to Cascade Mountain."
+    ],
+    "added": [
+     "The museum makes a good starting point for this end of Banff. Cross the Bow River Bridge and walk up to **Cascade Gardens**, the terraced gardens below the Parks Canada administration building, with a straight view back up Banff Avenue to Cascade Mountain."
     ]
    }
   ]
@@ -1802,6 +1898,17 @@
     "added": [
      "BTS bring their 360° stadium World Tour 'ARIRANG' to Bangkok for three nights. The tour is scheduled for three nights in Bangkok, and all three shows are at Rajamangala National Stadium."
     ]
+   },
+   {
+    "from": "eda144fc97b0",
+    "to": "77d974521cfe",
+    "at": "2026-11-14T18:43:29.578Z",
+    "removed": [
+     "The schedule has a gap. Shows run December 3, then skip the 4th, then return on the 5th and 6th. The second show also falls on 5 December, a Thai national holiday. It marks the birthday of the late King Bhumibol and is also National Father's Day."
+    ],
+    "added": [
+     "The schedule includes a night off partway through the run. The second show also falls on 5 December, a Thai national holiday. It marks the birthday of the late King Bhumibol and is also National Father's Day."
+    ]
    }
   ]
  },
@@ -2138,6 +2245,17 @@
     ],
     "added": [
      "Most people watching from land never pay for a seat. In earlier editions, the public riverbanks were open to anyone, and families spread out along the promenades. Good vantage points include:"
+    ]
+   },
+   {
+    "from": "ff8d9e79e082",
+    "to": "eb0f09253cc1",
+    "at": "2026-11-14T18:43:29.579Z",
+    "removed": [
+     "- **Santichaiprakan Park**, beside the white Phra Sumen Fort in Banglamphu, faces Rama VIII Bridge head-on. Locals sit on the lawn and on the river wall.\n- **Tha Tien's riverside bars and rooftops** look straight across at Wat Arun. They fill fast on festival nights, and regulars book tables days in advance.\n- **Lhong 1919** and the Khlong San waterfront give a Thonburi-side view back towards the old city."
+    ],
+    "added": [
+     "- **Santichaiprakan Park**, beside the white Phra Sumen Fort in Banglamphu, faces Rama VIII Bridge head-on. Locals sit on the lawn and on the river wall.\n- **Tha Tien's riverside bars and rooftops** look straight across at Wat Arun. They fill fast on festival nights, so booking a table ahead is worth it.\n- **Lhong 1919** and the Khlong San waterfront give a Thonburi-side view back towards the old city."
     ]
    }
   ]
@@ -2616,6 +2734,17 @@
     "added": [
      "Weekends get busy. Try not to turn up between 10am and 7pm on a Saturday or Sunday, when the lawns below the Crescent fill with picnic blankets and the playground queues build. The quietest weekend window is 7am–8am, when you'll mostly share the paths with dog walkers and runners. On weekdays the forecast lull comes late, 10pm–11pm."
     ]
+   },
+   {
+    "from": "9d12eef8372c",
+    "to": "c4f5c4b34d98",
+    "at": "2026-11-14T18:43:29.579Z",
+    "removed": [
+     "Weekends get busy. Try not to turn up between 10am and 7pm on a Saturday or Sunday, when the lawns below the Crescent fill with picnic blankets and the playground queues build. The quietest weekend window is 7am–8am, when you'll mostly share the paths with dog walkers and runners. On weekdays the forecast lull comes late, 10pm–11pm."
+    ],
+    "added": [
+     "Weekends get busy. Expect the lawns to be at their fullest through the middle of the day on a Saturday or Sunday, when the lawns below the Crescent fill with picnic blankets and the playground queues build. The quietest weekend window is 7am–8am, when you'll mostly share the paths with dog walkers and runners. On weekdays the forecast lull comes late, 10pm–11pm."
+    ]
    }
   ]
  },
@@ -2682,6 +2811,21 @@
    }
   ]
  },
+ "batumi-batumi-boulevard": {
+  "steps": [
+   {
+    "from": "c21de90b0261",
+    "to": "59eb96a96d79",
+    "at": "2026-11-14T18:43:29.581Z",
+    "removed": [
+     "Timing matters more here than anything else. It's quietest from 7am to 9am on weekdays and from 7am to 10am at weekends. That's when you'll share the paths mostly with joggers, dog walkers and the cleaning crews. Try not to arrive between 12pm and 11pm on a weekend; that long window is when the promenade is at its most packed."
+    ],
+    "added": [
+     "Timing matters more here than anything else. It's quietest from 7am to 9am on weekdays and from 7am to 10am at weekends. That's when you'll share the paths mostly with joggers, dog walkers and the cleaning crews. Try to avoid the middle of the day on a weekend, when the promenade is at its most packed."
+    ]
+   }
+  ]
+ },
  "batumi-fide-world-cadet-chess-championship-2026": {
   "steps": [
    {
@@ -2708,6 +2852,21 @@
     ],
     "added": [
      "You buy tickets at the gate, where the current price is posted. It generally opens from around 10am to 5pm, though hours can run later in summer. Opening times change with the season and on some holidays, so check the official site for this month's schedule."
+    ]
+   }
+  ]
+ },
+ "batumi-splin-batumi": {
+  "steps": [
+   {
+    "from": "94aac6e20a67",
+    "to": "657ab463b57c",
+    "at": "2026-11-14T18:43:29.581Z",
+    "removed": [
+     "On a night like this, a rock concert is one of the bigger things happening in town. The audience is mostly Russian-speaking. That includes Georgians who grew up with the band's records, people who have moved to Batumi in recent years, and fans who come in from Tbilisi and further away."
+    ],
+    "added": [
+     "On a night like this, a rock concert is one of the bigger things happening in town. The audience is a mix of languages and backgrounds. That includes Georgians who grew up with the band's records, people who have moved to Batumi in recent years, and fans who come in from Tbilisi and further away."
     ]
    }
   ]
@@ -3056,6 +3215,17 @@
      "[FAQ 1] Q: When is the quietest time to visit the Peace Wall? A: On weekdays it's quietest from 7am to 9am and from 6pm to 7pm, and busiest from 12pm to 1pm. On weekends, avoid 11am to 5pm, when the taxi tours bunch up. Come before 11am or late in the afternoon instead.",
      "Crowds here follow the tour schedule. On weekdays the wall is quietest from 7am to 9am and from 6pm to 7pm, and busiest from 12pm to 1pm. You'll often have long stretches of it almost to yourself."
     ]
+   },
+   {
+    "from": "28ed78fad475",
+    "to": "558799770464",
+    "at": "2026-11-14T18:43:29.582Z",
+    "removed": [
+     "Several gates in the interface network still close at night. That's the most direct way to understand that this is a working barrier and not a monument. Treat the listed 7am to 7pm hours as the window when the area is open and active, and plan your visit inside it."
+    ],
+    "added": [
+     "Several gates in the interface network still close at night. That's the most direct way to understand that this is a working barrier and not a monument. Plan your visit for daytime hours, before the gates close."
+    ]
    }
   ]
  },
@@ -3072,6 +3242,17 @@
     "added": [
      "[FAQ 2] Q: When is the quietest time to visit? A: The forecast shows no quiet window, but weekends are busy for the whole 9am–3pm trading day. Friday is the best choice if you want to avoid that weekend peak. It also opens earliest, at 8am.",
      "The foot-traffic forecast shows weekends busy from 9am to 3pm. That's the whole Saturday trading day and every hour of Sunday, so a weekend visit means crowds at any time. If your plans allow it, come on Friday. It opens earliest, at 8am, and it falls outside that forecast weekend peak."
+    ]
+   },
+   {
+    "from": "b11f3402cb89",
+    "to": "2acb72d5393a",
+    "at": "2026-11-14T18:43:29.583Z",
+    "removed": [
+     "The building came close to being lost. By the late twentieth century it was run down, and a restoration finished in 1999 brought it back into use. Thanks to that work, the hall still runs as a market today rather than standing as a monument you photograph from outside."
+    ],
+    "added": [
+     "The building came close to being lost. By the late twentieth century it was run down, and restoration work brought it back into use. Thanks to that work, the hall still runs as a market today rather than standing as a monument you photograph from outside."
     ]
    }
   ]
@@ -3310,6 +3491,17 @@
      "[FAQ 1] Q: When is the quietest time to visit BLESS Restaurant? A: On weekdays it's quietest between 3pm and 5pm. At weekends, 2pm to 5pm and 10pm to 11pm are the calmest stretches, but avoid 7pm to 10pm, the busiest weekend window.",
      "Weekends run on a different clock. The doors don't open until **2pm on Saturday and Sunday**, so don't plan a weekend lunch any earlier. Across the weekend, the calmest stretches are 2pm to 5pm and 10pm to 11pm. In between, though, **7pm to 10pm** is the busiest it gets."
     ]
+   },
+   {
+    "from": "7cb90bd569e5",
+    "to": "a1172fda12aa",
+    "at": "2026-11-14T18:43:29.584Z",
+    "removed": [
+     "That late close is the first practical thing to know. It makes BLESS a reliable option after a concert at the Konzerthaus, a long day at Museum Island or a late flight into the city. It's an Asian restaurant, consistently well rated across a large and steady volume of reviews. The price level is on the pricier side, so it's a sit-down dinner rather than a quick bite."
+    ],
+    "added": [
+     "That late close is the first practical thing to know. It makes BLESS a reliable option after a concert at the Konzerthaus, a long day at Museum Island or a late flight into the city. It's an Asian restaurant, consistently well rated by a large number of reviewers. The price level is on the pricier side, so it's a sit-down dinner rather than a quick bite."
+    ]
    }
   ]
  },
@@ -3528,6 +3720,19 @@
     ],
     "added": [
      "Typical foot traffic makes timing easy. **On weekdays the kiosk is quietest outside the busiest lunch and dinner hours**, so a Monday to Thursday visit at almost any hour beats the weekend. **On weekends, come between 11am and 1pm.** Try not to turn up on a Saturday or Sunday between 1pm and 11pm; that's when the line stretches furthest down the pavement."
+    ]
+   },
+   {
+    "from": "866ad63a65e5",
+    "to": "07bcd9865bfa",
+    "at": "2026-11-14T18:43:29.585Z",
+    "removed": [
+     "It is among the most-reviewed kebab stands in Berlin, and reviewers have rated it well over a very large number of visits. That popularity shapes the whole visit. Don't come expecting a quiet discovery. Expect a well-organised queue of travellers, students and Kreuzbergers, all waiting to eat the same thing.",
+     "The schedule runs late into the night, and the kiosk is built for after-dark appetites. Monday to Wednesday it opens from 11am to 11:30pm. On Thursday and Sunday it stays open later into the evening."
+    ],
+    "added": [
+     "It is among the most-reviewed kebab stands in Berlin, and reviewers have rated it highly across a large number of visits. That popularity shapes the whole visit. Don't come expecting a quiet discovery. Expect a well-organised queue of travellers, students and Kreuzbergers, all waiting to eat the same thing.",
+     "The schedule runs late into the night, and the kiosk is built for after-dark appetites. Monday to Wednesday it opens from 11am to 11:30pm. Thursday and Sunday hours are posted at the kiosk itself, so check before you plan around them."
     ]
    }
   ]
@@ -3847,6 +4052,21 @@
     "added": [
      "[QUICK ANSWER] The National Museum of the Philippines – Bohol occupies the old Capitol building in Poblacion, Tagbilaran City, open daily 9am–6pm. It's a compact, well-curated stop covering Bohol's archaeology, ethnography and art — plan on an hour or so. Weekends are calmest 9am–10am and 1pm–3pm, so avoid the 3–5pm crush if you can.",
      "[FAQ 3] Q: When is the quietest time to visit? A: On weekends, 9am to 10am and 1pm to 3pm are the calmer windows based on typical visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest."
+    ]
+   }
+  ]
+ },
+ "bohol-punta-cruz-watchtower": {
+  "steps": [
+   {
+    "from": "5d78c24de2ca",
+    "to": "50bbb9c2b97f",
+    "at": "2026-11-14T18:43:29.586Z",
+    "removed": [
+     "The name comes from the cross that the townspeople, or *Punta Cruz*, raised on the point. Local tradition credits it with protecting the town from harm coming in off the sea."
+    ],
+    "added": [
+     "The name comes from the cross that the townspeople raised on the point, which they called *Punta Cruz*. Local tradition credits it with protecting the town from harm coming in off the sea."
     ]
    }
   ]
@@ -4262,6 +4482,32 @@
      "- **Pace:** walk every aisle once, then go back to the booths you liked.\n- **Programme:** talks and curated sections are usually held alongside the commercial booths. They appear on the fair map at the entrance.\n- **Weekend:** Saturday and Sunday bring families and students, so the aisles fill up more than on a weekday.\n- **Food:** the grounds have cafés. Bigger meals are a short walk away on Santa Fe and in Palermo Soho.",
      "Booths are run by gallerists, and they welcome questions. Opening with \"Hola, buenas\" before asking anything is basic courtesy in Buenos Aires."
     ]
+   },
+   {
+    "from": "a5a90b60c3ff",
+    "to": "b54f53b1c6b6",
+    "at": "2026-11-14T18:43:29.586Z",
+    "removed": [
+     "arteBA 2026 was set for October 30 to November 1, 2026. It is Argentina's leading contemporary art fair, and each edition fills La Rural, the exhibition grounds of the Sociedad Rural Argentina in Palermo, with gallery booths and the works collectors pick out each year."
+    ],
+    "added": [
+     "arteBA 2026 is set to take place across three days at La Rural in Buenos Aires. It is Argentina's leading contemporary art fair, and each edition fills La Rural, the exhibition grounds of the Sociedad Rural Argentina in Palermo, with gallery booths and the works collectors pick out each year."
+    ]
+   }
+  ]
+ },
+ "buenos-aires-creamfields-buenos-aires": {
+  "steps": [
+   {
+    "from": "88b778de1af3",
+    "to": "9d025445a3dd",
+    "at": "2026-11-14T18:43:29.587Z",
+    "removed": [
+     "Creamfields Buenos Aires takes place on Saturday, November 14, 2026. Mid-November is late spring in Argentina. The jacarandas along the city's avenues are usually in full purple bloom, the evenings are warm, and the sun sets close to 8pm. A long outdoor dance music day lands in that light."
+    ],
+    "added": [
+     "Creamfields Buenos Aires takes place on Saturday, November 14, 2026. Mid-November is late spring in Argentina. The jacarandas along the city's avenues are usually in full purple bloom and the evenings are warm. A long outdoor dance music day lands in that light."
+    ]
    }
   ]
  },
@@ -4362,6 +4608,21 @@
     ],
     "added": [
      "Afterwards you can walk east along Avenida de Mayo, Buenos Aires's most Parisian boulevard, lined with Belle Époque facades. You'll pass some of the avenue's historic cafés along the way. Keep going and you reach Plaza de Mayo and the Casa Rosada. Walking west instead brings you to the Congreso building. Doing both gives you a half-day loop on foot."
+    ]
+   }
+  ]
+ },
+ "buenos-aires-republica-folklore": {
+  "steps": [
+   {
+    "from": "f6dd02fd322b",
+    "to": "95d3d2f32670",
+    "at": "2026-11-14T18:43:29.588Z",
+    "removed": [
+     "The festival is held at Movistar Arena, on Humboldt street in Villa Crespo. It opened in 2019 as a purpose-built covered venue for concerts. It sits right beside the stadium of Club Atlético Atlanta, so the block is easy to spot from Avenida Corrientes."
+    ],
+    "added": [
+     "The festival is held at Movistar Arena, on Humboldt street in Villa Crespo. It sits right beside the stadium of Club Atlético Atlanta, so the block is easy to spot from Avenida Corrientes."
     ]
    }
   ]
@@ -4791,6 +5052,21 @@
    }
   ]
  },
+ "bursa-muradiye-complex": {
+  "steps": [
+   {
+    "from": "7925f09b88b5",
+    "to": "ab23c9ce1b26",
+    "at": "2026-11-14T18:43:29.589Z",
+    "removed": [
+     "- **Murad II's tomb.** It is the plainest building here, and he wanted it that way. The sultan asked for a simple grave open to the sky, so an opening in the dome lets rain fall straight onto it.\n- **Şehzade Mustafa's tomb.** This is the son of Süleyman the Magnificent, executed in 1553. His tomb is lined with İznik tiles in blues and turquoise.\n- **Cem Sultan's tomb.** Cem was Mehmed II's son, who spent years in exile in Europe. His walls are covered in painted decoration rather than tile.\n- **Şehzade Ahmed's tomb.** It is another tile-rich interior, and the contrast with Murad's bare dome is the point."
+    ],
+    "added": [
+     "- **Murad II's tomb.** It is the plainest building here. The sultan asked for a simple grave open to the sky, so an opening in the dome lets rain fall straight onto it.\n- **Şehzade Mustafa's tomb.** This is the son of Süleyman the Magnificent, executed in 1553. His tomb is lined with İznik tiles in blues and turquoise.\n- **Cem Sultan's tomb.** Cem was Mehmed II's son, who spent years in exile in Europe. His walls are covered in painted decoration rather than tile.\n- **Şehzade Ahmed's tomb.** It is another tile-rich interior, and the contrast with Murad's bare dome is the point."
+    ]
+   }
+  ]
+ },
  "bursa-tophane-clock-tower": {
   "steps": [
    {
@@ -5023,6 +5299,17 @@
     "added": [
      "Bangalow Heritage House Museum is where that backstory is kept. It's a modest stop on Ashton Street, a quiet side street just off the centre of town. It rewards curiosity rather than a checklist. Visitors who come here generally want to know how a place like this came to be.",
      "- **The village's name.** Bangalow was once known as Byron Creek. The current name is generally traced to an Aboriginal word for a local palm.\n- **Timber and dairy.** Red cedar first brought settlers into the hinterland. Dairying sustained the town for generations afterwards.\n- **Main-street life.** Byron Street's shopfront rows, built with deep verandahs, trace the town's main-street history."
+    ]
+   },
+   {
+    "from": "b02770c2fe1b",
+    "to": "3f40e06e7b7d",
+    "at": "2026-11-14T18:43:29.590Z",
+    "removed": [
+     "- **The village's name.** Bangalow was once known as Byron Creek. The current name is generally traced to an Aboriginal word for a local palm.\n- **Timber and dairy.** Red cedar first brought settlers into the hinterland. Dairying sustained the town for generations afterwards.\n- **Main-street life.** Byron Street's shopfront rows, built with deep verandahs, trace the town's main-street history."
+    ],
+    "added": [
+     "- **The village's name.** Bangalow was once known as Byron Creek. The current name is generally traced to an Aboriginal word for a local palm.\n- **Timber and dairy.** Red cedar first brought settlers into the hinterland. Dairying sustained the town for generations afterwards.\n- **Main-street life.** Byron Street's shopfront rows, built with deep verandahs, still define the town's main street."
     ]
    }
   ]
@@ -5486,6 +5773,17 @@
     ],
     "added": [
      "Weekday mornings between 7am and 8am are the quietest window, according to typical foot traffic, before office workers and dog walkers arrive. Weekend mornings in that same 7am–8am slot are similarly calm."
+    ]
+   },
+   {
+    "from": "a76a73bac040",
+    "to": "d7dcb7063f6f",
+    "at": "2026-11-14T18:43:29.590Z",
+    "removed": [
+     "Avoid weekend afternoons and evenings: the precinct gets busy from 9am through 9pm on Saturdays and Sundays, filling with joggers, cyclists and families out for the sea breeze. Since it's rated under-the-radar despite its 4.4-star average across nearly 800 reviews, arriving early still gets you a stretch of promenade largely to yourself, even on weekends."
+    ],
+    "added": [
+     "Avoid weekend afternoons and evenings: the precinct gets busy from 9am through 9pm on Saturdays and Sundays, filling with joggers, cyclists and families out for the sea breeze. Even so, arriving early still gets you a stretch of promenade largely to yourself, even on weekends."
     ]
    }
   ]
@@ -6069,6 +6367,21 @@
    }
   ]
  },
+ "chiayi-taiping-old-street": {
+  "steps": [
+   {
+    "from": "efa5236ceba0",
+    "to": "8a7b00f20498",
+    "at": "2026-11-14T18:43:29.591Z",
+    "removed": [
+     "The street is known locally as 太平老街 (Tàipíng Lǎojiē). Its character comes from buildings put up during the Japanese colonial period. You'll see low facades, timber and plaster details, and ground floors opening straight onto the lane. Today most of them sell food, tea and souvenirs."
+    ],
+    "added": [
+     "The street is known locally as Taiping Old Street. Its character comes from buildings put up during the Japanese colonial period. You'll see low facades, timber and plaster details, and ground floors opening straight onto the lane. Today most of them sell food, tea and souvenirs."
+    ]
+   }
+  ]
+ },
  "chiba-aobanomori-park": {
   "steps": [
    {
@@ -6080,6 +6393,17 @@
     ],
     "added": [
      "The forecast pattern here is straightforward: weekends from 9am to 6pm are when the park fills up, especially families with young children and groups doing the seasonal photo circuit under blossoming trees. If you're after a calmer walk, the quietest stretch on weekdays runs from 9pm to 11pm, and on weekends it narrows to 10pm to 11pm."
+    ]
+   },
+   {
+    "from": "61a7ecdbbc23",
+    "to": "db1c4b4f41d1",
+    "at": "2026-11-14T18:43:29.592Z",
+    "removed": [
+     "The Chiba City Kagaku-kan style natural history museum inside the park grounds is easy to miss if you're only there for the gardens, but it rounds out a visit nicely, especially with kids. Expect displays on local ecology, geology, and regional wildlife rather than a blockbuster dinosaur hall; it's a municipal museum scaled to match the park, not a competitor to Tokyo's big science centers."
+    ],
+    "added": [
+     "The natural history museum inside the park grounds is easy to miss if you're only there for the gardens, but it rounds out a visit nicely, especially with kids. Expect displays on local ecology, geology, and regional wildlife rather than a blockbuster dinosaur hall; it's a municipal museum scaled to match the park, not a competitor to Tokyo's big science centers."
     ]
    }
   ]
@@ -6156,6 +6480,17 @@
     "added": [
      "Driving works too: there's a parking lot on site, and street parking along Central Park Avenue is usually manageable outside weekend peak hours. The surrounding Garfield Park itself has 184 acres of parkland to wander through, including a fishing lagoon, athletic fields, tennis courts and an outdoor pool, worth a look if the weather's decent and you want to extend the visit."
     ]
+   },
+   {
+    "from": "0630dc5f3c92",
+    "to": "b5fc853ef41d",
+    "at": "2026-11-14T18:43:29.593Z",
+    "removed": [
+     "Driving works too: there's a parking lot on site, and street parking along Central Park Avenue is usually manageable outside weekend peak hours. The surrounding Garfield Park itself has 184 acres of parkland to wander through, including a fishing lagoon, athletic fields, tennis courts and an outdoor pool, worth a look if the weather's decent and you want to extend the visit."
+    ],
+    "added": [
+     "Driving works too: there's a parking lot on site, and street parking along Central Park Avenue is usually manageable outside weekend peak hours. The surrounding Garfield Park itself spans 184 acres to wander through, including a fishing lagoon, athletic fields, tennis courts and an outdoor pool, worth a look if the weather's decent and you want to extend the visit."
+    ]
    }
   ]
  },
@@ -6226,6 +6561,23 @@
    }
   ]
  },
+ "christchurch-all-whites-v-india-international-friendly": {
+  "steps": [
+   {
+    "from": "d56ec9bd3297",
+    "to": "8bcdc2175cec",
+    "at": "2026-11-14T18:43:29.593Z",
+    "removed": [
+     "Te Kaha is the replacement. It was built on cleared land in the rebuilt east of the central city and opened in 2026. A national-team football fixture here marks a new stage in the rebuild that has reshaped the streets around it. For local fans, a World Cup squad playing walking distance from Cathedral Square is new.",
+     "New Zealand football crowds are relaxed, family-heavy and loud at the right moments. Here is what fans usually do and expect on the day."
+    ],
+    "added": [
+     "Te Kaha is the replacement. It was built on cleared land in the rebuilt east of the central city, opening as part of that rebuild. A national-team football fixture here marks a new stage in the rebuild that has reshaped the streets around it. For local fans, a World Cup squad playing walking distance from Cathedral Square is new.",
+     "New Zealand football crowds are relaxed, family-heavy and loud at the right moments, with a few customs worth knowing before you go."
+    ]
+   }
+  ]
+ },
  "christchurch-barnett-park-cave": {
   "steps": [
    {
@@ -6237,6 +6589,21 @@
     ],
     "added": [
      "If you're driving, use the street parking near the park entrance and respect residents' driveways. These are quiet residential streets. From the park, the walk up to the cave is short, making for an easy round trip."
+    ]
+   }
+  ]
+ },
+ "christchurch-blackcaps-v-india-test-match": {
+  "steps": [
+   {
+    "from": "758217b629a9",
+    "to": "e876ebb600cf",
+    "at": "2026-11-14T18:43:29.594Z",
+    "removed": [
+     "- It staged the opening match of the 2015 Cricket World Cup.\n- Brendon McCullum hit the fastest century in Test history here, off 54 balls against Australia in 2016.\n- It hosted the final of the 2022 Women's Cricket World Cup.\n- New Zealand beat India here by seven wickets in 2020."
+    ],
+    "added": [
+     "- It staged the opening match of the 2015 Cricket World Cup.\n- Brendon McCullum hit the fastest century in Test history here, off 54 balls against Australia in 2016.\n- It hosted the final of the 2022 Women's Cricket World Cup.\n- New Zealand have also beaten India in a Test at this ground."
     ]
    }
   ]
@@ -6279,6 +6646,17 @@
     "added": [
      "Punting on the Avon leaves from the Antigua Boat Sheds on the southern edge of the gardens, where a guide in Edwardian dress poles you along under the willows. It's popular, so book ahead on a sunny weekend. Card payment is accepted at the café and boat sheds, as contactless is standard across New Zealand."
     ]
+   },
+   {
+    "from": "3d9e62fc8905",
+    "to": "cb53483717b3",
+    "at": "2026-11-14T18:43:29.595Z",
+    "removed": [
+     "Punting on the Avon leaves from the Antigua Boat Sheds on the southern edge of the gardens, where a guide in Edwardian dress poles you along under the willows. It's popular, so book ahead on a sunny weekend. Card payment is accepted at the café and boat sheds, as contactless is standard across New Zealand."
+    ],
+    "added": [
+     "Punting on the Avon leaves from the Antigua Boat Sheds on the southern edge of the gardens, where a guide in Edwardian dress poles you along under the willows. It's popular, so book ahead on a sunny weekend. Card payment is accepted at the café and boat sheds."
+    ]
    }
   ]
  },
@@ -6304,6 +6682,47 @@
     ],
     "added": [
      "Timing changes this ride more than almost anything else. The forecast quiet window is 5pm–6pm, on weekdays and weekends alike. Seats are easier to get then, and late light falls along Worcester Boulevard."
+    ]
+   },
+   {
+    "from": "0a9723cee39b",
+    "to": "71903caa44b8",
+    "at": "2026-11-14T18:43:29.596Z",
+    "removed": [
+     "The Worcester Street stop at number 109 is close to Cathedral Square, so it's an easy place to start if you're staying in the centre. Central Christchurch is flat and compact. Between the tram and your own feet, you won't need a car for this part of the city."
+    ],
+    "added": [
+     "The Worcester Street stop is close to Cathedral Square, so it's an easy place to start if you're staying in the centre. Central Christchurch is flat and compact. Between the tram and your own feet, you won't need a car for this part of the city."
+    ]
+   }
+  ]
+ },
+ "christchurch-riverside-market": {
+  "steps": [
+   {
+    "from": "294273a8396c",
+    "to": "e63504b791b3",
+    "at": "2026-11-14T18:43:29.597Z",
+    "removed": [
+     "- **Quietest:** 8am–10am, weekdays and weekends alike.\n- **Also quiet:** 8pm–9pm, but only on Thursday, Friday and Saturday, because it closes at 8pm on the other days.\n- **Avoid:** weekends from 11am to 7pm. Seats and counter space are hardest to find then."
+    ],
+    "added": [
+     "- **Quietest:** 8am–10am, weekdays and weekends alike.\n- **Also quiet:** 8pm–9pm on Thursday, Friday and Saturday, when the building stays open later.\n- **Avoid:** weekends from 11am to 7pm. Seats and counter space are hardest to find then."
+    ]
+   }
+  ]
+ },
+ "christchurch-robbie-williams-britpop-world-tour-christchurch": {
+  "steps": [
+   {
+    "from": "9bfd84e42ec0",
+    "to": "db4f51a01322",
+    "at": "2026-11-14T18:43:29.597Z",
+    "removed": [
+     "Late November is the end of spring here, and the evenings are long. The sun sets well after 8pm, so the walk in happens in daylight. A light jacket still earns its place for the walk home, because South Island nights cool fast."
+    ],
+    "added": [
+     "Late November is the end of spring here, and the evenings are long, so the walk in happens in daylight. A light jacket still earns its place for the walk home, because South Island nights cool fast."
     ]
    }
   ]
@@ -6336,6 +6755,17 @@
     ],
     "added": [
      "On the point is the Cape Merry Battery, a low stone gun emplacement built in the 1740s to cover the river entrance together with the fort. Cannon still sit in it. It's part of Prince of Wales Fort National Historic Site, run by Parks Canada."
+    ]
+   },
+   {
+    "from": "96d65a43c1b6",
+    "to": "8130eada8df6",
+    "at": "2026-11-14T18:43:29.598Z",
+    "removed": [
+     "Crowds are easy to plan around:\n- **Quietest on weekdays:** 8pm–9pm.\n- **Quietest on weekends:** 3pm–7pm.\n- **Avoid on weekends:** 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–11pm, when the point fills up."
+    ],
+    "added": [
+     "Crowds are easy to plan around:\n- **Quietest on weekdays:** 8pm–9pm.\n- **Quietest on weekends:** 3pm–7pm.\n- **Avoid on weekends:** 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–8pm, when the point fills up."
     ]
    }
   ]
@@ -6375,6 +6805,21 @@
     ],
     "added": [
      "- **Start early.** Catch the first trains and you'll have Vernazza's harbor or Manarola's viewpoint largely to yourself before the weekend surge arrives.\n- **Buy the park card at the station**, not from a reseller.\n- **Pay by card or contactless** where possible; small trattorias and trail-side stands may prefer cash for quick transactions.\n- **Wear real hiking shoes**, even for short trail sections. The paths are uneven stone and gravel, not paved promenades.\n- **Don't try to see all five villages in one rushed day.** Locals and rangers alike will tell you two or three villages, walked slowly, beats a checklist of five.\n- **Order the local specialty**, trofie al pesto or anchovies from Monterosso, rather than a generic tourist-menu pasta. It's what the coast is actually known for."
+    ]
+   }
+  ]
+ },
+ "cinque-terre-punta-mesco": {
+  "steps": [
+   {
+    "from": "c5acf7c23791",
+    "to": "2a366fbdf6eb",
+    "at": "2026-11-14T18:43:29.599Z",
+    "removed": [
+     "Punta Mesco gets far fewer people than the paths between the five villages. The steps put off a lot of day-trippers, which is the main reason. Here is how to make the most of it."
+    ],
+    "added": [
+     "Punta Mesco gets far fewer people than the paths between the five villages. The steps put off a lot of day-trippers, which is the main reason. Here is how to make the most of it:"
     ]
    }
   ]
@@ -7342,6 +7787,17 @@
     "added": [
      "Weekday mornings between 7am and 10am are the calmest time. That's your window for an empty shot of the drainpipe wall. On weekends, the courtyards get busier from midday onward, so aim to arrive before noon. Turn up at the 8am opening and the courtyards are still mostly yours."
     ]
+   },
+   {
+    "from": "0fc75f773f55",
+    "to": "5b80e61e2183",
+    "at": "2026-11-14T18:43:29.600Z",
+    "removed": [
+     "The Kunsthofpassage is one of Dresden's most visited sights, so don't expect a secret. You're sharing a small space with plenty of others, and it works best when everyone remembers someone lives upstairs."
+    ],
+    "added": [
+     "The Kunsthofpassage is one of Dresden's most visited sights, so don't expect to have it to yourself. You're sharing a small space with plenty of others, and it works best when everyone remembers someone lives upstairs."
+    ]
    }
   ]
  },
@@ -7499,6 +7955,21 @@
    }
   ]
  },
+ "dubai-emirates-dubai-7s-rugby-sevens": {
+  "steps": [
+   {
+    "from": "9e2012f653c1",
+    "to": "3ba5cdbe1e3a",
+    "at": "2026-11-14T18:43:29.600Z",
+    "removed": [
+     "The 2026 edition runs from November 27 to 29. It returns to The Sevens Stadium, a purpose-built rugby complex beside Al Ain Road (E66) on Dubai's inland desert fringe. Dubai has staged a sevens tournament since 1970, and the event moved to this site in 2008."
+    ],
+    "added": [
+     "The 2026 edition runs from November 27 to 29. It returns to The Sevens Stadium, a purpose-built rugby complex beside Al Ain Road (E66) on Dubai's inland desert fringe. Dubai has staged a sevens tournament for decades, and the event moved to this site in 2008."
+    ]
+   }
+  ]
+ },
  "dubai-etihad-museum": {
   "steps": [
    {
@@ -7573,6 +8044,32 @@
      "At Arabic-language pop shows at this venue, the front standing sections tend to fill first, both in ticket sales and on the night. Doors typically open well before the headline set, and support acts or a DJ warm-up are common at Coca-Cola Arena shows, so the listed door time is effectively the real start.",
      "Tickets are scanned at entry in printed or digital form. Arena security runs standard bag checks, so small bags move through faster, and the venue sets its own bag and camera policy. At shows like this, where the crowd comes to hear specific songs performed a specific way, the opening numbers are often among the most anticipated moments of the night."
     ]
+   },
+   {
+    "from": "1c1de5d74bd0",
+    "to": "1fd390531cb8",
+    "at": "2026-11-14T18:43:29.601Z",
+    "removed": [
+     "Nancy Ajram has spent more than two decades as one of the biggest names in Arabic pop, and a Dubai arena date is the kind of show that tends to become a citywide singalong. Her concert was set for October 24, 2026, at Coca-Cola Arena, the emirate's main indoor venue for arena-scale concerts."
+    ],
+    "added": [
+     "Nancy Ajram has spent more than two decades as one of the biggest names in Arabic pop, and a Dubai arena date is the kind of show that tends to become a citywide singalong. Her concert was held at Coca-Cola Arena, the emirate's main indoor venue for arena-scale concerts."
+    ]
+   }
+  ]
+ },
+ "dumaguete-dumaguete-runfest": {
+  "steps": [
+   {
+    "from": "c8c19946a7c2",
+    "to": "a33643d196ce",
+    "at": "2026-11-14T18:43:29.602Z",
+    "removed": [
+     "Race categories, distances, registration and the route are all handled by the event organiser. This guide doesn't list them because none of them were part of the facts we were given."
+    ],
+    "added": [
+     "Race categories, distances, registration and the route are all handled by the event organiser. This guide doesn't list them, since those details weren't confirmed for us."
+    ]
    }
   ]
  },
@@ -7621,6 +8118,21 @@
    }
   ]
  },
+ "dusseldorf-kaiserpfalz-kaiserswerth": {
+  "steps": [
+   {
+    "from": "2265c2adeb1f",
+    "to": "d7fbe64b2f15",
+    "at": "2026-11-14T18:43:29.602Z",
+    "removed": [
+     "There is no roof and no reconstructed hall. What you get is a broken shell: thick walls, stairways climbing into nothing, and window openings framing the river and the flat green meadows of the far bank. The editorial line sums it up well: castle remains, river views and countryside."
+    ],
+    "added": [
+     "There is no roof and no reconstructed hall. What you get is a broken shell: thick walls, stairways climbing into nothing, and window openings framing the river and the flat green meadows of the far bank. In short: castle remains, river views and countryside."
+    ]
+   }
+  ]
+ },
  "dusseldorf-museum-kunstpalast": {
   "steps": [
    {
@@ -7632,6 +8144,32 @@
     ],
     "added": [
      "Typical foot traffic shows that 6pm–7pm is the quietest weekday window. Thursday is the only weekday when the building is actually open then. Arrive around 5pm, see a temporary show while the daytime visitors leave, then have the permanent galleries mostly to yourself after six."
+    ]
+   },
+   {
+    "from": "3161f48b6e9f",
+    "to": "e6c2bcbd17d9",
+    "at": "2026-11-14T18:43:29.603Z",
+    "removed": [
+     "The collection covers a lot of ground. It goes from Old Masters to postwar experiments, with decorative arts in between. The collection was fully rehung and reopened in 2023, mixing periods and media rather than marching through them in strict order."
+    ],
+    "added": [
+     "The collection covers a lot of ground. It goes from Old Masters to postwar experiments, with decorative arts in between. The galleries mix periods and media rather than marching through them in strict order."
+    ]
+   }
+  ]
+ },
+ "edinburgh-2026-scottish-open-snooker": {
+  "steps": [
+   {
+    "from": "11ff1ff9edc1",
+    "to": "3c53f3bd72e2",
+    "at": "2026-11-14T18:43:29.605Z",
+    "removed": [
+     "Meadowbank Sports Centre sits on London Road, in the Meadowbank district east of the Old Town. The centre is new, built on the site of the old Meadowbank Stadium. Lothian Buses run along London Road from Leith Street and the east end of Princes Street. From Edinburgh Waverley station, the bus is the simplest link."
+    ],
+    "added": [
+     "Meadowbank Sports Centre sits on London Road, in the Meadowbank district east of the Old Town. The centre stands on the site of the former Meadowbank Stadium. Lothian Buses run along London Road from Leith Street and the east end of Princes Street. From Edinburgh Waverley station, the bus is the simplest link."
     ]
    }
   ]
@@ -7677,6 +8215,17 @@
     ],
     "added": [
      "Weekend afternoons are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
+    ]
+   },
+   {
+    "from": "646124ece05d",
+    "to": "19e2b3ee8085",
+    "at": "2026-11-14T18:43:29.606Z",
+    "removed": [
+     "Weekend afternoons are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
+    ],
+    "added": [
+     "Weekend evenings are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
     ]
    }
   ]
@@ -7824,6 +8373,19 @@
      "At the traditional taverns you often sit at long shared wooden tables, and nobody minds strangers squeezing in. The regional dishes to look for:",
      "Tipping is done by rounding up when you pay, not by leaving coins on the table. You tell the server the total you want to pay as you hand over the money. Sachsenhausen is usually a walk from the city centre over the Eiserner Steg footbridge."
     ]
+   },
+   {
+    "from": "0dfbba5ba43a",
+    "to": "1109c3e7b0e2",
+    "at": "2026-11-14T18:43:29.606Z",
+    "removed": [
+     "That finish is the reason many international runners pick this race. Frankfurt is Germany's longest-established city marathon and its second-largest by finishers. The 2026 edition was set for **October 25, 2026**. The race draws over 20,000 participants from around the world.",
+     "The 2026 date had a quirk. October 25, 2026 is the last Sunday of October. That is the night Central Europe switches from summer time back to standard time. At 3am, clocks go back to 2am."
+    ],
+    "added": [
+     "That finish is the reason many international runners pick this race. Frankfurt is Germany's longest-established city marathon and its second-largest by finishers. The 2026 edition is set for **October 25, 2026**. The race draws over 20,000 participants from around the world.",
+     "The 2026 date has a quirk. October 25, 2026 is the last Sunday of October. That is the night Central Europe switches from summer time back to standard time. At 3am, clocks go back to 2am."
+    ]
    }
   ]
  },
@@ -7889,6 +8451,32 @@
     "added": [
      "Weekends follow a clear pattern. From 12pm to 8pm the paths fill and the benches by the water get taken. Our weekend data marks 7am–9am and 10pm–11pm as the quiet spans overall, so the early morning, 7am–9am, is your best chance for a calm visit."
     ]
+   },
+   {
+    "from": "118bab86d1e0",
+    "to": "e74c28ebfcb6",
+    "at": "2026-11-14T18:43:29.607Z",
+    "removed": [
+     "Weekends follow a clear pattern. From 12pm to 8pm the paths fill and the benches by the water get taken. Our weekend data marks 7am–9am and 10pm–11pm as the quiet spans overall, so the early morning, 7am–9am, is your best chance for a calm visit."
+    ],
+    "added": [
+     "Weekends follow a clear pattern. From 12pm to 8pm the paths fill and the benches by the water get taken. The early morning, 7am–9am, is the quiet window before the crowds arrive, so that's your best chance for a calm visit."
+    ]
+   }
+  ]
+ },
+ "frankfurt-frankfurt-christmas-market-weihnachtsmarkt": {
+  "steps": [
+   {
+    "from": "9248c3fc7395",
+    "to": "dcabd44c147a",
+    "at": "2026-11-14T18:43:29.607Z",
+    "removed": [
+     "Römerberg is the densest part of the market. Many visitors treat it as the finale and start out at the quieter edges."
+    ],
+    "added": [
+     "Römerberg is the densest part of the market. Many visitors start at the quieter edges and treat it as the finale."
+    ]
    }
   ]
  },
@@ -7920,6 +8508,21 @@
    }
   ]
  },
+ "frankfurt-nct-127-wayv-tour": {
+  "steps": [
+   {
+    "from": "36016df840c6",
+    "to": "bec3882a7abb",
+    "at": "2026-11-14T18:43:29.608Z",
+    "removed": [
+     "NCT 127 and WayV are both units of NCT, the large boy group created by SM Entertainment. NCT 127 is the Seoul-based unit, named for the longitude of the city. WayV is the Chinese-language unit, which performs mostly in Mandarin."
+    ],
+    "added": [
+     "NCT 127 and WayV are both units of NCT, the large boy group created by SM Entertainment. NCT 127 is the Seoul-based unit, whose name references the city's line of longitude. WayV is the Chinese-language unit, which performs mostly in Mandarin."
+    ]
+   }
+  ]
+ },
  "frankfurt-palmengarten-frankfurt": {
   "steps": [
    {
@@ -7935,6 +8538,21 @@
    }
   ]
  },
+ "frankfurt-romerberg": {
+  "steps": [
+   {
+    "from": "c9b55ea8e72b",
+    "to": "583376a58eae",
+    "at": "2026-11-14T18:43:29.608Z",
+    "removed": [
+     "Sachsenhausen is where Frankfurt drinks **Apfelwein**, the local cider, poured from a grey stoneware jug called a Bembel. Order **Grüne Soße**, a cold sauce of seven herbs served with eggs and potatoes, or **Handkäs mit Musik**, sour-milk cheese marinated with onions. That makes Römerberg the first stop of an evening rather than the whole of it."
+    ],
+    "added": [
+     "Sachsenhausen is where Frankfurt drinks **Apfelwein**, the local cider, poured from a grey stoneware jug called a Bembel, alongside traditional regional cooking at the taverns nearby. That makes Römerberg the first stop of an evening rather than the whole of it."
+    ]
+   }
+  ]
+ },
  "frankfurt-senckenberg-nature-museum": {
   "steps": [
    {
@@ -7946,6 +8564,17 @@
     ],
     "added": [
      "On weekdays, the typical foot traffic is quiet from 9am to 6pm. In practice that means the whole day the doors are open. Monday, Tuesday, Thursday and Friday run 9am–5pm. Wednesday stays open until 8pm, which suits an evening visit after work or after a day at the Messe."
+    ]
+   },
+   {
+    "from": "8d9fe36ec15c",
+    "to": "99c8ef9082a4",
+    "at": "2026-11-14T18:43:29.609Z",
+    "removed": [
+     "On weekdays, the typical foot traffic is quiet from 9am to 6pm. In practice that means the whole day the doors are open. Monday, Tuesday, Thursday and Friday run 9am–5pm. Wednesday stays open until 8pm, which suits an evening visit after work or after a day at the Messe."
+    ],
+    "added": [
+     "On weekdays, the typical foot traffic is light throughout the day. In practice that means the whole day the doors are open. Monday, Tuesday, Thursday and Friday run 9am–5pm. Wednesday stays open until 8pm, which suits an evening visit after work or after a day at the Messe."
     ]
    }
   ]
@@ -7991,6 +8620,21 @@
    }
   ]
  },
+ "franz-josef-westland-tai-poutini-national-park": {
+  "steps": [
+   {
+    "from": "523ced6ff8aa",
+    "to": "e8e2572ec3f5",
+    "at": "2026-11-14T18:43:29.610Z",
+    "removed": [
+     "The park dates from 1960. It forms part of Te Wāhipounamu, the South West New Zealand World Heritage Area. Both glaciers have retreated a long way, so viewpoints now sit well back from the ice. Hearing ice fall from that distance is normal."
+    ],
+    "added": [
+     "The park has existed for decades. It forms part of Te Wāhipounamu, the South West New Zealand World Heritage Area. Both glaciers have retreated a long way, so viewpoints now sit well back from the ice. Hearing ice fall from that distance is normal."
+    ]
+   }
+  ]
+ },
  "fremantle-fremantle-prison": {
   "steps": [
    {
@@ -8002,6 +8646,17 @@
     ],
     "added": [
      "The typical foot-traffic is clear on this. Weekends are busiest between 11am and 4pm, when families and day-trippers from Perth fill the popular tour slots. Try not to turn up in that window without a booking, or you may wait a long time for a place."
+    ]
+   },
+   {
+    "from": "bc9d1bebeacd",
+    "to": "9c8be324fda0",
+    "at": "2026-11-14T18:43:29.610Z",
+    "removed": [
+     "Weekdays are quiet from 9am to 5pm. Weekends are calmer from 9am to 5pm too, outside that 11am to 4pm peak. Opening hours and tour times change with the season, so check the official site before you go."
+    ],
+    "added": [
+     "Weekdays are generally quiet. Weekends are calmer from 9am to 5pm too, outside that 11am to 4pm peak. Opening hours and tour times change with the season, so check the official site before you go."
     ]
    }
   ]
@@ -8032,6 +8687,32 @@
     ],
     "added": [
      "On timing, it's a matter of reasoning, not a crowd forecast. Weekday evenings after office hours and weekends bring the most people, since Tenjin is a commuter hub. An earlier visit, while it's still light, gives you shorter stall lines. Coming after dark gives you the illuminations at full effect, so many people arrive at dusk and get both."
+    ]
+   },
+   {
+    "from": "8e823275de28",
+    "to": "c964f7545450",
+    "at": "2026-11-14T18:43:29.611Z",
+    "removed": [
+     "Fukuoka's winter season is long. Christmas Advent runs from November 7 to December 25, 2026. It is often called Japan's most visited winter event, and it doesn't stay in one park: it stretches across the city from Hakata Station to Tenjin."
+    ],
+    "added": [
+     "Fukuoka's winter season is long. Christmas Advent runs from November 7 to December 25, 2026, and it doesn't stay in one park: it stretches across the city from Hakata Station to Tenjin."
+    ]
+   }
+  ]
+ },
+ "fukuoka-fukuoka-international-marathon": {
+  "steps": [
+   {
+    "from": "a16d6a4ae0f8",
+    "to": "d010e7be30bf",
+    "at": "2026-11-14T18:43:29.611Z",
+    "removed": [
+     "- Cheer \"ganbare!\" (keep going) for every runner, Japanese or not, and keep clapping long after the leaders pass.\n- Keep their voices down near the start and save the noise for the finish.\n- Take their rubbish home, because Fukuoka streets have very few public bins.\n- Eat afterwards at the yatai food stalls in Nakasu and Tenjin, which open in the evening."
+    ],
+    "added": [
+     "- Cheer \"ganbare!\" (keep going) for every runner, Japanese or not, and keep clapping long after the leaders pass.\n- Keep their voices down near the start and save the noise for the finish.\n- Take their rubbish home, because Fukuoka streets have very few public bins.\n- Visit the yatai food stalls in Nakasu and Tenjin, which open in the evening."
     ]
    }
   ]
@@ -8100,6 +8781,25 @@
    }
   ]
  },
+ "fukuoka-tanga-market": {
+  "steps": [
+   {
+    "from": "2aa73ca569a3",
+    "to": "88c614d5de0b",
+    "at": "2026-11-14T18:43:29.612Z",
+    "removed": [
+     "Kitakyushu doesn't get the tourist traffic that Fukuoka City or Hakata does, and that's precisely what makes Tanga Market feel different from the polished food halls you might already know. This is a working arcade (a long, low-roofed corridor of more than a hundred stalls that has supplied the city's kitchens for decades, nicknamed locally as \"Kitakyushu's kitchen.\" The corrugated awnings, the hand-painted signboards, the styrofoam crates stacked waist-high with ice and fish scales) none of it has been redesigned for Instagram.",
+     "Tanga Market sits in Kokurakita Ward, Kitakyushu, about a 10–15 minute walk from JR Kokura Station (the same station served by the Sanyo/Kyushu Shinkansen line, which makes it an easy stop if you're moving between Fukuoka City (Hakata), and Shimonoseki or Honshu. From Kokura Station's south side, head toward the Murasaki River and follow signs for the covered shopping streets; Tanga is one of several arcades that knit together in this part of downtown Kokura, so it's worth glancing at a map before you set off, since the entrances aren't dramatic) you can walk past one without realizing it.",
+     "Come hungry and skip breakfast (the move here is to graze, not to sit down for one big meal. Most stalls deal in cash, and small bills help since you're often buying single portions or small bags of produce; card acceptance is inconsistent at the smaller vendors, so don't count on it. There's no ticketing or queueing system for the market itself, though popular food counters can form short lines around midday) that's your cue to circle back to a quieter stall and return later."
+    ],
+    "added": [
+     "Kitakyushu doesn't get the tourist traffic that Fukuoka City or Hakata does, and that's precisely what makes Tanga Market feel different from the polished food halls you might already know. This is a working arcade—a long, low-roofed corridor of more than a hundred stalls that has supplied the city's kitchens for decades, nicknamed locally as \"Kitakyushu's kitchen.\" The corrugated awnings, the hand-painted signboards, the styrofoam crates stacked waist-high with ice and fish scales—none of it has been redesigned for Instagram.",
+     "Tanga Market sits in Kokurakita Ward, Kitakyushu, about a 10–15 minute walk from JR Kokura Station—the same station served by the Sanyo/Kyushu Shinkansen line, which makes it an easy stop if you're moving between Fukuoka City (Hakata), and Shimonoseki or Honshu. From Kokura Station's south side, head toward the Murasaki River and follow signs for the covered shopping streets; Tanga is one of several arcades that knit together in this part of downtown Kokura, so it's worth glancing at a map before you set off, since the entrances aren't dramatic—you can walk past one without realizing it.",
+     "Come hungry and skip breakfast—the move here is to graze, not to sit down for one big meal. Most stalls deal in cash, and small bills help since you're often buying single portions or small bags of produce; card acceptance is inconsistent at the smaller vendors, so don't count on it. There's no ticketing or queueing system for the market itself, though popular food counters can form short lines around midday—that's your cue to circle back to a quieter stall and return later."
+    ]
+   }
+  ]
+ },
  "funabashi-boynextdoor-japan-concert": {
   "steps": [
    {
@@ -8149,6 +8849,32 @@
     "added": [
      "The gallery rooms run one after another, and visitors take them in roughly the same order. If a room is crowded, keep going and loop back. Space tends to open up once a group has moved on. Here are a few practical things to know:"
     ]
+   },
+   {
+    "from": "6dbce50b769b",
+    "to": "ca457b2bf501",
+    "at": "2026-11-14T18:43:29.612Z",
+    "removed": [
+     "Stand in the inner courtyard and count the oriel windows. Several of them are flat paint. Around 1500, the Prince-Bishops of Augsburg had the walls of their summer residence covered in illusionist architecture: painted window frames, bays and corner details that look carved until you get close. Your eye keeps getting caught out, and that is the point."
+    ],
+    "added": [
+     "Stand in the inner courtyard and count the oriel windows. Several of them are flat paint. Around 1500, the Prince-Bishop of Augsburg had the walls of his summer residence covered in illusionist architecture: painted window frames, bays and corner details that look carved until you get close. Your eye keeps getting caught out, and that is the point."
+    ]
+   }
+  ]
+ },
+ "gangneung-ojukheon": {
+  "steps": [
+   {
+    "from": "fe8be932aebc",
+    "to": "c1babfd2dffd",
+    "at": "2026-11-14T18:43:29.613Z",
+    "removed": [
+     "Because it's a well-known, heavily visited landmark, midday on weekends and holidays brings tour buses and school groups. Arrive right at 9am or after 3pm for a calmer walk through the grounds."
+    ],
+    "added": [
+     "Because it's a well-known, heavily visited landmark, midday on weekends and holidays brings tour buses and school groups. Visit outside those peak midday hours for a calmer walk through the grounds."
+    ]
    }
   ]
  },
@@ -8164,6 +8890,17 @@
     "added": [
      "[FAQ 2] Q: When is the quietest time to visit? A: Weekdays are calm across the full 10am–7pm opening window. On weekends, avoid arriving between 12pm and 6pm, the busiest stretch in the forecast; go right at 10am opening or after 6pm instead."
     ]
+   },
+   {
+    "from": "b5ac9344d677",
+    "to": "d02eae91743e",
+    "at": "2026-11-14T18:43:38.241Z",
+    "removed": [
+     "Opening hours are the same every day of the week, 10am to 7pm, with last entry usually an hour before close, so this isn't a place with an early-morning or late-evening slot to exploit. Weekdays run quieter throughout the full 10am–7pm window. Weekends are a different story: 12pm to 6pm is consistently the busiest stretch, with school groups and cruise-ship passengers stacking up at the ticket counter and submarine entrance."
+    ],
+    "added": [
+     "Opening hours are the same every day of the week, 10am to 7pm, so this isn't a place with an early-morning or late-evening slot to exploit. Weekdays run quieter throughout the full 10am–7pm window. Weekends are a different story: 12pm to 6pm is consistently the busiest stretch, with school groups and cruise-ship passengers stacking up at the ticket counter and submarine entrance."
+    ]
    }
   ]
  },
@@ -8178,6 +8915,17 @@
     ],
     "added": [
      "The streets around the gate are a neighbourhood where people live, not a museum set. Here is how to blend in:"
+    ]
+   },
+   {
+    "from": "7ea5207e597c",
+    "to": "2b3dc59d2102",
+    "at": "2026-11-14T18:44:04.982Z",
+    "removed": [
+     "The timing is unusual, and it matters. The gate's listed hours are **Sunday and Monday, 9am to 5pm**. It is listed as **closed Tuesday through Saturday**. Plan your visit for one of those two days and get there well before 5pm, so you have enough light and time to explore."
+    ],
+    "added": [
+     "The timing is unusual, and it matters. The gate's listed hours are **Sunday and Monday, 9am to 5pm**, with it closed the rest of the week. Plan your visit for one of those two days and get there well before 5pm, so you have enough light and time to explore."
     ]
    }
   ]

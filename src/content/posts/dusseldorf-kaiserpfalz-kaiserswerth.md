@@ -87,12 +87,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-05'
 ---
-
 ## Black stone at the water's edge
 
 Kaiserpfalz Kaiserswerth is a wall before it is anything else. Dark basalt columns are laid sideways in the masonry, so their hexagonal ends face you like a honeycomb of stone. The walls run right down to the Rhine embankment. Cargo barges slide past close enough to read their names.
 
-There is no roof and no reconstructed hall. What you get is a broken shell: thick walls, stairways climbing into nothing, and window openings framing the river and the flat green meadows of the far bank. The editorial line sums it up well: castle remains, river views and countryside.
+There is no roof and no reconstructed hall. What you get is a broken shell: thick walls, stairways climbing into nothing, and window openings framing the river and the flat green meadows of the far bank. In short: castle remains, river views and countryside.
 
 ## Nine centuries in one ruin
 

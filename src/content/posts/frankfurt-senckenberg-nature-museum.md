@@ -97,7 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-04'
 ---
-
 ## Skeletons under a stone roof
 
 A sauropod's neck stretches across the hall where you walk in. The building is a neo-baroque sandstone block that opened in 1907. It was built for the Senckenberg Nature Research Society, which has run natural history research in Frankfurt since 1817. That research history shows in the floors above: drawers, dioramas and labelled specimens stacked into tall glass cases.
@@ -118,7 +117,7 @@ Two to three hours covers the highlights. With children who stop at every drawer
 
 ## Timing your visit around the crowds
 
-On weekdays, the typical foot traffic is quiet from 9am to 6pm. In practice that means the whole day the doors are open. Monday, Tuesday, Thursday and Friday run 9am–5pm. Wednesday stays open until 8pm, which suits an evening visit after work or after a day at the Messe.
+On weekdays, the typical foot traffic is light throughout the day. In practice that means the whole day the doors are open. Monday, Tuesday, Thursday and Friday run 9am–5pm. Wednesday stays open until 8pm, which suits an evening visit after work or after a day at the Messe.
 
 Weekends are different. Saturday and Sunday it opens 9am–6pm, and only the first hour, 9am–10am, is calm. Try not to arrive between 11am and 5pm, when families fill the dinosaur hall and the cloakroom queue backs up. If a weekend is your only option, come at opening and see the dinosaurs first, before the rest of the visitors arrive.
 

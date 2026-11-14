@@ -87,7 +87,7 @@ Arrive with time to spare. Official merchandise queues at stadium shows often st
 
 ## The December 5 holiday and the night off
 
-The schedule has a gap. Shows run December 3, then skip the 4th, then return on the 5th and 6th. The second show also falls on 5 December, a Thai national holiday. It marks the birthday of the late King Bhumibol and is also National Father's Day.
+The schedule includes a night off partway through the run. The second show also falls on 5 December, a Thai national holiday. It marks the birthday of the late King Bhumibol and is also National Father's Day.
 
 The holiday helps and hurts at the same time. Many Bangkok residents have the day off, so the city empties a little and daytime traffic is lighter than on a normal Saturday. Government buildings close, though, and public areas near the Grand Palace and Sanam Luang may host ceremonies. You may also see yellow flags and portraits of the late king around the city. Be respectful near them, in the same way locals are.
 

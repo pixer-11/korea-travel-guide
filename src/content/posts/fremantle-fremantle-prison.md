@@ -87,7 +87,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-29'
 ---
-
 ## A jail built from the hill it stands on
 
 Look up from Fremantle's streets and you'll see a long pale wall. Convicts shipped from Britain built the prison in the 1850s. They used limestone quarried on the site, so the building is made of the ground underneath it. It stayed a working maximum-security jail until 1991, which is recent enough that the cells still feel lived in.
@@ -109,7 +108,7 @@ Look at the cells as you pass. They get bigger as you move through the decades o
 
 The typical foot-traffic is clear on this. Weekends are busiest between 11am and 4pm, when families and day-trippers from Perth fill the popular tour slots. Try not to turn up in that window without a booking, or you may wait a long time for a place.
 
-Weekdays are quiet from 9am to 5pm. Weekends are calmer from 9am to 5pm too, outside that 11am to 4pm peak. Opening hours and tour times change with the season, so check the official site before you go.
+Weekdays are generally quiet. Weekends are calmer from 9am to 5pm too, outside that 11am to 4pm peak. Opening hours and tour times change with the season, so check the official site before you go.
 
 ## Booking a slot and staying with your guide
 

@@ -94,14 +94,13 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-14'
 ---
-
 ## Red brick, iron and glass on East Bridge Street
 
 From the street, the market is a long run of red brick and sandstone with tall arched entrances. Inside, the roof is iron and glass, and daylight falls on rows of stalls under one big shed. St George's was built in phases between 1890 and 1896. It is the last Victorian covered market still standing in Belfast.
 
 It's no secret. This is one of the most-reviewed places in Northern Ireland and it's consistently well rated. Go expecting a busy, working market with a lot of noise and good food, not somewhere quiet. Locals do their weekly shop here and visitors come to graze. Both crowds share the same narrow aisles.
 
-The building came close to being lost. By the late twentieth century it was run down, and a restoration finished in 1999 brought it back into use. Thanks to that work, the hall still runs as a market today rather than standing as a monument you photograph from outside.
+The building came close to being lost. By the late twentieth century it was run down, and restoration work brought it back into use. Thanks to that work, the hall still runs as a market today rather than standing as a monument you photograph from outside.
 
 ## Three days, three different markets
 

@@ -41,10 +41,9 @@ heroImage:
     top: 32
     bottom: 40
 ---
-
 ## Three days on Al Ain Road
 
-The 2026 edition runs from November 27 to 29. It returns to The Sevens Stadium, a purpose-built rugby complex beside Al Ain Road (E66) on Dubai's inland desert fringe. Dubai has staged a sevens tournament since 1970, and the event moved to this site in 2008.
+The 2026 edition runs from November 27 to 29. It returns to The Sevens Stadium, a purpose-built rugby complex beside Al Ain Road (E66) on Dubai's inland desert fringe. Dubai has staged a sevens tournament for decades, and the event moved to this site in 2008.
 
 The main stadium carries the international matches. Dubai has traditionally hosted a round of the World Rugby Sevens Series. Across the surrounding grass pitches, club, school and invitational teams play their own tournaments at the same time. You can drift between elite rugby and amateur matches within a few minutes' walk.
 

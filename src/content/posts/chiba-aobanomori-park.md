@@ -80,7 +80,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Aobanomori Park sits in Chuo Ward, a short ride from central Chiba, and it does something a lot of city parks attempt but few pull off: it holds two completely different garden traditions side by side without either one feeling like an afterthought.
 
 Walk in from one direction and you're in clipped lawns, a rose garden laid out in geometric beds, and flowerbeds that rotate with the season. Walk in from the other and you're on gravel paths curling around a pond, pruned pines, and stone lanterns. The park was designed this way deliberately, split roughly into a Western-style half and a Japanese-style half, so the contrast is the point rather than an accident of expansion over the decades.
@@ -93,7 +92,7 @@ If you want the blossoms without the crowds, aim for a weekday morning rather th
 
 ## Aobanomori Park Natural History Museum
 
-The Chiba City Kagaku-kan style natural history museum inside the park grounds is easy to miss if you're only there for the gardens, but it rounds out a visit nicely, especially with kids. Expect displays on local ecology, geology, and regional wildlife rather than a blockbuster dinosaur hall; it's a municipal museum scaled to match the park, not a competitor to Tokyo's big science centers.
+The natural history museum inside the park grounds is easy to miss if you're only there for the gardens, but it rounds out a visit nicely, especially with kids. Expect displays on local ecology, geology, and regional wildlife rather than a blockbuster dinosaur hall; it's a municipal museum scaled to match the park, not a competitor to Tokyo's big science centers.
 
 Budget thirty to forty-five minutes if you're combining it with a garden walk, longer if you're there specifically for the exhibits. Hours and any admission fee run separately from the park itself, so check current museum opening times before you go; the park's grounds are open continuously, but the museum is not.
 

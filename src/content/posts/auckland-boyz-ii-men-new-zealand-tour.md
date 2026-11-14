@@ -45,7 +45,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Four nights of Philly harmony
 
 Four New Zealand dates. That is the shape of the Boyz II Men New Zealand Tour, which takes place in December 2026, with Auckland as the country's biggest stop.
@@ -67,7 +66,7 @@ No setlist for these dates appears here, so treat this as the songs the group is
 
 ## Auckland in December
 
-December is early summer in Auckland. Sunset falls around 8:30pm, so on concert nights it is often still light as people head in to the venue. Weather turns quickly on the isthmus, and a light layer usually covers both a warm afternoon and a breezy walk back after the show.
+December is early summer in Auckland, with long evening daylight, so on concert nights it is often still light as people head in to the venue. Weather turns quickly on the isthmus, and a light layer usually covers both a warm afternoon and a breezy walk back after the show.
 
 The month is also peak season. Christmas parties, cruise ships at the downtown wharves and the start of the summer school holidays all compete for hotel rooms. Visitors from elsewhere in New Zealand usually stay in the CBD, Parnell or Ponsonby. All three are close to the city's main transport hub at Britomart.
 

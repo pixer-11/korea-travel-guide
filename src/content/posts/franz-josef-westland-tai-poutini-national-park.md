@@ -69,12 +69,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Ice above rainforest
 
 The glaciers end in rainforest, close to sea level. Franz Josef Glacier (Kā Roimata o Hine Hukatere) and Fox Glacier (Te Moeka o Tuawe) come down from the Southern Alps toward the Tasman Sea. On the way in you walk through rimu, kāmahi and tree ferns before the valleys open onto grey moraine.
 
-The park dates from 1960. It forms part of Te Wāhipounamu, the South West New Zealand World Heritage Area. Both glaciers have retreated a long way, so viewpoints now sit well back from the ice. Hearing ice fall from that distance is normal.
+The park has existed for decades. It forms part of Te Wāhipounamu, the South West New Zealand World Heritage Area. Both glaciers have retreated a long way, so viewpoints now sit well back from the ice. Hearing ice fall from that distance is normal.
 
 ## The walks worth your boots
 

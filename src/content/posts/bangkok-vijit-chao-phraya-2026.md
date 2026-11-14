@@ -79,7 +79,7 @@ The Chao Phraya Tourist Boat, marked with a blue flag, is the simpler hop-on opt
 Most people watching from land never pay for a seat. In earlier editions, the public riverbanks were open to anyone, and families spread out along the promenades. Good vantage points include:
 
 - **Santichaiprakan Park**, beside the white Phra Sumen Fort in Banglamphu, faces Rama VIII Bridge head-on. Locals sit on the lawn and on the river wall.
-- **Tha Tien's riverside bars and rooftops** look straight across at Wat Arun. They fill fast on festival nights, and regulars book tables days in advance.
+- **Tha Tien's riverside bars and rooftops** look straight across at Wat Arun. They fill fast on festival nights, so booking a table ahead is worth it.
 - **Lhong 1919** and the Khlong San waterfront give a Thonburi-side view back towards the old city.
 
 On the express boats, a conductor walks the deck rattling a metal tube of coins and tickets. Passengers pay in cash, ideally with small notes. The seats at the back are set aside for monks, and Thai passengers leave them empty.

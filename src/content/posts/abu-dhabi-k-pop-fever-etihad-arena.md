@@ -38,7 +38,7 @@ heroImage:
 ---
 ## A tribute show on the Yas Bay waterfront
 
-This was a cover show, and that was the whole point. K-POP Fever was planned as a night of BTS, BLACKPINK and KATSEYE songs performed by a troupe of professional singers and dancers on the Etihad Arena stage. The date announced for Abu Dhabi was September 26, 2026.
+This was a cover show, and that was the whole point. K-POP Fever was planned as a night of BTS, BLACKPINK and KATSEYE songs performed by a troupe of professional singers and dancers on the Etihad Arena stage. A date was announced for the Abu Dhabi show.
 
 The appeal was simple. The billing offered the hooks, the synchronised formations and the singalong choruses of three of K-pop's best-known names, in a full-size arena, without waiting for a world tour to reach the Gulf. Organisers pitched it as a large-scale party built around songs K-pop fans already know by heart.
 

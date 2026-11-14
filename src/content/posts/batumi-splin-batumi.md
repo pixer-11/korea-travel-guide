@@ -40,12 +40,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## One November night on the Black Sea
 
 Splin plays Circus Arena in Batumi on November 30, 2026. By then the summer crowds have left the Black Sea coast. The boulevard is quiet, the beach cafés have mostly shut for the season, and the city belongs to the people who live there.
 
-On a night like this, a rock concert is one of the bigger things happening in town. The audience is mostly Russian-speaking. That includes Georgians who grew up with the band's records, people who have moved to Batumi in recent years, and fans who come in from Tbilisi and further away.
+On a night like this, a rock concert is one of the bigger things happening in town. The audience is a mix of languages and backgrounds. That includes Georgians who grew up with the band's records, people who have moved to Batumi in recent years, and fans who come in from Tbilisi and further away.
 
 ## The band on stage
 

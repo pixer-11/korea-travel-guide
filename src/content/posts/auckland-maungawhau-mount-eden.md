@@ -59,7 +59,7 @@ Halfway up the path, the suburb drops away below you. Villa roofs, Mount Eden Ro
 
 ## A crater you look into, never walk into
 
-Maungawhau is the highest natural point on the Auckland isthmus. It rises to roughly 196 metres, and you climb it on foot from a residential street. It formed in an eruption around 28,000 years ago. The name means "mountain of the whau tree".
+Maungawhau is the highest natural point on the Auckland isthmus. It rises to roughly 196 metres, and you climb it on foot from a residential street. It formed in a volcanic eruption thousands of years ago. The name means "mountain of the whau tree".
 
 The summit crater is the thing people come for. It's about 50 metres deep, a smooth grassy cone known as Te Ipu-a-Mataaho, the bowl of Mataaho. Mataaho is the guardian of the secrets hidden in the earth. The crater is tapu, or sacred, so you look down into it from the rim and stay out of it.
 

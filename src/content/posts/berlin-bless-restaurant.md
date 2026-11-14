@@ -100,12 +100,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-02'
 ---
-
 ## A late kitchen on an old square
 
 Hausvogteiplatz is a small, angular square tucked behind Gendarmenmarkt. BLESS Restaurant sits at number 10, among the solid stone facades of Berlin-Mitte's historic centre. Most kitchens around here wind down well before the night does. This one keeps serving until midnight every day of the week.
 
-That late close is the first practical thing to know. It makes BLESS a reliable option after a concert at the Konzerthaus, a long day at Museum Island or a late flight into the city. It's an Asian restaurant, consistently well rated across a large and steady volume of reviews. The price level is on the pricier side, so it's a sit-down dinner rather than a quick bite.
+That late close is the first practical thing to know. It makes BLESS a reliable option after a concert at the Konzerthaus, a long day at Museum Island or a late flight into the city. It's an Asian restaurant, consistently well rated by a large number of reviewers. The price level is on the pricier side, so it's a sit-down dinner rather than a quick bite.
 
 ## Getting to Hausvogteiplatz
 

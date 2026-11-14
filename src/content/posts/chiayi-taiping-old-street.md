@@ -44,7 +44,6 @@ aiGenerated: true
 draft: false
 photoless: true
 ---
-
 ## A village at the top of the switchbacks
 
 Taiping is a reward for a climb. The village sits on a ridge above Meishan Township, and the road up winds through tea terraces and bamboo. When the hairpins stop, a small mountain settlement opens out on the slope with views back over the lowlands.
@@ -53,7 +52,7 @@ The old street is short and walkable. Most people come for three things together
 
 ## Walking 太平老街
 
-The street is known locally as 太平老街 (Tàipíng Lǎojiē). Its character comes from buildings put up during the Japanese colonial period. You'll see low facades, timber and plaster details, and ground floors opening straight onto the lane. Today most of them sell food, tea and souvenirs.
+The street is known locally as Taiping Old Street. Its character comes from buildings put up during the Japanese colonial period. You'll see low facades, timber and plaster details, and ground floors opening straight onto the lane. Today most of them sell food, tea and souvenirs.
 
 The street itself has no gate and no ticket. You can walk it any time, and Google currently lists it as open 24 hours. That only applies to the public lane, though. Each stall keeps its own hours, so arriving after dark mostly means shuttered fronts and a quiet mountain road.
 

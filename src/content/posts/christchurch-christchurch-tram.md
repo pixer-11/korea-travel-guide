@@ -169,4 +169,4 @@ A sensible day might go like this. Ride the loop in the morning. Get off at the 
 
 Allow about an hour for a single loop. Give it half a day or more if you're using the pass properly. The tram runs year-round, but the open windows make it a draughty ride in a Canterbury winter, so bring a layer from May to August.
 
-The Worcester Street stop at number 109 is close to Cathedral Square, so it's an easy place to start if you're staying in the centre. Central Christchurch is flat and compact. Between the tram and your own feet, you won't need a car for this part of the city.
+The Worcester Street stop is close to Cathedral Square, so it's an easy place to start if you're staying in the centre. Central Christchurch is flat and compact. Between the tram and your own feet, you won't need a car for this part of the city.

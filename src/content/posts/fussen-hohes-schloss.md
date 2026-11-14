@@ -69,7 +69,7 @@ draft: false
 ---
 ## Windows that are not windows
 
-Stand in the inner courtyard and count the oriel windows. Several of them are flat paint. Around 1500, the Prince-Bishops of Augsburg had the walls of their summer residence covered in illusionist architecture: painted window frames, bays and corner details that look carved until you get close. Your eye keeps getting caught out, and that is the point.
+Stand in the inner courtyard and count the oriel windows. Several of them are flat paint. Around 1500, the Prince-Bishop of Augsburg had the walls of his summer residence covered in illusionist architecture: painted window frames, bays and corner details that look carved until you get close. Your eye keeps getting caught out, and that is the point.
 
 The castle sits on the hill at Magnuspl. 10, directly above Füssen's old town. Its pale walls and stepped gables face the Lech river on one side and the rooftops on the other. Most visitors pass through Füssen on the way to Neuschwanstein. This is the castle the town actually lived under.
 

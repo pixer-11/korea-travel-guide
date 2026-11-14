@@ -110,7 +110,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-29'
 ---
-
 ## Below the Crescent's curve
 
 A long Georgian arc of honey-coloured Bath stone runs along the top of the lawn. That is the Royal Crescent, and Royal Victoria Park spreads out beneath it. Between the two is a ha-ha, a sunken wall that keeps the Crescent's private lawn separate from the public grass without blocking the view.
@@ -139,7 +138,7 @@ The Circus and the Royal Crescent are both a few minutes away on foot, and many 
 
 Google currently lists the park as open 24 hours a day, every day of the week. Facilities inside it, like the Botanical Gardens, the boating pond and the courts, keep their own seasonal hours, so check the council's site for this month's times.
 
-Weekends get busy. Try not to turn up between 10am and 7pm on a Saturday or Sunday, when the lawns below the Crescent fill with picnic blankets and the playground queues build. The quietest weekend window is 7am–8am, when you'll mostly share the paths with dog walkers and runners. On weekdays the forecast lull comes late, 10pm–11pm.
+Weekends get busy. Expect the lawns to be at their fullest through the middle of the day on a Saturday or Sunday, when the lawns below the Crescent fill with picnic blankets and the playground queues build. The quietest weekend window is 7am–8am, when you'll mostly share the paths with dog walkers and runners. On weekdays the forecast lull comes late, 10pm–11pm.
 
 A few habits worth copying:
 

@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Sunday morning on the city's streets
 
 Dumaguete is a good size for a road race. The city is compact and mostly flat along the coast, with tricycles, a university campus and a seafront promenade. Dumaguete Runfest takes place on Sunday, December 13, 2026, and it brings runners of all levels onto those streets.
@@ -56,7 +55,7 @@ The event is based at Robinsons Dumaguete, the Robinsons mall in Barangay Calind
 - **Landmark:** every tricycle driver in the city knows it, so you only need to say "Robinsons".
 - **Afterwards:** once the mall opens for the day, there are food courts, a supermarket and air-conditioning.
 
-Race categories, distances, registration and the route are all handled by the event organiser. This guide doesn't list them because none of them were part of the facts we were given.
+Race categories, distances, registration and the route are all handled by the event organiser. This guide doesn't list them, since those details weren't confirmed for us.
 
 ## Reaching Dumaguete for the weekend
 

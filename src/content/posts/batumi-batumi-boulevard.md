@@ -88,7 +88,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A city that faces the sea
 
 Batumi keeps its best side for the water. Between the apartment towers and the Black Sea runs a strip of palms, flower beds, footpaths and a separate cycle lane, roughly seven kilometres end to end. The pebble beach sits on one side and the city on the other.
@@ -127,7 +126,7 @@ Swimming season runs roughly from June to September, when the sea is warm enough
 
 ## Beating the weekend tide
 
-Timing matters more here than anything else. It's quietest from 7am to 9am on weekdays and from 7am to 10am at weekends. That's when you'll share the paths mostly with joggers, dog walkers and the cleaning crews. Try not to arrive between 12pm and 11pm on a weekend; that long window is when the promenade is at its most packed.
+Timing matters more here than anything else. It's quietest from 7am to 9am on weekdays and from 7am to 10am at weekends. That's when you'll share the paths mostly with joggers, dog walkers and the cleaning crews. Try to avoid the middle of the day on a weekend, when the promenade is at its most packed.
 
 A few habits make the visit easier:
 

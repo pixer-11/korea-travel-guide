@@ -90,7 +90,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-16'
 ---
-
 Count the gables first. On the west side of the square, three stepped facades rise side by side in shades of rose and sandstone. That is the Römer, Frankfurt's city hall since 1405. Turn around and six half-timbered houses face it, their timber frames painted in dark red and slate, their upper floors jutting out over the cobbles.
 
 Between the two stands the Justitia fountain. Its figure of Justice holds her scales and sword, and unusually she wears no blindfold. Everything else in Frankfurt's old centre takes its bearings from this square.
@@ -153,4 +152,4 @@ The rest of the year the square is more open. It still holds festivals, concerts
 
 When you leave, walk south. Through the Saalhof area you reach the Main riverbank and the **Eiserner Steg**, an iron footbridge from 1869. The bridge has views back to the Dom tower and ahead to the Sachsenhausen bank.
 
-Sachsenhausen is where Frankfurt drinks **Apfelwein**, the local cider, poured from a grey stoneware jug called a Bembel. Order **Grüne Soße**, a cold sauce of seven herbs served with eggs and potatoes, or **Handkäs mit Musik**, sour-milk cheese marinated with onions. That makes Römerberg the first stop of an evening rather than the whole of it.
+Sachsenhausen is where Frankfurt drinks **Apfelwein**, the local cider, poured from a grey stoneware jug called a Bembel, alongside traditional regional cooking at the taverns nearby. That makes Römerberg the first stop of an evening rather than the whole of it.

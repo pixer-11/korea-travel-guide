@@ -97,7 +97,7 @@ updatedDate: '2026-09-02'
 ---
 ## Why Tanga Market is worth the detour
 
-Kitakyushu doesn't get the tourist traffic that Fukuoka City or Hakata does, and that's precisely what makes Tanga Market feel different from the polished food halls you might already know. This is a working arcade (a long, low-roofed corridor of more than a hundred stalls that has supplied the city's kitchens for decades, nicknamed locally as "Kitakyushu's kitchen." The corrugated awnings, the hand-painted signboards, the styrofoam crates stacked waist-high with ice and fish scales) none of it has been redesigned for Instagram.
+Kitakyushu doesn't get the tourist traffic that Fukuoka City or Hakata does, and that's precisely what makes Tanga Market feel different from the polished food halls you might already know. This is a working arcade—a long, low-roofed corridor of more than a hundred stalls that has supplied the city's kitchens for decades, nicknamed locally as "Kitakyushu's kitchen." The corrugated awnings, the hand-painted signboards, the styrofoam crates stacked waist-high with ice and fish scales—none of it has been redesigned for Instagram.
 
 It's a place that still runs on the rhythm of restaurant buyers and neighborhood grandmothers doing their daily shop, and you're welcome to shop alongside them.
 
@@ -109,7 +109,7 @@ Prepared-food vendors sell skewers, sashimi cups, and grilled fish fillets meant
 
 ## Getting there
 
-Tanga Market sits in Kokurakita Ward, Kitakyushu, about a 10–15 minute walk from JR Kokura Station (the same station served by the Sanyo/Kyushu Shinkansen line, which makes it an easy stop if you're moving between Fukuoka City (Hakata), and Shimonoseki or Honshu. From Kokura Station's south side, head toward the Murasaki River and follow signs for the covered shopping streets; Tanga is one of several arcades that knit together in this part of downtown Kokura, so it's worth glancing at a map before you set off, since the entrances aren't dramatic) you can walk past one without realizing it.
+Tanga Market sits in Kokurakita Ward, Kitakyushu, about a 10–15 minute walk from JR Kokura Station—the same station served by the Sanyo/Kyushu Shinkansen line, which makes it an easy stop if you're moving between Fukuoka City (Hakata), and Shimonoseki or Honshu. From Kokura Station's south side, head toward the Murasaki River and follow signs for the covered shopping streets; Tanga is one of several arcades that knit together in this part of downtown Kokura, so it's worth glancing at a map before you set off, since the entrances aren't dramatic—you can walk past one without realizing it.
 
 ## When to go
 
@@ -119,6 +119,6 @@ Give yourself a solid hour to walk the whole arcade slowly, longer if you're sto
 
 ## How to visit like a local
 
-Come hungry and skip breakfast (the move here is to graze, not to sit down for one big meal. Most stalls deal in cash, and small bills help since you're often buying single portions or small bags of produce; card acceptance is inconsistent at the smaller vendors, so don't count on it. There's no ticketing or queueing system for the market itself, though popular food counters can form short lines around midday) that's your cue to circle back to a quieter stall and return later.
+Come hungry and skip breakfast—the move here is to graze, not to sit down for one big meal. Most stalls deal in cash, and small bills help since you're often buying single portions or small bags of produce; card acceptance is inconsistent at the smaller vendors, so don't count on it. There's no ticketing or queueing system for the market itself, though popular food counters can form short lines around midday—that's your cue to circle back to a quieter stall and return later.
 
 Because this is a genuinely well-known, well-reviewed market rather than an undiscovered spot, the real local trick is timing: a weekday morning gets you a working market with room to move, while Saturday afternoon gets you shoulder-to-shoulder browsing. Don't expect English menus at every stall, pointing and small numbers work fine, and vendors are used to it. The biggest mistake visitors make is treating it like a museum and not buying anything; vendors are running a business, so a small purchase, even just a skewer or a piece of fruit, is the polite way to look around.

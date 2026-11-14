@@ -97,7 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-13'
 ---
-
 ## Why this museum, and not another one in Genoa
 
 Galata Museo del Mare sits on Calata Ansaldo De Mari, inside the old Galata shipyard building at the Porto Antico. It's the largest maritime museum in the Mediterranean, and it earns that scale: full-size reconstructed galleys you walk through, not just models behind glass.
@@ -117,7 +116,7 @@ Budget a solid two hours for the main museum, three if you add the submarine and
 
 ## When to go and what it costs
 
-Opening hours are the same every day of the week, 10am to 7pm, with last entry usually an hour before close, so this isn't a place with an early-morning or late-evening slot to exploit. Weekdays run quieter throughout the full 10am–7pm window. Weekends are a different story: 12pm to 6pm is consistently the busiest stretch, with school groups and cruise-ship passengers stacking up at the ticket counter and submarine entrance.
+Opening hours are the same every day of the week, 10am to 7pm, so this isn't a place with an early-morning or late-evening slot to exploit. Weekdays run quieter throughout the full 10am–7pm window. Weekends are a different story: 12pm to 6pm is consistently the busiest stretch, with school groups and cruise-ship passengers stacking up at the ticket counter and submarine entrance.
 
 If you're only in Genoa on a Saturday or Sunday, arrive within the first half hour of opening, before the 12pm surge, or come after 6pm knowing you'll be rushed toward closing. Given the museum's very high review volume and reputation, it does not function as an under-the-radar stop; treat it as a headline attraction and plan around its crowds rather than expecting to have it to yourself.
 

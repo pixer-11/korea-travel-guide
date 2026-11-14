@@ -107,7 +107,7 @@ Locals treat this place as a backyard, and the rules reflect it. Rugs on the law
 
 Don't feed bread to the ducks: it's bad for them and for the river. Stay on the paths in the native and rose beds, and don't pick anything. Labels next to most plants give the botanical name, and a lot of the native ones show the Māori name too. They're worth reading.
 
-Punting on the Avon leaves from the Antigua Boat Sheds on the southern edge of the gardens, where a guide in Edwardian dress poles you along under the willows. It's popular, so book ahead on a sunny weekend. Card payment is accepted at the café and boat sheds, as contactless is standard across New Zealand.
+Punting on the Avon leaves from the Antigua Boat Sheds on the southern edge of the gardens, where a guide in Edwardian dress poles you along under the willows. It's popular, so book ahead on a sunny weekend. Card payment is accepted at the café and boat sheds.
 
 ## Beyond the gates
 

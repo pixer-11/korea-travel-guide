@@ -84,4 +84,4 @@ The crowd here is pure Texas: cowboy hats in the grandstands, team shirts everyw
 
 Austin turns the race into a city-wide party. Downtown, Sixth Street and Rainey Street fill with fans in team colours every evening. South Congress Avenue is the place for Texas boots and a view of the Capitol. For a quieter hour, Lady Bird Lake has a shaded trail loop. The Congress Avenue Bridge bat colony flies out at dusk, and in October the bats are still around to see before they head south for winter.
 
-Barbecue is the city's main food event. Brisket queues at the best-known barbecue joints can start well before lunch, so many visitors visit those on the day before or after the race weekend. Visitors who fly in for the full four days usually budget at least a week in Austin.
+Barbecue is the city's main food event. Brisket queues at the best-known barbecue joints can start well before lunch, so many visitors visit those on the day before or after the race weekend. Visitors who fly in for the full four days usually add a day or two on either end for travel and sightseeing.

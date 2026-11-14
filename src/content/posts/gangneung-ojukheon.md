@@ -106,7 +106,7 @@ There's an on-site parking lot if you're driving or have arranged a taxi for the
 
 The site is open daily, with no listed closing day, a rarity for a Korean historic site, so you're not locked out on a Monday like at many palaces.
 
-Because it's a well-known, heavily visited landmark, midday on weekends and holidays brings tour buses and school groups. Arrive right at 9am or after 3pm for a calmer walk through the grounds.
+Because it's a well-known, heavily visited landmark, midday on weekends and holidays brings tour buses and school groups. Visit outside those peak midday hours for a calmer walk through the grounds.
 
 Spring and autumn are the most comfortable seasons, the bamboo and pine trees look sharp against clear skies, and Gangneung's summer humidity hasn't set in yet.
 

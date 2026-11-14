@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Frankfurt has held a Christmas market since 1393, which makes it one of the oldest in Germany. In 2026 it runs from **November 23 to December 22**. It spreads across six squares and streets of the old town and along the river: over 200 stalls in all, with a 26-metre Christmas tree on Römerberg at the centre.
 
 ## Six squares, one walk
@@ -63,7 +62,7 @@ This is the postcard square. On the west side stands the stepped-gable façade o
 
 The 26-metre tree stands between them, with wooden stall roofs packed in around its base. The small Alte Nikolaikirche, a red sandstone church, closes the south side of the square. Frankfurt Cathedral's tower rises just beyond it, behind the rebuilt lanes of the Neue Altstadt.
 
-Römerberg is the densest part of the market. Many visitors treat it as the finale and start out at the quieter edges.
+Römerberg is the densest part of the market. Many visitors start at the quieter edges and treat it as the finale.
 
 ## Bethmännchen, Brenten and hot Äppler
 

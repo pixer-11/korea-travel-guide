@@ -36,7 +36,6 @@ heroImage:
     x: 30
     'y': 40
 ---
-
 ## Two nights of zamba under a roof
 
 Folklore usually belongs to dusty provincial festivals. República Folklore moves it into the city's main indoor arena for two days, November 21–22, 2026. The idea is simple: Argentine folk music and the identity that comes with it, played to a Buenos Aires crowd.
@@ -45,7 +44,7 @@ Expect the sounds that define the genre. You hear the deep thump of the *bombo l
 
 ## Movistar Arena, Villa Crespo
 
-The festival is held at Movistar Arena, on Humboldt street in Villa Crespo. It opened in 2019 as a purpose-built covered venue for concerts. It sits right beside the stadium of Club Atlético Atlanta, so the block is easy to spot from Avenida Corrientes.
+The festival is held at Movistar Arena, on Humboldt street in Villa Crespo. It sits right beside the stadium of Club Atlético Atlanta, so the block is easy to spot from Avenida Corrientes.
 
 Being indoors matters in late November. That's late spring in Buenos Aires, often warm and sometimes stormy, and a roof means rain never cancels a set. The seating rises in tiers around the floor, so even the upper rows look down onto the stage.
 

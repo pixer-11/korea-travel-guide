@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Seven days of snooker at Meadowbank
 
 The tournament runs for a full week. The BetVictor Scottish Open plays Meadowbank Sports Centre from 14 to 20 December 2026. It is one of the four Home Nations events, alongside the English, Northern Ireland and Welsh Opens, and it counts toward the world rankings.
@@ -58,7 +57,7 @@ What fans usually do:
 
 ## Getting to London Road
 
-Meadowbank Sports Centre sits on London Road, in the Meadowbank district east of the Old Town. The centre is new, built on the site of the old Meadowbank Stadium. Lothian Buses run along London Road from Leith Street and the east end of Princes Street. From Edinburgh Waverley station, the bus is the simplest link.
+Meadowbank Sports Centre sits on London Road, in the Meadowbank district east of the Old Town. The centre stands on the site of the former Meadowbank Stadium. Lothian Buses run along London Road from Leith Street and the east end of Princes Street. From Edinburgh Waverley station, the bus is the simplest link.
 
 Walking takes about 30–40 minutes from Waverley, passing below Calton Hill. Hibernian's Easter Road stadium is a few streets north. Holyrood Park and Arthur's Seat are south of the venue. In mid-December it is dark by about 4pm, so the evening crowd walks home along lit main roads.
 

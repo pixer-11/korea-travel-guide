@@ -54,7 +54,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 A squat, three-sided tower of grey coral stone sits on a low point of land where Bohol's west coast bends. On one side are rooftops and palms. On the other, open water runs out toward Cebu. Punta Cruz has stood watching that water since 1796, and it is still the kind of place you can often have nearly to yourself.
 
 ## A Lookout Built for Raiders
@@ -63,7 +62,7 @@ This was a working watchtower, not an ornament. Spanish-era Maribojoc built it i
 
 Its shape is what sets it apart. Most Philippine coastal watchtowers are round or square. Punta Cruz is triangular, so each face looks out over a different stretch of sea. The walls are cut coral stone, the same material as the colonial churches along this coast. Up close you can see the pitted, porous blocks that give that building style its texture.
 
-The name comes from the cross that the townspeople, or *Punta Cruz*, raised on the point. Local tradition credits it with protecting the town from harm coming in off the sea.
+The name comes from the cross that the townspeople raised on the point, which they called *Punta Cruz*. Local tradition credits it with protecting the town from harm coming in off the sea.
 
 ## Climbing the Triangle on the Point
 

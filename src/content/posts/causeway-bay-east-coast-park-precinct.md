@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What this stretch of coast actually is
 
 East Coast Park Precinct isn't a park in the Victoria Park sense, with lawns and gates. It's a reclaimed waterfront corridor along Watson Rd, sandwiched between the Causeway Bay Typhoon Shelter and the harbour, built for walking, cycling and sitting still.
@@ -102,7 +101,7 @@ There's no dedicated car park; street parking on Watson Rd and nearby side stree
 
 Weekday mornings between 7am and 8am are the quietest window, according to typical foot traffic, before office workers and dog walkers arrive. Weekend mornings in that same 7am–8am slot are similarly calm.
 
-Avoid weekend afternoons and evenings: the precinct gets busy from 9am through 9pm on Saturdays and Sundays, filling with joggers, cyclists and families out for the sea breeze. Since it's rated under-the-radar despite its 4.4-star average across nearly 800 reviews, arriving early still gets you a stretch of promenade largely to yourself, even on weekends.
+Avoid weekend afternoons and evenings: the precinct gets busy from 9am through 9pm on Saturdays and Sundays, filling with joggers, cyclists and families out for the sea breeze. Even so, arriving early still gets you a stretch of promenade largely to yourself, even on weekends.
 
 Evenings after sunset bring a cooler breeze off the shelter and lit views of boats at anchor, worth a slow lap if you're staying nearby.
 

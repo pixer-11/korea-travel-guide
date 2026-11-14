@@ -104,7 +104,7 @@ Late October is spring in Auckland, and the weather can turn in an afternoon. Lo
 
 Public transport is the usual way in, because the CBD streets around the square get very busy during large events.
 
-- **Train:** Waitematā Station (Britomart) sits at the bottom of Queen Street. From there it is roughly a 15-minute uphill walk to Aotea Square.
+- **Train:** Britomart Train Station sits at the bottom of Queen Street. From there it is roughly a 15-minute uphill walk to Aotea Square.
 - **Bus:** Many routes run along Queen Street, Wellesley Street and Symonds Street, all within a few minutes' walk.
 - **Ferry:** Downtown Ferry Terminal is beside Britomart, so visitors from Devonport, Waiheke or the North Shore come straight in by water.
 - **Car:** The Civic car park lies beneath the Aotea Square precinct. It fills quickly during big events, and road closures around Queen Street are common for large gatherings.

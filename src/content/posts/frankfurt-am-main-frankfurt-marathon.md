@@ -43,7 +43,7 @@ draft: false
 ---
 Most big-city marathons end on an open road. Frankfurt ends indoors. The final metres run off the street and into the Festhalle, a domed exhibition hall from 1909 on the Messe grounds. Runners cross the line under lights, with spectators packed around them on every side.
 
-That finish is the reason many international runners pick this race. Frankfurt is Germany's longest-established city marathon and its second-largest by finishers. The 2026 edition was set for **October 25, 2026**. The race draws over 20,000 participants from around the world.
+That finish is the reason many international runners pick this race. Frankfurt is Germany's longest-established city marathon and its second-largest by finishers. The 2026 edition is set for **October 25, 2026**. The race draws over 20,000 participants from around the world.
 
 ## A race that finishes under a roof
 
@@ -68,7 +68,7 @@ In past years, number pick-up and the race expo have been held at the Messe on t
 
 ## The extra hour: race day meets the clock change
 
-The 2026 date had a quirk. October 25, 2026 is the last Sunday of October. That is the night Central Europe switches from summer time back to standard time. At 3am, clocks go back to 2am.
+The 2026 date has a quirk. October 25, 2026 is the last Sunday of October. That is the night Central Europe switches from summer time back to standard time. At 3am, clocks go back to 2am.
 
 For runners, that meant a gift: an extra hour in bed before a morning start. It was also a trap. Phones update themselves. A hotel-room alarm clock or an older watch may not.
 

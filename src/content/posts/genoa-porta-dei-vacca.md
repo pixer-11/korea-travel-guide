@@ -117,7 +117,7 @@ Admirers of De André leave notes and small tributes along the street. At Via de
 
 ## Sunday and Monday only
 
-The timing is unusual, and it matters. The gate's listed hours are **Sunday and Monday, 9am to 5pm**. It is listed as **closed Tuesday through Saturday**. Plan your visit for one of those two days and get there well before 5pm, so you have enough light and time to explore.
+The timing is unusual, and it matters. The gate's listed hours are **Sunday and Monday, 9am to 5pm**, with it closed the rest of the week. Plan your visit for one of those two days and get there well before 5pm, so you have enough light and time to explore.
 
 That listing is the only schedule we can confirm. If you are in Genoa midweek, move your old-town walk to the weekend and stop here as part of it. Check the listing again shortly before you go, because heritage sites in the city sometimes change their access.
 

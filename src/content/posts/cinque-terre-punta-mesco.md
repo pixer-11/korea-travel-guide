@@ -79,7 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-11-02'
 ---
-
 Stand on Fegina beach in Monterosso and look west. A dark green ridge drops straight into the sea, with the concrete Gigante statue carved into the rocks at its foot. That ridge is Punta Mesco. It is the reason Monterosso's long beach curves the way it does, and it is the best free viewpoint over the whole Cinque Terre coast.
 
 Most visitors photograph it from the sand and never go up. You can.
@@ -115,7 +114,7 @@ This is the angle that explains the Cinque Terre: five villages wedged into one 
 
 ## Getting the ridge to yourself
 
-Punta Mesco gets far fewer people than the paths between the five villages. The steps put off a lot of day-trippers, which is the main reason. Here is how to make the most of it.
+Punta Mesco gets far fewer people than the paths between the five villages. The steps put off a lot of day-trippers, which is the main reason. Here is how to make the most of it:
 
 - **Start early.** Climbing in the cool of the morning beats the midday heat on the exposed steps. The eastern coast is also usually lit well then.
 - **Go up and come back, or carry on.** Most people return the same way to Monterosso. You can also continue over the ridge and down to Levanto, about three hours end to end, and take the train back. Trains on the Cinque Terre line run between the two towns often.

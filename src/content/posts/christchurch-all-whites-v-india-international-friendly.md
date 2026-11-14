@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## The fixture at a glance
 
 It's New Zealand against India, under a roof. On 15 November 2026, the All Whites host India's national team, the Blue Tigers, in an international friendly at One New Zealand Stadium in central Christchurch.
@@ -53,7 +52,7 @@ The timing gives it some weight. New Zealand play this match a few months after 
 
 This city has spent years without a central stadium. The old Lancaster Park was badly damaged in the February 2011 earthquake and never reopened. After that, big matches went to a temporary ground in Addington, west of the centre, which was always meant to be a stopgap.
 
-Te Kaha is the replacement. It was built on cleared land in the rebuilt east of the central city and opened in 2026. A national-team football fixture here marks a new stage in the rebuild that has reshaped the streets around it. For local fans, a World Cup squad playing walking distance from Cathedral Square is new.
+Te Kaha is the replacement. It was built on cleared land in the rebuilt east of the central city, opening as part of that rebuild. A national-team football fixture here marks a new stage in the rebuild that has reshaped the streets around it. For local fans, a World Cup squad playing walking distance from Cathedral Square is new.
 
 ## Te Kaha: a stadium with a sky-lit roof
 
@@ -82,7 +81,7 @@ Friendlies tend to offer simpler pricing than tournament matches, with tiers set
 
 ## Match-day manners at Te Kaha
 
-New Zealand football crowds are relaxed, family-heavy and loud at the right moments. Here is what fans usually do and expect on the day.
+New Zealand football crowds are relaxed, family-heavy and loud at the right moments, with a few customs worth knowing before you go.
 
 - **Anthems first.** New Zealand's anthem is sung in te reo Māori, then English. Most of the crowd stands and many sing both verses. India's anthem, Jana Gana Mana, is played too. Standing quietly through it is the norm.
 - **Two sets of colours.** New Zealand has a large Indian community, so expect plenty of blue shirts and tricolour flags among the white. Mixed groups and good-natured banter are typical.

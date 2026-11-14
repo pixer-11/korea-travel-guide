@@ -41,7 +41,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A tournament in Admiral Yi's hometown
 
 The venue name tells you where you are. Asan is the town where Admiral Yi Sun-sin grew up, and the 2026 Korea Masters is held at the gymnasium named after him. Players and fans come from across Asia for a week of international badminton in a mid-sized city about 40 minutes from Seoul by fast train.
@@ -93,4 +92,4 @@ Oeam Folk Village sits at the foot of Seolhwasan. Its thatched and tiled houses 
 
 The crowd is a mix of local club players, school teams, travelling fans from elsewhere in Asia and visiting coaches. Badminton is one of Korea's most played recreational sports, so plenty of people in the stands can read a doubles rotation as well as the commentators.
 
-Because the city is compact, a weekend here is easy to arrange. You can spend the morning at Hyeonchungsa, watch the afternoon semi-finals, then soak in the hot springs at night. Admiral Yi probably never planned to have a badminton hall named after him. It suits the town anyway.
+Because the city is compact, a weekend here is easy to arrange. You can spend the morning at Hyeonchungsa, watch the afternoon semi-finals, then soak in the hot springs at night. The admiral never imagined a badminton hall bearing his name, but it suits the town well.

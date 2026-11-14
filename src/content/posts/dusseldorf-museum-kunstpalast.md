@@ -98,7 +98,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-04'
 ---
-
 ## Brick, river and a courtyard built for a fair
 
 The Ehrenhof sets the scene before you get to any painting. Its buildings are red-brown brick, arranged around a long courtyard that opens toward the Rhine. They were designed by Wilhelm Kreis for the 1926 GeSoLei exhibition, a huge fair on health, social welfare and physical exercise.
@@ -107,7 +106,7 @@ That exhibition architecture is now Düsseldorf's main art museum. The domed bui
 
 ## What's actually on the walls
 
-The collection covers a lot of ground. It goes from Old Masters to postwar experiments, with decorative arts in between. The collection was fully rehung and reopened in 2023, mixing periods and media rather than marching through them in strict order.
+The collection covers a lot of ground. It goes from Old Masters to postwar experiments, with decorative arts in between. The galleries mix periods and media rather than marching through them in strict order.
 
 Look out for these:
 

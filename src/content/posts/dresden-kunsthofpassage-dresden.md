@@ -159,7 +159,7 @@ These are lived-in buildings. Above the painted walls are ordinary flats, and th
 - **Carry a little cash.** Germany still runs on it more than visitors expect, and a small café or studio may not take every card. Ask before ordering if it matters.
 - **Say "Guten Tag"** when you walk into a shop, and "Tschüss" when you leave. It's normal courtesy in Germany, not optional politeness.
 
-The Kunsthofpassage is one of Dresden's most visited sights, so don't expect a secret. You're sharing a small space with plenty of others, and it works best when everyone remembers someone lives upstairs.
+The Kunsthofpassage is one of Dresden's most visited sights, so don't expect to have it to yourself. You're sharing a small space with plenty of others, and it works best when everyone remembers someone lives upstairs.
 
 ## Around the corner
 

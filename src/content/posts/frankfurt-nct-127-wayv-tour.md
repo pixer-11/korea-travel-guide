@@ -41,7 +41,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two SM units, one German Monday
 
 The date is September 14, 2026. That falls on a Monday, which shapes the whole trip. Frankfurt's weekday trains run late, the business hotels are full of trade-fair crowds, and a K-pop crowd from half a continent lands in a banking city that runs on commuters.
@@ -50,7 +49,7 @@ Expect lightsticks in every tram carriage heading to the venue. Expect fans who 
 
 ## Who is on stage
 
-NCT 127 and WayV are both units of NCT, the large boy group created by SM Entertainment. NCT 127 is the Seoul-based unit, named for the longitude of the city. WayV is the Chinese-language unit, which performs mostly in Mandarin.
+NCT 127 and WayV are both units of NCT, the large boy group created by SM Entertainment. NCT 127 is the Seoul-based unit, whose name references the city's line of longitude. WayV is the Chinese-language unit, which performs mostly in Mandarin.
 
 Sharing a bill means two fanbases in one room. NCT 127 fans and WayV fans (often called WayZenNi) overlap heavily, and plenty of people in the crowd follow both. The setlist and running order for this stop are not part of the facts we hold, so this guide does not guess at them.
 

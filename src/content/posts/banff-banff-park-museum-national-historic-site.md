@@ -105,7 +105,7 @@ Your Parks Canada Discovery Pass may cover entry, so bring it if you have one an
 
 ## The river end of town
 
-The museum makes a good starting point for this end of Banff. Cross the Bow River Bridge and walk up to **Cascade of Time Garden**, the terraced gardens below the Parks Canada administration building, with a straight view back up Banff Avenue to Cascade Mountain.
+The museum makes a good starting point for this end of Banff. Cross the Bow River Bridge and walk up to **Cascade Gardens**, the terraced gardens below the Parks Canada administration building, with a straight view back up Banff Avenue to Cascade Mountain.
 
 The **Bow River trail** runs along the bank right below the bridge, an easy flat walk in either direction. **Central Park**, next to the museum, has grass and riverside benches.
 

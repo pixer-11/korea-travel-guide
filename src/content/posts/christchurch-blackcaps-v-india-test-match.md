@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Five days, one weekend in the middle
 
 The calendar for this one is unusually kind to fans. The Test starts on Friday, 27 November 2026 and runs to Tuesday, 1 December, so days two and three fall on Saturday and Sunday.
@@ -55,7 +54,7 @@ The ground has earned its place in cricket history quickly since it began hostin
 - It staged the opening match of the 2015 Cricket World Cup.
 - Brendon McCullum hit the fastest century in Test history here, off 54 balls against Australia in 2016.
 - It hosted the final of the 2022 Women's Cricket World Cup.
-- New Zealand beat India here by seven wickets in 2020.
+- New Zealand have also beaten India in a Test at this ground.
 
 That last result is the one home fans bring up. Hagley pitches have a reputation for helping seam bowlers, especially early in a match, and Indian batters have found it a hard place to settle.
 

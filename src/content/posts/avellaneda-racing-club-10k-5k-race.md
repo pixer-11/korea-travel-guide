@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A finish line inside El Cilindro
 
 This race finishes in Racing Club's own stadium. La Carrera de Racing Club takes place on Sunday, December 6, 2026, in Avellaneda. The 10km, 5km and 1km courses all end at Estadio Presidente Perón.
@@ -77,4 +76,4 @@ A few local habits make the day easier:
 - **Groups:** running clubs, called *grupos de running*, usually come in matching shirts and wait together near the start. Spectators gather along the final approach to the stadium.
 - **After the race:** many runners stay on to walk around the outside of El Cilindro or take photos at the stadium gates. On a Sunday, that is part of the outing.
 
-Avellaneda is a working town and its Sunday mornings are quiet. Cafés along Avenida Mitre are the usual meeting spot when families come to meet their runners.
+Avellaneda is a working town and its Sunday mornings are quiet. Families usually find a quiet spot nearby to meet their runners after the race.

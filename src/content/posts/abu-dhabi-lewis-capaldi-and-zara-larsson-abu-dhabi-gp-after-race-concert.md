@@ -63,7 +63,7 @@ Capaldi is also known for the dry, self-mocking chat between songs. Talking is p
 
 ## Etihad Park, the field beside the track
 
-Etihad Park is Yas Island's open-air concert ground, known as du Arena until it was renamed in 2019. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi – Yas Island hotel, built over the track, are visible from the surrounding roads.
+Etihad Park is Yas Island's open-air concert ground. It is a large outdoor space next to Yas Marina Circuit. That location is why it hosts the Grand Prix concerts every year. The circuit's floodlights and the W Abu Dhabi – Yas Island hotel, built over the track, are visible from the surrounding roads.
 
 Being outdoors matters for comfort. Early December evenings in Abu Dhabi are usually mild, cooler than the warm afternoons. Most concertgoers wear light layers and nothing heavier. The ground is mostly open standing room, and food and drink stands run around the edges.
 

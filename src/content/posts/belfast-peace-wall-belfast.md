@@ -116,7 +116,7 @@ The first barriers here went up in 1969, after the riots of that August set the 
 
 To one side is the Shankill, a mostly unionist and loyalist community. To the other is the Falls, a mostly nationalist and republican one. The 1998 Good Friday Agreement ended the large-scale violence, but the walls stayed up. Some residents still say they feel safer with them standing.
 
-Several gates in the interface network still close at night. That's the most direct way to understand that this is a working barrier and not a monument. Treat the listed 7am to 7pm hours as the window when the area is open and active, and plan your visit inside it.
+Several gates in the interface network still close at night. That's the most direct way to understand that this is a working barrier and not a monument. Plan your visit for daytime hours, before the gates close.
 
 ## Bring a marker: signing the wall
 

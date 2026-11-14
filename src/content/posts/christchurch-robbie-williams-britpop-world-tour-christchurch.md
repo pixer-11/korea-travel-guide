@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A first night for Te Kaha
 
 A stadium only gets one first international headliner. In Christchurch, that is Robbie Williams.
@@ -92,7 +91,7 @@ Christchurch Airport is about a 20 to 25 minute drive northwest of the centre. F
 
 ## A late-spring Saturday in Ōtautahi
 
-Late November is the end of spring here, and the evenings are long. The sun sets well after 8pm, so the walk in happens in daylight. A light jacket still earns its place for the walk home, because South Island nights cool fast.
+Late November is the end of spring here, and the evenings are long, so the walk in happens in daylight. A light jacket still earns its place for the walk home, because South Island nights cool fast.
 
 Concertgoers usually turn the day into a city day. Close to the stadium:
 

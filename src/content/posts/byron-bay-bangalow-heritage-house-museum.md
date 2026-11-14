@@ -66,7 +66,7 @@ The themes you'll want to look for follow the town's history:
 
 - **The village's name.** Bangalow was once known as Byron Creek. The current name is generally traced to an Aboriginal word for a local palm.
 - **Timber and dairy.** Red cedar first brought settlers into the hinterland. Dairying sustained the town for generations afterwards.
-- **Main-street life.** Byron Street's shopfront rows, built with deep verandahs, trace the town's main-street history.
+- **Main-street life.** Byron Street's shopfront rows, built with deep verandahs, still define the town's main street.
 
 Displays at small museums change, so treat these as threads to follow, not a guaranteed list of exhibits.
 

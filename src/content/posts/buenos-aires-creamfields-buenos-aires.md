@@ -35,10 +35,9 @@ heroImage:
     x: 50
     'y': 60
 ---
-
 ## A Saturday in late spring
 
-Creamfields Buenos Aires takes place on Saturday, November 14, 2026. Mid-November is late spring in Argentina. The jacarandas along the city's avenues are usually in full purple bloom, the evenings are warm, and the sun sets close to 8pm. A long outdoor dance music day lands in that light.
+Creamfields Buenos Aires takes place on Saturday, November 14, 2026. Mid-November is late spring in Argentina. The jacarandas along the city's avenues are usually in full purple bloom and the evenings are warm. A long outdoor dance music day lands in that light.
 
 The name comes from Cream, the Liverpool club that started the Creamfields brand in England. Buenos Aires picked it up in 2001. Through the 2000s the Argentine edition became one of the largest gatherings of the whole franchise. For many porteños it marked the moment electronic music moved out of the clubs and into open-air crowds of tens of thousands.
 
