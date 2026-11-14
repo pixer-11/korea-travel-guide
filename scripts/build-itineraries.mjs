@@ -79,6 +79,7 @@ import { buildItinerary, qualifyingPosts, gateFor, closedDaysOf } from '../src/l
 import { findProseViolations } from '../src/lib/prose-guard.mjs';
 import { validateItineraryFile } from './validate-itineraries.mjs';
 import { HOUSE_STYLE } from './lib/prose-style.mjs';
+import { findToolSpill, restoreSpilledFields } from './lib/tool-spill.mjs';
 
 const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT_DIR = fileURLToPath(new URL('../src/content/itineraries/', import.meta.url));
@@ -500,9 +501,28 @@ function parseModelReply(msg, daysArr) {
   if (process.env.ITINERARY_DEBUG_USAGE) console.log(`   · model call: ${modelStopDetail(msg)}`);
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   try {
+    // The reply that reads "missing quickAnswer" usually has it: written into
+    // the end of `description` behind the model's own closing tag (Tokyo 5d,
+    // 3 calls in 5 on 2026-11-14; the run asked twice, got it twice, and the
+    // city went without its rebuild). Put it back before judging the shape —
+    // no call, no guess — and refuse whatever plumbing is still left.
+    const restored = restoreSpilledFields(out, ['title', 'description', 'quickAnswer']);
+    if (restored.length) console.log(`     ↩ model wrote ${restored.join(', ')} inside the field before it; put back`);
     validateAiOutput(out, daysArr);
+    const spill = findToolSpill(out);
+    if (spill.length) throw new Error(`tool-call spill in ${spill.join(', ')}`);
   } catch (e) {
-    throw new Error(`${e.message} (${modelStopDetail(msg)})`);
+    // What the reply DID carry: a key that is simply absent and a key swallowed
+    // by the field before it (the model closing one field and opening the next
+    // in XML inside a value) fail on the same line and want different fixes.
+    const keys = out && typeof out === 'object' ? Object.keys(out).join(',') : 'none';
+    const spill = out && typeof out === 'object' ? findToolSpill(out) : [];
+    // The spill that restoreSpilledFields did NOT undo, as written: its shape is
+    // the only thing that says how to undo the next one.
+    const seen = spill.length && typeof out[spill[0]] === 'string'
+      ? ` shape=${JSON.stringify(out[spill[0]].slice(Math.max(0, out[spill[0]].search(/<\/?[A-Za-z_:]+/) - 20)).slice(0, 110))}`
+      : '';
+    throw new Error(`${e.message} (${modelStopDetail(msg)} keys=${keys}${spill.length ? ` spill-in=${spill.join('+')}` : ''}${seen})`);
   }
   return out;
 }
@@ -668,6 +688,9 @@ async function generateProse({ city, country, days, daysArr, bySlug, variantId }
 
   if (proseIssues.length || rainIssues.length) {
     console.log(`  ⚠ ${variantId} — guard found ${proseIssues.length} hours/price + ${rainIssues.length} rain-leak issue(s) on first pass; retrying once`);
+    // Which field, and what in it: the count alone left nothing to read when the
+    // retry then came back a field short (Tokyo 5d, 2026-11-14).
+    for (const v of proseIssues) console.log(`     · ${v.field} — ${v.pattern}: "${String(v.text || '').slice(0, 140)}"`);
     out = await callClaudeWithRetry({ city, country, days, daysArr, bySlug, variantId, retryIssues: [...proseIssues, ...rainIssues] });
     proseIssues = scanAiOutputProse(out);
     rainIssues = findRainSwapLeaks(out, daysArr, bySlug, city);

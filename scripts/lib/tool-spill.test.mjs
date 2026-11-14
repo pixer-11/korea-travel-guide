@@ -97,3 +97,36 @@ test('the JSON form of a spill is caught; an ordinary quotation is not', () => {
   assert.deepEqual(findToolSpill({ blurb: '{"blurb": "x", "getting": "y"}', getting: 'y', days: 'z' }), ['blurb']);
   assert.deepEqual(findToolSpill({ blurb: 'Locals call it "the Loop", and so will you.', getting: 'ok', days: 'ok' }), []);
 });
+
+// 2026-11-14 도쿄 5일 일정: 답이 "quickAnswer 없음"으로 두 번 거부됐는데, 문장은 description 끝에 다 들어 있었다
+// (keys=days,title,description,whys,rainWhys,faq spill-in=description). 다시 묻지 않고 제자리로 돌려놓는다.
+test('restoreSpilledFields: 앞 칸에 이어 쓴 다음 칸을 제자리로', async () => {
+  const { restoreSpilledFields, findToolSpill } = await import('./tool-spill.mjs');
+  const out = { title: 'T', description: 'Five days in Tokyo.</description>\n<parameter name="quickAnswer">Start in Asakusa, end in Odaiba.', days: [], whys: {}, faq: [] };
+  assert.deepEqual(restoreSpilledFields(out, ['title', 'description', 'quickAnswer']), ['quickAnswer']);
+  assert.equal(out.description, 'Five days in Tokyo.');
+  assert.equal(out.quickAnswer, 'Start in Asakusa, end in Odaiba.');
+  assert.deepEqual(findToolSpill(out), []);
+  // 연달아 두 칸이 넘쳐도, 닫는 태그로 끝나도 된다
+  const chain = { a: 'x</a>\n<parameter name="b">y</b>\n<parameter name="c">z</parameter>' };
+  assert.deepEqual(restoreSpilledFields(chain), ['b', 'c']);
+  assert.deepEqual(chain, { a: 'x', b: 'y', c: 'z' });
+});
+
+test('restoreSpilledFields: 확실하지 않으면 손대지 않는다', async () => {
+  const { restoreSpilledFields } = await import('./tool-spill.mjs');
+  // 이미 있는 칸은 덮어쓰지 않는다
+  const taken = { description: 'x</description><parameter name="title">y', title: 'real' };
+  assert.deepEqual(restoreSpilledFields(taken), []);
+  assert.equal(taken.title, 'real');
+  // 허용 목록 밖의 칸(배열·객체여야 하는 days)은 문자열로 만들어 넣지 않는다
+  const wrongKind = { description: 'x</description><parameter name="days">y' };
+  assert.deepEqual(restoreSpilledFields(wrongKind, ['quickAnswer']), []);
+  // 자기 이름의 닫는 태그가 아니면 그 모양이 아니다
+  const other = { description: 'x</title><parameter name="quickAnswer">y' };
+  assert.deepEqual(restoreSpilledFields(other), []);
+  // 넘친 쪽이 비어 있으면 복구가 아니다
+  const empty = { description: 'x</description><parameter name="quickAnswer">  ' };
+  assert.deepEqual(restoreSpilledFields(empty), []);
+  assert.deepEqual(restoreSpilledFields(null), []);
+});

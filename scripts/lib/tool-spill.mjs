@@ -94,3 +94,54 @@ export function completeToolInput(msg, required) {
   if (missing.length) throw new Error(`missing ${missing.join(', ')}`);
   return use.input;
 }
+
+/**
+ * Put a spilled string field back where it belongs, when that can be done
+ * without guessing.
+ *
+ * The spill has one shape: the model ends a string field with its own closing
+ * tag and opens the NEXT field as XML inside the same value —
+ *
+ *   description: "Five days in Tokyo…</description>\n<parameter name=\"quickAnswer\">Start in…"
+ *
+ * so `quickAnswer` never arrives as a key, though every word of it did. Tokyo's
+ * 5-day itinerary came back like this in 3 of 5 calls on 2026-11-14; the run
+ * asked twice, got it twice, and the city went without its rebuild. Asking
+ * again costs a call and may get the same reply. The text is all there.
+ *
+ * Only this exact shape is undone: a top-level string field, closed with ITS
+ * OWN name, followed by exactly one <parameter name="X"> where X is a key the
+ * reply is missing. Anything else is left for findToolSpill to refuse.
+ *
+ * @param {object} out  the tool input; modified in place
+ * @param {string[]} [allowed]  the only keys that may be restored (the schema's string fields)
+ * @returns {string[]} keys restored, in order; [] when nothing was touched
+ */
+export function restoreSpilledFields(out, allowed = null) {
+  if (!out || typeof out !== 'object') return [];
+  const restored = [];
+  // A restored field can itself carry the next one, so walk until nothing moves.
+  for (let guard = 0; guard < 8; guard++) {
+    let moved = false;
+    for (const key of Object.keys(out)) {
+      const value = out[key];
+      if (typeof value !== 'string' || !SAFE_KEY.test(key)) continue;
+      // String.raw: this file has lost a layer of backslashes to a shell once.
+      const m = new RegExp(String.raw`^([\s\S]*?)</${key}\s*>\s*<parameter\s+name="([A-Za-z_][A-Za-z0-9_-]*)"\s*>([\s\S]*)$`, 'i').exec(value);
+      if (!m) continue;
+      const [, own, next, rest] = m;
+      if (next in out || (allowed && !allowed.includes(next))) continue;
+      // The moved text may end by closing the parameter. If it carries the field
+      // after it too, it is moved whole and undone on the next pass; whatever
+      // plumbing is still left after that, findToolSpill refuses.
+      const tail = rest.replace(/\s*<\/parameter\s*>\s*$/i, '');
+      if (!own.trim() || !tail.trim() || TOOL_MARKERS.test(own)) continue;
+      out[key] = own.trim();
+      out[next] = tail.trim();
+      restored.push(next);
+      moved = true;
+    }
+    if (!moved) break;
+  }
+  return restored;
+}
