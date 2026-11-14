@@ -20,7 +20,10 @@ import { join } from 'node:path';
 import { latinDrops, CJK_LANGS } from './lib/latin-drop.mjs';
 import { requireExamined } from './lib/examined.mjs';
 
-const ROOTS = ['src/content/i18n', 'src/content/itineraries-i18n', 'src/content/essentials-i18n'];
+// Every translated root, not three of the five: topic pages and static pages
+// are translated by their own writers and nothing read them here (2026-11-14,
+// both clean on the day they were added: 18 and 15 files).
+const ROOTS = ['src/content/i18n', 'src/content/itineraries-i18n', 'src/content/essentials-i18n', 'src/content/essentials-topics-i18n', 'src/content/static-pages-i18n'];
 const LIST = process.argv.includes('--list');
 
 let examined = 0;

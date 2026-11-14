@@ -18,6 +18,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fixCjkBold } from './lib/cjk-bold.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
+import { latinDrops } from './lib/latin-drop.mjs';
 import { srcHashOfSourceFile, storedHashIn, stampSrcHash } from './lib/src-hash.mjs';
 import { runBatch } from './lib/claude-batch.mjs';
 
@@ -113,6 +114,12 @@ async function translateOne(langCode, slug, data, hash, reply = null) {
   if (String(out.body).trim().length < 0.2 * String(data.body || '').trim().length) {
     throw new Error(`translation body is a stub (${String(out.body).trim().length} chars against ${String(data.body || '').trim().length})`);
   }
+  // The gate translate-posts has had since 09-07: an English word standing
+  // where the translated one belongs (観光 coming back as "observation"). This
+  // writer never got it; an itinerary went out that way on 2026-11-14. A
+  // refused translation writes nothing, and the next run tries again.
+  const drops = latinDrops([out.title, out.description, out.body].filter(Boolean).join('\n'), langCode);
+  if (drops.length) throw new Error(`english word left in the translation: ${drops.slice(0, 3).join(' · ')}`);
 
   const fm = {
     lang: langCode,
@@ -139,7 +146,7 @@ async function translateOne(langCode, slug, data, hash, reply = null) {
 const files = (await readdir(SRC)).filter((f) => f.endsWith('.md'));
 const langs = ONLY_LANG ? [ONLY_LANG] : Object.keys(LANGS);
 const jobs = [];
-const plan = { missing: 0, stale: 0, fresh: 0, legacy: 0, forced: 0 };
+const plan = { missing: 0, stale: 0, fresh: 0, legacy: 0, forced: 0, dropped: 0 };
 let stamped = 0;
 let count = 0;
 
@@ -165,7 +172,10 @@ for (const f of files) {
     else if (!existsSync(target)) reason = 'missing';
     else {
       const stored = storedHashIn(await readFile(target, 'utf8'));
-      if (stored === hash) reason = 'fresh';
+      // Up to date by its hash, and carrying an English word where the translated
+      // one belongs: not up to date (the repair for what audit-latin-drops names;
+      // the publish run's repair step reads src/content/i18n only, 2026-11-14).
+      if (stored === hash) reason = latinDrops(await readFile(target, 'utf8'), lang).length ? 'dropped' : 'fresh';
       else if (stored === null) {
         // Written before hashing existed. Stamp it as current rather than pay
         // to re-translate prose nobody changed; the next real edit re-queues it.

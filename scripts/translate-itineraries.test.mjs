@@ -181,3 +181,23 @@ test('assembleI18nFrontmatter: falls back description to title when missing, qui
   assert.equal(fm.quickAnswer, '');
   assert.deepEqual(fm.whys, {});
 });
+
+// ── 영어 단어가 남은 번역(2026-11-14 ja/hiroshima-3-days 「…が best で…」) ──────────
+// 감사(audit-latin-drops)는 쓰인 파일 전체를 읽는다. 이 도구의 관문도 같은 글자를 같은 함수로 본다.
+test('a translation with an English word left in it is caught on the file as written', async () => {
+  const yaml = (await import('js-yaml')).default;
+  const { latinDrops } = await import('./lib/latin-drop.mjs');
+  const stopSlugs = new Set(['hiroshima-peace-memorial-park']);
+  const fileOf = (why) => {
+    const fm = assembleI18nFrontmatter({
+      lang: 'ja', slug: 'hiroshima-3-days', sourceHash: 'h',
+      out: { title: '広島3日間', description: '広島の3日間モデルコース', quickAnswer: '', faq: [{ q: 'いつ行くのが良いですか?', a: why }], days: [{ label: '1日目', intro: '中区を歩きます。' }], whys: { 'hiroshima-peace-memorial-park': '平和記念公園から始めます。' } },
+      stopSlugs,
+    });
+    return `---\n${yaml.dump(fm, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n`;
+  };
+  assert.ok(latinDrops(fileOf('宮島は午前中が best で、午後は混み合います。'), 'ja').length > 0);
+  assert.deepEqual(latinDrops(fileOf('宮島は午前中が最適で、午後は混み合います。'), 'ja'), []);
+  // 스페인어 번역은 대상이 아니다
+  assert.deepEqual(latinDrops(fileOf('La mañana es best para Miyajima.'), 'es'), []);
+});

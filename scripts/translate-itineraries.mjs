@@ -32,6 +32,7 @@ import { join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { findToolSpill } from './lib/tool-spill.mjs';
+import { latinDrops } from './lib/latin-drop.mjs';
 
 const DEFAULT_SOURCE_DIR = fileURLToPath(new URL('../src/content/itineraries/', import.meta.url));
 const DEFAULT_OUT_DIR = fileURLToPath(new URL('../src/content/itineraries-i18n/', import.meta.url));
@@ -249,8 +250,18 @@ async function translateOne(langCode, id, data, attempt = 1) {
     messages: [{ role: 'user', content: buildPrompt(LANGS[langCode], data) }],
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
+  let file;
   try {
     validateTranslationOutput(out, data.days, data.stopSlugs, (data.faq || []).length);
+    const fm = assembleI18nFrontmatter({ lang: langCode, slug: id, sourceHash: data.stopsHash, out, stopSlugs: data.stopSlugs });
+    file = `---\n${yaml.dump(fm, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n`;
+    // The gate translate-posts has had since 09-07 and this writer never got:
+    // an English word standing where the translated one belongs. ja/hiroshima-
+    // 3-days went out with 「…が best で…」 on 2026-11-14, the audit found it the
+    // same day, and the repair run only knows src/content/i18n. Judged on the
+    // file as written, which is exactly what audit-latin-drops reads.
+    const drops = latinDrops(file, langCode);
+    if (drops.length) throw new Error(`english word left in the translation: ${drops.slice(0, 3).join(' · ')}`);
   } catch (e) {
     if (attempt < MAX_ATTEMPTS) {
       console.log(`     ↻ ${langCode}/${id} — ${e.message}, retrying (attempt ${attempt + 1})`);
@@ -259,10 +270,8 @@ async function translateOne(langCode, id, data, attempt = 1) {
     throw new Error(`${e.message} (after ${attempt} attempts)`);
   }
 
-  const fm = assembleI18nFrontmatter({ lang: langCode, slug: id, sourceHash: data.stopsHash, out, stopSlugs: data.stopSlugs });
   const dir = join(OUT_DIR, langCode);
   await mkdir(dir, { recursive: true });
-  const file = `---\n${yaml.dump(fm, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n`;
   await writeFile(join(dir, `${id}.md`), file, 'utf8');
 }
 
@@ -304,6 +313,12 @@ async function existingSourceHash(langCode, id) {
   return fm?.sourceHash ?? null;
 }
 
+/** The English words left in an existing translation ([] for es, or no file). */
+async function droppedWords(langCode, id) {
+  const p = join(OUT_DIR, langCode, `${id}.md`);
+  return existsSync(p) ? latinDrops(await readFile(p, 'utf8'), langCode) : [];
+}
+
 // ── main ─────────────────────────────────────────────────────────────────
 
 async function main() {
@@ -324,7 +339,13 @@ async function main() {
     for (const lang of langs) {
       if (!LANGS[lang]) continue;
       const existingHash = await existingSourceHash(lang, it.id);
-      if (!needsTranslation(existingHash, it.stopsHash, FORCE)) continue;
+      // A translation already on disk with an English word left in it is not
+      // up to date, whatever its hash says. This is the repair: the publish
+      // run's own repair step reads src/content/i18n only, so an itinerary the
+      // audit named stayed named until someone came by hand (2026-11-14).
+      const dropped = existingHash !== null && (await droppedWords(lang, it.id)).length > 0;
+      if (dropped) console.log(`  ↺ ${lang}/${it.id} — an English word was left in it, translating again`);
+      if (!dropped && !needsTranslation(existingHash, it.stopsHash, FORCE)) continue;
       jobs.push({ lang, id: it.id, data: it.data });
       queuedForThisItem = true;
     }
