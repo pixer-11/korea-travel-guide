@@ -1,6 +1,6 @@
 ---
 title: 'Diana Krall Live in Hong Kong: Dates, Tickets & Venue (Hong Kong)'
-description: Diana Krall Live in Hong Kong takes place on November 13, 2026, at the Xiqu Centre Grand Theatre in the West Kowloon Cultural District.
+description: Diana Krall Live in Hong Kong was set for November 13, 2026, at the Xiqu Centre Grand Theatre in the West Kowloon Cultural District.
 country: Hong Kong
 region: Hong Kong
 category: event
@@ -31,10 +31,10 @@ gallery:
 tags:
   - hong kong
   - event
-quickAnswer: Diana Krall Live in Hong Kong takes place on November 13, 2026, at the Xiqu Centre Grand Theatre in the West Kowloon Cultural District. The closest MTR stop is Austin Station on the Tuen Ma Line, a short walk from the theatre. Tickets and seating details are sold through the event's official ticketing channel, and no price is listed here.
+quickAnswer: Diana Krall Live in Hong Kong was set for November 13, 2026, at the Xiqu Centre Grand Theatre in the West Kowloon Cultural District. The closest MTR stop is Austin Station on the Tuen Ma Line, a short walk from the theatre. Tickets and seating were sold through the event's official ticketing channel.
 faq:
   - q: When and where is Diana Krall performing in Hong Kong?
-    a: She performs on November 13, 2026, at the Grand Theatre of the Xiqu Centre in the West Kowloon Cultural District, at the corner of Austin Road West and Canton Road.
+    a: Her concert was scheduled for November 13, 2026, at the Grand Theatre of the Xiqu Centre in the West Kowloon Cultural District. The theatre stands at the corner of Austin Road West and Canton Road.
   - q: What is the nearest MTR station to the Xiqu Centre?
     a: Austin Station on the Tuen Ma Line is the closest, a few minutes' walk away. Kowloon Station (Tung Chung Line and Airport Express) is also within walking distance via the Elements mall.
   - q: How big is the Grand Theatre?
@@ -42,16 +42,15 @@ faq:
   - q: Can I take photos during the concert?
     a: Hong Kong theatres generally prohibit photography and recording during performances, and ushers at the Xiqu Centre enforce this.
   - q: What is there to do nearby before the show?
-    a: M+ and the Hong Kong Palace Museum are a short walk west along the waterfront, the Art Park looks across Victoria Harbour, and the Elements mall has many restaurants.
+    a: M+ and the Hong Kong Palace Museum are a short walk west along the waterfront. The Art Park looks across Victoria Harbour, and the Elements mall has many restaurants.
 aiGenerated: true
 draft: false
 ---
-
 ## A jazz night in an opera house
 
-Diana Krall plays Hong Kong on November 13, 2026. Her stage is the Grand Theatre of the Xiqu Centre, a hall built for Cantonese opera rather than arena pop.
+Diana Krall was set to play Hong Kong on November 13, 2026. Her stage was the Grand Theatre of the Xiqu Centre, a hall built for Cantonese opera rather than arena pop.
 
-That choice matters. The Grand Theatre holds roughly a thousand seats across its stalls and balconies. Even the upper tiers sit close to the piano, which suits a singer who works in a near-whisper.
+That choice mattered. The Grand Theatre holds roughly a thousand seats across its stalls and balconies. Even the upper tiers sit close to the piano, which suits a singer who works in a near-whisper.
 
 Krall is the Canadian pianist and singer from Nanaimo, British Columbia, behind albums such as *The Look of Love*, *The Girl in the Other Room* and *This Dream of You*. Her concerts usually lean on the Great American Songbook. She plays the piano herself, backed by a small band.
 
@@ -69,14 +68,14 @@ Concertgoers coming from Hong Kong Island usually take the Tuen Ma Line from Adm
 
 ## Theatre manners at the Xiqu Centre
 
-The Grand Theatre is a seated, formal room, and the audience treats it that way. Here is what attendees usually do:
+The Grand Theatre is a seated, formal room, and audiences treat it that way. This is how a night there usually goes:
 
-- **Tap in with an Octopus card** on the MTR. It is also accepted at many kiosks and shops around the district.
-- **Treat the atrium as the meeting point.** It is a large open hall under the lantern, so groups gather there rather than at the doors.
-- **Put phones away once the music starts.** Hong Kong theatres generally prohibit photography and recording during performances, and ushers enforce it.
-- **Stay seated through the encore.** Krall's audiences tend to listen in silence and applaud between songs, not over them.
+- **Octopus cards** work on the MTR. They are also accepted at many kiosks and shops around the district.
+- **The atrium is the usual meeting point.** It is a large open hall under the lantern, so groups gather there rather than at the doors.
+- **Phones go away once the music starts.** Hong Kong theatres generally prohibit photography and recording during performances, and ushers enforce it.
+- **Audiences stay seated through the encore.** Krall's audiences tend to listen in silence and applaud between songs, not over them.
 
-Afterwards the queue at the taxi stand on Austin Road West grows quickly. Many people walk to Kowloon Station or Austin Station instead.
+After a show, the queue at the taxi stand on Austin Road West grows quickly. Many people walk to Kowloon Station or Austin Station instead.
 
 ## Before and after the show
 

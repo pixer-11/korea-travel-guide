@@ -597,6 +597,12 @@
   "reason": "event-mode back-audit: UFC-branded booth, relevant to event promotion",
   "at": "2026-08-07T13:02:32.881Z"
  },
+ "abu-dhabi-wahat-al-karama\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/WAHAT_AL_KARAMA_1.jpg/1920px-WAHAT_AL_KARAMA_1.jpg": {
+  "slug": "abu-dhabi-wahat-al-karama",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Wahat Al Karama memorial monument, representative view",
+  "at": "2026-11-14T07:45:31.834Z"
+ },
  "abu-dhabi-yana\u0001https://images.unsplash.com/photo-1512632578888-169bbbc64f33?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QWJ1JTIwRGhhYmklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXN8ZW58MHwwfHx8MTc4NTM2MTk2N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "abu-dhabi-yana",
   "verdict": "MISMATCH",
@@ -3080,6 +3086,12 @@
   "reason": "patrol reject: Generic musicians, not identifiable as Jason Mraz or venue",
   "at": "2026-10-05T15:06:41.915Z"
  },
+ "bangkok-jim-thompson-house-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067633572%29.jpg/3840px-Jim_Thompson_House_Bangkok%2C_Tahiland_%2815067633572%29.jpg": {
+  "slug": "bangkok-jim-thompson-house-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Traditional Thai house exterior matches Jim Thompson House Museum",
+  "at": "2026-11-14T07:45:32.304Z"
+ },
  "bangkok-khao-san-sek\u0001https://fastly.4sqi.net/img/general/original/19173375_C_1sc7A5qQMoZUCN0mINi4MwseHx24sAt6HJuqd0bN0.jpg": {
   "slug": "bangkok-khao-san-sek",
   "verdict": "MATCH",
@@ -4756,6 +4768,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Alexanderplatz square with TV Tower, representative view",
   "at": "2026-10-10T07:42:43.400Z"
+ },
+ "berlin-alte-nationalgalerie\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1920px-AlteNationalgalerie_1a.jpg": {
+  "slug": "berlin-alte-nationalgalerie",
+  "verdict": "MATCH",
+  "reason": "publish gate: Classic facade view of Alte Nationalgalerie museum",
+  "at": "2026-11-14T07:45:32.345Z"
  },
  "berlin-artms-berlin-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20250503_ARTMS_Eindhoven_concert_01.jpg/1920px-20250503_ARTMS_Eindhoven_concert_01.jpg": {
   "slug": "berlin-artms-berlin-2026",
@@ -10123,6 +10141,12 @@
   "reason": "publish gate: Recognisable exterior of the loggia with market stalls",
   "at": "2026-09-26T07:50:44.701Z"
  },
+ "florence-museo-nazionale-del-bargello\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Florence%2C_Bargello%2C_Sala_di_Donatello_%28detail%29.jpg/1920px-Florence%2C_Bargello%2C_Sala_di_Donatello_%28detail%29.jpg": {
+  "slug": "florence-museo-nazionale-del-bargello",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative interior gallery view of Bargello museum",
+  "at": "2026-11-14T07:45:32.416Z"
+ },
  "florence-palazzo-vecchio\u0001https://fastly.4sqi.net/img/general/original/1400671761_eH1r_JGC4OEIcbpvuWvuvtDylPxPIndUMZlUicvxvZc.jpg": {
   "slug": "florence-palazzo-vecchio",
   "verdict": "MATCH",
@@ -12712,6 +12736,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: a hotel club-lounge buffet, not this cafe (owner photo review 2026-11-13)",
   "at": "2026-11-12T16:37:49.752Z"
+ },
+ "hiroshima-hiroshima-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hiroshima_Museum_of_Art_20170311.jpg/3840px-Hiroshima_Museum_of_Art_20170311.jpg": {
+  "slug": "hiroshima-hiroshima-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Hiroshima Museum of Art entrance",
+  "at": "2026-11-14T07:45:32.475Z"
  },
  "hiroshima-hiroshima-orizuru-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Observatory_of_the_Hiroshima_Orizuru_Tower.jpg/3840px-Observatory_of_the_Hiroshima_Orizuru_Tower.jpg": {
   "slug": "hiroshima-hiroshima-orizuru-tower",
@@ -19062,6 +19092,12 @@
   "reason": "publish gate: Exterior view of Kyoto National Museum building with pond",
   "at": "2026-09-17T07:51:35.157Z"
  },
+ "kyoto-nidec-kyoto-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nidec-Kyoto-Tower.jpg/3840px-Nidec-Kyoto-Tower.jpg": {
+  "slug": "kyoto-nidec-kyoto-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view clearly showing Kyoto Tower landmark structure",
+  "at": "2026-11-14T07:45:32.510Z"
+ },
  "kyoto-yoichiba\u0001https://fastly.4sqi.net/img/general/original/77848690_snks_eDS7Y7RwK4ERFbkj-BQ2nz5HazV7YK2Hkak1Ew.jpg": {
   "slug": "kyoto-yoichiba",
   "verdict": "MATCH",
@@ -21696,6 +21732,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Shakira singing on stage, valid concert hero image",
   "at": "2026-09-13T16:21:24.619Z"
+ },
+ "madrid-sorolla-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museo_Sorolla_%28Madrid%29_01.jpg/1920px-Museo_Sorolla_%28Madrid%29_01.jpg": {
+  "slug": "madrid-sorolla-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Sorolla Museum building exterior, recognizable facade and wall",
+  "at": "2026-11-14T07:45:32.382Z"
  },
  "madrid-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Taemin_at_Dream_Concert_2015_05.jpg": {
   "slug": "madrid-taemin-liminal-world-tour",
@@ -25769,6 +25811,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Ripley's Believe It or Not, Niagara Falls",
   "at": "2026-10-22T07:49:24.379Z"
+ },
+ "niagara-falls-skylon-tower\u0001https://upload.wikimedia.org/wikipedia/commons/1/16/Tourists_and_staff_in_the_Skylon_Tower_observation_deck%2C_Niagara_Falls%2C_Canada%2C_2007.jpg": {
+  "slug": "niagara-falls-skylon-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Observation deck view interior with visitors, matches Skylon Tower",
+  "at": "2026-11-14T07:45:32.606Z"
  },
  "niagara-falls-table-rock-welcome-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg/1920px-Niagara_falls_visitor_center_04.07.2012_14-48-37.jpg": {
   "slug": "niagara-falls-table-rock-welcome-centre",
@@ -37631,6 +37679,12 @@
   "reasonKo": "전문적인 커피 장비를 갖춘 현대 카페",
   "at": "2026-08-03T14:40:46.822Z"
  },
+ "tokyo-yoyogi-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Shibuya%2C_Yoyogi_Park%2C_Shinjuku%2C_seen_from_Shibuya_Stream.jpg/3840px-Shibuya%2C_Yoyogi_Park%2C_Shinjuku%2C_seen_from_Shibuya_Stream.jpg": {
+  "slug": "tokyo-yoyogi-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Yoyogi Park's green expanse amid Tokyo skyline",
+  "at": "2026-11-14T07:45:31.891Z"
+ },
  "tokyo-zojo-ji\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Z%C5%8Dj%C5%8D-ji_20241021.jpg/1920px-Z%C5%8Dj%C5%8D-ji_20241021.jpg": {
   "slug": "tokyo-zojo-ji",
   "verdict": "MATCH",
@@ -38774,6 +38828,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Group of tripleS performers on stage at event",
   "at": "2026-10-25T23:04:29.660Z"
+ },
+ "vancouver-vancouver-seawall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seawall2.jpg/1920px-Seawall2.jpg": {
+  "slug": "vancouver-vancouver-seawall",
+  "verdict": "MATCH",
+  "reason": "publish gate: Waterside pathway matches Vancouver Seawall scenery",
+  "at": "2026-11-14T07:45:32.571Z"
  },
  "vancouver-vandusen-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VanDusen_Botanical_Garden_1.jpg/1920px-VanDusen_Botanical_Garden_1.jpg": {
   "slug": "vancouver-vandusen-botanical-garden",

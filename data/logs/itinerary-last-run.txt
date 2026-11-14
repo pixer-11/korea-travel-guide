@@ -1,3 +1,4 @@
+SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "Montreal" — weekly new-city cap (2/7d) reached
 SKIP new city "Phuket" — weekly new-city cap (2/7d) reached
@@ -14,11 +15,18 @@ Seoul, South Korea — 27 qualifying post(s), variants: 3, 5
   = Seoul 3d — unchanged, skipping
   = Seoul 5d — unchanged, skipping
 
-Tokyo, Japan — 23 qualifying post(s), variants: 3
-  = Tokyo 3d — unchanged, skipping
+Tokyo, Japan — 24 qualifying post(s), variants: 3, 5
+  ~ Tokyo 3d — structure changed by 4 slug(s), regenerating prose
+  ✅ Tokyo 3d — updated
+  ~ Tokyo 5d — structure changed by 5 slug(s), regenerating prose
+  ⚠ Tokyo 5d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
+  ⚠ Tokyo 5d — model reply was malformed (model output missing quickAnswer (stop_reason=tool_use in=9114 out=2914/4000)); asking once more
+ERROR processing Tokyo: model output missing quickAnswer (stop_reason=tool_use in=9114 out=3366/4000)
 
-Bangkok, Thailand — 23 qualifying post(s), variants: 3
+Bangkok, Thailand — 24 qualifying post(s), variants: 3, 5
   = Bangkok 3d — unchanged, skipping
+  ⚠ Bangkok 5d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
+NEW_ITINERARY: Bangkok 5d
 
 Bali, Indonesia — 13 qualifying post(s), variants: 3
   = Bali 3d — unchanged, skipping
@@ -44,6 +52,9 @@ Chicago, United States — 12 qualifying post(s), variants: 3
 Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
 
+Hiroshima, Japan — 12 qualifying post(s), variants: 3
+NEW_ITINERARY: Hiroshima 3d
+
 Ho Chi Minh City, Vietnam — 17 qualifying post(s), variants: 3
   = Ho Chi Minh City 3d — unchanged, skipping
 
@@ -59,9 +70,6 @@ Istanbul, Turkey — 12 qualifying post(s), variants: 3
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
-
-Lyon, France — 15 qualifying post(s), variants: 3
-  · Lyon 3d — skipped: day 2 totals only 219 min (floor 240) and no further sight can be added to it
 
 Macau, Macau — 52 qualifying post(s), variants: 3, 5
   = Macau 3d — unchanged, skipping
@@ -83,7 +91,7 @@ Singapore, Singapore — 79 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

@@ -2,67 +2,67 @@
 lang: es
 slug: istanbul-alt-n-gun
 srcHash: '1f98b70be23e'
-title: 'Altın Gün en Estambul: fecha, entradas y recinto'
-description: El viernes 13 de noviembre de 2026, la banda neerlandesa-turca Altın Gün presenta su rock anatolio psicodélico en el Volkswagen Arena, un recinto cubierto del distrito estambulí de Maslak.
-quickAnswer: El viernes 13 de noviembre de 2026, la banda neerlandesa-turca Altın Gün presenta su rock anatolio psicodélico en el Volkswagen Arena, un recinto cubierto del distrito estambulí de Maslak. Las fechas y los enlaces de venta figuran en la página oficial de la gira del grupo. Desde la estación İTÜ–Ayazağa, en la línea M2 del metro, se llega al recinto con un breve paseo, y a la mayoría del público le resulta más cómodo que tomar un taxi un viernes por la noche entre los atascos de Maslak.
+title: 'Altın Gün en Estambul: fechas, entradas y recinto'
+description: Altın Gün tenía anunciado un concierto en el Volkswagen Arena, en el distrito estambulí de Maslak, el viernes 13 de noviembre de 2026. La banda neerlandesa-turca llevaba su rock anatolio psicodélico a un pabellón cubierto.
+quickAnswer: Altın Gün tenía anunciado un concierto en el Volkswagen Arena, en el distrito estambulí de Maslak, el viernes 13 de noviembre de 2026. La banda neerlandesa-turca llevaba así su rock anatolio psicodélico a un pabellón cubierto. Las fechas y los enlaces de venta de entradas figuraban en la página oficial de giras del grupo. El recinto queda a un corto paseo de la estación İTÜ–Ayazağa, en la línea M2 de metro. Para la mayoría de los asistentes, el metro resultaba más cómodo que un taxi atrapado un viernes por la noche en el tráfico de Maslak.
 faq:
-  - q: ¿Cuándo y dónde actúa Altın Gün en Estambul?
-    a: El concierto será el viernes 13 de noviembre de 2026 en el Volkswagen Arena. Este recinto forma parte del complejo UNIQ Istanbul, en Maslak, en la orilla europea de la ciudad.
+  - q: ¿Cuándo y dónde tocaba Altın Gün en Estambul?
+    a: El concierto de Altın Gün en el Volkswagen Arena estaba anunciado para el viernes 13 de noviembre de 2026. El pabellón forma parte del complejo UNIQ Istanbul, en Maslak, en la orilla europea de la ciudad.
   - q: ¿Cuál es la estación de metro más cercana al Volkswagen Arena?
-    a: La de İTÜ–Ayazağa, en la línea M2. Desde allí se llega al recinto con un breve paseo, y la M2 conecta directamente con Taksim, Şişhane y Levent sin necesidad de transbordo.
-  - q: ¿Dónde se venden las entradas?
-    a: 'En la web oficial del grupo hay una página de la gira con la fecha de Estambul y los enlaces de venta. Esta guía no indica precios: se consultan en el punto de venta.'
-  - q: ¿Qué tipo de música hace Altın Gün?
-    a: Rock psicodélico con raíces en el folk anatolio. El grupo reinterpreta canciones de artistas como Neşet Ertaş o Aşık Veysel con bağlama eléctrico, órgano, bajo con fuzz y batería. Su disco Gece estuvo nominado al Grammy al Mejor Álbum de Música del Mundo.
-  - q: ¿Dónde se puede comer o alojarse cerca del concierto?
-    a: En Maslak abundan sobre todo las oficinas y los centros comerciales. Quienes van al concierto suelen comer en Şişhane, Karaköy o Nişantaşı, o bien en los centros comerciales de Levent junto a la estación, y se alojan en Beyoğlu o Şişli. Todas estas zonas están en la línea M2.
+    a: Es İTÜ–Ayazağa, en la línea M2. Desde allí se llega al pabellón con un corto paseo. La M2 viene directamente desde Taksim, Şişhane y Levent, sin transbordos.
+  - q: ¿Dónde se anunciaban las entradas?
+    a: La web oficial del grupo tenía una página de giras con la fecha de Estambul y los enlaces de venta. Aquí no se indican los precios, que aparecían en el punto de venta.
+  - q: ¿Qué tipo de música toca Altın Gün?
+    a: Tocan rock psicodélico basado en el folclore de Anatolia. Reinterpretan canciones de artistas como Neşet Ertaş y Aşık Veysel con bağlama eléctrico, órgano, bajo distorsionado y batería. Su álbum Gece fue nominado al Grammy al Mejor Álbum de Música del Mundo.
+  - q: ¿Dónde se come o se aloja la gente que va al concierto?
+    a: Maslak es, sobre todo, una zona de oficinas y centros comerciales. Los asistentes suelen comer en Şişhane, Karaköy o Nişantaşı, o en los centros comerciales de Levent cercanos a la estación. Para alojarse eligen Beyoğlu o Şişli. Todas estas zonas están en la línea M2.
 ---
 
 ## Canciones populares a todo volumen
 
-Imagine la melodía de saz de una vieja canción de aldea interpretada con un bağlama eléctrico, sostenida por un bajo con fuzz, una batería y un manto de órgano. Ese choque es Altın Gün. El grupo nació en Ámsterdam en 2016 en torno al bajista neerlandés Jasper Verhulst, que quería tocar los discos de psicodelia turca de los que se había enamorado.
+Imagine una melodía de saz, sacada de una vieja canción de aldea, tocada con un bağlama eléctrico. Detrás suenan un bajo distorsionado, una batería y un manto de órgano. De ese choque nace Altın Gün. El grupo se formó en Ámsterdam en 2016 en torno al bajista neerlandés Jasper Verhulst. Él quería tocar los discos de psicodelia turca de los que se había enamorado.
 
-Buena parte de su repertorio reinterpreta el folk anatolio y el rock Anadolu de los años setenta, con versiones de artistas como Neşet Ertaş, Aşık Veysel y Selda Bağcan. Su segundo disco, *Gece*, estuvo nominado al Grammy al Mejor Álbum de Música del Mundo. Después llegaron *Yol*, *Dönüş* y *Aşk*.
+Gran parte de su repertorio reinterpreta el folclore de Anatolia y el rock anatolio (Anadolu rock) de la década de 1970, con artistas como Neşet Ertaş, Aşık Veysel o Selda Bağcan. *Gece*, su segundo álbum, fue nominado al Grammy al Mejor Álbum de Música del Mundo. Después llegaron *Yol*, *Dönüş* y *Aşk*.
 
-## La cita en Estambul y el recinto
+## La fecha en Estambul y el recinto
 
-El concierto se celebra el viernes 13 de noviembre de 2026 en el Volkswagen Arena. Con público turco, la noche cambia por completo. En Ámsterdam o en Londres, gran parte de los asistentes acude por el ritmo; en Estambul, en cambio, muchos crecieron escuchando las versiones originales de estas canciones y se saben cada palabra.
+El concierto estaba programado para el viernes 13 de noviembre de 2026 en el Volkswagen Arena. Con un público turco, la noche cambia por completo. En Ámsterdam o en Londres, buena parte de los asistentes acude por el ritmo. En Estambul, en cambio, muchos crecieron con las versiones originales de estas canciones y se saben todas las letras.
 
-El Volkswagen Arena pertenece al complejo UNIQ Istanbul, situado en Maslak, el distrito financiero de torres acristaladas de la orilla europea. Al tratarse de un recinto cubierto concebido para conciertos, el tiempo fresco y húmedo propio de noviembre en Estambul se queda fuera. En la web oficial del grupo hay una página de la gira con la fecha y los enlaces de venta.
+El Volkswagen Arena forma parte del complejo UNIQ Istanbul. Se encuentra en Maslak, el distrito de negocios de torres acristaladas de la orilla europea de la ciudad. Es un pabellón cubierto concebido para conciertos. Por eso, el tiempo fresco y húmedo que suele hacer en Estambul en noviembre se queda fuera. La fecha y los enlaces de venta de entradas aparecían en la página de giras de la web oficial del grupo.
 
 ## Cómo llegar a Maslak
 
-Lo más lógico es ir en la línea M2 del metro, que sube hacia el norte desde Yenikapı y pasa por Şişhane, Taksim, Osmanbey y Levent. La parada más próxima es **İTÜ–Ayazağa**, a un breve paseo del recinto.
+La opción más lógica es la línea M2 de metro. Parte de Yenikapı y sube hacia el norte por Şişhane, Taksim, Osmanbey y Levent. La parada más cercana es **İTÜ–Ayazağa**, a un corto paseo del pabellón.
 
-- **Desde Taksim o Beyoğlu:** la M2 directa hacia el norte, sin transbordos, en unos 20 minutos.
-- **Desde la ciudad antigua (Sultanahmet):** el tranvía T1 hasta Kabataş, el funicular F1 hasta Taksim y, por último, la M2.
+- **Desde Taksim o Beyoğlu:** la M2 lleva directamente hacia el norte, sin transbordos, en unos 20 minutos.
+- **Desde la ciudad antigua (Sultanahmet):** el tranvía T1 llega hasta Kabataş. Allí se sube a Taksim en el funicular F1 y después se toma la M2.
 - **Desde la orilla asiática:** se cruza en Marmaray o en ferri y luego se toma la M2 en Yenikapı o en Taksim.
 
-No es casualidad que muchos eviten el taxi para este concierto: el tráfico de los viernes por la tarde en Maslak y Büyükdere Caddesi figura entre los más lentos de la ciudad. Como el andén del metro se llena enseguida tras los bises, algunos seguidores se quedan un rato en el complejo antes de volver a casa.
+No es casualidad que mucha gente evitara el taxi para ir a este concierto. Los viernes por la tarde, el tráfico de Maslak y de Büyükdere Caddesi está entre los más lentos de la ciudad. Después del bis, el andén del metro se llena enseguida. Por eso algunos seguidores se quedan un rato en el complejo antes de volver a casa.
 
-## Cantar a coro en un concierto de Altın Gün
+## Cantar en un concierto de Altın Gün
 
-Los habituales de estos conciertos suelen compartir algunas costumbres.
+Quienes repiten en estos conciertos suelen compartir algunas costumbres.
 
-- **Apréndase un estribillo.** El público suele devolver al escenario los estribillos populares, sobre todo en «Goca Dünya», «Cemalim» y «Tatlı Dile Güler Yüze». Con saberse uno solo, la noche ya merece la pena.
-- **Prepárese para bailar.** En el fondo, varias de estas versiones son piezas de baile. Cuando arranca algún ritmo regional, en la parte trasera de la pista hay quien se agarra del brazo para formar una improvisada fila de halay.
-- **Use una Istanbulkart.** Esta tarjeta de transporte recargable sirve para el metro, el tranvía, el funicular y los ferris. Se compra y se recarga en quioscos y máquinas de las estaciones principales, y en muchos tornos también se aceptan tarjetas bancarias sin contacto.
-- **Vístase por capas.** Dentro de un recinto lleno hace calor y fuera hay humedad, así que pasar dos horas de pie con el abrigo puesto resulta un suplicio.
+- **Saberse un estribillo.** El público suele corear hacia el escenario los estribillos populares. Los que más se cantan son «Goca Dünya», «Cemalim» y «Tatlı Dile Güler Yüze». Con saberse uno solo, la noche ya es otra.
+- **Bailar.** En el fondo, algunas de las canciones reinterpretadas son temas de baile. Cuando arranca un ritmo regional, a veces los seguidores enlazan los brazos en una improvisada fila de halay al fondo de la pista.
+- **La Istanbulkart.** Esta tarjeta recargable de transporte sirve para el metro, el tranvía, el funicular y los ferris. Se compra y se recarga en los quioscos y en las máquinas de las estaciones principales. En muchos tornos también se aceptan tarjetas bancarias sin contacto.
+- **Ropa por capas.** Con el pabellón lleno, dentro hace calor y fuera hay humedad. Pasar dos horas de pie con el abrigo puesto es un suplicio.
 
-En turco, «Altın Gün» se pronuncia aproximadamente *al-TÚN guiún* y significa «día dorado». Así se llama también un círculo de ahorro de mujeres turcas, y en eso reside parte de la gracia del nombre.
+En turco, «Altın Gün» se pronuncia aproximadamente *al-TUN güin* y significa «día dorado». También es el nombre de un círculo de ahorro entre mujeres turcas. Ahí está parte de la gracia del nombre.
 
 ## Antes y después del concierto
 
-Más allá de oficinas y centros comerciales, Maslak ofrece poco, de modo que la mayoría de los visitantes cena en otra parte y luego sube en metro. Los barrios de la línea M2 son la opción habitual.
+Maslak ofrece poco más que oficinas y centros comerciales. La mayoría de los visitantes come primero en otro barrio y sube después en metro. Los barrios de la línea M2 son la elección habitual.
 
-- **Şişhane y Karaköy:** meyhanes con meze y rakı, y la zona de la Torre de Gálata a pocos minutos a pie.
-- **Nişantaşı (estación de Osmanbey):** cafeterías y restaurantes en las calles que salen de Abdi İpekçi Caddesi.
-- **Levent:** los centros comerciales Kanyon y Metrocity, junto a la misma estación, para comer algo rápido cerca del recinto.
+- **Şişhane y Karaköy:** hay meyhanes con mezes y rakı, y la zona de la Torre de Gálata queda a pocos minutos a pie.
+- **Nişantaşı (estación Osmanbey):** hay cafeterías y restaurantes en las calles que salen de Abdi İpekçi Caddesi.
+- **Levent:** junto a la estación están los centros comerciales Kanyon y Metrocity, buenos para comer algo rápido cerca del recinto.
 
-Quienes viajan solo para el concierto suelen alojarse en Beyoğlu o Şişli. Ambos barrios están en la M2, lo que permite volver directamente después del concierto.
+Quienes viajan a la ciudad solo por el concierto suelen alojarse en Beyoğlu o en Şişli. Los dos barrios están en la M2, así que después del concierto se vuelve sin transbordos.
 
 ## Escuchar los discos antes
 
-Para disfrutar al máximo del repertorio conviene escuchar tanto las versiones como los originales. Las grabaciones de Neşet Ertaş y los recopilatorios de psicodelia turca de los años setenta revelan de dónde proceden los arreglos.
+El repertorio se disfruta más si se conocen tanto las versiones como los originales. Las grabaciones de Neşet Ertaş y los recopilatorios de psicodelia turca de la década de 1970 muestran de dónde salen los arreglos.
 
-Casi todos los recién llegados empiezan por *Gece*, el disco que le valió al grupo la nominación al Grammy. *Yol* y *Dönüş*, publicados ambos en 2021, recurren más a los sintetizadores y las cajas de ritmos. En directo, el grupo suele fundir ambas facetas.
+La mayoría de quienes descubren al grupo empiezan por *Gece*. Fue también el disco que le valió la nominación al Grammy. *Yol* y *Dönüş*, publicados ambos en 2021, recurren más a los sintetizadores y a las cajas de ritmos. En directo, el grupo suele mezclar ambas facetas.

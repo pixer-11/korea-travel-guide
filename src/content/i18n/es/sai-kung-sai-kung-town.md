@@ -1,69 +1,69 @@
 ---
 lang: es
 slug: sai-kung-sai-kung-town
-srcHash: 'f1349f507b2e'
+srcHash: '6bf49043efd0'
 title: 'Sai Kung Town: guía de viaje (4.4★)'
-description: 'Sai Kung Town es un antiguo pueblo de pescadores en la costa este de Hong Kong, hoy un paseo marítimo de restaurantes de marisco, muelles de sampanes y punto de partida hacia los senderos de Sai Kung Country Park. 4.4★ (120 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Sai Kung Town es un antiguo pueblo de pescadores en la costa este de Hong Kong, hoy un paseo marítimo de restaurantes de marisco, muelles de sampanes y punto de partida hacia los senderos de Sai Kung Country Park. Ven a última hora de la tarde entre semana para ver los barcos de pesca y los puestos flotantes de marisco antes de que llegue el gentío de la cena, y luego camina por el paseo marítimo hasta el Sai Kung Public Pier. Reserva medio día si lo combinas con una caminata o una excursión a la playa en la península.
+description: 'Antiguo pueblo pesquero de la costa este de Hong Kong, Sai Kung Town es hoy un paseo marítimo con restaurantes de marisco y embarcaderos de sampanes, además de la puerta de entrada a los senderos del Parque Rural de Sai Kung. 4.4★ (120 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: 'En la costa este de Hong Kong, el antiguo pueblo pesquero de Sai Kung Town se ha convertido en un paseo marítimo de restaurantes de marisco y embarcaderos de sampanes desde el que parten los senderos hacia el Parque Rural de Sai Kung (Sai Kung Country Park). Lo ideal es llegar a última hora de la tarde de un día laborable, antes de que se llenen los restaurantes para la cena: así podrá ver los barcos de pesca y los puestos flotantes de marisco. Después, recorra la orilla hasta el muelle público de Sai Kung (Sai Kung Public Pier). Si piensa combinar la visita con una caminata o una excursión a las playas de la península, resérvele medio día.'
 faq:
-  - q: ¿Cómo llego a Sai Kung Town sin coche?
-    a: Toma el minibús verde 1A o 1 desde las estaciones de MTR de Diamond Hill o Choi Hung; son unos 20-25 minutos y te deja cerca del centro del pueblo y del muelle.
-  - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana la previsión no marca ninguna franja tranquila, así que conviene llegar antes de las 5 pm, cuando empieza el gentío de la tarde. Los fines de semana, de 9 am a 2 pm y de nuevo desde las 5 pm, se llena de excursionistas que van hacia las playas.
-  - q: ¿Cuánto tiempo debería dedicarle a Sai Kung Town?
-    a: Calcula entre 2 y 3 horas para el paseo marítimo, el mercado y una comida de marisco, o medio día si lo combinas con un paseo en sampán o una caminata por Sai Kung Country Park.
+  - q: ¿Cómo se llega a Sai Kung Town sin coche?
+    a: Desde las estaciones de MTR de Diamond Hill o Choi Hung salen los minibuses verdes 1A y 1. El trayecto dura unos 20-25 minutos y termina cerca del centro del pueblo y del muelle.
+  - q: ¿Cuál es el momento más tranquilo para ir?
+    a: Entre semana, las previsiones no señalan ninguna franja especialmente tranquila, así que conviene llegar antes de las 5pm, que es cuando empieza la afluencia de la tarde. Los fines de semana hay mucha gente de 9am a 2pm y de nuevo a partir de las 5pm, porque muchos excursionistas se dirigen a las playas.
+  - q: ¿Cuánto tiempo hay que dedicar a Sai Kung Town?
+    a: Para el paseo marítimo, el mercado y una comida de marisco bastan 2-3 horas. Si además quiere dar un paseo en sampán o hacer una ruta por el Parque Rural de Sai Kung, calcule medio día.
   - q: ¿Es Sai Kung Town una buena excursión de un día con niños?
-    a: 'Sí: el muelle, los sampanes y los tanques de marisco resultan muy llamativos para los niños, y los cortos trayectos en barco a playas cercanas como Hap Mun Bay son un complemento sencillo.'
-  - q: ¿Necesito llevar efectivo?
-    a: El efectivo sigue siendo lo preferido en los puestos del mercado y entre los vendedores de sampanes más pequeños, aunque la mayoría de los restaurantes con mesa ya aceptan tarjeta o pago móvil.
+    a: Sí. El muelle, los sampanes y los acuarios de marisco resultan muy atractivos para los niños, y es fácil añadir un breve trayecto en barco hasta playas cercanas como la bahía de Hap Mun (Hap Mun Bay).
+  - q: ¿Hace falta llevar efectivo?
+    a: En los puestos del mercado y con los vendedores más pequeños de los sampanes se sigue prefiriendo el efectivo, aunque la mayoría de los restaurantes con servicio de mesa ya aceptan tarjeta o pago móvil.
 ---
 
-## Por qué vale la pena visitar Sai Kung Town
+## Por qué merece la pena ir a Sai Kung Town
 
-Sai Kung Town se encuentra en el lado este de los Nuevos Territorios (New Territories), donde la densidad de Hong Kong da paso de repente a mar abierto. Fue un asentamiento de pescadores mucho antes de convertirse en destino de excursión de un día, y esa historia todavía se percibe en el puerto.
+En el lado oriental de los Nuevos Territorios, allí donde la densidad de Hong Kong se abre de repente al mar, se encuentra Sai Kung Town. Mucho antes de convertirse en destino de excursiones de un día fue un asentamiento de pescadores, y esa historia sigue a la vista en el puerto.
 
-Se viene aquí por el contraste: torres de hormigón a tus espaldas, sampanes y tanques de peces enfrente, colinas verdes que se alzan al otro lado de la bahía. Es un frente marítimo en pleno funcionamiento que además resulta ser la puerta de entrada a algunas de las mejores rutas de senderismo y playas del territorio.
+Lo que atrae a los visitantes es el contraste: a la espalda, torres de hormigón; delante, sampanes y acuarios de pescado; al otro lado de la bahía, colinas verdes. Es un frente marítimo en plena actividad que, además, sirve de punto de partida hacia algunas de las mejores rutas de senderismo y playas del territorio.
 
 ## El paseo marítimo y el mercado flotante
 
-Camina por Sai Kung Praya, el paseo que discurre junto al refugio para tifones, y verás pequeños sampanes de madera amarrados junto a plataformas flotantes repletas de tanques. Son los vendedores de marisco: mero, gambas, galeras (mantis shrimp), vieiras aún en su concha.
+Junto al refugio para tifones discurre el paseo de Sai Kung Praya. Al recorrerlo verá pequeños sampanes de madera amarrados a plataformas flotantes repletas de acuarios. Son los vendedores de marisco, que ofrecen meros, gambas, galeras y vieiras todavía en su concha.
 
-Señalas lo que quieres, te lo pesan y lo llevas a uno de los restaurantes que bordean el paseo para que te lo cocinen. Es una forma inusualmente práctica de pedir la cena, y es lo que casi todos los visitantes recuerdan después.
+Usted señala lo que quiere, ellos lo pesan y después lo lleva a alguno de los restaurantes del paseo para que se lo cocinen. Es una forma insólitamente directa de pedir la cena, y lo que la mayoría de los visitantes recuerda más tarde.
 
-El Sai Kung Public Pier, justo en Chan Man Street, es el punto de referencia. Desde aquí salen barcos hacia las islas más pequeñas y hacia Hap Mun Bay y Sharp Island para nadar.
+El punto de referencia es el muelle público de Sai Kung (Sai Kung Public Pier), situado en Chan Man Street. De aquí salen barcos hacia las islas más pequeñas, así como a la bahía de Hap Mun (Hap Mun Bay) y a la isla Sharp (Sharp Island), donde se puede nadar.
 
 ## Cómo llegar
 
-No hay ninguna estación de MTR directamente en Sai Kung, lo cual explica en parte por qué todavía se siente separado del resto de la ciudad.
+Sai Kung no tiene estación de MTR propia, y en parte por eso todavía parece un lugar aparte del resto de la ciudad.
 
-- Desde las estaciones de MTR de Diamond Hill o Choi Hung, toma el minibús 1A o 1
-- Los minibuses verdes salen con frecuencia desde Choi Hung, en aproximadamente 20-25 minutos
-- En taxi desde Kowloon, cuenta con unos 20-30 minutos según el tráfico
-- Los autobuses 299 y 92 también conectan desde Sha Tin y Diamond Hill
+- Desde las estaciones de MTR de Diamond Hill o Choi Hung, tome el minibús 1A o el 1
+- Desde Choi Hung salen minibuses verdes con frecuencia; el trayecto dura unos 20–25 minutos
+- En taxi desde Kowloon, cuente con unos 20–30 minutos según el tráfico
+- Los autobuses 299 y 92 también llegan desde Sha Tin y Diamond Hill
 
-Una vez en el pueblo, todo —el muelle, el mercado, los restaurantes— se puede recorrer a pie en unos diez minutos.
+Ya en el pueblo, todo queda a unos diez minutos a pie: el muelle, el mercado y los restaurantes.
 
 ## Qué comer y qué hacer
 
-Además de los restaurantes de marisco a lo largo de la Praya, el pueblo cuenta con un auténtico mercado de productos frescos y una hilera de fideerías y panaderías una calle detrás del agua.
+Además de los restaurantes de marisco del Praya, el pueblo cuenta con un auténtico mercado de productos frescos y, una manzana más atrás del agua, con una hilera de casas de fideos y panaderías.
 
-- Pide mero al vapor o calamar con sal y pimienta en un restaurante frente a la Praya
-- Prueba el cangrejo estilo "typhoon-shelter" si está en el menú, una especialidad de Sai Kung
-- Toma un tentempié de bolas de pescado en un puesto del mercado para algo más rápido
-- Alquila un sampán para dar una vuelta corta por el puerto junto a las juncos amarradas
+- Pida mero al vapor o calamar con sal y pimienta en un restaurante del Praya
+- Si figura en la carta, pruebe el cangrejo al estilo del refugio para tifones, una especialidad de Sai Kung
+- Para algo más rápido, compre unas bolas de pescado en un puesto del mercado
+- Alquile un sampán y dé una vuelta corta por el puerto, entre los juncos amarrados
 
-Para los senderistas, Sai Kung Town es el punto de partida práctico hacia los senderos de Sai Kung Country Park y la zona del embalse de High Island (High Island Reservoir), ambos a otro trayecto en autobús o taxi más allá del centro del pueblo.
+Para los senderistas, Sai Kung Town es el punto de partida más práctico hacia los caminos del Parque Rural de Sai Kung y la zona del embalse de High Island (High Island Reservoir). A ambos se llega en autobús o taxi desde el centro del pueblo.
 
 ## Cuándo ir
 
-Entre semana la previsión no marca ninguna franja tranquila, pero a media tarde, antes de las 5 pm, te adelantas a la avalancha de la noche: el gentío del almuerzo ya se ha ido y el servicio de cena todavía no ha arrancado. Los fines de semana traen un flujo constante de excursionistas de Hong Kong que se dirigen a las playas, así que el paseo marítimo y las colas de minibús se notan más concurridos de 9 am a 2 pm y de nuevo desde las 5 pm.
+Entre semana, las previsiones no señalan ninguna franja especialmente tranquila, pero la última hora de la tarde, antes de las 5pm, es preferible a la afluencia vespertina: la gente del almuerzo ya se ha ido y el servicio de cenas aún no ha arrancado. Los fines de semana llega un flujo constante de excursionistas hongkoneses camino de las playas, de modo que el paseo y las colas del minibús se llenan notablemente de 9am a 2pm y de nuevo a partir de las 5pm.
 
-Las noches son cuando los restaurantes de marisco realmente cobran vida, con los tanques iluminados y las mesas llenándose junto al agua. Si quieres fotos de los barcos sin gente en el encuadre, las mañanas de fin de semana entre las 7 y las 8 am también son más tranquilas, aunque todavía hay menos puestos abiertos.
+Es por la noche cuando los restaurantes de marisco cobran vida de verdad, con los acuarios iluminados y las mesas ocupándose a lo largo de la orilla. Si quiere fotografiar los barcos sin gente en el encuadre, las mañanas de fin de semana hacia las 7–8am también son tranquilas, aunque a esa hora todavía abren pocos puestos.
 
 ## Cómo visitarlo como un local
 
-Pide el marisco por peso, no calculando precios de menú: pregunta al vendedor por un precio aproximado antes de que lo empaquete, ya que el precio varía según la pesca y la temporada. La mayoría de los restaurantes y puestos del mercado aceptan efectivo, aunque los restaurantes más grandes cada vez aceptan más tarjetas y pagos móviles como Octopus o FPS.
+El marisco se pide al peso, sin hacer cábalas con los precios de la carta. Antes de que el vendedor lo meta en la bolsa, pregúntele cuánto costará aproximadamente, ya que el precio varía según la captura y la temporada. La mayoría de los restaurantes y puestos del mercado aceptan efectivo, aunque cada vez más restaurantes grandes admiten tarjeta y pagos móviles como Octopus o FPS.
 
-No te limites a comer e irte: pasa de largo los restaurantes de la Praya orientados al turista y camina hacia las calles del mercado de productos frescos, una manzana tierra adentro, donde los precios son más asequibles y hay menos gente. El error habitual de los visitantes es tratar Sai Kung solo como una parada para comer marisco; los locales lo usan también como punto de tránsito, subiéndose directamente a un minibús o sampán rumbo a las playas y los senderos del parque natural más allá del pueblo.
+No se limite a comer y marcharse. Deje atrás los restaurantes del Praya orientados al turista y adéntrese una manzana tierra adentro, en las calles del mercado, donde los precios son más amables y hay menos gente. El error habitual del visitante es ver Sai Kung solo como una parada para comer marisco. Los vecinos, en cambio, lo utilizan también como nudo de transporte y desde allí suben directamente a un minibús o a un sampán rumbo a las playas y a los senderos del parque rural.
 
-Si vas a Hap Mun Bay o Sharp Island, compra el billete de barco en los quioscos del muelle en lugar de a un revendedor callejero, y confirma la hora del último trayecto de vuelta antes de salir, ya que los horarios cambian según la temporada y la marea.
+Si va a la bahía de Hap Mun o a la isla Sharp, compre el billete del barco en las taquillas del muelle y no a un gancho en la calle. Antes de salir, confirme también la hora del último barco de vuelta, porque los horarios cambian según la temporada y la marea.

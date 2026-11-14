@@ -5908,11 +5908,11 @@
   "at": "2026-11-13T07:52:16.395Z"
  },
  "es/sai-kung-sai-kung-town": {
-  "hash": "abd67571057b",
+  "hash": "3f618ae89af8",
   "score": 1,
   "registerBreak": false,
-  "worst": "Alquila un sampán para dar una vuelta corta por el puerto junto a las juncos amarradas",
-  "at": "2026-08-15T03:33:51.399Z"
+  "worst": "Entre semana, las previsiones no señalan ninguna franja especialmente tranquila",
+  "at": "2026-11-14T07:48:37.902Z"
  },
  "es/saint-cloud-paris-region-rock-en-seine-2026": {
   "hash": "76d6353911c6",
@@ -13139,11 +13139,11 @@
   "at": "2026-11-13T07:52:17.321Z"
  },
  "ja/sai-kung-sai-kung-town": {
-  "hash": "555da7c2d9b8",
+  "hash": "9a7cb2e62a25",
   "score": 1,
   "registerBreak": false,
-  "worst": "西貢(サイクン)には直接乗り入れるMTR駅がなく、それが今も街全体を市内の他の地域とは一線を画す雰囲気に保っている理由の一つです。",
-  "at": "2026-08-15T03:05:31.863Z"
+  "worst": "平日は混雑予測で特に空いている時間帯は示されていませんが、夜の混雑を避けるなら午後5時前の夕方前がおすすめです。",
+  "at": "2026-11-14T07:51:38.973Z"
  },
  "ja/saint-cloud-paris-region-rock-en-seine-2026": {
   "hash": "e6a0c1956629",
@@ -20433,11 +20433,11 @@
   "at": "2026-11-13T07:52:18.822Z"
  },
  "ko/sai-kung-sai-kung-town": {
-  "hash": "0851c90cf549",
+  "hash": "895c21c716ba",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 흔히 저지르는 실수는 사이쿵을 그저 해산물을 먹으러 들르는 곳으로만 여기는 것인데, 현지인들은",
-  "at": "2026-08-15T02:33:27.726Z"
+  "worst": "예보상 평일에 특별히 한산한 시간대는 없지만, 저녁 혼잡이 시작되기 전인 오후 5시 이전 늦은 오후가 낫습니다.",
+  "at": "2026-11-14T07:48:48.417Z"
  },
  "ko/saint-cloud-paris-region-rock-en-seine-2026": {
   "hash": "ce098a79268e",
@@ -27279,11 +27279,11 @@
   "at": "2026-11-13T07:52:19.676Z"
  },
  "zh/sai-kung-sai-kung-town": {
-  "hash": "dbdaacea9b7f",
+  "hash": "0d42cfee4468",
   "score": 1,
   "registerBreak": false,
-  "worst": "游客常犯的错误是把西贡当成单纯的海鲜打卡点，其实本地人更多把它当成一个中转站",
-  "at": "2026-08-15T07:03:10.324Z"
+  "worst": "工作日的人流预测里没有特别冷清的时段，但17:00之前的傍晚时分仍比晚高峰舒服",
+  "at": "2026-11-14T07:48:58.723Z"
  },
  "zh/saint-cloud-paris-region-rock-en-seine-2026": {
   "hash": "b04667a859db",
@@ -34761,13 +34761,6 @@
   "worst": "두 곳 사이의 해협은 영국에서 육지에서 큰돌고래를 보기 가장 좋은 곳 중 하나로 꼽힙니다.",
   "at": "2026-10-12T11:43:03.137Z"
  },
- "ko/istanbul-throwback-festival-2026": {
-  "hash": "dbcb5c72e3f0",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "믿을 수 있는 금액은 그 페이지에 나온 것뿐입니다.",
-  "at": "2026-10-12T11:43:03.435Z"
- },
  "ko/istanbul-yoko-ono-insound-and-instructure": {
   "hash": "0a206912335b",
   "score": 1,
@@ -36147,13 +36140,6 @@
   "worst": "根据谷歌目前的信息，公园全天开放。",
   "at": "2026-10-19T08:57:53.510Z"
  },
- "ko/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "f0370ff63b52",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "한스 짐머가 이 축제의 무대로 에티하드 아레나에서 라이브 공연을 펼칩니다.",
-  "at": "2026-11-08T07:53:45.284Z"
- },
  "ko/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
   "hash": "c2ade49ec446",
   "score": 1,
@@ -37372,13 +37358,6 @@
   "worst": "官方简介说它是一座\"历经多次战火的城堡\"，这种说法实在低估了它血腥的过往。",
   "at": "2026-10-24T16:15:19.205Z"
  },
- "es/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "c4b111409de0",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "Cuando un pabellón con las entradas agotadas se vacía, enseguida se forman colas para conseguir vehículo.",
-  "at": "2026-11-08T07:53:27.445Z"
- },
  "es/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
   "hash": "fd1d27f0ee67",
   "score": 1,
@@ -37386,26 +37365,12 @@
   "worst": "Su discografía, y no ningún repertorio anunciado, es la mejor guía de lo que aporta cada uno",
   "at": "2026-10-25T07:52:12.047Z"
  },
- "ja/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "2b812f7ab2a5",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "満員のアリーナから観客が一斉に出てくると、車待ちの列はあっという間に長くなります。",
-  "at": "2026-11-08T07:53:32.683Z"
- },
  "ja/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
   "hash": "3af731c757d4",
   "score": 1,
   "registerBreak": false,
   "worst": "スタジアムの照明に照らされた夜のあとには、プールサイドでもう1時間過ごすよりも、こちらのほうがきっと心に響きます。",
   "at": "2026-10-25T07:52:36.496Z"
- },
- "zh/abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
-  "hash": "7c6053edc171",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "在阿联酋的公共场所，肩膀和膝盖需要遮住；竞技场的空调又开得很冷，多带一件外套很值得。",
-  "at": "2026-11-08T07:54:00.491Z"
  },
  "zh/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
   "hash": "c22d22a6dedd",
@@ -40367,5 +40332,61 @@
   "registerBreak": false,
   "worst": "星期四在温哥华是工作日。这里的工作日晚场演唱会，不少观众往往下班直接赶来，散场后直接回家。",
   "at": "2026-11-13T15:36:51.148Z"
+ },
+ "es/sai-kung-tin-hau-temple-joss-house-bay": {
+  "hash": "98af93775561",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-14T07:48:38.595Z"
+ },
+ "ja/sai-kung-tin-hau-temple-joss-house-bay": {
+  "hash": "e547305ed99c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この小さな入り江の名前は、この廟にちなんで付けられました。",
+  "at": "2026-11-14T07:48:44.195Z"
+ },
+ "ko/sai-kung-tin-hau-temple-joss-house-bay": {
+  "hash": "00941ae3c65d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "차를 가져온다면 입구 바로 아래의 작은 주차장을 이용할 수 있지만, 주말에는 금방 차 버립니다.",
+  "at": "2026-11-14T07:48:49.736Z"
+ },
+ "zh/sai-kung-tin-hau-temple-joss-house-bay": {
+  "hash": "049182daebdc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "作为一处如此有历史的古迹，这座庙的知名度确实不高，人们提起西贡，想到的多半是海鲜酒家和郊野公园的山径",
+  "at": "2026-11-14T07:49:00.063Z"
+ },
+ "es/abu-dhabi-wahat-al-karama": {
+  "hash": "4e2d18c258aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Actualmente el recinto abre a las 9am y cierra a las 10:45pm, con el mismo horario...",
+  "at": "2026-11-14T07:49:01.457Z"
+ },
+ "ja/abu-dhabi-wahat-al-karama": {
+  "hash": "dcd3ddb42f1f",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-14T07:49:02.435Z"
+ },
+ "ko/abu-dhabi-wahat-al-karama": {
+  "hash": "4e5eaf86a484",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "각 석판이 옆의 석판을 떠받치는 모습으로 단결과 상부상조를 표현했는데, 안내판을 읽지 않아도 그 의미가 자연스럽게 와닿습니다.",
+  "at": "2026-11-14T07:49:03.709Z"
+ },
+ "zh/abu-dhabi-wahat-al-karama": {
+  "hash": "f012e60aa19d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这座纪念地还能让人看到商场和海滩之外的阿布扎比，了解一个年轻的国家如何铭记自己的英雄。",
+  "at": "2026-11-14T07:49:04.670Z"
  }
 }
