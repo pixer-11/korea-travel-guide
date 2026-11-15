@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-miguel-de-allende-canada-de-la-virgen
-srcHash: '81ed41b9743b'
+srcHash: 'df3299bbb334'
 title: 'Cañada de la Virgen: guía de viaje desde San Miguel de Allende'
-description: Entre los cerros áridos al suroeste de San Miguel de Allende se levanta Cañada de la Virgen, un conjunto de pirámides del siglo VII al que se llega por la carretera San Miguel–Guanajuato, a la altura del Km 9.5. Con 4.7★ (1,498 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Entre los cerros áridos al suroeste de San Miguel de Allende se levanta Cañada de la Virgen, un conjunto de pirámides del siglo VII al que se llega por la carretera San Miguel–Guanajuato, a la altura del Km 9.5. Con 4.7★ (1,503 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Al suroeste de San Miguel de Allende, entre cerros áridos, se encuentra Cañada de la Virgen, un conjunto de pirámides del siglo VII. Para llegar hay que tomar la carretera San Miguel–Guanajuato hasta el Km 9.5. Abre de martes a domingo, de 10am a 5:30pm, y cierra los lunes. Conviene reservar medio día para el trayecto, la caminata de acceso y un recorrido sin prisas por la pirámide principal.
 faq:
   - q: ¿Cómo se llega a Cañada de la Virgen desde San Miguel de Allende?

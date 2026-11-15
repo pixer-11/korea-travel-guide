@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-sebastian-alderdi-eder-park
-srcHash: 'f8f4c6570ec2'
+srcHash: '7345271f92c1'
 title: 'Parque de Alderdi Eder: Guía de Viaje de San Sebastián (4,6★)'
-description: 'El parque de Alderdi Eder se encuentra en el casco antiguo de San Sebastián, justo donde la playa de la Concha se encuentra con el Ayuntamiento (antiguo edificio del casino). 4,6★ (17.702 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El parque de Alderdi Eder se encuentra en el casco antiguo de San Sebastián, justo donde la playa de la Concha se encuentra con el Ayuntamiento (antiguo edificio del casino). 4,6★ (17.781 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El parque de Alderdi Eder se encuentra en el casco antiguo de San Sebastián, justo donde la playa de la Concha se une con el Ayuntamiento (antiguo edificio del casino). Está abierto las 24 horas, la entrada es gratuita y lo mejor es visitarlo temprano: los momentos de mayor tranquilidad son entre las 7 y las 8 de la mañana entre semana, y entre las 7 y las 9 los fines de semana, antes de que llegue la afluencia de gente que se prolonga de 11 de la mañana a 11 de la noche los fines de semana. Calcula entre 20 y 30 minutos de camino hacia o desde La Concha.'
 faq:
   - q: ¿Es gratis visitar el parque de Alderdi Eder?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kyoto-arashiyama
-srcHash: 'd5e6ffe83577'
+srcHash: '81d815888520'
 title: 'Arashiyama: guía de viaje de Kioto (4.5★)'
-description: 'En el oeste del distrito de Ukyo, Arashiyama es el barrio ribereño de Kioto famoso por el bosque de bambú de Sagano, el templo Tenryu-ji, el puente Togetsukyo y los macacos en libertad del parque de monos de Iwatayama. 4.5★ (7,769 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el oeste del distrito de Ukyo, Arashiyama es el barrio ribereño de Kioto famoso por el bosque de bambú de Sagano, el templo Tenryu-ji, el puente Togetsukyo y los macacos en libertad del parque de monos de Iwatayama. 4.5★ (7,771 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el oeste del distrito de Ukyo, a orillas del río, se encuentra Arashiyama, el barrio de Kioto famoso por el bosque de bambú de Sagano, el templo Tenryu-ji, el puente Togetsukyo y los macacos en libertad del parque de monos de Iwatayama. Figura entre los lugares más concurridos de la ciudad, por lo que conviene ir a primera hora de la mañana y, a ser posible, entre semana. El recorrido principal requiere media jornada; si se suman los templos del norte o una excursión por el río, hará falta el día entero.
 faq:
   - q: ¿Cómo se llega a Arashiyama desde la estación de Kioto?

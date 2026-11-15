@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kyoto-kyoto-city-kyocera-museum-of-art
-srcHash: 'b630fa391478'
+srcHash: '732822d8b5b5'
 title: 'Museo de Arte KYOCERA de la Ciudad de Kioto: guía de viaje (4.4★)'
-description: En el parque Okazaki, dentro del distrito de Sakyo, el Museo de Arte KYOCERA de la Ciudad de Kioto se alza frente al gigantesco torii bermellón del Santuario Heian, a unos 10 minutos a pie de la estación de Higashiyama (línea Tozai). Con una valoración de 4.4★ (7,568 reseñas), le contamos qué opinan los visitantes, además de horarios y consejos.
+description: En el parque Okazaki, dentro del distrito de Sakyo, el Museo de Arte KYOCERA de la Ciudad de Kioto se alza frente al gigantesco torii bermellón del Santuario Heian, a unos 10 minutos a pie de la estación de Higashiyama (línea Tozai). Con una valoración de 4.4★ (7,570 reseñas), le contamos qué opinan los visitantes, además de horarios y consejos.
 quickAnswer: En el parque Okazaki, dentro del distrito de Sakyo, el Museo de Arte KYOCERA de la Ciudad de Kioto se alza frente al gigantesco torii bermellón del Santuario Heian. Desde la estación de Higashiyama, en la línea Tozai, se llega en unos 10 minutos a pie. Actualmente abre de martes a domingo, de 10:00 a 18:00, y cierra los lunes. Como los fines de semana la mayor afluencia se concentra entre las 11:00 y las 17:00, conviene llegar a las 10:00, justo a la hora de apertura.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Arte KYOCERA de la Ciudad de Kioto?

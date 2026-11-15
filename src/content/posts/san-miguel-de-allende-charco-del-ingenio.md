@@ -1,45 +1,54 @@
 ---
-title: "Charco del Ingenio: San Miguel de Allende Travel Guide"
-description: "Charco del Ingenio is a botanical garden and nature preserve on the northeastern edge of San Miguel de Allende, in the Las Colonias area, known for its large cactus collection and endangered native plants. 4.6★ (4,181 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "San Miguel de Allende"
-category: "hidden-gem"
-pubDate: "2026-10-04T13:26:56.017Z"
+title: 'Charco del Ingenio: San Miguel de Allende Travel Guide'
+description: >-
+  Charco del Ingenio is a botanical garden and nature preserve on the
+  northeastern edge of San Miguel de Allende, in the Las Colonias area, known
+  for its large cactus collection and endangered native plants. 4.6★ (4,205
+  reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: San Miguel de Allende
+category: hidden-gem
+pubDate: '2026-10-04T13:26:56.017Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rainbow_Charco_del_Ingenio_-_panoramio.jpg"
-  credit: "Photo: tendingos / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rainbow_Charco_del_Ingenio_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cd/Rainbow_Charco_del_Ingenio_-_panoramio.jpg
+  credit: 'Photo: tendingos / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rainbow_Charco_del_Ingenio_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/47/Naturaleza_de_San_Miguel_de_Allende_en_El_Charco_del_Ingenio.jpg"
-    credit: "Photo: Nan.P.182 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Naturaleza_de_San_Miguel_de_Allende_en_El_Charco_del_Ingenio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/47/Naturaleza_de_San_Miguel_de_Allende_en_El_Charco_del_Ingenio.jpg
+    credit: 'Photo: Nan.P.182 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Naturaleza_de_San_Miguel_de_Allende_en_El_Charco_del_Ingenio.jpg
 place:
-  id: "ChIJu8g-dn5P04URm2bu14p3WnI"
-  name: "Charco del Ingenio"
-  address: "Paloma S/N, Las Colonias, 37720 San Miguel de Allende, Gto., Mexico"
+  id: ChIJu8g-dn5P04URm2bu14p3WnI
+  name: Charco del Ingenio
+  address: 'Paloma S/N, Las Colonias, 37720 San Miguel de Allende, Gto., Mexico'
   rating: 4.6
-  userRatingsTotal: 4181
-  googleMapsUrl: "https://maps.google.com/?cid=8240029906439661211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4205
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8240029906439661211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.917851499999998
   lng: -100.7279452
-  phone: "+52 415 103 8090"
+  phone: +52 415 103 8090
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -50,24 +59,41 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_496e57337034317562326d5255343050356e642d6738754a496843"
+    venueId: ven_496e57337034317562326d5255343050356e642d6738754a496843
 tags:
-  - "san miguel de allende"
-  - "hidden gem"
-quickAnswer: "Charco del Ingenio is a botanical garden and nature preserve on the northeastern edge of San Miguel de Allende, in the Las Colonias area, known for its large cactus collection and endangered native plants. It opens daily from 9am to 5pm. Weekdays are quiet all day, while on weekends you should arrive between 9am and 10am and avoid 11am to 3pm, when it is busiest."
+  - san miguel de allende
+  - hidden gem
+quickAnswer: >-
+  Charco del Ingenio is a botanical garden and nature preserve on the
+  northeastern edge of San Miguel de Allende, in the Las Colonias area, known
+  for its large cactus collection and endangered native plants. It opens daily
+  from 9am to 5pm. Weekdays are quiet all day, while on weekends you should
+  arrive between 9am and 10am and avoid 11am to 3pm, when it is busiest.
 faq:
-  - q: "When is the quietest time to visit Charco del Ingenio?"
-    a: "Weekdays are quiet throughout the 9am to 5pm opening hours. On weekends, the calmest window is 9am to 10am; avoid 11am to 3pm, when it is busiest."
-  - q: "What are the opening hours?"
-    a: "It opens every day, Monday through Sunday, from 9am to 5pm."
-  - q: "How do I get there from the centre of San Miguel de Allende?"
-    a: "It is on Paloma S/N in Las Colonias, uphill on the northeastern edge of town. A taxi from the Jardín Principal is the easiest way up. Walking back down to the centre afterwards is a comfortable option."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours to see both the cactus areas on the plateau and the canyon trails. One hour is enough for the main collection and viewpoints."
-  - q: "What should I wear and bring?"
-    a: "Wear closed shoes with grip for the rocky canyon paths. Bring a hat, sun protection and water, since shade is limited and the town sits at high altitude."
+  - q: When is the quietest time to visit Charco del Ingenio?
+    a: >-
+      Weekdays are quiet throughout the 9am to 5pm opening hours. On weekends,
+      the calmest window is 9am to 10am; avoid 11am to 3pm, when it is busiest.
+  - q: What are the opening hours?
+    a: 'It opens every day, Monday through Sunday, from 9am to 5pm.'
+  - q: How do I get there from the centre of San Miguel de Allende?
+    a: >-
+      It is on Paloma S/N in Las Colonias, uphill on the northeastern edge of
+      town. A taxi from the Jardín Principal is the easiest way up. Walking back
+      down to the centre afterwards is a comfortable option.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours to see both the cactus areas on the plateau and
+      the canyon trails. One hour is enough for the main collection and
+      viewpoints.
+  - q: What should I wear and bring?
+    a: >-
+      Wear closed shoes with grip for the rocky canyon paths. Bring a hat, sun
+      protection and water, since shade is limited and the town sits at high
+      altitude.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## Cactus country above the rooftops

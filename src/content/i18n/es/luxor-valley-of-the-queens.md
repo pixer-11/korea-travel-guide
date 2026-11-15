@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: luxor-valley-of-the-queens
-srcHash: '8b94edb486f2'
+srcHash: '660bead7e3c0'
 title: 'Valle de las Reinas: guía de viaje de Lúxor (4.5★)'
-description: 'En la orilla occidental de Lúxor, a poca distancia en coche de los Colosos de Memnón, se encuentra el Valle de las Reinas, que cierra por el sur la necrópolis tebana. Valoración de 4.5★ (2,412 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la orilla occidental de Lúxor, a poca distancia en coche de los Colosos de Memnón, se encuentra el Valle de las Reinas, que cierra por el sur la necrópolis tebana. Valoración de 4.5★ (2,414 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En la orilla occidental de Lúxor, a poca distancia en coche de los Colosos de Memnón, se encuentra el Valle de las Reinas, que cierra por el sur la necrópolis tebana. Alberga unas 90 tumbas de esposas reales y príncipes. La joya del conjunto es la tumba de Nefertari, para la que se necesita una entrada aparte. Conviene madrugar: actualmente abre a las 6am, y una visita matinal de 1.5–2 horas le ahorrará el calor de la tarde.'
 faq:
   - q: ¿Cómo se llega al Valle de las Reinas desde Lúxor?

@@ -1,56 +1,79 @@
 ---
-title: "Museo Histórico Casa de Allende: San Miguel de Allende Travel Guide"
-description: "Museo Histórico Casa de Allende is the birthplace of independence leader Ignacio Allende, on the corner of the Jardín in San Miguel de Allende's Zona Centro, beside the Parroquia. 4.5★ (1,149 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "San Miguel de Allende"
-category: "attraction"
-pubDate: "2026-10-04T07:47:53.794Z"
+title: 'Museo Histórico Casa de Allende: San Miguel de Allende Travel Guide'
+description: >-
+  Museo Histórico Casa de Allende is the birthplace of independence leader
+  Ignacio Allende, on the corner of the Jardín in San Miguel de Allende's Zona
+  Centro, beside the Parroquia. 4.5★ (1,154 reviews) — what visitors say, hours,
+  and tips.
+country: Mexico
+region: San Miguel de Allende
+category: attraction
+pubDate: '2026-10-04T07:47:53.794Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Museo_Casa_d_Allende_%282%29.JPG"
-  credit: "Photo: Gabriela Lozano / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_Casa_d_Allende_(2).JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8c/Museo_Casa_d_Allende_%282%29.JPG
+  credit: 'Photo: Gabriela Lozano / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museo_Casa_d_Allende_(2).JPG'
+  via: act
   focus:
     x: 48
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJnRRer7BRK4QRKQ5A2AgiTpU"
-  name: "Museo Histórico Casa de Allende"
-  address: "Cuna de Allende 1, Zona Centro, 37700 San Miguel de Allende, Gto., Mexico"
+  id: ChIJnRRer7BRK4QRKQ5A2AgiTpU
+  name: Museo Histórico Casa de Allende
+  address: 'Cuna de Allende 1, Zona Centro, 37700 San Miguel de Allende, Gto., Mexico'
   rating: 4.5
-  userRatingsTotal: 1149
-  googleMapsUrl: "https://maps.google.com/?cid=10758573981217852969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1154
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10758573981217852969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.9137772
   lng: -100.7440692
-  phone: "+52 415 152 2499"
+  phone: +52 415 152 2499
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 4:15 PM"
-    - "Thursday: 9:00 AM – 4:15 PM"
-    - "Friday: 9:00 AM – 4:15 PM"
-    - "Saturday: 9:00 AM – 4:15 PM"
-    - "Sunday: 9:00 AM – 4:15 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 4:15 PM'
+    - 'Thursday: 9:00 AM – 4:15 PM'
+    - 'Friday: 9:00 AM – 4:15 PM'
+    - 'Saturday: 9:00 AM – 4:15 PM'
+    - 'Sunday: 9:00 AM – 4:15 PM'
 tags:
-  - "san miguel de allende"
-  - "top attraction"
-quickAnswer: "Museo Histórico Casa de Allende is the birthplace of independence leader Ignacio Allende, on the corner of the Jardín in San Miguel de Allende's Zona Centro, beside the Parroquia. It opens Wednesday to Sunday from 9am to 4:15pm and is closed Monday and Tuesday. Allow an hour to an hour and a half."
+  - san miguel de allende
+  - top attraction
+quickAnswer: >-
+  Museo Histórico Casa de Allende is the birthplace of independence leader
+  Ignacio Allende, on the corner of the Jardín in San Miguel de Allende's Zona
+  Centro, beside the Parroquia. It opens Wednesday to Sunday from 9am to 4:15pm
+  and is closed Monday and Tuesday. Allow an hour to an hour and a half.
 faq:
-  - q: "When is Museo Histórico Casa de Allende open?"
-    a: "Wednesday to Sunday, 9:00am to 4:15pm. It is closed on Mondays and Tuesdays."
-  - q: "Where exactly is it?"
-    a: "At Cuna de Allende 1, Zona Centro. It is on the corner of the Jardín (main square), right beside the Parroquia de San Miguel Arcángel."
-  - q: "How long should I spend there?"
-    a: "An hour to an hour and a half is enough to see both floors, the courtyard and the history galleries."
-  - q: "Is the museum in English?"
-    a: "Expect much of the labelling to be in Spanish. A translation app with a camera function helps a lot in the history rooms."
-  - q: "What is nearby?"
-    a: "The Parroquia de San Miguel Arcángel is next door, and the Jardín is on the doorstep. For more independence history, Dolores Hidalgo is under an hour's drive away and Guanajuato's Alhóndiga de Granaditas is about 1.5 hours away."
+  - q: When is Museo Histórico Casa de Allende open?
+    a: >-
+      Wednesday to Sunday, 9:00am to 4:15pm. It is closed on Mondays and
+      Tuesdays.
+  - q: Where exactly is it?
+    a: >-
+      At Cuna de Allende 1, Zona Centro. It is on the corner of the Jardín (main
+      square), right beside the Parroquia de San Miguel Arcángel.
+  - q: How long should I spend there?
+    a: >-
+      An hour to an hour and a half is enough to see both floors, the courtyard
+      and the history galleries.
+  - q: Is the museum in English?
+    a: >-
+      Expect much of the labelling to be in Spanish. A translation app with a
+      camera function helps a lot in the history rooms.
+  - q: What is nearby?
+    a: >-
+      The Parroquia de San Miguel Arcángel is next door, and the Jardín is on
+      the doorstep. For more independence history, Dolores Hidalgo is under an
+      hour's drive away and Guanajuato's Alhóndiga de Granaditas is about 1.5
+      hours away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## The house the town is named for

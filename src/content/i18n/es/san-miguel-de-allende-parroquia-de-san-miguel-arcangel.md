@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-miguel-de-allende-parroquia-de-san-miguel-arcangel
-srcHash: 'b52ca6ad95c1'
+srcHash: '43ae7c742702'
 title: 'Parroquia de San Miguel Arcángel: guía de viaje de San Miguel de Allende'
-description: En el lado sur del Jardín Allende, en la Zona Centro de San Miguel de Allende, se alza la Parroquia de San Miguel Arcángel. Con 4.8★ (25,558 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: En el lado sur del Jardín Allende, en la Zona Centro de San Miguel de Allende, se alza la Parroquia de San Miguel Arcángel. Con 4.8★ (25,724 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En el lado sur del Jardín Allende, en plena Zona Centro de San Miguel de Allende, se alza la Parroquia de San Miguel Arcángel. Es la iglesia neogótica de color rosa que aparece en todas las postales de la ciudad. Puede visitarse por dentro de lunes a sábado de 9am a 2pm, y los lunes, martes, miércoles y viernes vuelve a abrir de 4pm a 7pm. Según la información disponible, el domingo permanece cerrada. La franja con más afluencia, y por tanto la que conviene evitar, es la del sábado entre las 10am y las 2pm.
 faq:
   - q: ¿Cuál es el horario de la Parroquia de San Miguel Arcángel?

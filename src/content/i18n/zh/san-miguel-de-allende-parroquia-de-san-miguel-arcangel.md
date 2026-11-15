@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: san-miguel-de-allende-parroquia-de-san-miguel-arcangel
-srcHash: 'b52ca6ad95c1'
+srcHash: '43ae7c742702'
 title: 圣米格尔大天使教区教堂：圣米格尔-德阿连德旅行指南
-description: 圣米格尔大天使教区教堂位于圣米格尔-德阿连德中心区，坐落在阿连德花园南侧，评分4.8★（25,558条评价）。本文汇总游客评价、开放时间与参观贴士。
+description: 圣米格尔大天使教区教堂位于圣米格尔-德阿连德中心区，坐落在阿连德花园南侧，评分4.8★（25,724条评价）。本文汇总游客评价、开放时间与参观贴士。
 quickAnswer: 圣米格尔大天使教区教堂（Parroquia de San Miguel Arcángel）位于圣米格尔-德阿连德（San Miguel de Allende）中心区（Zona Centro），坐落在阿连德花园（Jardín Allende）南侧。小城每张明信片上都少不了这座粉色的新哥特式教堂。周一至周六上午9点至下午2点可入内参观；周一、周二、周三和周五下午4点至7点再次开放；周日标注为闭馆。周六上午10点至下午2点人最多，最好错开。
 faq:
   - q: 圣米格尔大天使教区教堂的开放时间是怎样的？

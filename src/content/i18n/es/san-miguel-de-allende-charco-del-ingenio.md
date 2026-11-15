@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-miguel-de-allende-charco-del-ingenio
-srcHash: '9dedfc35b75a'
+srcHash: 'cd24524371b8'
 title: 'Charco del Ingenio: guía de viaje de San Miguel de Allende'
-description: 'En el extremo nororiental de San Miguel de Allende, en la zona de Las Colonias, el jardín botánico y reserva natural Charco del Ingenio destaca por su amplia colección de cactáceas y por sus plantas nativas en peligro de extinción. 4.6★ (4,181 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo nororiental de San Miguel de Allende, en la zona de Las Colonias, el jardín botánico y reserva natural Charco del Ingenio destaca por su amplia colección de cactáceas y por sus plantas nativas en peligro de extinción. 4.6★ (4,205 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el extremo nororiental de San Miguel de Allende, en la zona de Las Colonias, se encuentra el Charco del Ingenio, un jardín botánico y reserva natural famoso por su amplia colección de cactáceas y por sus plantas nativas en peligro de extinción. Abre todos los días de 9am a 5pm. Entre semana hay poca gente a cualquier hora. En fin de semana conviene llegar entre las 9am y las 10am y evitar la franja de 11am a 3pm, que es la de mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Charco del Ingenio?

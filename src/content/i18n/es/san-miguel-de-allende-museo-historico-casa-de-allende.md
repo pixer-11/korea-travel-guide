@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-miguel-de-allende-museo-historico-casa-de-allende
-srcHash: '1166b0949e5d'
+srcHash: 'c6add8b25a61'
 title: 'Museo Histórico Casa de Allende: guía de viaje de San Miguel de Allende'
-description: 'En una esquina del Jardín, junto a la Parroquia, en la Zona Centro de San Miguel de Allende, se encuentra el Museo Histórico Casa de Allende, casa natal del caudillo de la Independencia Ignacio Allende. 4.5★ (1,149 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En una esquina del Jardín, junto a la Parroquia, en la Zona Centro de San Miguel de Allende, se encuentra el Museo Histórico Casa de Allende, casa natal del caudillo de la Independencia Ignacio Allende. 4.5★ (1,154 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Zona Centro de San Miguel de Allende, en una esquina del Jardín y junto a la Parroquia, se alza el Museo Histórico Casa de Allende, la casa donde nació el caudillo de la Independencia Ignacio Allende. Abre de miércoles a domingo, de 9am a 4:15pm, y cierra los lunes y martes. Conviene reservar para la visita entre una hora y hora y media.
 faq:
   - q: ¿Qué horario tiene el Museo Histórico Casa de Allende?

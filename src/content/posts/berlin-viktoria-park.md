@@ -1,41 +1,48 @@
 ---
-title: "Viktoria Park: Berlin Travel Guide (4.5★)"
-description: "Viktoria Park in Kreuzberg, Berlin, is the hillside park around the Kreuzberg summit, crowned by Schinkel's cast-iron National Monument for the Napoleonic Wars and cut by a man-made waterfall. 4.5★ (13,041 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Berlin"
-category: "attraction"
-pubDate: "2026-11-15T07:43:51.543Z"
+title: 'Viktoria Park: Berlin Travel Guide (4.5★)'
+description: >-
+  Viktoria Park in Kreuzberg, Berlin, is the hillside park around the Kreuzberg
+  summit, crowned by Schinkel's cast-iron National Monument for the Napoleonic
+  Wars and cut by a man-made waterfall. 4.5★ (13,043 reviews) — what visitors
+  say, hours, and tips.
+country: Germany
+region: Berlin
+category: attraction
+pubDate: '2026-11-15T07:43:51.543Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/36/Viktoria_park%2C_berlin_august_2012_-_panoramio.jpg"
-  credit: "Photo: bynyalcin / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Viktoria_park,_berlin_august_2012_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/36/Viktoria_park%2C_berlin_august_2012_-_panoramio.jpg
+  credit: 'Photo: bynyalcin / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Viktoria_park,_berlin_august_2012_-_panoramio.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ71LfPyRQqEcREPzINNw8hII"
-  name: "Viktoria Park"
-  address: "Katzbachstraße, 10965 Berlin, Germany"
+  id: ChIJ71LfPyRQqEcREPzINNw8hII
+  name: Viktoria Park
+  address: 'Katzbachstraße, 10965 Berlin, Germany'
   rating: 4.5
-  userRatingsTotal: 13041
-  googleMapsUrl: "https://maps.google.com/?cid=9404708838332496912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13043
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9404708838332496912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.488226999999995
   lng: 13.380014399999999
-  phone: "+49 30 115"
+  phone: +49 30 115
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-11-15
+    updated: 2026-11-15T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -56,24 +63,47 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_49496838774e4e497a50455263457151527950664c31374a496843"
+    venueId: ven_49496838774e4e497a50455263457151527950664c31374a496843
 tags:
-  - "berlin"
-  - "night view"
-quickAnswer: "Viktoria Park in Kreuzberg, Berlin, is the hillside park around the Kreuzberg summit, crowned by Schinkel's cast-iron National Monument for the Napoleonic Wars and cut by a man-made waterfall. It's quietest from 7am–8am on weekdays and 7am–9am on weekends; try not to arrive between 12pm and 9pm on a weekend, when the summit is at its busiest. Plan on 1–2 hours, and longer if you finish with a walk through the Bergmannkiez below."
+  - berlin
+  - night view
+quickAnswer: >-
+  Viktoria Park in Kreuzberg, Berlin, is the hillside park around the Kreuzberg
+  summit, crowned by Schinkel's cast-iron National Monument for the Napoleonic
+  Wars and cut by a man-made waterfall. It's quietest from 7am–8am on weekdays
+  and 7am–9am on weekends; try not to arrive between 12pm and 9pm on a weekend,
+  when the summit is at its busiest. Plan on 1–2 hours, and longer if you finish
+  with a walk through the Bergmannkiez below.
 faq:
-  - q: "When is the quietest time to visit Viktoria Park?"
-    a: "BestTime's typical-traffic forecast puts the calmest periods at 7am–8am on weekdays and 7am–9am on weekends. Try not to come between 12pm and 9pm on weekends, when the summit terrace and lawns are at their busiest."
-  - q: "Is the Viktoria Park waterfall running all year?"
-    a: "No. The cascade is artificial and pumped, so it runs in the warmer months and is turned off in winter. For the best chance of seeing water, visit between late spring and early autumn."
-  - q: "How do I get to Viktoria Park by public transport?"
-    a: "Take the U6 or U7 to Mehringdamm and walk west through the Bergmannkiez, or the U6 to Platz der Luftbrücke for the summit side. From the S-Bahn, get off at Yorckstraße and walk south along Großbeerenstraße."
-  - q: "How long should I spend at Viktoria Park?"
-    a: "One to two hours is enough to climb the waterfall path, see the Schinkel monument and take in the view from the summit terrace. Add time if you want to picnic or continue on to Bergmannstraße or Tempelhofer Feld."
-  - q: "What is the monument on top of the hill?"
-    a: "It's Karl Friedrich Schinkel's cast-iron National Monument for the Wars of Liberation, unveiled in 1821. It has twelve niches with allegorical figures for battles against Napoleon, and the iron cross at the top gave the Kreuzberg district its name."
+  - q: When is the quietest time to visit Viktoria Park?
+    a: >-
+      BestTime's typical-traffic forecast puts the calmest periods at 7am–8am on
+      weekdays and 7am–9am on weekends. Try not to come between 12pm and 9pm on
+      weekends, when the summit terrace and lawns are at their busiest.
+  - q: Is the Viktoria Park waterfall running all year?
+    a: >-
+      No. The cascade is artificial and pumped, so it runs in the warmer months
+      and is turned off in winter. For the best chance of seeing water, visit
+      between late spring and early autumn.
+  - q: How do I get to Viktoria Park by public transport?
+    a: >-
+      Take the U6 or U7 to Mehringdamm and walk west through the Bergmannkiez,
+      or the U6 to Platz der Luftbrücke for the summit side. From the S-Bahn,
+      get off at Yorckstraße and walk south along Großbeerenstraße.
+  - q: How long should I spend at Viktoria Park?
+    a: >-
+      One to two hours is enough to climb the waterfall path, see the Schinkel
+      monument and take in the view from the summit terrace. Add time if you
+      want to picnic or continue on to Bergmannstraße or Tempelhofer Feld.
+  - q: What is the monument on top of the hill?
+    a: >-
+      It's Karl Friedrich Schinkel's cast-iron National Monument for the Wars of
+      Liberation, unveiled in 1821. It has twelve niches with allegorical
+      figures for battles against Napoleon, and the iron cross at the top gave
+      the Kreuzberg district its name.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## A hill that named a district

@@ -1,30 +1,39 @@
 ---
 title: 'Haizearen Orrazia: San Sebastian Travel Guide'
-description: Haizearen Orrazia ("The Comb of the Wind") sits at the far western end of Ondarreta beach, where the promenade dead-ends into the rocks below Monte Igueldo.
+description: >-
+  Haizearen Orrazia ("The Comb of the Wind") sits at the far western end of
+  Ondarreta beach, where the promenade dead-ends into the rocks below Monte
+  Igueldo.
 country: Spain
 region: San Sebastian
 category: hidden-gem
 pubDate: '2026-07-31T10:14:38.013Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6841083_2aebXZhtxSnm-gEV-DOlx8ftQSohs3LzYMKfS_OUlDU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/6841083_2aebXZhtxSnm-gEV-DOlx8ftQSohs3LzYMKfS_OUlDU.jpg
   credit: 'Photo: Foursquare user content (Haizearen Orrazia)'
   license: foursquare
-  source: https://foursquare.com/v/4fd9cf08e4b053a8d3d16291
+  source: 'https://foursquare.com/v/4fd9cf08e4b053a8d3d16291'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_%28present_and_future%29_1190526.jpg/3840px-San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_%28present_and_future%29_1190526.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_%28present_and_future%29_1190526.jpg/3840px-San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_%28present_and_future%29_1190526.jpg
     credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_(present_and_future)_1190526.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_(present_and_future)_1190526.jpg
 place:
   id: ChIJMTznI6O6UQ0RCkWf79RKet4
   name: Haizearen Orrazia
-  address: Eduardo Chillida Pasealekua, s/n, 20008 Donostia / San Sebastián, Gipuzkoa, Spain
+  address: >-
+    Eduardo Chillida Pasealekua, s/n, 20008 Donostia / San Sebastián, Gipuzkoa,
+    Spain
   rating: 4.7
-  userRatingsTotal: 14874
-  googleMapsUrl: https://maps.google.com/?cid=16031208101992416522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 15260
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16031208101992416522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.3218056
   lng: -2.0053891
@@ -40,19 +49,41 @@ place:
 tags:
   - san sebastian
   - hidden gem
-quickAnswer: 'Haizearen Orrazia ("The Comb of the Wind") sits at the far western end of Ondarreta beach, where the promenade dead-ends into the rocks below Monte Igueldo. It''s free, unstaffed, and open all day and night, so the real trick is timing: go at sunrise or just before sunset on a weekday to have the iron claws and the crashing surf mostly to yourself, since midday and weekends draw the heaviest crowds. Budget 20–30 minutes there, more if you walk the full length of La Concha and Ondarreta to reach it.'
+quickAnswer: >-
+  Haizearen Orrazia ("The Comb of the Wind") sits at the far western end of
+  Ondarreta beach, where the promenade dead-ends into the rocks below Monte
+  Igueldo. It's free, unstaffed, and open all day and night, so the real trick
+  is timing: go at sunrise or just before sunset on a weekday to have the iron
+  claws and the crashing surf mostly to yourself, since midday and weekends draw
+  the heaviest crowds. Budget 20–30 minutes there, more if you walk the full
+  length of La Concha and Ondarreta to reach it.
 faq:
   - q: How do I get to Haizearen Orrazia (Comb of the Wind)?
-    a: Walk the seafront promenade from La Concha/Ondarreta beach — about 30–40 minutes from the Old Town — or take a bus running toward Ondarreta/Igueldo, which drops you a few minutes' walk away. It sits right at the base of the Monte Igueldo funicular.
+    a: >-
+      Walk the seafront promenade from La Concha/Ondarreta beach — about 30–40
+      minutes from the Old Town — or take a bus running toward
+      Ondarreta/Igueldo, which drops you a few minutes' walk away. It sits right
+      at the base of the Monte Igueldo funicular.
   - q: Is there an entrance fee?
-    a: No — it's an open-air public sculpture on the seafront with no ticket or gate, and it's accessible 24 hours a day.
+    a: >-
+      No — it's an open-air public sculpture on the seafront with no ticket or
+      gate, and it's accessible 24 hours a day.
   - q: When is the best time to visit to avoid crowds?
-    a: Go around sunrise or the hour before sunset on a weekday. It's one of San Sebastián's most-visited sights, so midday and weekends — especially in summer — bring the heaviest foot traffic along the promenade.
+    a: >-
+      Go around sunrise or the hour before sunset on a weekday. It's one of San
+      Sebastián's most-visited sights, so midday and weekends — especially in
+      summer — bring the heaviest foot traffic along the promenade.
   - q: How long should I spend there?
-    a: 20–30 minutes is enough for the sculpture itself, but plan closer to an hour if you're walking the promenade from town and pairing it with Ondarreta beach or the Monte Igueldo funicular.
+    a: >-
+      20–30 minutes is enough for the sculpture itself, but plan closer to an
+      hour if you're walking the promenade from town and pairing it with
+      Ondarreta beach or the Monte Igueldo funicular.
   - q: What's nearby worth combining with the visit?
-    a: Ondarreta beach, the Miramar Palace gardens, and the Monte Igueldo funicular and viewpoint are all within a 10-minute walk.
+    a: >-
+      Ondarreta beach, the Miramar Palace gardens, and the Monte Igueldo
+      funicular and viewpoint are all within a 10-minute walk.
 aiGenerated: true
+updatedDate: '2026-11-15'
 ---
 
 ## Why go

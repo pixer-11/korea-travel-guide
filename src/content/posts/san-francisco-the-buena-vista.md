@@ -1,24 +1,30 @@
 ---
 title: 'The Buena Vista: San Francisco Travel Guide'
-description: The Buena Vista is the corner bar at Hyde and North Point in San Francisco's Fisherman's Wharf area that claims to have introduced Irish coffee to America in 1952.
+description: >-
+  The Buena Vista is the corner bar at Hyde and North Point in San Francisco's
+  Fisherman's Wharf area that claims to have introduced Irish coffee to America
+  in 1952.
 country: United States
 region: San Francisco
 category: trendy
 pubDate: '2026-08-02T09:34:53.804Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/1920px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg/1920px-Buena_Vista_Cafe%2C_exterior%2C_San_Francisco_%28May_2025%29_03.jpg
   credit: 'Photo: BriefEdits / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Buena_Vista_Cafe,_exterior,_San_Francisco_(May_2025)_03.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Buena_Vista_Cafe,_exterior,_San_Francisco_(May_2025)_03.jpg
 gallery: []
 place:
   id: ChIJ-ZbR8Dd-j4ARw7-UmpB7Ks8
   name: The Buena Vista
-  address: 2765 Hyde St, San Francisco, CA 94109, USA
+  address: '2765 Hyde St, San Francisco, CA 94109, USA'
   rating: 4.6
-  userRatingsTotal: 8211
+  userRatingsTotal: 8413
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=14927879775871877059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14927879775871877059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.8065338
   lng: -122.42071849999999
@@ -55,20 +61,44 @@ place:
 tags:
   - san francisco
   - trendy cafe
-quickAnswer: The Buena Vista is the corner bar at Hyde and North Point in San Francisco's Fisherman's Wharf area that claims to have introduced Irish coffee to America in 1952. Go right at opening — 9am on weekdays, 8am on weekends — to get a seat before the cable car crowds descend; the busiest stretch on weekends runs 11am–8pm. Order the Irish coffee, take the Hyde Street cable car to the door, and expect a cash-and-card, no-reservations, first-come counter scene.
+quickAnswer: >-
+  The Buena Vista is the corner bar at Hyde and North Point in San Francisco's
+  Fisherman's Wharf area that claims to have introduced Irish coffee to America
+  in 1952. Go right at opening — 9am on weekdays, 8am on weekends — to get a
+  seat before the cable car crowds descend; the busiest stretch on weekends runs
+  11am–8pm. Order the Irish coffee, take the Hyde Street cable car to the door,
+  and expect a cash-and-card, no-reservations, first-come counter scene.
 faq:
   - q: How do I get to The Buena Vista?
-    a: It's at 2765 Hyde St in San Francisco, right where the Powell-Hyde cable car line ends near Fisherman's Wharf — riding the cable car down from Union Square is the classic way to arrive. Street parking is limited, so plan for a paid lot if you're driving.
+    a: >-
+      It's at 2765 Hyde St in San Francisco, right where the Powell-Hyde cable
+      car line ends near Fisherman's Wharf — riding the cable car down from
+      Union Square is the classic way to arrive. Street parking is limited, so
+      plan for a paid lot if you're driving.
   - q: What is The Buena Vista famous for?
-    a: It's widely credited as the first bar in the United States to serve Irish coffee, dating back to 1952, and that drink — hot coffee, whiskey, sugar, and a cream float — is still the reason most people visit.
+    a: >-
+      It's widely credited as the first bar in the United States to serve Irish
+      coffee, dating back to 1952, and that drink — hot coffee, whiskey, sugar,
+      and a cream float — is still the reason most people visit.
   - q: When is the quietest time to visit?
-    a: Weekday mornings from the 9am opening are calmest, and on weekends the 8am opening offers a similar lull. Avoid Saturday and Sunday between 11am and 8pm, when it's consistently busiest.
+    a: >-
+      Weekday mornings from the 9am opening are calmest, and on weekends the 8am
+      opening offers a similar lull. Avoid Saturday and Sunday between 11am and
+      8pm, when it's consistently busiest.
   - q: Do I need a reservation?
-    a: No, it's first-come, first-served for both tables and the bar. On busy weekend afternoons expect a short wait; arriving right at opening avoids this entirely.
+    a: >-
+      No, it's first-come, first-served for both tables and the bar. On busy
+      weekend afternoons expect a short wait; arriving right at opening avoids
+      this entirely.
   - q: How much should I budget and what's nearby?
-    a: Expect mid-range pricing for food and drink by San Francisco standards. It's a short walk from Ghirardelli Square, the Hyde Street Pier, and the rest of Fisherman's Wharf, so it pairs easily with a morning of sightseeing.
+    a: >-
+      Expect mid-range pricing for food and drink by San Francisco standards.
+      It's a short walk from Ghirardelli Square, the Hyde Street Pier, and the
+      rest of Fisherman's Wharf, so it pairs easily with a morning of
+      sightseeing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 The first thing you notice at The Buena Vista is the sound: the clink of glassware, the low roar of conversation bouncing off dark wood paneling, and, if you're near the bar, the rhythmic clatter of a bartender lining up mugs three and four at a time. It's 9am on a Tuesday and the place is already half full, coffee steam curling up past the vintage mirrors while somebody's ordering a Bloody Mary.

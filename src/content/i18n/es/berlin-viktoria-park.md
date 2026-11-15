@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-viktoria-park
-srcHash: '46ef6faf787d'
+srcHash: '2e8c12e17e40'
 title: 'Viktoria Park: guía de viaje de Berlín (4.5★)'
-description: En el barrio berlinés de Kreuzberg, el Viktoria Park cubre las laderas de la colina homónima. En la cima se alza el Monumento Nacional de hierro fundido que Schinkel dedicó a las guerras napoleónicas, y una cascada artificial desciende por la pendiente. Con 4.5★ (13,041 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En el barrio berlinés de Kreuzberg, el Viktoria Park cubre las laderas de la colina homónima. En la cima se alza el Monumento Nacional de hierro fundido que Schinkel dedicó a las guerras napoleónicas, y una cascada artificial desciende por la pendiente. Con 4.5★ (13,043 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En el barrio berlinés de Kreuzberg, el Viktoria Park ocupa las laderas que rodean la cima de la colina del mismo nombre. Allí se alza el Monumento Nacional de hierro fundido que Schinkel dedicó a las guerras napoleónicas, y una cascada artificial desciende por la pendiente. Las horas más tranquilas son de 7am–8am entre semana y de 7am–9am los fines de semana. Conviene no llegar entre las 12pm y las 9pm de un sábado o domingo, cuando la cima registra su mayor afluencia. Calcule entre 1–2 horas de visita, o algo más si quiere terminar paseando por el Bergmannkiez, al pie de la colina.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Viktoria Park?

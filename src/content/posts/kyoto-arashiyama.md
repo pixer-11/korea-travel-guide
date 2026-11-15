@@ -1,50 +1,83 @@
 ---
-title: "Arashiyama: Kyoto Travel Guide (4.5★)"
-description: "Arashiyama is Kyoto's riverside district in western Ukyo Ward, known for the Sagano bamboo grove, Tenryu-ji temple, Togetsukyo Bridge and the wild macaques of Iwatayama Monkey Park. 4.5★ (7,769 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kyoto"
-category: "attraction"
-pubDate: "2026-11-15T07:43:55.689Z"
+title: 'Arashiyama: Kyoto Travel Guide (4.5★)'
+description: >-
+  Arashiyama is Kyoto's riverside district in western Ukyo Ward, known for the
+  Sagano bamboo grove, Tenryu-ji temple, Togetsukyo Bridge and the wild macaques
+  of Iwatayama Monkey Park. 4.5★ (7,771 reviews) — what visitors say, hours, and
+  tips.
+country: Japan
+region: Kyoto
+category: attraction
+pubDate: '2026-11-15T07:43:55.689Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arashiyama%2C_Part_II_-_Arashiyama7534.jpg/1920px-Arashiyama%2C_Part_II_-_Arashiyama7534.jpg"
-  credit: "Photo: lumoplank / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Arashiyama,_Part_II_-_Arashiyama7534.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arashiyama%2C_Part_II_-_Arashiyama7534.jpg/1920px-Arashiyama%2C_Part_II_-_Arashiyama7534.jpg
+  credit: 'Photo: lumoplank / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Arashiyama,_Part_II_-_Arashiyama7534.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arashiyama_Bamboo_Forest%2C_Kyoto%2C_Japan_%28Unsplash%29.jpg/3840px-Arashiyama_Bamboo_Forest%2C_Kyoto%2C_Japan_%28Unsplash%29.jpg"
-    credit: "Photo: Ståle Grut stalebg / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Arashiyama_Bamboo_Forest,_Kyoto,_Japan_(Unsplash).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arashiyama_Bamboo_Forest%2C_Kyoto%2C_Japan_%28Unsplash%29.jpg/3840px-Arashiyama_Bamboo_Forest%2C_Kyoto%2C_Japan_%28Unsplash%29.jpg
+    credit: 'Photo: Ståle Grut stalebg / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Arashiyama_Bamboo_Forest,_Kyoto,_Japan_(Unsplash).jpg
 place:
-  id: "ChIJ49PvUVQHAWARTAF7WU_Wqqs"
-  name: "Arashiyama"
-  address: "Arashiyama Genrokuzancho, Ukyo Ward, Kyoto, 616-0007, Japan"
+  id: ChIJ49PvUVQHAWARTAF7WU_Wqqs
+  name: Arashiyama
+  address: 'Arashiyama Genrokuzancho, Ukyo Ward, Kyoto, 616-0007, Japan'
   rating: 4.5
-  userRatingsTotal: 7769
-  googleMapsUrl: "https://maps.google.com/?cid=12369934962818482508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7771
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12369934962818482508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.009449
   lng: 135.666773
 tags:
-  - "kyoto"
-  - "night view"
-quickAnswer: "Arashiyama is Kyoto's riverside district in western Ukyo Ward, known for the Sagano bamboo grove, Tenryu-ji temple, Togetsukyo Bridge and the wild macaques of Iwatayama Monkey Park. It is one of the busiest sights in the city, so the best time to go is early morning, ideally on a weekday. Plan a half day for the main loop, or a full day if you add the northern temples or a river trip."
+  - kyoto
+  - night view
+quickAnswer: >-
+  Arashiyama is Kyoto's riverside district in western Ukyo Ward, known for the
+  Sagano bamboo grove, Tenryu-ji temple, Togetsukyo Bridge and the wild macaques
+  of Iwatayama Monkey Park. It is one of the busiest sights in the city, so the
+  best time to go is early morning, ideally on a weekday. Plan a half day for
+  the main loop, or a full day if you add the northern temples or a river trip.
 faq:
-  - q: "How do I get to Arashiyama from Kyoto Station?"
-    a: "Take the JR Sagano Line (San-in Line) to Saga-Arashiyama Station, then walk about 10 minutes to the bamboo grove. Alternatives are the Keifuku Randen tram to Arashiyama Station or the Hankyu line, changing at Katsura, to Hankyu Arashiyama on the south bank."
-  - q: "When is the best time to visit Arashiyama to avoid crowds?"
-    a: "Arrive early in the morning, ideally on a weekday. The bamboo grove is an open public path you can walk before tour groups arrive. Autumn foliage in November and cherry blossom in early April are the most crowded periods."
-  - q: "How long should I spend in Arashiyama?"
-    a: "A half day covers the bamboo grove, Tenryu-ji and Togetsukyo Bridge. Allow a full day if you add the monkey park climb, the northern temples such as Gio-ji and Adashino Nenbutsu-ji, or the Sagano train and Hozu river boat trip."
-  - q: "What should I know before visiting Iwatayama Monkey Park?"
-    a: "It sits on the south bank of the river, up a steep walk of about 20 minutes. Feed the macaques only from inside the hut at the top, don't stare into their eyes or touch them, and keep food out of sight. Hours vary by season and weather, so check the official site first."
-  - q: "Is the Arashiyama bamboo grove free to walk?"
-    a: "Yes, the bamboo path is a public lane, not a ticketed site. Tenryu-ji's garden and Okochi Sanso at the top of the path charge admission, and both post their current fees at the gate and on their official sites."
+  - q: How do I get to Arashiyama from Kyoto Station?
+    a: >-
+      Take the JR Sagano Line (San-in Line) to Saga-Arashiyama Station, then
+      walk about 10 minutes to the bamboo grove. Alternatives are the Keifuku
+      Randen tram to Arashiyama Station or the Hankyu line, changing at Katsura,
+      to Hankyu Arashiyama on the south bank.
+  - q: When is the best time to visit Arashiyama to avoid crowds?
+    a: >-
+      Arrive early in the morning, ideally on a weekday. The bamboo grove is an
+      open public path you can walk before tour groups arrive. Autumn foliage in
+      November and cherry blossom in early April are the most crowded periods.
+  - q: How long should I spend in Arashiyama?
+    a: >-
+      A half day covers the bamboo grove, Tenryu-ji and Togetsukyo Bridge. Allow
+      a full day if you add the monkey park climb, the northern temples such as
+      Gio-ji and Adashino Nenbutsu-ji, or the Sagano train and Hozu river boat
+      trip.
+  - q: What should I know before visiting Iwatayama Monkey Park?
+    a: >-
+      It sits on the south bank of the river, up a steep walk of about 20
+      minutes. Feed the macaques only from inside the hut at the top, don't
+      stare into their eyes or touch them, and keep food out of sight. Hours
+      vary by season and weather, so check the official site first.
+  - q: Is the Arashiyama bamboo grove free to walk?
+    a: >-
+      Yes, the bamboo path is a public lane, not a ticketed site. Tenryu-ji's
+      garden and Okochi Sanso at the top of the path charge admission, and both
+      post their current fees at the gate and on their official sites.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## Where Kyoto meets the mountains

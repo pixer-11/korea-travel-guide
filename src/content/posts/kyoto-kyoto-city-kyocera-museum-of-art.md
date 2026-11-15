@@ -1,45 +1,54 @@
 ---
-title: "Kyoto City KYOCERA Museum of Art: Travel Guide (4.4★)"
-description: "Kyoto City KYOCERA Museum of Art sits in Okazaki Park in Sakyo Ward, facing the giant vermilion torii of Heian Shrine, about a 10-minute walk from Higashiyama Station on the Tozai Line. 4.4★ (7,568 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kyoto"
-category: "attraction"
-pubDate: "2026-11-15T07:43:48.426Z"
+title: 'Kyoto City KYOCERA Museum of Art: Travel Guide (4.4★)'
+description: >-
+  Kyoto City KYOCERA Museum of Art sits in Okazaki Park in Sakyo Ward, facing
+  the giant vermilion torii of Heian Shrine, about a 10-minute walk from
+  Higashiyama Station on the Tozai Line. 4.4★ (7,570 reviews) — what visitors
+  say, hours, and tips.
+country: Japan
+region: Kyoto
+category: attraction
+pubDate: '2026-11-15T07:43:48.426Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg/3840px-Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg"
-  credit: "Photo: DannyWithLove / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg/3840px-Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg
+  credit: 'Photo: DannyWithLove / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg
+  via: act
   focus:
     x: 25
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plaza_at_Kyoto_City_KYOCERA_Museum_of_Art%2C_December_2022.jpg/3840px-Plaza_at_Kyoto_City_KYOCERA_Museum_of_Art%2C_December_2022.jpg"
-    credit: "Photo: NevinThompson / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Plaza_at_Kyoto_City_KYOCERA_Museum_of_Art,_December_2022.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plaza_at_Kyoto_City_KYOCERA_Museum_of_Art%2C_December_2022.jpg/3840px-Plaza_at_Kyoto_City_KYOCERA_Museum_of_Art%2C_December_2022.jpg
+    credit: 'Photo: NevinThompson / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Plaza_at_Kyoto_City_KYOCERA_Museum_of_Art,_December_2022.jpg
 place:
-  id: "ChIJU6AVkuYIAWARWKx8NeUp25E"
-  name: "Kyoto City KYOCERA Museum of Art"
-  address: "124 Okazaki Enshōjichō, Sakyo Ward, Kyoto, 606-8344, Japan"
+  id: ChIJU6AVkuYIAWARWKx8NeUp25E
+  name: Kyoto City KYOCERA Museum of Art
+  address: '124 Okazaki Enshōjichō, Sakyo Ward, Kyoto, 606-8344, Japan'
   rating: 4.4
-  userRatingsTotal: 7568
-  googleMapsUrl: "https://maps.google.com/?cid=10510040219820797016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7570
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10510040219820797016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.0128613
   lng: 135.7835544
-  phone: "+81 75-771-4334"
+  phone: +81 75-771-4334
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-11-15
+    updated: 2026-11-15T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -52,24 +61,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4535327055654e38784b57524157414959756b564136554a496843"
+    venueId: ven_4535327055654e38784b57524157414959756b564136554a496843
 tags:
-  - "kyoto"
-  - "art gallery"
-quickAnswer: "Kyoto City KYOCERA Museum of Art sits in Okazaki Park in Sakyo Ward, facing the giant vermilion torii of Heian Shrine, about a 10-minute walk from Higashiyama Station on the Tozai Line. It is currently open Tuesday to Sunday, 10am–6pm, and closed Monday. Weekends are busiest from 11am–5pm, so plan on arriving at the 10am opening."
+  - kyoto
+  - art gallery
+quickAnswer: >-
+  Kyoto City KYOCERA Museum of Art sits in Okazaki Park in Sakyo Ward, facing
+  the giant vermilion torii of Heian Shrine, about a 10-minute walk from
+  Higashiyama Station on the Tozai Line. It is currently open Tuesday to Sunday,
+  10am–6pm, and closed Monday. Weekends are busiest from 11am–5pm, so plan on
+  arriving at the 10am opening.
 faq:
-  - q: "When is the quietest time to visit Kyoto City KYOCERA Museum of Art?"
-    a: "Weekends are usually busiest from 11am to 5pm, so get there for the 10am opening on Saturday or Sunday. A weekday visit (Tuesday to Friday) is a better bet if your schedule allows."
-  - q: "How do I get there from Kyoto Station?"
-    a: "Take the Karasuma Line to Karasuma Oike, change to the Tozai Line for Higashiyama Station, leave by Exit 1 and walk north for about 8–10 minutes. Some city buses also stop at Okazaki Kōen Bijutsukan/Heian Jingū-mae, right beside the museum."
-  - q: "Is the museum open on Mondays?"
-    a: "It is currently listed as closed on Monday and open Tuesday to Sunday, 10am–6pm. Like many Japanese museums, it may open on a Monday public holiday and close the next day, so check the official calendar."
-  - q: "How long should I spend there?"
-    a: "Allow 1.5–2 hours for one major special exhibition plus the collection rooms. Plan on half a day if you want to see two shows."
-  - q: "What else is nearby?"
-    a: "The National Museum of Modern Art, Kyoto is directly opposite. Heian Shrine, the Lake Biwa Canal, ROHM Theatre Kyoto, Kyoto City Zoo and Nanzen-ji are all within about a 15-minute walk."
+  - q: When is the quietest time to visit Kyoto City KYOCERA Museum of Art?
+    a: >-
+      Weekends are usually busiest from 11am to 5pm, so get there for the 10am
+      opening on Saturday or Sunday. A weekday visit (Tuesday to Friday) is a
+      better bet if your schedule allows.
+  - q: How do I get there from Kyoto Station?
+    a: >-
+      Take the Karasuma Line to Karasuma Oike, change to the Tozai Line for
+      Higashiyama Station, leave by Exit 1 and walk north for about 8–10
+      minutes. Some city buses also stop at Okazaki Kōen Bijutsukan/Heian
+      Jingū-mae, right beside the museum.
+  - q: Is the museum open on Mondays?
+    a: >-
+      It is currently listed as closed on Monday and open Tuesday to Sunday,
+      10am–6pm. Like many Japanese museums, it may open on a Monday public
+      holiday and close the next day, so check the official calendar.
+  - q: How long should I spend there?
+    a: >-
+      Allow 1.5–2 hours for one major special exhibition plus the collection
+      rooms. Plan on half a day if you want to see two shows.
+  - q: What else is nearby?
+    a: >-
+      The National Museum of Modern Art, Kyoto is directly opposite. Heian
+      Shrine, the Lake Biwa Canal, ROHM Theatre Kyoto, Kyoto City Zoo and
+      Nanzen-ji are all within about a 15-minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## The building under the big torii

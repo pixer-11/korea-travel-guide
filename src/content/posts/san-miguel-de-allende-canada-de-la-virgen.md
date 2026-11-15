@@ -1,59 +1,87 @@
 ---
-title: "Cañada de la Virgen: San Miguel de Allende Travel Guide"
-description: "Cañada de la Virgen is a 7th-century pyramid complex in the dry hills southwest of San Miguel de Allende, reached by the San Miguel–Guanajuato highway at Km 9.5. 4.7★ (1,498 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "San Miguel de Allende"
-category: "attraction"
-pubDate: "2026-10-05T16:25:04.067Z"
+title: 'Cañada de la Virgen: San Miguel de Allende Travel Guide'
+description: >-
+  Cañada de la Virgen is a 7th-century pyramid complex in the dry hills
+  southwest of San Miguel de Allende, reached by the San Miguel–Guanajuato
+  highway at Km 9.5. 4.7★ (1,503 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: San Miguel de Allende
+category: attraction
+pubDate: '2026-10-05T16:25:04.067Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg/1920px-Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg"
-  credit: "Photo: Erik Reinecke / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg/1920px-Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg
+  credit: 'Photo: Erik Reinecke / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ca%C3%B1ada_de_la_virgen%2C_Guanajuato.jpg/3840px-Ca%C3%B1ada_de_la_virgen%2C_Guanajuato.jpg"
-    credit: "Photo: EneasMx / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ca%C3%B1ada_de_la_virgen,_Guanajuato.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ca%C3%B1ada_de_la_virgen%2C_Guanajuato.jpg/3840px-Ca%C3%B1ada_de_la_virgen%2C_Guanajuato.jpg
+    credit: 'Photo: EneasMx / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ca%C3%B1ada_de_la_virgen,_Guanajuato.jpg
 place:
-  id: "ChIJhyKX8jZcK4QRxGXDw74ZKwo"
-  name: "Cañada de la Virgen"
-  address: "Carretera San Miguel de Allende - Guanuajuto, Km 9.5, 37898 San Miguel de Allende, Gto., Mexico"
+  id: ChIJhyKX8jZcK4QRxGXDw74ZKwo
+  name: Cañada de la Virgen
+  address: >-
+    Carretera San Miguel de Allende - Guanuajuto, Km 9.5, 37898 San Miguel de
+    Allende, Gto., Mexico
   rating: 4.7
-  userRatingsTotal: 1498
-  googleMapsUrl: "https://maps.google.com/?cid=732707671496680900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1503
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=732707671496680900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.8582093
   lng: -100.9288266
-  phone: "+52 415 109 2466"
+  phone: +52 415 109 2466
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:30 PM"
-    - "Wednesday: 10:00 AM – 5:30 PM"
-    - "Thursday: 10:00 AM – 5:30 PM"
-    - "Friday: 10:00 AM – 5:30 PM"
-    - "Saturday: 10:00 AM – 5:30 PM"
-    - "Sunday: 10:00 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:30 PM'
+    - 'Wednesday: 10:00 AM – 5:30 PM'
+    - 'Thursday: 10:00 AM – 5:30 PM'
+    - 'Friday: 10:00 AM – 5:30 PM'
+    - 'Saturday: 10:00 AM – 5:30 PM'
+    - 'Sunday: 10:00 AM – 5:30 PM'
 tags:
-  - "san miguel de allende"
-  - "museum"
-quickAnswer: "Cañada de la Virgen is a 7th-century pyramid complex in the dry hills southwest of San Miguel de Allende, reached by the San Miguel–Guanajuato highway at Km 9.5. It opens Tuesday to Sunday from 10am to 5:30pm and is closed Mondays. Allow about half a day, which covers the drive, the walk in, and an unhurried look at the main pyramid."
+  - san miguel de allende
+  - museum
+quickAnswer: >-
+  Cañada de la Virgen is a 7th-century pyramid complex in the dry hills
+  southwest of San Miguel de Allende, reached by the San Miguel–Guanajuato
+  highway at Km 9.5. It opens Tuesday to Sunday from 10am to 5:30pm and is
+  closed Mondays. Allow about half a day, which covers the drive, the walk in,
+  and an unhurried look at the main pyramid.
 faq:
-  - q: "How do I get to Cañada de la Virgen from San Miguel de Allende?"
-    a: "Drive or take a taxi along the San Miguel de Allende–Guanajuato highway to Km 9.5, then follow the unpaved access road to the visitor area. No public bus serves the site, so many visitors book a half-day guided tour instead."
-  - q: "What days is Cañada de la Virgen open?"
-    a: "It opens Tuesday to Sunday, 10:00 AM to 5:30 PM, and is closed on Mondays."
-  - q: "How long should I plan for the visit?"
-    a: "Allow two to three hours door to door from San Miguel. That includes the drive, the transfer and walk from the visitor area, and about an hour at the pyramids."
-  - q: "What is there to see at the site?"
-    a: "The main structure is the House of the Thirteen Heavens, a 7th-century stepped pyramid with a sunken patio, aligned to the movements of the sun and moon. Next to it is the circular House of the Wind, among other platforms."
-  - q: "What should I bring?"
-    a: "Bring a hat, sunscreen, plenty of water and closed shoes. The path is stony and almost unshaded, and the sun is strong at this altitude."
+  - q: How do I get to Cañada de la Virgen from San Miguel de Allende?
+    a: >-
+      Drive or take a taxi along the San Miguel de Allende–Guanajuato highway to
+      Km 9.5, then follow the unpaved access road to the visitor area. No public
+      bus serves the site, so many visitors book a half-day guided tour instead.
+  - q: What days is Cañada de la Virgen open?
+    a: 'It opens Tuesday to Sunday, 10:00 AM to 5:30 PM, and is closed on Mondays.'
+  - q: How long should I plan for the visit?
+    a: >-
+      Allow two to three hours door to door from San Miguel. That includes the
+      drive, the transfer and walk from the visitor area, and about an hour at
+      the pyramids.
+  - q: What is there to see at the site?
+    a: >-
+      The main structure is the House of the Thirteen Heavens, a 7th-century
+      stepped pyramid with a sunken patio, aligned to the movements of the sun
+      and moon. Next to it is the circular House of the Wind, among other
+      platforms.
+  - q: What should I bring?
+    a: >-
+      Bring a hat, sunscreen, plenty of water and closed shoes. The path is
+      stony and almost unshaded, and the sun is strong at this altitude.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## Thirteen heavens in the scrub

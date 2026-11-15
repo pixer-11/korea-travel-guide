@@ -1,45 +1,55 @@
 ---
-title: "Parroquia de San Miguel Arcángel: San Miguel de Allende Travel Guide"
-description: "The Parroquia de San Miguel Arcángel stands on the south side of the Jardín Allende in Zona Centro, San Miguel de Allende. 4.8★ (25,558 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "San Miguel de Allende"
-category: "attraction"
-pubDate: "2026-10-06T07:43:45.330Z"
+title: 'Parroquia de San Miguel Arcángel: San Miguel de Allende Travel Guide'
+description: >-
+  The Parroquia de San Miguel Arcángel stands on the south side of the Jardín
+  Allende in Zona Centro, San Miguel de Allende. 4.8★ (25,724 reviews) — what
+  visitors say, hours, and tips.
+country: Mexico
+region: San Miguel de Allende
+category: attraction
+pubDate: '2026-10-06T07:43:45.330Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG/3840px-Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG"
-  credit: "Photo: Samuel Medina / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG/3840px-Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG
+  credit: 'Photo: Samuel Medina / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG
+  via: act
   focus:
     x: 29
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Parroquia_de_San_Miguel_Arc%C3%A1ngel_4673.jpg/3840px-Parroquia_de_San_Miguel_Arc%C3%A1ngel_4673.jpg"
-    credit: "Photo: Peter K Burian / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Parroquia_de_San_Miguel_Arc%C3%A1ngel_4673.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Parroquia_de_San_Miguel_Arc%C3%A1ngel_4673.jpg/3840px-Parroquia_de_San_Miguel_Arc%C3%A1ngel_4673.jpg
+    credit: 'Photo: Peter K Burian / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Parroquia_de_San_Miguel_Arc%C3%A1ngel_4673.jpg
 place:
-  id: "ChIJe3LiqbBRK4QRovZrXZsp_38"
-  name: "Parroquia de San Miguel Arcángel"
-  address: "Principal S/N, Zona Centro, Centro, 37700 San Miguel de Allende, Gto., Mexico"
+  id: ChIJe3LiqbBRK4QRovZrXZsp_38
+  name: Parroquia de San Miguel Arcángel
+  address: >-
+    Principal S/N, Zona Centro, Centro, 37700 San Miguel de Allende, Gto.,
+    Mexico
   rating: 4.8
-  userRatingsTotal: 25558
-  googleMapsUrl: "https://maps.google.com/?cid=9223136309142091426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25724
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9223136309142091426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.9135824
   lng: -100.7437914
-  phone: "+52 415 152 0544"
+  phone: +52 415 152 0544
   openingHours:
-    - "Monday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM"
-    - "Tuesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM"
-    - "Wednesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM"
-    - "Thursday: 9:00 AM – 2:00 PM"
-    - "Friday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM"
-    - "Saturday: 9:00 AM – 2:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM'
+    - 'Thursday: 9:00 AM – 2:00 PM'
+    - 'Friday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM'
+    - 'Saturday: 9:00 AM – 2:00 PM'
+    - 'Sunday: Closed'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -51,24 +61,44 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_38335f70735a58725a766f5251344b52426271694c33654a496843"
+    venueId: ven_38335f70735a58725a766f5251344b52426271694c33654a496843
 tags:
-  - "san miguel de allende"
-  - "historic site"
-quickAnswer: "The Parroquia de San Miguel Arcángel stands on the south side of the Jardín Allende in Zona Centro, San Miguel de Allende. It's the pink neo-Gothic church you see on every postcard of the town. You can go inside 9am to 2pm Monday to Saturday, and again 4pm to 7pm on Monday, Tuesday, Wednesday and Friday; it is listed as closed on Sunday, and Saturday between 10am and 2pm is the busiest stretch to avoid."
+  - san miguel de allende
+  - historic site
+quickAnswer: >-
+  The Parroquia de San Miguel Arcángel stands on the south side of the Jardín
+  Allende in Zona Centro, San Miguel de Allende. It's the pink neo-Gothic church
+  you see on every postcard of the town. You can go inside 9am to 2pm Monday to
+  Saturday, and again 4pm to 7pm on Monday, Tuesday, Wednesday and Friday; it is
+  listed as closed on Sunday, and Saturday between 10am and 2pm is the busiest
+  stretch to avoid.
 faq:
-  - q: "What are the opening hours of the Parroquia de San Miguel Arcángel?"
-    a: "9am to 2pm Monday to Saturday. On Monday, Tuesday, Wednesday and Friday it reopens from 4pm to 7pm. Thursday and Saturday are mornings only, and Sunday is listed as closed."
-  - q: "When is the busiest time to visit?"
-    a: "Saturday between 10am and 2pm. Arrive at 9am on Saturday, or go on a weekday afternoon when it reopens at 4pm."
-  - q: "Is there a dress code?"
-    a: "It's a working parish church. Cover your shoulders, avoid very short shorts, take your hat off inside and don't use flash. Don't take photos at all during services."
-  - q: "How long should I spend there?"
-    a: "About 20 to 30 minutes inside. Allow another half hour to look at the facade from the Jardín Allende and walk around the square."
-  - q: "What is nearby?"
-    a: "The Jardín Allende is directly in front. The Casa de Allende history museum is on the corner of the square, and the Templo de San Rafael is right next to the church."
+  - q: What are the opening hours of the Parroquia de San Miguel Arcángel?
+    a: >-
+      9am to 2pm Monday to Saturday. On Monday, Tuesday, Wednesday and Friday it
+      reopens from 4pm to 7pm. Thursday and Saturday are mornings only, and
+      Sunday is listed as closed.
+  - q: When is the busiest time to visit?
+    a: >-
+      Saturday between 10am and 2pm. Arrive at 9am on Saturday, or go on a
+      weekday afternoon when it reopens at 4pm.
+  - q: Is there a dress code?
+    a: >-
+      It's a working parish church. Cover your shoulders, avoid very short
+      shorts, take your hat off inside and don't use flash. Don't take photos at
+      all during services.
+  - q: How long should I spend there?
+    a: >-
+      About 20 to 30 minutes inside. Allow another half hour to look at the
+      facade from the Jardín Allende and walk around the square.
+  - q: What is nearby?
+    a: >-
+      The Jardín Allende is directly in front. The Casa de Allende history
+      museum is on the corner of the square, and the Templo de San Rafael is
+      right next to the church.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## Pink stone over the Jardín

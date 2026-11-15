@@ -1,56 +1,83 @@
 ---
-title: "Depot Island: Okinawa Travel Guide (4.3★)"
-description: "Depot Island is the pastel-painted shopping and dining block on the seawall of Mihama American Village in Chatan, Okinawa, about 45–60 minutes north of Naha by bus along Route 58. 4.3★ (6,823 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okinawa"
-category: "attraction"
-pubDate: "2026-11-15T07:43:54.651Z"
+title: 'Depot Island: Okinawa Travel Guide (4.3★)'
+description: >-
+  Depot Island is the pastel-painted shopping and dining block on the seawall of
+  Mihama American Village in Chatan, Okinawa, about 45–60 minutes north of Naha
+  by bus along Route 58. 4.3★ (6,830 reviews) — what visitors say, hours, and
+  tips.
+country: Japan
+region: Okinawa
+category: attraction
+pubDate: '2026-11-15T07:43:54.651Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/df/Depot_Island_-_panoramio.jpg"
-  credit: "Photo: hasano_jp / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Depot_Island_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/df/Depot_Island_-_panoramio.jpg
+  credit: 'Photo: hasano_jp / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Depot_Island_-_panoramio.jpg'
+  via: act
   focus:
     x: 50
-    y: 20
+    'y': 20
 gallery: []
 place:
-  id: "ChIJD_845w8T5TQR3PMr42X4pt4"
-  name: "Depot Island"
-  address: "9-1 Mihama, Chatan, Nakagami District, Okinawa 904-0115, Japan"
+  id: ChIJD_845w8T5TQR3PMr42X4pt4
+  name: Depot Island
+  address: '9-1 Mihama, Chatan, Nakagami District, Okinawa 904-0115, Japan'
   rating: 4.3
-  userRatingsTotal: 6823
-  googleMapsUrl: "https://maps.google.com/?cid=16043783839040664540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6830
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16043783839040664540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.3157908
   lng: 127.7547146
-  phone: "+81 98-926-3322"
+  phone: +81 98-926-3322
   openingHours:
-    - "Monday: 10:00 AM – 9:00 PM"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 9:00 PM'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
 tags:
-  - "okinawa"
-  - "night view"
-quickAnswer: "Depot Island is the pastel-painted shopping and dining block on the seawall of Mihama American Village in Chatan, Okinawa, about 45–60 minutes north of Naha by bus along Route 58. Its shops currently open 10am–9pm, and the best plan is to arrive mid-afternoon, browse, then stay for sunset over the East China Sea from the boardwalk."
+  - okinawa
+  - night view
+quickAnswer: >-
+  Depot Island is the pastel-painted shopping and dining block on the seawall of
+  Mihama American Village in Chatan, Okinawa, about 45–60 minutes north of Naha
+  by bus along Route 58. Its shops currently open 10am–9pm, and the best plan is
+  to arrive mid-afternoon, browse, then stay for sunset over the East China Sea
+  from the boardwalk.
 faq:
-  - q: "How do I get to Depot Island from Naha?"
-    a: "Take a bus heading north along Route 58 from Naha Bus Terminal and get off at Kuwae or Gunbyoin-mae, then walk west toward the ferris wheel. Driving takes roughly 30–45 minutes outside rush hour, and you can park in the American Village lots."
-  - q: "What are Depot Island's opening hours?"
-    a: "Shops currently open 10am–9pm every day of the week. Individual restaurants and bars set their own hours, and the schedule can change, so check the official American Village site before you go."
-  - q: "When is the best time to visit?"
-    a: "Late afternoon through sunset. The complex faces west over the East China Sea, so arrive about two hours before sunset to shop, then take a seat on the seawall or a terrace."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours for browsing and a meal. Add an hour for sunset and a walk to Sunset Beach or the Mihama ferris wheel."
-  - q: "What else is nearby?"
-    a: "The rest of Mihama American Village, the ferris wheel and Sunset Beach are all a short walk away. Araha Beach is further south along the coastal path."
+  - q: How do I get to Depot Island from Naha?
+    a: >-
+      Take a bus heading north along Route 58 from Naha Bus Terminal and get off
+      at Kuwae or Gunbyoin-mae, then walk west toward the ferris wheel. Driving
+      takes roughly 30–45 minutes outside rush hour, and you can park in the
+      American Village lots.
+  - q: What are Depot Island's opening hours?
+    a: >-
+      Shops currently open 10am–9pm every day of the week. Individual
+      restaurants and bars set their own hours, and the schedule can change, so
+      check the official American Village site before you go.
+  - q: When is the best time to visit?
+    a: >-
+      Late afternoon through sunset. The complex faces west over the East China
+      Sea, so arrive about two hours before sunset to shop, then take a seat on
+      the seawall or a terrace.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours for browsing and a meal. Add an hour for sunset
+      and a walk to Sunset Beach or the Mihama ferris wheel.
+  - q: What else is nearby?
+    a: >-
+      The rest of Mihama American Village, the ferris wheel and Sunset Beach are
+      all a short walk away. Araha Beach is further south along the coastal
+      path.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## Pastel walls on the seawall

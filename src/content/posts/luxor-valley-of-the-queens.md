@@ -1,54 +1,82 @@
 ---
-title: "Valley of the Queens: Luxor Travel Guide (4.5★)"
-description: "The Valley of the Queens sits on Luxor's West Bank, at the southern end of the Theban Necropolis, a short drive past the Colossi of Memnon. 4.5★ (2,412 reviews) — what visitors say, hours, and tips."
-country: "Egypt"
-region: "Luxor"
-category: "attraction"
-pubDate: "2026-11-15T07:43:50.506Z"
+title: 'Valley of the Queens: Luxor Travel Guide (4.5★)'
+description: >-
+  The Valley of the Queens sits on Luxor's West Bank, at the southern end of the
+  Theban Necropolis, a short drive past the Colossi of Memnon. 4.5★ (2,414
+  reviews) — what visitors say, hours, and tips.
+country: Egypt
+region: Luxor
+category: attraction
+pubDate: '2026-11-15T07:43:50.506Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Valley_of_the_Queens_by_Zureks.jpg/1920px-Valley_of_the_Queens_by_Zureks.jpg"
-  credit: "Photo: Zureks / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Valley_of_the_Queens_by_Zureks.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Valley_of_the_Queens_by_Zureks.jpg/1920px-Valley_of_the_Queens_by_Zureks.jpg
+  credit: 'Photo: Zureks / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Valley_of_the_Queens_by_Zureks.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJP32G5TcWSRQR0m4PRgyYXSc"
-  name: "Valley of the Queens"
-  address: "PHHV+368, Luxor, Luxor Governorate 1340410, Egypt"
+  id: ChIJP32G5TcWSRQR0m4PRgyYXSc
+  name: Valley of the Queens
+  address: 'PHHV+368, Luxor, Luxor Governorate 1340410, Egypt'
   rating: 4.5
-  userRatingsTotal: 2412
-  googleMapsUrl: "https://maps.google.com/?cid=2836590518795726546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2414
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2836590518795726546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.7276584
   lng: 32.5930858
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
 tags:
-  - "luxor"
-  - "Valley of the Queens"
-quickAnswer: "The Valley of the Queens sits on Luxor's West Bank, at the southern end of the Theban Necropolis, a short drive past the Colossi of Memnon. It holds around 90 tombs of royal wives and princes, and the highlight is the tomb of Nefertari, which needs its own separate ticket. Go early: it currently opens at 6am, and a morning visit of 1.5–2 hours beats the afternoon heat."
+  - luxor
+  - Valley of the Queens
+quickAnswer: >-
+  The Valley of the Queens sits on Luxor's West Bank, at the southern end of the
+  Theban Necropolis, a short drive past the Colossi of Memnon. It holds around
+  90 tombs of royal wives and princes, and the highlight is the tomb of
+  Nefertari, which needs its own separate ticket. Go early: it currently opens
+  at 6am, and a morning visit of 1.5–2 hours beats the afternoon heat.
 faq:
-  - q: "How do I get to the Valley of the Queens from Luxor?"
-    a: "Cross to the West Bank by taxi over the bridge south of town, or take the public ferry from the East Bank corniche and pick up a taxi there. The valley is a few minutes past the Colossi of Memnon. Arrange for your driver to wait, as there's no public transport into the wadi."
-  - q: "Is the tomb of Nefertari included in the standard ticket?"
-    a: "No. Nefertari's tomb (QV66) needs a separate premium ticket and has strictly limited time inside. Current prices are posted at the ticket office and on the official Egyptian antiquities ticketing site."
-  - q: "What are the opening hours, and when should I go?"
-    a: "It currently opens 6am to 5pm, but West Bank hours shift through the year, so check the official site for this month's times. Arriving early gives cooler air, and you usually get there before tour groups coming over from the Valley of the Kings."
-  - q: "How long do I need at the Valley of the Queens?"
-    a: "Allow about 1.5–2 hours to see the open tombs, and longer if you add Nefertari. It fits easily into a half day with Medinet Habu and Deir el-Medina nearby."
-  - q: "Which tombs are open to visitors?"
-    a: "Only a few are open at any time, and they rotate. Amenherkhepshef (QV55), Khaemwaset (QV44) and Titi (QV52) are often open. Check the list at the gate on the day."
+  - q: How do I get to the Valley of the Queens from Luxor?
+    a: >-
+      Cross to the West Bank by taxi over the bridge south of town, or take the
+      public ferry from the East Bank corniche and pick up a taxi there. The
+      valley is a few minutes past the Colossi of Memnon. Arrange for your
+      driver to wait, as there's no public transport into the wadi.
+  - q: Is the tomb of Nefertari included in the standard ticket?
+    a: >-
+      No. Nefertari's tomb (QV66) needs a separate premium ticket and has
+      strictly limited time inside. Current prices are posted at the ticket
+      office and on the official Egyptian antiquities ticketing site.
+  - q: 'What are the opening hours, and when should I go?'
+    a: >-
+      It currently opens 6am to 5pm, but West Bank hours shift through the year,
+      so check the official site for this month's times. Arriving early gives
+      cooler air, and you usually get there before tour groups coming over from
+      the Valley of the Kings.
+  - q: How long do I need at the Valley of the Queens?
+    a: >-
+      Allow about 1.5–2 hours to see the open tombs, and longer if you add
+      Nefertari. It fits easily into a half day with Medinet Habu and Deir
+      el-Medina nearby.
+  - q: Which tombs are open to visitors?
+    a: >-
+      Only a few are open at any time, and they rotate. Amenherkhepshef (QV55),
+      Khaemwaset (QV44) and Titi (QV52) are often open. Check the list at the
+      gate on the day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 The road ends in a dead-end wadi of pale limestone. Low cliffs close in on three sides, and the walkways are swept gravel. Small doorways lead into the rock, each fronted by a metal gate and a little shaded sign. From the car park you see almost nothing of what you came for. Everything is underground.

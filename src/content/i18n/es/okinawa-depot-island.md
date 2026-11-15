@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: okinawa-depot-island
-srcHash: '33f49f52e045'
+srcHash: '75bc835d8f57'
 title: 'Depot Island: guía de viaje de Okinawa (4.3★)'
-description: En el malecón de Mihama American Village, en Chatan (Okinawa), se alza Depot Island, un conjunto de tiendas y restaurantes pintado en tonos pastel a unos 45–60 minutos al norte de Naha en autobús por la Ruta 58. Con 4.3★ (6,823 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En el malecón de Mihama American Village, en Chatan (Okinawa), se alza Depot Island, un conjunto de tiendas y restaurantes pintado en tonos pastel a unos 45–60 minutos al norte de Naha en autobús por la Ruta 58. Con 4.3★ (6,830 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el malecón de Mihama American Village, en Chatan (Okinawa), se alza Depot Island, un conjunto de tiendas y restaurantes pintado en tonos pastel. Se llega en unos 45–60 minutos en autobús desde Naha, en dirección norte por la Ruta 58. Actualmente las tiendas abren de 10am a 9pm. Lo ideal es llegar a media tarde, recorrer las tiendas con calma y quedarse después en el paseo de madera para ver la puesta de sol sobre el mar de China Oriental.
 faq:
   - q: ¿Cómo se llega a Depot Island desde Naha?

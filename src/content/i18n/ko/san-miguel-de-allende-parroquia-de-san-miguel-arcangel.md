@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: san-miguel-de-allende-parroquia-de-san-miguel-arcangel
-srcHash: 'b52ca6ad95c1'
+srcHash: '43ae7c742702'
 title: '산미겔아르칸헬 성당: 산미겔데아옌데 여행 가이드'
-description: 산미겔아르칸헬 성당(Parroquia de San Miguel Arcángel)은 산미겔데아옌데(San Miguel de Allende) 소나 센트로(Zona Centro)에 있습니다. 아옌데 광장의 남쪽 면에 서 있습니다. 4.8★(리뷰 25,558건)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
+description: 산미겔아르칸헬 성당(Parroquia de San Miguel Arcángel)은 산미겔데아옌데(San Miguel de Allende) 소나 센트로(Zona Centro)에 있습니다. 아옌데 광장의 남쪽 면에 서 있습니다. 4.8★(리뷰 25,724건)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
 quickAnswer: 산미겔아르칸헬 성당(Parroquia de San Miguel Arcángel)은 산미겔데아옌데(San Miguel de Allende) 소나 센트로(Zona Centro)에 있으며, 아옌데 광장(Jardín Allende)의 남쪽 면에 서 있습니다. 이 도시의 엽서마다 빠짐없이 등장하는 분홍빛 신고딕 양식 성당이 바로 이곳입니다. 월요일부터 토요일까지는 오전 9시부터 오후 2시까지 내부를 둘러볼 수 있습니다. 월요일, 화요일, 수요일, 금요일에는 오후 4시부터 오후 7시까지 한 번 더 문을 엽니다. 일요일은 휴무로 안내되어 있습니다. 가장 붐비는 때는 토요일 오전 10시부터 오후 2시까지이니 이 시간대는 피하시는 것이 좋습니다.
 faq:
   - q: 산미겔아르칸헬 성당의 운영 시간은 어떻게 되나요?

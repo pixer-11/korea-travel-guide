@@ -1,28 +1,36 @@
 ---
 title: 'Tartine Bakery: San Francisco Travel Guide (4.5★)'
-description: Tartine Bakery, at the corner of Guerrero and 18th in the Mission District, is one of San Francisco's most-visited bakeries — go right at opening (7:30am) to beat the line, especially on weekends when 9am–5pm gets packed. 4.5★ (5,942 reviews) — what visitors say, hours, and tips.
+description: >-
+  Tartine Bakery, at the corner of Guerrero and 18th in the Mission District, is
+  one of San Francisco's most-visited bakeries — go right at opening (7:30am) to
+  beat the line, especially on weekends when 9am–5pm gets packed. 4.5★ (5,994
+  reviews) — what visitors say, hours, and tips.
 country: United States
 region: San Francisco
 category: trendy
 pubDate: '2026-08-06T10:10:08.584Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/553514599_3sQgxFOcs6UL4_YKQvvg5zdF5Y32Ax4UgpXJAL3liQA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/553514599_3sQgxFOcs6UL4_YKQvvg5zdF5Y32Ax4UgpXJAL3liQA.jpg
   credit: 'Photo: Foursquare user content (Tartine Bakery)'
   license: foursquare
-  source: https://foursquare.com/v/42814b00f964a52002221fe3
+  source: 'https://foursquare.com/v/42814b00f964a52002221fe3'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tartine_bakery_interior_in_2010.jpg/1920px-Tartine_bakery_interior_in_2010.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tartine_bakery_interior_in_2010.jpg/1920px-Tartine_bakery_interior_in_2010.jpg
     credit: 'Photo: kennejima / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Tartine_bakery_interior_in_2010.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Tartine_bakery_interior_in_2010.jpg
 place:
   id: ChIJBVY2Bxh-j4ARa2zO8Jd6H2A
   name: Tartine Bakery
-  address: 600 Guerrero St, San Francisco, CA 94110, USA
+  address: '600 Guerrero St, San Francisco, CA 94110, USA'
   rating: 4.5
-  userRatingsTotal: 5942
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=6926389544917822571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5994
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6926389544917822571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.761434699999995
   lng: -122.42408209999999
@@ -54,19 +62,41 @@ place:
 tags:
   - san francisco
   - bakery
-quickAnswer: Tartine Bakery, at the corner of Guerrero and 18th in the Mission District, is one of San Francisco's most-visited bakeries — go right at opening (7:30am) to beat the line, especially on weekends when 9am–5pm gets packed. Come for the morning bun and country loaf, expect to stand and wait, and budget a mid-range tab for pastries and a hot pressed sandwich. It's open daily 7:30am–6pm, with the calmest weekend window being that first hour after opening.
+quickAnswer: >-
+  Tartine Bakery, at the corner of Guerrero and 18th in the Mission District, is
+  one of San Francisco's most-visited bakeries — go right at opening (7:30am) to
+  beat the line, especially on weekends when 9am–5pm gets packed. Come for the
+  morning bun and country loaf, expect to stand and wait, and budget a mid-range
+  tab for pastries and a hot pressed sandwich. It's open daily 7:30am–6pm, with
+  the calmest weekend window being that first hour after opening.
 faq:
   - q: What's the best time to visit to avoid crowds?
-    a: Go right at opening. Weekdays stay fairly steady all day, but on weekends the calmest window is 7:30am–9am — after 9am it gets busy and stays that way until around 5pm.
+    a: >-
+      Go right at opening. Weekdays stay fairly steady all day, but on weekends
+      the calmest window is 7:30am–9am — after 9am it gets busy and stays that
+      way until around 5pm.
   - q: How do I get to Tartine Bakery without a car?
-    a: The closest transit is 16th Street Mission BART (Red, Green, Orange, Yellow lines), about a 10-minute walk. The 22 and 33 Muni bus lines also stop nearby.
+    a: >-
+      The closest transit is 16th Street Mission BART (Red, Green, Orange,
+      Yellow lines), about a 10-minute walk. The 22 and 33 Muni bus lines also
+      stop nearby.
   - q: What should I order?
-    a: The morning bun (a sugar-and-orange-glazed pastry) and the country loaf are the signature items; for lunch, try one of the hot pressed sandwiches made on that same bread.
+    a: >-
+      The morning bun (a sugar-and-orange-glazed pastry) and the country loaf
+      are the signature items; for lunch, try one of the hot pressed sandwiches
+      made on that same bread.
   - q: How much should I expect to spend?
-    a: It's mid-range for a bakery — a pastry, sandwich, and coffee will run you more than a quick coffee shop stop, but it's not a sit-down restaurant price tag.
-  - q: Is there seating, and should I plan to stay?
-    a: There are a handful of tables, but they fill quickly, especially on weekends. Most visitors grab their order to go and eat nearby, such as at Dolores Park a few minutes' walk away.
+    a: >-
+      It's mid-range for a bakery — a pastry, sandwich, and coffee will run you
+      more than a quick coffee shop stop, but it's not a sit-down restaurant
+      price tag.
+  - q: 'Is there seating, and should I plan to stay?'
+    a: >-
+      There are a handful of tables, but they fill quickly, especially on
+      weekends. Most visitors grab their order to go and eat nearby, such as at
+      Dolores Park a few minutes' walk away.
 aiGenerated: true
+updatedDate: '2026-11-15'
 ---
 ## Why Tartine still pulls a line
 

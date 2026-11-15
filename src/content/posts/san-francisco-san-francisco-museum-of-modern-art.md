@@ -1,28 +1,35 @@
 ---
-title: "San Francisco Museum of Modern Art: Travel Guide (4.6★)"
-description: "SFMOMA sits at 151 3rd St in SoMa, a five-minute walk from the Powell St BART/Muni station, and is easily worth a half-day given its seven floors of contemporary and modern art. 4.6★ (16,586 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Francisco"
-category: "attraction"
-pubDate: "2026-08-05T11:18:10.286Z"
+title: 'San Francisco Museum of Modern Art: Travel Guide (4.6★)'
+description: >-
+  SFMOMA sits at 151 3rd St in SoMa, a five-minute walk from the Powell St
+  BART/Muni station, and is easily worth a half-day given its seven floors of
+  contemporary and modern art. 4.6★ (16,739 reviews) — what visitors say, hours,
+  and tips.
+country: United States
+region: San Francisco
+category: attraction
+pubDate: '2026-08-05T11:18:10.286Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/1920px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg"
-  credit: "Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/1920px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg
+  credit: 'Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg
 gallery: []
 place:
-  id: "ChIJ53I1Yn2AhYAR_Vl1vNygfMg"
-  name: "San Francisco Museum of Modern Art"
-  address: "151 3rd St, San Francisco, CA 94103, USA"
+  id: ChIJ53I1Yn2AhYAR_Vl1vNygfMg
+  name: San Francisco Museum of Modern Art
+  address: '151 3rd St, San Francisco, CA 94103, USA'
   rating: 4.6
-  userRatingsTotal: 16586
-  googleMapsUrl: "https://maps.google.com/?cid=14446598574612765181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16739
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14446598574612765181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.7857182
   lng: -122.40105080000001
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekdayBusy:
@@ -35,8 +42,8 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_674d6667794e76316c565f5241596841326e59314933354a496843"
-  phone: '+1 415-357-4000'
+    venueId: ven_674d6667794e76316c565f5241596841326e59314933354a496843
+  phone: +1 415-357-4000
   openingHours:
     - 'Monday: 10:00 AM – 5:00 PM'
     - 'Tuesday: 10:00 AM – 5:00 PM'
@@ -46,22 +53,43 @@ place:
     - 'Saturday: 10:00 AM – 5:00 PM'
     - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "san francisco"
-  - "museum"
-quickAnswer: "SFMOMA sits at 151 3rd St in SoMa, a five-minute walk from the Powell St BART/Muni station, and is easily worth a half-day given its seven floors of contemporary and modern art. Go late in the day — the crowd data shows 5pm–6pm is the quiet window on both weekdays and weekends — and avoid the 11am–5pm weekend crush if you can. Check current hours and ticket prices online before you go, since both shift seasonally."
+  - san francisco
+  - museum
+quickAnswer: >-
+  SFMOMA sits at 151 3rd St in SoMa, a five-minute walk from the Powell St
+  BART/Muni station, and is easily worth a half-day given its seven floors of
+  contemporary and modern art. Go late in the day — the crowd data shows 5pm–6pm
+  is the quiet window on both weekdays and weekends — and avoid the 11am–5pm
+  weekend crush if you can. Check current hours and ticket prices online before
+  you go, since both shift seasonally.
 faq:
-  - q: "How do I get to SFMOMA by public transit?"
-    a: "The closest stop is Powell Street BART/Muni Metro station, about a 5-minute walk; Montgomery Street station is a similar distance if you're coming from downtown or the Financial District."
-  - q: "When is SFMOMA least crowded?"
-    a: "Foot-traffic data shows 5pm–6pm is the quietest window on both weekdays and weekends. Weekends get busiest between 11am and 5pm, so aim outside that stretch if you're visiting Saturday or Sunday."
-  - q: "How long should I plan to spend at the museum?"
-    a: "Two to three hours covers the highlights; budget closer to four if you want to see special exhibitions and photography galleries in depth."
-  - q: "What's nearby if I want to make a day of it?"
-    a: "Yerba Buena Gardens, the Contemporary Jewish Museum, and Yerba Buena Center for the Arts are all within a 10-minute walk, making SoMa easy to pair into a full museum day."
-  - q: "Do I need to book tickets in advance?"
-    a: "It's a good idea, especially for weekends, since entry is timed-slot during busy periods. Check SFMOMA's official site for current hours and ticket prices before you go, as both can change seasonally."
+  - q: How do I get to SFMOMA by public transit?
+    a: >-
+      The closest stop is Powell Street BART/Muni Metro station, about a
+      5-minute walk; Montgomery Street station is a similar distance if you're
+      coming from downtown or the Financial District.
+  - q: When is SFMOMA least crowded?
+    a: >-
+      Foot-traffic data shows 5pm–6pm is the quietest window on both weekdays
+      and weekends. Weekends get busiest between 11am and 5pm, so aim outside
+      that stretch if you're visiting Saturday or Sunday.
+  - q: How long should I plan to spend at the museum?
+    a: >-
+      Two to three hours covers the highlights; budget closer to four if you
+      want to see special exhibitions and photography galleries in depth.
+  - q: What's nearby if I want to make a day of it?
+    a: >-
+      Yerba Buena Gardens, the Contemporary Jewish Museum, and Yerba Buena
+      Center for the Arts are all within a 10-minute walk, making SoMa easy to
+      pair into a full museum day.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      It's a good idea, especially for weekends, since entry is timed-slot
+      during busy periods. Check SFMOMA's official site for current hours and
+      ticket prices before you go, as both can change seasonally.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-15'
 ---
 
 ## Why go
