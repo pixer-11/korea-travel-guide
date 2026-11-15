@@ -1260,7 +1260,6 @@
   "phuket-sirinat-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg/1920px-Nai_Yang_Beach%2C_Phuket_%284448621322%29.jpg": 1920,
   "phuket-wat-chalong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Phuket_Thailand_Wat-Chalong-01.jpg/3840px-Phuket_Thailand_Wat-Chalong-01.jpg": 3840,
   "poipet-national-museum-of-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03-National_Museum_of_Cambodia-nX-7.jpg/3840px-03-National_Museum_of_Cambodia-nX-7.jpg": 3840,
-  "mumbai-mokai\u0001https://fastly.4sqi.net/img/general/original/7978579_hlhe3Ca-CSErBzp5TYiZ1g2jgL1L3-GyB7obyeh6CYM.jpg": 906,
   "saint-denis-jay-z-stade-de-france-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/Jay-Z_concert_%28cropped%29.jpg": 735,
   "singapore-house-of-tan-yeok-nee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/House_of_Tan_Yeok_Nee_-_20250719_-_RSKY_-_02.jpg/1920px-House_of_Tan_Yeok_Nee_-_20250719_-_RSKY_-_02.jpg": 1920,
   "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Post_Malone_2018.jpg/1280px-Post_Malone_2018.jpg": 1280,
@@ -3646,7 +3645,18 @@
   "vancouver-vancouver-seawall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seawall2.jpg/1920px-Seawall2.jpg": 1920,
   "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536,
   "bangkok-view-rooftop-bangkok\u0001https://live.staticflickr.com/2630/32818284245_5b7b848c21_b.jpg": 1024,
-  "sukhothai-sukhothai-buddha-park\u0001https://live.staticflickr.com/4158/34409498401_13bf08788b_b.jpg": 1024
+  "sukhothai-sukhothai-buddha-park\u0001https://live.staticflickr.com/4158/34409498401_13bf08788b_b.jpg": 1024,
+  "berlin-viktoria-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Viktoria_park%2C_berlin_august_2012_-_panoramio.jpg": 2592,
+  "florence-giotto-s-bell-tower\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Florence%2C_Italy%2C_Giotto%27s_Bell_Tower_under_the_rain.jpg": 3072,
+  "kyoto-arashiyama\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arashiyama%2C_Part_II_-_Arashiyama7534.jpg/1920px-Arashiyama%2C_Part_II_-_Arashiyama7534.jpg": 1920,
+  "kyoto-kyoto-city-kyocera-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg/3840px-Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg": 3840,
+  "luxor-valley-of-the-queens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Valley_of_the_Queens_by_Zureks.jpg/1920px-Valley_of_the_Queens_by_Zureks.jpg": 1920,
+  "niagara-falls-falls-view\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maid_of_the_Mist_VII_approaching_the_Horseshoe_Falls%2C_West_view_20170418_1.jpg/3840px-Maid_of_the_Mist_VII_approaching_the_Horseshoe_Falls%2C_West_view_20170418_1.jpg": 3840,
+  "okinawa-depot-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Depot_Island_-_panoramio.jpg": 3264,
+  "okinawa-sakima-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sakima_Art_Museum03n3000.jpg/1920px-Sakima_Art_Museum03n3000.jpg": 1920,
+  "mumbai-mokai\u0001https://fastly.4sqi.net/img/general/original/1378677409_BIPtceEJaXTn_gF5hEHZJcKs4jBoFinwcE8NOQZvKQw.jpg": 1440,
+  "toronto-toronto-skyline-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skyline_of_Toronto_from_viewpoint_on_Toronto_Islands%2C_2026.jpg/3840px-Skyline_of_Toronto_from_viewpoint_on_Toronto_Islands%2C_2026.jpg": 3840,
+  "vancouver-vancouver-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vancouver_Art_Gallery_%2829787380987%29.jpg/1920px-Vancouver_Art_Gallery_%2829787380987%29.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4166,5 +4176,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-14T19:42:38.926Z"
+ "updated": "2026-11-15T08:06:42.805Z"
 }
