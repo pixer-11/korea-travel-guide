@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Yuriy Pavlovich / Wikimedia Commons (CC0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Minor_Mosque_Tashkent.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - tashkent

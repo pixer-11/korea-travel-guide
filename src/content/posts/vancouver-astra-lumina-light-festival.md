@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Xicotencatl / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Vancouver_Skyline_04.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - vancouver

@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Guidecity / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tashkent_skyline_2019.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - tashkent

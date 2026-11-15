@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Jaba1977 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Metekhi,_Tbilisi_(2).jpg'
+  focus:
+    x: 55
+    y: 45
 gallery: []
 tags:
   - tbilisi

@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Bestalex / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tashkent,_2026-05-06_(1).jpg
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - tashkent

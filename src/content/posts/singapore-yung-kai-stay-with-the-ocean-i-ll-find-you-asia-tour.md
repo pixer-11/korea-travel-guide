@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Jacklee / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Capitol_Theatre,_Capitol_Piazza,_Singapore_-_20150610-01.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - singapore

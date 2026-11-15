@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: DarkNight0917 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Vancouver_Convention_Centre_Exterior_Day.jpg
+  focus:
+    x: 45
+    y: 45
 gallery: []
 tags:
   - vancouver

@@ -19,6 +19,9 @@ heroImage:
   credit: 'Photo: Ruthsic / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tokyo_skyline_seen_from_Tokyo_Skytree.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - tokyo

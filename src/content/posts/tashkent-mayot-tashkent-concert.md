@@ -23,6 +23,9 @@ heroImage:
   credit: 'Photo: Fabio Achilli from Milano, Italy / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mustaqillik_maydoni,_Tashkent,_Uzbekistan._(6136468825).jpg
+  focus:
+    x: 25
+    y: 35
 gallery: []
 tags:
   - tashkent

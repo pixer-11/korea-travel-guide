@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Drksll / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_at_Night.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tashkent

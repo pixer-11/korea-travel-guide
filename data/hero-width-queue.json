@@ -3655,7 +3655,8 @@
   "okinawa-sakima-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sakima_Art_Museum03n3000.jpg/1920px-Sakima_Art_Museum03n3000.jpg": 1920,
   "mumbai-mokai\u0001https://fastly.4sqi.net/img/general/original/1378677409_BIPtceEJaXTn_gF5hEHZJcKs4jBoFinwcE8NOQZvKQw.jpg": 1440,
   "toronto-toronto-skyline-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skyline_of_Toronto_from_viewpoint_on_Toronto_Islands%2C_2026.jpg/3840px-Skyline_of_Toronto_from_viewpoint_on_Toronto_Islands%2C_2026.jpg": 3840,
-  "vancouver-vancouver-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vancouver_Art_Gallery_%2829787380987%29.jpg/1920px-Vancouver_Art_Gallery_%2829787380987%29.jpg": 1920
+  "vancouver-vancouver-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vancouver_Art_Gallery_%2829787380987%29.jpg/1920px-Vancouver_Art_Gallery_%2829787380987%29.jpg": 1920,
+  "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/58890857_qyQo-u369dfwzjMI11XVnom4SM5xHZx9IpB71USocHs.jpg": 1440
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3856,8 +3857,8 @@
   },
   "jakarta-esa": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-11-15",
+   "attempts": 9,
+   "nextTry": "2026-11-22",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -3898,8 +3899,8 @@
   },
   "istanbul-bosphorus-view-point": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-11-15",
+   "attempts": 8,
+   "nextTry": "2026-11-22",
    "flaggedAt": "2026-09-21",
    "lastResult": "no-wider"
   },
@@ -4175,5 +4176,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-15T15:02:54.638Z"
+ "updated": "2026-11-15T19:38:09.974Z"
 }

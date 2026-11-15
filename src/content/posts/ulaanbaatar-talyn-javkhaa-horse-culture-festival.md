@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Sebacalka / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Ulaanbaatar_skyline_in_night_2.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - ulaanbaatar

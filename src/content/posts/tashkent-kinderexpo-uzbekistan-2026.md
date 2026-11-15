@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Benjamin Goetzinger / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Inside_Chorsu_bazaar_in_Tashkent,_Uzbekistan.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - tashkent

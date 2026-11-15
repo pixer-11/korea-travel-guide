@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_water.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tashkent

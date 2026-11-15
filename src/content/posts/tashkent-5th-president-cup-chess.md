@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Citiguide / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Modern_Tashkent._Skyline.jpg'
+  focus:
+    x: 65
+    y: 40
 gallery: []
 tags:
   - tashkent

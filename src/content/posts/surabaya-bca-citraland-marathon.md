@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Ya, saya inBaliTimur / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Surabaya_Pusat.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - surabaya

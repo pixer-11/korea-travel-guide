@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Ehedaya at English Wikipedia / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tashkent_museum_of_applied_arts.jpg'
+  focus:
+    x: 65
+    y: 50
 gallery: []
 tags:
   - tashkent
