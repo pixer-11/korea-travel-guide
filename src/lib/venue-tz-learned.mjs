@@ -12,18 +12,36 @@ export default {
     "Frisco": {
       "tz": "America/Chicago",
       "province": "Texas"
+    },
+    "Indianapolis": {
+      "tz": "America/Indiana/Indianapolis",
+      "province": "Indiana"
     }
   },
   "Indonesia": {
     "Semarang": {
       "tz": "Asia/Jakarta",
       "province": "Central Java"
+    },
+    "Toraja": {
+      "tz": "Asia/Makassar",
+      "province": "South Sulawesi"
     }
   },
   "Mongolia": {
     "Uvurkhangai": {
       "tz": "Asia/Ulaanbaatar",
       "province": "Ovorkhangai"
+    }
+  },
+  "Mexico": {
+    "San Miguel de Cozumel": {
+      "tz": "America/Cancun",
+      "province": "Quintana Roo"
+    },
+    "Mazatlán": {
+      "tz": "America/Mazatlan",
+      "province": "Sinaloa"
     }
   }
 };

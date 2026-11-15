@@ -16384,5 +16384,248 @@
       "getting": "旺加努伊拥有自己的小型机场（WAG），有航班飞往奥克兰，不过大多数旅客还是选择陆路前往：InterCity长途大巴从惠灵顿出发（车程约3.5至4小时），并可换乘前往奥克兰和北帕默斯顿，后者的机场是距离最近的主要航空枢纽。目前没有直达旺加努伊的客运铁路线。",
       "days": "建议安排1到2天时间，探索河运历史步道、旺加努伊的各家画廊与玻璃工作室，并在紧凑别致的维多利亚风格市中心漫步闲逛。"
     }
+  },
+  "Elche": {
+    "en": {
+      "blurb": "Elche is home to the Palmeral, a UNESCO-listed forest of over 200,000 date palms that has shaded the city's streets and orchards since the Moorish period. It is Spain's third-largest city in the Valencian Community, blending that ancient irrigated landscape with a historic old town and a modern shoe-manufacturing economy.",
+      "getting": "Most travellers arrive via Alicante-Elche Airport (ALC), which sits only a few kilometres from Elche itself; the Renfe Cercanías C1 line connects the airport area and Alicante city to Elche's station in around 20 to 25 minutes. There is no train or tram stop at the terminal itself, so onward travel from the airport is by bus or taxi to the nearest station before continuing by rail.",
+      "days": "Plan on ~1 to 2 days: enough to walk the Palmeral and its gardens, visit the old town's historic core, and take a half-day trip into nearby Alicante if time allows."
+    },
+    "ko": {
+      "blurb": "엘체에는 유네스코 세계유산으로 지정된 야자나무 숲, 팔메랄이 있습니다. 무어인 시대부터 20만 그루가 넘는 대추야자나무가 도시의 거리와 과수원에 그늘을 드리워왔습니다. 엘체는 발렌시아 지방에서 세 번째로 큰 도시로, 이처럼 오래된 관개 경관과 유서 깊은 구시가지, 그리고 현대적인 제화 산업이 공존하는 곳입니다.",
+      "getting": "대부분의 여행객은 엘체에서 불과 몇 킬로미터 떨어진 알리칸테-엘체 공항(ALC)을 통해 도착합니다. 렌페 세르카니아스 C1 노선이 공항 인근 지역과 알리칸테 시내를 엘체 기차역과 연결하며, 소요 시간은 약 20~25분입니다. 공항 터미널 자체에는 기차나 트램 정류장이 없으므로, 공항에서는 버스나 택시로 가장 가까운 역까지 이동한 후 기차로 갈아타야 합니다.",
+      "days": "1~2일 정도를 계획하시면 충분합니다. 팔메랄과 그 정원을 둘러보고, 구시가지의 역사적인 중심부를 방문하기에 적당한 시간이며, 여유가 있다면 인근 알리칸테로 반나절 일정의 여행을 다녀올 수도 있습니다."
+    },
+    "ja": {
+      "blurb": "エルチェは、ムーア時代から街の通りや果樹園に日陰をもたらしてきた、20万本を超えるナツメヤシが生い茂るユネスコ世界遺産の森「パルメラル」で知られる街です。バレンシア州ではスペイン第3の都市であり、この古くからの灌漑農地の景観と、歴史を感じさせる旧市街、さらに現代の靴製造業が共存する街でもあります。",
+      "getting": "多くの旅行者はアリカンテ・エルチェ空港(ALC)を利用します。空港はエルチェの街からほんの数キロの場所にあり、レンフェ近郊線のC1線を使えば、空港周辺やアリカンテ市内からエルチェ駅まで約20〜25分で移動できます。ただし空港ターミナル自体には鉄道やトラムの駅がないため、まずバスやタクシーで最寄り駅まで移動し、そこから鉄道に乗り継ぐ形になります。",
+      "days": "滞在の目安は1〜2日程度です。パルメラルとその庭園を歩いて回り、旧市街の歴史的な中心部を訪れるには十分な日数で、時間に余裕があれば近郊のアリカンテへ半日ほど足を延ばすのもおすすめです。"
+    },
+    "es": {
+      "blurb": "Elche es la ciudad del Palmeral, un bosque declarado Patrimonio de la Humanidad por la UNESCO con más de 200.000 palmeras datileras que dan sombra a las calles y huertos de la ciudad desde la época musulmana. Es la tercera ciudad más poblada de la Comunidad Valenciana, y combina ese antiguo paisaje de regadío con un casco histórico lleno de encanto y una pujante industria del calzado.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Alicante-Elche (ALC), situado a solo unos kilómetros de Elche. La línea C1 de Cercanías Renfe conecta la zona del aeropuerto y la ciudad de Alicante con la estación de Elche en unos 20 o 25 minutos. El propio terminal aéreo no cuenta con parada de tren ni de tranvía, así que para continuar el viaje hay que tomar primero un autobús o un taxi hasta la estación más cercana y seguir después en tren.",
+      "days": "Con 1 o 2 días es suficiente: tiempo de sobra para recorrer el Palmeral y sus jardines, visitar el casco histórico y, si el horario lo permite, hacer una escapada de medio día a la cercana Alicante."
+    },
+    "zh": {
+      "blurb": "埃尔切（Elche）以帕尔梅拉尔棕榈园（Palmeral）闻名，这片联合国教科文组织认定的世界遗产由超过20万棵枣椰树组成，自摩尔人统治时期起便为这座城市的街道和果园遮荫纳凉。作为瓦伦西亚大区第三大城市，埃尔切将古老的灌溉景观、历史悠久的老城区与现代制鞋产业完美融合在一起。",
+      "getting": "大多数游客经由阿利坎特-埃尔切机场（ALC）抵达，该机场距埃尔切市区仅几公里之遥。Renfe Cercanías C1线将机场周边地区及阿利坎特市区与埃尔切火车站连接起来，车程约20至25分钟。需要注意的是，机场航站楼本身并没有火车或电车站点，因此从机场出发需先乘坐巴士或出租车前往最近的车站，再转乘火车继续行程。",
+      "days": "建议安排1至2天行程：足以漫步游览帕尔梅拉尔棕榈园及其花园，探访老城区的历史核心地带；如果时间允许，还可以安排半天行程前往邻近的阿利坎特一游。"
+    }
+  },
+  "Indianapolis": {
+    "en": {
+      "blurb": "Indianapolis is a flat, grid-planned Midwestern capital built around a circular downtown core, best known as the home of the Indianapolis 500 and a deep collection of free and low-cost museums. It blends auto-racing heritage with a walkable, canal-side downtown and a calendar full of sports and civic events.",
+      "getting": "Most travellers arrive via Indianapolis International Airport (IND), which sits a few miles southwest of downtown; from there, taxis and rideshares reach the city centre in roughly 20 to 25 minutes, while the IndyGo Route 8 bus runs a slower, stop-by-stop service along Washington Street into downtown. Indianapolis has no metro, light rail, or direct train link to its airport, so road transport is the standard route in.",
+      "days": "Two to three days is enough to cover downtown's museums, the Indianapolis Motor Speedway, and the canal walk at an easy pace."
+    },
+    "ko": {
+      "blurb": "인디애나폴리스는 원형 도심을 중심으로 격자형으로 설계된, 평평한 지형의 중서부 주도입니다. 인디애나폴리스 500 레이스의 고향이자 무료 또는 저렴하게 즐길 수 있는 박물관이 풍부한 도시로 잘 알려져 있습니다. 자동차 경주의 전통과 운하를 따라 걷기 좋은 도심, 그리고 스포츠·시민 행사로 가득한 연중 일정이 어우러져 있는 곳입니다.",
+      "getting": "대부분의 여행객은 도심에서 남서쪽으로 몇 마일 떨어진 인디애나폴리스 국제공항(IND)을 통해 도착합니다. 공항에서 택시나 라이드셰어를 이용하면 시내까지 약 20~25분이 걸리며, IndyGo 8번 버스는 워싱턴 스트리트를 따라 도심까지 정류장마다 서는 조금 느린 노선으로 운행됩니다. 인디애나폴리스에는 지하철이나 경전철, 공항 직결 열차가 없어 도로 교통이 시내로 들어가는 기본적인 방법입니다.",
+      "days": "이틀에서 사흘 정도면 여유롭게 도심의 박물관들과 인디애나폴리스 모터 스피드웨이, 운하 산책로까지 둘러보기에 충분합니다."
+    },
+    "ja": {
+      "blurb": "インディアナポリスは、円形のダウンタウンを中心に碁盤目状に区画された、起伏の少ない中西部の州都です。インディ500の開催地として、また無料・低料金で楽しめる博物館が充実していることで知られています。モータースポーツの伝統と、運河沿いを歩いて楽しめるダウンタウン、そしてスポーツやシビックイベントが詰まったカレンダーが見事に融合した街です。",
+      "getting": "多くの旅行者はインディアナポリス国際空港(IND)を利用して訪れます。空港はダウンタウンの南西数マイルに位置し、タクシーやライドシェアを使えば市街地まで約20〜25分で到着します。一方、IndyGoのRoute 8バスはワシントン・ストリートを経由してダウンタウンへ向かいますが、各停留所に停まるためやや時間がかかります。インディアナポリスには地下鉄やライトレール、空港への直通列車はないため、空港からの移動は基本的に道路交通が中心となります。",
+      "days": "ダウンタウンの博物館群、インディアナポリス・モータースピードウェイ、そして運河沿いの散策をゆったり楽しむには、2〜3日あれば十分です。"
+    },
+    "es": {
+      "blurb": "Indianapolis es una capital del Medio Oeste estadounidense, plana y trazada en cuadrícula, construida alrededor de un núcleo urbano circular. Es conocida sobre todo por albergar las 500 Millas de Indianápolis y por su amplia oferta de museos gratuitos o de bajo costo. La ciudad combina su herencia del automovilismo con un centro peatonal junto a los canales y una agenda repleta de eventos deportivos y cívicos.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Indianápolis (IND), ubicado a pocos kilómetros al suroeste del centro. Desde allí, los taxis y los servicios de transporte privado (como Uber o Lyft) tardan entre 20 y 25 minutos en llegar al centro de la ciudad, mientras que el autobús de la Ruta 8 de IndyGo ofrece un servicio más lento, con paradas a lo largo de Washington Street hasta el centro. Indianápolis no cuenta con metro, tren ligero ni conexión ferroviaria directa con su aeropuerto, por lo que el transporte por carretera es la vía habitual para llegar a la ciudad.",
+      "days": "Con dos o tres días es suficiente para recorrer con calma los museos del centro, el Indianapolis Motor Speedway y el paseo junto al canal."
+    },
+    "zh": {
+      "blurb": "印第安纳波利斯是美国中西部一座地势平坦、按网格规划的州府城市,市中心以环形路网为核心向外延伸。这里最为人熟知的,是一年一度的印第安纳波利斯500英里大奖赛,以及数量众多的免费或低价博物馆。城市将浓厚的赛车文化,与适合步行游览、依河而建的市中心,以及全年不断的体育赛事和公共活动完美融合在一起。",
+      "getting": "大多数游客通过印第安纳波利斯国际机场(IND)抵达,该机场位于市中心西南方向几英里处。从机场出发,乘坐出租车或网约车前往市区大约需要20到25分钟;此外,IndyGo 8路公交车也会沿华盛顿街一路停靠驶向市中心,不过速度较慢。印第安纳波利斯没有地铁、轻轨,机场也没有直达市区的火车,因此公路交通是进城的主要方式。",
+      "days": "停留两到三天,便足以从容游览市中心的各大博物馆、印第安纳波利斯赛车场,以及沿河的运河步道。"
+    }
+  },
+  "Kohima": {
+    "en": {
+      "blurb": "Kohima, the capital of Nagaland, rises through pine-covered ridges in India's far northeast, where Angami Naga heritage, Baptist church spires and a WWII Commonwealth war cemetery sit within a few streets of each other. It is best known beyond the region as the gateway to the Hornbill Festival, held every December at nearby Kisama village.",
+      "getting": "Kohima has no airport or railway station of its own: travellers fly or take the train to Dimapur, Nagaland's main transport hub, then continue by road (~74km, roughly 2 to 3 hours depending on traffic and conditions). Shared taxis, private cabs and state buses from Dimapur are the usual way to cover this stretch.",
+      "days": "Plan on ~2 to 3 days to see Kohima town itself, including the war cemetery and local markets, with an extra day or two if visiting nearby villages like Khonoma or timing a trip around the Hornbill Festival."
+    },
+    "ko": {
+      "blurb": "나갈랜드의 주도 코히마는 인도 극동북부에서 소나무로 뒤덮인 능선을 따라 펼쳐진 도시로, 앙가미 나가족의 전통 문화와 침례교회의 첨탑, 그리고 제2차 세계대전 영연방 전쟁 묘지가 불과 몇 블록 사이에 공존하는 곳이다. 이 지역 밖에서는 매년 12월 인근 키사마 마을에서 열리는 혼빌 축제의 관문으로 가장 잘 알려져 있다.",
+      "getting": "코히마에는 공항이나 기차역이 없다. 여행자들은 비행기나 기차를 타고 나갈랜드의 주요 교통 거점인 디마푸르까지 이동한 뒤, 육로로 나머지 구간(약 74km, 교통 상황에 따라 2~3시간 소요)을 이동해야 한다. 디마푸르에서 코히마까지는 합승 택시, 개인 택시, 주정부 버스를 주로 이용한다.",
+      "days": "전쟁 묘지와 현지 시장을 포함해 코히마 시내를 둘러보는 데는 약 2~3일이면 충분하다. 코노마와 같은 인근 마을을 방문하거나 혼빌 축제 일정에 맞춰 여행한다면 하루나 이틀을 더 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ナガランド州の州都コヘマは、インド最果ての北東部で松に覆われた尾根に広がる町。アンガミ・ナガの伝統文化、バプテスト教会の尖塔、そして第二次世界大戦の英連邦戦没者墓地が、わずか数本の通りの中に共存している。この地域以外では、毎年12月に近郊のキサマ村で開催される「ホーンビル・フェスティバル」への玄関口として知られている。",
+      "getting": "コヘマには空港も鉄道駅もない。旅行者はまずナガランド州の交通の要であるディマプルまで飛行機または列車で向かい、そこから陸路で移動する(約74km、交通状況にもよるがおよそ2~3時間)。ディマプルからは乗合タクシー、貸切タクシー、州営バスなどが一般的な移動手段となる。",
+      "days": "コヘマの町自体を巡るには2~3日ほどを見ておくとよい。戦没者墓地や地元の市場を訪れるのに十分な時間だ。さらにコホマ近郊のコノマ村などの集落を訪れたり、ホーンビル・フェスティバルの時期に合わせて旅程を組んだりする場合は、1~2日多く見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Kohima, la capital de Nagaland, se alza entre crestas cubiertas de pinos en el extremo noreste de la India, donde el legado de los naga angami, los campanarios de iglesias bautistas y un cementerio de guerra de la Commonwealth de la Segunda Guerra Mundial conviven a pocas calles de distancia. Más allá de la región, es conocida sobre todo como la puerta de entrada al Festival Hornbill, que se celebra cada diciembre en la cercana aldea de Kisama.",
+      "getting": "Kohima no cuenta con aeropuerto ni estación de tren propios: los viajeros vuelan o toman el tren hasta Dimapur, el principal centro de transporte de Nagaland, y desde allí continúan por carretera (unos 74 km, entre 2 y 3 horas según el tráfico y el estado de la vía). Los taxis compartidos, los coches privados y los autobuses estatales desde Dimapur son la forma habitual de cubrir ese tramo.",
+      "days": "Conviene reservar entre 2 y 3 días para conocer la ciudad de Kohima, incluyendo el cementerio de guerra y los mercados locales, y sumar uno o dos días más si se visitan aldeas cercanas como Khonoma o si el viaje coincide con el Festival Hornbill."
+    },
+    "zh": {
+      "blurb": "科希马是那加兰邦的首府，坐落在印度东北边境松林覆盖的山脊之间。在这里，安加米那加人（Angami Naga）的传统文化、浸信会教堂的尖顶与二战时期的英联邦战争公墓相隔不过几条街，彼此交融。科希马最为人熟知的身份，是每年十二月在附近基萨马村（Kisama）举办的犀鸟节（Hornbill Festival）的门户。",
+      "getting": "科希马本身没有机场，也没有火车站。游客通常先乘飞机或火车抵达那加兰邦的主要交通枢纽迪马普尔（Dimapur），再转乘陆路前往科希马，全程约74公里，视路况和交通情况，车程大约需要2到3小时。从迪马普尔出发，可选择拼车、包车或邦政府长途巴士来完成这段路程。",
+      "days": "游览科希马市区本身，包括战争公墓和当地市集，建议安排2到3天时间。如果还想前往科诺玛（Khonoma）等周边村落，或正好赶上犀鸟节期间前来，最好再多留一两天。"
+    }
+  },
+  "Leeds": {
+    "en": {
+      "blurb": "Leeds is Yorkshire's largest city, a former wool-trading powerhouse turned confident mix of Victorian arcades, converted mills and a buzzing student population. It pairs big-city shopping and nightlife with an unpretentious northern character, all set along the River Aire.",
+      "getting": "Most travellers arrive by train into Leeds railway station, a major hub on the East Coast Main Line with LNER, CrossCountry, Northern and TransPennine Express services. The nearest airport is Leeds Bradford (LBA), which has no direct rail link, so travellers take a bus from the regional hub into the city centre, a journey of roughly 35 to 50 minutes.",
+      "days": "Plan on ~2 to 3 days to cover the main sights: the historic Kirkgate Market, the Corn Exchange and Victoria Quarter arcades, the Royal Armouries and a stroll along the waterfront."
+    },
+    "ko": {
+      "blurb": "리즈는 요크셔에서 가장 큰 도시로, 한때 양모 교역의 중심지였던 이곳은 이제 빅토리아 시대의 아케이드와 개조된 방직 공장, 활기찬 대학생 인구가 어우러진 자신감 넘치는 도시로 탈바꿈했다. 대도시다운 쇼핑과 나이트라이프에 꾸밈없는 북부 특유의 분위기가 더해져, 이 모든 것이 에어강을 따라 펼쳐진다.",
+      "getting": "대부분의 여행자는 기차로 리즈역에 도착하는데, 이곳은 동해안 간선(East Coast Main Line)의 주요 거점으로 LNER, CrossCountry, Northern, TransPennine Express 등의 열차가 운행된다. 가장 가까운 공항은 리즈 브래드포드 공항(LBA)이지만 철도가 직접 연결되어 있지 않아, 여행자들은 지역 환승 거점에서 버스를 타고 시내로 이동해야 하며 소요 시간은 대략 35~50분이다.",
+      "days": "주요 명소를 둘러보려면 2~3일 정도가 적당하다: 유서 깊은 커크게이트 시장, 콘 익스체인지와 빅토리아 쿼터 아케이드, 로열 아모리스(왕립 무기 박물관), 그리고 강변을 따라 걷는 산책까지 즐길 수 있다."
+    },
+    "ja": {
+      "blurb": "リーズはヨークシャー最大の都市で、かつては羊毛取引で栄えた街が、今ではヴィクトリア朝のアーケードや改装された工場跡、活気ある学生の町へと姿を変えている。大都市らしいショッピングやナイトライフと、気取らない北部気質が共存し、街はエア川沿いに広がっている。",
+      "getting": "多くの旅行者は列車でリーズ駅に到着する。ここはイースト・コースト本線の主要ハブで、LNER、クロスカントリー、ノーザン、トランスペナイン・エクスプレスなどの路線が乗り入れている。最寄りの空港はリーズ・ブラッドフォード空港(LBA)だが、鉄道の直通がないため、空港のバス乗り場から市街地まではバスで移動することになり、所要時間はおよそ35〜50分ほどだ。",
+      "days": "主な見どころを巡るには2〜3日ほど見ておくとよい。歴史あるカークゲート・マーケット、コーン・エクスチェンジとヴィクトリア・クォーターのアーケード、ロイヤル・アーモリーズ(王立武具博物館)、そして川沿いの散策などが楽しめる。"
+    },
+    "es": {
+      "blurb": "Leeds es la ciudad más grande de Yorkshire, antigua potencia del comercio de la lana convertida en una mezcla segura de galerías victorianas, molinos reconvertidos y una vibrante población universitaria. Combina las compras y la vida nocturna propias de una gran ciudad con un carácter norteño sin pretensiones, todo ello a orillas del río Aire.",
+      "getting": "La mayoría de los viajeros llega en tren a la estación de Leeds, un importante nudo ferroviario en la East Coast Main Line con servicios de LNER, CrossCountry, Northern y TransPennine Express. El aeropuerto más cercano es Leeds Bradford (LBA), que no cuenta con conexión ferroviaria directa, por lo que los viajeros toman un autobús desde el centro de transporte regional hasta el centro de la ciudad, un trayecto de entre 35 y 50 minutos aproximadamente.",
+      "days": "Conviene contar con unos 2 o 3 días para recorrer los principales atractivos: el histórico mercado de Kirkgate, las galerías de Corn Exchange y Victoria Quarter, la Royal Armouries y un paseo por el paseo fluvial."
+    },
+    "zh": {
+      "blurb": "利兹是约克郡最大的城市，昔日曾是羊毛贸易的重镇，如今已蜕变为维多利亚风格拱廊街、改造磨坊建筑与活力满满的学生群体交织而成的自信之城。它将大都市般的购物与夜生活，和北方人不做作的随性气质融于一身，一切都沿着艾尔河徐徐展开。",
+      "getting": "大多数旅客乘火车抵达利兹火车站，这里是东海岸干线上的重要枢纽，有LNER、CrossCountry、Northern和TransPennine Express等多家铁路公司提供服务。最近的机场是利兹布拉德福德机场（LBA），该机场没有直达铁路，旅客需从区域枢纽乘巴士前往市中心，车程大约35到50分钟。",
+      "days": "建议安排2到3天时间游览主要景点：历史悠久的柯克盖特市场、谷物交易所和维多利亚区拱廊街、皇家军械博物馆，以及沿河畔悠闲漫步。"
+    }
+  },
+  "Mazatlán": {
+    "en": {
+      "blurb": "Mazatlán is a working Pacific port city turned beach resort, where a centuries-old malecón and a restored colonial old town sit alongside the high-rise hotels of the Zona Dorada. It built its reputation on deep-sea fishing and wide Pacific swells, and it still feels more lived-in and less manicured than Mexico's purpose-built resort towns.",
+      "getting": "Most travellers fly into General Rafael Buelna International Airport (MZT), located roughly 10 to 20 km southeast of downtown, with taxis and colectivo vans covering the transfer into the city and hotel zone. Mazatlán has no active passenger rail station, so overland arrivals rely on first class buses from regional hubs such as Culiacán, Tepic, and Guadalajara into the city's Central de Autobuses.",
+      "days": "Allow ~2 to 3 days to cover the historic centre, malecón, and a Zona Dorada beach day, or ~4 to 5 days if adding nearby island or hillside village trips at a slower pace."
+    },
+    "ko": {
+      "blurb": "마사틀란은 원래 태평양 연안의 실무형 항구 도시였지만, 이제는 해변 휴양지로 탈바꿈한 곳이다. 수백 년 역사를 지닌 말레콘(해안 산책로)과 복원된 콜로니얼풍 구시가지가 소나 도라다 지구의 고층 호텔들과 나란히 자리하고 있다. 원양 어업과 드넓은 태평양 파도로 명성을 쌓아온 이 도시는, 처음부터 관광지로 설계된 멕시코의 다른 리조트 타운들에 비해 여전히 훨씬 더 삶의 흔적이 느껴지고 덜 다듬어진 분위기를 간직하고 있다.",
+      "getting": "대부분의 여행자는 시내에서 남동쪽으로 약 10~20km 떨어진 헤네랄 라파엘 부엘나 국제공항(MZT)을 이용해 입국하며, 택시와 콜렉티보 밴을 타면 시내와 호텔 지구까지 쉽게 이동할 수 있다. 마사틀란에는 운행 중인 여객 철도역이 없기 때문에, 육로로 이동하는 경우에는 쿨리아칸, 테픽, 과달라하라 같은 주요 거점 도시에서 출발하는 1등급 버스를 타고 시내의 중앙 버스터미널(센트랄 데 아우토부세스)로 들어오는 방법이 일반적이다.",
+      "days": "역사 지구와 말레콘을 둘러보고 소나 도라다에서 해변에서 하루를 즐기려면 약 2~3일이면 충분하다. 근처 섬이나 산간 마을까지 여유롭게 돌아보고 싶다면 4~5일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "マサトランは、太平洋に面した現役の港湾都市でありながら、ビーチリゾートとしての顔も持つ街だ。何世紀もの歴史を刻んできたマレコン(海岸沿いの遊歩道)と修復されたコロニアル調の旧市街が、ゾナ・ドラダの高層ホテル群とともに共存している。もともとは遠洋漁業と太平洋の大きなうねりで名を馳せた土地であり、今なおメキシコの人工的に整備されたリゾートタウンに比べて、生活感があり、どこか飾らない空気を残している。",
+      "getting": "多くの旅行者は、ダウンタウンから南東へおよそ10〜20kmに位置するヘネラル・ラファエル・ブエルナ国際空港(MZT)を利用して到着する。市内やホテルゾーンへの移動は、タクシーやコレクティーボ(乗合バン)でカバーされている。マサトランには現在稼働している旅客鉄道の駅がないため、陸路で訪れる場合はクリアカン、テピック、グアダラハラといった周辺の主要都市から一等バスに乗り、市内の中央バスターミナル(セントラル・デ・アウトブセス)まで向かうのが一般的だ。",
+      "days": "歴史地区、マレコン沿いの散策、そしてゾナ・ドラダでのビーチ満喫を一通り楽しむなら、2〜3日ほど見ておくとよい。近郊の島や山あいの村へも足を延ばし、もう少しゆったりと過ごしたいなら、4〜5日あると安心だ。"
+    },
+    "es": {
+      "blurb": "Mazatlán es un puerto del Pacífico que trabaja de verdad y que, con el tiempo, se convirtió también en un destino de playa: un malecón centenario y un centro histórico colonial restaurado conviven aquí con los hoteles de gran altura de la Zona Dorada. Su fama se construyó sobre la pesca de altura y el oleaje abierto del Pacífico, y todavía se siente más auténtico y menos \"de postal\" que los destinos turísticos planificados de México.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional General Rafael Buelna (MZT), ubicado a unos 10-20 km al sureste del centro, desde donde taxis y camionetas colectivas cubren el traslado hacia la ciudad y la zona hotelera. Mazatlán no cuenta con estación de tren de pasajeros en funcionamiento, así que quienes llegan por tierra dependen de autobuses de primera clase desde centros regionales como Culiacán, Tepic y Guadalajara, con destino a la Central de Autobuses de la ciudad.",
+      "days": "Calcula entre 2 y 3 días para recorrer el centro histórico, el malecón y disfrutar de un día de playa en la Zona Dorada, o entre 4 y 5 días si quieres sumar, con más calma, excursiones a alguna isla cercana o a los pueblos de la sierra."
+    },
+    "zh": {
+      "blurb": "马萨特兰曾是一座繁忙的太平洋港口城市，如今已蜕变为海滨度假胜地：有着数百年历史的滨海大道（malecón）和修复一新的殖民风情老城区，与黄金区（Zona Dorada）鳞次栉比的高层酒店比邻而居。这座城市因深海捕鱼和开阔的太平洋大浪而闻名，相比墨西哥那些刻意打造的度假小镇，它更显生活气息，少了几分精雕细琢的刻意感。",
+      "getting": "大多数游客会飞抵拉斐尔·布埃尔纳将军国际机场（MZT），该机场位于市中心东南方向约10至20公里处，出租车和共乘客运小巴（colectivo）可将你送往市区和酒店区。马萨特兰没有运营中的客运火车站，因此陆路到达的游客通常乘坐从库利亚坎（Culiacán）、特皮克（Tepic）、瓜达拉哈拉（Guadalajara）等周边枢纽城市发车的头等大巴，抵达市内的中央汽车站（Central de Autobuses）。",
+      "days": "若只想游览历史中心、滨海大道，并在黄金区享受一天海滩时光，安排2到3天即可；如果想以更悠闲的节奏，顺道前往附近的岛屿或山间小镇，则建议预留4到5天。"
+    }
+  },
+  "Pak Kret": {
+    "en": {
+      "blurb": "Pak Kret is a riverside city just north of Bangkok, built along a bend of the Chao Phraya River where the city blends dense modern suburbs with the slower rhythms of its most famous feature: Ko Kret, an island reachable only by ferry and known for traditional Mon pottery. It sits within the Bangkok Metropolitan Region, so travellers find a mix of markets, temples and riverside communities alongside shopping centres and office parks.",
+      "getting": "Pak Kret is reached from central Bangkok via the MRT Pink Line, which has its own Pak Kret station, or by road from Suvarnabhumi Airport (BKK), a drive of roughly ~40-50 minutes depending on traffic. Travellers without direct transit access typically connect through central Bangkok's MRT/BTS network and transfer onto the Pink Line or take a taxi for the final leg.",
+      "days": "Most travellers allow ~1-2 days to cover Pak Kret's highlights, enough time for a ferry crossing to Ko Kret's pottery villages and temples plus a look around the riverside town itself."
+    },
+    "ko": {
+      "blurb": "팍끄렛은 방콕 바로 북쪽, 짜오프라야 강이 굽이치는 지점에 자리한 강변 도시다. 이곳은 밀집된 현대식 주거지와, 이 도시를 대표하는 명소인 꼬끄렛 특유의 느긋한 분위기가 공존하는 곳이다. 꼬끄렛은 오직 나룻배로만 갈 수 있는 섬으로, 전통 몬족 도자기로 잘 알려져 있다. 팍끄렛은 방콕 대도시권에 속해 있어, 시장과 사원, 강변 마을의 정취를 쇼핑몰과 오피스 단지와 함께 만날 수 있다.",
+      "getting": "팍끄렛은 방콕 도심에서 MRT 핑크 라인을 타면 팍끄렛역에 바로 도착할 수 있다. 수완나품 공항(BKK)에서는 차로 약 40~50분 정도 걸리며, 교통 상황에 따라 소요 시간이 달라질 수 있다. 핑크 라인으로 바로 연결되지 않는 지역에서 오는 여행자라면, 보통 방콕 도심의 MRT·BTS 노선을 이용해 핑크 라인으로 환승하거나, 마지막 구간은 택시를 타는 방법을 많이 선택한다.",
+      "days": "팍끄렛의 주요 명소를 둘러보는 데는 대개 1~2일 정도면 충분하다. 나룻배를 타고 꼬끄렛 섬으로 건너가 도자기 마을과 사원들을 둘러보고, 강변 시내 구경까지 여유 있게 즐길 수 있는 시간이다."
+    },
+    "ja": {
+      "blurb": "パークレットは、バンコクのすぐ北、チャオプラヤー川の湾曲部に沿って広がる川辺の街です。密集した現代的な郊外の街並みと、この街いちばんの名物であるコークレット島ののんびりした時間が、ここでは共存しています。コークレット島はフェリーでしか渡れない島で、伝統的なモン族の焼き物で知られています。パークレットはバンコク都市圏の一部であるため、市場や寺院、川沿いの集落といった昔ながらの風景と、ショッピングセンターやオフィスエリアが入り混じる光景を楽しめます。",
+      "getting": "パークレットへは、バンコク中心部からMRTピンクラインを利用するのが便利で、パークレット駅が設けられています。また、スワンナプーム空港（BKK）から車で向かうこともでき、交通状況にもよりますがおよそ40～50分ほどかかります。ピンクラインに直接アクセスできない場合は、バンコク中心部のMRT・BTSネットワークを利用し、途中でピンクラインに乗り換えるか、最後の区間をタクシーで移動するのが一般的です。",
+      "days": "パークレットの見どころを一通り巡るには、1～2日ほど見ておくとよいでしょう。フェリーでコークレット島へ渡り、焼き物の村や寺院を訪ねたうえで、川沿いの街並みを散策する時間も十分に取れます。"
+    },
+    "es": {
+      "blurb": "Pak Kret es una ciudad a orillas del río, justo al norte de Bangkok, construida sobre un meandro del río Chao Phraya, donde la ciudad combina densos suburbios modernos con el ritmo más pausado de su atractivo más famoso: Ko Kret, una isla a la que solo se llega en ferry y conocida por su alfarería tradicional mon. Se encuentra dentro de la Región Metropolitana de Bangkok, por lo que los viajeros encuentran una mezcla de mercados, templos y comunidades ribereñas junto a centros comerciales y parques de oficinas.",
+      "getting": "Se puede llegar a Pak Kret desde el centro de Bangkok mediante la Línea Rosa del MRT, que cuenta con su propia estación Pak Kret, o por carretera desde el aeropuerto de Suvarnabhumi (BKK), con un trayecto de entre 40 y 50 minutos aproximadamente, según el tráfico. Los viajeros que no tienen acceso directo al transporte suelen conectar a través de la red de MRT/BTS del centro de Bangkok y luego transbordar a la Línea Rosa, o bien tomar un taxi para el último tramo del trayecto.",
+      "days": "La mayoría de los viajeros dedica entre 1 y 2 días para recorrer lo más destacado de Pak Kret, tiempo suficiente para cruzar en ferry hasta los pueblos alfareros y templos de Ko Kret, además de explorar la propia ciudad ribereña."
+    },
+    "zh": {
+      "blurb": "北榄府（Pak Kret，巴吞他尼府北部一座滨河小城）紧邻曼谷以北，沿湄南河的一道弯曲河岸而建。这里既有密集的现代化住宅区，也保留着当地最知名景点——格列岛（Ko Kret）那份悠然的生活节奏。格列岛是一座只能靠渡船抵达的江心小岛，以传统孟族陶器闻名。由于地处曼谷大都市圈范围内，来到这里的旅行者既能看到市场、寺庙和临河而居的社区，也能见到购物中心与办公园区并存的另一面。",
+      "getting": "从曼谷市区前往北榄可乘坐MRT粉红线，该线设有北榄站（Pak Kret）；若从素万那普机场（BKK）出发，驾车大约需要40-50分钟，具体视路况而定。若没有直达交通，大多数旅行者会先经曼谷市区的MRT/BTS网络换乘至粉红线，或是在最后一段路程改乘出租车前往。",
+      "days": "大多数旅行者会安排1-2天时间游览北榄的主要景点，这样既能乘渡船前往格列岛参观陶艺村和寺庙，也能从容逛逛沿河的小镇风光。"
+    }
+  },
+  "San Miguel de Cozumel": {
+    "en": {
+      "blurb": "San Miguel de Cozumel is the island's only real town, a low-rise, sun-bleached waterfront grid facing the Mexican mainland across the Caribbean. It mixes a laid-back local market square with one of the world's busiest cruise ports, and it sits beside a ring of coral reef that made the island famous for diving.",
+      "getting": "Most travellers fly directly into Cozumel International Airport (CZM), just north of town, or fly into Cancun and take a ~45 minute passenger ferry across from Playa del Carmen. Drivers bring vehicles over on a separate car ferry from Calica, near Playa del Carmen.",
+      "days": "Allow ~2 to 3 days: enough for the town centre, a reef dive or snorkel trip, and a half-day loop to the island's eastern beaches and Mayan ruins."
+    },
+    "ko": {
+      "blurb": "산 미구엘 데 코수멜은 이 섬에서 유일하다고 할 만한 진짜 마을로, 야트막한 건물들이 햇볕에 바랜 채 늘어선 해변가 격자 도로가 카리브해 건너 멕시코 본토를 마주하고 있다. 느긋한 분위기의 재래시장 광장과 세계에서 손꼽히게 분주한 크루즈 항구가 공존하며, 섬을 다이빙 명소로 유명하게 만든 산호초 지대를 바로 옆에 끼고 있다.",
+      "getting": "대부분의 여행자는 마을 바로 북쪽에 있는 코수멜 국제공항(CZM)으로 직항편을 이용하거나, 칸쿤으로 들어가 플라야 델 카르멘에서 약 45분 거리의 여객 페리를 타고 건너온다. 차량을 가져오는 경우에는 플라야 델 카르멘 인근 칼리카에서 출발하는 별도의 차량용 페리를 이용하면 된다.",
+      "days": "2~3일 정도면 충분하다. 마을 중심가를 둘러보고, 산호초 다이빙이나 스노클링 투어를 즐기고, 섬 동쪽 해변과 마야 유적지를 도는 반나절 코스까지 소화할 수 있는 시간이다."
+    },
+    "ja": {
+      "blurb": "サンミゲル・デ・コスメルは、この島で唯一と言える町だ。低層の建物が立ち並び、陽光に色褪せた海沿いの碁盤目状の街並みが、カリブ海を挟んでメキシコ本土と向き合っている。のんびりとした雰囲気の地元市場の広場がある一方で、世界有数の賑わいを見せるクルーズ船の寄港地でもあり、さらに島をダイビングの名所として世界的に有名にしたサンゴ礁のリングにも隣接している。",
+      "getting": "多くの旅行者は、町のすぐ北にあるコスメル国際空港(CZM)に直接飛行機で向かうか、カンクンまで飛んでからプラヤ・デル・カルメンを経由する約45分の旅客フェリーで島へ渡る。車で訪れる場合は、プラヤ・デル・カルメン近郊のカリカから出ている専用のカーフェリーを利用することになる。",
+      "days": "滞在日数の目安は2〜3日。これだけあれば、町の中心部を巡り、サンゴ礁でのダイビングやシュノーケリングを楽しみ、さらに半日かけて島の東側のビーチとマヤ遺跡を巡る周遊コースにも十分な時間が取れる。"
+    },
+    "es": {
+      "blurb": "San Miguel de Cozumel es el único pueblo propiamente dicho de la isla: una cuadrícula costera de edificios bajos y fachadas desgastadas por el sol, de cara al territorio continental mexicano al otro lado del Caribe. Combina el ambiente relajado de una plaza de mercado local con uno de los puertos de cruceros más concurridos del mundo, y se asienta junto a un anillo de arrecife de coral que hizo famosa a la isla entre los aficionados al buceo.",
+      "getting": "La mayoría de los viajeros llega en vuelo directo al Aeropuerto Internacional de Cozumel (CZM), justo al norte del pueblo, o vuela a Cancún y toma un ferry de pasajeros de unos 45 minutos desde Playa del Carmen. Quienes viajan en vehículo propio lo cruzan en un ferry de carros aparte que sale de Calica, cerca de Playa del Carmen.",
+      "days": "Calcula entre 2 y 3 días: suficiente para recorrer el centro del pueblo, hacer una salida de buceo o esnórquel en el arrecife, y dar una vuelta de medio día por las playas del este de la isla y las ruinas mayas."
+    },
+    "zh": {
+      "blurb": "圣米格尔-德科苏梅尔是科苏梅尔岛上唯一的真正市镇,一片低矮、被阳光晒得发白的滨海街区,隔着加勒比海与墨西哥大陆遥遥相望。这里既有悠闲随性的本地集市广场,又紧邻全球最繁忙的邮轮港口之一,岛屿周边环绕的珊瑚礁更让科苏梅尔因潜水而闻名于世。",
+      "getting": "大多数游客会直接飞往位于市区以北的科苏梅尔国际机场(CZM),也有人选择先飞往坎昆,再从普拉亚德尔卡门搭乘约45分钟的渡轮前往岛上。自驾游客则需从普拉亚德尔卡门附近的卡利卡码头乘坐专门的汽车渡轮将车辆运过海峡。",
+      "days": "建议安排2到3天时间:既可以逛逛市中心,也能安排一次潜水或浮潜探访珊瑚礁,还能留出半天环岛游览岛屿东部的海滩和玛雅遗址。"
+    }
+  },
+  "Toraja": {
+    "en": {
+      "blurb": "In the mountainous highlands of South Sulawesi, Toraja is known for elaborate multi-day funeral ceremonies involving buffalo sacrifice, cliffside tombs and villages of soaring saddle-roofed tongkonan houses. Here, death is treated not as an ending but as a long, communal passage, making the region one of Indonesia's most distinctive cultural destinations.",
+      "getting": "Most travellers fly into Makassar's Sultan Hasanuddin International Airport (UPG) and continue on to Toraja Airport (TRT), a short regional flight of under an hour; when that route isn't running, the reliable fallback is an overnight bus from Makassar's bus terminals to Rantepao. Overland, the journey takes roughly 8-10 hours by road through the Sulawesi highlands.",
+      "days": "Plan on ~3-4 days to cover the main burial sites, traditional villages and markets around Rantepao and Makale, with extra time if you hope to witness an actual funeral ceremony."
+    },
+    "ko": {
+      "blurb": "인도네시아 술라웨시 남부의 산악 고원지대에 자리한 토라자는 물소를 제물로 바치는 성대한 장례 의식, 절벽에 조성된 무덤, 그리고 안장 모양의 가파른 지붕을 얹은 통코난 가옥들이 늘어선 마을로 유명하다. 이곳에서 죽음은 끝이 아니라 공동체가 함께하는 길고 긴 여정으로 여겨지며, 이러한 독특한 세계관 덕분에 토라자는 인도네시아에서 가장 개성 있는 문화 여행지로 손꼽힌다.",
+      "getting": "대부분의 여행자는 마카사르의 술탄 하사누딘 국제공항(UPG)으로 입국한 뒤, 1시간이 채 걸리지 않는 국내선을 타고 토라자 공항(TRT)으로 이동한다. 이 노선이 운항하지 않을 때는 마카사르 버스터미널에서 란테파오까지 가는 야간 버스가 믿을 만한 대안이다. 육로로 이동할 경우, 술라웨시의 고원 지대를 가로질러 대략 8~10시간이 소요된다.",
+      "days": "란테파오와 마칼레 주변의 주요 장지, 전통 마을, 시장을 둘러보려면 약 3~4일 정도를 계획하면 좋다. 실제 장례 의식을 직접 보고 싶다면 일정에 여유를 더 두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "南スラウェシの山岳地帯に広がるトラジャは、水牛を生贄に捧げる数日がかりの盛大な葬送儀礼、断崖に穿たれた墓、そして鞍型の屋根がそびえ立つトンコナンの家々が並ぶ村々で知られています。この地では死は終わりではなく、長く続く共同体の通過儀礼として捉えられており、インドネシアでも屈指の個性的な文化的目的地となっています。",
+      "getting": "多くの旅行者は、まずマカッサルのスルタン・ハサヌディン国際空港(UPG)へ飛び、そこから1時間足らずの国内線でトラジャ空港(TRT)へ乗り継ぎます。この路線が運休している場合は、マカッサルのバスターミナルからランテパオ行きの夜行バスが確実な代替手段となります。陸路の場合、スラウェシの高地を抜けるルートでおよそ8〜10時間の道のりです。",
+      "days": "ランテパオとマカレ周辺の主要な埋葬地、伝統的な村々、市場を巡るには3〜4日ほどを見ておくとよいでしょう。実際の葬儀を見学したい場合は、さらに余裕を持った日程を組むことをおすすめします。"
+    },
+    "es": {
+      "blurb": "En las montañosas tierras altas de Sulawesi del Sur, Toraja es célebre por sus elaboradas ceremonias fúnebres de varios días, que incluyen sacrificios de búfalos, tumbas talladas en acantilados y poblados dominados por las imponentes casas tongkonan de techos en forma de silla de montar. Aquí la muerte no se vive como un final, sino como un largo tránsito comunitario, lo que convierte a la región en uno de los destinos culturales más singulares de Indonesia.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional Sultan Hasanuddin de Makassar (UPG) y de ahí toma un vuelo regional de menos de una hora hasta el Aeropuerto de Toraja (TRT). Cuando esa ruta no está operativa, la alternativa más segura es un autobús nocturno desde las terminales de Makassar hasta Rantepao. Por tierra, el trayecto toma entre 8 y 10 horas atravesando las tierras altas de Sulawesi.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer los principales sitios funerarios, los pueblos tradicionales y los mercados de Rantepao y Makale, y sumar tiempo extra si se desea presenciar una ceremonia fúnebre real."
+    },
+    "zh": {
+      "blurb": "在南苏拉威西的崇山峻岭之中，托拉贾以繁复盛大的多日葬礼闻名——水牛献祭、悬崖墓穴，以及一座座屋顶高高翘起如船形的托肯南传统房屋村落，构成了这里独特的风景。在这片土地上，死亡并不被视为终点，而是一场漫长的、全村人共同参与的旅程，这也让托拉贾成为印度尼西亚最具特色的文化目的地之一。",
+      "getting": "大多数旅行者会先飞抵望加锡的苏丹哈桑努丁国际机场（UPG），再转乘不到一小时的区域航班抵达托拉贾机场（TRT）。如果该航线暂停运营，稳妥的替代方案是从望加锡的长途汽车站乘坐夜班巴士前往兰特包。若选择陆路，穿越苏拉威西高地全程大约需要8到10小时车程。",
+      "days": "建议安排约3到4天时间，游览兰特包和马卡勒周边的主要墓葬地、传统村落与集市；如果你希望亲眼见证一场真实的葬礼仪式，最好再多留出一些时间。"
+    }
+  },
+  "Vadodara": {
+    "en": {
+      "blurb": "Vadodara, also known as Baroda, is a cultured city of grand Gaekwad-era palaces, art museums and leafy university streets, often called Gujarat's \"City of Art\". It sits on the banks of the Vishwamitri river and blends royal heritage with a modern industrial economy.",
+      "getting": "Most travellers arrive via Vadodara Airport (BDQ), which has domestic flights to cities like Delhi, Mumbai and Bengaluru, or by train to Vadodara Junction (BRC), a major stop on the Western Railway's Delhi-Mumbai main line. Those without a direct flight often fly into Ahmedabad and continue by road or rail, a journey of roughly 2 hours.",
+      "days": "Plan on ~1 to 2 days to take in the city's palaces, museums and markets at an easy pace."
+    },
+    "ko": {
+      "blurb": "바로다(Baroda)라는 이름으로도 알려진 바도다라는 가이크와드 왕조 시대의 웅장한 궁전과 미술관, 그리고 녹음 짙은 대학가가 어우러진 품격 있는 도시로, 구자라트의 \"예술의 도시\"라 불리곤 합니다. 비슈와미트리 강변에 자리 잡은 이 도시는 왕실의 유산과 현대적인 산업 경제가 공존하는 곳입니다.",
+      "getting": "대부분의 여행자는 델리, 뭄바이, 벵갈루루 등으로 국내선이 운항되는 바도다라 공항(BDQ)을 이용하거나, 웨스턴 철도의 델리-뭄바이 간선에 위치한 주요 역인 바도다라 정션(BRC)을 통해 기차로 도착합니다. 직항편이 없는 경우에는 아메다바드로 입국한 뒤 육로나 철도로 약 2시간을 이동해 오는 경우도 많습니다.",
+      "days": "궁전과 박물관, 시장을 여유롭게 둘러보려면 1~2일 정도를 계획하시면 좋습니다."
+    },
+    "ja": {
+      "blurb": "ヴァドーダラー(バローダとも呼ばれる)は、ガイクワード王朝時代の壮麗な宮殿や美術館、緑豊かな大学街が広がる品格ある都市で、グジャラート州の「芸術の都」として知られています。ヴィシュワーミトリー川のほとりに位置し、王朝の歴史的遺産と現代の産業経済が共存する街です。",
+      "getting": "多くの旅行者はヴァドーダラー空港(BDQ)を利用して訪れます。この空港にはデリー、ムンバイ、バンガロールなど国内各都市への便が就航しています。また、西部鉄道のデリー・ムンバイ本線の主要駅であるヴァドーダラー・ジャンクション駅(BRC)まで列車で向かう方法もあります。直行便がない場合は、アーメダーバードまで飛行機で行き、そこから陸路や鉄道で約2時間かけて移動するのが一般的です。",
+      "days": "宮殿や美術館、市場をゆったりと巡るなら、1~2日程度の滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Vadodara, también conocida como Baroda, es una ciudad de gran riqueza cultural, famosa por sus majestuosos palacios de la era Gaekwad, sus museos de arte y sus frondosas calles universitarias, por lo que suele llamarse la \"Ciudad del Arte\" de Guyarat. Se asienta a orillas del río Vishwamitri y combina un legado de herencia real con una economía industrial moderna.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Vadodara (BDQ), que cuenta con vuelos nacionales a ciudades como Delhi, Mumbai y Bengaluru, o bien en tren hasta la estación de Vadodara Junction (BRC), una parada importante en la línea principal Delhi-Mumbai de Western Railway. Quienes no encuentran un vuelo directo suelen volar hasta Ahmedabad y continuar por carretera o en tren, un trayecto de aproximadamente 2 horas.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer con calma los palacios, museos y mercados de la ciudad."
+    },
+    "zh": {
+      "blurb": "瓦多达拉,旧称巴罗达,是一座充满文化气息的城市,以盖克瓦德王朝时期遗留下来的恢弘宫殿、艺术博物馆以及绿树成荫的大学街区而闻名,常被誉为古吉拉特邦的\"艺术之城\"。这座城市坐落在维什瓦米特里河畔,将皇家底蕴与现代工业经济完美融合。",
+      "getting": "大多数游客选择经瓦多达拉机场(BDQ)抵达,该机场有飞往德里、孟买、班加罗尔等城市的国内航班;也可乘火车抵达瓦多达拉枢纽站(BRC),这里是西部铁路德里-孟买干线上的一个重要站点。若没有直达航班,不少人会先飞往艾哈迈达巴德,再转乘公路或铁路前往,车程大约2小时。",
+      "days": "建议安排1到2天的时间,从容地游览这座城市的宫殿、博物馆和集市。"
+    }
   }
 }
