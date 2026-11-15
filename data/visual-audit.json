@@ -403,6 +403,12 @@
   "reason": "patrol reject: Satellite map image, not event or venue photo",
   "at": "2026-08-28T03:39:45.839Z"
  },
+ "abu-dhabi-mubadala-abu-dhabi-open-wta\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/International_Tennis_Centre_%28Mubadala_Abu_Dhabi_Open%29.jpg/3840px-International_Tennis_Centre_%28Mubadala_Abu_Dhabi_Open%29.jpg": {
+  "slug": "abu-dhabi-mubadala-abu-dhabi-open-wta",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Tennis venue in use, matches WTA event stadium",
+  "at": "2026-11-15T20:49:11.218Z"
+ },
  "abu-dhabi-offlimits-music-festival-shakira-jonas-brothers\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Etihad_Park.jpg": {
   "slug": "abu-dhabi-offlimits-music-festival-shakira-jonas-brothers",
   "verdict": "MATCH",
@@ -620,6 +626,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Temple of Nefertari facade at Abu Simbel accurately",
   "at": "2026-11-09T07:45:45.389Z"
+ },
+ "adana-adana-half-marathon-17-adana-yar-maratonu\u0001https://upload.wikimedia.org/wikipedia/commons/b/ba/Adana_Half_Marathon_-_Post-marathon_Zumba.png": {
+  "slug": "adana-adana-half-marathon-17-adana-yar-maratonu",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Crowd and stage at Adana marathon event banner visible",
+  "at": "2026-11-15T20:52:17.073Z"
  },
  "adelaide-adelaide-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Palm_House%2C_Adelaide_Botanic_Gardens.jpg/1920px-Palm_House%2C_Adelaide_Botanic_Gardens.jpg": {
   "slug": "adelaide-adelaide-botanic-garden",
@@ -1497,6 +1509,12 @@
   "reason": "Duden Waterfalls cascading into Antalya coastline",
   "at": "2026-07-25T02:40:38.994Z"
  },
+ "antalya-european-women-s-handball-championship-antalya-matches\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Rok_et_Koolette_20180203.jpg": {
+  "slug": "antalya-european-women-s-handball-championship-antalya-matches",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Handball event mascots representing the championship",
+  "at": "2026-11-15T20:52:02.071Z"
+ },
  "antalya-hadrian-s-gate\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P9271452_Hadrians_Gate.jpg/1920px-P9271452_Hadrians_Gate.jpg": {
   "slug": "antalya-hadrian-s-gate",
   "verdict": "MATCH",
@@ -1778,6 +1796,12 @@
   "reason": "event publish gate: Performer singing at mic, concert event photo",
   "at": "2026-10-29T00:39:10.732Z"
  },
+ "auckland-guns-n-roses-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Guns_N%27_Roses_Civil_War_Live_in_London_17_June_2017.jpg/3840px-Guns_N%27_Roses_Civil_War_Live_in_London_17_June_2017.jpg": {
+  "slug": "auckland-guns-n-roses-world-tour-2026",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Band performing live on concert stage, correct event type",
+  "at": "2026-11-15T20:54:32.672Z"
+ },
  "auckland-howick-historical-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Old_cottage_and_church_in_Howick_Historical_Village.jpg/1920px-Old_cottage_and_church_in_Howick_Historical_Village.jpg": {
   "slug": "auckland-howick-historical-village",
   "verdict": "MATCH",
@@ -1789,6 +1813,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Concert stage with performers, matches event type",
   "at": "2026-10-21T23:53:13.592Z"
+ },
+ "auckland-j-cole-the-fall-off-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/J._Cole_2010.jpg": {
+  "slug": "auckland-j-cole-the-fall-off-tour",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Photo of performer J. Cole, valid for tour hero",
+  "at": "2026-11-15T20:55:04.180Z"
  },
  "auckland-joji-live\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Spark_Arena_20220220_131032.jpg/3840px-Spark_Arena_20220220_131032.jpg": {
   "slug": "auckland-joji-live",
@@ -4400,6 +4430,12 @@
   "reason": "publish gate: Exterior of Hongqiao Market building, representative street view",
   "at": "2026-09-24T07:50:08.529Z"
  },
+ "beijing-isu-grand-prix-of-figure-skating-final\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Katarina_Wolfkostin_and_Dimitry_Tsarevski_at_the_2024-2025_Junior_Grand_Prix_Final_in_Grenoble.jpg": {
+  "slug": "beijing-isu-grand-prix-of-figure-skating-final",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Figure skating pair performing, valid event hero photo",
+  "at": "2026-11-15T20:48:28.247Z"
+ },
  "beijing-jingshan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg/3840px-Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg": {
   "slug": "beijing-jingshan-park",
   "verdict": "MATCH",
@@ -6383,6 +6419,12 @@
   "reasonKo": "해운대 지역의 항공 전경, 부산 해안선",
   "at": "2026-08-03T12:46:20.051Z"
  },
+ "busan-haeundae-light-festival\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Korea-Busan-Haeundae-01.jpg": {
+  "slug": "busan-haeundae-light-festival",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Shows Haeundae Beach daytime, the festival's venue",
+  "at": "2026-11-15T20:45:53.542Z"
+ },
  "busan-haeundae-traditional-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeundae_Market_Busan_%2831877277538%29.jpg/1920px-Haeundae_Market_Busan_%2831877277538%29.jpg": {
   "slug": "busan-haeundae-traditional-market",
   "verdict": "MATCH",
@@ -6629,6 +6671,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Museum display of ancient Egyptian artifacts, representative exhibit view",
   "at": "2026-11-09T17:54:17.581Z"
+ },
+ "cairo-zamna-egypt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bornco_en_el_Polif%C3%B3rum_Zamn%C3%A1%2C_M%C3%A9rida%2C_Tour_El_Gran_Baile.jpg/1920px-Bornco_en_el_Polif%C3%B3rum_Zamn%C3%A1%2C_M%C3%A9rida%2C_Tour_El_Gran_Baile.jpg": {
+  "slug": "cairo-zamna-egypt",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Concert stage with pyrotechnics, matches event type",
+  "at": "2026-11-15T20:56:44.426Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Grey_Cup%21_07122006.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -7884,6 +7932,12 @@
   "reason": "hand-reviewed: different place: Commons file is another site of the same kind (place-kind-only name; checked by Commons category + distance 2026-10-12)",
   "at": "2026-10-12T14:52:29.301Z"
  },
+ "chiba-countdown-japan-26-27\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/20150422_KCON_2015_Japan_%C3%97_M_COUNTDOWN_06.jpg/3840px-20150422_KCON_2015_Japan_%C3%97_M_COUNTDOWN_06.jpg": {
+  "slug": "chiba-countdown-japan-26-27",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Performer with M Countdown mic, event-related photo",
+  "at": "2026-11-15T20:46:10.969Z"
+ },
  "chiba-hiyodori-zaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg": {
   "slug": "chiba-hiyodori-zaka",
   "verdict": "MATCH",
@@ -8937,6 +8991,12 @@
   "reasonKo": "박물관 내 참 석조 조각상 전시",
   "at": "2026-08-18T13:26:47.177Z"
  },
+ "da-nang-da-nang-new-year-countdown-da-nang-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2024-12-04_Da_Nang_at_night.jpg/3840px-2024-12-04_Da_Nang_at_night.jpg": {
+  "slug": "da-nang-da-nang-new-year-countdown-da-nang-concert",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Da Nang skyline at night, plausible event venue backdrop",
+  "at": "2026-11-15T20:49:01.479Z"
+ },
  "da-nang-dragon-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Da_Nang_Dragon_Bridge_%28I%29.jpg/3840px-Da_Nang_Dragon_Bridge_%28I%29.jpg": {
   "slug": "da-nang-dragon-bridge",
   "verdict": "MATCH",
@@ -9515,6 +9575,12 @@
   "reason": "event-mode back-audit: Photo of the band Def Leppard, valid for concert article",
   "at": "2026-08-07T13:03:07.732Z"
  },
+ "dubai-dubai-duty-free-tennis-championships\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lucie_Safarova_Dubai_2014.jpg/3840px-Lucie_Safarova_Dubai_2014.jpg": {
+  "slug": "dubai-dubai-duty-free-tennis-championships",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Player at Dubai tournament, Audi branding visible, courtside scene",
+  "at": "2026-11-15T20:49:18.818Z"
+ },
  "dubai-dubai-old-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dubai_Old_City_%2853372631353%29.jpg/3840px-Dubai_Old_City_%2853372631353%29.jpg": {
   "slug": "dubai-dubai-old-city",
   "verdict": "MATCH",
@@ -9776,6 +9842,12 @@
   "reason": "hand-reviewed: an empty stage and curtain, no performer (owner photo review 2026-11-13)",
   "at": "2026-11-13T00:06:08.794Z"
  },
+ "dubai-uae-national-day-eid-al-etihad-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/UAE_National_Day_is_celebrated_in_Khalifa_Park.jpg/3840px-UAE_National_Day_is_celebrated_in_Khalifa_Park.jpg": {
+  "slug": "dubai-uae-national-day-eid-al-etihad-celebrations",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Festival park venue with UAE-themed decorative design on grass",
+  "at": "2026-11-15T20:49:06.682Z"
+ },
  "dubai-waterfront-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Home_image_WATERFRONT_MARKET.jpg/1920px-Home_image_WATERFRONT_MARKET.jpg": {
   "slug": "dubai-waterfront-market",
   "verdict": "MATCH",
@@ -9964,6 +10036,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park pathway with gardens, flowers, visitors, matches location",
   "at": "2026-10-13T08:14:27.175Z"
+ },
+ "edinburgh-robbie-williams-britpop-tour-uk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Robbie_Williams_-_6-29-2019_-_Live_In_Las_Vegas_-_100.jpg/3840px-Robbie_Williams_-_6-29-2019_-_Live_In_Las_Vegas_-_100.jpg": {
+  "slug": "edinburgh-robbie-williams-britpop-tour-uk",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Robbie Williams performing on stage with microphone",
+  "at": "2026-11-15T20:53:24.796Z"
  },
  "edinburgh-royal-mile\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/High_Street%2C_Edinburgh.JPG/1920px-High_Street%2C_Edinburgh.JPG": {
   "slug": "edinburgh-royal-mile",
@@ -10993,6 +11071,12 @@
   "reason": "patrol replace: George Town festival night scene with traditional architectu",
   "at": "2026-08-09T04:13:40.560Z"
  },
+ "george-town-pesta-pulau-pinang-penang-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Pesta_laut_mappanretasi_teluk_tamiang.jpg": {
+  "slug": "george-town-pesta-pulau-pinang-penang-festival",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Festive boat procession scene fits Penang Festival event",
+  "at": "2026-11-15T20:50:33.553Z"
+ },
  "gili-islands-gili-meno-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg": {
   "slug": "gili-islands-gili-meno-beach",
   "verdict": "MATCH",
@@ -11025,6 +11109,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows the Bent Pyramid's distinctive sloped structure clearly",
   "at": "2026-11-09T17:54:17.398Z"
+ },
+ "giza-ghostly-kisses-mena-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Ghostly_Kisses_%282024%29_1.jpg": {
+  "slug": "giza-ghostly-kisses-mena-tour",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Concert stage photo of performer singing, matches event type",
+  "at": "2026-11-15T20:56:13.754Z"
  },
  "giza-giza-necropolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/1920px-Pyramids_of_the_Giza_Necropolis.jpg": {
   "slug": "giza-giza-necropolis",
@@ -11427,6 +11517,12 @@
   "reason": "Lake park with cherry blossoms, railings, landscaping",
   "reasonKo": "벚꽃, 난간, 호수 경관이 일산호수공원과 일치",
   "at": "2026-08-03T12:48:01.648Z"
+ },
+ "goyang-sbs-gayo-daejeon-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/Park_Ji-min_on_SBS_Gayo_Daejeon_red_carpet%2C_25_December_2017.jpg": {
+  "slug": "goyang-sbs-gayo-daejeon-2026",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Performer portrait, valid hero for music event",
+  "at": "2026-11-15T20:45:50.714Z"
  },
  "goyang-si-khalid-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Royal_Oman_Symphony_Orchestra_by_Khalid_AlBusaidi.jpg": {
   "slug": "goyang-si-khalid-concert",
@@ -14132,6 +14228,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Surfing photo unrelated to concert tour event",
   "at": "2026-10-15T00:37:58.539Z"
+ },
+ "hong-kong-wtt-finals\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/WTT_Finals_Fukuoka_2024.jpeg": {
+  "slug": "hong-kong-wtt-finals",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Athletes with trophies at WTT Finals event",
+  "at": "2026-11-15T20:48:25.117Z"
  },
  "hong-kong-xg-concert-asiaworld-expo\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/The_Concert_A22894.jpg/3840px-The_Concert_A22894.jpg": {
   "slug": "hong-kong-xg-concert-asiaworld-expo",
@@ -17892,6 +17994,12 @@
   "reason": "publish gate: Infinity pool with ocean view, matches viewpoint resort",
   "at": "2026-09-21T07:38:06.094Z"
  },
+ "kohima-hornbill-festival\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Colors_that_carry_centuries%2C_Pochury_Naga_attire.jpg": {
+  "slug": "kohima-hornbill-festival",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Naga performers in traditional attire at Hornbill Festival",
+  "at": "2026-11-15T20:51:04.025Z"
+ },
  "kokand-modari-khan-mausoleum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Modari_Khan_Mausoleum_02.jpg/3840px-Modari_Khan_Mausoleum_02.jpg": {
   "slug": "kokand-modari-khan-mausoleum",
   "verdict": "MATCH",
@@ -18387,6 +18495,12 @@
   "reason": "hand-reviewed: Axiata Arena, Bukit Jalil — the venue this guide sends the reader to (named in the body). No eventVenue field, so the venue tier could not see it.",
   "at": "2026-09-13T16:18:38.517Z"
  },
+ "kuala-lumpur-fifty-fifty-concert-malaysia-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/221125_%ED%94%BC%ED%94%84%ED%8B%B0_%ED%94%BC%ED%94%84%ED%8B%B0_FIFTY_FIFTY_at_Music_Bank.png": {
+  "slug": "kuala-lumpur-fifty-fifty-concert-malaysia-2026",
+  "verdict": "MATCH",
+  "reason": "event publish gate: FIFTY FIFTY members waving to fans, valid performer photo",
+  "at": "2026-11-15T20:50:25.952Z"
+ },
  "kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Honne_fra_lufta.jpg": {
   "slug": "kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur",
   "verdict": "MISMATCH",
@@ -18785,6 +18899,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: a staircase in Avenue K (\"tangga\" is Malay for stairs) (owner photo review 2026-11-13)",
   "at": "2026-11-12T16:37:50.638Z"
+ },
+ "kuala-lumpur-thaipusam-at-batu-caves\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Batu_Cave_Thai_Pusam_1985.jpg": {
+  "slug": "kuala-lumpur-thaipusam-at-batu-caves",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Crowd, fires, lights at Batu Caves during Thaipusam event",
+  "at": "2026-11-15T20:50:58.100Z"
  },
  "kuala-lumpur-the-rose-concert\u0001https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Rose%2C_2018-02-25_Budapest_3.jpg": {
   "slug": "kuala-lumpur-the-rose-concert",
@@ -19489,6 +19609,12 @@
   "reason": "width upgrade: Paul Ricard circuit grandstands with crowd, matches event venue",
   "at": "2026-08-15T20:34:42.490Z"
  },
+ "leeds-morrissey-uk-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Morrissey_Hop_Farm_Music_Festival.jpg": {
+  "slug": "leeds-morrissey-uk-tour",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Morrissey performing live on stage with microphone",
+  "at": "2026-11-15T20:53:33.276Z"
+ },
  "leicester-champion-of-champions-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/2017_Race_of_Champions_-_Champion_of_Champions_%283%29.jpg": {
   "slug": "leicester-champion-of-champions-snooker",
   "verdict": "MISMATCH",
@@ -19856,6 +19982,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"sound\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-08T08:14:10.681Z"
+ },
+ "lima-suho-exo-fan-con-2026-k-pop-chronicle-live\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Press_conference_of_SMTown_Live_World_Tour_III_in_Bangkok_-_Suho.jpg": {
+  "slug": "lima-suho-exo-fan-con-2026-k-pop-chronicle-live",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Clear photo of performer SUHO, acceptable for fan-con hero",
+  "at": "2026-11-15T20:55:57.901Z"
  },
  "lima-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/Taemin_at_Dream_Concert_2015_07.jpg": {
   "slug": "lima-taemin-liminal-world-tour",
@@ -21443,11 +21575,23 @@
   "reason": "hand-reviewed: Macau Legislative Council building — unrelated to a concert at The Venetian Arena; filename only names the city",
   "at": "2026-10-15T13:33:29.616Z"
  },
+ "macau-kara-once-again-glowstage-in-macau\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/KARA_at_DSP_Festival.jpg": {
+  "slug": "macau-kara-once-again-glowstage-in-macau",
+  "verdict": "MATCH",
+  "reason": "event publish gate: KARA performers on concert stage, matches event",
+  "at": "2026-11-15T20:54:20.637Z"
+ },
  "macau-kep1er-fan-con-tour-rsvp\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Kep1er_at_the_Uni-kon_Music_Festival_on_July_3%2C_2022.jpg": {
   "slug": "macau-kep1er-fan-con-tour-rsvp",
   "verdict": "MATCH",
   "reason": "event publish gate: Live performance photo of Kep1er at fan-con tour",
   "at": "2026-11-05T01:17:39.717Z"
+ },
+ "macau-omega-x-asia-tour-beyond-in-macau\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/20230919_Kim_Jae-han_%28Omega_X%29.jpg": {
+  "slug": "macau-omega-x-asia-tour-beyond-in-macau",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Performer portrait, acceptable as artist photo for tour",
+  "at": "2026-11-15T20:54:13.459Z"
  },
  "macau-peninsula-lin-fung-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lin_Fung_Temple_Macau._Aug._2015._A.JPG/3840px-Lin_Fung_Temple_Macau._Aug._2015._A.JPG": {
   "slug": "macau-peninsula-lin-fung-temple",
@@ -21663,6 +21807,12 @@
   "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
   "at": "2026-11-12T15:42:47.437Z"
  },
+ "madrid-la-oreja-de-van-gogh-concert-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/GIBRALTAR_MUSIC_FESTIVAL_2013_-_LA_OREJA_DE_VAN_GOGH_%289703163584%29_%284%29.jpg": {
+  "slug": "madrid-la-oreja-de-van-gogh-concert-madrid",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Performer singing on stage at concert",
+  "at": "2026-11-15T20:48:39.680Z"
+ },
  "madrid-mache\u0001https://fastly.4sqi.net/img/general/original/32101378_gcOv6AR0z-1KO78aIpwOYrYVA5JAwbxs3S1e6ff2KAc.jpg": {
   "slug": "madrid-mache",
   "verdict": "MATCH",
@@ -21674,6 +21824,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of Mercado de San Miguel, recognizable and representative.",
   "at": "2026-09-23T07:51:21.132Z"
+ },
+ "madrid-muse-concert-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Muse_concert_in_Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys%2C_Barcelona_-_concert.JPG": {
+  "slug": "madrid-muse-concert-madrid",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Concert stage with performers and crowd, valid event photo",
+  "at": "2026-11-15T20:48:33.315Z"
  },
  "madrid-museo-nacional-del-prado\u0001https://fastly.4sqi.net/img/general/original/1404096713_fdCDhMiiX1lGAeyRoBaJjfBiJ8x0ErCFaaTgJBN8deo.jpg": {
   "slug": "madrid-museo-nacional-del-prado",
@@ -22559,6 +22715,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Matsuyama Central Park pool by the Ishite River (Commons GPS 33.8098,132.7463), 3.7 km from Matsuyama General Park — a different park",
   "at": "2026-10-10T19:57:02.894Z"
+ },
+ "mazatlan-gran-maraton-pacifico-mazatlan\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Gran_Canaria_Maraton_EM1B2577_%2832315048252%29.jpg": {
+  "slug": "mazatlan-gran-maraton-pacifico-mazatlan",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Runner portrait plausibly from marathon event, athlete focused",
+  "at": "2026-11-15T20:53:47.919Z"
  },
  "medan-maha-vihara-maitreya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vihara_Maitreya.jpg/1920px-Vihara_Maitreya.jpg": {
   "slug": "medan-maha-vihara-maitreya",
@@ -23468,6 +23630,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Photo of Tyler, the Creator performing, valid for concert article",
   "at": "2026-08-07T13:03:54.557Z"
+ },
+ "milan-tyr-valhalla-calling-european-tour-milan\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Tyr_Alibi_4.jpg": {
+  "slug": "milan-tyr-valhalla-calling-european-tour-milan",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Live concert stage performance, matches band's tour event",
+  "at": "2026-11-15T20:47:45.251Z"
  },
  "milan-yapa\u0001https://fastly.4sqi.net/img/general/original/502352968_njTs29CK5JidGh00-YLX_V6IkLtv8qANKvwXSXnbaA8.jpg": {
   "slug": "milan-yapa",
@@ -26995,6 +27163,18 @@
   "reason": "Third Tunnel interior with yellow helmets display",
   "at": "2026-07-25T02:47:42.546Z"
  },
+ "pak-kret-boynextdoor-knock-on-vol-2-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/IMPACT_Arena.jpg": {
+  "slug": "pak-kret-boynextdoor-knock-on-vol-2-bangkok",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Shows IMPACT Arena venue exterior with signage",
+  "at": "2026-11-15T20:46:39.883Z"
+ },
+ "pak-kret-stray-kids-world-tour-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/c/c0/Stray_Kids_in_2026.png": {
+  "slug": "pak-kret-stray-kids-world-tour-bangkok",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Group photo of the performing group at event",
+  "at": "2026-11-15T20:46:31.848Z"
+ },
  "palawan-fort-santa-isabel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fuerza_de_Sta._Isabel_Taytay.jpg/1920px-Fuerza_de_Sta._Isabel_Taytay.jpg": {
   "slug": "palawan-fort-santa-isabel",
   "verdict": "MATCH",
@@ -29610,6 +29790,12 @@
   "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
   "at": "2026-11-12T15:42:47.297Z"
  },
+ "quezon-city-gong-yoo-asia-fanmeeting-tour-the-long-take-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/4/41/Gong_Yoo_in_2021_-_2.png": {
+  "slug": "quezon-city-gong-yoo-asia-fanmeeting-tour-the-long-take-in-manila",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Portrait of Gong Yoo, the performer for this fanmeeting",
+  "at": "2026-11-15T20:51:57.940Z"
+ },
  "quezon-city-izna-manila-debut-concert\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Makati_CBD_skyline_%28Makati%3B_12-31-2019%29.jpg": {
   "slug": "quezon-city-izna-manila-debut-concert",
   "verdict": "MATCH",
@@ -29975,6 +30161,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of Galleria Borghese building, representative hero shot",
   "at": "2026-09-19T07:41:35.632Z"
+ },
+ "rome-herbie-hancock-2026-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/Chick_Corea_%26_Herbie_Hancock_at_EDP_Cool_Jazz_Festival%2C_Oeiras_%28Portugal%29_%2820386487222%29.jpg": {
+  "slug": "rome-herbie-hancock-2026-tour",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Concert stage with keyboard performer, representative of event",
+  "at": "2026-11-15T20:47:26.765Z"
+ },
+ "rome-il-volo-concert-rome\u0001https://upload.wikimedia.org/wikipedia/commons/2/2f/Il_Volo_trio_from_italy_IMG_4411.JPG": {
+  "slug": "rome-il-volo-concert-rome",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Il Volo performers on stage with orchestra, concert event",
+  "at": "2026-11-15T20:48:17.980Z"
  },
  "rome-janiculum-hill\u0001https://fastly.4sqi.net/img/general/original/55016645_oBKiaPdQLmtpEGfhbqWLsHgBpGzWBg_nM_Ce8HAL6Ls.jpg": {
   "slug": "rome-janiculum-hill",
@@ -30937,6 +31135,12 @@
   "reason": "Fresh seafood market stall, Seattle Pike Place Market",
   "reasonKo": "시애틀 파이크 플레이스 마켓의 신선한 해산물 가판대",
   "at": "2026-08-03T14:37:00.632Z"
+ },
+ "seattle-katseye-the-wildworld-tour-seattle\u0001https://upload.wikimedia.org/wikipedia/commons/1/13/Katseye_at_Wango_Tango_2025_%28cropped%29.jpg": {
+  "slug": "seattle-katseye-the-wildworld-tour-seattle",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Group of performers on concert stage, matches event",
+  "at": "2026-11-15T20:46:24.568Z"
  },
  "seattle-le-panier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Le_Panier%2C_Seattle_%282022%29_-_02.jpg/1920px-Le_Panier%2C_Seattle_%282022%29_-_02.jpg": {
   "slug": "seattle-le-panier",
@@ -34850,6 +35054,12 @@
   "reason": "event publish gate: Shows Accor Stadium, the event venue in Sydney",
   "at": "2026-10-08T01:25:50.366Z"
  },
+ "sydney-bts-world-tour-arirang-sydney\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/BTS_WORLD_TOUR_%27ARIRANG%27_IN_PARIS.jpg": {
+  "slug": "sydney-bts-world-tour-arirang-sydney",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Group photo of BTS performers, valid event hero",
+  "at": "2026-11-15T20:53:13.677Z"
+ },
  "sydney-chinatown-sydney\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/The_Sydney_Chinatown_in_Dixon_Street.jpg": {
   "slug": "sydney-chinatown-sydney",
   "verdict": "MATCH",
@@ -36017,6 +36227,12 @@
   "reason": "publish gate: Aerial view of Xiangde Temple complex in Taroko Gorge",
   "at": "2026-09-13T07:53:45.295Z"
  },
+ "tashkent-2027-sabre-fencing-world-cup-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Special_National_Sports_Festival_%28JPN%29_Fencing_sabre_02.jpg/3840px-Special_National_Sports_Festival_%28JPN%29_Fencing_sabre_02.jpg": {
+  "slug": "tashkent-2027-sabre-fencing-world-cup-tashkent",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Fencing match shown, matches sabre fencing event type",
+  "at": "2026-11-15T20:53:03.871Z"
+ },
  "tashkent-5th-president-cup-chess\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/President_Donald_J_Trump_attends_the_President%E2%80%99s_Cup%2C_September_27%2C_2026_%28P20260927JB-0840%29.jpg": {
   "slug": "tashkent-5th-president-cup-chess",
   "verdict": "MISMATCH",
@@ -36124,6 +36340,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Upscale bakery interior with pastries, croissants, Tashkent ",
   "at": "2026-10-01T23:39:11.430Z"
+ },
+ "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Boris_Nedeltchev_en_concert.jpg": {
+  "slug": "tashkent-boris-nikolaenov-concert",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Pianist performing at concert, matches event type",
+  "at": "2026-11-15T20:52:43.261Z"
  },
  "tashkent-caravan\u0001https://fastly.4sqi.net/img/general/original/4848437_iFCAhw4haGiiI89O820LjABwptJFGMTJi7uMBdlLjFY.jpg": {
   "slug": "tashkent-caravan",
@@ -37825,6 +38047,12 @@
   "reason": "patrol re-check: Cable car gondolas over forest, matches Tongyeong Cablecar attraction",
   "at": "2026-08-16T20:35:29.533Z"
  },
+ "toraja-lovely-december-toraja\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/The_Lovely_Eggs_%2854200903791%29.jpg": {
+  "slug": "toraja-lovely-december-toraja",
+  "verdict": "MATCH",
+  "reason": "event publish gate: Concert performer on stage, fits music event hero",
+  "at": "2026-11-15T20:49:38.686Z"
+ },
  "toronto-360-the-restaurant-at-the-cn-tower\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Inside_the_360_Restaurant_in_the_CN_Tower_%289160061765%29.jpg": {
   "slug": "toronto-360-the-restaurant-at-the-cn-tower",
   "verdict": "MATCH",
@@ -37908,6 +38136,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of St. Lawrence Market building with signage",
   "at": "2026-10-22T14:55:14.132Z"
+ },
+ "toronto-st-lawrence-market-winter-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Toronto_-_ON_-_St_Lawrence_Market.jpg": {
+  "slug": "toronto-st-lawrence-market-winter-market",
+  "verdict": "MATCH",
+  "reason": "event publish gate: St. Lawrence Market building exterior, correct venue",
+  "at": "2026-11-15T20:55:34.690Z"
  },
  "toronto-the-distillery-historic-district\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Distillery_Historic_Sidewalk_2022.jpg": {
   "slug": "toronto-the-distillery-historic-district",
