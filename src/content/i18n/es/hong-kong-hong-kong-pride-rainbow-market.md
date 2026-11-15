@@ -1,74 +1,74 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-pride-rainbow-market
-srcHash: 'cbd6206f1bef'
-title: 'Hong Kong Pride Rainbow Market: fechas, entradas y recinto (Hong Kong)'
-description: La edición de 2026 del Hong Kong Pride Rainbow Market es el sábado 14 de noviembre, desde el mediodía hasta las 7 de la tarde, en el Central Market de Des Voeux Road Central, en el barrio de Central (Hong Kong).
-quickAnswer: La edición de 2026 del Hong Kong Pride Rainbow Market es el sábado 14 de noviembre, desde el mediodía hasta las 7 de la tarde, en el Central Market de Des Voeux Road Central, en el barrio de Central (Hong Kong). Se trata de una jornada comunitaria gratuita, organizada por Hong Kong Pride, que combina un mercadillo con actuaciones en directo. La estación de metro de Central queda a pocos pasos.
+srcHash: 'b9a5495e3634'
+title: 'Hong Kong Pride Rainbow Market: fechas, entradas y sede (Hong Kong)'
+description: El Hong Kong Pride Rainbow Market se anunció para el sábado 14 de noviembre de 2026 en el Central Market, en el barrio de Central (Hong Kong), del mediodía a las 7 de la tarde. La entrada era gratuita.
+quickAnswer: La fecha anunciada del Hong Kong Pride Rainbow Market era el sábado 14 de noviembre de 2026, del mediodía a las 7 de la tarde. El lugar era el Central Market, en Des Voeux Road Central, dentro del barrio de Central (Hong Kong). Hong Kong Pride lo organizaba como un evento comunitario gratuito con mercadillo y actuaciones. La estación de MTR de Central está a un corto paseo.
 faq:
-  - q: ¿Cuándo y dónde es el Hong Kong Pride Rainbow Market en 2026?
-    a: La edición de 2026 es el sábado 14 de noviembre, desde el mediodía hasta las 7 de la tarde. El escenario es el Central Market, situado entre Des Voeux Road Central y Queen Victoria Street, en el barrio de Central de la isla de Hong Kong.
-  - q: ¿Hace falta entrada?
-    a: No. El Rainbow Market es una jornada comunitaria gratuita que organiza Hong Kong Pride. Los detalles del evento aparecen en la web oficial de la organización y en sus redes sociales.
-  - q: ¿Cuál es la estación de metro más cercana?
-    a: A pocos minutos a pie se encuentra la estación de Central, por donde pasan las líneas Island y Tsuen Wan. La estación de Hong Kong tampoco queda lejos, y los tranvías de Des Voeux Road Central paran delante del edificio.
+  - q: ¿Cuándo y dónde era el Hong Kong Pride Rainbow Market en 2026?
+    a: Se anunció para el sábado 14 de noviembre de 2026, del mediodía a las 7 de la tarde, en el Central Market. Este edificio se encuentra entre Des Voeux Road Central y Queen Victoria Street, en el barrio de Central, en la isla de Hong Kong.
+  - q: ¿Hacía falta entrada?
+    a: No. Hong Kong Pride presentó el Rainbow Market como un evento comunitario gratuito, así que no había entradas de por medio.
+  - q: ¿Cuál es la estación de MTR más cercana?
+    a: La estación de Central, en las líneas Island y Tsuen Wan, queda a pocos minutos a pie. También está cerca la estación de Hong Kong, y los tranvías de Des Voeux Road Central paran delante del edificio.
   - q: ¿Cuánto tiempo suele pasar la gente allí?
-    a: La mayoría de los asistentes dedica entre una y tres horas a recorrer los puestos y ver alguna actuación. Muchos continúan después hacia Tai Kwun, PMQ o SoHo, todos ellos a unos diez minutos andando.
-  - q: ¿Se puede pagar con tarjeta en los puestos?
-    a: Algunos puestos aceptan tarjeta o pagos mediante código QR, como FPS y PayMe. Aun así, en Hong Kong los pequeños vendedores independientes suelen preferir el efectivo, por lo que los asistentes acostumbran a llevar algunos dólares hongkoneses.
+    a: En mercadillos comunitarios de este tipo, los visitantes suelen dedicar entre una y tres horas a recorrer los puestos y ver alguna actuación. Muchos continúan después hacia Tai Kwun, PMQ o SoHo, todos a unos diez minutos andando.
+  - q: ¿Se podía pagar con tarjeta en los puestos?
+    a: En mercadillos como este, algunos puestos aceptan tarjeta o pagos por código QR, como FPS y PayMe. Aun así, los pequeños vendedores independientes de Hong Kong suelen preferir el efectivo, por lo que quienes acuden a estos mercados acostumbran a llevar algunos dólares de Hong Kong.
 ---
 
-## Un sábado de puestos bajo una cubierta de los años treinta
+## Un sábado de puestos bajo un techo de los años treinta
 
-Cada año, Hong Kong Pride dedica una jornada a la comunidad: el Rainbow Market. En la edición de 2026, el sábado 14 de noviembre, el mercadillo y las actuaciones en directo ocupan el Central Market desde el mediodía hasta las 7 de la tarde, con entrada libre.
+El Rainbow Market es la jornada comunitaria que Hong Kong Pride organiza cada año. Para la edición de 2026, la cita anunciada era el sábado 14 de noviembre en el Central Market, del mediodía a las 7 de la tarde, con mercadillo, actuaciones en directo y entrada gratuita.
 
-Difícilmente podría encontrarse un recinto más adecuado. El Central Market, levantado en 1939 en estilo moderno aerodinámico, es un largo bloque de cuatro plantas y tonos claros. Se alza entre Des Voeux Road Central y Queen Victoria Street. En su interior, las galerías rodean un alto atrio central, de modo que el edificio entero se asoma sobre sí mismo. Desde las plantas superiores se ve y se oye todo lo que ocurre en el centro.
+El edificio se presta bien a este formato. El Central Market es un largo bloque de cuatro plantas y tono claro, construido en 1939 en estilo moderno aerodinámico (streamline). Se alza entre Des Voeux Road Central y Queen Victoria Street. En su interior, las galerías rodean un alto atrio central, de modo que el edificio entero se asoma sobre sí mismo: cualquier cosa que se monte en el centro se ve y se oye desde las plantas superiores.
 
-## Qué ofrecen sus salas
+## Qué llena las salas
 
-La propuesta consta de dos partes: puestos para curiosear y actuaciones para disfrutar. Como Hong Kong Pride no detalla aquí vendedores ni artistas concretos, esta guía no menciona ninguno. La organización da a conocer el programa a través de sus propios canales.
+Según lo anunciado, el formato constaba de dos partes: puestos que recorrer y actuaciones que ver.
 
-En los mercadillos comunitarios de este tipo suele haber una mezcla de:
+En los mercadillos comunitarios de este tipo suele haber:
 
 - pequeños creadores independientes con láminas, fanzines, chapas y artículos hechos a mano
-- colectivos LGTBIQ+ y organizaciones de apoyo con mesas informativas
+- colectivos LGBTQ+ y organizaciones de apoyo con mesas informativas
 - puestos de comida y bebida
-- artistas que actúan en un escenario central
+- artistas sobre un escenario central
 
-Al tratarse de siete horas, no existe un único momento idóneo para ir. A lo largo de la tarde la gente entra y sale, y muchos combinan una vuelta por los puestos con una o dos actuaciones.
+Al haber siete horas por delante, no existía un momento ideal para pasarse. En mercadillos así, la gente entra y sale a lo largo de la tarde, y es habitual combinar una vuelta por los puestos con una o dos actuaciones.
 
 ## Cómo llegar al Central Market
 
-El recinto está en pleno distrito financiero de la isla de Hong Kong, y eso se nota en la oferta de transporte.
+El mercado está en pleno distrito financiero de la isla de Hong Kong, y eso se nota en las conexiones de transporte.
 
-- **Metro (MTR):** la estación de Central (líneas Island y Tsuen Wan) queda a pocos minutos a pie hacia el este. También está cerca la estación de Hong Kong, en las líneas Tung Chung y Airport Express.
+- **MTR:** la estación de Central (líneas Island y Tsuen Wan) queda a pocos minutos a pie hacia el este. Muy cerca está también la estación de Hong Kong, en las líneas Tung Chung y Airport Express.
 - **Tranvía:** los tranvías de dos pisos, conocidos como «ding ding», recorren Des Voeux Road Central y paran justo delante.
-- **A pie desde la ladera:** una pasarela peatonal conecta el mercado con la Central–Mid-Levels Escalator, así que bajar andando desde SoHo resulta muy sencillo.
-- **Desde Sheung Wan:** un paseo llano de unos 15 minutos hacia el este por Des Voeux Road.
+- **A pie desde la ladera:** una pasarela une el mercado con las escaleras mecánicas Central–Mid-Levels, así que bajar caminando desde SoHo resulta sencillo.
+- **Desde Sheung Wan:** el paseo hacia el este por Des Voeux Road es llano y dura unos 15 minutos.
 
-Al ser sábado, las torres de oficinas de Central están casi en calma, aunque las pasarelas y la zona comercial de Queen's Road se llenan de gente durante toda la tarde.
+Los sábados, las torres de oficinas de Central están casi en silencio, pero las pasarelas y la zona comercial de Queen's Road mantienen el bullicio toda la tarde.
 
-## Recorrer los puestos con buenos modales hongkoneses
+## Los puestos y las costumbres de Hong Kong
 
-En Hong Kong, los pequeños puestos suelen cobrar en efectivo, aunque muchos aceptan también transferencias por código QR a través de FPS o PayMe. Quienes llevan algunos billetes y monedas de dólar hongkonés evitan quedarse atascados ante una mesa que solo admite efectivo. La tarjeta Octopus sirve para pagar el metro y el tranvía, pero no funciona en todos los puestos efímeros.
+En Hong Kong, los pequeños puestos suelen cobrar en efectivo, aunque muchos aceptan también transferencias por código QR con FPS o PayMe. Llevar algunos billetes y monedas de dólar de Hong Kong evita quedarse sin poder comprar en una mesa que solo admite efectivo. La tarjeta Octopus sirve para el MTR y el tranvía, pero no funciona en todos los puestos temporales.
 
-Con las fotografías conviene ir con cuidado. No todos los asistentes a un evento del Orgullo en Hong Kong han salido del armario en el trabajo o en casa, por eso los habituales piden permiso antes de fotografiar a alguien de cara. Al grabar una actuación, encuadran el escenario y no al público. En Hong Kong la intimidad personal se respeta mucho, y un breve «¿Puedo hacerle una foto?» es lo normal.
+Con las fotos conviene ser prudente. No todas las personas que acuden a un evento del Orgullo en Hong Kong han salido del armario en el trabajo o en casa, por eso los habituales piden permiso antes de fotografiar caras. Al grabar una actuación, encuadran el escenario y no al público. En Hong Kong la intimidad se toma muy en serio, y preguntar con un sencillo «¿Le importa que le haga una foto?» es lo normal.
 
-El edificio es un espacio público compartido, con tiendas y locales de comida ajenos al evento. Ante los ascensores y las escaleras mecánicas se forman colas ordenadas de una en una, y en las escaleras mecánicas la gente se coloca a la derecha para dejar paso por la izquierda.
+El edificio es un espacio público compartido, con tiendas y locales de comida que funcionan al margen de cualquier evento. Ante los ascensores y las escaleras mecánicas se hace cola ordenadamente, en fila de uno, y en las escaleras la gente se coloca a la derecha para dejar paso por la izquierda.
 
 ## Una tarde completa en Central
 
-Mediados de noviembre suele ser una de las mejores épocas del año en Hong Kong. El tiempo acostumbra a ser seco, con días templados que invitan a caminar de un sitio a otro. Muchos asistentes aprovechan el mercado para pasar una tarde más larga en esta parte de la isla.
+A mediados de noviembre, Hong Kong suele vivir uno de sus mejores meses: el tiempo acostumbra a ser seco y los días templados invitan a caminar de un sitio a otro. Un mercadillo en Central encaja sin esfuerzo en una tarde más larga por esta parte de la isla.
 
 A unos diez minutos a pie se encuentran:
 
-- **Tai Kwun**, el antiguo complejo de la Comisaría Central en Hollywood Road, que hoy alberga galerías y patios
-- **PMQ**, las antiguas viviendas para policías casados, repletas de estudios de diseño local
-- **SoHo y Staunton Street**, escalera mecánica arriba, con multitud de bares y restaurantes
-- **Lan Kwai Fong**, la zona de bares situada unas manzanas al este, con más ambiente al caer la noche
+- **Tai Kwun**, el antiguo complejo de la Comisaría Central en Hollywood Road, hoy convertido en galerías y patios
+- **PMQ**, los antiguos alojamientos para policías casados (Police Married Quarters), repletos de estudios de diseño local
+- **SoHo y Staunton Street**, escaleras mecánicas arriba, con una sucesión de bares y restaurantes
+- **Lan Kwai Fong**, la zona de bares situada unas manzanas al este, con más ambiente cuando anochece
 
-El mercado cierra a las 7 de la tarde, justo cuando el público nocturno de Central empieza a subir la colina en busca de un sitio para cenar.
+El cierre del mercado estaba programado a las 7 de la tarde, más o menos cuando el público nocturno de Central suele empezar a subir la cuesta en busca de un sitio para cenar.
 
-## Dónde encontrar la información
+## Dónde estaba la información
 
-El Rainbow Market es obra de Hong Kong Pride, que publica la fecha, el recinto y el programa en su web oficial y en sus redes sociales. Al ser gratuito, no interviene ninguna plataforma de venta de entradas. Sus dos datos fijos son el recinto, el Central Market, y el horario, desde el mediodía hasta las 7 de la tarde del 14 de noviembre de 2026.
+El Rainbow Market corría a cargo de Hong Kong Pride. Como la entrada era gratuita, no intervenía ninguna plataforma de venta de entradas. La edición de 2026 tenía dos datos fijos: el lugar, el Central Market, y el horario, del mediodía a las 7 de la tarde del 14 de noviembre de 2026.

@@ -1,81 +1,81 @@
 ---
 lang: es
 slug: hong-kong-cathay-westk-jazz-fest
-srcHash: '0677a32dd211'
+srcHash: 'd9c37af54e1b'
 title: 'Cathay • WestK Jazz Fest: fechas, entradas y recinto (Hong Kong)'
-description: Las fechas del Cathay • WestK Jazz Fest son el 13 y el 14 de noviembre de 2026. El escenario es el Distrito Cultural de Kowloon Oeste (West Kowloon Cultural District), en Hong Kong, frente al puerto y en el extremo occidental de la península de Kowloon.
-quickAnswer: Las fechas del Cathay • WestK Jazz Fest son el 13 y el 14 de noviembre de 2026. El escenario es el Distrito Cultural de Kowloon Oeste (West Kowloon Cultural District), en Hong Kong, frente al puerto y en el extremo occidental de la península de Kowloon. Las paradas de metro (MTR) más cercanas son las estaciones de Kowloon y de Austin. En la web oficial del Distrito Cultural de Kowloon Oeste figuran el programa y los enlaces para comprar entradas.
+description: El Cathay • WestK Jazz Fest estaba previsto para el 13-14 de noviembre de 2026 en el Distrito Cultural de West Kowloon, en la orilla del puerto, en el extremo occidental de Kowloon (Hong Kong).
+quickAnswer: El Cathay • WestK Jazz Fest estaba previsto para el 13-14 de noviembre de 2026 en el Distrito Cultural de West Kowloon (West Kowloon Cultural District), en Hong Kong. El recinto ocupa la orilla del puerto, en la punta occidental de la península de Kowloon. Las paradas de metro más cercanas eran las estaciones de Kowloon y Austin, ambas del MTR. El propio Distrito Cultural de West Kowloon organizó el programa, que combinaba espectáculos con entrada de pago y actuaciones de acceso libre.
 faq:
-  - q: ¿Cuáles son las fechas del Cathay • WestK Jazz Fest 2026?
-    a: Las fechas de la edición de 2026 son el viernes 13 y el sábado 14 de noviembre, en el Distrito Cultural de Kowloon Oeste, en Hong Kong.
-  - q: ¿Qué estación del MTR queda más cerca del festival?
-    a: La estación de Kowloon (línea Tung Chung y Airport Express) es la más próxima a M+ y a la parte central del distrito. La estación de Austin (línea Tuen Ma) es la más cercana al Xiqu Centre y al sector oriental. Desde Tsim Sha Tsui el paseo por Canton Road es más largo.
-  - q: ¿Dónde se puede consultar el cartel y la información sobre entradas?
-    a: En la web oficial del Distrito Cultural de Kowloon Oeste figuran el programa del festival, la ubicación de los escenarios y los enlaces para comprar entradas. También se indica qué actuaciones son de pago y cuáles son de acceso libre.
+  - q: ¿Cuándo era el Cathay • WestK Jazz Fest 2026?
+    a: La edición de 2026 estaba programada para el viernes 13 y el sábado 14 de noviembre de 2026 en el Distrito Cultural de West Kowloon, en Hong Kong.
+  - q: ¿Qué estación del MTR quedaba más cerca del festival?
+    a: La estación de Kowloon (Kowloon Station), con servicio de la línea Tung Chung y del Airport Express, es la más próxima al M+ y a la zona central del distrito. La de Austin (Austin Station), en la línea Tuen Ma, es la más cercana al Xiqu Centre y al lado oriental. Desde Tsim Sha Tsui hay que caminar bastante más por Canton Road.
+  - q: ¿Dónde se publicaban el cartel y la información sobre las entradas?
+    a: La organización corrió a cargo del Distrito Cultural de West Kowloon. En su programa figuraban los artistas de cada noche, la ubicación de los escenarios y qué actuaciones requerían entrada y cuáles eran de acceso libre.
   - q: ¿Qué tiempo hace en Hong Kong a mediados de noviembre?
-    a: A mediados de noviembre, Hong Kong suele estar en la estación seca de otoño y las noches acostumbran a ser templadas. Al anochecer arrecia el viento que llega del puerto, por lo que muchos asistentes llevan una prenda ligera de abrigo.
-  - q: ¿Qué más hay cerca del festival?
-    a: Dentro del distrito se encuentran M+, el Museo del Palacio de Hong Kong y el Xiqu Centre. Sobre la estación de Kowloon está el centro comercial Elements, y Jordan, el mercado nocturno de Temple Street y Tsim Sha Tsui quedan a poca distancia a pie.
+    a: Mediados de noviembre suele coincidir con el otoño seco de Hong Kong, y por lo general las noches son templadas. Al caer la noche arrecia el viento que llega del puerto, por lo que el público de los eventos al aire libre acostumbra a llevar alguna prenda ligera de abrigo.
+  - q: ¿Qué más había cerca del festival?
+    a: Dentro del propio distrito se encuentran el M+, el Museo del Palacio de Hong Kong y el Xiqu Centre. Sobre la estación de Kowloon se alza el centro comercial Elements, y Jordan, el mercado nocturno de Temple Street y Tsim Sha Tsui quedan a una distancia que se puede recorrer a pie.
 ---
 
 ## Dos noches de jazz a orillas del puerto
 
-El festival ocupa dos noches de noviembre: las fechas de la edición de 2026 del Cathay • WestK Jazz Fest son el viernes 13 y el sábado 14, con actuaciones repartidas por todo el Distrito Cultural de Kowloon Oeste. Se trata de una cita anual. Su nombre une el de Cathay, el grupo aéreo de bandera de Hong Kong, con «WestK», la abreviatura con la que se conoce al propio distrito.
+Las fechas anunciadas eran el viernes 13 y el sábado 14 de noviembre de 2026, con el festival repartido por todo el Distrito Cultural de West Kowloon (West Kowloon Cultural District). El Cathay • WestK Jazz Fest es una cita anual. Su nombre une el de Cathay, el grupo aéreo de bandera de Hong Kong, con «WestK», la forma abreviada con la que se conoce al distrito.
 
-Buena parte de su encanto se debe al emplazamiento. Kowloon Oeste se levanta sobre terrenos ganados al mar que se adentran en el puerto de Victoria, de modo que el público tiene delante el agua y el perfil urbano de la isla de Hong Kong, y a su espalda se alza el International Commerce Centre. Nada que ver con un concierto en el sótano de algún club de Central.
+Buena parte del encanto se debe al emplazamiento. West Kowloon se levanta sobre terrenos ganados al mar que se adentran en el puerto de Victoria (Victoria Harbour), de modo que el agua y el perfil urbano de la isla de Hong Kong quedan justo enfrente. A la espalda se eleva el International Commerce Centre. Nada que ver con un concierto en un club subterráneo de Central.
 
-## Dónde está Kowloon Oeste
+## Dónde se encuentra West Kowloon
 
-El distrito abarca la punta occidental de la península de Kowloon, desde los límites de Tsim Sha Tsui hasta el puerto. Se concibió como un único barrio dedicado a las artes, y entre sus edificios se extienden amplias praderas de césped, plazas pavimentadas y un largo paseo marítimo.
+El distrito ocupa la punta occidental de la península de Kowloon y se extiende desde el límite de Tsim Sha Tsui hasta el puerto. Se concibió como un único barrio dedicado a las artes, y entre sus edificios se abren amplias zonas de césped, plazas pavimentadas y un largo paseo marítimo.
 
-Estos son los puntos de referencia que se suelen usar para orientarse:
+Estos son los puntos de referencia que se usan para orientarse:
 
-- **M+**, el museo de cultura visual, con su torre alta y estilizada frente al puerto
-- **Museo del Palacio de Hong Kong** (Hong Kong Palace Museum), cerca del extremo occidental del distrito
+- **M+**, el museo de cultura visual, cuya torre alta y estilizada mira al puerto
+- **Museo del Palacio de Hong Kong** (Hong Kong Palace Museum), cerca del extremo oeste del distrito
 - **Xiqu Centre**, el teatro de ópera cantonesa, en la esquina más próxima a Austin Road y a Jordan
-- **Art Park**, la gran zona verde que bordea el agua
-- **Freespace**, el espacio del distrito para las artes escénicas contemporáneas, junto al parque
+- **Art Park**, el gran espacio verde que bordea el agua
+- **Freespace**, el recinto de artes escénicas contemporáneas del distrito, en el límite del parque
 
-Dentro del distrito, las distancias son mayores de lo que parece en el mapa. Ir a pie desde el Xiqu Centre hasta el otro extremo del Art Park lleva su tiempo, así que conviene saber en qué zona está el escenario que le interesa antes de salir del metro.
+Dentro del distrito, los trayectos son más largos de lo que aparentan en el mapa. Ir a pie del Xiqu Centre al otro extremo del Art Park lleva su tiempo, así que la salida del MTR que se elija marca una diferencia considerable.
 
-## Cómo llegar en metro
+## Cómo llegar en MTR
 
-No hace falta tomar un taxi. Tres estaciones del MTR dan servicio al distrito, y la más adecuada depende de la zona a la que se quiera ir.
+No hace falta tomar un taxi. Tres estaciones del MTR dan servicio al distrito, y la más conveniente depende del extremo al que uno se dirija.
 
-- **Estación de Kowloon** (Kowloon Station; línea Tung Chung y Airport Express): se encuentra bajo el centro comercial Elements y el ICC. Es la parada lógica para M+ y la parte central del distrito, y hay carteles que indican el camino.
-- **Estación de Austin** (Austin Station; línea Tuen Ma): es la más cercana al Xiqu Centre y al sector oriental.
-- **Estación de Tsim Sha Tsui** (línea Tsuen Wan) y **Tsim Sha Tsui Este** (East Tsim Sha Tsui; línea Tuen Ma): quedan más lejos. Desde allí, muchos asistentes llegan a pie por Canton Road o por Austin Road West.
+- La **estación de Kowloon** (Kowloon Station), en la línea Tung Chung y en el Airport Express, está bajo el centro comercial Elements y el ICC. Es la parada lógica para el M+ y la zona central del distrito, y hay señales que indican el camino.
+- La **estación de Austin** (Austin Station), en la línea Tuen Ma, es la más cercana al Xiqu Centre y al lado oriental.
+- Las estaciones de **Tsim Sha Tsui** (línea Tsuen Wan) y **East Tsim Sha Tsui** (línea Tuen Ma) quedan más lejos. Desde ellas, mucha gente sigue a pie por Canton Road o por Austin Road West.
 
-Como el Airport Express para en la estación de Kowloon, quien llega en avión puede plantarse en el paseo marítimo sin hacer ningún transbordo. Muchos de los viajeros que acuden al festival se alojan en Tsim Sha Tsui o en Jordan, dos barrios desde los que se llega al recinto andando.
+Como el Airport Express para en la estación de Kowloon, quien llega en avión puede plantarse en la orilla del puerto sin hacer transbordo. Tsim Sha Tsui y Jordan, ambos a una distancia del recinto que se puede recorrer a pie, son zonas muy elegidas por los visitantes para alojarse.
 
 ## Entradas y programa
 
-En la web oficial del Distrito Cultural de Kowloon Oeste figuran el programa del festival, la ubicación de los escenarios y los enlaces para comprar entradas. Allí se indica qué artistas actúan cada noche y qué conciertos requieren entrada o son de acceso libre.
+El Distrito Cultural de West Kowloon se encargó del programa del festival, de la ubicación de los escenarios y de la venta de entradas. En el programa se indicaba qué artistas actuaban cada noche y si cada espectáculo requería entrada o era de acceso libre.
 
-Esta guía no menciona artistas ni precios porque no se nos ha facilitado esa información, y la web del distrito es la única fuente fiable al respecto. En los festivales que ocupan todo un distrito artístico es habitual combinar conciertos de pago con actuaciones al aire libre, por lo que merece la pena fijarse en el nombre del recinto de cada actuación, y no solo en el del artista.
+Los festivales que ocupan todo un distrito cultural suelen combinar conciertos de pago con actuaciones al aire libre. En citas de este tipo, el nombre del recinto que aparece en la programación importa tanto como el del artista, porque los escenarios pueden quedar muy alejados entre sí.
 
 ## El perfil urbano como telón de fondo
 
-Esto es lo que hace que el festival sea difícil de imitar en otro lugar. Desde el paseo marítimo de Kowloon Oeste, la vista abarca de frente Central y Admiralty, al otro lado del puerto de Victoria. Aquí no se trata de un par de torres al estilo de Taipéi, sino de toda la muralla iluminada de la isla de Hong Kong, con la silueta oscura de la cresta del Peak detrás.
+Esto es lo que hace que el festival sea difícil de imitar en otro lugar. Desde el paseo marítimo de West Kowloon se contemplan, al otro lado del puerto de Victoria, Central y Admiralty. Aquí lo importante no son un par de torres al estilo de Taipéi, sino la fachada entera de la isla de Hong Kong iluminada, con la oscura cresta del Peak detrás.
 
-A mediados de noviembre, Hong Kong suele estar en plena estación seca de otoño. Las noches acostumbran a ser templadas y la humedad del verano ya ha desaparecido, motivo por el que tantos eventos al aire libre de la ciudad se concentran en este mes. Al caer la noche sopla en el paseo un viento constante desde el puerto, así que los habituales suelen llevar una prenda ligera de abrigo y, si hay alguna sesión sobre el césped, también algo para sentarse.
+Mediados de noviembre suele coincidir con el otoño seco de Hong Kong. Las noches son por lo general templadas y la humedad del verano ya ha desaparecido; por eso tantos eventos al aire libre de la ciudad se concentran en este mes. Al caer la noche, el paseo recibe un viento constante desde el puerto, y los habituales suelen llevar alguna prenda ligera de abrigo. Para las sesiones sobre el césped, también traen algo donde sentarse.
 
 ## Moverse por el distrito como un habitual
 
-Algunas costumbres locales facilitan mucho las dos noches.
+Algunas costumbres locales facilitan la velada en el distrito.
 
-- **Pague con la tarjeta Octopus o sin contacto.** La tarjeta Octopus sirve en el metro, en las tiendas de conveniencia y en muchos locales de comida. La mayoría de los tornos del MTR aceptan también tarjetas bancarias y móviles sin contacto.
-- **No se preocupe por la propina.** En los puestos de comida y en los mostradores no se espera. Los restaurantes con servicio de mesa de Hong Kong suelen añadir a la cuenta un recargo del 10% por el servicio.
-- **Respete las colas.** El público de Hong Kong hace cola en una fila ordenada, y donde hay vallas o personal con carteles, la gente se atiene a ellos.
-- **Guarde silencio en el césped.** En las actuaciones al aire libre, quienes se sientan en la hierba han venido a escuchar. Las conversaciones largas suelen trasladarse al fondo o al paseo marítimo.
-- **Atraje por el centro comercial.** Elements, situado sobre la estación de Kowloon, cuenta con aseos, cajeros automáticos y pasarelas cubiertas, y es un punto de encuentro habitual antes de bajar hacia el puerto.
+- **Pagar con Octopus o sin contacto.** La tarjeta Octopus sirve en el MTR, en las tiendas de conveniencia y en muchos locales de comida. La mayoría de los tornos del MTR aceptan además tarjetas bancarias y móviles sin contacto.
+- **Olvidarse de la propina.** No es costumbre dejarla en puestos de comida ni en barras. En los restaurantes con servicio de mesa, Hong Kong suele añadir a la cuenta un cargo por servicio del 10%.
+- **Respetar las filas.** El público hongkonés hace cola en filas ordenadas, de uno en uno. Donde hay vallas o personal con carteles, la gente se ciñe a ellos.
+- **Guardar silencio en el césped.** En las actuaciones al aire libre, quienes se sientan en la hierba están allí para escuchar. Las conversaciones largas suelen trasladarse a la parte de atrás o al paseo marítimo.
+- **Usar el centro comercial como atajo.** Elements, sobre la estación de Kowloon, cuenta con aseos, cajeros automáticos y pasarelas cubiertas. Es un punto de encuentro habitual antes de salir hacia el puerto.
 
-Para volver a casa, ambas noches, lo más cómodo es el metro. Aunque los taxis también llegan al distrito, el último tramo de Austin Road West tiende a colapsarse cuando una gran multitud sale a la vez.
+Para salir del distrito tras un evento nocturno, lo más sencillo es el MTR. Los taxis también llegan hasta allí, pero el último tramo de Austin Road West suele atascarse cuando una gran multitud se marcha a la vez.
 
 ## Antes y después de la música
 
-El festival queda cerca de algunas de las calles con más vida gastronómica de Kowloon. En Jordan, a poca distancia a pie al este de la estación de Austin, abundan las cafeterías tradicionales hongkonesas, conocidas como cha chaan teng, y los locales de fideos. Un poco más al norte, el mercado nocturno de Temple Street (Temple Street Night Market) es ideal para picar algo a última hora.
+El distrito está cerca de algunas de las calles con más vida gastronómica de Kowloon. En Jordan, a poca distancia a pie al este de la estación de Austin, abundan los cha chaan teng y los locales de fideos. Algo más al norte, el mercado nocturno de Temple Street (Temple Street Night Market) ofrece tentempiés hasta tarde.
 
-Tsim Sha Tsui queda al sureste siguiendo Canton Road, con Harbour City de camino. Dentro del distrito, M+ y el Museo del Palacio de Hong Kong son un buen plan de tarde antes de un concierto nocturno. Sus horarios de apertura varían a lo largo del año y figuran en la web de cada museo.
+Tsim Sha Tsui queda al sureste siguiendo Canton Road, con Harbour City a medio camino. Dentro del distrito, el M+ y el Museo del Palacio de Hong Kong son un buen plan de tarde antes de una actuación nocturna; su horario de apertura varía a lo largo del año.
 
-El centro comercial Elements reúne una amplia oferta de restaurantes y un supermercado, lo que lo convierte en una opción práctica para comer algo rápido entre el tren y el escenario.
+El centro comercial Elements reúne una amplia oferta de restaurantes y un supermercado, lo que lo convierte en un lugar práctico para comer algo rápido entre el tren y el escenario.

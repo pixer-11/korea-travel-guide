@@ -38808,11 +38808,11 @@
   "at": "2026-11-02T17:40:02.430Z"
  },
  "ko/buenos-aires-creamfields-buenos-aires": {
-  "hash": "70dcb3e03cb0",
+  "hash": "7d4113b76c97",
   "score": 1,
   "registerBreak": false,
-  "worst": "정작 더 큰 문제는 돌아오는 길입니다.",
-  "at": "2026-11-02T17:40:03.227Z"
+  "worst": "이런 페스티벌에서는 관객들이 시간표를 보고 저마다 동선을 정하고, 일행과는 만날 장소를 미리 한 곳으로 정해 둡니다.",
+  "at": "2026-11-15T14:59:58.802Z"
  },
  "ko/buenos-aires-ieb-argentina-open-atp-buenos-aires": {
   "hash": "6639b88f8f68",
@@ -40416,5 +40416,82 @@
   "registerBreak": false,
   "worst": "闪光灯晃到球员视线，是唯一会招来全场侧目的事。",
   "at": "2026-11-15T07:50:59.634Z"
+ },
+ "es/auckland-parklands-festival-2026": {
+  "hash": "1786c0ce0a04",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las normas sobre bolsos y objetos prohibidos las fijaba la organización.",
+  "at": "2026-11-15T14:59:39.799Z"
+ },
+ "es/barcelona-guitar-bcn-festival-2026": {
+  "hash": "b468c0c66179",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La mayoría del público llega al vestíbulo con bastante antelación, deja el abrigo...",
+  "at": "2026-11-15T14:59:40.797Z"
+ },
+ "es/bengaluru-guns-n-roses-india-tour": {
+  "hash": "912d01cf8538",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "tapones para los oídos, porque un equipo de sonido de estadio",
+  "at": "2026-11-15T14:59:41.647Z"
+ },
+ "ja/auckland-parklands-festival-2026": {
+  "hash": "19c160e800f2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ラインナップの筆頭はワックス・モチーフでした。",
+  "at": "2026-11-15T14:59:51.070Z"
+ },
+ "ja/barcelona-guitar-bcn-festival-2026": {
+  "hash": "6c7eca799672",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "外観はいかにも厳格ですが、それは意図されたもので、力が注がれたのは内部のホールのほうです。",
+  "at": "2026-11-15T14:59:55.645Z"
+ },
+ "ja/buenos-aires-creamfields-buenos-aires": {
+  "hash": "f992efa81cfe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ブエノスアイレスの大型イベントでお金を失う原因として最も多いのが、SNSや路上の売り手による転売です。",
+  "at": "2026-11-15T14:59:56.727Z"
+ },
+ "ko/auckland-parklands-festival-2026": {
+  "hash": "1c1f9431e5b1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "앨버트 공원(Albert Park)은 댄스 무대가 들어서기에는 다소 의외인 곳입니다.",
+  "at": "2026-11-15T14:59:57.654Z"
+ },
+ "ko/cairo-egypt-fashion-week": {
+  "hash": "d6ad11981912",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "저녁 퇴근 시간에 다리 주변이 막히면 10분 거리도 훨씬 오래 걸리기 때문에, 뉴카이로나 셰이크 자예드에서 오는 사람들은 대개 시간을 넉넉히 잡고 출발합니다.",
+  "at": "2026-11-15T15:00:00.082Z"
+ },
+ "zh/auckland-parklands-festival-2026": {
+  "hash": "3c1fb184825d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "把舞台搭进阿尔伯特公园，乍一听有些出人意料。",
+  "at": "2026-11-15T15:00:00.916Z"
+ },
+ "zh/barcelona-guitar-bcn-festival-2026": {
+  "hash": "4344fcfb603d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "他在拉丁格莱美奖上也是常胜之人。",
+  "at": "2026-11-15T15:00:15.221Z"
+ },
+ "zh/buenos-aires-creamfields-buenos-aires": {
+  "hash": "4a6574674f6e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在布宜诺斯艾利斯参加任何音乐节，回程都是更让人头疼的问题。",
+  "at": "2026-11-15T15:00:16.379Z"
  }
 }

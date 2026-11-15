@@ -1,84 +1,84 @@
 ---
 lang: es
 slug: kuala-lumpur-babymonster-world-tour-choom
-srcHash: 'cbefc5228714'
-title: 'BABYMONSTER World Tour [CHOOM]: fechas, entradas y recinto (Kuala Lumpur)'
-description: El 14 de noviembre de 2026, el BABYMONSTER World Tour [CHOOM] llega al Unifi Arena de Kuala Lumpur, el pabellón cubierto del Complejo Deportivo Nacional de Bukit Jalil (Bukit Jalil National Sports Complex).
-quickAnswer: El 14 de noviembre de 2026, el BABYMONSTER World Tour [CHOOM] llega al Unifi Arena de Kuala Lumpur, el pabellón cubierto del Complejo Deportivo Nacional de Bukit Jalil (Bukit Jalil National Sports Complex). Lo más cómodo para llegar es tomar la línea Sri Petaling del LRT hasta la estación de Bukit Jalil. Compre las entradas solo en los canales oficiales que figuran en el anuncio de la gira y confirme los horarios y las entradas en la web oficial.
+srcHash: '0d00e6e8992d'
+title: 'Gira mundial [CHOOM] de BABYMONSTER: fechas, entradas y recinto en Kuala Lumpur'
+description: La gira mundial [CHOOM] de BABYMONSTER tenía fecha en Kuala Lumpur el 14 de noviembre de 2026. El escenario era el Unifi Arena, dentro del Complejo Deportivo Nacional de Bukit Jalil.
+quickAnswer: La gira mundial [CHOOM] de BABYMONSTER tenía programado su concierto en Kuala Lumpur para el 14 de noviembre de 2026. El recinto era el Unifi Arena, el pabellón cubierto del Complejo Deportivo Nacional de Bukit Jalil (Bukit Jalil National Sports Complex). La forma más sencilla de llegar al pabellón es la línea Sri Petaling del LRT, con parada en la estación Bukit Jalil. Las entradas se vendieron a través de los canales oficiales que figuraban en el anuncio de la gira.
 faq:
-  - q: ¿Dónde se celebra el concierto CHOOM de BABYMONSTER en Kuala Lumpur?
-    a: En el Unifi Arena, el pabellón cubierto del Complejo Deportivo Nacional de Bukit Jalil, antes conocido como Axiata Arena. Está junto al Estadio Nacional de Bukit Jalil.
-  - q: ¿Qué día es el concierto de Kuala Lumpur?
-    a: La fecha anunciada es el sábado 14 de noviembre de 2026. Confirme los horarios y las entradas en los canales oficiales de BABYMONSTER y YG Entertainment.
-  - q: ¿Cuál es la mejor forma de llegar al Unifi Arena?
-    a: Tome la línea Sri Petaling del LRT hasta la estación de Bukit Jalil y continúe a pie hasta el complejo. Desde KL Sentral, haga transbordo a la línea Sri Petaling en Masjid Jamek. Grab también es una opción, aunque las noches de evento hay mucho tráfico en torno a Bukit Jalil.
-  - q: ¿Cómo puedo evitar las entradas falsas?
-    a: Compre solo a través de la ticketera indicada en el anuncio oficial de la gira. Evite las ofertas de reventa en grupos de fans y redes sociales, donde abundan las entradas electrónicas reutilizadas o falsas.
-  - q: ¿Cómo vuelvo después del concierto?
-    a: En la estación de LRT de Bukit Jalil habrá una cola con acceso regulado. Puede esperar a que se disperse la multitud, caminar hasta Pavilion Bukit Jalil hasta que mejore el tráfico o pedir un Grab, sabiendo que los precios se disparan justo al acabar el concierto. Consulte con antelación el horario del último tren en la web de Rapid KL.
+  - q: ¿Dónde era el concierto CHOOM de BABYMONSTER en Kuala Lumpur?
+    a: En el Unifi Arena, el pabellón cubierto del Complejo Deportivo Nacional de Bukit Jalil, antes conocido como Axiata Arena. Se encuentra junto al Estadio Nacional de Bukit Jalil.
+  - q: ¿Qué fecha tenía el concierto de Kuala Lumpur?
+    a: Según el anuncio de BABYMONSTER y YG Entertainment, el concierto estaba fijado para el sábado 14 de noviembre de 2026.
+  - q: ¿Cuál era la mejor forma de llegar al Unifi Arena?
+    a: La opción más práctica era la línea Sri Petaling del LRT hasta la estación Bukit Jalil, desde donde se llega a pie al complejo. Desde KL Sentral, el transbordo a la línea Sri Petaling se hace en Masjid Jamek. Grab también es una alternativa, aunque el tráfico en torno a Bukit Jalil es muy denso las noches de eventos.
+  - q: ¿Cómo se evitaban las entradas falsas?
+    a: Las entradas se vendieron a través de la ticketera que figuraba en el anuncio oficial de la gira. Las ofertas de reventa en grupos de fans y en redes sociales son donde suelen aparecer entradas electrónicas reutilizadas o falsas.
+  - q: ¿Cómo se volvía después del concierto?
+    a: Tras los grandes conciertos en el pabellón, el personal suele regular la cola en la estación de LRT de Bukit Jalil. Mucha gente espera a que la multitud se disperse o va a pie hasta Pavilion Bukit Jalil mientras el tráfico se despeja, y los precios de Grab se disparan justo al terminar el espectáculo. Rapid KL publica los horarios del último tren de la línea.
 ---
 
 ## Una noche en Bukit Jalil
 
-Siete integrantes, una única fecha y un solo recinto. BABYMONSTER, el grupo de YG Entertainment, trae su gira mundial CHOOM al Unifi Arena de Kuala Lumpur el 14 de noviembre de 2026. *Choom* (춤) significa sencillamente «baile» en coreano, así que ya puede imaginarse qué ocupará el centro del espectáculo.
+Siete integrantes, una única fecha y un solo pabellón. BABYMONSTER, el grupo de YG Entertainment, tenía previsto llevar su gira mundial CHOOM al Unifi Arena de Kuala Lumpur el 14 de noviembre de 2026. *Choom* (춤) significa sencillamente «baile» en coreano, y ya deja claro qué es lo que el grupo pone en primer plano.
 
-En el escenario estará el propio grupo al completo: Ruka, Pharita, Asa, Ahyeon, Rami, Rora y Chiquita. Quien las conozca por «Sheesh», «Batter Up» o «Drip» ya sabe qué esperar: coreografías contundentes, estrofas de rap y estribillos vocales de gran potencia. No disponemos de datos sobre el repertorio ni sobre los horarios, de modo que preferimos no especular.
+El cartel anunciado lo formaba el propio grupo: Ruka, Pharita, Asa, Ahyeon, Rami, Rora y Chiquita. Quien los conozca por «Sheesh», «Batter Up» o «Drip» sabe cómo suenan: coreografías contundentes, estrofas de rap y grandes estribillos vocales.
 
-Según el anuncio, es la única fecha de la gira en Malasia. Antes de organizar nada en torno a ella, confirme los horarios y las entradas en la web oficial.
+Según el anuncio, era la única parada de la gira en Malasia.
 
-## Un recinto que quizá conozca con otro nombre
+## Un pabellón que quizá le suene con otro nombre
 
-Al sur del centro de la ciudad, dentro del Complejo Deportivo Nacional de Bukit Jalil, se encuentra el pabellón cubierto que hoy se llama Unifi Arena. Muchos malasios siguen llamándolo por su antiguo nombre, Axiata Arena, y es habitual oír ambos tanto a los conductores como en los chats de fans. Justo al lado se alza el Estadio Nacional de Bukit Jalil (Bukit Jalil National Stadium), un enorme estadio al aire libre.
+El Unifi Arena es el pabellón cubierto del Complejo Deportivo Nacional de Bukit Jalil, al sur del centro de la ciudad. Muchos malasios siguen llamándolo por su antiguo nombre, Axiata Arena, y tanto los conductores como los fans en sus chats utilizan los dos indistintamente. Se levanta justo al lado del Estadio Nacional de Bukit Jalil, el enorme recinto al aire libre contiguo.
 
-Se trata de un recinto cerrado y climatizado, con gradas escalonadas que rodean la pista. En una ciudad donde las noches de noviembre siguen siendo cálidas y húmedas, el aire acondicionado se agradece enormemente. Eso sí, compruebe en su entrada cuál es el acceso que le corresponde antes de llegar: el complejo es grande, y rodear el estadio por el lado equivocado lleva más tiempo del que parece.
+Por dentro es un pabellón cerrado y climatizado, con gradas escalonadas que rodean la pista. En una ciudad donde las noches de noviembre siguen siendo cálidas y húmedas, ese aire acondicionado se agradece mucho. El complejo es grande y sus accesos están repartidos por todo el perímetro, así que rodear el estadio por el lado equivocado lleva más tiempo del que casi todo el mundo calcula.
 
 ## Cómo llegar a Bukit Jalil
 
-La noche de un concierto, el tren gana a la carretera. Estas son las opciones:
+En una noche de concierto, el tren gana a la carretera. Estas son las principales opciones:
 
-- **Línea Sri Petaling del LRT hasta la estación de Bukit Jalil.** Es la parada más próxima al complejo deportivo, y desde allí se llega a pie al pabellón.
-- **Desde KL Sentral o Masjid Jamek,** hay que hacer transbordo a la línea Sri Petaling. Masjid Jamek es la estación donde esta enlaza con la línea Kelana Jaya.
-- **Grab** es la aplicación de vehículos con conductor que todo el mundo usa aquí. Cuente con un tráfico lento en los alrededores de Bukit Jalil tanto a la apertura de puertas como al terminar el concierto.
+- **Línea Sri Petaling del LRT hasta la estación Bukit Jalil.** Es la estación más cercana al complejo deportivo, y desde allí se llega al pabellón a pie.
+- **Desde KL Sentral o Masjid Jamek,** hay que hacer transbordo a la línea Sri Petaling. Masjid Jamek es la estación donde esta línea enlaza con la línea Kelana Jaya.
+- **Grab** es la aplicación de vehículos con conductor que todo el mundo usa aquí. El tráfico en los alrededores de Bukit Jalil se ralentiza cuando abren las puertas y de nuevo cuando termina el espectáculo.
 - **En coche** también se puede ir, aunque el aparcamiento del complejo se llena enseguida en las noches de grandes eventos.
 
-¿Se aloja en Bukit Bintang o cerca de KLCC? El trayecto se hace en LRT: es sencillo, pero no corto. Salga con tiempo de sobra.
+Desde Bukit Bintang o KLCC, el trayecto se hace en LRT. Es sencillo, pero no corto.
 
-## La desbandada de Bukit Jalil
+## La salida en masa de Bukit Jalil
 
-En cuanto acaba el concierto, miles de personas se dirigen a la vez hacia una pequeña estación de LRT. El andén de Bukit Jalil nunca se diseñó para absorber un pabellón entero que se vacía de golpe. El personal suele regular el acceso a los trenes, lo que se traduce en una cola lenta al aire libre que exige paciencia.
+Al acabar un concierto, miles de personas se dirigen a la vez a una pequeña estación de LRT. El andén de Bukit Jalil nunca se diseñó para absorber un pabellón entero que se vacía de golpe. El personal suele regular el acceso a los trenes, lo que se traduce en una cola lenta y paciente al aire libre.
 
-Hay tres planes sensatos:
+Hay tres maneras habituales de salir:
 
-- **Quedarse un rato.** Deje pasar la primera oleada y diríjase a la estación cuando haya menos gente.
-- **Alejarse de las aglomeraciones.** Camine hasta Pavilion Bukit Jalil, el centro comercial cercano al complejo, y espere allí a que se despeje el tráfico.
-- **Pedir un Grab asumiendo la subida de tarifas.** Justo después del concierto aumentan tanto la espera como los precios; elija su punto de recogida antes del bis y así no tendrá que deambular después.
+- **Quedarse un rato.** Primero se marcha la primera oleada, y el camino a la estación resulta más llevadero cuando la multitud se dispersa.
+- **Esperar a que pase la avalancha.** Pavilion Bukit Jalil, el centro comercial cercano al complejo, es un buen lugar para hacer tiempo mientras se despeja el tráfico.
+- **Grab, con tarifa dinámica.** Justo después del concierto suben tanto los tiempos de espera como los precios, y los puntos de recogida se abarrotan.
 
-Consulte antes de esa noche el horario del último tren en la web de Rapid KL, y no dé por hecho que los trenes circulan hasta tarde.
+Rapid KL publica los horarios del último tren de la línea, y los trenes no circulan toda la noche.
 
 ## Entradas sin disgustos
 
-Allí donde un concierto de K-pop agota las entradas, aparecen las estafas. Compre únicamente a través de la ticketera y el promotor que figuran en el anuncio oficial de la gira publicado por BABYMONSTER y YG Entertainment. Las categorías de asientos, los tramos de precios y los detalles de la venta se publican ahí, así que consulte la información oficial en lugar de fiarse de capturas de pantalla en redes sociales.
+Las estafas acompañan a los conciertos de K-pop con las entradas agotadas. La venta se hizo a través de la ticketera y el promotor que figuraban en el anuncio oficial de la gira publicado por BABYMONSTER y YG Entertainment. Las capturas de pantalla en redes sociales son una vía habitual para hacer circular entradas falsas.
 
-Conviene tener presente lo siguiente:
+Algunas cuestiones sobre la venta de entradas de K-pop en general:
 
-- **Las ofertas de reventa en grupos de fans** son donde la mayoría pierde dinero. Un comprador no puede distinguir una entrada electrónica auténtica de un código QR reutilizado.
-- **El nombre que aparece en la entrada** puede tener que coincidir con su documento de identidad en el acceso. Lea las condiciones de su propio pedido.
-- **Los planos de asientos** del pabellón están en la página oficial. La experiencia en la pista y en las gradas es totalmente distinta, así que elija teniéndolo en cuenta.
+- **Las ofertas de reventa en grupos de fans** son donde más gente pierde dinero. Un comprador no tiene forma de distinguir una entrada electrónica auténtica de un código QR reutilizado.
+- **El nombre que aparece en la entrada** a menudo debe coincidir con el documento de identidad del titular en el acceso, según las condiciones de la compra.
+- **Las localidades del pabellón** se dividen entre la pista y las gradas escalonadas, y la experiencia en una y otra zona es completamente distinta.
 
-## Normas de convivencia a la malasia
+## Normas de pabellón al estilo malasio
 
-El público malasio de K-pop es ruidoso, organizado y generoso. Antes de los grandes conciertos, los fans suelen repartir regalos cerca del recinto: tarjetas con fotos, pegatinas, aperitivos y pancartas hechas a mano. Aceptar uno no tiene nada de malo; lo que se espera a cambio es una sonrisa y las gracias.
+El público malasio de K-pop es ruidoso, organizado y generoso. Antes de los grandes conciertos, es frecuente que los fans repartan regalos cerca del recinto: photocards, pegatinas, aperitivos y pancartas hechas por ellos mismos. Aceptarlos no supone ningún problema, y lo habitual es responder con una sonrisa y un agradecimiento.
 
-Para integrarse esa noche:
+Así se integran los fans en una noche de concierto:
 
-- **Lleve el bastón de luz oficial** si tiene uno. Las MONSTIEZ (así se llama el club de fans) llenan el pabellón con ellos, y la aplicación oficial puede sincronizarlos con el espectáculo.
-- **Apréndase los cánticos de fans** de sus canciones favoritas. Se corean en momentos fijos, y seguirlos es buena parte de la diversión.
-- **Pague con tarjeta o monedero electrónico.** Touch 'n Go eWallet se usa en todo KL, pero lleve algo de efectivo para los puestos pequeños del exterior.
-- **Consulte las normas sobre bolsos y cámaras** en la página oficial del evento. Los objetos prohibidos se retiran en la entrada y no se devuelven.
-- **Respete las costumbres de vestimenta de la ciudad.** KL es una ciudad relajada, pero una prenda ligera de abrigo para el LRT y el pabellón climatizado hará la noche más cómoda.
+- **El lightstick oficial** es lo más importante. Los MONSTIEZ (así se llama el fandom) llenan los pabellones con él, y la aplicación oficial permite sincronizarlo con el espectáculo.
+- **Los fanchants** se corean en momentos concretos de cada canción, y seguirlos forma parte de la diversión.
+- **La tarjeta y los monederos electrónicos** se aceptan casi en todas partes. Touch 'n Go eWallet se usa en todo KL, aunque los pequeños puestos del exterior suelen cobrar en efectivo.
+- **Las normas sobre bolsos y cámaras** en pabellones como este son estrictas. Los objetos prohibidos se retiran en la entrada y no se devuelven.
+- **La forma de vestir en la ciudad** es informal, y una prenda ligera hace más cómodos tanto el LRT como el pabellón climatizado.
 
-## Aproveche el fin de semana
+## Un fin de semana completo
 
-El 14 de noviembre de 2026 cae en sábado, así que una escapada de fin de semana tiene todo el sentido. Noviembre coincide con la temporada más lluviosa de KL, y las tormentas repentinas por la tarde son frecuentes. Un paraguas plegable o un chubasquero en la bolsa le resultarán muy útiles en el camino desde la estación.
+El 14 de noviembre de 2026 caía en sábado, de modo que el concierto se prestaba a una escapada de fin de semana. Noviembre coincide con la temporada más lluviosa de KL, y las tormentas repentinas por la tarde son frecuentes. En el camino desde la estación, un paraguas plegable o un chubasquero resultan muy útiles.
 
-Para el domingo, las Torres Gemelas Petronas y el parque KLCC quedan a un trayecto sencillo de vuelta por la línea. En Bukit Bintang, al caer la noche, espera la comida callejera de Jalan Alor, y las cuevas de Batu (Batu Caves) son una buena excursión matinal en el KTM Komuter desde KL Sentral. El día del concierto, las colas para comprar productos oficiales suelen ser largas; si se venden en el pabellón, llegar pronto le dará más donde elegir.
+Para el domingo, las Torres Petronas y el parque KLCC quedan a un cómodo trayecto de vuelta por la misma línea. Al caer la noche, Bukit Bintang ofrece la comida callejera de Jalan Alor, y las Cuevas de Batu son una buena excursión matinal en el KTM Komuter desde KL Sentral. En los conciertos de pabellón, las colas para el merchandising suelen ser largas, y la mayor variedad se agota normalmente en las primeras horas de venta.
