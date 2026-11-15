@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dresden-kunsthofpassage-dresden
-srcHash: '0fc75f773f55'
+srcHash: '5b80e61e2183'
 title: 'Kunsthofpassage: guía de viaje de Dresde (4.6★)'
 description: En la Äußere Neustadt de Dresde, entre Görlitzer Straße y Alaunstraße, la Kunsthofpassage encadena cinco patios temáticos diseñados por artistas. Tiene una valoración de 4.6★ (7,781 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la Äußere Neustadt de Dresde, entre Görlitzer Straße y Alaunstraße, se suceden los cinco patios temáticos de la Kunsthofpassage, todos ellos diseñados por artistas. Recorrerlos no cuesta nada y las puertas permanecen abiertas desde primera hora de la mañana hasta bien entrada la noche. Entre semana, el mejor momento para encontrarlos tranquilos va de las 7am a las 10am. El fin de semana conviene evitar la franja de 12pm–11pm y llegar justo cuando abren, a las 8am.
@@ -64,7 +64,7 @@ Estos edificios están habitados. Encima de las paredes pintadas hay pisos corri
 - **Lleve algo de efectivo.** En Alemania se sigue usando más de lo que el visitante suele imaginar, y es posible que algún café o taller pequeño no acepte todas las tarjetas. Si le importa, pregunte antes de pedir.
 - **Salude con un «Guten Tag»** al entrar en una tienda y despídase con un «Tschüss» al salir. En Alemania es una cortesía habitual, no un gesto opcional.
 
-La Kunsthofpassage figura entre los lugares más visitados de Dresde, así que no espere un rincón secreto. Compartirá un espacio reducido con mucha gente, y la visita funciona mejor cuando todos recuerdan que arriba vive alguien.
+La Kunsthofpassage figura entre los lugares más visitados de Dresde, así que no espere tenerla para usted solo. Compartirá un espacio reducido con mucha gente, y la visita funciona mejor cuando todos recuerdan que arriba vive alguien.
 
 ## A la vuelta de la esquina
 

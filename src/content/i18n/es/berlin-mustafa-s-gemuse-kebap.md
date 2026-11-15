@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-mustafa-s-gemuse-kebap
-srcHash: '866ad63a65e5'
+srcHash: '07bcd9865bfa'
 title: 'Mustafa''s Gemüse Kebap: dónde comer en Berlín (4.2★)'
 description: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Con 4.2★ (22,378 reseñas), aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
 quickAnswer: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Entre semana, la cola es más corta fuera de las horas punta del almuerzo y la cena; los fines de semana, de 11am a 1pm. Conviene evitar los sábados y domingos de 1pm a 11pm, cuando se forman las colas más largas. Tenga en cuenta, además, que los viernes no abre hasta las 2pm.
@@ -13,7 +13,7 @@ faq:
   - q: ¿Hay sitio para sentarse?
     a: No. Se trata de un pequeño quiosco con ventanilla, así que lo habitual es comer de pie por los alrededores o llevarse el kebab al Viktoriapark, a unos 15 minutos a pie.
   - q: ¿Hasta qué hora abre?
-    a: De lunes a miércoles cierra a las 11:30pm; jueves y domingos, algo más tarde, y viernes y sábados, a las 2:30am. Abre todos los días a las 11am, salvo los viernes, en que lo hace a las 2pm.
+    a: De lunes a miércoles cierra a las 11:30pm, y viernes y sábados, a las 2:30am; el horario de jueves y domingos figura en el propio quiosco, así que conviene comprobarlo allí. Abre todos los días a las 11am, salvo los viernes, en que lo hace a las 2pm.
   - q: ¿Qué más hay por la zona?
     a: En el mismo tramo de Mehringdamm se encuentra Curry 36, un conocido puesto de currywurst. El Bergmannkiez, el mercado Marheineke Markthalle y el Viktoriapark quedan a poca distancia a pie.
 ---
@@ -22,7 +22,7 @@ faq:
 
 Antes que el local, lo primero que verá es la fila. Mustafa's Gemüse Kebap es un pequeño quiosco instalado en la acera de Mehringdamm, una de las principales arterias de Kreuzberg. No tiene comedor en el que entrar: se pide en una ventanilla, se recoge el kebab y se come de pie o por el camino.
 
-Figura entre los puestos de kebab con más reseñas de Berlín, y las valoraciones son muy buenas pese al enorme volumen de visitas. Esa fama condiciona toda la experiencia. No espere un hallazgo tranquilo y desconocido, sino una cola bien organizada en la que viajeros, estudiantes y vecinos de Kreuzberg aguardan para comer exactamente lo mismo.
+Figura entre los puestos de kebab con más reseñas de Berlín, y las valoraciones son muy buenas a lo largo de un gran número de visitas. Esa fama condiciona toda la experiencia. No espere un hallazgo tranquilo y desconocido, sino una cola bien organizada en la que viajeros, estudiantes y vecinos de Kreuzberg aguardan para comer exactamente lo mismo.
 
 ## Qué lleva dentro el pan
 
@@ -52,7 +52,7 @@ Tenga servilletas a mano y no se ponga su mejor camisa, porque con tanta verdura
 
 ## Un horario que se alarga hasta la madrugada
 
-El quiosco está pensado para el hambre nocturna y su horario se prolonga hasta muy tarde. De lunes a miércoles abre de 11am a 11:30pm. Los jueves y domingos permanece abierto hasta algo más tarde.
+El quiosco está pensado para el hambre nocturna y su horario se prolonga hasta muy tarde. De lunes a miércoles abre de 11am a 11:30pm. El horario de los jueves y domingos figura en el propio quiosco, así que compruébelo antes de organizar su visita en función de él.
 
 El viernes es la excepción: el quiosco no abre a las 11am, sino a las **2pm**, por lo que no sirve para almorzar ese día, aunque permanece abierto hasta las 2:30am. El sábado es la jornada más larga, de 11am a 2:30am, lo que lo convierte en una parada cómoda al final de una noche de fiesta en Kreuzberg.
 

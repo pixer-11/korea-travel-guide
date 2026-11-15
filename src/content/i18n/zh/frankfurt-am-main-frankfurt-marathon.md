@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: frankfurt-am-main-frankfurt-marathon
-srcHash: '0dfbba5ba43a'
+srcHash: '1109c3e7b0e2'
 title: 法兰克福马拉松：日期、报名与场地（美因河畔法兰克福）
 description: 2026年法兰克福马拉松的日程为2026年10月25日。起终点设在法兰克福展览中心，终点就在节日大厅室内，这一点闻名遐迩。
 quickAnswer: 美因河畔法兰克福的法兰克福马拉松，日程为2026年10月25日。起终点位于法兰克福展览中心一带，赛道终点设在节日大厅（Festhalle）室内，这是它最出名的地方。比赛在公共街道上进行，沿途观赛免费。跑者名额通过官方报名渠道发售。

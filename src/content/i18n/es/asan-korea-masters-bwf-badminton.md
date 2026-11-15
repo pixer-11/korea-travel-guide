@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: asan-korea-masters-bwf-badminton
-srcHash: '1ec0c404b5a2'
+srcHash: '4eaf7f086c4f'
 title: 'Korea Masters (bádminton BWF): fechas, entradas y sede (Asan)'
 description: El Korea Masters de bádminton de la BWF es en noviembre de 2026 en Asan, provincia de Chungcheong del Sur, con sede en el Gimnasio Yi Sun-sin.
 quickAnswer: El Korea Masters de bádminton de la BWF es en noviembre de 2026 en Asan, provincia de Chungcheong del Sur, y su sede es el Gimnasio Yi Sun-sin (Yi Sun-sin Gymnasium). Las fechas exactas, los cuadros y los enlaces de venta de entradas figuran en el calendario del BWF World Tour y en la web de la federación organizadora. La mayoría de los visitantes llega a Asan en KTX o SRT hasta la estación de Cheonan-Asan, o bien en la Línea 1 del metro de Seúl hasta Onyangoncheon.
@@ -69,4 +69,4 @@ La Aldea Folclórica de Oeam se encuentra al pie del monte Seolhwasan. Sus casas
 
 En las gradas se mezclan jugadores de clubes locales, equipos escolares, aficionados llegados de otros países de Asia y entrenadores de visita. El bádminton es uno de los deportes recreativos más practicados en Corea, así que muchos espectadores interpretan una rotación de dobles tan bien como los comentaristas.
 
-Al tratarse de una ciudad compacta, organizar aquí un fin de semana resulta sencillo. Se puede dedicar la mañana a Hyeonchungsa, ver las semifinales por la tarde y relajarse por la noche en las aguas termales. Seguramente el almirante Yi nunca imaginó que un pabellón de bádminton llevaría su nombre, pero a la ciudad le sienta de maravilla.
+Al tratarse de una ciudad compacta, organizar aquí un fin de semana resulta sencillo. Se puede dedicar la mañana a Hyeonchungsa, ver las semifinales por la tarde y relajarse por la noche en las aguas termales. El almirante nunca imaginó que un pabellón de bádminton llevaría su nombre, pero a la ciudad le sienta de maravilla.

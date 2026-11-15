@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: banff-banff-park-museum-national-historic-site
-srcHash: 'f2f2343b52dd'
+srcHash: 'aa5c8918994f'
 title: 'Sitio Histórico Nacional Banff Park Museum: guía de viaje'
 description: En el 91 Banff Ave, en pleno centro de Banff, se alza el Sitio Histórico Nacional Banff Park Museum, al final de la calle principal que da al río y junto al puente del río Bow (Bow River Bridge). Tiene una valoración de 4.6★ (912 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el 91 Banff Ave, en pleno centro de Banff, se encuentra el Sitio Histórico Nacional Banff Park Museum. Está al final de la calle principal, del lado del río, junto al puente del río Bow (Bow River Bridge). Es un pequeño museo de historia natural donde, en un edificio de madera de 1903, se recorre en una hora la fauna disecada de las Rocosas. Actualmente abre de jueves a lunes de 9:30am–5pm y cierra martes y miércoles. Como Parks Canada modifica el horario a lo largo del año, conviene consultar antes la web oficial.
@@ -15,7 +15,7 @@ faq:
   - q: ¿Qué se ve realmente en su interior?
     a: Fauna disecada de las Rocosas, como osos, wapitis, borregos cimarrones, pequeños mamíferos y aves, expuesta en antiguas vitrinas de vidrio y madera. La mayoría de los ejemplares se recolectaron a principios del siglo XX. Se exhiben en una sala de abeto de Douglas de 1903 con una galería en la planta superior. No hay elementos interactivos.
   - q: ¿Qué hay cerca para completar la visita?
-    a: Puede cruzar el puente del río Bow hasta Cascade of Time Garden, recorrer el sendero del río Bow desde el propio puente o acercarse al Whyte Museum of the Canadian Rockies, en Bear Street. El Sitio Histórico Nacional Cave and Basin queda a unos 2km hacia el oeste.
+    a: Puede cruzar el puente del río Bow hasta Cascade Gardens, recorrer el sendero del río Bow desde el propio puente o acercarse al Whyte Museum of the Canadian Rockies, en Bear Street. El Sitio Histórico Nacional Cave and Basin queda a unos 2km hacia el oeste.
 ---
 
 ## Una pagoda de madera al final de Banff Avenue
@@ -72,7 +72,7 @@ Es posible que el Discovery Pass de Parks Canada incluya la entrada; si lo tiene
 
 ## El lado del río
 
-El museo es un buen punto de partida para conocer este extremo de Banff. Al otro lado del puente del río Bow se sube a **Cascade of Time Garden**, unos jardines escalonados al pie del edificio administrativo de Parks Canada desde los que se contempla en línea recta Banff Avenue con el monte Cascade al fondo.
+El museo es un buen punto de partida para conocer este extremo de Banff. Al otro lado del puente del río Bow se sube a **Cascade Gardens**, unos jardines escalonados al pie del edificio administrativo de Parks Canada desde los que se contempla en línea recta Banff Avenue con el monte Cascade al fondo.
 
 Justo debajo del puente, el **sendero del río Bow** bordea la orilla y ofrece un paseo fácil y llano en ambas direcciones. Junto al museo, **Central Park** cuenta con césped y bancos a orillas del río.
 

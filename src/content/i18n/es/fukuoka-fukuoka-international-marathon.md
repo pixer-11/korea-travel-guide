@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fukuoka-fukuoka-international-marathon
-srcHash: 'a16d6a4ae0f8'
+srcHash: 'd010e7be30bf'
 title: 'Maratón Internacional de Fukuoka: fechas, entradas y sede (Fukuoka)'
 description: El Maratón Internacional de Fukuoka se celebrará en Fukuoka el 6 de diciembre de 2026.
 quickAnswer: El Maratón Internacional de Fukuoka se celebrará en Fukuoka el 6 de diciembre de 2026. Al tratarse de una carrera masculina de élite con la etiqueta de oro de la IAAF, el público no necesita entrada para seguirla desde la calle. Su sede tradicional es el estadio de atletismo Heiwadai (Heiwadai Athletic Stadium), junto al parque Ohori, y el recorrido bordea la bahía de Hakata.
@@ -51,6 +51,6 @@ Lo habitual entre los vecinos es:
 - Animar a todos los corredores, japoneses o extranjeros, con un «ganbare!» («¡ánimo!») y seguir aplaudiendo mucho después de que hayan pasado los primeros.
 - Hablar en voz baja cerca de la salida y reservar el bullicio para la meta.
 - Llevarse la basura a casa, ya que en las calles de Fukuoka apenas hay papeleras públicas.
-- Cenar después en los yatai, los puestos de comida callejera de Nakasu y Tenjin, que abren al caer la tarde.
+- Visitar los yatai, los puestos de comida callejera de Nakasu y Tenjin, que abren al caer la tarde.
 
 En el metro, casi todo el mundo paga con tarjeta IC (sirven Hayakaken, Suica y otras), mientras que en los yatai se usa efectivo. En ningún punto del recorrido se acostumbra a dejar propina, pues no forma parte de la cultura japonesa.

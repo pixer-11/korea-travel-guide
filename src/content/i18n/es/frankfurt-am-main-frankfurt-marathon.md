@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-am-main-frankfurt-marathon
-srcHash: '0dfbba5ba43a'
+srcHash: '1109c3e7b0e2'
 title: 'Maratón de Fráncfort: fechas, inscripciones y sede (Fráncfort del Meno)'
 description: El Maratón de Fráncfort 2026 tenía como fecha el 25 de octubre de 2026. La salida y la llegada estaban en el recinto ferial de la Messe, con su célebre meta bajo techo en el interior de la Festhalle.
 quickAnswer: La fecha anunciada para el Maratón de Fráncfort, en Fráncfort del Meno (Frankfurt am Main), era el 25 de octubre de 2026. La salida y la llegada se situaban en torno al recinto ferial de la Messe, y la famosa meta bajo techo estaba dentro de la Festhalle. Como la carrera discurría por vías públicas, seguirla desde el recorrido no costaba nada. Los corredores se inscribían a través del registro oficial de la prueba.
@@ -20,7 +20,7 @@ faq:
 
 En la mayoría de los grandes maratones urbanos, la meta está en plena calle. En Fráncfort está bajo techo. Los últimos metros abandonan el asfalto y entran en la Festhalle, un pabellón de exposiciones de 1909 coronado por una cúpula, situado en el recinto de la Messe. Los corredores cruzan la línea de meta bajo los focos, rodeados por todas partes de un público apiñado.
 
-Muchos corredores internacionales eligen esta carrera precisamente por esa llegada. Fráncfort es el maratón urbano con más tradición de Alemania y el segundo del país en número de corredores que llegan a meta. La edición de 2026 tenía como fecha el **25 de octubre de 2026**. La prueba reúne a más de 20.000 participantes llegados de todo el mundo.
+Muchos corredores internacionales eligen esta carrera precisamente por esa llegada. Fráncfort es el maratón urbano con más tradición de Alemania y el segundo del país en número de corredores que llegan a meta. La edición de 2026 tiene como fecha el **25 de octubre de 2026**. La prueba reúne a más de 20.000 participantes llegados de todo el mundo.
 
 ## Una carrera que termina bajo techo
 
@@ -45,7 +45,7 @@ En años anteriores, la recogida de dorsales y la feria del corredor se celebrar
 
 ## La hora de más: la carrera coincidía con el cambio de hora
 
-La fecha de 2026 tenía una particularidad. El 25 de octubre de 2026 es el último domingo de octubre, la noche en que Europa central abandona el horario de verano y vuelve al horario estándar. A las 3:00, los relojes se retrasan hasta las 2:00.
+La fecha de 2026 tiene una particularidad. El 25 de octubre de 2026 es el último domingo de octubre, la noche en que Europa central abandona el horario de verano y vuelve al horario estándar. A las 3:00, los relojes se retrasan hasta las 2:00.
 
 Para los corredores, eso suponía un regalo: una hora más de sueño antes de una salida matinal. Pero también una trampa. Los teléfonos se actualizan solos; el despertador de la habitación del hotel o un reloj antiguo, quizá no.
 

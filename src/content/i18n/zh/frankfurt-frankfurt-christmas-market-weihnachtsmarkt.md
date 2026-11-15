@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: frankfurt-frankfurt-christmas-market-weihnachtsmarkt
-srcHash: '9248c3fc7395'
+srcHash: 'dcabd44c147a'
 title: 法兰克福圣诞市场（Weihnachtsmarkt）：日期、门票与场地全攻略
 description: 2026年法兰克福圣诞市场（Weihnachtsmarkt）将于11月23日至12月22日举办，场地分布在老城区（Altstadt）的六处广场：罗马广场、保罗广场、美因河畔、哈普特瓦赫、弗里德里希-施托尔策广场和罗斯市场广场。
 quickAnswer: 2026年法兰克福圣诞市场（Weihnachtsmarkt）的举办时间为11月23日至12月22日，场地分布在老城区（Altstadt）的六处广场：罗马广场（Römerberg）、保罗广场（Paulsplatz）、美因河畔（Mainkai）、哈普特瓦赫（Hauptwache）、弗里德里希-施托尔策广场（Friedrich-Stoltze-Platz）和罗斯市场广场（Roßmarkt）。市场免费开放，不设门票，直接走进去即可。从大教堂/罗马广场（Dom/Römer）地铁站出来，步行不远就能看到罗马广场上那棵26米高的圣诞树。

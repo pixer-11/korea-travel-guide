@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert
-srcHash: '5d44a5b7e867'
+srcHash: '00acbe9fa3a5'
 title: 'Lewis Capaldi y Zara Larsson en el concierto posterior a la carrera del GP de Abu Dabi: fechas, entradas y recinto (Abu Dabi)'
 description: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson ofrecen cada uno su propio concierto en el Etihad Park de la isla de Yas (Abu Dabi), dentro de la programación musical posterior a la carrera del Gran Premio de Abu Dabi.
 quickAnswer: El 3 de diciembre de 2026, Lewis Capaldi y Zara Larsson actúan por separado en el Etihad Park, situado en la isla de Yas (Yas Island), en Abu Dabi. Esa velada inaugura el ciclo de conciertos posteriores a la carrera del Gran Premio de Abu Dabi 2026. El acceso a estos conciertos se vende a través del sistema de venta de entradas del Gran Premio, que gestiona el Yas Marina Circuit.
@@ -34,7 +34,7 @@ A Capaldi también se le conoce por las charlas secas y burlonas consigo mismo c
 
 ## Etihad Park, la explanada junto al circuito
 
-El Etihad Park es el gran recinto de conciertos al aire libre de la isla de Yas. Hasta su cambio de nombre en 2019 se llamaba du Arena. Se trata de un amplio espacio descubierto contiguo al Yas Marina Circuit, y esa ubicación explica que acoja cada año los conciertos del Gran Premio. Desde las carreteras de alrededor se divisan los focos del circuito y el hotel W Abu Dhabi Yas Island, construido sobre la pista.
+El Etihad Park es el gran recinto de conciertos al aire libre de la isla de Yas. Se trata de un amplio espacio descubierto contiguo al Yas Marina Circuit, y esa ubicación explica que acoja cada año los conciertos del Gran Premio. Desde las carreteras de alrededor se divisan los focos del circuito y el hotel W Abu Dhabi Yas Island, construido sobre la pista.
 
 Al tratarse de un recinto descubierto, conviene pensar en la comodidad. A principios de diciembre, las noches de Abu Dabi suelen ser templadas y más frescas que las cálidas tardes. La mayoría de los asistentes se limita a llevar capas ligeras. Casi todo el espacio es una zona abierta para estar de pie, y los puestos de comida y bebida se reparten por el perímetro.
 

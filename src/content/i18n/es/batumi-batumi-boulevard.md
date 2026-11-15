@@ -1,13 +1,13 @@
 ---
 lang: es
 slug: batumi-batumi-boulevard
-srcHash: 'c21de90b0261'
+srcHash: '59eb96a96d79'
 title: 'Bulevar de Batumi: guía de viaje (4.8★)'
 description: El Bulevar de Batumi es el largo parque que bordea la orilla del mar Negro en Batumi. Con una valoración de 4.8★ (15,643 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
-quickAnswer: El Bulevar de Batumi es el largo parque que bordea la orilla del mar Negro en Batumi. Arranca en el casco antiguo, cerca de la calle Nikoloz Baratashvili, y se prolonga más allá de la Torre del Alfabeto y de la escultura de Alí y Nino. Las horas más tranquilas suelen ser de 7am a 9am entre semana y de 7am a 10am los fines de semana. Conviene evitar las tardes y noches del fin de semana, de 12pm a 11pm, porque es cuando los paseos se llenan por completo.
+quickAnswer: El Bulevar de Batumi es el largo parque que bordea la orilla del mar Negro en Batumi. Arranca en el casco antiguo, cerca de la calle Nikoloz Baratashvili, y se prolonga más allá de la Torre del Alfabeto y de la escultura de Alí y Nino. Las horas más tranquilas suelen ser de 7am a 9am entre semana y de 7am a 10am los fines de semana. Conviene evitar las horas centrales del día durante el fin de semana, porque es cuando los paseos se llenan por completo.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Bulevar de Batumi?
-    a: Las horas más tranquilas suelen ser de 7am a 9am entre semana y de 7am a 10am los fines de semana. Evite los fines de semana entre las 12pm y las 11pm, cuando normalmente registra la mayor afluencia.
+    a: Las horas más tranquilas suelen ser de 7am a 9am entre semana y de 7am a 10am los fines de semana. Evite las horas centrales del día durante el fin de semana, cuando normalmente registra la mayor afluencia.
   - q: ¿El Bulevar de Batumi está abierto por la noche?
     a: Según Google, el parque está abierto actualmente las 24 horas. Las cafeterías y los bares del recorrido tienen sus propios horarios, así que conviene consultarlos aparte. La zona del puerto, donde se encuentran la escultura de Alí y Nino y la Torre del Alfabeto, está iluminada de noche.
   - q: ¿Cuánto se tarda en recorrer a pie el Bulevar de Batumi?
@@ -56,7 +56,7 @@ La temporada de baño va aproximadamente de junio a septiembre, cuando el agua a
 
 ## Cómo esquivar la marea del fin de semana
 
-Aquí nada importa tanto como elegir bien la hora. Los momentos más tranquilos son de 7am a 9am entre semana y de 7am a 10am los fines de semana. A esas horas compartirá los caminos casi únicamente con corredores, personas que pasean al perro y los equipos de limpieza. Procure no llegar entre las 12pm y las 11pm de un fin de semana: durante esa larga franja el paseo marítimo está abarrotado.
+Aquí nada importa tanto como elegir bien la hora. Los momentos más tranquilos son de 7am a 9am entre semana y de 7am a 10am los fines de semana. A esas horas compartirá los caminos casi únicamente con corredores, personas que pasean al perro y los equipos de limpieza. Procure evitar las horas centrales del día durante el fin de semana, cuando el paseo marítimo está abarrotado.
 
 Algunas costumbres le facilitarán la visita:
 

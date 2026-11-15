@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: batumi-splin-batumi
-srcHash: '94aac6e20a67'
+srcHash: '657ab463b57c'
 title: 'Splin en Batumi: fechas, entradas y recinto (Batumi)'
 description: Splin Batumi es el concierto que el grupo de rock ruso Splin ofrece en el Circus Arena de Batumi (Georgia) el 30 de noviembre de 2026.
 quickAnswer: Splin Batumi es el concierto que el grupo de rock ruso Splin ofrece en el Circus Arena de Batumi (Georgia) el 30 de noviembre de 2026. Las entradas y la distribución de asientos las publica el promotor del concierto. La mayoría de los seguidores que llegan de fuera se alojan junto al paseo marítimo o en el casco antiguo de Batumi y van al recinto en taxi.
@@ -22,7 +22,7 @@ faq:
 
 La fecha de Splin en el Circus Arena de Batumi es el 30 de noviembre de 2026. Para entonces, el gentío del verano ya se ha marchado de la costa del mar Negro. El bulevar está tranquilo, casi todos los cafés de playa han cerrado por temporada y la ciudad vuelve a ser de quienes viven en ella.
 
-En una noche así, un concierto de rock es de lo más destacado que ocurre en la ciudad. El público es sobre todo rusohablante: georgianos que crecieron escuchando los discos del grupo, personas que se han instalado en Batumi en los últimos años y seguidores que vienen desde Tiflis o desde más lejos.
+En una noche así, un concierto de rock es de lo más destacado que ocurre en la ciudad. El público es una mezcla de idiomas y procedencias: georgianos que crecieron escuchando los discos del grupo, personas que se han instalado en Batumi en los últimos años y seguidores que vienen desde Tiflis o desde más lejos.
 
 ## El grupo sobre el escenario
 

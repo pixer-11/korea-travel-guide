@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-blackcaps-v-india-test-match
-srcHash: '758217b629a9'
+srcHash: 'e876ebb600cf'
 title: 'BLACKCAPS contra India, partido Test en Christchurch: fechas, entradas y sede'
 description: Las fechas del partido Test entre los BLACKCAPS e India en Christchurch son del viernes 27 de noviembre al martes 1 de diciembre de 2026.
 quickAnswer: Las fechas del partido Test entre los BLACKCAPS e India en Christchurch son del viernes 27 de noviembre al martes 1 de diciembre de 2026. En Christchurch, los Test se juegan en Hagley Oval. Este óvalo está rodeado de taludes de césped y se encuentra dentro de Hagley Park, en el límite occidental del centro de la ciudad. En su web oficial, New Zealand Cricket publica la información sobre la sede, los horarios de cada sesión y los enlaces para comprar entradas.
@@ -35,7 +35,7 @@ Desde que acogió su primer Test en 2014, el campo se ha ganado muy pronto un lu
 - En él se disputó el partido inaugural de la Copa del Mundo de Críquet de 2015.
 - Brendon McCullum consiguió aquí el centenar de carreras más rápido de la historia de los Test, en 54 lanzamientos, frente a Australia en 2016.
 - Fue la sede de la final de la Copa del Mundo de Críquet Femenino de 2022.
-- En 2020, Nueva Zelanda derrotó aquí a India por siete wickets.
+- Nueva Zelanda también ha derrotado a India en un Test en este campo.
 
 Esta última victoria es la que más recuerdan los aficionados locales. Las pistas de Hagley tienen fama de favorecer a los lanzadores que buscan el movimiento de la costura, sobre todo en los primeros días de cada partido, y a los bateadores indios les ha costado asentarse en este campo.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-bless-restaurant
-srcHash: '7cb90bd569e5'
+srcHash: 'a1172fda12aa'
 title: 'BLESS Restaurant: dónde comer en Berlín (4.8★)'
 description: Muy bien valorado, el restaurante asiático BLESS Restaurant se encuentra en la plaza Hausvogteiplatz, en Berlín-Mitte, a pocos pasos de la estación de Hausvogteiplatz (U2) y a un breve paseo del Gendarmenmarkt.
 quickAnswer: Muy bien valorado, el restaurante asiático BLESS Restaurant se encuentra en la plaza Hausvogteiplatz, en Berlín-Mitte, a pocos pasos de la estación de Hausvogteiplatz (U2) y a un breve paseo del Gendarmenmarkt. Entre semana, la franja más tranquila va de 3pm a 5pm. Los fines de semana conviene evitar el horario de 7pm a 10pm, que es el de mayor afluencia, y reservar con antelación si se desea cenar.
@@ -22,7 +22,7 @@ faq:
 
 Escondida detrás del Gendarmenmarkt, la Hausvogteiplatz es una plaza pequeña de trazado anguloso. En el número 10, rodeado por las sólidas fachadas de piedra del centro histórico de Berlín-Mitte, se encuentra BLESS Restaurant. Mientras la mayoría de las cocinas de la zona cierran mucho antes de que acabe la noche, aquí se sirve hasta medianoche todos los días de la semana.
 
-Ese cierre tardío es el primer dato práctico que conviene tener en cuenta. Gracias a él, BLESS resulta una opción segura después de un concierto en el Konzerthaus, de una larga jornada en la Isla de los Museos (Museumsinsel) o de un vuelo que aterriza tarde. Se trata de un restaurante asiático que mantiene valoraciones excelentes en un volumen de reseñas amplio y constante. Sus precios tiran a elevados, así que es más un lugar para cenar con calma que para comer algo rápido.
+Ese cierre tardío es el primer dato práctico que conviene tener en cuenta. Gracias a él, BLESS resulta una opción segura después de un concierto en el Konzerthaus, de una larga jornada en la Isla de los Museos (Museumsinsel) o de un vuelo que aterriza tarde. Se trata de un restaurante asiático que recibe de forma constante valoraciones excelentes de un gran número de clientes. Sus precios tiran a elevados, así que es más un lugar para cenar con calma que para comer algo rápido.
 
 ## Cómo llegar a la Hausvogteiplatz
 

@@ -1,11 +1,17 @@
+SKIP new city "Berlin" — weekly new-city cap (2/7d) reached
+SKIP new city "Florence" — weekly new-city cap (2/7d) reached
+SKIP new city "Kyoto" — weekly new-city cap (2/7d) reached
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "Montreal" — weekly new-city cap (2/7d) reached
+SKIP new city "Niagara Falls" — weekly new-city cap (2/7d) reached
+SKIP new city "Okinawa" — weekly new-city cap (2/7d) reached
 SKIP new city "Phuket" — weekly new-city cap (2/7d) reached
 SKIP new city "Rome" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 SKIP new city "Taipei" — weekly new-city cap (2/7d) reached
+SKIP new city "Toronto" — weekly new-city cap (2/7d) reached
 SKIP new city "Ulaanbaatar" — weekly new-city cap (2/7d) reached
 SKIP new city "Washington DC" — weekly new-city cap (2/7d) reached
 SKIP new city "Xi'an" — weekly new-city cap (2/7d) reached

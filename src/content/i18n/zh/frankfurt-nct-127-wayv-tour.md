@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: frankfurt-nct-127-wayv-tour
-srcHash: '36016df840c6'
+srcHash: 'bec3882a7abb'
 title: NCT 127 & WayV 巡演法兰克福站：日期、门票与场馆
 description: NCT 127 & WayV 巡演德国法兰克福站的日程为2026年9月14日，正值周一晚上。门票与场馆信息由巡演主办方及其票务合作方负责发布。
 quickAnswer: NCT 127 & WayV 巡演德国法兰克福站的日程为2026年9月14日，正值周一晚上。门票与场馆信息由巡演主办方及其票务合作方负责发布。这一站的歌迷来自欧洲和亚洲各地，大多经法兰克福机场抵达。为了深夜散场后方便回程，他们多半住在中央火车站（Hauptbahnhof）或会展区（Messe）一带。

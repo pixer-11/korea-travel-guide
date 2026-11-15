@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dumaguete-dumaguete-runfest
-srcHash: 'c8c19946a7c2'
+srcHash: 'a33643d196ce'
 title: 'Dumaguete Runfest: fechas, inscripciones y sede (Dumaguete)'
 description: La Dumaguete Runfest es el domingo 13 de diciembre de 2026. Tiene su base en Robinsons Dumaguete, en Negros Oriental, y lleva a corredores de todos los niveles a las calles de la ciudad de Dumaguete.
 quickAnswer: La Dumaguete Runfest es el domingo 13 de diciembre de 2026. Tiene su base en Robinsons Dumaguete, en Negros Oriental, y lleva a corredores de todos los niveles a las calles de la ciudad de Dumaguete. La organización del evento gestiona la inscripción (el equivalente a la entrada en una carrera), las categorías y los horarios de salida. En esta guía no figuran cuotas ni horas de salida. Aquí encontrará información sobre la sede, sobre cómo llegar y sobre cómo suele transcurrir una mañana de carrera en Dumaguete.
@@ -34,7 +34,7 @@ El centro de operaciones del evento es Robinsons Dumaguete, el centro comercial 
 - **Punto de referencia:** no hay conductor de triciclo en la ciudad que no lo conozca, así que basta con decir «Robinsons».
 - **Para después:** cuando el centro abre sus puertas, ofrece zonas de restauración, un supermercado y aire acondicionado.
 
-La organización del evento se encarga de las categorías, las distancias, la inscripción y el recorrido. No aparecen en esta guía porque ninguno de esos datos figuraba en la información de la que disponíamos.
+La organización del evento se encarga de las categorías, las distancias, la inscripción y el recorrido. No aparecen en esta guía, ya que no pudimos confirmar esos datos.
 
 ## Cómo llegar a Dumaguete para el fin de semana
 

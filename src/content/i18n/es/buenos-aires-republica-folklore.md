@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-republica-folklore
-srcHash: 'f6dd02fd322b'
+srcHash: '95d3d2f32670'
 title: 'República Folklore: fechas, entradas y sede (Buenos Aires)'
 description: 'Las fechas de República Folklore 2026 son el 21 y el 22 de noviembre, en el Movistar Arena de Villa Crespo, Buenos Aires: dos jornadas de música folclórica argentina bajo techo.'
 quickAnswer: 'Las fechas de República Folklore 2026 son el 21 y el 22 de noviembre, con sede en el Movistar Arena de Villa Crespo, Buenos Aires: dos jornadas de música folclórica argentina bajo un mismo techo. La venta de entradas y el orden de actuaciones corren a cargo del organizador y de los canales oficiales del estadio. Desde la estación Dorrego de la línea B del Subte se llega caminando.'
@@ -26,7 +26,7 @@ Aquí suenan los timbres que definen el género. Retumba el golpe grave del *bom
 
 ## Movistar Arena, Villa Crespo
 
-La sede del festival es el Movistar Arena, sobre la calle Humboldt, en Villa Crespo. Inaugurado en 2019, se concibió desde el principio como un recinto cubierto para conciertos. Como está pegado al estadio del Club Atlético Atlanta, la manzana se reconoce con facilidad desde la avenida Corrientes.
+La sede del festival es el Movistar Arena, sobre la calle Humboldt, en Villa Crespo. Como está pegado al estadio del Club Atlético Atlanta, la manzana se reconoce con facilidad desde la avenida Corrientes.
 
 A finales de noviembre, el techo marca la diferencia. En Buenos Aires es plena primavera tardía, con días a menudo calurosos y alguna que otra tormenta, pero bajo cubierta la lluvia nunca obliga a suspender una actuación. Las gradas ascienden escalonadas alrededor del campo, de modo que incluso desde las filas más altas se domina el escenario.
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: buenos-aires-republica-folklore
-srcHash: 'f6dd02fd322b'
+srcHash: '95d3d2f32670'
 title: República Folklore民谣节：日期、门票与场地（布宜诺斯艾利斯）
 description: República Folklore民谣节的日程为2026年11月21日至22日，地点在布宜诺斯艾利斯Villa Crespo区的Movistar Arena。两天里，阿根廷民谣都在同一座室内场馆中上演。
 quickAnswer: República Folklore民谣节的日程为2026年11月21日至22日，地点在布宜诺斯艾利斯Villa Crespo区的Movistar Arena。两天里，阿根廷民谣都在同一座室内场馆中上演。门票和演出顺序由主办方及场馆自己的渠道发布。从地铁（Subte）B线多雷戈站（Dorrego）步行即可到达场馆。
@@ -26,7 +26,7 @@ faq:
 
 ## Villa Crespo区的Movistar Arena
 
-民谣节在Movistar Arena举办，场馆位于Villa Crespo区的洪堡街（Humboldt）。这座有顶的场馆于2019年启用，是专为演唱会建造的。它就在亚特兰大竞技俱乐部（Club Atlético Atlanta）的球场旁边，从科连特斯大道（Avenida Corrientes）上一眼就能认出这片街区。
+民谣节在Movistar Arena举办，场馆位于Villa Crespo区的洪堡街（Humboldt）。它就在亚特兰大竞技俱乐部（Club Atlético Atlanta）的球场旁边，从科连特斯大道（Avenida Corrientes）上一眼就能认出这片街区。
 
 11月下旬办在室内很有好处。这时布宜诺斯艾利斯正值晚春，天气常常很暖，偶尔也有暴雨。有了屋顶，演出就不会因下雨而取消。看台围绕场地中央层层升高，即便坐在最上排，也能俯瞰舞台。
 

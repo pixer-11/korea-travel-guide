@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-romerberg
-srcHash: 'c9b55ea8e72b'
+srcHash: '583376a58eae'
 title: 'Römerberg: guía de viaje de Fráncfort (4.6★)'
 description: 'El Römerberg, la plaza mayor adoquinada del casco antiguo (Altstadt) de Fráncfort, queda a pocos pasos de la estación de U-Bahn Dom/Römer (U4, U5). 4.6★ (31,610 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Römerberg es la plaza mayor adoquinada del casco antiguo (Altstadt) de Fráncfort y queda a pocos pasos de la estación de U-Bahn Dom/Römer (U4, U5). La rodean los hastiales escalonados del Römer, el ayuntamiento, y una hilera de casas de entramado de madera reconstruidas. La plaza está abierta a todas horas. Si quiere ver también la Alte Nikolaikirche, el Historisches Museum y el camino de la coronación hasta la catedral, calcule 1–2 horas. Para encontrar menos gente, venga a primera hora de la mañana o a última de la tarde.
@@ -80,4 +80,4 @@ El resto del año la plaza está más despejada, aunque sigue acogiendo festival
 
 Al marcharse, camine hacia el sur. Atravesando la zona del Saalhof llegará a la orilla del Meno y al **Eiserner Steg**, una pasarela de hierro de 1869. Desde el puente se ve la torre del Dom a la espalda y, al frente, la orilla de Sachsenhausen.
 
-En Sachsenhausen es donde Fráncfort bebe **Apfelwein**, la sidra local, que se sirve en una jarra de gres gris llamada Bembel. Pida **Grüne Soße**, una salsa fría de siete hierbas acompañada de huevos y patatas, o **Handkäs mit Musik**, un queso de leche agria marinado con cebolla. Así, el Römerberg se convierte en la primera parada de la velada y no en la velada entera.
+En Sachsenhausen es donde Fráncfort bebe **Apfelwein**, la sidra local, que se sirve en una jarra de gres gris llamada Bembel, acompañada de la cocina tradicional de la región en las tabernas cercanas. Así, el Römerberg se convierte en la primera parada de la velada y no en la velada entera.

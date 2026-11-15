@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-robbie-williams-britpop-world-tour-christchurch
-srcHash: '9bfd84e42ec0'
+srcHash: 'db4f51a01322'
 title: 'Robbie Williams BRITPOP World Tour en Christchurch: fechas, entradas y recinto'
 description: El sábado 28 de noviembre de 2026, Robbie Williams lleva la gira BRITPOP World Tour a Christchurch. Actúa en el One New Zealand Stadium (Te Kaha), el nuevo estadio cubierto del centro de la ciudad.
 quickAnswer: El sábado 28 de noviembre de 2026, Robbie Williams lleva la gira BRITPOP World Tour a Christchurch. Actúa en el One New Zealand Stadium (Te Kaha), el nuevo estadio cubierto del centro de la ciudad. Es el primer concierto de un artista internacional en este estadio. Como queda cerca de la mayoría de los hoteles céntricos de Christchurch, muchos asistentes llegan a pie.
@@ -65,7 +65,7 @@ El aeropuerto de Christchurch está a unos 20 o 25 minutos en coche al noroeste 
 
 ## Un sábado de final de primavera en Ōtautahi
 
-A finales de noviembre la primavera toca a su fin en esta parte del mundo, y las tardes son largas. Como el sol se pone bien pasadas las 8 de la tarde, el trayecto de ida se hace con luz natural. Aun así, conviene llevar una chaqueta ligera para la vuelta, porque las noches de la Isla Sur refrescan enseguida.
+A finales de noviembre la primavera toca a su fin en esta parte del mundo, y las tardes son largas, así que el trayecto de ida se hace con luz natural. Aun así, conviene llevar una chaqueta ligera para la vuelta, porque las noches de la Isla Sur refrescan enseguida.
 
 Muchos asistentes aprovechan para pasar el día en la ciudad. Cerca del estadio hay varias opciones:
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bath-royal-victoria-park
-srcHash: '9d12eef8372c'
+srcHash: 'c4f5c4b34d98'
 title: 'Royal Victoria Park: guía de viaje de Bath (4.6★)'
 description: 'En Marlborough Lane, justo debajo del Royal Crescent, se extiende el Royal Victoria Park, un gran parque victoriano de Bath con amplias praderas, jardín botánico, skate park, zonas infantiles, estanque de barcas y pistas de tenis. 4.6★ (8,534 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Justo debajo del Royal Crescent, en Marlborough Lane, se encuentra el Royal Victoria Park, un gran parque victoriano de Bath. Cuenta con amplias praderas, jardín botánico, skate park, zonas infantiles, estanque de barcas y pistas de tenis. Según Google, ahora mismo abre las 24 horas. Los fines de semana, la mayor afluencia se concentra entre las 10am y las 7pm. Si busca un paseo tranquilo, vaya un sábado o un domingo entre las 7am y las 8am.
@@ -46,7 +46,7 @@ Tanto el Circus como el Royal Crescent quedan a pocos minutos a pie, y muchos vi
 
 Según Google, el parque abre actualmente las 24 horas, todos los días de la semana. Las instalaciones interiores, como los Botanical Gardens, el estanque de barcas o las pistas, siguen sus propios horarios de temporada, así que consulte la web del ayuntamiento para conocer los de este mes.
 
-Los fines de semana hay mucha gente. Procure no llegar un sábado o un domingo entre las 10am y las 7pm: a esas horas las mantas de picnic cubren el césped bajo el Crescent y se forman colas en la zona infantil. El momento más tranquilo del fin de semana va de 7am a 8am, cuando los senderos son casi exclusivamente de quienes pasean al perro o salen a correr. Entre semana, la calma llega tarde, de 10pm a 11pm.
+Los fines de semana hay mucha gente. Cuente con que las praderas estén en su momento de mayor afluencia durante las horas centrales del día los sábados y domingos, cuando las mantas de picnic cubren el césped bajo el Crescent y se forman colas en la zona infantil. El momento más tranquilo del fin de semana va de 7am a 8am, cuando los senderos son casi exclusivamente de quienes pasean al perro o salen a correr. Entre semana, la calma llega tarde, de 10pm a 11pm.
 
 Algunas costumbres que vale la pena imitar:
 

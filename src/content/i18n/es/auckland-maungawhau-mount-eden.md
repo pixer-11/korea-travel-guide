@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-maungawhau-mount-eden
-srcHash: 'b9914ee5196c'
+srcHash: 'ff624a7cdf65'
 title: 'Maungawhau: guía de viaje de Auckland (4.7★)'
 description: 'En el barrio aucklandés de Mount Eden se alza Maungawhau / Mount Eden, un cono volcánico al que se sube en poco tiempo desde Mount Eden Road para asomarse a un profundo cráter cubierto de hierba y contemplar ambas bahías en una panorámica de 360 grados. 4.7★ (8,447 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Maungawhau / Mount Eden es el cono volcánico del barrio de Mount Eden, en Auckland. Desde Mount Eden Road, una breve subida conduce hasta un hondo cráter tapizado de hierba y a una vista de 360 grados sobre las dos bahías. Como los coches particulares ya no pueden llegar a la cima, hay que subir a pie. Calcule entre 1 y 2 horas y consulte antes el horario vigente de apertura: esta semana el acceso abre a las 7am y cierra a las 8:30pm, pero el horario varía a lo largo del año.'
@@ -22,7 +22,7 @@ A mitad de camino, el barrio empieza a quedar a sus pies. Atrás van quedando lo
 
 ## Un cráter para contemplar, nunca para pisar
 
-Con unos 196 metros de altura, Maungawhau es el punto natural más elevado del istmo de Auckland, y aun así se sube a pie desde una calle residencial. Nació de una erupción ocurrida hace unos 28,000 años. Su nombre significa «montaña del árbol whau».
+Con unos 196 metros de altura, Maungawhau es el punto natural más elevado del istmo de Auckland, y aun así se sube a pie desde una calle residencial. Nació de una erupción volcánica ocurrida hace miles de años. Su nombre significa «montaña del árbol whau».
 
 Lo que atrae a la gente es el cráter de la cima. Este suave cono de hierba de unos 50 metros de profundidad recibe el nombre de Te Ipu-a-Mataaho, el cuenco de Mataaho, guardián de los secretos que esconde la tierra. Por tratarse de un lugar tapu, es decir, sagrado, solo se contempla desde el borde y no se baja a su interior.
 

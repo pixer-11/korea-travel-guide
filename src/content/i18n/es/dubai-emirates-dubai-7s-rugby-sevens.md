@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-emirates-dubai-7s-rugby-sevens
-srcHash: '9e2012f653c1'
+srcHash: '3ba5cdbe1e3a'
 title: 'Emirates Dubai 7s (rugby a siete): fechas, entradas y sede (Dubái)'
 description: Del 27 al 29 de noviembre de 2026, The Sevens Stadium de Dubái acoge el Emirates Dubai 7s (rugby a siete). Las fechas y la venta de entradas se gestionan en la web oficial del organizador.
 quickAnswer: Del 27 al 29 de noviembre de 2026, The Sevens Stadium de Dubái acoge el Emirates Dubai 7s (rugby a siete). Las fechas y la venta de entradas se gestionan en la web oficial del organizador. El recinto está junto a la carretera de Al Ain (Al Ain Road, E66), en el límite de la ciudad con el desierto. Como no llega el metro, casi todos los aficionados acuden en taxi, en vehículos de plataformas de transporte o en autocar.
@@ -20,7 +20,7 @@ faq:
 
 ## Tres días junto a la carretera de Al Ain
 
-La edición de 2026 se celebra del 27 al 29 de noviembre y vuelve a The Sevens Stadium, un complejo construido expresamente para el rugby junto a la carretera de Al Ain (Al Ain Road, E66), en la franja desértica del interior de Dubái. La ciudad organiza un torneo de rugby a siete desde 1970, y el evento se trasladó a este emplazamiento en 2008.
+La edición de 2026 se celebra del 27 al 29 de noviembre y vuelve a The Sevens Stadium, un complejo construido expresamente para el rugby junto a la carretera de Al Ain (Al Ain Road, E66), en la franja desértica del interior de Dubái. La ciudad organiza un torneo de rugby a siete desde hace décadas, y el evento se trasladó a este emplazamiento en 2008.
 
 En el estadio principal se juegan los partidos internacionales; tradicionalmente, Dubái ha albergado una de las etapas de las World Rugby Sevens Series. Al mismo tiempo, en los campos de césped que lo rodean, equipos de clubes, colegios e invitados disputan sus propios torneos. Basta un paseo de pocos minutos para pasar del rugby de élite a los partidos aficionados.
 

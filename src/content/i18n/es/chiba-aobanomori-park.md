@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiba-aobanomori-park
-srcHash: '61a7ecdbbc23'
+srcHash: 'db1c4b4f41d1'
 title: 'Parque Aobanomori: Guía de viaje de Chiba (4,1★)'
 description: 'El parque Aobanomori, en el distrito de Chuo, Chiba, es un gran parque público con una identidad dividida en dos: por un lado, un jardín formal de estilo occidental con rosas y flores; por otro, un jardín japonés con estanques y senderos para pasear, además de un museo de historia natural en su interior. 4,1★ (2.758 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El parque Aobanomori, en el distrito de Chuo, Chiba, es un gran parque público con una identidad dividida en dos: por un lado, un jardín formal de estilo occidental con rosas y flores; por otro, un jardín japonés con estanques y senderos para pasear, además de un museo de historia natural en su interior. Permanece abierto las veinticuatro horas, alcanza su mayor afluencia los fines de semana de 9:00 a 18:00 y es más tranquilo bien entrada la noche (de 21:00 a 23:00 entre semana, de 22:00 a 23:00 los fines de semana). La mejor época para visitarlo va de finales de marzo a principios de abril, cuando florecen los cerezos, o en febrero, para ver los ciruelos en flor.'
@@ -30,7 +30,7 @@ Para disfrutar de la floración sin las aglomeraciones, conviene ir una mañana 
 
 ## Museo de Historia Natural del parque Aobanomori
 
-El museo de historia natural, con un estilo similar al del Chiba City Kagaku-kan, se encuentra dentro del propio parque y es fácil pasarlo por alto si solo se va por los jardines, pero completa muy bien la visita, sobre todo con niños. No hay que esperar una gran sala de dinosaurios, sino exhibiciones sobre la ecología local, la geología y la fauna de la región; se trata de un museo municipal a la escala del parque, no de un competidor de los grandes centros de ciencia de Tokio.
+El museo de historia natural se encuentra dentro del propio parque y es fácil pasarlo por alto si solo se va por los jardines, pero completa muy bien la visita, sobre todo con niños. No hay que esperar una gran sala de dinosaurios, sino exhibiciones sobre la ecología local, la geología y la fauna de la región; se trata de un museo municipal a la escala del parque, no de un competidor de los grandes centros de ciencia de Tokio.
 
 Conviene calcular entre treinta y cuarenta y cinco minutos si se combina con un paseo por los jardines, y más tiempo si la visita se centra específicamente en las exhibiciones. El horario y la posible entrada funcionan de manera independiente al resto del parque, así que es recomendable consultar el horario vigente del museo antes de ir; los terrenos del parque permanecen abiertos de forma continua, pero el museo no.
 

@@ -14,16 +14,16 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 131,
-   "hits": 27
+   "attempts": 136,
+   "hits": 28
   },
   "art gallery": {
-   "attempts": 93,
-   "hits": 16
+   "attempts": 98,
+   "hits": 19
   },
   "night view": {
-   "attempts": 82,
-   "hits": 13
+   "attempts": 90,
+   "hits": 18
   },
   "waterfront": {
    "attempts": 62,
@@ -46,11 +46,11 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 72,
+   "attempts": 75,
    "hits": 11
   },
   "seafood": {
-   "attempts": 95,
+   "attempts": 96,
    "hits": 4
   },
   "hidden gem": {
@@ -58,7 +58,7 @@
    "hits": 61
   },
   "breakfast": {
-   "attempts": 71,
+   "attempts": 72,
    "hits": 5
   },
   "trendy cafe": {
@@ -1396,7 +1396,11 @@
   "Jim Thompson House": {
    "attempts": 1,
    "hits": 1
+  },
+  "Valley of the Queens": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-11-14T07:45:32.631Z"
+ "updated": "2026-11-15T07:43:46.730Z"
 }

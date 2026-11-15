@@ -1,6 +1,6 @@
 ---
 title: 'Guitar BCN Festival 2026: Dates, Tickets & Venue (Barcelona)'
-description: Guitar BCN Festival 2026 brings its guitar-led concert programme to Barcelona in November 2026, and its headline date is Jorge Drexler at L'Auditori de Barcelona on Carrer de Lepant, near Plaça de les Glòries.
+description: Guitar BCN Festival 2026 was set for Barcelona in November 2026, with Jorge Drexler headlining at L'Auditori de Barcelona near Plaça de les Glòries.
 country: Spain
 region: Barcelona
 category: event
@@ -15,12 +15,12 @@ eventFactsAsked: true
 tags:
   - barcelona
   - event
-quickAnswer: Guitar BCN Festival 2026 brings its guitar-led concert programme to Barcelona in November 2026, and its headline date is Jorge Drexler at L'Auditori de Barcelona on Carrer de Lepant, near Plaça de les Glòries. Dates vary from show to show. The organiser publishes the dates and ticket links for each concert on the festival's official site. Marina (L1) and Monumental (L2) are the nearest metro stations to the hall.
+quickAnswer: Guitar BCN Festival 2026 was set for Barcelona in November 2026, and its headline date was Jorge Drexler at L'Auditori de Barcelona on Carrer de Lepant, near Plaça de les Glòries. Dates varied from show to show, and each concert had its own date and ticket. Marina (L1) and Monumental (L2) are the nearest metro stations to the hall.
 faq:
   - q: When does Guitar BCN Festival 2026 take place?
-    a: The 2026 edition takes place in November 2026, and each concert has its own date. The organiser publishes the full schedule and ticket links for every show on the official Guitar BCN site.
+    a: The 2026 edition was set for November 2026, and each concert had its own date. Tickets were sold separately for every show.
   - q: Where is Jorge Drexler playing at Guitar BCN 2026?
-    a: Jorge Drexler plays L'Auditori de Barcelona, at Carrer de Lepant 150 near Plaça de les Glòries. Large concerts there take place in the main hall, Sala Pau Casals, which seats around 2,200 people.
+    a: Jorge Drexler's concert was scheduled at L'Auditori de Barcelona, at Carrer de Lepant 150 near Plaça de les Glòries. Large concerts there use the main hall, Sala Pau Casals, which seats around 2,200 people.
   - q: How do I get to L'Auditori by public transport?
     a: Marina on metro line L1 is the closest station. Monumental (L2) and Glòries (L1) are also a short walk away, and the Trambesòs tram stops at Auditori–Teatre Nacional, right beside the building.
   - q: Is the concert seated or standing?
@@ -42,21 +42,21 @@ heroImage:
 
 Guitar BCN is a concert series, not a field with stages. It has run in Barcelona for many years, and its single organising idea is the guitar. That covers flamenco players, rock bands, singer-songwriters and acoustic soloists, usually spread across several city venues rather than one site.
 
-The 2026 edition takes place in November. There is no wristband and no festival ground. Every concert is a separate night in a real hall with its own ticket. You choose the artists you want and skip the rest.
+The 2026 edition was set for November. The format has no wristband and no festival ground. Every concert is a separate night in a real hall with its own ticket, so audiences pick the artists they want and skip the rest.
 
 ## Jorge Drexler at L'Auditori
 
-Jorge Drexler is among the names on this edition. The Uruguayan singer-songwriter won the Academy Award for Best Original Song for "Al otro lado del río", from *The Motorcycle Diaries*. He was the first Uruguayan to win an Oscar.
+Jorge Drexler was among the names announced for this edition. The Uruguayan singer-songwriter won the Academy Award for Best Original Song for "Al otro lado del río", from *The Motorcycle Diaries*. He was the first Uruguayan to win an Oscar.
 
 He has a long run of Latin Grammys too. His album *Tinta y tiempo* took Album of the Year, and "Tocarte", his duet with C. Tangana, reached well beyond his usual folk-leaning audience. He has lived in Madrid for years, so Spanish crowds treat him almost as a local.
 
-His songs are built on wordplay and a fingerpicked guitar. That suits a seated concert hall, where the room is quiet enough to hear a lyric land. Expect the audience to sing along to the choruses and go silent for the verses.
+His songs are built on wordplay and a fingerpicked guitar. That suits a seated concert hall, where the room is quiet enough to hear a lyric land. At his shows, audiences usually sing along to the choruses and go silent for the verses.
 
 ## Inside Moneo's concrete box
 
 L'Auditori de Barcelona was designed by the Spanish architect Rafael Moneo and opened in 1999. From the street it is a long, hard-edged block of concrete and steel on Carrer de Lepant. It looks severe, and that is deliberate: the effort went into the rooms inside.
 
-Large concerts are held in the main hall, Sala Pau Casals, named after the Catalan cellist. It seats around 2,200 people. The building also houses smaller halls and the Museu de la Música, Barcelona's music museum. Its collection includes a large number of historic guitars, which suits a guitar festival rather well.
+Large concerts use the main hall, Sala Pau Casals, named after the Catalan cellist. It seats around 2,200 people. The building also houses smaller halls and the Museu de la Música, Barcelona's music museum. Its collection includes a large number of historic guitars, which suits a guitar festival rather well.
 
 The foyers are wide and plain. They give a full house room to queue at the bar and the cloakroom without crushing.
 
@@ -65,17 +65,17 @@ The foyers are wide and plain. They give a full house room to queue at the bar a
 The hall sits where the Eixample grid meets Glòries, at Carrer de Lepant 150. The metro is the simplest way there:
 
 - **Marina (L1, red line):** the closest station, a short walk along Carrer de Lepant.
-- **Monumental (L2, purple line):** a few blocks away, useful if you are coming from Sagrada Família or Passeig de Gràcia.
-- **Glòries (L1):** works if you want a drink near the Torre Glòries before the show.
+- **Monumental (L2, purple line):** a few blocks away, handy from Sagrada Família or Passeig de Gràcia.
+- **Glòries (L1):** close to the bars around the Torre Glòries.
 - **Tram:** the Trambesòs lines stop at Auditori–Teatre Nacional, right beside the building.
 
-Sagrada Família is roughly a 15-minute walk north-west. Plenty of visitors combine an afternoon there with an evening concert. After the show the metro is the usual way home. Taxis also collect along the wide avenues around the hall.
+Sagrada Família is roughly a 15-minute walk north-west. Plenty of visitors combine an afternoon there with an evening concert. After a show the metro is the usual way home. Taxis also collect along the wide avenues around the hall.
 
 ## Seats, ushers and a late dinner
 
-L'Auditori works like a classical hall even for a pop or folk night. Tickets carry a numbered seat. Ushers show latecomers in, and they sometimes hold people at the door until a song ends. Most attendees reach the foyer well before the start, leave coats at the cloakroom and go straight to their row.
+L'Auditori works like a classical hall even for a pop or folk night. Tickets carry a numbered seat. Ushers show latecomers in, and they sometimes hold people at the door until a song ends. Most concertgoers reach the foyer well before the start, leave coats at the cloakroom and go straight to their row.
 
-A few habits make the night easier:
+A few local habits shape the night:
 
 - **Tickets:** most people show a QR code on their phone at the door. Some keep a printout as a backup.
 - **Paying:** card and contactless are normal at the bar and in local restaurants. Tipping is light in Spain. Rounding up or leaving a little change counts as generous.
@@ -97,6 +97,6 @@ In November the evenings are cool rather than cold, so the walk between Glòries
 
 ## Where the dates and tickets live
 
-Dates vary across the 2026 programme, and each concert has its own date and ticket. The organiser publishes the full schedule and ticket links on the official Guitar BCN site. L'Auditori lists the concerts it hosts in its own programme.
+Dates varied across the 2026 programme, and each concert had its own date and ticket. Tickets were sold per concert rather than as a festival pass. L'Auditori also carries the concerts it hosts in its own season programme.
 
-Seat maps for Sala Pau Casals appear at the point of purchase. Fans usually choose between the closer stalls and the raised side seats. Prices are shown on the ticketing page for each concert, not here.
+Seat maps for Sala Pau Casals appear at the point of purchase. Fans usually choose between the closer stalls and the raised side seats. Prices varied from concert to concert.

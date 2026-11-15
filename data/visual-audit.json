@@ -4913,6 +4913,12 @@
   "reason": "publish gate: Soviet War Memorial in Tiergarten park, Berlin",
   "at": "2026-10-05T07:51:19.781Z"
  },
+ "berlin-viktoria-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Viktoria_park%2C_berlin_august_2012_-_panoramio.jpg": {
+  "slug": "berlin-viktoria-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: View from Viktoria Park showing TV Tower and Berlin skyline",
+  "at": "2026-11-15T07:43:46.561Z"
+ },
  "berlin-young-posse-europe-tour-pilot3\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/YOUNG_POSSE_Seoul_Fashion_Week_September_2024.jpg": {
   "slug": "berlin-young-posse-europe-tour-pilot3",
   "verdict": "MATCH",
@@ -10152,6 +10158,12 @@
   "reason": "Classical busts displayed on shelves, museum interior",
   "reasonKo": "박물관 내부, 고전 흉상 전시",
   "at": "2026-08-05T14:59:42.428Z"
+ },
+ "florence-giotto-s-bell-tower\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Florence%2C_Italy%2C_Giotto%27s_Bell_Tower_under_the_rain.jpg": {
+  "slug": "florence-giotto-s-bell-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Giotto's Bell Tower top with Florence cityscape view",
+  "at": "2026-11-15T07:43:46.338Z"
  },
  "florence-loggia-del-mercato-nuovo\u0001https://fastly.4sqi.net/img/general/original/3426465_9n0WBiWqMDZ3TTqldbVNz8OZAu5IA1Sv_jXNZpLNg4A.jpg": {
   "slug": "florence-loggia-del-mercato-nuovo",
@@ -18999,6 +19011,12 @@
   "reason": "publish gate: Shows lake with mountains, representative view of attraction",
   "at": "2026-10-19T15:41:57.776Z"
  },
+ "kyoto-arashiyama\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arashiyama%2C_Part_II_-_Arashiyama7534.jpg/1920px-Arashiyama%2C_Part_II_-_Arashiyama7534.jpg": {
+  "slug": "kyoto-arashiyama",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Arashiyama bridge, river, and autumn foliage mountains",
+  "at": "2026-11-15T07:43:46.704Z"
+ },
  "kyoto-arashiyama-bamboo-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1920px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg": {
   "slug": "kyoto-arashiyama-bamboo-forest",
   "verdict": "MATCH",
@@ -19073,6 +19091,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Fountain in garden setting plausible for botanical gardens hero",
   "at": "2026-09-20T07:39:24.743Z"
+ },
+ "kyoto-kyoto-city-kyocera-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg/3840px-Crowds_at_Kyoto_City_Kyocera_Museum_of_Art.jpg": {
+  "slug": "kyoto-kyoto-city-kyocera-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum building and iconic torii gate nearby",
+  "at": "2026-11-15T07:43:46.445Z"
  },
  "kyoto-kyoto-gion-matsuri-festival-gallery\u0001https://fastly.4sqi.net/img/general/original/1398420694_RD6MNvhHKE8aiVWWr-wJTSVUO5MSAKt8bhVbX9QGAdc.jpg": {
   "slug": "kyoto-kyoto-gion-matsuri-festival-gallery",
@@ -21117,6 +21141,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Valley of the Kings landscape with tourist tram, representative view",
   "at": "2026-11-09T17:54:17.749Z"
+ },
+ "luxor-valley-of-the-queens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Valley_of_the_Queens_by_Zureks.jpg/1920px-Valley_of_the_Queens_by_Zureks.jpg": {
+  "slug": "luxor-valley-of-the-queens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Valley of the Queens desert terrain, Luxor",
+  "at": "2026-11-15T07:43:46.527Z"
  },
  "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": {
   "slug": "lyon-ayla",
@@ -25806,6 +25836,12 @@
   "reason": "publish gate: Iconic Burger King/Frankenstein building on Clifton Hill",
   "at": "2026-10-22T14:54:40.490Z"
  },
+ "niagara-falls-falls-view\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maid_of_the_Mist_VII_approaching_the_Horseshoe_Falls%2C_West_view_20170418_1.jpg/3840px-Maid_of_the_Mist_VII_approaching_the_Horseshoe_Falls%2C_West_view_20170418_1.jpg": {
+  "slug": "niagara-falls-falls-view",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Niagara Falls horseshoe view with boat and rainbow",
+  "at": "2026-11-15T07:43:46.599Z"
+ },
  "niagara-falls-flying-saucer-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/A_Flying_Saucer_Spotted_in_Niagara_Falls_-_panoramio.jpg": {
   "slug": "niagara-falls-flying-saucer-restaurant",
   "verdict": "MATCH",
@@ -26321,6 +26357,12 @@
   "reason": "Steakhouse/izakaya, not seafood restaurant",
   "at": "2026-07-25T02:47:22.913Z"
  },
+ "okinawa-depot-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Depot_Island_-_panoramio.jpg": {
+  "slug": "okinawa-depot-island",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shot of Depot Island building with signage",
+  "at": "2026-11-15T07:43:46.666Z"
+ },
  "okinawa-junkudo-naha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Junkudo_Naha_Okinawa_pref_Japan01s3.jpg/3840px-Junkudo_Naha_Okinawa_pref_Japan01s3.jpg": {
   "slug": "okinawa-junkudo-naha",
   "verdict": "MATCH",
@@ -26369,6 +26411,12 @@
   "verdict": "MISMATCH",
   "reason": "release check: Japanese vegetable tempura display, not Philippine street food",
   "at": "2026-08-11T04:13:41.336Z"
+ },
+ "okinawa-sakima-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sakima_Art_Museum03n3000.jpg/1920px-Sakima_Art_Museum03n3000.jpg": {
+  "slug": "okinawa-sakima-art-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of modern concrete museum building, plausible venue",
+  "at": "2026-11-15T07:43:46.401Z"
  },
  "okinawa-shuri-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naha_Okinawa_Japan_Shuri-Castle-01.jpg/1920px-Naha_Okinawa_Japan_Shuri-Castle-01.jpg": {
   "slug": "okinawa-shuri-castle",
@@ -37891,6 +37939,12 @@
   "reason": "event publish gate: Clown performer at parade event, plausible Santa Claus Parade scene",
   "at": "2026-11-02T00:12:43.934Z"
  },
+ "toronto-toronto-skyline-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skyline_of_Toronto_from_viewpoint_on_Toronto_Islands%2C_2026.jpg/3840px-Skyline_of_Toronto_from_viewpoint_on_Toronto_Islands%2C_2026.jpg": {
+  "slug": "toronto-toronto-skyline-viewpoint",
+  "verdict": "MATCH",
+  "reason": "publish gate: Accurate Toronto skyline with CN Tower from water",
+  "at": "2026-11-15T07:43:46.634Z"
+ },
  "toronto-triples-world-tour-andless-toronto\u0001https://upload.wikimedia.org/wikipedia/commons/e/e3/TripleS_250512.jpg": {
   "slug": "toronto-triples-world-tour-andless-toronto",
   "verdict": "MATCH",
@@ -38864,6 +38918,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Group of tripleS performers on stage at event",
   "at": "2026-10-25T23:04:29.660Z"
+ },
+ "vancouver-vancouver-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vancouver_Art_Gallery_%2829787380987%29.jpg/1920px-Vancouver_Art_Gallery_%2829787380987%29.jpg": {
+  "slug": "vancouver-vancouver-art-gallery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Vancouver Art Gallery building, representative view",
+  "at": "2026-11-15T07:43:46.489Z"
  },
  "vancouver-vancouver-seawall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seawall2.jpg/1920px-Seawall2.jpg": {
   "slug": "vancouver-vancouver-seawall",

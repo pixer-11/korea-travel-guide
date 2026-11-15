@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: berlin-bless-restaurant
-srcHash: '7cb90bd569e5'
+srcHash: 'a1172fda12aa'
 title: 柏林美食之选：BLESS Restaurant（4.8★）
 description: BLESS Restaurant 是柏林米特区 Hausvogteiplatz 广场上一家口碑很好的亚洲餐厅。出了地铁U2线 Hausvogteiplatz 站就到，步行去御林广场（Gendarmenmarkt）也只要几分钟。
 quickAnswer: BLESS Restaurant 是柏林米特区 Hausvogteiplatz 广场上一家口碑很好的亚洲餐厅。出了地铁U2线 Hausvogteiplatz 站就到，步行去御林广场（Gendarmenmarkt）也只要几分钟。工作日下午3点至5点客人最少。周末晚上7点至10点是最忙的时段，最好避开。想晚上来吃，建议提前订位。
@@ -22,7 +22,7 @@ faq:
 
 御林广场背后藏着一座小小的广场，名叫 Hausvogteiplatz，形状棱角分明。BLESS Restaurant 就开在这里的10号，四周是柏林米特区历史中心那种厚重的石砌立面。这一带的餐厅大多夜色未深就早早收工，这家却一周七天都营业到午夜。
 
-打烊晚是你首先要知道的实用信息。无论是在柏林音乐厅听完音乐会，在博物馆岛逛了一整天，还是搭晚班飞机抵达柏林，BLESS 都是个靠得住的去处。这是一家亚洲餐厅，评价数量多且一直稳定增长，口碑始终不错。价位偏高，适合坐下来好好吃顿晚饭，不适合随便垫垫肚子。
+打烊晚是你首先要知道的实用信息。无论是在柏林音乐厅听完音乐会，在博物馆岛逛了一整天，还是搭晚班飞机抵达柏林，BLESS 都是个靠得住的去处。这是一家亚洲餐厅，大批食客给出的评价一直都不错。价位偏高，适合坐下来好好吃顿晚饭，不适合随便垫垫肚子。
 
 ## 如何前往 Hausvogteiplatz
 

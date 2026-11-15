@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: belfast-st-george-s-market
-srcHash: 'b11f3402cb89'
+srcHash: '2acb72d5393a'
 title: 'St George''s Market: guía de viaje de Belfast (4.6★)'
 description: En pleno centro de Belfast, en East Bridge Street y a pocos minutos a pie de la estación de Lanyon Place, se encuentra St George's Market. Con una valoración de 4.6★ (14,122 reseñas), repasamos lo que opinan los visitantes, los horarios y algunos consejos prácticos.
 quickAnswer: 'En East Bridge Street, en pleno centro de Belfast y a pocos minutos a pie de la estación de Lanyon Place, se alza St George''s Market. Este mercado cubierto de época victoriana abre actualmente solo tres días: el viernes (8am–2pm), el sábado (9am–3pm) y el domingo (10am–3pm). De lunes a jueves permanece cerrado. Los fines de semana hay mucha gente durante toda la franja de 9am–3pm, así que, si quiere recorrer los puestos con calma, lo mejor es ir el viernes.'
@@ -24,7 +24,7 @@ Vista desde la calle, la fachada del mercado es un largo frente de ladrillo rojo
 
 No es precisamente un secreto. Figura entre los lugares con más reseñas de Irlanda del Norte y recibe de forma constante muy buenas valoraciones. Conviene ir sabiendo que no es un sitio tranquilo, sino un mercado vivo y concurrido, con mucho bullicio y buena comida. Los vecinos hacen aquí la compra de la semana y los visitantes vienen a picar algo de puesto en puesto. Unos y otros comparten los mismos pasillos estrechos.
 
-El edificio estuvo a punto de perderse. A finales del siglo XX se encontraba muy deteriorado, y una restauración concluida en 1999 permitió devolverle su uso. Gracias a aquellas obras, la nave sigue funcionando hoy como mercado en lugar de ser un monumento que solo se fotografía desde fuera.
+El edificio estuvo a punto de perderse. A finales del siglo XX se encontraba muy deteriorado, y unas obras de restauración permitieron devolverle su uso. Gracias a aquellas obras, la nave sigue funcionando hoy como mercado en lugar de ser un monumento que solo se fotografía desde fuera.
 
 ## Tres días, tres mercados distintos
 

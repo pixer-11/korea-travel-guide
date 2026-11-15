@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: auckland-bnz-auckland-diwali-festival
-srcHash: '6bad11975905'
+srcHash: '59ef751eb69c'
 title: BNZ奥克兰排灯节：日期、门票与场地（奥克兰）
 description: BNZ奥克兰排灯节的活动时间为2026年10月31日至11月1日，地点在奥克兰奥特亚广场（Aotea Square）及皇后街（Queen Street）沿线，免费入场。
 quickAnswer: BNZ奥克兰排灯节的活动时间为2026年10月31日至11月1日，地点在奥克兰市中心的奥特亚广场（Aotea Square）及皇后街（Queen Street）沿线。活动免费入场，不需要门票。按照公布的节目安排，这个周末的市中心有印度美食摊位、舞台演出和烟花。
@@ -83,7 +83,7 @@ faq:
 
 大型活动期间，广场周边的CBD街道十分拥挤，所以大多数人选择公共交通。
 
-- **火车**：Waitematā站（Britomart）位于皇后街坡底，从那里上坡步行到奥特亚广场约15分钟。
+- **火车**：Britomart火车站位于皇后街坡底，从那里上坡步行到奥特亚广场约15分钟。
 - **公交**：许多线路途经皇后街、韦尔斯利街和西蒙兹街（Symonds Street），步行几分钟即到。
 - **渡轮**：市中心渡轮码头就在Britomart旁边，从德文港（Devonport）、怀希基岛（Waiheke）或北岸（North Shore）过来的游客可以直接乘船抵达。
 - **自驾**：奥特亚广场片区地下有市民停车场（Civic car park），大型活动期间很快就会停满，皇后街一带也常因大型集会封路。

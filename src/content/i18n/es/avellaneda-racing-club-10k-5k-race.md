@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: avellaneda-racing-club-10k-5k-race
-srcHash: '350a0339c7d2'
+srcHash: 'e7a36be62482'
 title: 'Carrera Racing Club 10K/5K: fechas, entradas y sede (Avellaneda)'
 description: La Carrera Racing Club 10K/5K de Avellaneda es el 6 de diciembre de 2026. Todas sus distancias terminan en el Estadio Presidente Perón, la cancha de Racing, a la que todo el mundo llama El Cilindro.
 quickAnswer: 'La Carrera Racing Club 10K/5K de Avellaneda es el 6 de diciembre de 2026. Todas sus distancias terminan en el Estadio Presidente Perón, la cancha de Racing, conocida por todos como El Cilindro. Hay tres recorridos para elegir: 10 km, 5 km o un trote de 1 km. El estadio queda muy cerca del centro de Buenos Aires, al sur, y desde Constitución se llega en un viaje corto por la línea Roca.'
@@ -57,4 +57,4 @@ Algunas costumbres locales facilitan la jornada:
 - **Grupos:** los clubes de corredores, llamados *grupos de running*, suelen llegar con camisetas iguales y esperar juntos cerca de la largada. El público se reúne a lo largo del tramo final que conduce al estadio.
 - **Después de la carrera:** muchos corredores se quedan para dar una vuelta alrededor de El Cilindro o sacarse fotos en sus puertas. Un domingo, eso también forma parte del paseo.
 
-Avellaneda es una ciudad trabajadora, y sus domingos por la mañana son tranquilos. Cuando las familias van a buscar a sus corredores, el punto de encuentro habitual son los cafés de la avenida Mitre.
+Avellaneda es una ciudad trabajadora, y sus domingos por la mañana son tranquilos. Después de la carrera, las familias suelen buscar algún lugar tranquilo en los alrededores para encontrarse con sus corredores.

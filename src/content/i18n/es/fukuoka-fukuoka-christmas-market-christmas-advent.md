@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fukuoka-fukuoka-christmas-market-christmas-advent
-srcHash: '8e823275de28'
+srcHash: 'c964f7545450'
 title: 'Mercado navideño de Fukuoka (Christmas Advent): fechas, entradas y recinto (Fukuoka)'
 description: Las fechas del Mercado navideño de Fukuoka (Christmas Advent) en su edición de 2026 son del 7 de noviembre al 25 de diciembre. Ocupa la ciudad entre la estación de Hakata y Tenjin y combina iluminaciones, mercado navideño y conciertos de música clásica.
 quickAnswer: Las fechas del Mercado navideño de Fukuoka (Christmas Advent) en su edición de 2026 son del 7 de noviembre al 25 de diciembre. Ocupa buena parte de la ciudad, entre la estación de Hakata y Tenjin, y su programa reúne iluminaciones, un mercado navideño y conciertos de música clásica. Solo dos paradas de la línea Kuko del metro separan ambos núcleos, de modo que la mayoría de los visitantes recorre los dos en una misma tarde. Las condiciones de acceso y la información sobre los conciertos figuran en la web oficial del organizador.
@@ -20,7 +20,7 @@ faq:
 
 ## Siete semanas de luces
 
-En Fukuoka, la temporada de invierno es larga. Las fechas de Christmas Advent en su edición de 2026 son del 7 de noviembre al 25 de diciembre. Se le suele considerar el evento invernal más visitado de Japón y no se limita a un solo parque, sino que recorre la ciudad desde la estación de Hakata hasta Tenjin.
+En Fukuoka, la temporada de invierno es larga. Las fechas de Christmas Advent en su edición de 2026 son del 7 de noviembre al 25 de diciembre. No se limita a un solo parque, sino que recorre la ciudad desde la estación de Hakata hasta Tenjin.
 
 El programa tiene tres ejes: las iluminaciones, un mercado navideño y un ciclo de conciertos de música clásica. Puede vivirse como una gran salida nocturna o bien repetirse varias veces. Al durar siete semanas, casi cualquier viaje a Fukuoka a finales de otoño con una tarde libre coincide con él.
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: edinburgh-2026-scottish-open-snooker
-srcHash: '11ff1ff9edc1'
+srcHash: '3c53f3bd72e2'
 title: '2026 스코티시 오픈 스누커: 일정, 티켓, 경기장 안내(에든버러)'
 description: 2026 스코티시 오픈 스누커는 홈 네이션스 시리즈의 하나인 벳빅터 스코티시 오픈이라는 이름으로 2026년 12월 14일부터 20일까지 에든버러 메도뱅크 스포츠 센터에서 열립니다.
 quickAnswer: 2026 스코티시 오픈 스누커는 홈 네이션스 시리즈의 하나인 벳빅터 스코티시 오픈이라는 이름으로 2026년 12월 14일부터 20일까지 에든버러 메도뱅크 스포츠 센터(Meadowbank Sports Centre)에서 열립니다. 세션별 일정과 티켓 구매 링크는 월드 스누커 투어(World Snooker Tour) 공식 사이트에 공개됩니다. 경기장은 에든버러 동쪽에 있으며, 프린세스 스트리트(Princes Street)에서 런던 로드(London Road)를 따라 버스로 잠깐이면 닿습니다.
@@ -35,7 +35,7 @@ faq:
 
 ## 런던 로드 가는 길
 
-메도뱅크 스포츠 센터는 올드 타운 동쪽 메도뱅크 지역의 런던 로드(London Road)에 있습니다. 옛 메도뱅크 경기장 자리에 새로 지은 시설입니다. 리스 스트리트(Leith Street)와 프린세스 스트리트(Princes Street) 동쪽 끝에서 출발하는 로디언 버스(Lothian Buses)가 런던 로드를 따라 운행합니다. 에든버러 웨이벌리(Edinburgh Waverley) 역에서 갈 때도 버스가 가장 간편합니다.
+메도뱅크 스포츠 센터는 올드 타운 동쪽 메도뱅크 지역의 런던 로드(London Road)에 있습니다. 옛 메도뱅크 경기장 자리에 들어서 있습니다. 리스 스트리트(Leith Street)와 프린세스 스트리트(Princes Street) 동쪽 끝에서 출발하는 로디언 버스(Lothian Buses)가 런던 로드를 따라 운행합니다. 에든버러 웨이벌리(Edinburgh Waverley) 역에서 갈 때도 버스가 가장 간편합니다.
 
 웨이벌리에서 걸어가면 칼턴 힐(Calton Hill) 아래를 지나 약 30–40분이 걸립니다. 하이버니언의 홈구장인 이스터 로드(Easter Road) 경기장은 몇 블록 북쪽에 있고, 홀리루드 공원(Holyrood Park)과 아서스 시트(Arthur's Seat)는 경기장 남쪽에 있습니다. 12월 중순에는 오후 4시 무렵이면 어두워지므로, 저녁 관중은 불이 환한 큰길을 따라 걸어서 돌아갑니다.
 

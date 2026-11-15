@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fussen-hohes-schloss
-srcHash: '6dbce50b769b'
+srcHash: 'ca457b2bf501'
 title: 'Hohes Schloss: guía de viaje de Füssen (4.5★)'
 description: 'Sobre el casco antiguo de Füssen, a un corto paseo cuesta arriba desde la estación, se alza el Hohes Schloss, un castillo del gótico tardío con muros pintados en el patio, una galería de arte regional del siglo XVI y una torre con vistas al Lech y a los Alpes. 4.5★ (2,752 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Sobre el casco antiguo de Füssen, a un corto paseo cuesta arriba desde la estación, se alza el Hohes Schloss, un castillo del gótico tardío. Conserva muros pintados en el patio, una galería de arte regional del siglo XVI y una torre desde la que se contemplan el Lech y los Alpes. Abre de martes a domingo, de 10am a 5pm, y cierra los lunes. Durante el fin de semana hay mucha gente a lo largo de todo el horario de apertura, de 10am–5pm, así que conviene ir entre el martes y el viernes.
@@ -20,7 +20,7 @@ faq:
 
 ## Ventanas que no son ventanas
 
-Colóquese en el patio interior y cuente los miradores. Varios de ellos no son más que pintura sobre una superficie plana. Hacia 1500, los príncipes-obispos de Augsburgo mandaron cubrir los muros de su residencia de verano con una arquitectura ilusionista: marcos de ventanas, salientes y remates de esquina pintados que parecen tallados en piedra hasta que uno se acerca. La vista se deja engañar una y otra vez, y precisamente eso es lo que se buscaba.
+Colóquese en el patio interior y cuente los miradores. Varios de ellos no son más que pintura sobre una superficie plana. Hacia 1500, el príncipe-obispo de Augsburgo mandó cubrir los muros de su residencia de verano con una arquitectura ilusionista: marcos de ventanas, salientes y remates de esquina pintados que parecen tallados en piedra hasta que uno se acerca. La vista se deja engañar una y otra vez, y precisamente eso es lo que se buscaba.
 
 El castillo corona la colina, en Magnuspl. 10, justo encima del casco antiguo de Füssen. Sus muros claros y sus hastiales escalonados miran por un lado al río Lech y por el otro a los tejados de la ciudad. La mayoría de los visitantes solo atraviesan Füssen camino de Neuschwanstein, pero fue a la sombra de este castillo donde realmente vivió la ciudad.
 

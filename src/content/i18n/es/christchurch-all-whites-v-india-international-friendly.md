@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-all-whites-v-india-international-friendly
-srcHash: 'd56ec9bd3297'
+srcHash: '8bcdc2175cec'
 title: 'All Whites contra India (amistoso internacional): fechas, entradas y estadio (Christchurch)'
 description: El amistoso internacional entre los All Whites e India está programado para el 15 de noviembre de 2026 en Christchurch, en el One New Zealand Stadium (Te Kaha), el nuevo estadio techado del centro de la ciudad.
 quickAnswer: El amistoso internacional entre los All Whites e India está programado para el 15 de noviembre de 2026 en Christchurch, en el One New Zealand Stadium (Te Kaha), el nuevo estadio techado del centro de la ciudad. Las entradas para los partidos que la selección neozelandesa disputa en casa se venden a través de los canales oficiales de New Zealand Football. Allí figuran la hora de inicio y los precios, que esta guía no recoge.
@@ -33,7 +33,7 @@ El calendario le da cierto peso al encuentro. Nueva Zelanda lo disputa pocos mes
 
 Durante años, la ciudad careció de un estadio en el centro. El terremoto de febrero de 2011 dañó gravemente el antiguo Lancaster Park, que nunca volvió a abrir sus puertas. Desde entonces, los grandes partidos se trasladaron a un recinto provisional en Addington, al oeste del centro, concebido siempre como una solución temporal.
 
-Te Kaha vino a sustituirlo. Construido sobre terrenos despejados en la zona este del centro, ya reconstruida, abrió sus puertas en 2026. Que la selección nacional de fútbol juegue aquí señala una nueva etapa en la reconstrucción que ha transformado las calles de su entorno. Para los aficionados de la ciudad, ver a un equipo mundialista a un paseo de Cathedral Square es toda una novedad.
+Te Kaha vino a sustituirlo. Construido sobre terrenos despejados en la zona este del centro, ya reconstruida, abrió sus puertas como parte de esa reconstrucción. Que la selección nacional de fútbol juegue aquí señala una nueva etapa en la reconstrucción que ha transformado las calles de su entorno. Para los aficionados de la ciudad, ver a un equipo mundialista a un paseo de Cathedral Square es toda una novedad.
 
 ## Te Kaha: un estadio con techo luminoso
 
@@ -62,7 +62,7 @@ Los amistosos suelen tener tarifas más sencillas que los partidos de torneo, co
 
 ## Costumbres del día de partido en Te Kaha
 
-El público del fútbol neozelandés es tranquilo, muy familiar y ruidoso cuando toca. Esto es lo que los aficionados suelen hacer y esperar ese día.
+El público del fútbol neozelandés es tranquilo, muy familiar y ruidoso cuando toca, con algunas costumbres que conviene conocer antes de ir.
 
 - **Primero, los himnos.** El himno de Nueva Zelanda se canta primero en te reo maorí y después en inglés. Casi todo el público se pone de pie y muchos entonan ambas estrofas. También suena el himno indio, Jana Gana Mana, que se escucha de pie y en silencio.
 - **Dos colores en las gradas.** En Nueva Zelanda vive una numerosa comunidad india, así que entre el blanco abundarán las camisetas azules y las banderas tricolores. Los grupos mixtos y las bromas amistosas son lo habitual.

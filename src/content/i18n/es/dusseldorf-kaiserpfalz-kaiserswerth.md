@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dusseldorf-kaiserpfalz-kaiserswerth
-srcHash: '2265c2adeb1f'
+srcHash: 'd7fbe64b2f15'
 title: 'Kaiserpfalz Kaiserswerth: guía de viaje de Düsseldorf (4.6★)'
 description: En el barrio de Kaiserswerth, al norte de Düsseldorf, se alzan a orillas del Rin las ruinas de la Kaiserpfalz, un palacio imperial del siglo XII situado a una media hora del centro en el Stadtbahn U79. Con una valoración de 4.6★ (3,493 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: A orillas del Rin, en el barrio de Kaiserswerth, al norte de Düsseldorf, se conservan las ruinas de la Kaiserpfalz, un palacio imperial del siglo XII. Desde el centro se llega en una media hora con el Stadtbahn U79. Según Google, abre todos los días de 10am a 6pm, pero como el recinto funciona por temporadas, conviene consultar la web del Ayuntamiento de Düsseldorf antes de ir en invierno. Para recorrer solo las ruinas basta con una hora; si además quiere ver el casco antiguo de Kaiserswerth y pasear por la ribera, cuente con media jornada.
@@ -22,7 +22,7 @@ faq:
 
 Lo primero que uno percibe de la Kaiserpfalz Kaiserswerth es un muro. En la mampostería, las columnas de basalto oscuro están colocadas en horizontal y sus extremos hexagonales asoman hacia el visitante como un panal de piedra. Los muros descienden hasta el mismo dique del Rin, y las barcazas de carga pasan tan cerca que se pueden leer sus nombres.
 
-No queda tejado, ni tampoco se ha reconstruido ninguna sala. Lo que se conserva es un armazón en ruinas, con gruesas paredes, escaleras que suben hacia el vacío y vanos de ventana que enmarcan el río y los llanos prados verdes de la otra orilla. La reseña editorial lo resume bien: restos de un castillo, vistas al río y paisaje rural.
+No queda tejado, ni tampoco se ha reconstruido ninguna sala. Lo que se conserva es un armazón en ruinas, con gruesas paredes, escaleras que suben hacia el vacío y vanos de ventana que enmarcan el río y los llanos prados verdes de la otra orilla. En resumen: restos de un castillo, vistas al río y paisaje rural.
 
 ## Nueve siglos en una sola ruina
 

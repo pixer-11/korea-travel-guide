@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bts-world-tour-arirang-in-bangkok
-srcHash: 'eda144fc97b0'
+srcHash: '77d974521cfe'
 title: 'BTS World Tour ''ARIRANG'' en Bangkok: fechas, entradas y recinto (Bangkok)'
 description: 'BTS actuará tres noches en Bangkok con su World Tour ''ARIRANG'': el 3, el 5 y el 6 de diciembre de 2026. Los conciertos tendrán lugar en el Estadio Nacional Rajamangala, situado en la zona de Hua Mak, en el distrito de Bang Kapi.'
 quickAnswer: 'BTS actuará tres noches en Bangkok con su World Tour ''ARIRANG'': el 3, el 5 y el 6 de diciembre de 2026. Los conciertos tendrán lugar en el Estadio Nacional Rajamangala (Rajamangala National Stadium), en la zona de Hua Mak del distrito de Bang Kapi. Como el montaje es de 360°, las gradas rodean el escenario por completo. Compruebe fechas, recinto y entradas en los canales oficiales de la gira. Le conviene además decidir antes del concierto cómo volverá al hotel, porque salir del estadio lleva bastante más tiempo que llegar.'
@@ -63,7 +63,7 @@ Llegue con tiempo de sobra: en los conciertos en estadios, las colas para el mer
 
 ## La fiesta del 5 de diciembre y la noche libre
 
-El calendario tiene un hueco: hay concierto el día 3, descanso el 4 y vuelta al escenario el 5 y el 6. Además, el segundo concierto coincide con el 5 de diciembre, fiesta nacional en Tailandia, en la que se conmemora el cumpleaños del difunto rey Bhumibol y se celebra también el Día Nacional del Padre.
+El calendario incluye una noche libre a mitad de la serie de conciertos. Además, el segundo concierto coincide con el 5 de diciembre, fiesta nacional en Tailandia, en la que se conmemora el cumpleaños del difunto rey Bhumibol y se celebra también el Día Nacional del Padre.
 
 La festividad tiene ventajas e inconvenientes. Muchos habitantes de Bangkok libran ese día, así que la ciudad se vacía un poco y durante el día hay menos tráfico que un sábado cualquiera. Sin embargo, los edificios gubernamentales cierran y en los espacios públicos cercanos al Gran Palacio y a Sanam Luang pueden celebrarse ceremonias. También es posible que vea por la ciudad banderas amarillas y retratos del difunto rey; muéstrese respetuoso ante ellos, igual que hacen los tailandeses.
 

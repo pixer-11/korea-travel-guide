@@ -1,6 +1,6 @@
 ---
 title: 'TEN US Showcase Tour: Dates, Tickets & Venue (New York)'
-description: The TEN US Showcase Tour stops at Terminal 5 in New York, a three-level concert hall on West 56th Street in Hell's Kitchen, in mid-November 2026.
+description: The TEN US Showcase Tour was set to stop at Terminal 5, a three-level concert hall on West 56th Street in Hell's Kitchen, New York, in mid-November 2026.
 country: United States
 region: New York
 category: event
@@ -14,25 +14,25 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Long_Island_City_New_York_May_2015_panorama_3.jpg/3840px-Long_Island_City_New_York_May_2015_panorama_3.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Long_Island_City_New_York_May_2015_panorama_3.jpg/3840px-Long_Island_City_New_York_May_2015_panorama_3.jpg
   credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - new york
   - event
-quickAnswer: The TEN US Showcase Tour stops at Terminal 5 in New York, a three-level concert hall on West 56th Street in Hell's Kitchen, in mid-November 2026. Ten is the Thai singer and dancer from NCT and WayV, and this is a solo showcase. The nearest subway is 59th St–Columbus Circle, about a 15-minute walk west toward the Hudson.
+quickAnswer: The TEN US Showcase Tour was set to stop at Terminal 5 in New York in mid-November 2026. Terminal 5 is a three-level concert hall on West 56th Street in Hell's Kitchen. Ten is the Thai singer and dancer from NCT and WayV, and the tour was announced as a solo showcase. The nearest subway is 59th St–Columbus Circle, about a 15-minute walk west toward the Hudson.
 faq:
   - q: Where is the TEN US Showcase Tour held in New York?
-    a: The New York stop is at Terminal 5, 610 West 56th Street, between 11th and 12th Avenues in Hell's Kitchen, close to the Hudson River.
+    a: The New York stop was set for Terminal 5, 610 West 56th Street, between 11th and 12th Avenues in Hell's Kitchen, close to the Hudson River.
   - q: When is Ten's New York showcase?
-    a: It takes place in mid-November 2026. The exact date and door times sit on the official ticket listing for the show.
+    a: The New York showcase was set for mid-November 2026 at Terminal 5.
   - q: What is the closest subway station to Terminal 5?
-    a: 59th St–Columbus Circle (A, B, C, D and 1 trains), about a 15-minute walk west. The M57 crosstown bus along 57th Street cuts most of that walk.
+    a: 59th St–Columbus Circle (A, B, C, D and 1 trains) is about a 15-minute walk west. The M57 crosstown bus along 57th Street cuts most of that walk.
   - q: Is Terminal 5 seated or standing?
     a: The main floor is general admission standing. Two balcony levels wrap around the room above it and give a clear view down onto the stage. The room holds roughly 3,000 people.
   - q: Where can I eat near Terminal 5?
@@ -40,14 +40,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A solo stage for one of K-pop's best dancers
 
 Ten has spent years as the movement anchor of bigger groups. Born in Bangkok, he debuted with NCT under SM Entertainment, then became a core member of WayV and of SuperM. Across those groups he earned a reputation as the performer the choreography is built around.
 
-His self-titled first mini album, *TEN*, came out in 2024 with the lead single "Nightwalker". That record turned a long-running solo side project into a proper career. The US showcase tour is the step after it, and New York is one of its stops in mid-November 2026.
+His self-titled first mini album, *TEN*, came out in 2024 with the lead single "Nightwalker". That record turned a long-running solo side project into a proper career. The US showcase tour was the next step, and New York was one of its stops, set for mid-November 2026.
 
-A showcase sits somewhere between a concert and a fan event. Expect performance at the centre, with the talk and fan interaction that this format usually brings. The exact setlist and running order are not part of what we know, so this guide does not guess at them.
+A showcase sits somewhere between a concert and a fan event. The format usually puts performance at the centre, with talk and fan interaction around it. For a dancer of Ten's profile, the stage itself is the main draw.
 
 ## Terminal 5, the room itself
 
@@ -63,9 +62,9 @@ Because the balconies hang close over the floor, the room feels smaller than its
 
 ## Dates and tickets for the New York stop
 
-The New York date falls in mid-November 2026 at Terminal 5. The tour's promoter and ticketing partner handle seating, ticket tiers and any fan-benefit packages for each stop. Prices are not part of this guide; the current figures sit on the official ticket listing for the show.
+The New York date was set for mid-November 2026 at Terminal 5. The tour's promoter and ticketing partner handled seating, ticket tiers and any fan-benefit packages for each stop. Tickets were sold through the show's official ticket listing.
 
-Showcase tours of this kind often sell add-ons such as hi-touch, group photos or soundcheck access. Whether this tour offers them is set by the organiser, and those terms appear on the ticket listing itself, not here.
+Showcase tours of this kind often sell add-ons such as hi-touch, group photos or soundcheck access. Whether this tour offered them was up to the organiser, and the terms sat with each ticket package.
 
 ## Getting to the far west side
 
@@ -92,6 +91,6 @@ Merch lines at showcases can rival the entry queue. Many fans shop as soon as do
 
 ## Before and after the show
 
-Ninth Avenue, three long blocks east, is where Hell's Kitchen keeps its restaurants. It is lined with Thai, Japanese and Italian places plus late-night pizza counters. That fits a crowd heading out at the end of a show.
+Ninth Avenue, three long blocks east, is where Hell's Kitchen keeps its restaurants. It is lined with Thai, Japanese and Italian places plus late-night pizza counters. That suits a crowd heading out at the end of a show.
 
 For a K-pop night out, Koreatown on West 32nd Street is a short subway ride away. Take the B or D from Columbus Circle to 34th St–Herald Sq. With daylight to spare, the Intrepid Museum on Pier 86 at West 46th Street and the Hudson River Park walkway are both within walking distance of the venue.

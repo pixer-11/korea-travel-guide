@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-bnz-auckland-diwali-festival
-srcHash: '6bad11975905'
+srcHash: '59ef751eb69c'
 title: 'BNZ Auckland Diwali Festival: fechas, entradas y recinto (Auckland)'
 description: Las fechas anunciadas del BNZ Auckland Diwali Festival eran del 31 de octubre al 1 de noviembre de 2026. El recinto abarcaba la plaza Aotea (Aotea Square) y Queen Street, en Auckland, y la entrada era gratuita.
 quickAnswer: Las fechas anunciadas del BNZ Auckland Diwali Festival eran del 31 de octubre al 1 de noviembre de 2026. El festival ocupaba la plaza Aotea (Aotea Square) y Queen Street, en pleno centro de Auckland. Como era gratuito, no hacían falta entradas. El programa anunciaba para ese fin de semana en el centro urbano puestos de comida india, actuaciones en el escenario y fuegos artificiales.
@@ -83,7 +83,7 @@ A finales de octubre es primavera en Auckland, y el tiempo puede cambiar en una 
 
 Lo habitual es llegar en transporte público, porque durante los grandes eventos las calles del centro que rodean la plaza se llenan de gente.
 
-- **Tren:** La estación Waitematā (Britomart) se encuentra al pie de Queen Street. Desde allí hay unos 15 minutos a pie, cuesta arriba, hasta la plaza Aotea.
+- **Tren:** La estación de tren de Britomart (Britomart Train Station) se encuentra al pie de Queen Street. Desde allí hay unos 15 minutos a pie, cuesta arriba, hasta la plaza Aotea.
 - **Autobús:** Muchas líneas recorren Queen Street, Wellesley Street y Symonds Street, todas a pocos minutos a pie.
 - **Ferri:** La terminal de ferris del centro (Downtown Ferry Terminal) está junto a Britomart, así que quienes vienen de Devonport, Waiheke o la costa norte (North Shore) llegan directamente por mar.
 - **Coche:** El aparcamiento Civic se encuentra bajo el recinto de la plaza Aotea. Durante los grandes eventos se llena enseguida, y es habitual que se corten al tráfico las calles en torno a Queen Street cuando hay concentraciones multitudinarias.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genoa-galata-museo-del-mare
-srcHash: 'b5ac9344d677'
+srcHash: 'd02eae91743e'
 title: 'Galata Museo del Mare: guía de viaje de Génova (4,5★)'
 description: 'El Galata Museo del Mare, en el casco antiguo del puerto de Génova, es el museo marítimo más grande de Italia: cinco plantas con galeras reconstruidas, un submarino real atracado y la historia de la emigración genovesa. 4,5★ (11.063 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Galata Museo del Mare, en el casco antiguo del puerto de Génova, es el museo marítimo más grande de Italia: cinco plantas con galeras reconstruidas, un submarino real atracado y la historia de la emigración genovesa. Abre todos los días de 10:00 a 19:00, así que conviene reservar entre dos y tres horas para la visita e ir justo a la apertura entre semana para evitar la aglomeración de los fines de semana entre las 12:00 y las 18:00. En verano conviene reservar la entrada online, ya que recibe muchísimas visitas durante todo el año.'
@@ -37,7 +37,7 @@ Conviene reservar al menos dos horas para el museo principal, y tres si se añad
 
 ## Cuándo ir y cuánto cuesta
 
-El horario es el mismo todos los días de la semana, de 10:00 a 19:00, con la última entrada normalmente una hora antes del cierre, por lo que no existe una franja de primera hora de la mañana o de última hora de la tarde que aprovechar especialmente. Entre semana hay menos afluencia durante todo el horario de 10:00 a 19:00.
+El horario es el mismo todos los días de la semana, de 10:00 a 19:00, por lo que no existe una franja de primera hora de la mañana o de última hora de la tarde que aprovechar especialmente. Entre semana hay menos afluencia durante todo el horario de 10:00 a 19:00.
 
 Los fines de semana la cosa cambia: de 12:00 a 18:00 es sistemáticamente el tramo con más gente, con grupos escolares y pasajeros de cruceros acumulándose tanto en la taquilla como en la entrada del submarino.
 

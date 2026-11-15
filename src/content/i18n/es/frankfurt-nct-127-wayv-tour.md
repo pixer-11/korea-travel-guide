@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-nct-127-wayv-tour
-srcHash: '36016df840c6'
+srcHash: 'bec3882a7abb'
 title: 'Gira de NCT 127 y WayV: fechas, entradas y recinto (Fráncfort)'
 description: La parada de la gira de NCT 127 y WayV en Fráncfort (Alemania) tenía como fecha la noche del lunes 14 de septiembre de 2026. La información sobre entradas y recinto correspondía al organizador de la gira y a su plataforma oficial de venta.
 quickAnswer: La parada de la gira de NCT 127 y WayV en Fráncfort (Alemania) tenía como fecha la noche del lunes 14 de septiembre de 2026. La información sobre entradas y recinto correspondía al organizador de la gira y a su plataforma oficial de venta. Al concierto acudían seguidores de toda Europa y de Asia. La mayoría llegaba en avión al aeropuerto de Fráncfort y se alojaba cerca de la estación central (Hauptbahnhof) o en el barrio ferial de Messe, donde el transporte nocturno resultaba más cómodo.
@@ -26,7 +26,7 @@ Se esperaban bastones luminosos en todos los vagones de tranvía que iban hacia 
 
 ## Quiénes subían al escenario
 
-Tanto NCT 127 como WayV son subunidades de NCT, el numeroso grupo masculino creado por SM Entertainment. NCT 127 tiene su sede en Seúl y debe su nombre a la longitud geográfica de la ciudad. WayV es la subunidad en lengua china y canta sobre todo en mandarín.
+Tanto NCT 127 como WayV son subunidades de NCT, el numeroso grupo masculino creado por SM Entertainment. NCT 127 tiene su sede en Seúl y su nombre hace referencia al meridiano que pasa por la ciudad. WayV es la subunidad en lengua china y canta sobre todo en mandarín.
 
 Compartir cartel suponía reunir a dos comunidades de seguidores en la misma sala. Los fans de NCT 127 y los de WayV (conocidos a menudo como WayZenNi) coinciden en gran medida, y buena parte del público sigue a ambos. El repertorio y el orden de actuación de esta parada no figuran entre los datos de los que disponemos, de modo que esta guía no especula sobre ellos.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: austin-f1-united-states-grand-prix
-srcHash: '549064167f23'
+srcHash: '83e6be57c45b'
 title: 'Gran Premio de Estados Unidos de F1: fechas, entradas y circuito (Austin)'
 description: Las fechas anunciadas para el Gran Premio de Estados Unidos de Fórmula 1 eran del 22 al 25 de octubre de 2026, en el Circuito de las Américas (COTA) de Austin, Texas.
 quickAnswer: Las fechas anunciadas para el Gran Premio de Estados Unidos de Fórmula 1 eran del 22 al 25 de octubre de 2026, en el Circuito de las Américas (Circuit of the Americas, COTA) de Austin, Texas. El calendario de 2026 sumaba una cuarta jornada, el Grand PrixView Thursday, a los habituales días de entrenamientos, clasificación y carrera. Las fechas, las entradas y los planos de asientos figuraban en las webs oficiales del circuito y de la Fórmula 1.
@@ -63,4 +63,4 @@ Con la carrera, toda Austin se convierte en una fiesta. En el centro, Sixth Stre
 
 Al anochecer, la colonia de murciélagos del puente de Congress Avenue emprende el vuelo, y en octubre todavía puede verse antes de que emigre al sur para pasar el invierno.
 
-La barbacoa es la gran cita gastronómica de la ciudad. En los asadores más conocidos, las colas para el brisket pueden empezar mucho antes de la hora de comer, por lo que muchos visitantes los dejaban para el día anterior o posterior al fin de semana de carrera. Quienes volaban hasta allí para los cuatro días solían reservar al menos una semana para Austin.
+La barbacoa es la gran cita gastronómica de la ciudad. En los asadores más conocidos, las colas para el brisket pueden empezar mucho antes de la hora de comer, por lo que muchos visitantes los dejaban para el día anterior o posterior al fin de semana de carrera. Quienes volaban hasta allí para los cuatro días solían añadir uno o dos días antes y después para el viaje y las visitas turísticas.

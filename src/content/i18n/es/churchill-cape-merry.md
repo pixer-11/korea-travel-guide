@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: churchill-cape-merry
-srcHash: '96d65a43c1b6'
+srcHash: '8130eada8df6'
 title: 'Cabo Merry: guía de viaje de Churchill (4.7★)'
 description: 'En la desembocadura del río Churchill, en Churchill (Manitoba), se alza Cabo Merry, un promontorio rocoso con una batería de cañones de piedra del siglo XVIII y vistas al fuerte Prince of Wales, en la orilla opuesta. Valoración de 4.7★ (132 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la desembocadura del río Churchill, en Churchill (Manitoba), se encuentra Cabo Merry (Cape Merry), un promontorio rocoso que conserva una batería de cañones de piedra del siglo XVIII y desde el que se divisa, al otro lado del agua, el fuerte Prince of Wales. En julio y agosto es uno de los mejores puntos en tierra firme para observar ballenas beluga. Por la presencia de osos polares, conviene llegar en vehículo y no a pie. Entre semana, el momento más tranquilo es de 8pm a 9pm.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cómo se llega a Cabo Merry desde el pueblo de Churchill?
     a: Se puede ir en coche, en taxi o con una excursión organizada por Cape Merry Road, que pasa junto al puerto cerealero y termina en la desembocadura del río. No vaya caminando, porque los osos polares frecuentan esta costa.
   - q: ¿Cuándo hay menos gente en Cabo Merry?
-    a: Entre semana, la franja más tranquila es de 8pm a 9pm, y el fin de semana, de 3pm a 7pm. Los fines de semana hay más afluencia de 8am a 9am, de 12pm a 1pm, de 2pm a 3pm y de 7pm a 11pm, así que es mejor evitar esas horas.
+    a: Entre semana, la franja más tranquila es de 8pm a 9pm, y el fin de semana, de 3pm a 7pm. Los fines de semana hay más afluencia de 8am a 9am, de 12pm a 1pm, de 2pm a 3pm y de 7pm a 8pm, así que es mejor evitar esas horas.
   - q: ¿Se pueden ver belugas desde Cabo Merry?
     a: Sí, sobre todo en julio y agosto, cuando miles de belugas entran en el estuario del río Churchill. No olvide los prismáticos.
   - q: ¿Cuánto tiempo conviene dedicar a Cabo Merry?
@@ -43,7 +43,7 @@ Según Google, el sitio está abierto actualmente las 24 horas. Esto solo signif
 Es fácil esquivar las aglomeraciones:
 - **Horario más tranquilo entre semana:** de 8pm a 9pm.
 - **Horario más tranquilo el fin de semana:** de 3pm a 7pm.
-- **Horas que conviene evitar el fin de semana:** de 8am a 9am, de 12pm a 1pm, de 2pm a 3pm y de 7pm a 11pm, cuando la punta se llena de gente.
+- **Horas que conviene evitar el fin de semana:** de 8am a 9am, de 12pm a 1pm, de 2pm a 3pm y de 7pm a 8pm, cuando la punta se llena de gente.
 
 A esta latitud, en julio anochece muy tarde, de modo que la visita después de cenar es una buena opción.
 

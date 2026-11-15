@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: franz-josef-westland-tai-poutini-national-park
-srcHash: '523ced6ff8aa'
+srcHash: 'e8e2572ec3f5'
 title: 'Parque Nacional Westland Tai Poutini: guía de viaje de Franz Josef'
 description: 'El Parque Nacional Westland Tai Poutini rodea las localidades de Franz Josef y Fox Glacier, en la Costa Oeste de Nueva Zelanda, y las caminatas por los valles glaciares comienzan a pocos minutos en coche de cada una. Valoración de 4.7★ (954 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Costa Oeste de Nueva Zelanda, el Parque Nacional Westland Tai Poutini rodea las localidades de Franz Josef y Fox Glacier. Desde cada una de ellas se llega en pocos minutos de coche al inicio de las caminatas por los valles glaciares. Si va en fin de semana, procure llegar entre las 8am y las 9am o entre las 4pm y las 5pm, porque la mayor afluencia se concentra de 9am a 4pm. Conviene dedicar un día completo a los dos valles glaciares y al lago Matheson, y reservar otro día de margen por si la lluvia o las nubes obligan a cancelar un vuelo en helicóptero.
@@ -22,7 +22,7 @@ faq:
 
 Los glaciares terminan en plena selva, casi a nivel del mar. Desde los Alpes del Sur, el glaciar Franz Josef (Kā Roimata o Hine Hukatere) y el glaciar Fox (Te Moeka o Tuawe) descienden en dirección al mar de Tasmania. Antes de que los valles se abran sobre la morrena gris, el camino de acceso atraviesa un bosque de rimus, kāmahis y helechos arborescentes.
 
-Creado en 1960, el parque forma parte de Te Wāhipounamu, el Área del Patrimonio Mundial del Suroeste de Nueva Zelanda. Ambos glaciares han retrocedido muchísimo, de modo que los miradores quedan hoy bastante lejos del hielo. Aun a esa distancia, es habitual oír cómo se desprenden bloques.
+Creado hace décadas, el parque forma parte de Te Wāhipounamu, el Área del Patrimonio Mundial del Suroeste de Nueva Zelanda. Ambos glaciares han retrocedido muchísimo, de modo que los miradores quedan hoy bastante lejos del hielo. Aun a esa distancia, es habitual oír cómo se desprenden bloques.
 
 ## Las caminatas que merecen la pena
 

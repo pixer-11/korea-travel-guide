@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bohol-punta-cruz-watchtower
-srcHash: '5d78c24de2ca'
+srcHash: '50bbb9c2b97f'
 title: 'Torre vigía de Punta Cruz: guía de viaje de Bohol (4.4★)'
 description: En el promontorio de Maribojoc (Bohol), a unos 30–40 minutos en coche por la costa oeste desde la ciudad de Tagbilaran, se alza la torre vigía de Punta Cruz, una construcción triangular de piedra coralina que data de 1796. Tiene una valoración de 4.4★ (241 reseñas). Aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: La torre vigía de Punta Cruz es una construcción triangular de piedra coralina levantada en 1796. Se encuentra en el promontorio de Maribojoc, en Bohol, a unos 30–40 minutos en coche costa arriba desde la ciudad de Tagbilaran. Actualmente abre de lunes a viernes, de 9am–8pm, y cierra los fines de semana, así que conviene ir entre semana. La mejor hora es el final de la tarde, cuando la luz cae sobre el estrecho de Cebú.
@@ -26,7 +26,7 @@ No se trata de un adorno, sino de una auténtica torre de vigilancia. La levant�
 
 Lo que la distingue es su forma. Casi todas las torres vigía costeras de Filipinas son redondas o cuadradas, pero la de Punta Cruz es triangular, de modo que cada una de sus caras domina un tramo distinto de mar. Sus muros son de piedra coralina tallada, el mismo material de las iglesias coloniales de esta costa. De cerca se aprecian los bloques porosos y picados que dan textura a ese estilo constructivo.
 
-El nombre procede de la cruz que los vecinos alzaron en el promontorio, la *Punta Cruz*. Según la tradición local, esa cruz protegía al pueblo de los males que llegaban por mar.
+El nombre procede de la cruz que los vecinos alzaron en el promontorio, al que llamaron *Punta Cruz*. Según la tradición local, esa cruz protegía al pueblo de los males que llegaban por mar.
 
 ## Subir al triángulo del promontorio
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: christchurch-christchurch-tram
-srcHash: '0a9723cee39b'
+srcHash: '71903caa44b8'
 title: 'Tranvía de Christchurch: guía de viaje (4.6★)'
 description: El tranvía histórico de Christchurch (Christchurch Tram) recorre en circuito el centro de la ciudad con comentarios en directo. Se puede subir en paradas como la de 109 Worcester Street y bajar y volver a subir libremente entre lugares emblemáticos como Cathedral Square, New Regent Street o el Arts Centre. Con una valoración de 4.6★ (2,318 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El tranvía histórico de Christchurch (Christchurch Tram) recorre en circuito el centro de la ciudad con comentarios en directo. Se puede subir en paradas como la de 109 Worcester Street y bajar y volver a subir libremente entre lugares emblemáticos como Cathedral Square, New Regent Street o el Arts Centre. Actualmente funciona de 8:30am–6:30pm. La franja más tranquila es de 5pm–6pm, tanto entre semana como el fin de semana. Si quiere asegurarse un asiento junto a la ventanilla, evite los fines de semana de 10am–5pm.
@@ -80,4 +80,4 @@ Una jornada bien planteada podría ser así: por la mañana, la vuelta completa 
 
 Para una sola vuelta, calcule alrededor de una hora; si quiere sacar todo el partido al billete, reserve media jornada o más. El tranvía circula todo el año, pero con las ventanillas abiertas las corrientes de aire se notan en pleno invierno de Canterbury, así que de mayo a agosto conviene llevar una prenda de abrigo.
 
-La parada del número 109 de Worcester Street queda cerca de Cathedral Square, por lo que resulta un punto de partida cómodo si se aloja en el centro. El centro de Christchurch es llano y compacto: entre el tranvía y sus propios pies, no necesitará coche para recorrer esta parte de la ciudad.
+La parada de Worcester Street queda cerca de Cathedral Square, por lo que resulta un punto de partida cómodo si se aloja en el centro. El centro de Christchurch es llano y compacto: entre el tranvía y sus propios pies, no necesitará coche para recorrer esta parte de la ciudad.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-k-pop-fever-etihad-arena
-srcHash: 'b883df74cbd7'
+srcHash: '7f2e98a766a1'
 title: 'K-POP Fever (Etihad Arena): fechas, entradas y recinto (Abu Dabi)'
 description: K-POP Fever era un concierto tributo a las canciones de BTS, BLACKPINK y KATSEYE, programado para el 26 de septiembre de 2026 en el Etihad Arena de la isla de Yas, en Abu Dabi.
 quickAnswer: K-POP Fever (Etihad Arena) era un concierto tributo en la isla de Yas (Yas Island), en Abu Dabi, con fecha anunciada el 26 de septiembre de 2026. El cartel prometía las canciones y las coreografías de BTS, BLACKPINK y KATSEYE a cargo de una compañía de cantantes y bailarines profesionales. Los artistas originales no formaban parte del elenco.
@@ -20,7 +20,7 @@ faq:
 
 ## Un espectáculo de tributo junto al mar en Yas Bay
 
-Se trataba de un espectáculo de versiones, y precisamente ahí residía su gracia. K-POP Fever se concibió como una noche de canciones de BTS, BLACKPINK y KATSEYE que una compañía de cantantes y bailarines profesionales interpretaría sobre el escenario del Etihad Arena. La fecha anunciada para Abu Dabi era el 26 de septiembre de 2026.
+Se trataba de un espectáculo de versiones, y precisamente ahí residía su gracia. K-POP Fever se concibió como una noche de canciones de BTS, BLACKPINK y KATSEYE que una compañía de cantantes y bailarines profesionales interpretaría sobre el escenario del Etihad Arena. Se anunció una fecha para el espectáculo de Abu Dabi.
 
 Su atractivo era sencillo. Sin necesidad de esperar a que una gira mundial llegara al Golfo, el cartel ofrecía en un recinto de gran formato los estribillos pegadizos, las formaciones sincronizadas y los coros para cantar a pleno pulmón de tres de los nombres más conocidos del K-pop. Los organizadores lo presentaban como una gran fiesta construida en torno a canciones que los fans del género ya se saben de memoria.
 

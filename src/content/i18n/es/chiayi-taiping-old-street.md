@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiayi-taiping-old-street
-srcHash: 'efa5236ceba0'
+srcHash: '8a7b00f20498'
 title: 'Calle Vieja de Taiping (Taiping Old Street): guía de viaje de Chiayi (4.2★)'
 description: 'En lo alto del municipio de Meishan, entre las colinas del condado de Chiayi, la aldea de Taiping alberga su célebre Calle Vieja, a la que se sube desde Meishan por la famosa carretera de las 36 Curvas. 4.2★ (10,002 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Calle Vieja de Taiping se encuentra en la aldea del mismo nombre, en lo alto del municipio de Meishan, entre las colinas del condado de Chiayi. Se llega por la famosa carretera de las 36 Curvas, que asciende desde Meishan. Este breve callejón de edificios de la época colonial japonesa y puestos de comida se complementa de forma natural con el cercano Puente Colgante de Taiping, así que conviene reservar media jornada para la excursión completa. Recibe muchos visitantes, sobre todo los fines de semana, por lo que lo mejor es llegar temprano y conducir con prudencia por la carretera de montaña.
@@ -26,7 +26,7 @@ La calle vieja es corta y se recorre a pie sin dificultad. La mayoría de los vi
 
 ## Paseo por la 太平老街
 
-En la zona la calle se conoce como 太平老街 (Tàipíng Lǎojiē). Su carácter procede de los edificios levantados durante el periodo colonial japonés: fachadas bajas, detalles de madera y yeso y plantas bajas que se abren directamente al callejón. Hoy en día, la mayoría de ellos venden comida, té y recuerdos.
+En la zona la calle se conoce como Calle Vieja de Taiping. Su carácter procede de los edificios levantados durante el periodo colonial japonés: fachadas bajas, detalles de madera y yeso y plantas bajas que se abren directamente al callejón. Hoy en día, la mayoría de ellos venden comida, té y recuerdos.
 
 La calle en sí no tiene puerta ni exige entrada. Puede recorrerse a cualquier hora y, según Google, actualmente está abierta las 24 horas. Ahora bien, eso solo vale para la vía pública. Cada puesto fija su propio horario, de modo que, si llega de noche, encontrará sobre todo persianas bajadas y una carretera de montaña silenciosa.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: byron-bay-bangalow-heritage-house-museum
-srcHash: 'b02770c2fe1b'
+srcHash: '3f40e06e7b7d'
 title: 'Museo Bangalow Heritage House: guía de viaje de Byron Bay'
 description: En el número 4 de Ashton St, en Bangalow, se encuentra el Bangalow Heritage House Museum, dedicado a la historia del pueblo y su comarca. Bangalow es una localidad del interior situada a unos 15–20 minutos en coche de Byron Bay.
 quickAnswer: 'En el número 4 de Ashton St, en Bangalow, se encuentra el Bangalow Heritage House Museum, dedicado a la historia del pueblo y su comarca. Esta localidad del interior queda a unos 15–20 minutos en coche de Byron Bay. El museo solo abre algunos días a la semana: actualmente, de miércoles a viernes de 10am a 2pm y los sábados de 10am a 1pm. De domingo a martes permanece cerrado. Calcule una hora de visita y aproveche después para pasear junto a las fachadas con porche de Byron Street.'
@@ -32,7 +32,7 @@ Los temas en los que merece la pena fijarse siguen la historia del pueblo:
 
 - **El nombre del pueblo.** Bangalow se llamó antiguamente Byron Creek. Su nombre actual suele atribuirse a una palabra aborigen que designa una palmera de la zona.
 - **Madera y lechería.** Fue el cedro rojo lo que atrajo a los primeros colonos al interior. Después, durante generaciones, la producción lechera fue el sustento del pueblo.
-- **La vida en la calle principal.** Las hileras de comercios de Byron Street, construidas con amplios porches, reflejan la historia de la calle principal del pueblo.
+- **La vida en la calle principal.** Las hileras de comercios de Byron Street, construidas con amplios porches, siguen definiendo la calle principal del pueblo.
 
 Como las exposiciones de los museos pequeños cambian, tómese estos temas como hilos conductores y no como una lista garantizada de piezas.
 

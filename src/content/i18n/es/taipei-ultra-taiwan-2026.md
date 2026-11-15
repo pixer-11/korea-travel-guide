@@ -1,95 +1,93 @@
 ---
 lang: es
 slug: taipei-ultra-taiwan-2026
-srcHash: '0d9177a33b18'
+srcHash: '34527d705da3'
 title: 'ULTRA Taiwan 2026: fechas, entradas y recinto (Taipéi)'
-description: ULTRA Taiwan 2026 se celebrará, según lo anunciado, el 14 de noviembre de 2026 en el Parque Ribereño de Dajia, situado en la orilla sur del río Keelung, en el distrito de Zhongshan de Taipéi.
-quickAnswer: 'Según lo anunciado, ULTRA Taiwan 2026 tendrá lugar el 14 de noviembre de 2026 en el Parque Ribereño de Dajia (Dajia Riverside Park). El recinto está en el distrito de Zhongshan de Taipéi, en la orilla sur del río Keelung. Se trata de un festival de música electrónica de una sola jornada con dos escenarios: el Main Stage y el RESISTANCE Stage. Antes de reservar el viaje, compruebe los horarios, el cartel y las entradas en la web oficial de ULTRA Taiwan.'
+description: ULTRA Taiwan 2026 tenía fecha el 14 de noviembre de 2026 en el parque ribereño de Dajia, situado en el distrito de Zhongshan (Taipéi), a orillas del río Keelung, en su margen sur.
+quickAnswer: 'La fecha anunciada para ULTRA Taiwan 2026 era el 14 de noviembre de 2026. El escenario elegido era el parque ribereño de Dajia (Dajia Riverside Park), en el distrito de Zhongshan de Taipéi, en la margen sur del río Keelung. Según la organización, se trataba de un festival de música electrónica de una sola jornada con dos escenarios: el Main Stage y el RESISTANCE Stage.'
 faq:
-  - q: ¿Cuándo y dónde se celebra ULTRA Taiwan 2026?
-    a: La fecha anunciada es el sábado 14 de noviembre de 2026, y el recinto, el Parque Ribereño de Dajia, junto al río Keelung, en el distrito de Zhongshan de Taipéi. Los horarios y las entradas deben confirmarse en la web oficial de ULTRA Taiwan.
-  - q: ¿Cómo se llega en metro al Parque Ribereño de Dajia?
-    a: Hay que tomar la línea Wenhu (línea marrón) hasta la estación Dazhi o la estación Jiannan Road. Desde allí se cruza el río a pie y se entra al parque por las compuertas del muro de contención, un trayecto de unos 15 a 20 minutos.
-  - q: ¿Qué escenarios tiene ULTRA Taiwan 2026?
-    a: 'Tiene dos: el Main Stage y el RESISTANCE Stage, que es el escenario de techno y sonidos underground de ULTRA. Todo el festival se desarrolla en una sola jornada. El cartel y los horarios de cada actuación se publican en la web oficial.'
-  - q: ¿Qué ropa conviene llevar a ULTRA Taiwan en noviembre?
-    a: A mediados de noviembre, las noches de Taipéi pueden ser húmedas y frescas, y la ribera es un espacio abierto y sin resguardo. Lleve un impermeable ligero o un poncho, un calzado que aguante la hierba mojada y una prenda fina de abrigo. Antes de hacer la maleta, consulte la lista oficial de objetos prohibidos.
-  - q: ¿Cómo se vuelve a casa al terminar el festival?
-    a: Consulte en la web del Metro de Taipéi a qué hora salen los últimos trenes de la línea Wenhu desde Dazhi y Jiannan Road, y recargue su EasyCard con antelación. Si pierde el último tren, aléjese de las puertas del recinto y camine hasta una avenida principal antes de pedir un taxi o un vehículo por aplicación.
+  - q: ¿Cuándo y dónde se anunció ULTRA Taiwan 2026?
+    a: La fecha del festival era el sábado 14 de noviembre de 2026, en el parque ribereño de Dajia (Dajia Riverside Park), situado en el distrito de Zhongshan de Taipéi, junto al río Keelung.
+  - q: ¿Cómo se llega en metro al parque ribereño de Dajia?
+    a: Las estaciones más cercanas son Dazhi y Jiannan Road, ambas en la línea Wenhu (línea marrón). Desde cualquiera de ellas, cruzar el río y atravesar las compuertas del muro de contención hasta el parque lleva unos 15 a 20 minutos a pie.
+  - q: ¿Qué escenarios tenía ULTRA Taiwan 2026?
+    a: 'Dos: el Main Stage y el RESISTANCE Stage, que es el escenario de ULTRA dedicado al techno y al underground. El festival se anunció como un evento de una sola jornada.'
+  - q: ¿Qué ropa convenía para ULTRA Taiwan en noviembre?
+    a: A mediados de noviembre, las noches en Taipéi suelen ser húmedas y frescas, y la ribera es un espacio abierto y expuesto. Para esas condiciones resultan adecuados una capa ligera para la lluvia o un chubasquero, un calzado que aguante el césped mojado y una prenda fina de abrigo adicional.
+  - q: ¿Cómo se volvía a casa después del festival?
+    a: La principal vía de regreso al centro era la línea Wenhu desde Dazhi y Jiannan Road, y con una EasyCard con saldo cargado se evitaban las máquinas expendedoras. Las calles cercanas a las compuertas se colapsan a la hora del cierre, por lo que los taxis y los coches de las aplicaciones de transporte suelen encontrarse con más facilidad en una avenida principal, más alejada del parque.
 ---
 
-El río Keelung atraviesa Taipéi encajonado entre altos muros de hormigón contra las crecidas, y al otro lado de esos muros, junto al agua, la ciudad esconde todo un segundo paisaje. Durante un sábado de noviembre, la llanura de césped del Parque Ribereño de Dajia (Dajia Riverside Park) se transforma en recinto festivalero. ULTRA Taiwan 2026 será la sexta edición del evento y durará una sola jornada.
+En Taipéi, el río Keelung discurre entre altos muros de hormigón contra las crecidas, y al otro lado de esas defensas la ciudad conserva todo un segundo paisaje. Aquella franja llana de césped del parque ribereño de Dajia iba a convertirse en recinto festivalero durante un sábado de noviembre. ULTRA Taiwan 2026 se anunció como la sexta edición del evento, concentrada en un único día.
 
-## Qué hay en la ribera
+## Qué había en la ribera
 
-Un día y dos escenarios. El festival gira en torno al **Main Stage**, el gran montaje de sala que identifica a ULTRA, y al **RESISTANCE Stage**, el espacio que la marca dedica al techno y a los sonidos underground.
+La organización anunció dos escenarios para una sola jornada. El eje del festival lo formaban el **Main Stage**, el gran montaje característico de ULTRA, y el **RESISTANCE Stage**, el espacio que la marca dedica al techno y a los sonidos más underground.
 
-Esa división marcará su jornada mucho más que cualquier horario. Al Main Stage acude un público atraído por la producción a gran escala y por esos drops que se corean a pleno pulmón. En el RESISTANCE, en cambio, se reúne quien busca sesiones más largas y oscuras y prefiere estar cerca de la cabina.
+En los eventos de ULTRA, esa división pesa más que cualquier horario. Al Main Stage acude un público atraído por la producción a gran escala y por los drops que se corean a pleno pulmón. Al RESISTANCE, en cambio, se acercan quienes buscan sesiones más largas y oscuras y prefieren estar cerca de la cabina.
 
-Como todo ocurre en un solo día, no habrá otra oportunidad de ver a un artista que se le haya escapado. Confirme el cartel y el orden de actuaciones en la web oficial de ULTRA Taiwan y organice sus desplazamientos entre escenarios en función de las dos o tres sesiones que no quiera perderse por nada.
+En un festival de un solo día no hay segunda oportunidad para ver una actuación perdida, de modo que el orden de las actuaciones cobra más importancia que en un evento de fin de semana. La mayoría del público organiza la jornada en torno a las dos o tres sesiones que más le interesan.
 
 ## Fechas y entradas de la edición de 2026
 
-La fecha anunciada es el **sábado 14 de noviembre de 2026**, y el recinto, el Parque Ribereño de Dajia (大佳河濱公園), en Taipéi.
+El festival estaba programado para el **sábado 14 de noviembre de 2026**. El recinto, el parque ribereño de Dajia (大佳河濱公園), se encuentra en Taipéi.
 
-Los horarios y las entradas deben confirmarse en la web oficial. Las categorías de entrada, la hora de apertura de puertas y las restricciones de edad son precisamente los datos que varían de una edición a otra. Compre únicamente a través del canal oficial o de la ticketera que este indique: la reventa de pulseras para grandes festivales es una estafa frecuente.
-
-Tenga en cuenta que esta página seguirá publicada después del evento. Si la está leyendo con posterioridad a noviembre de 2026, consulte en la web oficial la información de la próxima edición.
+Los tipos de entrada, el horario de apertura de puertas y las normas de edad suelen variar de una edición a otra. Los grandes festivales venden a través de un canal oficial o de una ticketera asociada con nombre propio, y las pulseras de reventa son una estafa habitual.
 
 ## A través de la compuerta
 
-Esta es la cara de Taipéi que la mayoría de los visitantes nunca llega a conocer. Los parques ribereños de la ciudad quedan fuera de una línea continua de diques. Se accede a ellos a pie, ya sea por las **compuertas (水門)**, unas aberturas practicadas en el muro, o por rampas que lo salvan.
+Esta es la cara de Taipéi que la mayoría de los visitantes nunca llega a conocer. Los parques ribereños de la ciudad quedan fuera de una línea continua de diques. Se accede a ellos a pie, ya sea por las **compuertas (水門)**, aberturas practicadas en el muro, o por rampas que lo salvan.
 
-Dajia es uno de los parques más grandes de este tipo. Lo forman sobre todo extensiones de césped, carriles bici y vegetación baja de ribera, y apenas ofrece sombra permanente. En un día de festival, eso tiene consecuencias:
+Dajia figura entre los más grandes de estos parques. Lo componen sobre todo praderas abiertas, carriles bici y vegetación baja junto al agua, y apenas ofrece sombra permanente. Para una jornada de festival, eso tiene consecuencias:
 
-- El suelo, de hierba y pavimento, está al nivel del río, así que habrá barro si ha llovido.
-- Casi no hay resguardo natural contra el viento que llega del agua.
-- Tanto la entrada como la salida se canalizan por un número limitado de puertas, por lo que salir lleva su tiempo.
+- El suelo, de césped y pavimento, está al nivel del río y se embarra cuando llueve.
+- Hay poco resguardo natural frente al viento que llega desde el agua.
+- Las entradas y salidas se concentran en un número limitado de compuertas, por lo que salir lleva su tiempo.
 
-A la salida, miles de personas se apretujan en esas mismas aberturas del muro. Si se marcha unos minutos antes de que termine la última sesión, o si se queda un rato más después, el regreso a pie hasta el metro será mucho más tranquilo.
+En los grandes eventos de la ribera, el público abandona el recinto por esos mismos huecos del muro. El trayecto de vuelta al metro resulta más tranquilo unos minutos antes de que termine la última sesión, o un buen rato después.
 
-## Cómo llegar al Parque Ribereño de Dajia
+## Cómo llegar al parque ribereño de Dajia
 
-El parque se encuentra en el distrito de Zhongshan, cerca del puente de Dazhi. En la orilla opuesta, al norte, queda el barrio de Dazhi, donde se alza la noria del Miramar Entertainment Park. Río arriba, hacia el oeste, el Grand Hotel corona su colina con sus tejados rojos.
+El parque está en el distrito de Zhongshan, junto al puente de Dazhi. En la orilla norte, al otro lado del río, queda el barrio de Dazhi, donde se alza la noria del Miramar Entertainment Park. Río arriba, hacia el oeste, el Grand Hotel luce sus tejados rojos sobre la ladera.
 
-Las paradas de metro más próximas pertenecen a la **línea Wenhu (línea marrón)**:
+Las paradas de metro más cercanas pertenecen a la **línea Wenhu (línea marrón)**:
 
-- **Estación Dazhi**: es la más cercana, en la orilla norte; desde allí se cruza el puente a pie hasta el parque.
+- **Estación Dazhi**: es la más próxima en la orilla norte; desde ella se cruza el puente a pie hasta el parque.
 - **Estación Jiannan Road**: junto a la noria del Miramar, con un paseo algo más largo.
 
-Desde cualquiera de las dos, calcule entre 15 y 20 minutos a pie, además del tiempo de espera en las puertas. La línea Wenhu circula por vía elevada con trenes pequeños sin conductor, que se llenan enseguida tras un gran evento, así que prepárese para esperar en el andén.
+Desde cualquiera de las dos se tarda entre 15 y 20 minutos a pie, a lo que se suma la espera en las compuertas los días de evento. La línea Wenhu circula por vías elevadas con trenes pequeños sin conductor. Después de un gran evento se llenan enseguida, y las esperas en el andén son frecuentes.
 
-En Taipéi funcionan los taxis y las aplicaciones de transporte con conductor, pero a la hora del cierre las calles cercanas al parque se colapsan. Lo habitual es que consiga coche antes si camina hasta una avenida principal, lejos de las puertas.
+En Taipéi funcionan tanto los taxis como las aplicaciones de transporte con conductor, pero las calles cercanas al parque se colapsan a la hora del cierre. En una avenida principal, más alejada de las compuertas, suele conseguirse coche antes.
 
 ## Qué ponerse para una noche de noviembre junto al río
 
-A mediados de noviembre, Taipéi disfruta de días templados y noches más frescas. Es además la temporada del monzón del noreste, que suele traer cielos grises y llovizna al norte de la isla.
+A mediados de noviembre, Taipéi disfruta de días templados, aunque al anochecer refresca. Es además la época del monzón del noreste, que con frecuencia trae cielos grises y llovizna al norte de la isla.
 
-En una ribera al descubierto, hay que estar preparado para ambas cosas:
+En una ribera tan expuesta, conviene un equipo que responda a ambas cosas:
 
-- Una prenda impermeable ligera o un poncho
-- Un calzado con el que aguantar horas de pie sobre hierba mojada
-- Una capa fina para cuando se ponga el sol y refresque el aire del río
-- Una batería portátil, porque dependerá del móvil para los mapas y para volver a casa
+- Una capa impermeable ligera o un chubasquero
+- Calzado con el que aguantar de pie horas sobre césped mojado
+- Una prenda fina para después de la puesta de sol, cuando el aire del río se enfría
+- Una batería portátil, ya que el teléfono lleva los mapas y la forma de volver a casa
 
-Antes de hacer la maleta, consulte en la web oficial la lista de objetos permitidos. Los festivales suelen restringir bolsos, paraguas y bebidas del exterior, y estas normas pueden cambiar de una edición a otra.
+Los festivales suelen restringir bolsos, paraguas y bebidas del exterior, y esas normas pueden cambiar de una edición a otra.
 
-## El día de festival, a la manera de Taipéi
+## La jornada de festival al estilo de Taipéi
 
-Taipéi pone fácil la logística de una gran jornada fuera de casa, siempre que recurra a lo mismo que usan sus habitantes.
+Taipéi facilita mucho la logística de un gran día fuera si se recurre a lo mismo que usan sus habitantes.
 
-- **Hágase con una EasyCard (悠遊卡).** Sirve para pagar el metro y el autobús con solo acercarla al lector, y también en las tiendas de conveniencia. Recárguela antes del evento para no tener que pasar por las máquinas expendedoras cuando todo el mundo se marche.
-- **Aproveche las tiendas de conveniencia.** Los 7-Eleven y FamilyMart repartidos por Zhongshan y Dazhi venden agua, ponchos, tentempiés y cargadores de móvil. Abastézcase antes de cruzar las compuertas.
-- **Respete las colas.** En los andenes del metro, los viajeros de Taipéi esperan en filas señalizadas y se colocan a la derecha en las escaleras mecánicas. La costumbre se mantiene también después de un festival, y no pasa desapercibido el visitante que se cuela.
-- **Mantenga el orden en el tren.** Está prohibido comer y beber dentro de las estaciones y los trenes del metro, y las multas se aplican. Termine su bebida antes de pasar la tarjeta.
-- **Tenga previsto el último tren.** Consulte en la web del Metro de Taipéi las últimas salidas de la línea Wenhu desde Dazhi y Jiannan Road. Decídalo de antemano: o se marcha a tiempo para tomar el tren, o cuenta con volver en taxi.
+- **La EasyCard (悠遊卡).** Sirve en el metro, en los autobuses y en las tiendas de conveniencia. Con saldo cargado, uno se libra de las máquinas expendedoras cuando una multitud sale a la vez.
+- **Tiendas de conveniencia.** Los 7-Eleven y FamilyMart repartidos por Zhongshan y Dazhi venden agua, chubasqueros, tentempiés y cargadores para el móvil.
+- **Las colas.** En los andenes del metro, los viajeros de Taipéi se colocan en filas señalizadas y, en las escaleras mecánicas, se mantienen a la derecha. La costumbre se respeta también a la salida de un festival, y la gente se da cuenta cuando algún visitante se cuela.
+- **Trenes tranquilos.** Está prohibido comer y beber dentro de las estaciones y los trenes del metro, y las multas se aplican.
+- **El último tren.** La línea Wenhu no funciona toda la noche, y Taipei Metro publica las últimas salidas desde Dazhi y Jiannan Road. Pasada esa hora, el taxi es la principal opción para volver.
 
-En Taipéi conviven varios medios de pago. Las tarjetas y los monederos móviles son habituales, aunque los pequeños vendedores a menudo solo aceptan efectivo. En los puestos de comida y en los taxis no se espera propina.
+En Taipéi se paga de formas diversas. Las tarjetas y los monederos móviles están muy extendidos, pero los pequeños comercios a menudo solo aceptan efectivo. En los puestos de comida y en los taxis no se espera propina.
 
 ## Antes y después de la música
 
-Los alrededores del parque dan para llenar el día sin dificultad. El mercado nocturno de la calle Linjiang está en Da'an, demasiado lejos para comer algo rápido. Pero el propio Dazhi cuenta con numerosos locales informales y tiendas de conveniencia a poca distancia a pie de las estaciones.
+Los alrededores del parque dan para llenar un día sin esfuerzo. El mercado nocturno de la calle Linjiang queda en Da'an, demasiado lejos para comer algo rápido. Dazhi, en cambio, cuenta con numerosos locales informales y tiendas de conveniencia a poca distancia de las estaciones.
 
-Si llega temprano, desde la noria del Miramar, en Jiannan Road, podrá contemplar el río y el parque antes de que se forme la multitud. Más al oeste, a un corto trayecto en metro, Yuanshan reúne el Museo de Bellas Artes de Taipéi y el Parque de la Expo. Cualquiera de los dos permite pasar la mañana con calma antes de una larga noche de pie.
+Más temprano, la noria del Miramar, en Jiannan Road, ofrece vistas sobre el río y el parque. Algo más al oeste, en Yuanshan, a un corto trayecto en metro, se encuentran el Museo de Bellas Artes de Taipéi y el parque Expo. Cualquiera de los dos permitía pasar la mañana con calma antes de una larga noche de pie.
 
-Al día siguiente, tómeselo con tranquilidad. Muchos taipeienses elegirían, tras una gran noche de fiesta, un desayuno tardío de leche de soja y crepe de huevo (蛋餅) en alguna desayunería del barrio.
+Al día siguiente, lo propio era tomárselo con calma. Un desayuno tardío de leche de soja y crepe de huevo (蛋餅) en alguna desayunería del barrio es lo que muchos taipeienses elegirían tras una gran noche de fiesta.

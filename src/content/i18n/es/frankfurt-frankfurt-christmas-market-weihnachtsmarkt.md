@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-frankfurt-christmas-market-weihnachtsmarkt
-srcHash: '9248c3fc7395'
+srcHash: 'dcabd44c147a'
 title: 'Mercado de Navidad de Fráncfort (Weihnachtsmarkt): fechas, entradas y ubicación'
 description: 'Del 23 de noviembre al 22 de diciembre de 2026, el mercado de Navidad de Fráncfort (Weihnachtsmarkt) ocupa seis plazas del casco antiguo: Römerberg, Paulsplatz, Mainkai, Hauptwache, Friedrich-Stoltze-Platz y Roßmarkt.'
 quickAnswer: 'Del 23 de noviembre al 22 de diciembre de 2026, el mercado de Navidad de Fráncfort (Weihnachtsmarkt) ocupa seis plazas del casco antiguo (Altstadt): Römerberg, Paulsplatz, Mainkai, Hauptwache, Friedrich-Stoltze-Platz y Roßmarkt. No hay entradas y el acceso es gratuito, así que basta con presentarse allí. Desde la estación de metro Dom/Römer se llega en pocos minutos a pie hasta el árbol de 26 metros que preside Römerberg.'

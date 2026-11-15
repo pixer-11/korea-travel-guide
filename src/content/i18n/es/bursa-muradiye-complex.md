@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bursa-muradiye-complex
-srcHash: '7925f09b88b5'
+srcHash: 'ab23c9ce1b26'
 title: 'Complejo de Muradiye: guía de viaje de Bursa (4.9★)'
 description: En el barrio de Muradiye, al oeste del centro de Bursa, el sultán Murad II levantó en el siglo XV una mezquita y una madrasa junto a un jardín amurallado de tumbas reales. La visita requiere 1–1.5 horas. Con una valoración de 4.9★ (3,920 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: En el barrio de Muradiye, al oeste del centro de Bursa, se encuentra el complejo que el sultán Murad II mandó construir en el siglo XV. Reúne una mezquita, una madrasa y un jardín amurallado con tumbas reales, y su visita requiere 1–1.5 horas. Actualmente abre de 8am–6pm. Cualquier día de la semana, la franja más tranquila suele ser de 8am a 11am. Conviene evitar las tardes de fin de semana, entre 1pm y 6pm.
@@ -28,7 +28,7 @@ Casi todos los que descansan aquí son príncipes, y varios de ellos salieron de
 
 La mayor parte de su atención la merecen cuatro tumbas, cada una con un carácter propio.
 
-- **Tumba de Murad II.** Es el edificio más sobrio del recinto, tal como él deseaba. El sultán pidió una sepultura sencilla y a cielo abierto, de modo que la lluvia cae directamente sobre ella a través de una abertura en la cúpula.
+- **Tumba de Murad II.** Es el edificio más sobrio del recinto. El sultán pidió una sepultura sencilla y a cielo abierto, de modo que la lluvia cae directamente sobre ella a través de una abertura en la cúpula.
 - **Tumba de Şehzade Mustafa.** Aquí yace el hijo de Solimán el Magnífico, ejecutado en 1553. Revisten su interior azulejos de İznik en tonos azules y turquesa.
 - **Tumba de Cem Sultan.** Cem, hijo de Mehmed II, pasó largos años exiliado en Europa. En lugar de azulejos, sus muros lucen decoración pintada.
 - **Tumba de Şehzade Ahmed.** Su interior también está cubierto de azulejos, y lo interesante es precisamente el contraste con la cúpula desnuda de Murad.

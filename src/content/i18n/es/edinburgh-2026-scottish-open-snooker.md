@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: edinburgh-2026-scottish-open-snooker
-srcHash: '11ff1ff9edc1'
+srcHash: '3c53f3bd72e2'
 title: 'Abierto de Escocia de Snooker 2026: fechas, entradas y sede (Edimburgo)'
 description: Del 14 al 20 de diciembre de 2026, el Meadowbank Sports Centre de Edimburgo acoge el Abierto de Escocia de Snooker, que se disputa como BetVictor Scottish Open dentro de la Home Nations Series.
 quickAnswer: 'Del 14 al 20 de diciembre de 2026, el Meadowbank Sports Centre de Edimburgo acoge el Abierto de Escocia de Snooker, que se disputa como BetVictor Scottish Open dentro de la Home Nations Series. En su web oficial, el World Snooker Tour publica tanto el calendario de sesiones como los enlaces para comprar entradas. La sede está en el este de la ciudad: desde Princes Street se llega en un breve trayecto de autobús por London Road.'
@@ -35,7 +35,7 @@ Lo que suelen hacer los aficionados:
 
 ## Cómo llegar a London Road
 
-El Meadowbank Sports Centre se encuentra en London Road, en el barrio de Meadowbank, al este de la Ciudad Vieja. Se trata de un centro de nueva construcción, levantado donde antes estaba el antiguo Meadowbank Stadium. Por London Road circulan los autobuses de Lothian Buses procedentes de Leith Street y del extremo oriental de Princes Street. Desde la estación de Edinburgh Waverley, el autobús es la opción más sencilla.
+El Meadowbank Sports Centre se encuentra en London Road, en el barrio de Meadowbank, al este de la Ciudad Vieja. El centro se alza en el solar que ocupaba el antiguo Meadowbank Stadium. Por London Road circulan los autobuses de Lothian Buses procedentes de Leith Street y del extremo oriental de Princes Street. Desde la estación de Edinburgh Waverley, el autobús es la opción más sencilla.
 
 A pie, desde Waverley se tarda unos 30–40 minutos, con un recorrido que pasa por debajo de Calton Hill. Unas pocas calles al norte se alza Easter Road, el estadio del Hibernian. Al sur de la sede quedan Holyrood Park y Arthur's Seat. A mediados de diciembre anochece hacia las 4pm, así que el público de la sesión nocturna vuelve a casa por avenidas principales bien iluminadas.
 

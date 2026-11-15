@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: auckland-boyz-ii-men-new-zealand-tour
-srcHash: '44bd329a07a4'
+srcHash: 'ff72f5fa2139'
 title: 'Gira de Boyz II Men por Nueva Zelanda: fechas, entradas y recinto (Auckland)'
 description: Con cuatro fechas en diciembre de 2026, la gira neozelandesa de Boyz II Men lleva al grupo estadounidense de R&B a Auckland y a otras ciudades del país. Entradas y recinto son lo primero que preguntan casi todos los fans.
 quickAnswer: Con cuatro fechas en diciembre de 2026, la gira neozelandesa de Boyz II Men lleva al grupo estadounidense de R&B a Auckland y a otras ciudades del país. Entradas y recinto son lo primero que preguntan casi todos los fans. Los conciertos coinciden con el comienzo del verano austral, cuando en Auckland anochece tarde y la ciudad se llena de gente durante las fiestas de fin de año.
@@ -39,7 +39,7 @@ Como aquí no figura el repertorio de estas fechas, conviene tomar la lista como
 
 ## Auckland en diciembre
 
-En Auckland, diciembre marca el comienzo del verano. El sol se pone hacia las 8:30pm, así que las noches de concierto todavía suele haber luz cuando el público llega al recinto. En el istmo el tiempo cambia con rapidez, y una prenda ligera suele bastar tanto para una tarde calurosa como para el paseo de vuelta, a veces con brisa, tras el espectáculo.
+En Auckland, diciembre marca el comienzo del verano. Las tardes conservan la luz hasta muy tarde, así que las noches de concierto todavía suele haber luz cuando el público llega al recinto. En el istmo el tiempo cambia con rapidez, y una prenda ligera suele bastar tanto para una tarde calurosa como para el paseo de vuelta, a veces con brisa, tras el espectáculo.
 
 Además, es temporada alta. Las cenas navideñas de empresa, los cruceros atracados en los muelles del centro y el inicio de las vacaciones escolares de verano compiten por las habitaciones de hotel. Quienes llegan de otras partes de Nueva Zelanda suelen alojarse en el centro financiero (CBD), en Parnell o en Ponsonby, tres zonas cercanas al principal nudo de transporte de la ciudad, Britomart.
 

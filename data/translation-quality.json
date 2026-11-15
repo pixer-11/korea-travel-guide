@@ -4794,13 +4794,6 @@
   "worst": "El horario es sencillo, pero conviene confirmarlo antes de ir:",
   "at": "2026-09-21T14:25:07.467Z"
  },
- "es/nantou-2026-sun-moon-lake-music-fireworks-festival": {
-  "hash": "1178dfeff0d3",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "el resultado es algo realmente distinto a un mercado nocturno o festival de templo típico",
-  "at": "2026-08-15T03:29:17.890Z"
- },
  "es/naples-archaeological-park-of-pompeii": {
   "hash": "3344c3a29b01",
   "score": 1,
@@ -12073,13 +12066,6 @@
   "registerBreak": false,
   "worst": "これは9時間という長い時間帯をまるまる使えるということなので、訪問の計画を立てやすいポイントです。",
   "at": "2026-08-15T10:36:59.004Z"
- },
- "ja/nantou-2026-sun-moon-lake-music-fireworks-festival": {
-  "hash": "d97edcaeb30c",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "訪問者が最もよくしてしまう間違いは、「祭り」を1晩限りの大イベントだと思い込むことです。",
-  "at": "2026-08-15T03:01:33.078Z"
  },
  "ja/naples-archaeological-park-of-pompeii": {
   "hash": "6318e911085c",
@@ -26242,13 +26228,6 @@
   "worst": "这也意味着你有整整九个小时的时间窗口可以自由支配，而不是一段狭窄的时间段。",
   "at": "2026-09-16T07:57:30.760Z"
  },
- "zh/nantou-2026-sun-moon-lake-music-fireworks-festival": {
-  "hash": "3c899bbfca04",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "游客最常犯的错误，就是以为“节庆”指的是集中在一个盛大夜晚——实际上这是一个持续数周的活动季",
-  "at": "2026-08-15T04:05:29.099Z"
- },
  "zh/naples-archaeological-park-of-pompeii": {
   "hash": "50b05b4ae2b9",
   "score": 1,
@@ -30344,13 +30323,6 @@
   "worst": "モートンベイ・イチジクは小さな実を落とし、その実はピクニックシートにしみを作るうえ、鳥も寄せつけます。",
   "at": "2026-10-11T00:24:02.110Z"
  },
- "ja/bocaue-my-chemical-romance-manila-concert": {
-  "hash": "6df576990a7d",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "黒い服やマーチングバンド風のジャケットが暗黙のドレスコードで、濃いアイライナーも誰も気に留めません。",
-  "at": "2026-10-01T10:02:18.351Z"
- },
  "ko/adelaide-botanic-park": {
   "hash": "97e3d2d7c6f3",
   "score": 0,
@@ -30897,13 +30869,6 @@
   "worst": "미슐랭 셰프 대부분은 제대로 격식을 갖춘 레스토랑 한 곳에만 자기 이름을 겁니다.",
   "at": "2026-10-05T08:00:15.418Z"
  },
- "ko/bengaluru-guns-n-roses-india-tour": {
-  "hash": "516043f131c7",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "클래식 록과 헤비 록이 수십 년 동안 이곳의 펍과 대학 축제를 채워 왔고",
-  "at": "2026-11-02T08:11:38.967Z"
- },
  "ko/bath-museum-of-bath-at-work": {
   "hash": "f94e836fb81f",
   "score": 1,
@@ -30938,13 +30903,6 @@
   "registerBreak": false,
   "worst": "주말에는 운영 시간이 달라집니다... 가장 한산한 때는 주말입니다",
   "at": "2026-10-26T08:17:57.952Z"
- },
- "ko/bocaue-my-chemical-romance-manila-concert": {
-  "hash": "48feee266522",
-  "score": 0,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-05T08:00:29.037Z"
  },
  "ko/bocaue-post-malone-live-in-manila": {
   "hash": "e1aa173524be",
@@ -32207,11 +32165,11 @@
   "at": "2026-10-25T07:52:38.385Z"
  },
  "ko/abu-dhabi-k-pop-fever-etihad-arena": {
-  "hash": "4a0897017dfe",
+  "hash": "72ff8d0744d3",
   "score": 1,
   "registerBreak": false,
-  "worst": "케이팝 피버는 전문 가수와 댄서로 구성된 공연단이 에티하드 아레나 무대에서 BTS, 블랙핑크...",
-  "at": "2026-11-02T17:39:57.750Z"
+  "worst": "일정은 2026년 9월 26일, 장소는 야스섬의 에티하드 아레나였습니다.",
+  "at": "2026-11-15T07:50:34.870Z"
  },
  "ko/bangkok-babymonster-world-tour-choom": {
   "hash": "64373b2414fe",
@@ -32459,11 +32417,11 @@
   "at": "2026-10-26T08:17:54.053Z"
  },
  "ko/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "8810d54364c6",
+  "hash": "d7f529f6d979",
   "score": 1,
   "registerBreak": false,
-  "worst": "두 사람을 한 무대에 세운 것은 일부러 대비를 노린 조합입니다.",
-  "at": "2026-11-01T08:03:23.762Z"
+  "worst": "다른 한 사람은 넓은 잔디밭을 가득 메운 관객이 일제히 뛰어오르도록 만든 댄스팝을 들려줍니다.",
+  "at": "2026-11-15T07:50:41.387Z"
  },
  "ko/berlin-taemin-berlin-2026": {
   "hash": "f0b16c15cc31",
@@ -35139,13 +35097,6 @@
   "worst": "그래서 지켜야 할 예절도 간단합니다. 함께 쓰는 산책로에서는 오른쪽으로 다니시고...",
   "at": "2026-10-12T16:51:47.064Z"
  },
- "ko/jakarta-5-seconds-of-summer-jakarta": {
-  "hash": "bf3483fd4774",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "호주 출신 네 명의 멤버가 단 하루, 실내 공연장 한 곳에서 무대를 꾸몄습니다.",
-  "at": "2026-10-12T16:51:50.268Z"
- },
  "ko/istanbul-liminal": {
   "hash": "3202323e1823",
   "score": 1,
@@ -35875,11 +35826,11 @@
   "at": "2026-10-16T08:18:14.346Z"
  },
  "es/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "c9fa3129770c",
+  "hash": "3104d3c14a74",
   "score": 1,
   "registerBreak": false,
-  "worst": "No disponemos de información verificada sobre el repertorio ni sobre el orden de actuación",
-  "at": "2026-11-01T08:02:01.589Z"
+  "worst": "En Abu Dabi funcionan tanto los taxis como aplicaciones de transporte como Caree",
+  "at": "2026-11-15T07:50:25.512Z"
  },
  "es/bangkok-babymonster-world-tour-choom": {
   "hash": "0c85e3d182b9",
@@ -35896,11 +35847,11 @@
   "at": "2026-10-16T08:18:21.608Z"
  },
  "ja/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "4a7ee66fe428",
+  "hash": "03e88f934b59",
   "score": 1,
   "registerBreak": false,
-  "worst": "周辺の道路からは、サーキットの照明や、コースをまたぐように建つホテル「W アブダビ・ヤス・アイランド」を眺められます。",
-  "at": "2026-11-01T08:02:05.358Z"
+  "worst": "片方は、ピアノを軸にした失恋ソングでキャリアを築き、観客全員が一語一句を大合唱するアーティスト。",
+  "at": "2026-11-15T07:50:28.521Z"
  },
  "ja/bangkok-babymonster-world-tour-choom": {
   "hash": "349e5ea654f5",
@@ -35917,11 +35868,11 @@
   "at": "2026-10-16T08:18:52.958Z"
  },
  "zh/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "hash": "20d7c7c13407",
+  "hash": "67e480365525",
   "score": 1,
   "registerBreak": false,
   "worst": "由于我们未能核实两人的歌单与出场顺序，本文不作介绍。",
-  "at": "2026-11-01T08:02:19.568Z"
+  "at": "2026-11-15T07:50:52.296Z"
  },
  "zh/bangkok-babymonster-world-tour-choom": {
   "hash": "479bcd7b09af",
@@ -37561,13 +37512,6 @@
   "worst": "그녀에게 이번 공연은 아부다비 데뷔 무대가 아닙니다. 다시 찾는 무대입니다.",
   "at": "2026-10-26T08:17:10.315Z"
  },
- "ko/abu-dhabi-bredx-festival-bryson-tiller-central-cee": {
-  "hash": "cd5398effb48",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "두 팬층이 겹치는 폭이 넓다는 점이 바로 브레드엑스 같은 2인 헤드라이너 공연이 거는 기대입니다",
-  "at": "2026-10-26T08:17:11.228Z"
- },
  "ko/ahmedabad-diljit-dosanjh-rupay-aura-india-tour-2026-ahmedabad": {
   "hash": "79dc4d422e27",
   "score": 1,
@@ -38358,13 +38302,6 @@
   "registerBreak": false,
   "worst": "예측상 가장 붐비는 시간대는 주말 오전 10시~오후 4시입니다.",
   "at": "2026-11-09T08:15:05.013Z"
- },
- "ko/barcelona-guitar-bcn-festival-2026": {
-  "hash": "5c5e0233c20b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "마드리드에 오래 살아온 덕분에 스페인 관객은 그를 거의 이 나라 사람처럼 여깁니다.",
-  "at": "2026-11-09T08:15:15.560Z"
  },
  "ko/bath-bath-abbey": {
   "hash": "028360ca4bc5",
@@ -39634,11 +39571,11 @@
   "at": "2026-11-09T08:14:58.962Z"
  },
  "ko/asan-korea-masters-bwf-badminton": {
-  "hash": "6911a13b396d",
+  "hash": "4ec3156591cc",
   "score": 1,
   "registerBreak": false,
-  "worst": "이순신 장군도 자신의 이름을 딴 배드민턴 경기장이 생길 줄은 몰랐겠지만, 이 도시와는 잘 어울립니다.",
-  "at": "2026-11-09T08:14:59.653Z"
+  "worst": "이순신 장군도 자신의 이름을 딴 배드민턴 경기장이 생길 줄은 상상도 하지 못했지만, 이 도시와는 잘 어울립니다.",
+  "at": "2026-11-15T07:50:42.507Z"
  },
  "ko/auckland-boyz-ii-men-new-zealand-tour": {
   "hash": "dab55d96babd",
@@ -40437,5 +40374,47 @@
   "registerBreak": false,
   "worst": "这份日程把星期六空了出来，方便跟着巡演前往墨尔本的歌迷。",
   "at": "2026-11-14T14:23:28.507Z"
+ },
+ "es/abu-dhabi-k-pop-fever-etihad-arena": {
+  "hash": "a6aab9fabf81",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El entorno del recinto forma parte de cualquier velada en est",
+  "at": "2026-11-15T07:50:24.620Z"
+ },
+ "es/asan-korea-masters-bwf-badminton": {
+  "hash": "9e7c81b7b33c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Un destello en el campo visual de un jugador es lo único que provoca miradas de reproche",
+  "at": "2026-11-15T07:50:26.391Z"
+ },
+ "ja/abu-dhabi-k-pop-fever-etihad-arena": {
+  "hash": "66f5e2520a78",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "告知の表現は慎重に選ばれていました。公演はBTS、BLACKPINK、KATSEYEに「インスパイアされた」ものとされ",
+  "at": "2026-11-15T07:50:27.440Z"
+ },
+ "ja/asan-korea-masters-bwf-badminton": {
+  "hash": "5e308b31ea94",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "観客が息をのみ終える前に、ラリーはもう決着しています。",
+  "at": "2026-11-15T07:50:29.469Z"
+ },
+ "zh/abu-dhabi-k-pop-fever-etihad-arena": {
+  "hash": "068828e16b0c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在这里度过的夜晚，体育馆周边也是重要一环。",
+  "at": "2026-11-15T07:50:51.499Z"
+ },
+ "zh/asan-korea-masters-bwf-badminton": {
+  "hash": "e031f73b24e4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "闪光灯晃到球员视线，是唯一会招来全场侧目的事。",
+  "at": "2026-11-15T07:50:59.634Z"
  }
 }
