@@ -13,7 +13,6 @@ eventPerformer:
   name: K4OS
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - buenos aires
   - event
@@ -31,6 +30,14 @@ faq:
     a: Villa Crespo and nearby Palermo have parrillas, pizzerías and cafés within walking distance. Many fans meet there for dinner before the show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Movistar_Arena_junio_de_2025_-_BugWarp_02.jpg/3840px-Movistar_Arena_junio_de_2025_-_BugWarp_02.jpg
+  credit: 'Photo: BugWarp / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Movistar_Arena_junio_de_2025_-_BugWarp_02.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A home-grown act on a big indoor stage

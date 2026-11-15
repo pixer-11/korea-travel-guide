@@ -15,7 +15,6 @@ eventPerformer:
   name: Jeonghan & Joshua (SEVENTEEN)
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - macau
   - event
@@ -33,6 +32,14 @@ faq:
     a: Most stay in the Cotai resort hotels or in Taipa. For food away from the resorts, Taipa Village's Rua do Cunha has pork chop buns and almond cookies, a short taxi ride away.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Galaxy_Macau_Tower.jpg
+  credit: 'Photo: Brenden Brain / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Galaxy_Macau_Tower.jpg
+  focus:
+    x: 40
+    'y': 30
 ---
 
 ## Two nights on the Cotai Strip

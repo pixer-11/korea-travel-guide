@@ -13,6 +13,14 @@ eventPerformer:
   name: Skriptonit
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tashkent-Museum_of_Applied_Arts_%281%29.jpg/3840px-Tashkent-Museum_of_Applied_Arts_%281%29.jpg'
+  credit: 'Photo: Ji-Elle / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent-Museum_of_Applied_Arts_(1).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - tashkent

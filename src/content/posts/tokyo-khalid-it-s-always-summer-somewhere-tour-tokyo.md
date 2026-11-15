@@ -13,7 +13,6 @@ eventPerformer:
   name: Khalid
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - tokyo
   - event
@@ -31,6 +30,14 @@ faq:
     a: The Ariake Garden mall beside the theatre has restaurants and shops. Tokyo Big Sight and Ariake Arena are within walking distance, and Odaiba and the Rainbow Bridge are a few stops away on the Yurikamome.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tokyo_Garden_Theater_1.jpg/3840px-Tokyo_Garden_Theater_1.jpg
+  credit: 'Photo: NickeldimeC / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tokyo_Garden_Theater_1.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A summer tour on the winter bay

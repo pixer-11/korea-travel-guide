@@ -9,6 +9,14 @@ eventStartDate: '2026-12-13'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bas%C3%ADlica_de_Santa_Mar%C3%ADa%2C_Elche%2C_Espa%C3%B1a%2C_2014-07-05%2C_DD_17.JPG/1280px-Bas%C3%ADlica_de_Santa_Mar%C3%ADa%2C_Elche%2C_Espa%C3%B1a%2C_2014-07-05%2C_DD_17.JPG'
+  credit: 'Photo: Diego Delso (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Basílica de Santa María, Elche, España, 2014-07-05, DD 17.JPG'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - elche

@@ -13,6 +13,14 @@ eventPerformer:
   name: Cesare Cremonini
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/49/Forum_Assago_esterno.jpg'
+  credit: 'Photo: Michiolimpia / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Forum_Assago_esterno.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - assago

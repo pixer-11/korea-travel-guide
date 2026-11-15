@@ -15,6 +15,14 @@ eventPerformer:
   name: D.O. (Doh Kyung-soo)
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Skyline_in_Manila_%28Metro_Manila%3B_2023-08-11%29_E911a_37.jpg/3840px-Skyline_in_Manila_%28Metro_Manila%3B_2023-08-11%29_E911a_37.jpg'
+  credit: 'Photo: E911a / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_in_Manila_(Metro_Manila;_2023-08-11)_E911a_37.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - quezon city

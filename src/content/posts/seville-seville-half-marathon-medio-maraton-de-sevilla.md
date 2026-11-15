@@ -9,6 +9,14 @@ eventStartDate: '2026-12-13'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Seville_skyline_%2849160110067%29.jpg/3840px-Seville_skyline_%2849160110067%29.jpg'
+  credit: 'Photo: Winniepix / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Seville_skyline_(49160110067).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - seville

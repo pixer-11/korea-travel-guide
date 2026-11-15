@@ -13,6 +13,14 @@ eventOrganizer:
   name: Event Sports
   url: https://www.egyptianmarathon.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Sharm_el-Sheikh_12.jpg'
+  credit: 'Photo: Шухрат Саъдиев / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sharm_el-Sheikh_12.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - sharm el sheikh

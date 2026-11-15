@@ -9,7 +9,6 @@ eventStartDate: '2026-12-31'
 eventEndDate: '2027-01-01'
 eventRecurring: true
 eventFactsAsked: true
-gallery: []
 tags:
   - denpasar
   - event
@@ -27,6 +26,14 @@ faq:
     a: No. The Balinese Hindu New Year is Nyepi, a day of silence usually in March, when the whole island including the airport shuts down for 24 hours. The December 31 party is the international calendar celebration.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg/3840px-Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Midnight on a west-facing coast

@@ -13,6 +13,14 @@ eventOrganizer:
   name: Badminton Association of India
   url: https://www.badmintonindia.org/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dabri%2C_New_Delhi-2.jpg/3840px-Dabri%2C_New_Delhi-2.jpg'
+  credit: 'Photo: VartamanVarta / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dabri,_New_Delhi-2.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - new delhi

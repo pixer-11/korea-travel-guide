@@ -3694,7 +3694,13 @@
   "tashkent-2027-sabre-fencing-world-cup-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Special_National_Sports_Festival_%28JPN%29_Fencing_sabre_02.jpg/3840px-Special_National_Sports_Festival_%28JPN%29_Fencing_sabre_02.jpg": 3840,
   "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Boris_Nedeltchev_en_concert.jpg": 1371,
   "toraja-lovely-december-toraja\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/The_Lovely_Eggs_%2854200903791%29.jpg": 1920,
-  "toronto-st-lawrence-market-winter-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Toronto_-_ON_-_St_Lawrence_Market.jpg": 3380
+  "toronto-st-lawrence-market-winter-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Toronto_-_ON_-_St_Lawrence_Market.jpg": 3380,
+  "buenos-aires-k4os-at-movistar-arena\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Movistar_Arena_junio_de_2025_-_BugWarp_02.jpg/3840px-Movistar_Arena_junio_de_2025_-_BugWarp_02.jpg": 3840,
+  "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg/3840px-Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg": 3840,
+  "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg/3840px-Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg": 3840,
+  "kuala-lumpur-thaipusam-at-batu-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Taipusam_Batu_Caves%2C_2012_-_panoramio.jpg/3840px-Taipusam_Batu_Caves%2C_2012_-_panoramio.jpg": 3840,
+  "macau-jeonghan-x-joshua-journey-into-dreaming-macau\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Galaxy_Macau_Tower.jpg": 3264,
+  "tokyo-khalid-it-s-always-summer-somewhere-tour-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tokyo_Garden_Theater_1.jpg/3840px-Tokyo_Garden_Theater_1.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4004,8 +4010,8 @@
   },
   "paris-hando-champs-elysees": {
    "width": 1080,
-   "attempts": 2,
-   "nextTry": "2026-11-13",
+   "attempts": 3,
+   "nextTry": "2026-11-22",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -4214,5 +4220,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-15T21:13:21.986Z"
+ "updated": "2026-11-15T21:18:30.505Z"
 }

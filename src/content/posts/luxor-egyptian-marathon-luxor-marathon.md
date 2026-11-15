@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://egyptianmarathon.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Templo_funerario_de_Hatshepsut%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_118.jpg/3840px-Templo_funerario_de_Hatshepsut%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_118.jpg'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_118.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - luxor

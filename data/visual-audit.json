@@ -1497,6 +1497,30 @@
   "reasonKo": "박물관 전시 중인 빈티지 장난감 총",
   "at": "2026-08-18T13:26:28.020Z"
  },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/3/36/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_03.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Men at tea house, unrelated to ultra race event",
+  "at": "2026-11-15T21:14:33.085Z"
+ },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Ultra_Vomit_-_Concert_2017_%28Saint-%C3%89tienne%29_-_Kammthaar.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert stage, unrelated to ultra running event",
+  "at": "2026-11-15T21:14:30.401Z"
+ },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/Ultra_Vomit_-_Concert_2017_%28Saint-%C3%89tienne%29_-_%C3%89vier_M%C3%A9tal.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert stage, unrelated to running event in Antalya",
+  "at": "2026-11-15T21:14:31.703Z"
+ },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_01.jpg/3840px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_01.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fish shop unrelated to Antalya Ultra marathon event",
+  "at": "2026-11-15T21:14:34.276Z"
+ },
  "antalya-duden-waterfalls\u0001https://fastly.4sqi.net/img/general/original/1401693259_8jEHFrVFPFANGfSLvWNwvNcLD-Yzsp4u0b7GLX1Oj90.jpg": {
   "slug": "antalya-duden-waterfalls",
   "verdict": "MATCH",
@@ -1621,6 +1645,30 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Badminton players in action, representative of event",
   "at": "2026-11-05T01:11:55.527Z"
+ },
+ "assago-cesare-cremonini-concerts-milan\u0001https://upload.wikimedia.org/wikipedia/commons/7/77/Il_pianista_Cesare_Galeotti_%28xilografia%29.jpg": {
+  "slug": "assago-cesare-cremonini-concerts-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Vintage illustration/engraving, not a real photo",
+  "at": "2026-11-15T21:14:53.555Z"
+ },
+ "assago-cesare-cremonini-concerts-milan\u0001https://upload.wikimedia.org/wikipedia/commons/7/7e/Cesare_Cremonini_m2o_2024_%28cropped%29.jpg": {
+  "slug": "assago-cesare-cremonini-concerts-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Person with headphones, not performer or venue shown",
+  "at": "2026-11-15T21:14:50.852Z"
+ },
+ "assago-cesare-cremonini-concerts-milan\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Cesare_Cremonini._Line_engraving._Wellcome_V0001350.jpg": {
+  "slug": "assago-cesare-cremonini-concerts-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Engraved illustration portrait, not a photo",
+  "at": "2026-11-15T21:14:52.221Z"
+ },
+ "assago-cesare-cremonini-concerts-milan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cesare_Cremonini_m2o.jpg/3840px-Cesare_Cremonini_m2o.jpg": {
+  "slug": "assago-cesare-cremonini-concerts-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated person at radio station, not Cremonini concert",
+  "at": "2026-11-15T21:14:49.362Z"
  },
  "assago-il-volo-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Il.Volo_Bogot%C3%A1_Colombia_April_15_JhuanRauldelaSierra.JPG/3840px-Il.Volo_Bogot%C3%A1_Colombia_April_15_JhuanRauldelaSierra.JPG": {
   "slug": "assago-il-volo-concert",
@@ -5840,6 +5888,18 @@
   "reason": "publish gate: Shows exterior building of the botanical garden venue",
   "at": "2026-10-27T07:54:40.451Z"
  },
+ "buenos-aires-k4os-at-movistar-arena\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Esports_at_movistar_arena_buenosaires.jpg": {
+  "slug": "buenos-aires-k4os-at-movistar-arena",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows trophy, logos and screen, not performer or venue",
+  "at": "2026-11-15T21:15:01.573Z"
+ },
+ "buenos-aires-k4os-at-movistar-arena\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Movistar_Arena_junio_de_2025_-_BugWarp_02.jpg/3840px-Movistar_Arena_junio_de_2025_-_BugWarp_02.jpg": {
+  "slug": "buenos-aires-k4os-at-movistar-arena",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Movistar Arena exterior, Buenos Aires venue",
+  "at": "2026-11-15T21:15:03.935Z"
+ },
  "buenos-aires-maria-becerra-in-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Mar%C3%ADa_Becerra_Argentina_v_Spain_19_July_2026-039.jpg": {
   "slug": "buenos-aires-maria-becerra-in-concert",
   "verdict": "MISMATCH",
@@ -9330,6 +9390,18 @@
   "reason": "publish gate: Egyptian temple ruins with reliefs, representative of Dendera site",
   "at": "2026-11-09T07:45:45.503Z"
  },
+ "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg/3840px-Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg": {
+  "slug": "denpasar-bali-new-year-s-eve-celebrations",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Balinese temple ceremony, traditional dress and umbrellas",
+  "at": "2026-11-15T21:15:23.755Z"
+ },
+ "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg/3840px-Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg": {
+  "slug": "denpasar-bali-new-year-s-eve-celebrations",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Balinese temple scene, unrelated to New Year's Eve celebrations",
+  "at": "2026-11-15T21:15:21.041Z"
+ },
  "denpasar-denpasar-festival-denfest\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Al-Furqon_mosque_interior_Denpasar.jpg": {
   "slug": "denpasar-denpasar-festival-denfest",
   "verdict": "MISMATCH",
@@ -10123,6 +10195,30 @@
   "reason": "Taraw Cliff with village below, El Nido Philippines",
   "reasonKo": "엘니도 타라우 절벽과 해변 마을",
   "at": "2026-08-10T14:01:39.284Z"
+ },
+ "elche-elche-alicante-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/2/23/Inicio_de_la_Avenida_de_Elche%2C_Alicante%2C_Spain.jpg": {
+  "slug": "elche-elche-alicante-international-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene unrelated to marathon event, not representative",
+  "at": "2026-11-15T21:15:29.611Z"
+ },
+ "elche-elche-alicante-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Avenida_de_Elche%2C_Alicante_02.jpg/3840px-Avenida_de_Elche%2C_Alicante_02.jpg": {
+  "slug": "elche-elche-alicante-international-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic park path, not a marathon event scene",
+  "at": "2026-11-15T21:15:28.282Z"
+ },
+ "elche-elche-alicante-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/PLD_Space_headquarters%2C_Elche%2C_Alicante%2C_Espa%C3%B1a%2C_2019_02.jpg/3840px-PLD_Space_headquarters%2C_Elche%2C_Alicante%2C_Espa%C3%B1a%2C_2019_02.jpg": {
+  "slug": "elche-elche-alicante-international-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Office workers at computers, unrelated to marathon event",
+  "at": "2026-11-15T21:15:36.688Z"
+ },
+ "elche-elche-alicante-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Avenida_de_Elche%2C_Alicante_01.jpg/3840px-Avenida_de_Elche%2C_Alicante_01.jpg": {
+  "slug": "elche-elche-alicante-international-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic street scene, no marathon or runners visible",
+  "at": "2026-11-15T21:15:26.920Z"
  },
  "fergana-al-farg-oniy-haykali\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ahmad_Al-Farg%27oniy_haykali.jpg/3840px-Ahmad_Al-Farg%27oniy_haykali.jpg": {
   "slug": "fergana-al-farg-oniy-haykali",
@@ -12437,8 +12533,8 @@
  "hangzhou-zhejiang-art-museum\u0001https://live.staticflickr.com/91/282085595_42fc21b782_k.jpg": {
   "slug": "hangzhou-zhejiang-art-museum",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Lion statue, unrelated to art museum building",
-  "at": "2026-11-15T19:36:26.645Z"
+  "reason": "patrol reject: Stone lion statue, unrelated to art museum building",
+  "at": "2026-11-15T21:14:19.479Z"
  },
  "hangzhou-zhejiang-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Bowl%2C_Guan_ware%2C_Hangzhou%2C_Zhejiang_province%2C_China%2C_Southern_Song_dynasty%2C_12th-13th_century_AD%2C_stoneware_with_Guan_glaze_-_Freer_Gallery_of_Art_-_DSC05570.JPG": {
   "slug": "hangzhou-zhejiang-art-museum",
@@ -14944,6 +15040,18 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Tennis player at professional indoor court venue",
   "at": "2026-10-08T14:38:37.944Z"
+ },
+ "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg/3840px-Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg": {
+  "slug": "indianapolis-nba-cup-championship-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Group photo on NBA arena court, consistent with venue",
+  "at": "2026-11-15T21:15:47.376Z"
+ },
+ "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Magic_Johnson_at_Lakers_NBA_championship_rally.jpg/3840px-Magic_Johnson_at_Lakers_NBA_championship_rally.jpg": {
+  "slug": "indianapolis-nba-cup-championship-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated crowd/car scene, not NBA event or venue",
+  "at": "2026-11-15T21:15:44.946Z"
  },
  "inverness-beauly-priory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Scotlan_Beauly_Priory.jpg/1920px-Scotlan_Beauly_Priory.jpg": {
   "slug": "inverness-beauly-priory",
@@ -18906,6 +19014,12 @@
   "reason": "event publish gate: Crowd, fires, lights at Batu Caves during Thaipusam event",
   "at": "2026-11-15T20:50:58.100Z"
  },
+ "kuala-lumpur-thaipusam-at-batu-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Taipusam_Batu_Caves%2C_2012_-_panoramio.jpg/3840px-Taipusam_Batu_Caves%2C_2012_-_panoramio.jpg": {
+  "slug": "kuala-lumpur-thaipusam-at-batu-caves",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Thaipusam celebration with devotees, flowers, offerings",
+  "at": "2026-11-15T21:16:06.243Z"
+ },
  "kuala-lumpur-the-rose-concert\u0001https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Rose%2C_2018-02-25_Budapest_3.jpg": {
   "slug": "kuala-lumpur-the-rose-concert",
   "verdict": "MATCH",
@@ -21574,6 +21688,18 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Macau Legislative Council building — unrelated to a concert at The Venetian Arena; filename only names the city",
   "at": "2026-10-15T13:33:29.616Z"
+ },
+ "macau-jeonghan-x-joshua-journey-into-dreaming-macau\u0001https://upload.wikimedia.org/wikipedia/commons/7/7f/Galaxy_Macau_01.JPG": {
+  "slug": "macau-jeonghan-x-joshua-journey-into-dreaming-macau",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows MGM Grand Macau, not Galaxy Arena",
+  "at": "2026-11-15T21:16:27.051Z"
+ },
+ "macau-jeonghan-x-joshua-journey-into-dreaming-macau\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Galaxy_Macau_Tower.jpg": {
+  "slug": "macau-jeonghan-x-joshua-journey-into-dreaming-macau",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Macau luxury resort/casino architecture, evening ambiance",
+  "at": "2026-11-15T21:16:30.145Z"
  },
  "macau-kara-once-again-glowstage-in-macau\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/KARA_at_DSP_Festival.jpg": {
   "slug": "macau-kara-once-again-glowstage-in-macau",
@@ -25188,6 +25314,18 @@
   "reasonKo": "야무나 강 갓, 보트, 새들",
   "at": "2026-08-17T13:25:21.573Z"
  },
+ "new-delhi-yonex-sunrise-india-open-bwf-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/8/80/Deepika_Padukone_at_Yonex_Sunrise_India_Open_2018_%28cropped%29.jpg": {
+  "slug": "new-delhi-yonex-sunrise-india-open-bwf-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Portrait of actress unrelated to badminton event",
+  "at": "2026-11-15T21:16:39.555Z"
+ },
+ "new-delhi-yonex-sunrise-india-open-bwf-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Yonex_German_Open_Badminton_Championships.jpg/3840px-Yonex_German_Open_Badminton_Championships.jpg": {
+  "slug": "new-delhi-yonex-sunrise-india-open-bwf-badminton",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Logo image, not India Open event or venue",
+  "at": "2026-11-15T21:16:40.920Z"
+ },
  "new-orleans-ayu-bakehouse\u0001https://fastly.4sqi.net/img/general/original/4254309_KUhG1IiHcwCB9gLJZWR90jaM-JDHgWNUZ9tRL1A24HU.jpg": {
   "slug": "new-orleans-ayu-bakehouse",
   "verdict": "MATCH",
@@ -27163,6 +27301,12 @@
   "reason": "Third Tunnel interior with yellow helmets display",
   "at": "2026-07-25T02:47:42.546Z"
  },
+ "pak-kret-boynextdoor-knock-on-vol-2-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_02.png": {
+  "slug": "pak-kret-boynextdoor-knock-on-vol-2-bangkok",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Performer group photo, valid for concert event hero",
+  "at": "2026-11-15T21:19:47.369Z"
+ },
  "pak-kret-boynextdoor-knock-on-vol-2-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/IMPACT_Arena.jpg": {
   "slug": "pak-kret-boynextdoor-knock-on-vol-2-bangkok",
   "verdict": "MATCH",
@@ -28433,6 +28577,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Gallery interior with framed artworks, representative of AGWA",
   "at": "2026-09-30T14:15:23.515Z"
+ },
+ "petaling-jaya-joji-solaris-asia-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Cosplay_of_Filthy_Frank%2C_Anime_Central%2C_2017_%2833992932604%29.jpg": {
+  "slug": "petaling-jaya-joji-solaris-asia-tour-kuala-lumpur",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random person with clock, unrelated to Joji concert",
+  "at": "2026-11-15T21:16:47.788Z"
  },
  "petaling-jaya-wave-to-earth-the-pieces-tour\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Wave_form.png": {
   "slug": "petaling-jaya-wave-to-earth-the-pieces-tour",
@@ -29789,6 +29939,30 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: unattractive banner by eye: construction netting, slum rooftops, rail yard, restaurant sign, another event's crowd, grey sky, scrub (owner photo review 2026-11-13)",
   "at": "2026-11-12T15:42:47.297Z"
+ },
+ "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/Larissa_Doh_et_Marina_Kouassi_du_groupe_Eden_8.jpg": {
+  "slug": "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated concert performers, not D.O. or venue",
+  "at": "2026-11-15T21:16:57.183Z"
+ },
+ "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Larissa_Doh_et_Marina_Kouassi_du_groupe_Eden_6.jpg": {
+  "slug": "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated performers, not DOH KYUNG SOO or venue",
+  "at": "2026-11-15T21:16:54.537Z"
+ },
+ "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Larissa_Doh_et_Marina_Kouassi_du_groupe_Eden_11.jpg": {
+  "slug": "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated performers, not D.O. or venue",
+  "at": "2026-11-15T21:16:55.918Z"
+ },
+ "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/d/d7/Larissa_Doh_et_Marina_Kouassi_du_groupe_Eden_10.jpg": {
+  "slug": "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated performers, not D.O. or his venue",
+  "at": "2026-11-15T21:16:58.482Z"
  },
  "quezon-city-gong-yoo-asia-fanmeeting-tour-the-long-take-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/4/41/Gong_Yoo_in_2021_-_2.png": {
   "slug": "quezon-city-gong-yoo-asia-fanmeeting-tour-the-long-take-in-manila",
@@ -36702,6 +36876,30 @@
   "reason": "patrol reject: Unrelated truck and landscape, not a film festival",
   "at": "2026-11-09T19:46:06.610Z"
  },
+ "tashkent-skriptonit-tashkent-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_%282%29.jpg": {
+  "slug": "tashkent-skriptonit-tashkent-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a directional sign, not the concert venue",
+  "at": "2026-11-15T21:17:35.352Z"
+ },
+ "tashkent-skriptonit-tashkent-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg/3840px-%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg": {
+  "slug": "tashkent-skriptonit-tashkent-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Decorative engraved artwork, not concert or venue photo",
+  "at": "2026-11-15T21:17:34.116Z"
+ },
+ "tashkent-skriptonit-tashkent-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_%282%29.jpg/3840px-%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_%282%29.jpg": {
+  "slug": "tashkent-skriptonit-tashkent-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Decorative ceiling art, unrelated to concert event",
+  "at": "2026-11-15T21:17:36.740Z"
+ },
+ "tashkent-skriptonit-tashkent-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg/3840px-%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg": {
+  "slug": "tashkent-skriptonit-tashkent-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo shows a car, not the concert or venue",
+  "at": "2026-11-15T21:17:32.913Z"
+ },
  "tashkent-socials\u0001https://fastly.4sqi.net/img/general/original/18892600_pekzcUlCRUCctzB96xxb9qcQehJltz0a491C9_bed9c.jpg": {
   "slug": "tashkent-socials",
   "verdict": "MATCH",
@@ -37486,6 +37684,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Press conference in Bangladesh, not Tokyo venue",
   "at": "2026-10-18T23:14:59.772Z"
+ },
+ "tokyo-khalid-it-s-always-summer-somewhere-tour-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/ROSO_-_by_Khalid_AlBusaidi.jpg": {
+  "slug": "tokyo-khalid-it-s-always-summer-somewhere-tour-tokyo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic orchestra concert hall, not a Khalid event photo",
+  "at": "2026-11-15T21:17:48.695Z"
+ },
+ "tokyo-khalid-it-s-always-summer-somewhere-tour-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tokyo_Garden_Theater_1.jpg/3840px-Tokyo_Garden_Theater_1.jpg": {
+  "slug": "tokyo-khalid-it-s-always-summer-somewhere-tour-tokyo",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern venue building matches Tokyo Garden Theater",
+  "at": "2026-11-15T21:17:50.936Z"
  },
  "tokyo-lenox-house\u0001https://fastly.4sqi.net/img/general/original/81933423_OxXxoYXDUHaTpcdNVPICQ8kgodH3Lt9T-GbGpXIS02g.jpg": {
   "slug": "tokyo-lenox-house",

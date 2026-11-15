@@ -12,6 +12,14 @@ eventPerformer:
   name: Lolita
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tashkent_City_Park_at_night_4.jpg/3840px-Tashkent_City_Park_at_night_4.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_City_Park_at_night_4.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - tashkent

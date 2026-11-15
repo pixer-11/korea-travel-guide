@@ -9,6 +9,14 @@ eventStartDate: '2026-12-15'
 eventEndDate: '2026-12-15'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Selamat_Pagi%2C_Kuta_Lombok.jpg'
+  credit: 'Photo: Focusfeel / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Selamat_Pagi,_Kuta_Lombok.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - lombok

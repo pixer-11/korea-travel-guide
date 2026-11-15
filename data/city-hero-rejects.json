@@ -478,5 +478,45 @@
  "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tashkent_City_Park_November_2019_2.jpg/3840px-Tashkent_City_Park_November_2019_2.jpg": {
   "reason": "Focus on giraffe topiary sculptures, not city view",
   "at": "2026-11-12T16:21:40.130Z"
+ },
+ "cover:Vadodara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bhikaiji_Cama_Bust_-_Vadodara_-_Gujarat_-_DSC001.jpg/1280px-Bhikaiji_Cama_Bust_-_Vadodara_-_Gujarat_-_DSC001.jpg": {
+  "reason": "Statue of a person, not a city view",
+  "at": "2026-11-15T21:19:09.303Z"
+ },
+ "cover:Vadodara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dr._Samuel_Hahnemann_-_vadodara_-_Gujarat_-_DSC001.jpg/1280px-Dr._Samuel_Hahnemann_-_vadodara_-_Gujarat_-_DSC001.jpg": {
+  "reason": "Close-up statue bust, not a city/landmark view",
+  "at": "2026-11-15T21:19:13.716Z"
+ },
+ "cover:Vadodara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chaganlal_Gopalji_Nayak_Marg_-_Vadodara_-_Gujarat_-_DSC001.jpg/1280px-Chaganlal_Gopalji_Nayak_Marg_-_Vadodara_-_Gujarat_-_DSC001.jpg": {
+  "reason": "Photo of a sign/plaque, not a city view",
+  "at": "2026-11-15T21:19:16.394Z"
+ },
+ "cover:Vadodara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Maharaja_Cham_Rajendra_Vadiyar_Marg_-_Vadodara_-_Gujarat_-_DSC0001.jpg/1280px-Maharaja_Cham_Rajendra_Vadiyar_Marg_-_Vadodara_-_Gujarat_-_DSC0001.jpg": {
+  "reason": "Photo of a sign/plaque, not a city view",
+  "at": "2026-11-15T21:19:19.150Z"
+ },
+ "Antalya @ Konyaaltı\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg/3840px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg": {
+  "reason": "Flower shop stall, not Konyaaltı coastal landscape view",
+  "at": "2026-11-15T21:19:53.824Z"
+ },
+ "Antalya @ Konyaaltı\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_06.jpg": {
+  "reason": "Empty cafe patio with cat, not a landmark view",
+  "at": "2026-11-15T21:19:55.164Z"
+ },
+ "Antalya @ Konyaaltı\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_04.jpg/3840px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_04.jpg": {
+  "reason": "Vehicle close-up dominates, not a city/landmark view",
+  "at": "2026-11-15T21:19:56.602Z"
+ },
+ "Antalya @ Konyaaltı\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_05.jpg": {
+  "reason": "Shows a lounge storefront, not Konyaaltı view",
+  "at": "2026-11-15T21:19:58.089Z"
+ },
+ "Manila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Araneta_Coliseum_Panorama%2C_Manila_Philippines_-_panoramio.jpg/3840px-Araneta_Coliseum_Panorama%2C_Manila_Philippines_-_panoramio.jpg": {
+  "reason": "Dark interior arena photo, not an exterior city view",
+  "at": "2026-11-15T21:20:30.490Z"
+ },
+ "Sharm El Sheikh @ Sharm El Sheikh\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Sharm_el_Sheikh_-_panoramio_%283%29.jpg": {
+  "reason": "Egyptian temple facade, not Sharm El Sheikh cityscape",
+  "at": "2026-11-15T21:20:53.543Z"
  }
 }

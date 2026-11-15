@@ -14,13 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/97/IMPACT_Arena.jpg
-  credit: 'Photo: Banphot Nuchleang (Octahedron80) / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/2/27/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_02.png
+  credit: 'Photo: 티비텐 TV10 / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:IMPACT_Arena.jpg
+  source: https://commons.wikimedia.org/wiki/File:2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_02.png
   focus:
-    x: 50
-    'y': 35
+    x: 53
+    'y': 23
+    top: 10
+    bottom: 36
 gallery: []
 tags:
   - pak kret

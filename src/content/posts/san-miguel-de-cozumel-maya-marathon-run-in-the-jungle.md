@@ -9,6 +9,14 @@ eventStartDate: '2026-12-05'
 eventEndDate: '2026-12-06'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Monument_to_divers%2C_Malec%C3%B3n_San_Miguel%2C_San_Miguel_de_Cozumel%2C_Quintana_Roo%2C_Mexico.jpg/3840px-Monument_to_divers%2C_Malec%C3%B3n_San_Miguel%2C_San_Miguel_de_Cozumel%2C_Quintana_Roo%2C_Mexico.jpg'
+  credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Monument_to_divers,_Malec%C3%B3n_San_Miguel,_San_Miguel_de_Cozumel,_Quintana_Roo,_Mexico.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - san miguel de cozumel

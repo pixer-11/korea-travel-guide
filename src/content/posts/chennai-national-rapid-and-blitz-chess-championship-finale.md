@@ -12,6 +12,14 @@ eventOrganizer:
   name: All India Chess Federation (AICF)
   url: https://aicf.in
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chennai-Skyline-from-Mount.jpg/3840px-Chennai-Skyline-from-Mount.jpg'
+  credit: 'Photo: Karthikeyan321 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chennai-Skyline-from-Mount.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - chennai

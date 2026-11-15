@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: bobanny / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Stanley_Seawall.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - vancouver

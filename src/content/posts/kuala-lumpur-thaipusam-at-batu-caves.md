@@ -14,13 +14,15 @@ eventOffers:
   currency: MYR
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/91/Batu_Cave_Thai_Pusam_1985.jpg
-  credit: 'Photo: Tashi0 / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Taipusam_Batu_Caves%2C_2012_-_panoramio.jpg/3840px-Taipusam_Batu_Caves%2C_2012_-_panoramio.jpg
+  credit: 'Photo: andre oortgijs / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Batu_Cave_Thai_Pusam_1985.jpg
+  source: https://commons.wikimedia.org/wiki/File:Taipusam_Batu_Caves,_2012_-_panoramio.jpg
   focus:
-    x: 50
-    'y': 40
+    x: 23
+    'y': 30
+    top: 20
+    bottom: 40
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sunrise_in_Batu_Caves_during_Thaipusam_festival_2013.jpg/3840px-Sunrise_in_Batu_Caves_during_Thaipusam_festival_2013.jpg
     credit: 'Photo: Thanwan Singh / Wikimedia Commons (CC BY 2.0)'
@@ -42,8 +44,6 @@ faq:
   - q: Can I see the procession without going to the caves?
     a: Yes. The silver chariot leaves the Sri Maha Mariamman Temple on Jalan Tun H.S. Lee in Chinatown on the eve of Thaipusam. Many people see it set off in Chinatown or pass along the route north, and some then travel on to Batu Caves.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 Look up from the forecourt and a gold figure of Lord Murugan, more than 40 metres tall, stands against a limestone cliff. Beside him, 272 steps climb into the rock. On Thaipusam those steps are packed from bottom to top with people carrying milk pots, peacock-feather frames and steel hooks, climbing towards the shrine inside the mountain.

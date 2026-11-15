@@ -12,6 +12,14 @@ eventOrganizer:
   name: World Table Tennis (WTT)
   url: https://worldtabletennis.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Baroda_vadodara_airport.jpg/1280px-Baroda_vadodara_airport.jpg'
+  credit: 'Photo: Notnarayan (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Baroda vadodara airport.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - vadodara

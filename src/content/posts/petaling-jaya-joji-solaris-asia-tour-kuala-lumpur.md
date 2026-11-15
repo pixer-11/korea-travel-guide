@@ -13,6 +13,14 @@ eventPerformer:
   name: Joji
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Petaling_Jaya_Section_13_%28230611%29.jpg/3840px-Petaling_Jaya_Section_13_%28230611%29.jpg'
+  credit: 'Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Petaling_Jaya_Section_13_(230611).jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - petaling jaya

@@ -13,6 +13,14 @@ eventOrganizer:
   name: PassTiming
   url: https://www.passtiming.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg'
+  credit: 'Photo: Hunanuk / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Historical_peninsula_and_modern_skyline_of_Istanbul.jpg'
+  focus:
+    x: 55
+    y: 45
 gallery: []
 tags:
   - istanbul

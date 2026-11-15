@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: CAD
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sankofa_Square_in_Toronto_%2854595532284%29.jpg/3840px-Sankofa_Square_in_Toronto_%2854595532284%29.jpg'
+  credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sankofa_Square_in_Toronto_(54595532284).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - toronto
