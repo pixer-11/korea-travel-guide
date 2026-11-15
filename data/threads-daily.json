@@ -116,28 +116,31 @@
     "hong-kong-simple-plan-bigger-than-you-think-tour",
     "jakarta-bts-world-tour-arirang-jakarta",
     "new-york-strand-bookstore",
-    "hong-kong-tai-po-half-marathon"
+    "hong-kong-tai-po-half-marathon",
+    "gapyeong-garden-of-morning-calm"
   ],
-  "lastSentDay": "2026-11-15",
+  "lastSentDay": "2026-11-16",
   "material": {
-    "day": "2026-11-15",
-    "slug": "hong-kong-tai-po-half-marathon",
-    "title": "Tai Po Half Marathon: Dates, Tickets & Venue (Hong Kong)",
+    "day": "2026-11-16",
+    "slug": "gapyeong-garden-of-morning-calm",
+    "title": "Garden of Morning Calm: Gapyeong Travel Guide",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-15-hong-kong-tai-po-half-marathon-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-15-hong-kong-tai-po-half-marathon-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-4.jpg"
     ],
-    "igCaption": "Tai Po sits at the head of Tolo Harbour, where Hong Kong turns greener and quieter — the perfect backdrop for a December half marathon. Four distances mean everyone from first-timers to club runners can join the morning. After the finish, wander the historic Railway Museum and Man Mo Temple nearby.\n\n#HongKong #events #travel #wanderatlas #TaiPoHalfMarathon #NewTerritories #RunningCommunity #TravelHongKong #MarathonTravel\n📷 Photo: Minghong / Wikimedia Commons (CC BY-SA 4.0) (edited)",
-    "thOption": "Would you rather run the 10K as a tempo effort or go all in on the half marathon at Tai Po's December race? The dry-season timing makes it a solid tune-up before Hong Kong's big spring marathon.",
-    "link": "https://wanderatlasguides.com/posts/hong-kong-tai-po-half-marathon/"
+    "igCaption": "A valley garden built like a series of rooms — grasses, herbs, bonsai, reflecting pools — each turn resetting the view. Go at opening on a weekday and the pine tree lawn is almost yours alone.\n\n#GardenofMorningCalm #Gapyeong #SouthKorea #travelguide #travel #wanderatlas #GardenOfMorningCalm #KoreaTravel #BotanicalGarden #DayTripFromSeoul\n📷 Photo: Clément Chevallier / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Foursquare user content (The Garden of Morning Calm (아침고요수목원)) (edited)",
+    "thOption": "Most people rush straight to the famous pine tree lawn, but the herb garden and Water Garden are just a 10-minute walk further — would you chase the iconic shot or wander off for the quiet?",
+    "link": "https://wanderatlasguides.com/posts/gapyeong-garden-of-morning-calm/"
   },
   "social": {
-    "thDay": "2026-11-15",
-    "thId": "18008582849971029",
-    "igDay": "2026-11-13",
-    "igId": "18224026666356364",
-    "thSlug": "hong-kong-tai-po-half-marathon",
-    "igSlug": "jakarta-bts-world-tour-arirang-jakarta",
+    "thDay": "2026-11-16",
+    "thId": "17992929114096216",
+    "igDay": "2026-11-16",
+    "igId": "18176292394459708",
+    "thSlug": "gapyeong-garden-of-morning-calm",
+    "igSlug": "gapyeong-garden-of-morning-calm",
     "history": [
       {
         "day": "2026-10-10",
@@ -701,7 +704,25 @@
         "day": "2026-11-09",
         "slug": "york-uk-championship-snooker",
         "thId": "18434604418194492",
-        "igId": "17899054887676301"
+        "igId": "17899054887676301",
+        "insights": {
+          "at": "2026-11-16",
+          "th": {
+            "views": 4,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-10",
@@ -734,6 +755,12 @@
         "day": "2026-11-15",
         "slug": "hong-kong-tai-po-half-marathon",
         "thId": "18008582849971029"
+      },
+      {
+        "day": "2026-11-16",
+        "slug": "gapyeong-garden-of-morning-calm",
+        "thId": "17992929114096216",
+        "igId": "18176292394459708"
       }
     ]
   }
