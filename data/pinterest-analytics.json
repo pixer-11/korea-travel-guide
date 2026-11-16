@@ -177,12 +177,33 @@
    },
    "attempted": 624,
    "failed": 0
+  },
+  {
+   "at": "2026-11-16",
+   "pins": 677,
+   "impressions": 133,
+   "saves": 0,
+   "outboundClicks": 0,
+   "before": {
+    "pins": 237,
+    "impressions": 0,
+    "saves": 0,
+    "outboundClicks": 0
+   },
+   "after": {
+    "pins": 440,
+    "impressions": 133,
+    "saves": 0,
+    "outboundClicks": 0
+   },
+   "attempted": 677,
+   "failed": 0
   }
  ],
- "at": "2026-11-09T07:12:30.536Z",
+ "at": "2026-11-16T00:48:42.943Z",
  "window": {
-  "start": "2026-10-10",
-  "end": "2026-11-09"
+  "start": "2026-10-17",
+  "end": "2026-11-16"
  },
  "pins": [
   {
@@ -3345,7 +3366,7 @@
    "pinId": "1103100502528149157",
    "country": "United Kingdom",
    "category": "hidden-gem",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3415,7 +3436,7 @@
    "pinId": "1103100502528185814",
    "country": "Vietnam",
    "category": "event",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3425,7 +3446,7 @@
    "pinId": "1103100502528234879",
    "country": "Philippines",
    "category": "event",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3435,7 +3456,7 @@
    "pinId": "1103100502528234880",
    "country": "Italy",
    "category": "event",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3455,7 +3476,7 @@
    "pinId": "1103100502528234882",
    "country": "Vietnam",
    "category": "event",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3475,7 +3496,7 @@
    "pinId": "1103100502528273473",
    "country": "Hong Kong",
    "category": "event",
-   "impressions": 8,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3485,7 +3506,7 @@
    "pinId": "1103100502528273477",
    "country": "Hong Kong",
    "category": "event",
-   "impressions": 2,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3495,7 +3516,7 @@
    "pinId": "1103100502528273480",
    "country": "Hong Kong",
    "category": "event",
-   "impressions": 2,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3515,7 +3536,7 @@
    "pinId": "1103100502528321853",
    "country": "Malaysia",
    "category": "event",
-   "impressions": 2,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3525,7 +3546,7 @@
    "pinId": "1103100502528321855",
    "country": "Malaysia",
    "category": "event",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3535,7 +3556,7 @@
    "pinId": "1103100502528321857",
    "country": "Italy",
    "category": "event",
-   "impressions": 2,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3545,7 +3566,7 @@
    "pinId": "1103100502528366750",
    "country": "Spain",
    "category": "event",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3565,7 +3586,7 @@
    "pinId": "1103100502528366755",
    "country": "Cambodia",
    "category": "event",
-   "impressions": 1,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3605,7 +3626,7 @@
    "pinId": "1103100502528418956",
    "country": "Singapore",
    "category": "event",
-   "impressions": 3,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3755,7 +3776,7 @@
    "pinId": "1103100502528600059",
    "country": "Australia",
    "category": "event",
-   "impressions": 2,
+   "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3905,7 +3926,7 @@
    "pinId": "1103100502528765191",
    "country": "Spain",
    "category": "event",
-   "impressions": 3,
+   "impressions": 2,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3935,7 +3956,7 @@
    "pinId": "1103100502528819085",
    "country": "United Arab Emirates",
    "category": "event",
-   "impressions": 9,
+   "impressions": 7,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3965,7 +3986,7 @@
    "pinId": "1103100502528819098",
    "country": "Thailand",
    "category": "event",
-   "impressions": 3,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -3975,7 +3996,7 @@
    "pinId": "1103100502528850850",
    "country": "India",
    "category": "event",
-   "impressions": 6,
+   "impressions": 3,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -4005,7 +4026,7 @@
    "pinId": "1103100502528850858",
    "country": "India",
    "category": "event",
-   "impressions": 3,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -4075,7 +4096,7 @@
    "pinId": "1103100502528936008",
    "country": "Macau",
    "category": "event",
-   "impressions": 3,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -5915,7 +5936,7 @@
    "pinId": "1103100502531061450",
    "country": "Peru",
    "category": "event",
-   "impressions": 0,
+   "impressions": 5,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -5955,7 +5976,7 @@
    "pinId": "1103100502531111425",
    "country": "Italy",
    "category": "event",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -6005,7 +6026,7 @@
    "pinId": "1103100502531192370",
    "country": "Philippines",
    "category": "event",
-   "impressions": 0,
+   "impressions": 17,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -6025,7 +6046,7 @@
    "pinId": "1103100502531192373",
    "country": "Georgia",
    "category": "event",
-   "impressions": 0,
+   "impressions": 4,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -6075,7 +6096,7 @@
    "pinId": "1103100502531277200",
    "country": "Spain",
    "category": "event",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -6085,7 +6106,7 @@
    "pinId": "1103100502531277203",
    "country": "Argentina",
    "category": "event",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -6135,7 +6156,7 @@
    "pinId": "1103100502531314617",
    "country": "Peru",
    "category": "event",
-   "impressions": 0,
+   "impressions": 2,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -6165,7 +6186,7 @@
    "pinId": "1103100502531363016",
    "country": "Mexico",
    "category": "event",
-   "impressions": 0,
+   "impressions": 1,
    "saves": 0,
    "pinClicks": 0,
    "outboundClicks": 0
@@ -6415,6 +6436,536 @@
    "pinId": "1103100502531642368",
    "country": "Canada",
    "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "buenos-aires-rush-movistar-arena-buenos-aires",
+   "pinId": "1103100502531665255",
+   "country": "Argentina",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "chennai-chennai-open-atp-challenger",
+   "pinId": "1103100502531665256",
+   "country": "India",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "chennai-chennai-open-international-grandmaster-chess-tournament",
+   "pinId": "1103100502531665258",
+   "country": "India",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "cusco-santurantikuy-fair",
+   "pinId": "1103100502531665267",
+   "country": "Peru",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "fuzhou-china-national-table-tennis-championships-singles-team-finals",
+   "pinId": "1103100502531712648",
+   "country": "China",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "hoi-an-hoi-an-lantern-full-moon-festival",
+   "pinId": "1103100502531712649",
+   "country": "Vietnam",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "kalibo-ati-atihan-festival",
+   "pinId": "1103100502531712651",
+   "country": "Philippines",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "macau-cravity-concert-sonorous-in-macau",
+   "pinId": "1103100502531712653",
+   "country": "Macau",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "macau-verivery-concert-give-me-five-keep-that-vibe-in-macau",
+   "pinId": "1103100502531746932",
+   "country": "Macau",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "melbourne-queens-of-the-stone-age-melbourne",
+   "pinId": "1103100502531746933",
+   "country": "Australia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "melbourne-stayc-fan-concert-tour-stay-closer-melbourne",
+   "pinId": "1103100502531746935",
+   "country": "Australia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour",
+   "pinId": "1103100502531746936",
+   "country": "India",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "osaka-osaka-women-s-marathon",
+   "pinId": "1103100502531793332",
+   "country": "Japan",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "panaji-goa-river-marathon-skf-goa-river-marathon",
+   "pinId": "1103100502531793334",
+   "country": "India",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "paris-verivery-europe-tour-give-me-five-keep-that-vibe",
+   "pinId": "1103100502531793339",
+   "country": "France",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "quebec-city-quebec-winter-carnival-carnaval-de-quebec",
+   "pinId": "1103100502531793340",
+   "country": "Canada",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "rennes-k-pop-forever-rennes",
+   "pinId": "1103100502531828235",
+   "country": "France",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "sanya-jay-chou-carnival-ii-world-tour-sanya",
+   "pinId": "1103100502531828237",
+   "country": "China",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "toronto-toronto-resolution-run",
+   "pinId": "1103100502531828243",
+   "country": "Canada",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "aswan-temple-of-horus",
+   "pinId": "1103100502531828245",
+   "country": "Egypt",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "new-taipei-city-taiwan-lantern-festival-new-taipei-pingxi-sky-lantern-festival",
+   "pinId": "1103100502531877777",
+   "country": "Taiwan",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "alexandria-kom-el-dikka",
+   "pinId": "1103100502531877782",
+   "country": "Egypt",
+   "category": "hidden-gem",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "dahab-wadi-gnai",
+   "pinId": "1103100502531877784",
+   "country": "Egypt",
+   "category": "attraction",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "hurghada-abu-tig-marina",
+   "pinId": "1103100502531877787",
+   "country": "Egypt",
+   "category": "hidden-gem",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "abu-dhabi-diljit-dosanjh-new-year-s-eve-concert",
+   "pinId": "1103100502531910872",
+   "country": "United Arab Emirates",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "abu-dhabi-ludovico-einaudi-uae-national-orchestra",
+   "pinId": "1103100502531910874",
+   "country": "United Arab Emirates",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "battambang-chumnor-arts-festival",
+   "pinId": "1103100502531910876",
+   "country": "Cambodia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "buenos-aires-slayer-buenos-aires-2026",
+   "pinId": "1103100502531910877",
+   "country": "Argentina",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "barcelona-cursa-dels-nassos-10k",
+   "pinId": "1103100502531959007",
+   "country": "Spain",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "chiayi-2026-chiayi-city-international-band-festival",
+   "pinId": "1103100502531959010",
+   "country": "Taiwan",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "dubai-katy-perry-new-year-s-eve-dubai",
+   "pinId": "1103100502531959014",
+   "country": "United Arab Emirates",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "frisco-nexo-dallas-open-atp-500",
+   "pinId": "1103100502531959019",
+   "country": "United States",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "haikou-haikou-marathon",
+   "pinId": "1103100502531994982",
+   "country": "China",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "iloilo-city-dinagyang-festival",
+   "pinId": "1103100502531994984",
+   "country": "Philippines",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "jakarta-indonesia-masters-badminton",
+   "pinId": "1103100502531994987",
+   "country": "Indonesia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "kuala-lumpur-visit-malaysia-2026-christmas-celebration",
+   "pinId": "1103100502532040607",
+   "country": "Malaysia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "london-london-winter-walk-marathon-half-marathon",
+   "pinId": "1103100502532040609",
+   "country": "United Kingdom",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "milan-max-pezzali-concert",
+   "pinId": "1103100502532040612",
+   "country": "Italy",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "new-delhi-weverse-con-festival-india",
+   "pinId": "1103100502532040613",
+   "country": "India",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "pasay-westlife-25-the-anniversary-world-tour",
+   "pinId": "1103100502532074524",
+   "country": "Philippines",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "phillip-island-superbike-world-championship-phillip-island",
+   "pinId": "1103100502532074526",
+   "country": "Australia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "phnom-penh-celebrating-cambodia-year-end-festival",
+   "pinId": "1103100502532074527",
+   "country": "Cambodia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "phnom-penh-national-book-fair-cambodia",
+   "pinId": "1103100502532125631",
+   "country": "Cambodia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "rome-raffaella-carra-official-hologram-concert",
+   "pinId": "1103100502532125633",
+   "country": "Italy",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "seoul-seoulcon",
+   "pinId": "1103100502532125635",
+   "country": "South Korea",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "singapore-chinese-new-year-river-hongbao-festival-singapore",
+   "pinId": "1103100502532162993",
+   "country": "Singapore",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "ulaanbaatar-talyn-javkhaa-horse-culture-festival",
+   "pinId": "1103100502532162994",
+   "country": "Mongolia",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "valencia-10k-valencia-ibercaja-by-kiprun",
+   "pinId": "1103100502532162995",
+   "country": "Spain",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "vitoria-gasteiz-vitoria-gasteiz-half-marathon-media-maraton-de-vitoria-gasteiz",
+   "pinId": "1103100502532162996",
+   "country": "Spain",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "abu-dhabi-mubadala-abu-dhabi-open-wta",
+   "pinId": "1103100502532212076",
+   "country": "United Arab Emirates",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "adana-adana-half-marathon-17-adana-yar-maratonu",
+   "pinId": "1103100502532212078",
+   "country": "Turkey",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "assago-cesare-cremonini-concerts-milan",
+   "pinId": "1103100502532212079",
+   "country": "Italy",
+   "category": "event",
+   "impressions": 0,
+   "saves": 0,
+   "pinClicks": 0,
+   "outboundClicks": 0
+  },
+  {
+   "slug": "auckland-guns-n-roses-world-tour-2026",
+   "pinId": "1103100502532212080",
+   "country": "New Zealand",
+   "category": "event",
    "impressions": 0,
    "saves": 0,
    "pinClicks": 0,
