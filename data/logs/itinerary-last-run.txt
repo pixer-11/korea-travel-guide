@@ -1,6 +1,8 @@
 SKIP new city "Berlin" — weekly new-city cap (2/7d) reached
+SKIP new city "Christchurch" — weekly new-city cap (2/7d) reached
 SKIP new city "Florence" — weekly new-city cap (2/7d) reached
 SKIP new city "Kyoto" — weekly new-city cap (2/7d) reached
+SKIP new city "Luxor" — weekly new-city cap (2/7d) reached
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "Montreal" — weekly new-city cap (2/7d) reached
@@ -13,6 +15,7 @@ SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 SKIP new city "Taipei" — weekly new-city cap (2/7d) reached
 SKIP new city "Toronto" — weekly new-city cap (2/7d) reached
 SKIP new city "Ulaanbaatar" — weekly new-city cap (2/7d) reached
+SKIP new city "Vancouver" — weekly new-city cap (2/7d) reached
 SKIP new city "Washington DC" — weekly new-city cap (2/7d) reached
 SKIP new city "Xi'an" — weekly new-city cap (2/7d) reached
 SKIP new city "York" — weekly new-city cap (2/7d) reached
@@ -38,8 +41,11 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Beijing, China — 12 qualifying post(s), variants: 3
   = Beijing 3d — unchanged, skipping
 
-Brighton, United Kingdom — 12 qualifying post(s), variants: 3
-  = Brighton 3d — unchanged, skipping
+Brighton, United Kingdom — 13 qualifying post(s), variants: 3
+  ~ Brighton 3d — minor structure change (1 slug diff), keeping existing prose
+  ⚠ Brighton 3d — validator found 1 prose-fixable issue(s); correcting once
+    · AREA-CLAIM-UNSUPPORTED: brighton-3-days.md — day 1 names "Madeira Drive" but no stop of that day attests it
+  ✅ Brighton 3d — updated
 
 Buenos Aires, Argentina — 14 qualifying post(s), variants: 3
   · Buenos Aires 3d — skipped: day 1 totals only 233 min (floor 240) and no further sight can be added to it
@@ -82,17 +88,17 @@ New Orleans, United States — 17 qualifying post(s), variants: 3
 New York, United States — 17 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
-Paris, France — 13 qualifying post(s), variants: 3
-  = Paris 3d — unchanged, skipping
+Paris, France — 14 qualifying post(s), variants: 3
+  · Paris 3d — skipped: day 1 totals only 198 min (floor 240) and no further sight can be added to it
 
 Siem Reap, Cambodia — 16 qualifying post(s), variants: 3
   = Siem Reap 3d — unchanged, skipping
 
-Singapore, Singapore — 79 qualifying post(s), variants: 3, 5
+Singapore, Singapore — 80 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

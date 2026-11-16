@@ -3,84 +3,84 @@ lang: es
 slug: tokyo-itf-world-tennis-masters-tour-world-team-individual-championships
 srcHash: '84726938ab4c'
 title: 'ITF World Tennis Masters Tour (Campeonatos Mundiales por Equipos e Individuales): fechas, entradas y sede (Tokio)'
-description: Del 11 al 15 de noviembre de 2026, el Ariake Tennis Forest Park, en el barrio tokiota de Ariake, acoge el ITF World Tennis Masters Tour (Campeonatos Mundiales por Equipos e Individuales), con cuadros para las categorías de 30 y 35 años.
-quickAnswer: Del 11 al 15 de noviembre de 2026, el Ariake Tennis Forest Park, en el barrio tokiota de Ariake, acoge el ITF World Tennis Masters Tour (Campeonatos Mundiales por Equipos e Individuales), con cuadros para las categorías de 30 y 35 años. Las pistas quedan a pocos minutos a pie de la estación más cercana, Ariake-tennis-no-mori, en la línea Yurikamome. La ITF organiza el circuito Masters, y es en sus canales donde se publican los cuadros, los resultados y la información para el público. Esta guía no recoge precios.
+description: Las fechas anunciadas para el ITF World Tennis Masters Tour (Campeonatos Mundiales por Equipos e Individuales) eran del 11 al 15 de noviembre de 2026, en el Parque del Bosque de Tenis de Ariake, en el distrito tokiota de Ariake. Habría cuadros para las categorías de 30 y 35 años.
+quickAnswer: Las fechas anunciadas para el ITF World Tennis Masters Tour (Campeonatos Mundiales por Equipos e Individuales) eran del 11 al 15 de noviembre de 2026. La sede era el Parque del Bosque de Tenis de Ariake (Ariake Tennis Forest Park), en el distrito tokiota de Ariake, con cuadros para las categorías de 30 y 35 años. La estación más cercana era Ariake-tennis-no-mori, de la línea Yurikamome, a pocos minutos a pie de las pistas. La ITF, que gestiona el circuito Masters, era la fuente de los cuadros, los resultados y la información para el público. Esta guía no recoge precios.
 faq:
-  - q: ¿Cuándo y dónde se celebran en Tokio los Campeonatos Mundiales del ITF World Tennis Masters Tour?
-    a: Se disputan del 11 al 15 de noviembre de 2026 en el Ariake Tennis Forest Park, situado frente a la bahía de Tokio, en el barrio de Ariake (distrito de Kōtō).
-  - q: ¿Qué categorías de edad compiten en este torneo?
-    a: 'En esta edición compiten las categorías de 30 y 35 años. El torneo reúne dos competiciones: los Campeonatos Mundiales por Equipos y los Campeonatos Individuales.'
-  - q: ¿Cuál es la estación más cercana al Ariake Tennis Forest Park?
-    a: La estación de Ariake-tennis-no-mori, en la línea Yurikamome, a pocos minutos a pie de la entrada del parque. También puede bajarse en la estación de Kokusai-tenjijō, en la línea Rinkai, aunque desde allí el paseo es más largo y pasa junto al Tokyo Big Sight.
+  - q: ¿Cuándo y dónde se celebraban los Campeonatos Mundiales del ITF World Tennis Masters Tour en Tokio?
+    a: Las fechas anunciadas eran del 11 al 15 de noviembre de 2026, en el Parque del Bosque de Tenis de Ariake, situado en el distrito de Ariake (barrio de Kōtō), frente a la bahía de Tokio.
+  - q: ¿Qué grupos de edad competían en este torneo?
+    a: Esta edición abarcaba las categorías de 30 y 35 años, e incluía tanto los Campeonatos Mundiales por Equipos como los Campeonatos Individuales.
+  - q: ¿Cuál era la estación más cercana al Parque del Bosque de Tenis de Ariake?
+    a: La estación Ariake-tennis-no-mori, de la línea Yurikamome, a un corto paseo de la entrada del parque. Otra opción era la estación Kokusai-tenjijō, de la línea Rinkai, aunque desde allí el trayecto a pie era más largo y pasaba junto a Tokyo Big Sight.
   - q: ¿Qué tiempo hace a mediados de noviembre?
-    a: Lo habitual es un tiempo templado y seco, con mañanas frescas. Hacia las 4:30 de la tarde se pone el sol y, a última hora, el viento de la bahía se vuelve frío, de modo que el público suele llevar una chaqueta.
-  - q: ¿Qué se puede hacer cerca de la sede entre partido y partido?
-    a: En el centro comercial Ariake Garden hay zonas de restauración. Hacia el este, a una o dos paradas, se encuentran el mercado de Toyosu y teamLab Planets, mientras que el parque marino de Odaiba queda unas pocas paradas al oeste en la Yurikamome.
+    a: Suele ser templado y seco, con mañanas frescas. El sol se pone hacia las 4:30 p. m. y, al caer la tarde, el viento de la bahía se vuelve frío, por lo que el público solía llevar chaqueta.
+  - q: ¿Qué había para hacer cerca de la sede entre partido y partido?
+    a: El centro comercial Ariake Garden contaba con zonas de restauración. El mercado de Toyosu y teamLab Planets quedaban a una o dos paradas hacia el este, y el parque marino de Odaiba, a unas pocas paradas de la Yurikamome hacia el oeste.
 ---
 
 ## Cinco días de tenis Masters junto a la bahía
 
-Del 11 al 15 de noviembre de 2026 se disputa el ITF World Tennis Masters Tour, el circuito que la ITF dedica a los jugadores adultos de competición y que antes se conocía como circuito de veteranos (Seniors). Estos Campeonatos Mundiales son la cita más importante del calendario.
+Las fechas anunciadas para el ITF World Tennis Masters Tour eran del 11 al 15 de noviembre de 2026. Se trata del circuito de la ITF para jugadores adultos de competición, antes conocido como circuito Seniors, y estos Campeonatos Mundiales son su cita más importante.
 
-En esta edición juegan los grupos de edad más jóvenes del circuito, los de 30 y 35 años. Entre los inscritos abundan antiguos jugadores universitarios, extenistas profesionales y competidores de alto nivel nacional. La pelota sale con fuerza de la raqueta. Cabe esperar golpes de fondo potentes y verdaderos planteamientos tácticos, propios de deportistas que siguen entrenando en serio.
+Esta edición estaba dedicada a los grupos de edad más jóvenes del circuito Masters: los de 30 y 35 años. En estos cuadros abundaban antiguos jugadores universitarios, exprofesionales y competidores de buen nivel nacional. Era gente que seguía entrenando en serio y cuya bola salía de la raqueta con fuerza, de modo que lo habitual eran golpes de fondo pesados y planteamientos tácticos de verdad.
 
-El formato combina dos competiciones. En los **Campeonatos Mundiales por Equipos** (World Team Championships), los jugadores forman selecciones nacionales. Los **Campeonatos Individuales** (Individual Championships) mantienen los cuadros clásicos de individuales y dobles. A lo largo de los cinco días, el espectador puede ver una tarde a varios países luchando en equipo y, otra, a jugadores en busca de un título personal.
+El formato combinaba dos competiciones. En los **Campeonatos Mundiales por Equipos**, los jugadores formaban selecciones nacionales; los **Campeonatos Individuales**, en cambio, consistían en los cuadros clásicos de individuales y dobles. A lo largo de los cinco días, una tarde podían verse países enteros jugando unos por otros y, otra, tenistas luchando por títulos personales.
 
-## La sede: el Ariake Tennis Forest Park
+## La sede: el Parque del Bosque de Tenis de Ariake
 
-El Ariake Tennis Forest Park (有明テニスの森公園, Ariake Tennis no Mori Kōen) es el mayor recinto de tenis de Japón. Se levanta sobre terrenos ganados al mar en el distrito de Kōtō, frente a la bahía de Tokio.
+El Parque del Bosque de Tenis de Ariake (有明テニスの森公園, Ariake Tennis no Mori Kōen) es el mayor recinto de tenis de Japón. Se levanta sobre terrenos ganados al mar en el barrio de Kōtō, frente a la bahía de Tokio.
 
-Su gran estadio es el **Ariake Coliseum**, dotado de techo retráctil. Desde hace años alberga los principales torneos profesionales del país, como el Abierto de Japón y el Pan Pacific Open. El parque se reformó con motivo de los Juegos Olímpicos de Tokio 2020, cuyo torneo de tenis se jugó aquí.
+Su pieza central es el **Ariake Coliseum**, un estadio con techo retráctil que lleva años acogiendo los grandes torneos profesionales del país, como el Japan Open y el Pan Pacific Open. El parque se renovó para los Juegos Olímpicos de Tokio 2020, cuya competición de tenis se disputó aquí.
 
-Alrededor del Coliseum se suceden hileras de pistas al aire libre, separadas por paseos arbolados. Durante un torneo Masters es posible ir caminando de un partido a otro. En las pistas exteriores, el público suele estar de pie o sentado tan cerca que oye a los jugadores cantar el marcador.
+Alrededor del Coliseum se suceden hileras de pistas al aire libre, separadas por paseos arbolados. En un torneo Masters era posible ir caminando de un partido a otro. En las pistas exteriores, el público solía quedarse de pie o sentado tan cerca que oía a los jugadores cantar el tanteo.
 
 ## Cómo llegar a Ariake en la Yurikamome
 
-La forma más sencilla de llegar es la **Yurikamome**, un tren elevado sin conductor que sale de Shimbashi y recorre la bahía. Hay que bajarse en la **estación de Ariake-tennis-no-mori**, que lleva el nombre del parque y queda a pocos minutos a pie de la entrada.
+La forma más sencilla de llegar era la **Yurikamome**, un tren elevado sin conductor que recorre la bahía desde Shimbashi. La parada correspondiente era la **estación Ariake-tennis-no-mori**, que lleva el nombre del parque y está a pocos pasos de la entrada.
 
-Otras alternativas:
+Había otras alternativas:
 
-- **Línea Rinkai** hasta la **estación de Kokusai-tenjijō**, y desde allí a pie en dirección sureste, junto al Tokyo Big Sight. El trayecto es más largo, pero resulta práctico para quien venga de Shinjuku o Shibuya, ya que la Rinkai enlaza con las líneas de JR en Ōsaki.
-- **Yurikamome desde Toyosu**: se hace transbordo en Toyosu desde la línea Yūrakuchō del metro de Tokio. Ariake-tennis-no-mori está unas pocas paradas al oeste.
-- **Desde el centro de Tokio**: la Yurikamome que sale de Shimbashi cruza el Rainbow Bridge. Es lenta, pero las vistas del recorrido ya justifican el viaje.
+- **Línea Rinkai** hasta la **estación Kokusai-tenjijō** y, desde allí, a pie hacia el sureste pasando junto a Tokyo Big Sight. Era un trayecto más largo, pero cómodo para quien venía de Shinjuku o Shibuya, porque la Rinkai enlaza con las líneas de JR en Ōsaki.
+- **Yurikamome desde Toyosu**: el transbordo se hacía en Toyosu desde la línea Yūrakuchō del metro de Tokio, y Ariake-tennis-no-mori quedaba a pocas paradas hacia el oeste.
+- **Desde el centro de Tokio**: la Yurikamome que sale de Shimbashi cruza el Rainbow Bridge. Es lenta, aunque el propio recorrido ya merece la pena por las vistas.
 
-En todas estas líneas se aceptan las tarjetas IC Suica y Pasmo.
+Las tarjetas IC Suica y Pasmo funcionan en todas estas líneas.
 
-## Normas de comportamiento en la grada
+## Normas de cortesía en la grada de un torneo Masters
 
-En Japón, el protocolo del tenis es estricto y el público lo respeta. En las pistas exteriores nadie pasa por detrás de la línea de fondo mientras se juega un punto. Los espectadores esperan en la puerta de la pista y solo entran o salen en los cambios de lado, es decir, tras cada juego impar.
+En Japón, la etiqueta del tenis es estricta y el público la respeta. En las pistas exteriores nadie cruzaba por detrás de la línea de fondo durante un punto: los espectadores esperaban junto a la puerta de la pista para entrar o salir en el cambio de lado, tras cada juego impar.
 
-Conviene imitar también otras costumbres:
+Otras costumbres dignas de imitar:
 
-- **Se aplaude al terminar el punto**, nunca durante el peloteo. El público premia los buenos golpes de ambos jugadores, no solo los de su compatriota.
-- **El teléfono se pone en silencio** (マナーモード, *modo de cortesía*). En las pistas exteriores, una llamada llega con total claridad a oídos de los jugadores.
-- **Las papeleras escasean** en los espacios públicos de Tokio. La mayoría de la gente se lleva a casa las botellas y los envoltorios, o los tira en la estación.
-- **No se dan propinas** en los puestos de comida, las cafeterías ni los taxis de Ariake. En casi todas las tiendas de conveniencia y máquinas expendedoras se puede pagar con tarjeta IC.
+- **Los aplausos llegan al terminar el punto**, nunca durante el peloteo. El público aplaudía los buenos golpes de cualquiera de los dos jugadores, no solo los de su propio país.
+- **Los móviles, en silencio** (マナーモード, «modo de cortesía»). En las pistas exteriores, una llamada se oía con total claridad desde la pista.
+- **Las papeleras escasean** en los espacios públicos de Tokio. La mayoría de la gente se llevaba a casa botellas y envoltorios o los tiraba en la estación.
+- **No existe la propina** en los puestos de comida, las cafeterías ni los taxis de Ariake. En casi todas las tiendas de conveniencia y máquinas expendedoras se puede pagar con tarjeta IC.
 
-Las jornadas por equipos tienen un ambiente algo distinto. Como las selecciones animan a sus compañeros desde la banda, entre punto y punto puede haber más ruido que en los cuadros individuales. Aun así, en cuanto la pelota está en juego, las pistas vuelven a quedarse en silencio.
+Las jornadas por equipos funcionaban de forma algo distinta. Las selecciones animaban a sus compañeros desde los laterales, así que entre punto y punto podía haber más ruido que en los cuadros individuales. Aun así, con la bola en juego, las pistas volvían a quedar en silencio.
 
-## Una carrera contra la luz de noviembre
+## Una carrera contra la luz de mediados de noviembre
 
-Mediados de noviembre es una de las épocas más agradables de Tokio para hacer deporte al aire libre. Los días suelen ser templados y secos, y las mañanas llegan frescas desde la bahía. Muchos jugadores y espectadores se visten por capas para ir quitándose ropa a medida que sube la temperatura.
+Mediados de noviembre es una de las épocas más agradables de Tokio para el deporte al aire libre. Los días suelen ser templados y secos, con mañanas frescas por la brisa de la bahía. Muchos jugadores y espectadores se vestían por capas para ir quitándoselas a medida que subía la temperatura.
 
-El inconveniente es la puesta de sol, que en esta época del año llega hacia las 4:30 de la tarde. En las pistas abiertas junto a la bahía, la luz cae deprisa a última hora y el viento que sopla del agua se vuelve frío. Por eso los habituales suelen llevar una chaqueta para los últimos partidos del día, aunque el mediodía haya sido cálido.
+El inconveniente era el atardecer, que en estas fechas llega hacia las 4:30 p. m. En las pistas abiertas junto a la bahía, la luz cae deprisa a última hora de la tarde y el viento del mar se vuelve frío. Por eso los habituales solían llevar chaqueta para los últimos partidos del día, aunque el mediodía hubiera sido cálido.
 
-Por estas fechas, además, los árboles del parque cambian de color, y el paseo de una pista a otra transcurre entre los amarillos del otoño.
+Los árboles del parque cambian de color por esas fechas, de modo que el paseo entre partidos transcurría entre los amarillos otoñales que rodean las pistas exteriores.
 
-## Entre partidos: Toyosu, Big Sight y Odaiba
+## Entre partido y partido: Toyosu, Big Sight y Odaiba
 
-Para tomarse un descanso de las pistas, los alrededores de Ariake ofrecen mucho donde elegir.
+Ariake ofrecía muchas opciones en los alrededores para tomarse un respiro.
 
-- **Ariake Garden**, el gran centro comercial cercano a la línea Yurikamome, cuenta con zonas de restauración y restaurantes. Es la opción más próxima para comer sentado con calma.
-- El **mercado de Toyosu** (Toyosu Market), el mercado mayorista de pescado de Tokio, está una parada al este, en Shijō-mae. Dentro hay barras de sushi, y su momento de mayor actividad es la mañana.
-- **teamLab Planets**, un museo de arte digital que se recorre a pie, se encuentra en Toyosu, junto a la estación de Shin-toyosu.
-- Al **Tokyo Big Sight**, el centro de convenciones de las pirámides invertidas, se puede ir andando desde el parque. Cuando acoge ferias comerciales, los trenes pueden ir llenos.
-- El **parque marino de Odaiba** (Odaiba Seaside Park), con sus vistas al Rainbow Bridge, queda unas pocas paradas al oeste en la Yurikamome. Es un buen plan para la tarde, una vez terminados los partidos.
+- **Ariake Garden**, un gran centro comercial junto a la línea Yurikamome, contaba con zonas de restauración y restaurantes. Era el lugar más próximo para sentarse a comer con calma.
+- **El mercado de Toyosu**, el mercado mayorista de pescado de Tokio, quedaba una parada al este, en Shijō-mae. Dentro hay barras de sushi, y su momento de mayor actividad es la mañana.
+- **teamLab Planets**, el museo de arte digital que se recorre a pie, se encuentra en Toyosu, junto a la estación Shin-toyosu.
+- **Tokyo Big Sight**, el centro de convenciones de las pirámides invertidas, quedaba a una distancia que podía recorrerse a pie desde el parque. Las ferias que allí se celebran pueden llenar los trenes.
+- **El parque marino de Odaiba (Odaiba Seaside Park)**, con sus vistas al Rainbow Bridge, estaba a pocas paradas de la Yurikamome hacia el oeste. Era un buen plan para la tarde, una vez terminado el juego.
 
-Quienes viajan sobre todo por el tenis suelen alojarse en Toyosu o en Shiodome. Ambas zonas tienen conexión directa con las pistas y están bien comunicadas con el resto de la ciudad.
+Quienes viajaban con el tenis como objetivo principal solían alojarse en Toyosu o en Shiodome, dos zonas con líneas directas hasta las pistas y bien comunicadas con el resto de la ciudad.
 
-## Dónde consultar fechas, cuadros y resultados
+## Dónde se publicaban fechas, cuadros y resultados
 
-La Federación Internacional de Tenis organiza el World Tennis Masters Tour. En sus páginas dedicadas al circuito Masters se publican los cuadros y los resultados del torneo, así como la información de inscripción para los jugadores. El torneo se celebra del 11 al 15 de noviembre de 2026 en el Ariake Tennis Forest Park. Los horarios de cada jornada y la asignación de pistas los facilita el organizador, no esta guía.
+La Federación Internacional de Tenis (ITF) organiza el World Tennis Masters Tour. En sus páginas del circuito Masters figuraban los cuadros y los resultados del torneo, además de la información de inscripción para los jugadores. Las fechas eran del 11 al 15 de noviembre de 2026, en el Parque del Bosque de Tenis de Ariake. Los horarios de cada jornada y la asignación de pistas correspondían al organizador, no a esta guía.
 
-El uso del Coliseum y de las pistas exteriores puede variar de un día a otro. Por eso, quienes siguen a un jugador o a una selección concretos suelen acudir primero, al llegar al parque, al mostrador del torneo o al orden de juego expuesto.
+El uso del Coliseum y de las pistas exteriores podía variar de un día a otro. Por eso, quienes seguían a un jugador o a un país concreto solían acudir, nada más llegar al parque, al mostrador del torneo o al orden de juego expuesto.

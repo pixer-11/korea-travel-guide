@@ -14,16 +14,16 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 136,
-   "hits": 28
+   "attempts": 140,
+   "hits": 30
   },
   "art gallery": {
-   "attempts": 98,
-   "hits": 19
+   "attempts": 103,
+   "hits": 20
   },
   "night view": {
-   "attempts": 90,
-   "hits": 18
+   "attempts": 97,
+   "hits": 20
   },
   "waterfront": {
    "attempts": 62,
@@ -34,7 +34,7 @@
    "hits": 53
   },
   "noodles": {
-   "attempts": 77,
+   "attempts": 78,
    "hits": 3
   },
   "old quarter": {
@@ -46,8 +46,8 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 75,
-   "hits": 11
+   "attempts": 87,
+   "hits": 15
   },
   "seafood": {
    "attempts": 96,
@@ -78,8 +78,8 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 63,
-   "hits": 2
+   "attempts": 64,
+   "hits": 3
   },
   "concept cafe": {
    "attempts": 59,
@@ -1400,7 +1400,15 @@
   "Valley of the Queens": {
    "attempts": 1,
    "hits": 1
+  },
+  "Colossi of Memnon": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Luxor Museum": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-11-15T07:43:46.730Z"
+ "updated": "2026-11-16T07:43:42.450Z"
 }

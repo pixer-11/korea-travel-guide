@@ -1,80 +1,80 @@
 ---
 lang: es
 slug: paris-paris-photo
-srcHash: '3bbf5c7b335e'
+srcHash: '069f612b7b13'
 title: 'Paris Photo: fechas, entradas y sede (París)'
-description: Del 12 al 15 de noviembre de 2026, Paris Photo se celebra en el Grand Palais, situado entre los Campos Elíseos y el Sena, en el distrito 8 de París.
-quickAnswer: Del 12 al 15 de noviembre de 2026, Paris Photo se celebra en el Grand Palais, situado entre los Campos Elíseos y el Sena, en el distrito 8 de París. La venta de entradas y los horarios de apertura están en la web oficial de la feria. Esta edición coincide con el festival Photo Days, que se extiende por toda la ciudad, de modo que la mayoría de los visitantes dedica un día a la feria y aprovecha para ver exposiciones en otros puntos de París.
+description: Paris Photo estaba prevista del 12 al 15 de noviembre de 2026 en el Grand Palais, situado en el distrito 8 de París, entre los Campos Elíseos y el Sena.
+quickAnswer: Paris Photo estaba prevista del 12 al 15 de noviembre de 2026 en el Grand Palais, situado en el distrito 8 de París, entre los Campos Elíseos y el Sena. Las entradas se vendían en la web oficial de la feria. Esta edición coincidía en el calendario con Photo Days, un festival repartido por toda la ciudad. Muchos visitantes suelen combinar una jornada en la feria con exposiciones en otros puntos de París.
 faq:
-  - q: ¿Cuándo y dónde se celebra Paris Photo 2026?
-    a: Paris Photo 2026 tendrá lugar del 12 al 15 de noviembre en el Grand Palais, en la Avenue Winston Churchill (distrito 8 de París). Los horarios de apertura de cada día se publican en la web oficial de la feria.
-  - q: ¿Cuál es la estación de metro más cercana a Paris Photo?
-    a: La más próxima es Champs-Élysées–Clemenceau (líneas 1 y 13). También se puede llegar a pie desde Franklin D. Roosevelt (líneas 1 y 9) y desde Invalides (líneas 8 y 13, además del RER C), que queda al otro lado del Pont Alexandre III.
-  - q: ¿Cuánto tiempo se suele dedicar a la feria?
-    a: Para recorrer los estands de las galerías y la zona de fotolibros, la mayoría de los visitantes necesita tres horas como mínimo. Es frecuente que los coleccionistas y los grandes aficionados a la fotografía vuelvan un segundo día.
-  - q: ¿Se pueden comprar fotografías o libros en Paris Photo?
-    a: Sí. Casi todas las obras expuestas en los estands de las galerías están a la venta, y el personal enseña la lista de precios a quien la pida. En la zona de editoriales se venden fotolibros, y muchos de ellos los firman los propios fotógrafos en las sesiones de firmas programadas.
-  - q: ¿Qué otras actividades hay en París durante Paris Photo?
-    a: Esta edición coincide con el festival Photo Days, que llena todo París de exposiciones de fotografía. El Jeu de Paume, la Maison Européenne de la Photographie y la Fondation Henri Cartier-Bresson quedan a poca distancia. Justo enfrente del Grand Palais se encuentra el Petit Palais.
+  - q: ¿Qué fechas y qué sede se anunciaron para Paris Photo 2026?
+    a: Las fechas anunciadas eran del 12 al 15 de noviembre, y la sede era el Grand Palais, en la Avenue Winston Churchill, dentro del distrito 8 de París. La propia feria fijaba el horario de apertura de cada día.
+  - q: ¿Cuál era la estación de metro más cercana a Paris Photo?
+    a: La más próxima era Champs-Élysées–Clemenceau (líneas 1 y 13). Franklin D. Roosevelt (líneas 1 y 9) también quedaba a poca distancia a pie. Lo mismo ocurría con Invalides (líneas 8 y 13, además del RER C), al otro lado del puente Alejandro III (Pont Alexandre III).
+  - q: ¿Cuánto tiempo solía dedicarse a la feria?
+    a: La mayoría de los visitantes necesitaban al menos tres horas para recorrer los estands de las galerías y la zona de fotolibros. Muchos coleccionistas y aficionados exigentes a la fotografía volvían un segundo día.
+  - q: ¿Se podían comprar fotografías o libros en Paris Photo?
+    a: Sí. Casi todas las obras expuestas en los estands de las galerías estaban a la venta, y el personal enseñaba la lista de precios a quien la pidiera. En la zona de editoriales se vendían fotolibros, muchos de ellos firmados por sus autores en sesiones de firma con horario fijo.
+  - q: ¿Qué otras propuestas coincidían en París con Paris Photo?
+    a: La edición de 2026 estaba programada para coincidir con Photo Days, un festival que llena París de exposiciones de fotografía. El Jeu de Paume, la Maison Européenne de la Photographie y la Fondation Henri Cartier-Bresson quedaban a mano. Justo enfrente del Grand Palais se alza el Petit Palais.
 ---
 
 ## Bajo la nave de cristal
 
-Paris Photo ocupa una de las grandes naves de hierro de la ciudad. El Grand Palais se construyó para la Exposición Universal de 1900, y su nave está cubierta por una bóveda de vidrio y acero remachado. Durante la feria, ese espacio se reparte en estands de galerías. Hay tabiques blancos, copias enmarcadas a la altura de los ojos y galeristas sentados ante pequeños escritorios junto al pasillo.
+Paris Photo ocupa una de las grandes salas de hierro de la ciudad. El Grand Palais se construyó para la Exposición Universal de 1900, y su nave se cubre con una bóveda de cristal y acero remachado. Durante la feria, ese espacio se divide en estands de galerías. Hay tabiques blancos y copias enmarcadas a la altura de los ojos, y los galeristas atienden desde pequeños escritorios junto al pasillo.
 
-La edición de 2026 se celebra del 12 al 15 de noviembre. Paris Photo es la principal feria internacional dedicada a la fotografía, así que en la práctica reúne bajo un mismo techo a galerías de muchos países. A pocos metros de distancia pueden verse copias de época en gelatina de plata y obras recientes en color de gran formato.
+Las fechas anunciadas para la edición de 2026 eran del 12 al 15 de noviembre. Paris Photo es la principal feria internacional dedicada a la fotografía. En la práctica, eso significa reunir bajo un mismo techo a galerías de numerosos países. Así, unas pocas decenas de centímetros, a lo sumo unos metros, separan las copias antiguas en gelatina de plata de las obras recientes en color y gran formato.
 
-Casi todas las obras están a la venta. Aun así, nadie está obligado a comprar. Muchos visitantes ven la feria como la mayor exposición de fotografía del año, con la única diferencia de que esta tiene listas de precios.
+Casi todo lo expuesto está a la venta. Aun así, no todo el mundo acude a comprar. Muchos visitantes ven en la feria la mayor exposición de fotografía del año, con la única diferencia de que esta tiene listas de precios.
 
 ## Cómo llegar al Grand Palais
 
-La fachada del edificio da a la Avenue Winston Churchill, una avenida corta que baja desde los Campos Elíseos hasta el Pont Alexandre III. Hay dos estaciones de metro cerca:
+El edificio da a la Avenue Winston Churchill, una avenida corta que baja desde los Campos Elíseos hasta el puente Alejandro III (Pont Alexandre III). Hay dos estaciones de metro muy cerca:
 
-- **Champs-Élysées–Clemenceau** (líneas 1 y 13): es la más próxima y se llega con un breve paseo por la avenida.
-- **Franklin D. Roosevelt** (líneas 1 y 9): está algo más arriba en los Campos Elíseos y resulta práctica si se viene del oeste.
-- **Invalides** (líneas 8 y 13, además del RER C): se encuentra en la orilla izquierda, al otro lado del Pont Alexandre III. Cruzar el río a pie lleva diez minutos, y el paseo tiene unas vistas preciosas.
+- **Champs-Élysées–Clemenceau** (líneas 1 y 13): es la más próxima y está a un breve paseo por la avenida.
+- **Franklin D. Roosevelt** (líneas 1 y 9): queda algo más arriba en los Campos Elíseos y resulta práctica para quien llega desde el oeste.
+- **Invalides** (líneas 8 y 13, además del RER C): se encuentra en la orilla izquierda, al otro lado del puente Alejandro III. Cruzar el río a pie lleva unos diez minutos y regala muy buenas vistas.
 
-Los taxis y los VTC pueden dejarle en cualquiera de las avenidas cercanas. A última hora de la tarde el tráfico alrededor de los Campos Elíseos va lento, por lo que el metro suele ser más rápido. En noviembre, París es frío y a menudo lluvioso, y oscurece pronto. Cruzar el puente es más bonito con las últimas luces del día.
+Los taxis y los vehículos con conductor pueden dejar a los pasajeros en las avenidas de alrededor. A última hora de la tarde el tráfico avanza despacio en torno a los Campos Elíseos, así que el metro suele ser más rápido. En noviembre, París es una ciudad fría y a menudo lluviosa donde anochece pronto. El paseo por el puente luce más con las últimas luces del día.
 
-## Entradas, fechas y dónde consultar la información
+## Entradas, fechas y dónde se publica cada cosa
 
-La feria vende las entradas y publica el horario de cada día en su web oficial. Allí están también, para cada edición, la lista de expositores, el plano y el programa de charlas y firmas. Los precios y los horarios cambian de un año a otro, y por eso esta guía no los incluye.
+Las entradas para la edición de 2026 se vendían en la web oficial de la feria. La organización publicó también el horario de cada jornada, la lista de expositores, el plano del recinto y un programa de charlas y firmas. Los precios y los horarios cambian de un año a otro.
 
-Cada entrada de Paris Photo da acceso a la feria durante un día. A muchos visitantes les basta con una sola visita. En cambio, los coleccionistas y los estudiantes de fotografía suelen repetir otro día, cuando ya saben qué estands quieren volver a ver.
+Cada entrada de Paris Photo da acceso a una sola jornada. A mucha gente le basta con una visita. Los coleccionistas y los estudiantes de fotografía, en cambio, suelen volver otro día, una vez localizados los estands que quieren ver de nuevo.
 
 ## Recorrer los pasillos como un habitual
 
-Conviene llevar un plan para recorrer los pasillos. Los habituales suelen echar un vistazo al plano en la entrada o en el móvil y eligen unas cuantas galerías que no quieren perderse. Después pasean de una a otra. Sin ese plan, es fácil pasarse dos horas en el primer tercio de la nave.
+La nave es enorme. Quienes repiten cada año suelen echar un vistazo al plano en la entrada o en el móvil, eligen unas cuantas galerías imprescindibles y pasean entre ellas. De lo contrario, es fácil pasarse dos horas en el primer tercio de la sala.
 
-Así funcionan los estands:
+En los estands, las cosas funcionan así:
 
-- **Salude con un «Bonjour» al entrar.** En Francia es una cortesía de lo más corriente, y los galeristas se dan cuenta cuando alguien la omite.
-- **Pida la lista de precios.** Casi nunca aparecen junto a la obra. El personal guarda una lista en el escritorio y normalmente se la enseña a quien la pida.
-- **Fotografiar las obras:** muchos visitantes hacen fotos con el móvil, aunque hay galerías que prefieren evitarlo. Para salir de dudas, basta con preguntar en el escritorio.
-- **Pago:** en París lo habitual es pagar con tarjeta, tanto un catálogo como una copia. Las compras de mayor importe, envío incluido, las acuerdan las galerías directamente con el comprador.
+- **Un «bonjour» al entrar.** Es la cortesía francesa de siempre, y los galeristas se dan cuenta cuando alguien se la salta.
+- **La lista de precios.** Rara vez figuran junto a las obras. El personal guarda una lista en el mostrador y casi siempre se la enseña a quien la pide.
+- **Fotografiar las obras:** muchos visitantes hacen fotos con el móvil, aunque algunas galerías prefieren que no se hagan. Basta con preguntar en el mostrador para saberlo.
+- **El pago:** en París la tarjeta es lo habitual, tanto para un catálogo como para una copia. En las compras de mayor importe, la galería lo acuerda todo directamente con el comprador, envío incluido.
 
-En los grandes recintos de París es normal que revisen los bolsos a la entrada, así que con un bolso pequeño se pasa antes. Muy poca gente consigue ver la nave en menos de tres horas. Como apenas hay bancos, hacer una pausa a mitad de visita en la cafetería ayuda.
+En los grandes recintos de París es normal revisar los bolsos en la entrada, de modo que con uno pequeño se pasa antes. Muy pocos consiguen recorrer la nave en menos de tres horas. Como apenas hay bancos, una pausa a mitad de visita en la cafetería viene bien.
 
-## Los pasillos de fotolibros
+## Los pasillos del fotolibro
 
-Paris Photo reserva una zona para las editoriales y librerías de fotolibros, y para muchos visitantes es lo mejor de la feria. Las mesas están llenas de novedades, ediciones limitadas y títulos descatalogados. Aquí, al contrario que en los estands de las galerías, casi todo se puede coger y hojear.
+Paris Photo reserva una zona a las editoriales y librerías especializadas en fotolibros, y para muchos visitantes es lo mejor de la feria. Las mesas rebosan de novedades, ediciones limitadas y títulos descatalogados. A diferencia de lo que ocurre en los estands de las galerías, aquí casi todo se puede coger y hojear.
 
-Las firmas de libros forman parte habitual del programa. Los fotógrafos se sientan a las mesas de las editoriales, firman ejemplares y conversan con los lectores. El calendario de firmas figura en el programa de la feria. Un fotolibro firmado es, además, el recuerdo más asequible que puede llevarse de Paris Photo. Por eso las colas en las mesas más solicitadas suelen ser más largas que en cualquier estand de galería.
+Las firmas de libros forman parte habitual del programa. Los fotógrafos se sientan en las mesas de las editoriales, dedican ejemplares y conversan con los lectores. El calendario de firmas suele aparecer en el programa impreso de la feria. Un fotolibro firmado es, además, el recuerdo más asequible de Paris Photo. Por eso las colas en las mesas más solicitadas suelen superar a las de cualquier estand de galería.
 
-## Photo Days: la feria sale a la ciudad
+## Photo Days: la feria se extiende por la ciudad
 
-Esta edición coincide con Photo Days, un festival que reparte exposiciones de fotografía por galerías, instituciones y espacios menos conocidos de París. En noviembre, por tanto, la feria es el eje de todo un mes dedicado a la fotografía. Muchos visitantes organizan una estancia de varios días en torno a ella.
+La edición de 2026 estaba programada para coincidir con Photo Days, un festival que reparte exposiciones de fotografía por galerías, instituciones y espacios menos evidentes de París. En noviembre, la feria es el eje de todo un mes dedicado a la fotografía, y muchos visitantes organizan en torno a ella una estancia de varios días.
 
-Los espacios fotográficos permanentes de la ciudad encajan sin problema en un viaje así:
+Los espacios permanentes de fotografía de la ciudad encajan sin esfuerzo en un viaje así:
 
-- **Jeu de Paume**: está en el Jardín de las Tullerías, junto a la Place de la Concorde, a veinte minutos a pie del Grand Palais en dirección este.
-- **Maison Européenne de la Photographie (MEP)**: se encuentra en el Marais y es uno de los principales museos de fotografía de la ciudad.
-- **Fondation Henri Cartier-Bresson**: también está en el Marais, en la Rue des Archives.
+- **Jeu de Paume**, en el jardín de las Tullerías, junto a la plaza de la Concordia (Place de la Concorde): a veinte minutos a pie hacia el este desde el Grand Palais.
+- **Maison Européenne de la Photographie (MEP)**, en el Marais: uno de los principales museos de fotografía de la ciudad.
+- **Fondation Henri Cartier-Bresson**, también en el Marais, en la Rue des Archives.
 
-Durante la semana de la feria, las galerías del Marais y de Saint-Germain-des-Prés suelen colgar sus mejores exposiciones de fotografía. Recorrerlas a pie es un buen plan de tarde, lejos de las multitudes de la nave.
+Durante la semana de la feria, las galerías del Marais y de los alrededores de Saint-Germain-des-Prés suelen colgar sus mejores exposiciones de fotografía. Ir a pie de una a otra es un buen plan de tarde lejos del bullicio de la nave.
 
-## En torno a la Avenue Winston Churchill
+## Alrededor de la Avenue Winston Churchill
 
-Al salir de la feria no hace falta alejarse mucho. Justo al otro lado de la avenida se alza el **Petit Palais**, construido también para la exposición de 1900. Alberga el museo de bellas artes de la Ciudad de París, y su jardín interior es un lugar tranquilo para sentarse después de pasar unas horas bajo la cubierta de cristal.
+Muy cerca de la feria hay mucho que ver. Justo al otro lado de la avenida se alza el **Petit Palais**, construido también para la exposición de 1900. Alberga el museo de bellas artes de la Ciudad de París, y el jardín de su patio es un rincón tranquilo para sentarse después de unas horas bajo la cubierta de cristal.
 
-Hacia el sur, el **Pont Alexandre III** cruza el Sena en dirección a Les Invalides, con estatuas doradas sobre sus pilares. Hacia el norte se llega a los Campos Elíseos, donde están los cafés y restaurantes más cercanos. Durante la semana de la feria van llenos. Si busca un sitio más tranquilo y económico para comer, puede hacer como muchos visitantes: tomar la línea 1 unas paradas hacia el este o cruzar el río hasta el distrito 7.
+Hacia el sur, el **puente Alejandro III**, con estatuas doradas sobre sus pilares, cruza el Sena en dirección a los Inválidos. Al norte quedan los Campos Elíseos, con los cafés y restaurantes más cercanos, que suelen llenarse durante la semana de la feria. Para comer de forma más tranquila y económica, muchos visitantes toman la línea 1 unas cuantas paradas hacia el este o cruzan el río hasta el distrito 7.

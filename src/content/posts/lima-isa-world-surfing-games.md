@@ -1,6 +1,6 @@
 ---
 title: 'ISA World Surfing Games: Dates, Tickets & Venue (Lima)'
-description: The ISA World Surfing Games take place in Lima, Peru, from November 6–15, 2026.
+description: The ISA World Surfing Games were set for Lima, Peru, from November 6–15, 2026, with surfers competing for their national teams.
 country: Peru
 region: Lima
 category: event
@@ -13,25 +13,25 @@ eventOrganizer:
   url: https://isasurf.org
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lima%2C_Urban_Skyline--Ciudad_de_Lima%2C_Skyline_urbano.jpg/3840px-Lima%2C_Urban_Skyline--Ciudad_de_Lima%2C_Skyline_urbano.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lima%2C_Urban_Skyline--Ciudad_de_Lima%2C_Skyline_urbano.jpg/3840px-Lima%2C_Urban_Skyline--Ciudad_de_Lima%2C_Skyline_urbano.jpg
   credit: 'Photo: Joshua87 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Lima,_Urban_Skyline--Ciudad_de_Lima,_Skyline_urbano.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Lima,_Urban_Skyline--Ciudad_de_Lima,_Skyline_urbano.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - lima
   - event
-quickAnswer: The ISA World Surfing Games take place in Lima, Peru, from November 6–15, 2026. The International Surfing Association (ISA) organises the championship and publishes the venue, competition schedule and any spectator or ticket information on its official site, isasurf.org. Most fans pick one or two finals days and spend the rest of the trip in Miraflores and Barranco.
+quickAnswer: The ISA World Surfing Games were set for Lima, Peru, from November 6–15, 2026. The International Surfing Association (ISA), whose official site is isasurf.org, organised the championship. Most fans at these events pick one or two finals days and spend the rest of the trip in Miraflores and Barranco.
 faq:
   - q: When are the 2026 ISA World Surfing Games?
-    a: The Games run from November 6 to 15, 2026, in Peru. Surfing goes ahead on the days with suitable waves within that window, and the ISA publishes each day's call on isasurf.org.
+    a: The Games were scheduled for November 6 to 15, 2026, in Peru. At these contests, surfing goes ahead on the days with suitable waves within the window, and a call is made each morning.
   - q: Which beach hosts the competition?
-    a: The ISA publishes the venue on its official site. For context, Punta Rocas, south of Lima on the Panamericana Sur, hosted the 2014 World Surfing Games and the surfing at the 2019 Pan American Games.
+    a: Punta Rocas, south of Lima on the Panamericana Sur, hosted the 2014 World Surfing Games and the surfing at the 2019 Pan American Games. It is one of the best-known contest breaks on the Lima coast.
   - q: Do I need a ticket to watch?
-    a: Beach surf contests have traditionally been viewable from the sand. Any ticketed seating or ceremony access, and its price, appears on the ISA's official pages.
+    a: Beach surf contests have traditionally been viewable from the sand. Ticketed seating or ceremony access, where it exists, is usually sold and priced separately.
   - q: How many days should I spend at the event?
     a: Most visitors pick one or two days, often near the end of the window when finals and medal heats happen. They spend the rest of the trip in Miraflores and Barranco.
   - q: What is the weather like in Lima in November?
@@ -39,14 +39,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Nations, not just surfers
 
 This contest is surfing with flags. At the ISA World Surfing Games, surfers compete for their countries as well as for themselves. Their individual results add up to a team ranking, so a quiet second-round heat can still shift the medal table.
 
-The 2026 edition runs from November 6 to 15. That gives ten days for heats to work through the field, with the organisers choosing the days that suit the swell. The ISA, the sport's world governing body, runs the event.
+The 2026 edition was set for November 6 to 15. The window gave ten days for heats to work through the field, and organisers of a surf contest pick the days that suit the swell. The ISA, the sport's world governing body, organised the event.
 
-The Games open with the Parade of Nations and the Sands of the World ceremony. In that ritual, each team pours sand from its home beaches into a shared vessel. It's the one moment when every country is on the beach together, and photographers crowd the front of it.
+The announced programme opened with the Parade of Nations and the Sands of the World ceremony. In that ritual, each team pours sand from its home beaches into a shared vessel. It's the one moment when every country is on the beach together, and photographers crowd the front of it.
 
 ## Why Peru's coast is a natural home
 
@@ -57,30 +56,30 @@ Few countries have a better claim to this event than Peru. Its surfing history r
 - **2004:** Lima's Sofía Mulánovich becomes the first South American world champion.
 - **2014:** Punta Rocas hosts the ISA World Surfing Games, and it later held the surfing at the 2019 Pan American Games.
 
-Lima also sits on the cold Humboldt Current. The water is cool all year, and the long coast picks up South Pacific swell on dozens of reefs and point breaks. Peruvians follow the national team closely, so expect home-team heats to draw the loudest beach crowd.
+Lima also sits on the cold Humboldt Current. The water is cool all year, and the long coast picks up South Pacific swell on dozens of reefs and point breaks. Peruvians follow the national team closely, and home-team heats traditionally draw the loudest beach crowd.
 
 ## Dates, venue and tickets
 
-The competition runs from November 6–15, 2026. The ISA publishes the exact beach, the daily call and the spectator information on isasurf.org and its social channels. Surf contests run on a waiting period, so heats can be paused or moved when the ocean goes flat. Each morning's call decides whether the day's surfing goes ahead.
+The competition window covered November 6–15, 2026. The ISA's official site is isasurf.org. Surf contests use a waiting period, so heats can be paused or moved when the ocean goes flat. Each morning's call decides whether the day's surfing goes ahead.
 
-Beach surf contests have traditionally been easy to watch from the sand. Any ticketed areas, such as grandstands or ceremony seating, appear on the ISA's official pages along with their prices. Visitors who only care about medals tend to aim for the final days of the window, when the finals and podiums come around.
+Beach surf contests have traditionally been easy to watch from the sand. Ticketed areas, such as grandstands or ceremony seating, are usually priced separately. Visitors who only care about medals tend to aim for the final days of the window, when the finals and podiums come around.
 
 ## Reading a heat from the sand
 
 Spectating at a surf contest has its own rhythm. Here is how it usually works on the beach:
 
 - **The heat:** a small group of surfers shares the lineup against a clock. Judges score each wave out of ten, and a surfer's two best waves count.
-- **Second chances:** the ISA format runs a main round and a repechage, so an early loss doesn't always end a surfer's event.
+- **Second chances:** the ISA format uses a main round and a repechage, so an early loss doesn't always end a surfer's event.
 - **Colours:** each surfer wears a coloured jersey, and the big scoreboard on the beach uses the same colours.
-- **Commentary:** the event's webcast and the beach PA call out scores as they land. Many spectators keep the stream open on a phone so they can follow the scores more easily.
+- **Commentary:** a contest's webcast and the beach PA call out scores as they land. Many spectators keep the stream open on a phone so they can follow the scores more easily.
 
-Local etiquette is simple. Don't paddle out in the competition zone during heats; marshals keep the area clear. Team supporters wave flags and chant at the waterline, and they cheer good waves from rival nations too. Peruvians are generous in that way.
+Local etiquette is simple. Nobody paddles out in the competition zone during heats; marshals keep the area clear. Team supporters wave flags and chant at the waterline, and they cheer good waves from rival nations too. Peruvians are generous in that way.
 
 ## Getting to the coast
 
 Flights arrive at Jorge Chávez International Airport in Callao. Most visitors stay in Miraflores or Barranco, the clifftop districts above the Costa Verde, where hotels, cafés and the malecón walkway are close together.
 
-The beaches south of the city, including Punta Rocas, are reached by the Panamericana Sur highway. Spectators usually get there by ride-hailing app, private driver or shared transport organised through their hotel. Traffic out of Lima can be heavy, so fans heading south for the first heat usually leave the city well before it starts.
+The beaches south of the city, including Punta Rocas, are reached by the Panamericana Sur highway. Spectators usually get there by ride-hailing app, private driver or shared transport organised through their hotel. Traffic out of Lima can be heavy, so fans heading south for an early heat usually leave the city well before it starts.
 
 ## November in Lima
 

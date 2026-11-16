@@ -1,6 +1,6 @@
 ---
 title: 'CNBLUE LIVE WORLD TOUR ''3LOGY'' ENCORE IN MACAU: Dates, Tickets & Venue (Macau)'
-description: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU takes place at Studio City Macau in Cotai on November 14 and 15, 2026, as an encore stop of the band's 3LOGY world tour.
+description: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU was set for Studio City Macau in Cotai on November 14 and 15, 2026, an encore of the 3LOGY tour.
 country: Macau
 region: Macau
 category: event
@@ -29,10 +29,10 @@ gallery: []
 tags:
   - macau
   - event
-quickAnswer: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU takes place at Studio City Macau in Cotai on November 14 and 15, 2026, as an encore stop of the band's 3LOGY world tour. Studio City sits at the southern end of the Cotai Strip beside the Lotus Bridge border crossing, and most fans reached it on free resort shuttles or the Light Rapid Transit.
+quickAnswer: CNBLUE LIVE WORLD TOUR '3LOGY' ENCORE IN MACAU was set for Studio City Macau in Cotai on November 14 and 15, 2026, as an encore stop of the band's 3LOGY world tour. Studio City sits at the southern end of the Cotai Strip beside the Lotus Bridge border crossing, and most visitors reach it on free resort shuttles or the Light Rapid Transit.
 faq:
   - q: When and where was CNBLUE's 3LOGY encore in Macau?
-    a: It runs for two nights, November 14 and 15, 2026, at Studio City Macau on the Cotai Strip.
+    a: It was scheduled for two nights, November 14 and 15, 2026, at Studio City Macau on the Cotai Strip.
   - q: How do you get to Studio City Macau from Hong Kong?
     a: Take a ferry to Taipa or the Outer Harbour, or a bus across the Hong Kong–Zhuhai–Macao Bridge. Then switch to one of the free resort shuttles to Studio City.
   - q: What is the closest public transport stop to Studio City?
@@ -44,14 +44,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two nights of 3LOGY in Cotai
 
-CNBLUE bring the 3LOGY world tour back for an encore. The band plays two nights, November 14 and 15, 2026, at Studio City Macau, the film-themed casino resort on the Cotai Strip.
+CNBLUE's 3LOGY world tour returned for an encore. The band was set to play two nights, November 14 and 15, 2026, at Studio City Macau, the film-themed casino resort on the Cotai Strip.
 
 The band is the rock trio signed to FNC Entertainment: Jung Yong-hwa, Kang Min-hyuk and Lee Jung-shin. They debuted in 2010 and play their own instruments on stage, which sets them apart from most K-pop acts. Their fandom goes by BOICE.
 
-The tour's promoter holds the ticket terms and seat maps. This guide does not list a setlist, showtimes or prices.
+The tour's promoter set the ticket terms and seat maps for both nights.
 
 ## Finding Studio City
 
@@ -61,7 +60,7 @@ The ways attendees usually reach it:
 
 - **Free resort shuttles** run between Studio City and the Outer Harbour and Taipa ferry terminals, the Border Gate and the Hong Kong–Zhuhai–Macao Bridge port.
 - **Light Rapid Transit (Taipa Line):** Lotus Checkpoint station is closest, by the Hengqin crossing.
-- **From Hengqin, mainland China:** fans cross the Lotus Bridge on foot or by bus, which ends almost at the resort's door.
+- **From Hengqin, mainland China:** visitors cross the Lotus Bridge on foot or by bus, which ends almost at the resort's door.
 - **Taxis** queue at the resort's main entrance, but the queues get long when the crowd leaves after a show.
 
 Concerts at the resort normally take place in the Studio City Event Center, the arena inside the complex. It is signposted from the casino and shopping levels.
@@ -79,10 +78,10 @@ Most visiting fans stay somewhere in Cotai. Studio City's own hotel and the big 
 K-pop fans in Macau follow a few habits:
 
 - **Merch first.** Fans usually line up at the official merchandise booth hours before doors, because popular items sell out.
-- **Lightsticks.** CNBLUE has its own official lightstick, and the arena fills with them during the set.
+- **Lightsticks.** CNBLUE has its own official lightstick, and at their shows the arena typically fills with them during the set.
 - **Fan projects.** BOICE groups often hand out slogan banners or printed cards at the entrance for coordinated moments during songs.
 - **Phones.** Rules on filming are set by the promoter and enforced by venue staff. Many fans keep their phones down during the band's live instrumental sections.
 
-**Money.** Macau's currency is the pataca, but Hong Kong dollars are taken almost everywhere at roughly par. Cards and mobile payments work across the resort. Tipping is not expected at food courts.
+**Money.** Macau's currency is the pataca, but Hong Kong dollars are taken almost everywhere at roughly par. Cards and mobile payments work across the resort. Tipping is not customary at food courts.
 
-**Getting home.** After the show, the shuttle stops and taxi ranks fill up all at once. Fans heading for the ferries or the bridge port usually stay for a late meal inside the resort and let the rush clear.
+**Getting home.** After a show, the shuttle stops and taxi ranks fill up all at once. Fans heading for the ferries or the bridge port usually stay for a late meal inside the resort and let the rush clear.

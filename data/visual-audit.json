@@ -5588,6 +5588,12 @@
   "reason": "publish gate: Aerial view of Brighton Palace Pier extending into sea",
   "at": "2026-10-03T07:44:38.392Z"
  },
+ "brighton-city-books\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bookshelves_in_City_Books%2C_Hove_2023-09-02.jpg/3840px-Bookshelves_in_City_Books%2C_Hove_2023-09-02.jpg": {
+  "slug": "brighton-city-books",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior bookshop shelves and display, representative hero shot",
+  "at": "2026-11-16T07:43:42.431Z"
+ },
  "brighton-lost-in-the-lanes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lost_in_the_Lanes%2C_Nile_Street%2C_Brighton_2025-07-08.jpg/3840px-Lost_in_the_Lanes%2C_Nile_Street%2C_Brighton_2025-07-08.jpg": {
   "slug": "brighton-lost-in-the-lanes",
   "verdict": "MATCH",
@@ -7950,6 +7956,12 @@
   "reasonKo": "대만 전통 마을, 목조 건물, 푸른 환경",
   "at": "2026-08-13T14:03:49.895Z"
  },
+ "chiayi-song-of-the-forest\u0001https://upload.wikimedia.org/wikipedia/commons/0/07/Song_of_Forest_-_Alishan_Forestry_Village%2C_Chiayi_City%28_Taiwan%29.jpg": {
+  "slug": "chiayi-song-of-the-forest",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Song of Forest's iconic ceiling structure",
+  "at": "2026-11-16T07:43:42.262Z"
+ },
  "chiayi-southern-branch-of-the-national-palace-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg/1920px-Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg": {
   "slug": "chiayi-southern-branch-of-the-national-palace-museum",
   "verdict": "MATCH",
@@ -8279,6 +8291,12 @@
   "reason": "publish gate: Chinatown Singapore street market scene with crowds and signage",
   "at": "2026-09-22T07:52:28.080Z"
  },
+ "chinatown-city-view\u0001https://upload.wikimedia.org/wikipedia/commons/6/6e/View_of_Singapore_City_Skyline_From_Esplanade_%285381398632%29.jpg": {
+  "slug": "chinatown-city-view",
+  "verdict": "MATCH",
+  "reason": "publish gate: Singapore skyline with bridge, plausible City View hero",
+  "at": "2026-11-16T07:43:42.403Z"
+ },
  "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
   "slug": "chinatown-my-awesome-cafe",
   "verdict": "MATCH",
@@ -8404,6 +8422,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows canopy structure with bell, matching landmark description",
   "at": "2026-10-23T08:11:54.277Z"
+ },
+ "christchurch-ravenscar-house-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ravenscar_House_Museum.jpg/1920px-Ravenscar_House_Museum.jpg": {
+  "slug": "christchurch-ravenscar-house-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Ravenscar House Museum building with sign",
+  "at": "2026-11-16T07:43:42.203Z"
  },
  "christchurch-riccarton-house-and-bush\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/Riccarton_House_Christchurch._%289581176642%29.jpg": {
   "slug": "christchurch-riccarton-house-and-bush",
@@ -21346,6 +21370,12 @@
   "reason": "publish gate: Classic hypostyle hall columns, representative of Karnak Temple",
   "at": "2026-11-09T17:54:17.126Z"
  },
+ "luxor-luxor-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/River_Nile%2C_Luxor_Bridge._-_panoramio.jpg": {
+  "slug": "luxor-luxor-bridge",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Luxor Bridge over Nile with decorated pillars",
+  "at": "2026-11-16T07:43:42.295Z"
+ },
  "luxor-luxor-museum\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/Luxor_Museum_1.JPG": {
   "slug": "luxor-luxor-museum",
   "verdict": "MATCH",
@@ -27953,6 +27983,12 @@
   "reason": "patrol reject: width: 800px < 1024",
   "at": "2026-09-24T22:45:43.604Z"
  },
+ "paris-shakespeare-and-company\u0001https://upload.wikimedia.org/wikipedia/commons/6/63/Quai_de_Montebello_-_Shakespeare_and_Company%2C_Paris_2011.jpg": {
+  "slug": "paris-shakespeare-and-company",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows shop exterior and sign, representative of venue",
+  "at": "2026-11-16T07:43:42.349Z"
+ },
  "paris-shwi\u0001https://fastly.4sqi.net/img/general/original/561107504_eASdpbuuVCLUzfcMaGXoPON22Q-u3yuPM90ZPmMJTO0.jpg": {
   "slug": "paris-shwi",
   "verdict": "MATCH",
@@ -31302,6 +31338,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Aerial view of Chihuly Garden and Glass complex, Seattle",
   "at": "2026-08-16T20:27:29.199Z"
+ },
+ "seattle-elliott-bay-book-company\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Elliott_Bay_Books_%28Capitol_Hill%29_interior_01.jpg/1920px-Elliott_Bay_Books_%28Capitol_Hill%29_interior_01.jpg": {
+  "slug": "seattle-elliott-bay-book-company",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative interior bookstore shot with shelves and aisles",
+  "at": "2026-11-16T07:43:42.377Z"
  },
  "seattle-jack-s-fish-spot\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg": {
   "slug": "seattle-jack-s-fish-spot",
@@ -39303,6 +39345,12 @@
   "reason": "event publish gate: Performer group photo of BOYNEXTDOOR band members",
   "at": "2026-10-21T23:54:16.886Z"
  },
+ "vancouver-cypress-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Cypress_Lookout_%28213003317%29.jpeg": {
+  "slug": "vancouver-cypress-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic overlook view of Vancouver skyline matches lookout attraction",
+  "at": "2026-11-16T07:43:42.160Z"
+ },
  "vancouver-gastown-steam-clock\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Gastown_Steam_Clock_%26_Buildings.JPG": {
   "slug": "vancouver-gastown-steam-clock",
   "verdict": "MATCH",
@@ -39356,6 +39404,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows seawall path with Vancouver skyline, representative view",
   "at": "2026-10-21T13:29:32.639Z"
+ },
+ "vancouver-the-naam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Miso_Benny_at_The_Naam_%288499605980%29.jpg/3840px-Miso_Benny_at_The_Naam_%288499605980%29.jpg": {
+  "slug": "vancouver-the-naam",
+  "verdict": "MATCH",
+  "reason": "publish gate: Dish photographed in real restaurant setting, plausible venue",
+  "at": "2026-11-16T07:43:42.233Z"
  },
  "vancouver-triples-world-tour-andless-vancouver\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TripleS_%40%25_in_Vancouver.jpg/3840px-TripleS_%40%25_in_Vancouver.jpg": {
   "slug": "vancouver-triples-world-tour-andless-vancouver",
@@ -40433,6 +40487,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront with visible Skosh signage, representative hero",
   "at": "2026-10-01T14:49:47.334Z"
+ },
+ "york-the-little-apple-bookshop\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Little_Apple_bookshop_York.jpg/3840px-Little_Apple_bookshop_York.jpg": {
+  "slug": "york-the-little-apple-bookshop",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront with sign and window display, representative exterior shot",
+  "at": "2026-11-16T07:43:42.320Z"
  },
  "york-uk-championship-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/1/13/Auditorium_during_U.K._snooker_championship_2019.jpg": {
   "slug": "york-uk-championship-snooker",

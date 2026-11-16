@@ -1,6 +1,6 @@
 ---
 title: 'Run Ortigas Half Marathon: Dates, Tickets & Venue (Pasig)'
-description: Run Ortigas Half Marathon takes place on November 15, 2026 at Ortigas East in Pasig, and it is the area's first-ever 21K.
+description: Run Ortigas Half Marathon was set for November 15, 2026 at Ortigas East in Pasig, announced as the area's first-ever 21K.
 country: Philippines
 region: Pasig
 category: event
@@ -13,36 +13,35 @@ eventOffers:
   url: https://www.takbo.ph/
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/9317Santolan_Pasig_City_Roads_Buildings_Landmarks_36.jpg/1280px-9317Santolan_Pasig_City_Roads_Buildings_Landmarks_36.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/9317Santolan_Pasig_City_Roads_Buildings_Landmarks_36.jpg/1280px-9317Santolan_Pasig_City_Roads_Buildings_Landmarks_36.jpg
   credit: 'Photo: Judgefloro (CC0)'
   license: wikimedia
-  source: 'File:9317Santolan Pasig City Roads Buildings Landmarks 36.jpg'
+  source: File:9317Santolan Pasig City Roads Buildings Landmarks 36.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - pasig
   - event
-quickAnswer: Run Ortigas Half Marathon takes place on November 15, 2026 at Ortigas East in Pasig, and it is the area's first-ever 21K. Shorter distances run alongside it, so first-timers and half-marathon runners share the same race morning. Registration and ticket links sit with the organiser's official race channels, and no fee figures are given here.
+quickAnswer: Run Ortigas Half Marathon was set for November 15, 2026 at Ortigas East in Pasig, announced as the area's first-ever 21K. Shorter distances were on the same programme, so first-timers and half-marathon runners had a race on the same morning. Registration was online through the organiser.
 faq:
   - q: When is Run Ortigas Half Marathon 2026?
-    a: It takes place on Sunday, November 15, 2026.
+    a: It was set for Sunday, November 15, 2026.
   - q: Where is the Run Ortigas venue?
-    a: The race is held at Ortigas East in Pasig, near the junction of C5 and Ortigas Avenue, the area that includes Tiendesitas.
+    a: The race was planned for Ortigas East in Pasig. The district sits near the junction of C5 and Ortigas Avenue, in the area that includes Tiendesitas.
   - q: What distances are offered?
-    a: The main event is a 21K half marathon, the first ever run in the area. Shorter distances run on the same morning, and the full category list is on the organiser's official race channels.
+    a: The main event was a 21K half marathon, announced as the first ever in the area. Shorter distances were on the programme for the same morning.
   - q: How do runners get to Ortigas East on race morning?
-    a: No rail line serves Ortigas East directly, and MRT-3 Ortigas Station is a long way off on EDSA. Most runners go by Grab, taxi or a shared ride, and get dropped a short walk from the start because of road closures.
+    a: No rail line serves Ortigas East directly, and MRT-3 Ortigas Station is a long way off on EDSA. Runners at races here usually go by Grab, taxi or a shared ride, and road closures mean drop-offs are typically a short walk from the start.
   - q: What is the weather like in mid-November?
-    a: November is the start of Luzon's cooler, drier season, but it stays humid and a late typhoon is possible. Races start before sunrise to avoid the worst of the heat.
+    a: November is the start of Luzon's cooler, drier season, but it stays humid and a late typhoon is possible. Races here usually start before sunrise to avoid the worst of the heat.
 aiGenerated: true
 draft: false
 ---
-
 ## A first 21K for Ortigas East
 
-Pasig gets a new half-marathon distance. On November 15, 2026, Run Ortigas puts a 21K on the streets of Ortigas East for the first time in the area's history, with shorter categories on the same morning.
+Run Ortigas was set for November 15, 2026, with a 21K on the streets of Ortigas East. Organisers announced it as the first half marathon in the area's history, with shorter categories on the same morning.
 
 Ortigas East is the mixed-use district near the junction of C5 and Ortigas Avenue, the same patch of Pasig that holds the Tiendesitas market complex. Its roads are wide and newly laid. Large blocks of open land are still waiting to be built on, which gives a course room to spread out.
 
@@ -58,19 +57,19 @@ November is the start of the cooler, drier months in Luzon. The humidity doesn't
 
 ## Getting to Ortigas East before dawn
 
-No rail line stops at Ortigas East. MRT-3 Ortigas Station is on EDSA at the other end of the Ortigas business district, a long walk from C5. For a pre-dawn start, most runners book Grab or a taxi, or share a ride with a running group.
+No rail line stops at Ortigas East. MRT-3 Ortigas Station is on EDSA at the other end of the Ortigas business district, a long walk from C5. For pre-dawn starts, most runners take Grab or a taxi, or share a ride with a running group.
 
-Road closures for the course usually begin before the gun. Drop-off traffic piles up on the approaches along C5 and Ortigas Avenue, so drivers tend to let runners out a block or two short and they walk the rest. Runners from outside Metro Manila often stay in the Ortigas Center or Kapitolyo areas of Pasig the night before. Both are a short ride away at that hour.
+Road closures for races here usually begin before the gun. Drop-off traffic piles up on the approaches along C5 and Ortigas Avenue, so drivers tend to let runners out a block or two short and they walk the rest. Runners from outside Metro Manila often stay in the Ortigas Center or Kapitolyo areas of Pasig the night before. Both are a short ride away at that hour.
 
 ## How Run Ortigas race day usually works
 
-Filipino races follow a familiar routine. Registration is done online through the organiser's official channels, and GCash and cards are the standard ways to pay. Each runner gets a race kit, which typically holds the bib and a singlet, and kits are usually collected at a set venue in the days before the race.
+Filipino races follow a familiar routine. Registration is done online with the organiser, and GCash and cards are the standard ways to pay. Each runner gets a race kit, which typically holds the bib and a singlet, and kits are usually collected at a set venue in the days before the race.
 
-On the morning itself, the shorter-distance crowd is mostly families and office running clubs from the surrounding business districts. The 21K field lines up first and is more serious. Some race-day habits:
+At races like this, the shorter-distance crowd is mostly families and office running clubs from the surrounding business districts. The 21K field lines up first and is more serious. Some race-day habits:
 
 - **Corrals:** runners sort themselves by distance at the start line. The 21K gun goes off ahead of the shorter categories.
 - **Bib placement:** the bib goes on the front, in full view, because marshals and photographers use it to identify runners.
 - **Aid stations:** volunteers hold out cups of water. Runners take a cup without stopping and drop it in the bins just past the table, not on the road.
-- **Finish area:** expect the medal, then the recovery food line, then running groups taking photos. Meetup points are usually agreed in advance because phone signal gets patchy when thousands of runners crowd together.
+- **Finish area:** the medal usually comes first, then the recovery food line, then running groups taking photos. Meetup points are usually agreed in advance because phone signal gets patchy when thousands of runners crowd together.
 
-After the race, runners usually head to Tiendesitas or the cafés around Ortigas East for a late breakfast. That way they're done before the C5 traffic picks up for the day.
+After a race, runners usually head to Tiendesitas or the cafés around Ortigas East for a late breakfast. That way they're done before the C5 traffic picks up for the day.

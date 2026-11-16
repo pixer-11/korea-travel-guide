@@ -1,6 +1,6 @@
 ---
 title: 'Trang An Marathon: Dates, Tickets & Venue (Trường Yên)'
-description: The Trang An Marathon is an international running race through the Trang An heritage landscape in Trường Yên, near Ninh Binh in northern Vietnam, held on November 15, 2026.
+description: The 2026 Trang An Marathon was set for November 15, 2026 in Trường Yên, near Ninh Binh, on a course through the Trang An heritage landscape.
 country: Vietnam
 region: Trường Yên
 category: event
@@ -12,12 +12,12 @@ eventFactsAsked: true
 tags:
   - trường yên
   - event
-quickAnswer: The Trang An Marathon is an international running race through the Trang An heritage landscape in Trường Yên, near Ninh Binh in northern Vietnam, held on November 15, 2026. The organiser publishes registration, ticket links and race-day details on its official site. Most runners base themselves in Ninh Binh city or the Tam Coc homestays, about two hours by road from Hanoi.
+quickAnswer: The Trang An Marathon is an international running race through the Trang An heritage landscape in Trường Yên, near Ninh Binh in northern Vietnam. The 2026 edition was set for November 15, 2026. Runners usually base themselves in Ninh Binh city or the Tam Coc homestays, about two hours by road from Hanoi.
 faq:
   - q: When is the Trang An Marathon in 2026?
-    a: The 2026 Trang An Marathon takes place on November 15, 2026, in Trường Yên, Ninh Binh province. The organiser publishes the dates, distances and start times on its official site.
+    a: The 2026 Trang An Marathon was set for November 15, 2026, in Trường Yên, Ninh Binh province. It is an international road race through the limestone landscape of Trang An.
   - q: Where are registration and tickets for the Trang An Marathon?
-    a: The organiser publishes registration and ticket links on the official Trang An Marathon website, along with bib collection details and the race rules.
+    a: Entries for the 2026 race were sold through the official Trang An Marathon website. The organiser also set the bib collection arrangements and the race rules.
   - q: How do I get from Hanoi to the Trang An Marathon?
     a: Trường Yên is about 90 to 100 km south of Hanoi, roughly two hours by road. Travellers usually take the train to Ninh Binh station, a bus or limousine van from Hanoi, or a private transfer. The last stretch to Trang An is a short taxi or Grab ride.
   - q: Where do runners usually stay?
@@ -35,18 +35,17 @@ heroImage:
     x: 50
     'y': 50
 ---
-
 ## Running between the limestone towers
 
 This course runs through a landscape you won't find anywhere else. Trang An is a karst landscape. Sheer limestone towers rise straight out of flat rice fields and slow green rivers, and footpaths and village roads wind between them. UNESCO listed the Trang An Landscape Complex as a World Heritage Site in 2014, for both its natural and its cultural value.
 
-The Trang An Marathon is an international road race through this scenery, centred on Trường Yên commune in Hoa Lu, Ninh Binh province. Trường Yên is the site of Hoa Lu, Vietnam's capital in the 10th century. Runners pass the same valleys that the Dinh and Early Le kings chose for their defences.
+The Trang An Marathon is an international road race through this scenery, centred on Trường Yên commune in Hoa Lu, Ninh Binh province. Trường Yên is the site of Hoa Lu, Vietnam's capital in the 10th century. The route passes the same valleys that the Dinh and Early Le kings chose for their defences.
 
 ## November 15, 2026: the date and the registration page
 
-The 2026 edition takes place on November 15, 2026. The organiser publishes the race dates, venue, distances and ticket links on its official site. Registration details, start times and bib collection arrangements all live there too, so this guide doesn't repeat figures that could change.
+The 2026 edition was set for November 15, 2026, in Trường Yên. Entries were sold through the official race website. The organiser set the distances, start times and bib collection arrangements.
 
-Mid-November falls in northern Vietnam's dry season. Mornings are generally cooler and less humid than the summer months, which is why autumn is the usual season for road racing in the north. Vietnamese road races also usually start around dawn, so runners finish before the midday sun.
+Mid-November falls in northern Vietnam's dry season. Mornings are generally cooler and less humid than in the summer months, which is why autumn is the usual season for road racing in the north. Vietnamese road races also usually start around dawn, so runners finish before the midday sun.
 
 ## Getting to Trường Yên
 
@@ -67,7 +66,7 @@ How things usually work:
 - **Paying:** hotels and larger restaurants take cards. Street stalls, small cafés and boat-pier snack vendors usually want cash in Vietnamese dong.
 - **Cheering:** Vietnamese spectators shout *"Cố lên!"* (roughly "keep going!"). Shouting it back at the kids along the route always gets a grin.
 - **Eating:** the local dishes are *cơm cháy* (crisp, golden rice crust served with a meaty sauce) and *dê núi* (mountain goat), prepared in many ways. Plenty of restaurants near Trang An serve goat. Runners often save it for the post-race meal rather than the night before.
-- **Temples:** cover your shoulders and knees at the Hoa Lu temples and Bai Dinh. A light layer over running kit is enough.
+- **Temples:** visitors cover their shoulders and knees at the Hoa Lu temples and Bai Dinh. A light layer over running kit is enough.
 
 Grab works in Ninh Binh city, but cars are fewer in the rural communes. Many runners arrange their return trip with their host before race morning.
 

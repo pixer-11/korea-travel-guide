@@ -1,38 +1,39 @@
 ---
 lang: zh
 slug: brighton-3-days
-sourceHash: b28f9bdd518eb3d7ca05da56a2ee2823e595508f
-title: 布莱顿3日行程:码头、皇家穹顶宫与小巷区(The Lanes)
-description: 这份布莱顿3日行程从皇宫码头和金斯敦(Kemptown)的早午餐去处出发,前往i360观景塔和小巷区(The Lanes),再到皇家穹顶宫、北莱恩(North Laine)和普雷斯顿公园。
-quickAnswer: 这是一份布莱顿3日行程:第一天游览皇宫码头,并在金斯敦享用早午餐和晚餐;第二天将布莱顿i360观景塔与Roti King的美食,以及小巷区(The Lanes)的夜晚结合起来;第三天行程更为充实,从皇家穹顶宫出发,途经北莱恩,最后抵达普雷斯顿庄园和普雷斯顿公园。
+sourceHash: 549708f3337183c17169e6bd306b5a34a09e6476
+title: 布莱顿三日游:海滨、小巷与肯普敦行程
+description: 这份布莱顿三日行程从i360观景塔和The Lanes出发,前往布莱顿码头和肯普敦,再到皇家行宫、North Laine与Preston Park。
+quickAnswer: 这是一份布莱顿三日行程:第一天游览海滨的i360观景塔,在The Lanes附近享用午餐,傍晚漫步穿行于The Lanes;第二天从布莱顿码头出发,前往肯普敦享用早午餐与晚餐;第三天则从皇家行宫出发,穿过North Laine的集市摊位,一路走到Preston Park。
 faq:
-  - q: 在这份布莱顿行程中,各个景点之间该怎么往返?
-    a: 有些景点之间的距离超出了舒适步行范围,这些路段建议乘坐公共交通;而像从皇家穹顶宫走向伦敦路(London Road)这样的路段,步行即可轻松抵达。
-  - q: 这份行程每天的徒步路线是否容易安排?
-    a: 有些路段是短途步行,比如从皇家穹顶宫到Noodles Street这一段;而像金斯敦和海滨之间这样较长的区域间隔,则更适合乘坐公共交通。
-  - q: 想避开人流高峰,游览热门景点的最佳时间是什么时候?
-    a: 皇家穹顶宫和Snoopers Paradise在介绍中都提到有相对清静的时段,把这两处安排在一天的较早时间,能帮你避开之后更拥挤的时段。
-  - q: 去普雷斯顿庄园之前需要确认什么吗?
-    a: 相比周边的公园,普雷斯顿庄园的开放日较为有限,因此第三天出发前最好先查一下相关详情。
-  - q: 这三天的行程节奏如何?
-    a: 第一天和第二天节奏较为轻松,各自围绕一处地标、一顿正餐和一个夜晚去处展开;第三天则更为充实,穿插了额外的一站。
+  - q: 这份布莱顿三日行程需要走多少路?
+    a: 每天都有几个景点被列为步行距离之外,这些较远的路段需要搭乘公共交通,不过也有几处连续的景点,比如从皇家行宫到Noodles Street,距离近到可以步行前往。
+  - q: 没有车的话,这份行程容易安排吗?
+    a: 可以的,每个景点到下一站都配有步行路线或公共交通连接,所以整个行程仅靠步行和公共交通就能完成。
+  - q: 第一天的节奏怎么安排最好?
+    a: 早上从Brighton i360开始,午餐和书店这一站尽量安排得紧凑一些,把一天中最悠闲从容的漫步留到傍晚,去穿行The Lanes。
+  - q: 第三天参观Preston Manor之前需要注意什么吗?
+    a: 需要注意,这座庄园的开放日比周围公园要有限得多,最好提前查询,并为庄园、公园以及对面的The Rookery预留充足的时间。
+  - q: 热门景点有没有比较清静的时段?
+    a: 皇家行宫在平日早上人较少,而Snoopers Paradise在周六较早的时段也比较清静,过了中午人会渐渐多起来。
 days:
-  - label: 码头、早午餐与金斯敦的夜晚
-    intro: 这一天从马德拉大道(Madeira Drive)上的布莱顿皇宫码头开始,接着前往金斯敦的Starfish & Coffee,享用一顿悠长惬意的早午餐。行程最后落脚在码头以东五分钟步程的MEO Brighton,为这一天画上句点。
-  - label: 从天际观景到小巷区(The Lanes)的曲巷
-    intro: 一天从海滨的布莱顿i360观景塔开始,乘坐观景舱飞升至海岸上空。随后前往位于小巷区边缘的Roti King Brighton,品尝roti和咖喱。傍晚时分则漫步于小巷区本身——这片环绕布莱顿广场(Brighton Square)的古老巷弄迷宫。
-  - label: 从摄政王宫到公园庄园
-    intro: 这一天行程更为充实,从皇家穹顶宫拉开序幕,接着前往伦敦路上的Noodles Street吃面。随后来到北莱恩的Snoopers Paradise,逛逛那里的复古摊位,最后前往普雷斯顿庄园和普雷斯顿公园,为整趟旅程画上句点。
+  - label: 海滨玻璃塔与黄昏小巷
+    intro: 这一天从Lower Kings Road上的Brighton i360开始,欣赏海岸风光,随后前往Roti King Brighton享用煎烤薄饼午餐。接着前往霍夫的City Books安静地逛逛书店,最后在The Lanes狭窄的小巷中漫步作结。
+  - label: 码头的清晨与肯普敦的夜晚
+    intro: 这一天从Madeira Drive上的Brighton Palace Pier开始,随后前往肯普敦,在Starfish & Coffee享用一顿悠闲从容的早午餐。最后在附近的MEO Brighton收尾,这里距码头向东步行约五分钟。
+  - label: 行宫穹顶,通往公园与集市摊位
+    intro: 这一天从皇家行宫开始,短暂步行至London Road上的Noodles Street享用面食。接着前往North Laine的Snoopers Paradise逛逛复古摊位,最后前往北面的Preston Manor和Preston Park,结束一天行程。
 whys:
-  brighton-brighton-palace-pier: 它是马德拉大道上的海滨地标,是这趟旅程自然而轻松的起点,栈桥最适合在清晨或黄昏时分游览。
-  brighton-starfish-coffee: 这是金斯敦一家口碑颇佳的早午餐去处,适合长时间停留,是皇后公园(Queen's Park)和皇家穹顶宫附近一处轻松不赶时间的午间歇脚地。
-  brighton-meo-brighton: 这是码头以东不远处一家评价很高的早午餐餐厅,为这一天在金斯敦画上悠闲的句点。
-  brighton-brighton-i360: 这座玻璃观景舱将你高高托起,俯瞰海岸与内陆风光,最适合在一天开始时趁精神饱满前往。
-  brighton-roti-king-brighton: 这是一家完全围绕roti打造的马来西亚餐厅,就位于小巷区边缘,是一顿轻松方便的午餐之选。
-  brighton-the-lanes: 这是老布莱顿中心那片历史悠久的曲巷迷宫,值得花上一两个小时徒步探索,作为这一天的结尾恰到好处,且距海滨仅几步之遥。
-  brighton-royal-pavilion: 这座摄政风格的海滨宫殿,以其圆顶和中式风格房间著称,平日清晨人最少,是开启行程的绝佳首站。
-  brighton-noodles-street: 这是伦敦路上一家评价很高、价格适中的面馆,很适合作为上午和下午行程之间的快捷午餐。
-  brighton-snoopers-paradise: 这是北莱恩一处大型室内复古市场,最好趁中午人潮涌入前前往探索。
-  brighton-preston-manor-and-preston-park: 这座乔治王朝风格的庄园及其公园位于海滨以北,是充实的一天行程中恰到好处、不紧不慢的收尾去处。
+  brighton-brighton-i360: 这座玻璃观景舱将你高高托起,俯瞰海滨与内陆景色,最适合在一天开始时趁着精神饱满先去体验。
+  brighton-roti-king-brighton: 这家马来西亚餐厅完全围绕煎饼(roti)展开,就位于The Lanes边缘,是便捷的午餐选择。
+  brighton-city-books: 这是霍夫的一家独立书店,距Brunswick Square和海滨草坪仅几分钟路程,适合在两个大景点之间安静地逛上半小时。
+  brighton-the-lanes: 这是老布莱顿中心历史悠久的小巷迷宫,值得花上一两个小时步行游览,作为一天的结尾恰到好处,且离海滨步行可达。
+  brighton-brighton-palace-pier: 这是Madeira Drive上的海滨地标,是整趟旅程自然而轻松的开端,木板栈道最适合在清晨或黄昏时游览。
+  brighton-starfish-coffee: 这是肯普敦一家评价很高、适合久坐的早午餐餐厅,靠近Queen's Park和皇家行宫,是中午时分轻松惬意的一站。
+  brighton-meo-brighton: 这是一家评价很高的早午餐餐厅,从码头向东步行不远即可到达,为这一天在肯普敦画上悠闲的句点。
+  brighton-royal-pavilion: 这座摄政时期的海滨行宫以其穹顶和中式风格房间闻名,平日清晨人最少,是很好的开篇一站。
+  brighton-noodles-street: 这是位于London Road上一家评价很高、价格适中的面馆,很适合作为上午与下午行程之间的快捷午餐。
+  brighton-snoopers-paradise: 这是North Laine一处大型室内复古市场,最好趁中午人潮涌入前前往游览。
+  brighton-preston-manor-and-preston-park: 这座乔治王朝风格的庄园与其公园位于海滨以北,是充实一天行程中从容收尾的合适选择。
 rainWhys: {}
 ---

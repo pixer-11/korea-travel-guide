@@ -1,6 +1,6 @@
 ---
 title: 'Igma Open (Lima ATP Challenger): Dates, Tickets & Venue (Lima)'
-description: The Igma Open (Lima ATP Challenger) 2026 runs from November 9 to 15 on the clay courts of Las Terrazas de Miraflores, the Jockey Club del Perú club in Lima's Miraflores district.
+description: The Igma Open (Lima ATP Challenger) 2026 was set for November 9–15 at Las Terrazas de Miraflores, the Jockey Club del Perú club in Lima's Miraflores district.
 country: Peru
 region: Lima
 category: event
@@ -14,25 +14,25 @@ eventOrganizer:
   url: https://www.atptour.com
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG/3840px-Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG/3840px-Circuito_m%C3%A1gico_del_agua%2C_Parque_Reserva%2C_Lima%2C_Per%C3%BA%2C_2015-07-28%2C_DD_124.JPG
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Circuito_m%C3%A1gico_del_agua,_Parque_Reserva,_Lima,_Per%C3%BA,_2015-07-28,_DD_124.JPG'
+  source: https://commons.wikimedia.org/wiki/File:Circuito_m%C3%A1gico_del_agua,_Parque_Reserva,_Lima,_Per%C3%BA,_2015-07-28,_DD_124.JPG
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 tags:
   - lima
   - event
-quickAnswer: The Igma Open (Lima ATP Challenger) 2026 runs from November 9 to 15 on the clay courts of Las Terrazas de Miraflores, the Jockey Club del Perú club in Lima's Miraflores district. The tournament organiser handles tickets, and the ATP Tour website carries the draws and daily order of play. Miraflores hotels are close by, and most fans pair the tennis with time on the clifftop Malecón.
+quickAnswer: The Igma Open (Lima ATP Challenger) 2026 was set for November 9 to 15 on the clay courts of Las Terrazas de Miraflores, the Jockey Club del Perú club in Lima's Miraflores district. Tickets were sold through the tournament organiser. The ATP Tour website carries the draws and daily order of play for Challenger events. Miraflores hotels are close by, and many fans pair the tennis with time on the clifftop Malecón.
 faq:
   - q: When is the Igma Open 2026?
-    a: The tournament runs from Monday 9 November to Sunday 15 November 2026. On the Challenger calendar, the Sunday is traditionally finals day.
+    a: The 2026 tournament was scheduled from Monday 9 November to Sunday 15 November 2026. On the Challenger calendar, the Sunday is traditionally finals day.
   - q: Where is the Igma Open played?
-    a: It is held on clay at Las Terrazas de Miraflores, the Jockey Club del Perú's club in Lima's Miraflores district. That is the coastal neighbourhood where many visitors stay.
+    a: It is played on clay at Las Terrazas de Miraflores, the Jockey Club del Perú's club in Lima's Miraflores district. That is the coastal neighbourhood where many visitors stay.
   - q: Where can I find tickets and the order of play?
-    a: The tournament organiser handles tickets and spectator access. The ATP Tour website carries the draws and the daily order of play for Challenger events, including Lima.
+    a: Tickets and spectator access for 2026 were handled by the tournament organiser. The ATP Tour website carries the draws and the daily order of play for Challenger events, including Lima.
   - q: How do people get to the venue?
     a: Most fans use Uber, Cabify or inDrive, or walk from Miraflores hotels. The Metropolitano bus rapid transit has Miraflores stops on the Vía Expresa, including Benavides and Ricardo Palma.
   - q: What is there to do near the tournament?
@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A week of red clay above the Pacific
 
 The Igma Open is professional tennis at close range. It is an annual stop on the ATP Challenger Tour, the level just below the main tour. Here, players chasing ranking points meet on clay at the Jockey Club del Perú's Las Terrazas de Miraflores club.
@@ -49,14 +48,14 @@ Challenger tennis rewards people who sit near the court. The stands are small co
 
 ## How the week runs
 
-The 2026 edition takes place from Monday 9 November to Sunday 15 November. A Challenger week follows a familiar pattern:
+The 2026 edition was scheduled to run from Monday 9 November to Sunday 15 November. A Challenger week follows a familiar pattern:
 
 - **Early days:** qualifying and first-round matches, with several courts in use at once
 - **Midweek:** second rounds and the doubles draw moving forward
 - **Friday and Saturday:** quarter-finals and semi-finals, play focused on fewer courts
-- **Sunday 15 November:** the end of the week, traditionally finals day on this tour
+- **Sunday 15 November:** the last day of the 2026 week, traditionally finals day on this tour
 
-Draws and the daily order of play (*orden de juego* locally) appear on the ATP Tour website. The organiser handles tickets and spectator access. The early rounds suit wandering fans who like moving between courts. The weekend suits anyone who wants one big match.
+Draws and the daily order of play (*orden de juego* locally) appear on the ATP Tour website. Tickets and spectator access for 2026 were handled by the organiser. The early rounds suit wandering fans who like moving between courts. The weekend suits anyone who wants one big match.
 
 November is late spring in Lima. Mornings often start under the coastal grey the city calls *garúa* and turn brighter by afternoon. On the uncovered seats, the sun becomes stronger than the cool morning suggests.
 
@@ -66,9 +65,9 @@ Miraflores is the coastal district most visitors already stay in, which makes th
 
 - **Ride-hailing apps** such as Uber, Cabify and inDrive, widely used across the city
 - **The Metropolitano** bus rapid transit along the Vía Expresa, with Miraflores stops such as Benavides and Ricardo Palma
-- **Walking**, if the hotel is near Parque Kennedy or along the Malecón
+- **Walking**, from hotels near Parque Kennedy or along the Malecón
 
-From Jorge Chávez International Airport in Callao, the drive to Miraflores often takes an hour or more in traffic. Travellers landing that week usually stay in Miraflores or neighbouring Barranco. That keeps the daily trip short.
+From Jorge Chávez International Airport in Callao, the drive to Miraflores often takes an hour or more in traffic. Visitors in town for the tournament usually stay in Miraflores or neighbouring Barranco, which keeps the daily trip short.
 
 ## Courtside manners at a Challenger
 
@@ -88,4 +87,4 @@ The Miraflores clifftop gives the day an easy shape. The Malecón runs along the
 
 Inland, Huaca Pucllana is a pre-Inca adobe pyramid that rises between apartment blocks. Its restaurant terrace looks straight onto the ruins. Parque Kennedy, Miraflores' central square, sits beside streets full of cafés and cevicherías. Ceviche is traditionally a lunchtime dish in Lima, which fits around an evening session.
 
-Barranco, just south, is a short ride away. It has colonial-era mansions, the Puente de los Suspiros, and the bars where most of Lima's nightlife happens. Fans staying the full week often split their evenings between there and Miraflores.
+Barranco, just south, is a short ride away. It has colonial-era mansions, the Puente de los Suspiros, and the bars where most of Lima's nightlife happens. Fans staying for a full tournament week often split their evenings between there and Miraflores.
