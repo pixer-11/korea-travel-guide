@@ -37,6 +37,7 @@ place:
     - "Friday: 8:00 AM – 5:00 PM"
     - "Saturday: 8:00 AM – 5:00 PM"
     - "Sunday: 8:00 AM – 5:00 PM"
+  phone: '+66 2 252 7114'
 tags:
   - "chiang rai"
   - "park"
