@@ -117,29 +117,28 @@
     "jakarta-bts-world-tour-arirang-jakarta",
     "new-york-strand-bookstore",
     "hong-kong-tai-po-half-marathon",
-    "gapyeong-garden-of-morning-calm"
+    "gapyeong-garden-of-morning-calm",
+    "fukuoka-manly"
   ],
-  "lastSentDay": "2026-11-16",
+  "lastSentDay": "2026-11-17",
   "material": {
-    "day": "2026-11-16",
-    "slug": "gapyeong-garden-of-morning-calm",
-    "title": "Garden of Morning Calm: Gapyeong Travel Guide",
+    "day": "2026-11-17",
+    "slug": "fukuoka-manly",
+    "title": "Manly: Fukuoka Travel Guide",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-16-gapyeong-garden-of-morning-calm-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-17-fukuoka-manly-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-17-fukuoka-manly-2.jpg"
     ],
-    "igCaption": "A valley garden built like a series of rooms — grasses, herbs, bonsai, reflecting pools — each turn resetting the view. Go at opening on a weekday and the pine tree lawn is almost yours alone.\n\n#GardenofMorningCalm #Gapyeong #SouthKorea #travelguide #travel #wanderatlas #GardenOfMorningCalm #KoreaTravel #BotanicalGarden #DayTripFromSeoul\n📷 Photo: Clément Chevallier / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Foursquare user content (The Garden of Morning Calm (아침고요수목원)) (edited)",
-    "thOption": "Most people rush straight to the famous pine tree lawn, but the herb garden and Water Garden are just a 10-minute walk further — would you chase the iconic shot or wander off for the quiet?",
-    "link": "https://wanderatlasguides.com/posts/gapyeong-garden-of-morning-calm/"
+    "igCaption": "Tucked in Imaizumi's backstreets, Manly brings Australian beach-town vibes to Fukuoka, think meat pies, big breakfast plates, and thick ricotta hotcakes instead of the city's usual souffle pancakes. With a 4.5-star rating from nearly 1,500 reviews, it's worth the short walk from Tenjin.\n\n#Manly #Fukuoka #Japan #travelguide #travel #wanderatlas #TravelGuide #CafeHopping #Imaizumi #Foodie\n📷 Photo: Foursquare user content (Australian Cafe & Bar Manly) (edited)",
+    "thOption": "Fukuoka is famous for jiggly souffle pancakes, but Manly serves thick, custardy ricotta hotcakes instead. Which style would you pick?",
+    "link": "https://wanderatlasguides.com/posts/fukuoka-manly/"
   },
   "social": {
-    "thDay": "2026-11-16",
-    "thId": "17992929114096216",
+    "thDay": "2026-11-17",
+    "thId": "18159665788519649",
     "igDay": "2026-11-16",
     "igId": "18176292394459708",
-    "thSlug": "gapyeong-garden-of-morning-calm",
+    "thSlug": "fukuoka-manly",
     "igSlug": "gapyeong-garden-of-morning-calm",
     "history": [
       {
@@ -727,7 +726,17 @@
       {
         "day": "2026-11-10",
         "slug": "abu-dhabi-jennifer-lopez-alex-warren-abu-dhabi-gp-concert",
-        "thId": "18119881499061987"
+        "thId": "18119881499061987",
+        "insights": {
+          "at": "2026-11-17",
+          "th": {
+            "views": 20,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-11",
@@ -761,6 +770,11 @@
         "slug": "gapyeong-garden-of-morning-calm",
         "thId": "17992929114096216",
         "igId": "18176292394459708"
+      },
+      {
+        "day": "2026-11-17",
+        "slug": "fukuoka-manly",
+        "thId": "18159665788519649"
       }
     ]
   }
