@@ -1,5 +1,17 @@
 {
-  "validate-content": {},
-  "audit-translations": {},
+  "validate-content": {
+    "ENDED-EVENT-PRESENT-TENSE tbilisi-tbilisi-book-days.md": {
+      "since": "2026-11-16",
+      "last": "2026-11-16",
+      "seen": 1
+    }
+  },
+  "audit-translations": {
+    "broken-syllable posts/ko/nevsehir-ettu-european-u13-championships.md": {
+      "since": "2026-11-16",
+      "last": "2026-11-16",
+      "seen": 1
+    }
+  },
   "audit-hours-claims": {}
 }
