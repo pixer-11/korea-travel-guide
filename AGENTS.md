@@ -43,8 +43,8 @@ Slug normalisations and twin merges are permanent → **301**. A 301 to a region
 the rankings of 92 retired posts on 2026-07-26: the hub never names the venue, so the ranking does
 not transfer, it dies.
 
-**Publishing volume is an owner decision.** `data/publish-throttle.json` holds `postsPerRun` (10
-since 2026-10-06, a cost decision) and `backfillPerRun` (25). Google has not indexed a new page
+**Publishing volume is an owner decision.** `data/publish-throttle.json` holds `postsPerRun` (5
+since 2026-11-16, a cost decision: daily posts earn ~1/20 of an event per dollar on Bing) and `backfillPerRun` (25). Google has not indexed a new page
 since 07-25 (indexed flat at ~5,200, Googlebot ~81 requests/day), and the 08-27 throttle experiment
 was judged "backfired": volume was not the constraint, authority is. Do not change either number
 without the owner; the history, thresholds and revisit dates are in that file and in
