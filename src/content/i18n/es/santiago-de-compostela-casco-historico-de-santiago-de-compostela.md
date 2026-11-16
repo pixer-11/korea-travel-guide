@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: santiago-de-compostela-casco-historico-de-santiago-de-compostela
-srcHash: 'd5b1269b7d8b'
+srcHash: '5ac0d52cfde9'
 title: 'Casco Histórico de Santiago de Compostela: guía de viaje'
-description: 'El Casco Histórico de Santiago es el casco antiguo de granito que envuelve la catedral: un laberinto declarado Patrimonio de la Humanidad, con calles porticadas, plazas de peregrinos y claustros escondidos, ideal para recorrer a pie en medio día. 4.8★ (111 reseñas) — opiniones de los visitantes, horarios y consejos.'
+description: 'El Casco Histórico de Santiago es el casco antiguo de granito que envuelve la catedral: un laberinto declarado Patrimonio de la Humanidad, con calles porticadas, plazas de peregrinos y claustros escondidos, ideal para recorrer a pie en medio día. 4.8★ (142 reseñas) — opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Casco Histórico de Santiago es el casco antiguo de granito que envuelve la catedral: un laberinto declarado Patrimonio de la Humanidad, con calles porticadas, plazas de peregrinos y claustros escondidos, ideal para recorrer a pie en medio día. Conviene evitar el gentío de autobuses turísticos que se concentra al mediodía junto a la catedral y pasear en cambio por las callejuelas que salen de la Rúa do Franco a primera hora de la mañana o después de cenar, cuando la piedra brilla bajo las farolas y apenas se cruza uno con algún peregrino rezagado.'
 faq:
   - q: ¿Cómo se llega al Casco Histórico desde la estación de tren o de autobuses de Santiago?

@@ -1,44 +1,54 @@
 ---
-title: "Parque de Galeras: Santiago de Compostela Travel Guide"
-description: "Parque de Galeras is a small terraced park in the old town of Santiago de Compostela, tucked just below Rúa das Galeras a short walk from the cathedral. 4.6★ (529 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Santiago de Compostela"
-category: "attraction"
-pubDate: "2026-09-11T07:42:25.085Z"
+title: 'Parque de Galeras: Santiago de Compostela Travel Guide'
+description: >-
+  Parque de Galeras is a small terraced park in the old town of Santiago de
+  Compostela, tucked just below Rúa das Galeras a short walk from the cathedral.
+  4.6★ (532 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Santiago de Compostela
+category: attraction
+pubDate: '2026-09-11T07:42:25.085Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2026._Parque_de_Galeras._Santiago_de_Compostela._Galiza.jpg/3840px-2026._Parque_de_Galeras._Santiago_de_Compostela._Galiza.jpg"
-  credit: "Photo: Luis Miguel Bugallo Sánchez / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2026._Parque_de_Galeras._Santiago_de_Compostela._Galiza.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2026._Parque_de_Galeras._Santiago_de_Compostela._Galiza.jpg/3840px-2026._Parque_de_Galeras._Santiago_de_Compostela._Galiza.jpg
+  credit: 'Photo: Luis Miguel Bugallo Sánchez / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2026._Parque_de_Galeras._Santiago_de_Compostela._Galiza.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Banco._Parque_de_Galeras._Santiago._Galiza._2025.jpg/3840px-Banco._Parque_de_Galeras._Santiago._Galiza._2025.jpg"
-    credit: "Photo: Lmbuga / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Banco._Parque_de_Galeras._Santiago._Galiza._2025.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Banco._Parque_de_Galeras._Santiago._Galiza._2025.jpg/3840px-Banco._Parque_de_Galeras._Santiago._Galiza._2025.jpg
+    credit: 'Photo: Lmbuga / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Banco._Parque_de_Galeras._Santiago._Galiza._2025.jpg
 place:
-  id: "ChIJJX7KukL-Lg0RyBo-kFViLcY"
-  name: "Parque de Galeras"
-  address: "Rúa das Galeras, 13, 3°,oficina 1, 15705 Santiago de Compostela, A Coruña, Spain"
+  id: ChIJJX7KukL-Lg0RyBo-kFViLcY
+  name: Parque de Galeras
+  address: >-
+    Rúa das Galeras, 13, 3°,oficina 1, 15705 Santiago de Compostela, A Coruña,
+    Spain
   rating: 4.6
-  userRatingsTotal: 529
-  googleMapsUrl: "https://maps.google.com/?cid=14280178113093442248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 532
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14280178113093442248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.8826566
   lng: -8.5504327
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-11
+    updated: 2026-09-11T00:00:00.000Z
     weekdayBusy:
       - 18
     weekendQuiet:
@@ -54,24 +64,42 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_59634c6956466b2d6f42795230674c2d4c6b754b37584a4a496843"
+    venueId: ven_59634c6956466b2d6f42795230674c2d4c6b754b37584a4a496843
 tags:
-  - "santiago de compostela"
-  - "park"
-quickAnswer: "Parque de Galeras is a small terraced park in the old town of Santiago de Compostela, tucked just below Rúa das Galeras a short walk from the cathedral. It's open 24 hours and stays under the radar compared to the big pilgrim sights, so mornings between 7am and 8am on weekends are your best bet for having the benches to yourself. Weekend afternoons from noon to 10pm draw the most people, mostly locals rather than tourists."
+  - santiago de compostela
+  - park
+quickAnswer: >-
+  Parque de Galeras is a small terraced park in the old town of Santiago de
+  Compostela, tucked just below Rúa das Galeras a short walk from the cathedral.
+  It's open 24 hours and stays under the radar compared to the big pilgrim
+  sights, so mornings between 7am and 8am on weekends are your best bet for
+  having the benches to yourself. Weekend afternoons from noon to 10pm draw the
+  most people, mostly locals rather than tourists.
 faq:
-  - q: "Where exactly is Parque de Galeras in Santiago de Compostela?"
-    a: "It's just off Rúa das Galeras in the old town, roughly a 10 to 15 minute walk downhill from the cathedral and Praza do Obradoiro."
-  - q: "What are the opening hours?"
-    a: "The park is open 24 hours every day of the week, so there's no gate schedule to work around."
-  - q: "When is the quietest time to visit?"
-    a: "Weekend mornings between 7am and 8am are the quietest window; weekend afternoons from noon to 10pm are the busiest, so avoid those if you want it to yourself."
-  - q: "Is there an entrance fee or parking?"
-    a: "No entrance fee, it's a public park. There's no dedicated on-site parking, so use one of the public car parks near the historic centre and walk in."
-  - q: "How much time should I plan for a visit?"
-    a: "Fifteen to twenty minutes covers a walk through the terraces; budget closer to an hour if you want to sit and rest."
+  - q: Where exactly is Parque de Galeras in Santiago de Compostela?
+    a: >-
+      It's just off Rúa das Galeras in the old town, roughly a 10 to 15 minute
+      walk downhill from the cathedral and Praza do Obradoiro.
+  - q: What are the opening hours?
+    a: >-
+      The park is open 24 hours every day of the week, so there's no gate
+      schedule to work around.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekend mornings between 7am and 8am are the quietest window; weekend
+      afternoons from noon to 10pm are the busiest, so avoid those if you want
+      it to yourself.
+  - q: Is there an entrance fee or parking?
+    a: >-
+      No entrance fee, it's a public park. There's no dedicated on-site parking,
+      so use one of the public car parks near the historic centre and walk in.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Fifteen to twenty minutes covers a walk through the terraces; budget
+      closer to an hour if you want to sit and rest.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 
 Most visitors to Santiago de Compostela never make it here, which is exactly the point. Parque de Galeras sits on a slope just below the street it's named for, a few minutes on foot from the cathedral's granite towers, and it functions less like a tourist stop and more like a neighbourhood's back garden.

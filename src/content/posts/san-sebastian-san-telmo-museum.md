@@ -1,44 +1,52 @@
 ---
-title: "San Telmo Museum: San Sebastian Travel Guide (4.5★)"
-description: "San Telmo Museum sits in the Parte Vieja (old town) of San Sebastian, on Plaza Zuloaga, and covers Basque history, ethnography, art and archaeology inside a former 16th-century monastery. 4.5★ (4,207 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "San Sebastian"
-category: "attraction"
-pubDate: "2026-09-04T10:51:16.882Z"
+title: 'San Telmo Museum: San Sebastian Travel Guide (4.5★)'
+description: >-
+  San Telmo Museum sits in the Parte Vieja (old town) of San Sebastian, on Plaza
+  Zuloaga, and covers Basque history, ethnography, art and archaeology inside a
+  former 16th-century monastery. 4.5★ (4,278 reviews) — what visitors say,
+  hours, and tips.
+country: Spain
+region: San Sebastian
+category: attraction
+pubDate: '2026-09-04T10:51:16.882Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg/1920px-MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg"
-  credit: "Photo: Gonzalomauleon / Wikimedia Commons (CC BY-SA 3.0 es)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg/1920px-MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg
+  credit: 'Photo: Gonzalomauleon / Wikimedia Commons (CC BY-SA 3.0 es)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/36/San_Sebastian_-_San_Telmo_07.jpg"
-    credit: "Photo: Zarateman / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:San_Sebastian_-_San_Telmo_07.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/36/San_Sebastian_-_San_Telmo_07.jpg
+    credit: 'Photo: Zarateman / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:San_Sebastian_-_San_Telmo_07.jpg'
 place:
-  id: "ChIJVZOYN0ylUQ0ReHvJLYkPSBc"
-  name: "San Telmo Museum"
-  address: "Plaza Zuloaga, 1, 20003 Donostia / San Sebastián, Gipuzkoa, Spain"
+  id: ChIJVZOYN0ylUQ0ReHvJLYkPSBc
+  name: San Telmo Museum
+  address: 'Plaza Zuloaga, 1, 20003 Donostia / San Sebastián, Gipuzkoa, Spain'
   rating: 4.5
-  userRatingsTotal: 4207
-  googleMapsUrl: "https://maps.google.com/?cid=1677607943048625016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4278
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1677607943048625016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.324993
   lng: -1.984844
-  phone: "+34 943 48 15 80"
+  phone: +34 943 48 15 80
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-09-04
+    updated: 2026-09-04T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -54,24 +62,43 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_634253506b594c4a764865523051556c79304e594f5a564a496843"
+    venueId: ven_634253506b594c4a764865523051556c79304e594f5a564a496843
 tags:
-  - "san sebastian"
-  - "museum"
-quickAnswer: "San Telmo Museum sits in the Parte Vieja (old town) of San Sebastian, on Plaza Zuloaga, and covers Basque history, ethnography, art and archaeology inside a former 16th-century monastery. It's open Tuesday to Sunday, 10am to 8pm, and closed Mondays. Weekend mornings between 10am and 11am are the calmest window; avoid arriving between noon and 8pm on Saturday or Sunday if you'd rather skip the crowds."
+  - san sebastian
+  - museum
+quickAnswer: >-
+  San Telmo Museum sits in the Parte Vieja (old town) of San Sebastian, on Plaza
+  Zuloaga, and covers Basque history, ethnography, art and archaeology inside a
+  former 16th-century monastery. It's open Tuesday to Sunday, 10am to 8pm, and
+  closed Mondays. Weekend mornings between 10am and 11am are the calmest window;
+  avoid arriving between noon and 8pm on Saturday or Sunday if you'd rather skip
+  the crowds.
 faq:
-  - q: "What are San Telmo Museum's opening hours?"
-    a: "It's open Tuesday to Sunday, 10am to 8pm, and closed all day Monday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekend mornings between 10am and 11am, right at opening, are the calmest. Avoid weekends from noon to 8pm, when crowds peak."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 90 minutes to two hours to see the ethnography galleries, the Sert murals in the former church, and the contemporary art wing."
-  - q: "How do I get to San Telmo Museum?"
-    a: "It's on Plaza Zuloaga in San Sebastian's old town (Parte Vieja), a 10-15 minute walk from La Concha beach. Several city buses stop nearby at Boulevard, and old-town parking is limited, so an underground car park is the easier option if driving."
-  - q: "What's nearby if I want to combine the visit with other sights?"
-    a: "The old town's pintxos bars are steps away, Monte Urgull's trails and the Castillo de la Mota are a short climb from the plaza, and La Concha beach is an easy walk for afterward."
+  - q: What are San Telmo Museum's opening hours?
+    a: 'It''s open Tuesday to Sunday, 10am to 8pm, and closed all day Monday.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekend mornings between 10am and 11am, right at opening, are the calmest.
+      Avoid weekends from noon to 8pm, when crowds peak.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 90 minutes to two hours to see the ethnography
+      galleries, the Sert murals in the former church, and the contemporary art
+      wing.
+  - q: How do I get to San Telmo Museum?
+    a: >-
+      It's on Plaza Zuloaga in San Sebastian's old town (Parte Vieja), a 10-15
+      minute walk from La Concha beach. Several city buses stop nearby at
+      Boulevard, and old-town parking is limited, so an underground car park is
+      the easier option if driving.
+  - q: What's nearby if I want to combine the visit with other sights?
+    a: >-
+      The old town's pintxos bars are steps away, Monte Urgull's trails and the
+      Castillo de la Mota are a short climb from the plaza, and La Concha beach
+      is an easy walk for afterward.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 Tucked into the corner of Plaza Zuloaga, San Telmo Museum occupies a former Dominican monastery dating to the 1500s, its cloister still intact and now half-swallowed by a sharp modern extension clad in vegetation. That contrast, centuries-old stone against a green metal wall, is the first clue that this isn't a stuffy regional museum.
 

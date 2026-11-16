@@ -1,31 +1,45 @@
 ---
 title: 'GYUMON: Where to Eat in Sapporo'
-description: "GYUMON Sapporo is a basement yakiniku (Japanese-style grilled beef) restaurant in the Susukino district of Chuo Ward, specializing in premium Hokkaido wagyu and beef courses grilled tableside."
+description: >-
+  GYUMON Sapporo is a basement yakiniku (Japanese-style grilled beef) restaurant
+  in the Susukino district of Chuo Ward, specializing in premium Hokkaido wagyu
+  and beef courses grilled tableside.
 country: Japan
 region: Sapporo
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1572420780547-8fbb45c82f0a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2FwcG9ybyUyMEphcGFufGVufDB8MHx8fDE3ODQ2Mjc2Njh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1572420780547-8fbb45c82f0a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2FwcG9ybyUyMEphcGFufGVufDB8MHx8fDE3ODQ2Mjc2Njh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by KWON YOUN on Unsplash
   license: unsplash
-  source: https://unsplash.com/@youn98?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@youn98?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJ5UmEew0pC18RbZhHAR6Vzzg
   name: GYUMON Sapporo
-  address: Japan, 〒064-0805 Hokkaido, Sapporo, Chuo Ward, Minami 5 Jōnishi, 3-chōme−８ Ｎ・グランデビル 地下1階
+  address: >-
+    Japan, 〒064-0805 Hokkaido, Sapporo, Chuo Ward, Minami 5 Jōnishi, 3-chōme−８
+    Ｎ・グランデビル 地下1階
   rating: 4.9
-  userRatingsTotal: 3177
-  googleMapsUrl: https://maps.google.com/?cid=4093654542406097005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4093
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4093654542406097005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.054621999999995
   lng: 141.354535
   busyness:
     updated: '2026-07-23'
-    weekendQuiet: [12, 14, 16, 17, 18, 21]
+    weekendQuiet:
+      - 12
+      - 14
+      - 16
+      - 17
+      - 18
+      - 21
     venueId: ven_677a7a5636524148685a625238314370307765456d55354a496843
-  phone: '+81 11-213-0321'
+  phone: +81 11-213-0321
   openingHours:
     - 'Monday: 12:00 – 10:00 PM'
     - 'Tuesday: 12:00 – 10:00 PM'
@@ -34,23 +48,47 @@ place:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
+  priceLevel: 2
 tags:
   - sapporo
   - local restaurant
-quickAnswer: GYUMON Sapporo is a basement yakiniku (Japanese-style grilled beef) restaurant in the Susukino district of Chuo Ward, specializing in premium Hokkaido wagyu and beef courses grilled tableside. It holds an unusually strong 4.9 rating across more than 3,100 reviews, so reserve ahead — walk-ins on weekend nights are a gamble. Budget at least 90 minutes to two hours for a proper multi-course grilling experience.
+quickAnswer: >-
+  GYUMON Sapporo is a basement yakiniku (Japanese-style grilled beef) restaurant
+  in the Susukino district of Chuo Ward, specializing in premium Hokkaido wagyu
+  and beef courses grilled tableside. It holds an unusually strong 4.9 rating
+  across more than 3,100 reviews, so reserve ahead — walk-ins on weekend nights
+  are a gamble. Budget at least 90 minutes to two hours for a proper
+  multi-course grilling experience.
 faq:
   - q: How do I get to GYUMON Sapporo by subway?
-    a: Take the Namboku Line to Susukino Station and walk a few minutes into the Minami 5 Jōnishi block; the restaurant is on the basement floor of the N・グランデビル building, so look for building signage rather than a street-level entrance.
+    a: >-
+      Take the Namboku Line to Susukino Station and walk a few minutes into the
+      Minami 5 Jōnishi block; the restaurant is on the basement floor of the
+      N・グランデビル building, so look for building signage rather than a street-level
+      entrance.
   - q: Do I need a reservation?
-    a: Given its 4.9 rating and heavy review volume, weekend nights fill up fast. Reserve ahead if possible, especially in winter during Sapporo Snow Festival season; weeknight early seatings offer better walk-in odds.
+    a: >-
+      Given its 4.9 rating and heavy review volume, weekend nights fill up fast.
+      Reserve ahead if possible, especially in winter during Sapporo Snow
+      Festival season; weeknight early seatings offer better walk-in odds.
   - q: How long should I plan for a meal here?
-    a: Budget 90 minutes to two hours for a full grilling course, since yakiniku is paced around cooking each round at the table rather than a single served plate.
+    a: >-
+      Budget 90 minutes to two hours for a full grilling course, since yakiniku
+      is paced around cooking each round at the table rather than a single
+      served plate.
   - q: What should I order first-time?
-    a: A set beef course is the easiest way to sample the range, typically moving from leaner cuts like loin toward richer short rib and ribeye, often finishing with a rice or noodle dish.
+    a: >-
+      A set beef course is the easiest way to sample the range, typically moving
+      from leaner cuts like loin toward richer short rib and ribeye, often
+      finishing with a rice or noodle dish.
   - q: What's nearby if I want to extend the night?
-    a: Susukino's ramen alley and Nijo Market are both within walking distance, making it easy to pair yakiniku with a lighter ramen stop or morning seafood browsing the next day.
+    a: >-
+      Susukino's ramen alley and Nijo Market are both within walking distance,
+      making it easy to pair yakiniku with a lighter ramen stop or morning
+      seafood browsing the next day.
 aiGenerated: true
 draft: true
+updatedDate: '2026-11-16'
 ---
 
 ## Why GYUMON stands out

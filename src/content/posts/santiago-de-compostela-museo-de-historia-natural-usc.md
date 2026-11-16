@@ -1,60 +1,87 @@
 ---
-title: "Museo de Historia Natural-USC: Santiago de Compostela Travel Guide"
-description: "Museo de Historia Natural-USC sits inside Parque Vista Alegre in Santiago de Compostela, a short walk south of the old town, and it's easy to visit in under an hour. 4.6★ (1,141 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Santiago de Compostela"
-category: "attraction"
-pubDate: "2026-09-10T07:47:54.924Z"
+title: 'Museo de Historia Natural-USC: Santiago de Compostela Travel Guide'
+description: >-
+  Museo de Historia Natural-USC sits inside Parque Vista Alegre in Santiago de
+  Compostela, a short walk south of the old town, and it's easy to visit in
+  under an hour. 4.6★ (1,149 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Santiago de Compostela
+category: attraction
+pubDate: '2026-09-10T07:47:54.924Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Museo_de_Historia_Natural_%281%29.jpg/3840px-Museo_de_Historia_Natural_%281%29.jpg"
-  credit: "Photo: Rosamf / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_de_Historia_Natural_(1).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Museo_de_Historia_Natural_%281%29.jpg/3840px-Museo_de_Historia_Natural_%281%29.jpg
+  credit: 'Photo: Rosamf / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museo_de_Historia_Natural_(1).jpg'
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Museo_Historia_Natural_%28Santiago%29_%286%29.jpg/3840px-Museo_Historia_Natural_%28Santiago%29_%286%29.jpg"
-    credit: "Photo: Jorjum / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museo_Historia_Natural_(Santiago)_(6).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Museo_Historia_Natural_%28Santiago%29_%286%29.jpg/3840px-Museo_Historia_Natural_%28Santiago%29_%286%29.jpg
+    credit: 'Photo: Jorjum / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Museo_Historia_Natural_(Santiago)_(6).jpg
 place:
-  id: "ChIJBfQC82r-Lg0RSTrENUbNBpY"
-  name: "Museo de Historia Natural-USC"
-  address: "Parque Vista Alegre, s/n, 15705 Santiago de Compostela, A Coruña, Spain"
+  id: ChIJBfQC82r-Lg0RSTrENUbNBpY
+  name: Museo de Historia Natural-USC
+  address: 'Parque Vista Alegre, s/n, 15705 Santiago de Compostela, A Coruña, Spain'
   rating: 4.6
-  userRatingsTotal: 1141
-  googleMapsUrl: "https://maps.google.com/?cid=10810553656982911561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1149
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10810553656982911561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.8867672
   lng: -8.545711899999999
-  phone: "+34 881 81 63 50"
+  phone: +34 881 81 63 50
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM"
-    - "Wednesday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM"
-    - "Thursday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM"
-    - "Friday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM"
-    - "Saturday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM"
-    - "Sunday: 11:00 AM – 2:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM'
+    - 'Wednesday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM'
+    - 'Thursday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM'
+    - 'Friday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM'
+    - 'Saturday: 10:30 AM – 2:00 PM, 4:30 – 8:00 PM'
+    - 'Sunday: 11:00 AM – 2:00 PM'
 tags:
-  - "santiago de compostela"
-  - "museum"
-quickAnswer: "Museo de Historia Natural-USC sits inside Parque Vista Alegre in Santiago de Compostela, a short walk south of the old town, and it's easy to visit in under an hour. It's closed Mondays, open split morning/afternoon hours Tuesday to Saturday (10:30am-2pm and 4:30-8pm) and mornings only on Sunday (11am-2pm). Go on a weekday afternoon if you want the galleries close to empty; this university museum still flies under most tourists' radar."
+  - santiago de compostela
+  - museum
+quickAnswer: >-
+  Museo de Historia Natural-USC sits inside Parque Vista Alegre in Santiago de
+  Compostela, a short walk south of the old town, and it's easy to visit in
+  under an hour. It's closed Mondays, open split morning/afternoon hours Tuesday
+  to Saturday (10:30am-2pm and 4:30-8pm) and mornings only on Sunday (11am-2pm).
+  Go on a weekday afternoon if you want the galleries close to empty; this
+  university museum still flies under most tourists' radar.
 faq:
-  - q: "How do I get to Museo de Historia Natural-USC from the old town?"
-    a: "It's about a 15-20 minute walk south from Praza do Obradoiro into Parque Vista Alegre; there's no metro in Santiago, so walking or a short taxi are the main options."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Saturday it's open 10:30am-2pm and again 4:30-8pm; Sunday it's 11am-2pm only; it's closed all day Monday."
-  - q: "How much time should I plan for the visit?"
-    a: "Most visitors get through the collection comfortably in 45 minutes to an hour, making it easy to pair with a park walk or another nearby stop."
-  - q: "Is it good for kids?"
-    a: "Yes, the mounted animal specimens, from foxes to birds of prey, tend to engage children well, and families often use it as a break from church-heavy Camino itineraries."
-  - q: "Is this a well-known tourist attraction?"
-    a: "Not really; it's a university museum that stays under most tourists' radar, so it's usually far quieter than the cathedral sights, especially on weekday afternoons after the 4:30pm reopening."
+  - q: How do I get to Museo de Historia Natural-USC from the old town?
+    a: >-
+      It's about a 15-20 minute walk south from Praza do Obradoiro into Parque
+      Vista Alegre; there's no metro in Santiago, so walking or a short taxi are
+      the main options.
+  - q: What are the opening hours?
+    a: >-
+      Tuesday to Saturday it's open 10:30am-2pm and again 4:30-8pm; Sunday it's
+      11am-2pm only; it's closed all day Monday.
+  - q: How much time should I plan for the visit?
+    a: >-
+      Most visitors get through the collection comfortably in 45 minutes to an
+      hour, making it easy to pair with a park walk or another nearby stop.
+  - q: Is it good for kids?
+    a: >-
+      Yes, the mounted animal specimens, from foxes to birds of prey, tend to
+      engage children well, and families often use it as a break from
+      church-heavy Camino itineraries.
+  - q: Is this a well-known tourist attraction?
+    a: >-
+      Not really; it's a university museum that stays under most tourists'
+      radar, so it's usually far quieter than the cathedral sights, especially
+      on weekday afternoons after the 4:30pm reopening.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 ## What this place actually is
 

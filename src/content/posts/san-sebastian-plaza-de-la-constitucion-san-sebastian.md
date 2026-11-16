@@ -1,51 +1,80 @@
 ---
-title: "Plaza de la Constitución: San Sebastian Travel Guide (4.5★)"
-description: "Plaza de la Constitución is the arcaded main square of San Sebastian's Parte Vieja (Old Town), a few steps north of the Alameda del Boulevard. 4.5★ (121 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "San Sebastian"
-category: "hidden-gem"
-pubDate: "2026-10-02T07:38:16.060Z"
+title: 'Plaza de la Constitución: San Sebastian Travel Guide (4.5★)'
+description: >-
+  Plaza de la Constitución is the arcaded main square of San Sebastian's Parte
+  Vieja (Old Town), a few steps north of the Alameda del Boulevard. 4.5★ (147
+  reviews) — what visitors say, hours, and tips.
+country: Spain
+region: San Sebastian
+category: hidden-gem
+pubDate: '2026-10-02T07:38:16.060Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Plaza_de_la_Constituci%C3%B3n._San_Sebasti%C3%A1n.jpg"
-  credit: "Photo: José Luis Filpo Cabana / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constituci%C3%B3n._San_Sebasti%C3%A1n.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b6/Plaza_de_la_Constituci%C3%B3n._San_Sebasti%C3%A1n.jpg
+  credit: 'Photo: José Luis Filpo Cabana / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constituci%C3%B3n._San_Sebasti%C3%A1n.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/47254131_4h5UD6tKOCw-sdqszrsWg5f0S1hIGoCEUAhWSWErp-o.jpg"
-    credit: "Photo: Foursquare user content (Plaza de la Constitución)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bffeb65f61ea593ebf7ea13"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/47254131_4h5UD6tKOCw-sdqszrsWg5f0S1hIGoCEUAhWSWErp-o.jpg
+    credit: 'Photo: Foursquare user content (Plaza de la Constitución)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bffeb65f61ea593ebf7ea13'
 place:
-  id: "ChIJkY9xRAClUQ0Rt0q3pGx1jbE"
-  name: "Plaza de la Constitución San Sebastian"
-  address: "20003 Donostia / San Sebastián, Gipuzkoa, Spain"
+  id: ChIJkY9xRAClUQ0Rt0q3pGx1jbE
+  name: Plaza de la Constitución San Sebastian
+  address: '20003 Donostia / San Sebastián, Gipuzkoa, Spain'
   rating: 4.5
-  userRatingsTotal: 121
-  googleMapsUrl: "https://maps.google.com/?cid=12794011225909840567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 147
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12794011225909840567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.323717200000004
   lng: -1.9848701999999998
 tags:
-  - "san sebastian"
-  - "old quarter"
-quickAnswer: "Plaza de la Constitución is the arcaded main square of San Sebastian's Parte Vieja (Old Town), a few steps north of the Alameda del Boulevard. Come for the numbered balconies left over from its bullfighting days, use it as a base for a pintxo crawl, and plan around 20 January, when the Tamborrada drumming starts here at midnight."
+  - san sebastian
+  - old quarter
+quickAnswer: >-
+  Plaza de la Constitución is the arcaded main square of San Sebastian's Parte
+  Vieja (Old Town), a few steps north of the Alameda del Boulevard. Come for the
+  numbered balconies left over from its bullfighting days, use it as a base for
+  a pintxo crawl, and plan around 20 January, when the Tamborrada drumming
+  starts here at midnight.
 faq:
-  - q: "Where exactly is Plaza de la Constitución in San Sebastian?"
-    a: "It's in the Parte Vieja (Old Town), just north of the Alameda del Boulevard and a short walk from the Basilica of Santa María del Coro, the port and La Concha beach."
-  - q: "Why are there numbers on the balconies?"
-    a: "The square used to be a bullring. Each balcony was rented out as a numbered seat for watching the fights, and the painted numbers are still there."
-  - q: "What happens in the square during the Tamborrada?"
-    a: "At midnight on 19 January the city flag is raised here, which starts 24 hours of drumming for the feast of San Sebastián on 20 January. The flag is lowered here at midnight on the 20th. Arrive early, because the square fills up."
-  - q: "How long should I spend there?"
-    a: "About 30 minutes covers the balconies, the old town hall facade and a walk round the arcades. Allow a whole evening if you plan to eat pintxos in the surrounding bars."
-  - q: "How do I get there from the train station?"
-    a: "Cross the Urumea river from the Renfe station and walk into the Old Town via the Boulevard. It takes roughly 15 to 20 minutes on foot. Several city buses stop on the Boulevard, about two minutes away."
+  - q: Where exactly is Plaza de la Constitución in San Sebastian?
+    a: >-
+      It's in the Parte Vieja (Old Town), just north of the Alameda del
+      Boulevard and a short walk from the Basilica of Santa María del Coro, the
+      port and La Concha beach.
+  - q: Why are there numbers on the balconies?
+    a: >-
+      The square used to be a bullring. Each balcony was rented out as a
+      numbered seat for watching the fights, and the painted numbers are still
+      there.
+  - q: What happens in the square during the Tamborrada?
+    a: >-
+      At midnight on 19 January the city flag is raised here, which starts 24
+      hours of drumming for the feast of San Sebastián on 20 January. The flag
+      is lowered here at midnight on the 20th. Arrive early, because the square
+      fills up.
+  - q: How long should I spend there?
+    a: >-
+      About 30 minutes covers the balconies, the old town hall facade and a walk
+      round the arcades. Allow a whole evening if you plan to eat pintxos in the
+      surrounding bars.
+  - q: How do I get there from the train station?
+    a: >-
+      Cross the Urumea river from the Renfe station and walk into the Old Town
+      via the Boulevard. It takes roughly 15 to 20 minutes on foot. Several city
+      buses stop on the Boulevard, about two minutes away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 
 ## Numbers above the windows

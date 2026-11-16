@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: santiago-de-compostela-mosteiro-de-san-martino-pinario
-srcHash: 'a182687a2014'
+srcHash: '625b0960311c'
 title: 'Monasterio de San Martiño Pinario: Guía de viaje de Santiago de Compostela'
-description: 'El Monasterio de San Martiño Pinario se encuentra a pocos pasos de la Catedral de Santiago de Compostela, en la Plaza de San Martiño, aunque la mayoría de los peregrinos pasa de largo sin reparar en él. 4.6★ (965 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Monasterio de San Martiño Pinario se encuentra a pocos pasos de la Catedral de Santiago de Compostela, en la Plaza de San Martiño, aunque la mayoría de los peregrinos pasa de largo sin reparar en él. 4.6★ (988 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Monasterio de San Martiño Pinario se encuentra a pocos pasos de la Catedral de Santiago de Compostela, en la Plaza de San Martiño, aunque la mayoría de los peregrinos pasa de largo sin reparar en él. Solo abre por las mañanas entre semana, de 8:00 a 13:30, y permanece cerrado los sábados y domingos, así que conviene planear la visita para una mañana de un día laborable, antes del mediodía. Calcule entre 45 minutos y una hora para recorrer la iglesia, el museo y la sillería del coro.
 faq:
   - q: ¿Cuál es el horario del Monasterio de San Martiño Pinario?

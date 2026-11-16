@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sapa-sa-pa-stone-church
-srcHash: '860cb1c5c2e0'
+srcHash: 'd73b173a7d98'
 title: 'Iglesia de Piedra de Sa Pa: guía de viaje de Sapa (4.4★)'
-description: 'En la plaza principal de Sa Pa se alza la Iglesia de Piedra, un templo de estilo gótico romano levantado por los franceses en 1895 con piedra gris, que puede contemplarse por fuera de forma gratuita. Valoración de 4.4★ (8,966 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la plaza principal de Sa Pa se alza la Iglesia de Piedra, un templo de estilo gótico romano levantado por los franceses en 1895 con piedra gris, que puede contemplarse por fuera de forma gratuita. Valoración de 4.4★ (9,104 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la plaza principal de Sa Pa se alza la Iglesia de Piedra, un templo de estilo gótico romano levantado por los franceses en 1895 con piedra gris, que puede contemplarse por fuera de forma gratuita. Actualmente el recinto abre de 6am a 9pm. Para encontrarla con más calma, conviene ir un día laborable entre las 7am y las 8am. Es mejor evitar los fines de semana de 4pm a 9pm, cuando la plaza se llena de gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Iglesia de Piedra de Sa Pa?

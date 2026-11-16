@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: santiago-de-compostela-portico-da-gloria
-srcHash: 'b79ab7465baa'
+srcHash: '33c2899bdbaf'
 title: 'Pórtico da Gloria: Guía de viaje de Santiago de Compostela'
-description: El Pórtico da Gloria es la entrada de piedra tallada del siglo XII dentro de la catedral de Santiago de Compostela, frente a la Praza do Obradoiro. 4.6★ (1,149 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: El Pórtico da Gloria es la entrada de piedra tallada del siglo XII dentro de la catedral de Santiago de Compostela, frente a la Praza do Obradoiro. 4.6★ (1,206 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: El Pórtico da Gloria es la entrada de piedra tallada del siglo XII dentro de la catedral de Santiago de Compostela, frente a la Praza do Obradoiro. Abre todos los días de 9am a 8pm, y el momento más tranquilo para contemplarlo es entre las 9 y las 10am entre semana, o entre las 11am y las 5pm los fines de semana. Dedícale entre 20 y 30 minutos con calma, idealmente con una visita guiada o audioguía, ya que las tallas premian una mirada atenta.
 faq:
   - q: ¿Cómo llego al Pórtico da Gloria?

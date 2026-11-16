@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sapa-sapa-park
-srcHash: '33d930811651'
+srcHash: '92d460ed42ad'
 title: 'Parque de Sapa: guía de viaje (4.2★)'
-description: En pleno centro de Sapa, este pequeño parque abre las 24 horas y permite descansar con calma unos 20-30 minutos entre una caminata y una visita al mercado. Tiene 4.2★ (928 reseñas); aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
+description: En pleno centro de Sapa, este pequeño parque abre las 24 horas y permite descansar con calma unos 20-30 minutos entre una caminata y una visita al mercado. Tiene 4.2★ (957 reseñas); aquí encontrará las opiniones de los visitantes, el horario y algunos consejos.
 quickAnswer: En pleno centro de Sapa, el Parque de Sapa (Sapa Park) es una pequeña plaza arbolada que abre las 24 horas y se presta a un descanso tranquilo de 20-30 minutos entre una caminata y una visita al mercado. Si quiere tener los bancos para usted solo, vaya entre semana de 7am-8am. Las tardes y noches del fin de semana, de 5pm-11pm, son las de mayor afluencia. La entrada es gratuita y se llega a pie desde la mayoría de los hoteles. Conviene verlo como un lugar de paso para reponer fuerzas, no como una atracción principal.
 faq:
   - q: ¿Cuánto cuesta visitar el Parque de Sapa?

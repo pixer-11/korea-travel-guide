@@ -1,44 +1,50 @@
 ---
-title: "Sa Pa Stone Church: Sapa Travel Guide (4.4★)"
-description: "Sa Pa Stone Church stands on the main square of Sa Pa town, a grey stone Roman Gothic church the French built in 1895, and it is free to see from the outside. 4.4★ (8,966 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Sapa"
-category: "attraction"
-pubDate: "2026-10-12T00:16:18.081Z"
+title: 'Sa Pa Stone Church: Sapa Travel Guide (4.4★)'
+description: >-
+  Sa Pa Stone Church stands on the main square of Sa Pa town, a grey stone Roman
+  Gothic church the French built in 1895, and it is free to see from the
+  outside. 4.4★ (9,104 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Sapa
+category: attraction
+pubDate: '2026-10-12T00:16:18.081Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sa_Pa_Church.jpg/3840px-Sa_Pa_Church.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sa_Pa_Church.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sa_Pa_Church.jpg/3840px-Sa_Pa_Church.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sa_Pa_Church.jpg'
+  via: act
   focus:
     x: 47
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_of_Sa_Pa.jpg/3840px-Church_of_Sa_Pa.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Church_of_Sa_Pa.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_of_Sa_Pa.jpg/3840px-Church_of_Sa_Pa.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Church_of_Sa_Pa.jpg'
 place:
-  id: "ChIJZ30wZWtBzTYRUBDrzMF6zMU"
-  name: "Sa Pa Stone Church"
-  address: "P. Hàm Rồng, Sa Pa, Lào Cai 333100, Vietnam"
+  id: ChIJZ30wZWtBzTYRUBDrzMF6zMU
+  name: Sa Pa Stone Church
+  address: 'P. Hàm Rồng, Sa Pa, Lào Cai 333100, Vietnam'
   rating: 4.4
-  userRatingsTotal: 8966
-  googleMapsUrl: "https://maps.google.com/?cid=14252901893506011216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9104
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14252901893506011216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3350884
   lng: 103.84236510000001
   openingHours:
-    - "Monday: 6:00 AM – 9:00 PM"
-    - "Tuesday: 6:00 AM – 9:00 PM"
-    - "Wednesday: 6:00 AM – 9:00 PM"
-    - "Thursday: 6:00 AM – 9:00 PM"
-    - "Friday: 6:00 AM – 9:00 PM"
-    - "Saturday: 6:00 AM – 9:00 PM"
-    - "Sunday: 6:00 AM – 9:00 PM"
+    - 'Monday: 6:00 AM – 9:00 PM'
+    - 'Tuesday: 6:00 AM – 9:00 PM'
+    - 'Wednesday: 6:00 AM – 9:00 PM'
+    - 'Thursday: 6:00 AM – 9:00 PM'
+    - 'Friday: 6:00 AM – 9:00 PM'
+    - 'Saturday: 6:00 AM – 9:00 PM'
+    - 'Sunday: 6:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-10-12
+    updated: 2026-10-12T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -51,24 +57,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_554d7a36464d7a724442555259547a4274575a7730335a4a496843"
+    venueId: ven_554d7a36464d7a724442555259547a4274575a7730335a4a496843
 tags:
-  - "sapa"
-  - "Sapa Stone Church"
-quickAnswer: "Sa Pa Stone Church stands on the main square of Sa Pa town, a grey stone Roman Gothic church the French built in 1895, and it is free to see from the outside. Currently the grounds are open 6am–9pm; go between 7am and 8am on a weekday for the quietest visit, and avoid weekends from 4pm to 9pm, when the square fills up."
+  - sapa
+  - Sapa Stone Church
+quickAnswer: >-
+  Sa Pa Stone Church stands on the main square of Sa Pa town, a grey stone Roman
+  Gothic church the French built in 1895, and it is free to see from the
+  outside. Currently the grounds are open 6am–9pm; go between 7am and 8am on a
+  weekday for the quietest visit, and avoid weekends from 4pm to 9pm, when the
+  square fills up.
 faq:
-  - q: "When is the quietest time to visit Sa Pa Stone Church?"
-    a: "Weekdays between 7am and 8am are the quietest. Avoid weekends from 4pm to 9pm, which are the busiest hours on the square."
-  - q: "What are the opening hours?"
-    a: "At the moment the grounds are open 6am–9pm daily. Services and holidays can change access, so check before you go."
-  - q: "How long should I spend there?"
-    a: "20–40 minutes covers the facade, the grounds and the interior when it's open. Add an hour or more if you also visit Sa Pa Lake or Hàm Rồng Mountain next door."
-  - q: "Can I go inside?"
-    a: "Often, yes, when the doors are open and no service is on. Cover your shoulders and knees, keep quiet, and don't use flash during Mass."
-  - q: "How do I get there from Hanoi?"
-    a: "Take a sleeper bus or limousine van to Sa Pa, roughly five to six hours, or the overnight train to Lào Cai and a shuttle up the mountain road. The church is on the central square, within walking distance of most hotels in town."
+  - q: When is the quietest time to visit Sa Pa Stone Church?
+    a: >-
+      Weekdays between 7am and 8am are the quietest. Avoid weekends from 4pm to
+      9pm, which are the busiest hours on the square.
+  - q: What are the opening hours?
+    a: >-
+      At the moment the grounds are open 6am–9pm daily. Services and holidays
+      can change access, so check before you go.
+  - q: How long should I spend there?
+    a: >-
+      20–40 minutes covers the facade, the grounds and the interior when it's
+      open. Add an hour or more if you also visit Sa Pa Lake or Hàm Rồng
+      Mountain next door.
+  - q: Can I go inside?
+    a: >-
+      Often, yes, when the doors are open and no service is on. Cover your
+      shoulders and knees, keep quiet, and don't use flash during Mass.
+  - q: How do I get there from Hanoi?
+    a: >-
+      Take a sleeper bus or limousine van to Sa Pa, roughly five to six hours,
+      or the overnight train to Lào Cai and a shuttle up the mountain road. The
+      church is on the central square, within walking distance of most hotels in
+      town.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 
 ## Grey stone at the top of town

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: santiago-de-compostela-parque-de-galeras
-srcHash: 'c44fefa01408'
+srcHash: '9ad8ba9f4430'
 title: 'Parque de Galeras: guía de viaje de Santiago de Compostela'
-description: 'El Parque de Galeras es un pequeño parque escalonado en el casco antiguo de Santiago de Compostela, situado justo debajo de la Rúa das Galeras, a poca distancia a pie de la catedral. 4,6★ (529 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parque de Galeras es un pequeño parque escalonado en el casco antiguo de Santiago de Compostela, situado justo debajo de la Rúa das Galeras, a poca distancia a pie de la catedral. 4,6★ (532 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque de Galeras es un pequeño parque escalonado en el casco antiguo de Santiago de Compostela, situado justo debajo de la Rúa das Galeras, a poca distancia a pie de la catedral. Permanece abierto las 24 horas y pasa bastante desapercibido frente a los grandes hitos del Camino, así que las mañanas de fin de semana entre las 7:00 y las 8:00 son el mejor momento para tener los bancos para uno mismo. Las tardes de fin de semana, de 12:00 a 22:00, son las que reúnen a más gente, sobre todo vecinos y no tanto turistas.
 faq:
   - q: ¿Dónde se encuentra exactamente el Parque de Galeras en Santiago de Compostela?

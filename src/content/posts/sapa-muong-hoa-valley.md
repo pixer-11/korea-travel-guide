@@ -1,47 +1,74 @@
 ---
-title: "Mường Hoa Valley: Sapa Travel Guide (4.6★)"
-description: "Mường Hoa Valley is the terraced river valley below Sapa town, running through Lao Chải and Tả Van villages in Lào Cai province, and it makes the classic day trek out of Sapa. 4.6★ (833 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Sapa"
-category: "hidden-gem"
-pubDate: "2026-10-13T07:12:34.968Z"
+title: 'Mường Hoa Valley: Sapa Travel Guide (4.6★)'
+description: >-
+  Mường Hoa Valley is the terraced river valley below Sapa town, running through
+  Lao Chải and Tả Van villages in Lào Cai province, and it makes the classic day
+  trek out of Sapa. 4.6★ (851 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Sapa
+category: hidden-gem
+pubDate: '2026-10-13T07:12:34.968Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg/3840px-M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg/3840px-M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:M%C6%B0%E1%BB%9Dng_Hoa_Valley_06.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJBdJUrs5AzTYRo2z1PukQGto"
-  name: "Mường Hoa Valley"
-  address: "8V7G+MJC, Lao Chải, Sa Pa, Lào Cai, Vietnam"
+  id: ChIJBdJUrs5AzTYRo2z1PukQGto
+  name: Mường Hoa Valley
+  address: '8V7G+MJC, Lao Chải, Sa Pa, Lào Cai, Vietnam'
   rating: 4.6
-  userRatingsTotal: 833
-  googleMapsUrl: "https://maps.google.com/?cid=15715892443632463011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 851
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15715892443632463011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.314183
   lng: 103.8765109
 tags:
-  - "sapa"
-  - "Muong Hoa Valley"
-quickAnswer: "Mường Hoa Valley is the terraced river valley below Sapa town, running through Lao Chải and Tả Van villages in Lào Cai province, and it makes the classic day trek out of Sapa. Come in September for golden rice before the harvest, or June to July for green terraces. Walk the Lao Chải to Tả Van route and plan for most of a day, or stay the night in a Tả Van homestay."
+  - sapa
+  - Muong Hoa Valley
+quickAnswer: >-
+  Mường Hoa Valley is the terraced river valley below Sapa town, running through
+  Lao Chải and Tả Van villages in Lào Cai province, and it makes the classic day
+  trek out of Sapa. Come in September for golden rice before the harvest, or
+  June to July for green terraces. Walk the Lao Chải to Tả Van route and plan
+  for most of a day, or stay the night in a Tả Van homestay.
 faq:
-  - q: "How do I get to Mường Hoa Valley from Sapa town?"
-    a: "You can walk out of town on the road to Lao Chải or take a motorbike taxi or car to Lao Chải or Tả Van. The funicular from central Sapa also runs down to the Fansipan cable car station, which gives you a view from above."
-  - q: "When is the best time to see the rice terraces?"
-    a: "Go from late August to September for golden rice before the harvest, June to July for green terraces, or late April to May for flooded fields. Harvest dates change each year, so check locally before you go."
-  - q: "How long does the trek take?"
-    a: "The classic walk from Sapa through Lao Chải to Tả Van takes most people a good half day to a full day. If you want to go on to Hầu Thào or Bản Hồ, stay a night in Tả Van."
-  - q: "Do I need a guide?"
-    a: "The main route is easy to follow, but a local Hmong guide helps on slippery sections and can show you the carved stones of Bãi Đá Cổ, which are easy to miss. Hiring one also puts your money straight into the villages."
-  - q: "Is there an entry fee?"
-    a: "Visitors pay at a checkpoint on the road into the Lao Chải and Tả Van area. The current fee is posted at the booth, so bring Vietnamese đồng in cash."
+  - q: How do I get to Mường Hoa Valley from Sapa town?
+    a: >-
+      You can walk out of town on the road to Lao Chải or take a motorbike taxi
+      or car to Lao Chải or Tả Van. The funicular from central Sapa also runs
+      down to the Fansipan cable car station, which gives you a view from above.
+  - q: When is the best time to see the rice terraces?
+    a: >-
+      Go from late August to September for golden rice before the harvest, June
+      to July for green terraces, or late April to May for flooded fields.
+      Harvest dates change each year, so check locally before you go.
+  - q: How long does the trek take?
+    a: >-
+      The classic walk from Sapa through Lao Chải to Tả Van takes most people a
+      good half day to a full day. If you want to go on to Hầu Thào or Bản Hồ,
+      stay a night in Tả Van.
+  - q: Do I need a guide?
+    a: >-
+      The main route is easy to follow, but a local Hmong guide helps on
+      slippery sections and can show you the carved stones of Bãi Đá Cổ, which
+      are easy to miss. Hiring one also puts your money straight into the
+      villages.
+  - q: Is there an entry fee?
+    a: >-
+      Visitors pay at a checkpoint on the road into the Lao Chải and Tả Van
+      area. The current fee is posted at the booth, so bring Vietnamese đồng in
+      cash.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 
 ## Terraces Stacked Down to the River

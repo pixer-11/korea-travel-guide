@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: santiago-de-compostela-museo-de-historia-natural-usc
-srcHash: '122ffacdaae2'
+srcHash: '0dc91ea8805d'
 title: 'Museo de Historia Natural-USC: Guía de viaje de Santiago de Compostela'
-description: 'El Museo de Historia Natural-USC se encuentra dentro del Parque de Vista Alegre en Santiago de Compostela, a poca distancia a pie al sur del casco antiguo, y puede visitarse cómodamente en menos de una hora. 4,6★ (1.141 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'El Museo de Historia Natural-USC se encuentra dentro del Parque de Vista Alegre en Santiago de Compostela, a poca distancia a pie al sur del casco antiguo, y puede visitarse cómodamente en menos de una hora. 4,6★ (1.149 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia Natural-USC se encuentra dentro del Parque de Vista Alegre en Santiago de Compostela, a poca distancia a pie al sur del casco antiguo, y puede visitarse cómodamente en menos de una hora. Permanece cerrado los lunes; de martes a sábado abre en horario partido de mañana y tarde (10:30-14:00 y 16:30-20:00), y los domingos solo por la mañana (11:00-14:00). Conviene ir un día laborable por la tarde si se buscan las salas casi vacías, ya que este museo universitario sigue pasando desapercibido para la mayoría de los turistas.
 faq:
   - q: ¿Cómo se llega al Museo de Historia Natural-USC desde el casco antiguo?

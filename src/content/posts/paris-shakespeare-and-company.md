@@ -1,45 +1,57 @@
 ---
-title: "Shakespeare and Company: Paris Travel Guide (4.6★)"
-description: "Shakespeare and Company is the English-language bookshop at 37 Rue de la Bûcherie in Paris's 5th arrondissement, on the Left Bank facing Notre-Dame across the Seine. 4.6★ (26,118 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Paris"
-category: "hidden-gem"
-pubDate: "2026-11-16T07:43:48.334Z"
+title: 'Shakespeare and Company: Paris Travel Guide (4.6★)'
+description: >-
+  Shakespeare and Company is the English-language bookshop at 37 Rue de la
+  Bûcherie in Paris's 5th arrondissement, on the Left Bank facing Notre-Dame
+  across the Seine. 4.6★ (26,124 reviews) — what visitors say, hours, and tips.
+country: France
+region: Paris
+category: hidden-gem
+pubDate: '2026-11-16T07:43:48.334Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/63/Quai_de_Montebello_-_Shakespeare_and_Company%2C_Paris_2011.jpg"
-  credit: "Photo: Bob Hall from Christchurch, New Zealand / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Quai_de_Montebello_-_Shakespeare_and_Company,_Paris_2011.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/63/Quai_de_Montebello_-_Shakespeare_and_Company%2C_Paris_2011.jpg
+  credit: >-
+    Photo: Bob Hall from Christchurch, New Zealand / Wikimedia Commons (CC BY-SA
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Quai_de_Montebello_-_Shakespeare_and_Company,_Paris_2011.jpg
+  via: act
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/34/Shakespeare_and_Company_bookshop.jpg"
-    credit: "Photo: Alexandre Duret-Lutz from Paris, France / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Shakespeare_and_Company_bookshop.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/34/Shakespeare_and_Company_bookshop.jpg
+    credit: >-
+      Photo: Alexandre Duret-Lutz from Paris, France / Wikimedia Commons (CC
+      BY-SA 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Shakespeare_and_Company_bookshop.jpg
 place:
-  id: "ChIJ_7ZXHuFx5kcRs1LnTeCsOBM"
-  name: "Shakespeare and Company"
-  address: "37 Rue de la Bûcherie, 75005 Paris, France"
+  id: ChIJ_7ZXHuFx5kcRs1LnTeCsOBM
+  name: Shakespeare and Company
+  address: '37 Rue de la Bûcherie, 75005 Paris, France'
   rating: 4.6
-  userRatingsTotal: 26118
-  googleMapsUrl: "https://maps.google.com/?cid=1385046964796084915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 26124
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1385046964796084915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.8525632
   lng: 2.3471303
-  phone: "+33 1 43 25 40 93"
+  phone: +33 1 43 25 40 93
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 12:00 – 7:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 12:00 – 7:00 PM'
   busyness:
-    updated: 2026-11-16
+    updated: 2026-11-16T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -54,24 +66,45 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_4d424f734365546e4c317352636b3578467548585a375f4a496843"
+    venueId: ven_4d424f734365546e4c317352636b3578467548585a375f4a496843
 tags:
-  - "paris"
-  - "bookshop"
-quickAnswer: "Shakespeare and Company is the English-language bookshop at 37 Rue de la Bûcherie in Paris's 5th arrondissement, on the Left Bank facing Notre-Dame across the Seine. It's calmest on weekdays between 10am and 12pm. On Saturday, go between 10am and 11am. Avoid weekend afternoons from 1pm, when it is busiest and a queue often forms outside."
+  - paris
+  - bookshop
+quickAnswer: >-
+  Shakespeare and Company is the English-language bookshop at 37 Rue de la
+  Bûcherie in Paris's 5th arrondissement, on the Left Bank facing Notre-Dame
+  across the Seine. It's calmest on weekdays between 10am and 12pm. On Saturday,
+  go between 10am and 11am. Avoid weekend afternoons from 1pm, when it is
+  busiest and a queue often forms outside.
 faq:
-  - q: "When is the quietest time to visit Shakespeare and Company?"
-    a: "On weekdays, it's typically quietest between 10am and 12pm. On Saturday it's 10am–11am. Weekend afternoons from 1pm to 8pm are the busiest, and Sunday doesn't open until noon, so a weekday morning is your best bet."
-  - q: "How do I get to Shakespeare and Company?"
-    a: "The address is 37 Rue de la Bûcherie, 75005 Paris. The nearest stops are Saint-Michel (Metro Line 4), Saint-Michel Notre-Dame (RER B and C) and Maubert–Mutualité (Metro Line 10). Each is a few minutes' walk away."
-  - q: "What are the opening hours?"
-    a: "Right now it opens 10am–8pm Monday to Saturday and 12pm–7pm on Sunday. Check the shop's website before you go, as hours can change on holidays."
-  - q: "Can I take photos inside?"
-    a: "Signs inside ask visitors not to take photos. Take your pictures of the shopfront outside instead. If you buy a book, ask at the till to have it stamped with the shop's stamp."
-  - q: "What else is nearby?"
-    a: "Square René Viviani is right next door. It has a locust tree planted in 1601 and a view of Notre-Dame, which is just across the Pont au Double. The riverside bouquinistes and the Latin Quarter lanes around Rue de la Huchette are also a short walk away."
+  - q: When is the quietest time to visit Shakespeare and Company?
+    a: >-
+      On weekdays, it's typically quietest between 10am and 12pm. On Saturday
+      it's 10am–11am. Weekend afternoons from 1pm to 8pm are the busiest, and
+      Sunday doesn't open until noon, so a weekday morning is your best bet.
+  - q: How do I get to Shakespeare and Company?
+    a: >-
+      The address is 37 Rue de la Bûcherie, 75005 Paris. The nearest stops are
+      Saint-Michel (Metro Line 4), Saint-Michel Notre-Dame (RER B and C) and
+      Maubert–Mutualité (Metro Line 10). Each is a few minutes' walk away.
+  - q: What are the opening hours?
+    a: >-
+      Right now it opens 10am–8pm Monday to Saturday and 12pm–7pm on Sunday.
+      Check the shop's website before you go, as hours can change on holidays.
+  - q: Can I take photos inside?
+    a: >-
+      Signs inside ask visitors not to take photos. Take your pictures of the
+      shopfront outside instead. If you buy a book, ask at the till to have it
+      stamped with the shop's stamp.
+  - q: What else is nearby?
+    a: >-
+      Square René Viviani is right next door. It has a locust tree planted in
+      1601 and a view of Notre-Dame, which is just across the Pont au Double.
+      The riverside bouquinistes and the Latin Quarter lanes around Rue de la
+      Huchette are also a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 
 ## A green front on the quai

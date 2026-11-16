@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-sebastian-plaza-de-la-constitucion-san-sebastian
-srcHash: 'a61f97976ec9'
+srcHash: '909fb3dc180b'
 title: 'Plaza de la Constitución: guía de viaje de San Sebastián (4.5★)'
-description: 'En plena Parte Vieja de San Sebastián, a pocos pasos al norte de la Alameda del Boulevard, se encuentra la Plaza de la Constitución, su plaza mayor porticada. 4.5★ (121 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En plena Parte Vieja de San Sebastián, a pocos pasos al norte de la Alameda del Boulevard, se encuentra la Plaza de la Constitución, su plaza mayor porticada. 4.5★ (147 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En plena Parte Vieja de San Sebastián, a pocos pasos al norte de la Alameda del Boulevard, se encuentra la Plaza de la Constitución, su plaza mayor porticada. Merece la visita por los balcones numerados que conserva de cuando se celebraban corridas de toros, y es un buen punto de partida para ir de pintxos. Si viaja en torno al 20 de enero, tenga en cuenta que la Tamborrada arranca aquí a medianoche.
 faq:
   - q: ¿Dónde se encuentra exactamente la Plaza de la Constitución de San Sebastián?

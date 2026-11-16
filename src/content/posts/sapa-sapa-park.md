@@ -1,27 +1,35 @@
 ---
 title: 'Sapa Park: Travel Guide (4.2★)'
-description: Sapa Park is a small, open-24-hours green square in the center of Sapa town, good for a quiet 20-30 minute pause between trekking or market stops. 4.2★ (928 reviews) — what visitors say, hours, and tips.
+description: >-
+  Sapa Park is a small, open-24-hours green square in the center of Sapa town,
+  good for a quiet 20-30 minute pause between trekking or market stops. 4.2★
+  (957 reviews) — what visitors say, hours, and tips.
 country: Vietnam
 region: Sapa
 category: attraction
 pubDate: '2026-08-14T09:04:29.644Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg/3840px-Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg/3840px-Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg
   credit: 'Photo: Andre Hospers / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Park_bij_Sapa_Legend_Hotel_%26_Spa_%2898788%29.jpg/3840px-Park_bij_Sapa_Legend_Hotel_%26_Spa_%2898788%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Park_bij_Sapa_Legend_Hotel_%26_Spa_%2898788%29.jpg/3840px-Park_bij_Sapa_Legend_Hotel_%26_Spa_%2898788%29.jpg
     credit: 'Photo: Andre Hospers / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Park_bij_Sapa_Legend_Hotel_%26_Spa_(98788).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Park_bij_Sapa_Legend_Hotel_%26_Spa_(98788).jpg
 place:
   id: ChIJfXe0nGxBzTYRNP2LqR2pX28
   name: Sapa Park
-  address: Đ. Thạch Sơn, Sa Pa, Lào Cai, Vietnam
+  address: 'Đ. Thạch Sơn, Sa Pa, Lào Cai, Vietnam'
   rating: 4.2
-  userRatingsTotal: 928
-  googleMapsUrl: https://maps.google.com/?cid=8025319005861182772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 957
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8025319005861182772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.3359257
   lng: 103.842361
@@ -55,19 +63,37 @@ place:
 tags:
   - sapa
   - park
-quickAnswer: Sapa Park is a small, open-24-hours green square in the center of Sapa town, good for a quiet 20-30 minute pause between trekking or market stops. Go between 7am-8am on weekdays to have the benches to yourself; weekend evenings from 5pm-11pm are the busiest. It's free, walkable from most hotels, and best treated as a rest stop rather than a headline attraction.
+quickAnswer: >-
+  Sapa Park is a small, open-24-hours green square in the center of Sapa town,
+  good for a quiet 20-30 minute pause between trekking or market stops. Go
+  between 7am-8am on weekdays to have the benches to yourself; weekend evenings
+  from 5pm-11pm are the busiest. It's free, walkable from most hotels, and best
+  treated as a rest stop rather than a headline attraction.
 faq:
   - q: How much does it cost to visit Sapa Park?
-    a: There's no admission fee — it's a public park open to walk through freely, 24 hours a day.
+    a: >-
+      There's no admission fee — it's a public park open to walk through freely,
+      24 hours a day.
   - q: When is the quietest time to visit?
-    a: Weekdays between 7am and 8am see the fewest visitors. Weekend evenings from 5pm to 11pm are the busiest, so avoid that window if you want a calm visit.
+    a: >-
+      Weekdays between 7am and 8am see the fewest visitors. Weekend evenings
+      from 5pm to 11pm are the busiest, so avoid that window if you want a calm
+      visit.
   - q: How long should I spend at Sapa Park?
-    a: Most visitors spend 20-30 minutes — enough to walk the paths, sit on a bench, and grab a snack from a nearby vendor.
+    a: >-
+      Most visitors spend 20-30 minutes — enough to walk the paths, sit on a
+      bench, and grab a snack from a nearby vendor.
   - q: How do I get to Sapa Park?
-    a: It's centrally located on Đ. Thạch Sơn in Sapa town, a minute or two from the stone church and the town square, and a short walk from Sa Pa Lake and the central market. No metro or bus needed.
+    a: >-
+      It's centrally located on Đ. Thạch Sơn in Sapa town, a minute or two from
+      the stone church and the town square, and a short walk from Sa Pa Lake and
+      the central market. No metro or bus needed.
   - q: What else is nearby?
-    a: Sapa Lake, Sapa Stone Church, and the central market are all within walking distance, making it easy to combine into one town loop.
+    a: >-
+      Sapa Lake, Sapa Stone Church, and the central market are all within
+      walking distance, making it easy to combine into one town loop.
 aiGenerated: true
+updatedDate: '2026-11-16'
 ---
 ## Why go
 

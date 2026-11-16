@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: paris-shakespeare-and-company
-srcHash: '2dd0cedab6b5'
+srcHash: '50313425b758'
 title: 巴黎莎士比亚书店旅行指南（4.6★）
-description: 莎士比亚书店（Shakespeare and Company）是一家英文书店，位于巴黎第五区布舍里街37号（37 Rue de la Bûcherie），地处左岸，隔塞纳河与巴黎圣母院相望。评分4.6★（26,118条评价），本文汇总游客评价、营业时间和参观建议。
+description: 莎士比亚书店（Shakespeare and Company）是一家英文书店，位于巴黎第五区布舍里街37号（37 Rue de la Bûcherie），地处左岸，隔塞纳河与巴黎圣母院相望。评分4.6★（26,124条评价），本文汇总游客评价、营业时间和参观建议。
 quickAnswer: 莎士比亚书店（Shakespeare and Company）是一家英文书店，位于巴黎第五区布舍里街37号（37 Rue de la Bûcherie），地处左岸，隔塞纳河与巴黎圣母院相望。工作日上午10点到12点人最少。周六建议上午10点到11点前往。周末下午1点以后客流最多，门外常常排起长队，最好避开。
 faq:
   - q: 什么时候去莎士比亚书店人最少？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sapa-muong-hoa-valley
-srcHash: 'f43bccee1dfa'
+srcHash: 'fc0aa47a8f51'
 title: 'Valle de Mường Hoa: guía de viaje de Sapa (4.6★)'
-description: 'A los pies de Sapa se extiende el valle de Mường Hoa, cuyos arrozales en terrazas atraviesan las aldeas de Lao Chải y Tả Van, en la provincia de Lào Cai, y que constituye la excursión de un día por excelencia desde la ciudad. 4.6★ (833 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A los pies de Sapa se extiende el valle de Mường Hoa, cuyos arrozales en terrazas atraviesan las aldeas de Lao Chải y Tả Van, en la provincia de Lào Cai, y que constituye la excursión de un día por excelencia desde la ciudad. 4.6★ (851 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A los pies de Sapa se extiende el valle de Mường Hoa, un valle fluvial de arrozales en terrazas que atraviesa las aldeas de Lao Chải y Tả Van, en la provincia de Lào Cai, y que constituye la excursión de un día por excelencia desde la ciudad. Septiembre es el mes del arroz dorado, justo antes de la cosecha; entre junio y julio, en cambio, las terrazas lucen verdes. La ruta clásica va de Lao Chải a Tả Van y ocupa buena parte de la jornada, aunque también es posible pasar la noche en una casa de huéspedes de Tả Van.
 faq:
   - q: ¿Cómo se llega al valle de Mường Hoa desde Sapa?

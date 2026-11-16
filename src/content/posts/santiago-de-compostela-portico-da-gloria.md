@@ -1,41 +1,49 @@
 ---
-title: "Pórtico da Gloria: Santiago de Compostela Travel Guide"
-description: "The Pórtico da Gloria is the 12th-century carved stone entrance inside Santiago de Compostela's cathedral, facing Praza do Obradoiro. 4.6★ (1,149 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Santiago de Compostela"
-category: "attraction"
-pubDate: "2026-08-14T08:48:42.537Z"
+title: 'Pórtico da Gloria: Santiago de Compostela Travel Guide'
+description: >-
+  The Pórtico da Gloria is the 12th-century carved stone entrance inside
+  Santiago de Compostela's cathedral, facing Praza do Obradoiro. 4.6★ (1,206
+  reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Santiago de Compostela
+category: attraction
+pubDate: '2026-08-14T08:48:42.537Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/T%C3%ADmpano_del_p%C3%B3rtico_de_la_gloria._catedral_de_Santiago_de_Compostela_.jpg/1920px-T%C3%ADmpano_del_p%C3%B3rtico_de_la_gloria._catedral_de_Santiago_de_Compostela_.jpg"
-  credit: "Photo: calblas78 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:T%C3%ADmpano_del_p%C3%B3rtico_de_la_gloria._catedral_de_Santiago_de_Compostela_.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/T%C3%ADmpano_del_p%C3%B3rtico_de_la_gloria._catedral_de_Santiago_de_Compostela_.jpg/1920px-T%C3%ADmpano_del_p%C3%B3rtico_de_la_gloria._catedral_de_Santiago_de_Compostela_.jpg
+  credit: 'Photo: calblas78 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:T%C3%ADmpano_del_p%C3%B3rtico_de_la_gloria._catedral_de_Santiago_de_Compostela_.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Organistrum.Kathedrale.Santiago.de.Compostela.P1093548.jpg/3840px-Organistrum.Kathedrale.Santiago.de.Compostela.P1093548.jpg"
-    credit: "Photo: Bautsch / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Organistrum.Kathedrale.Santiago.de.Compostela.P1093548.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Organistrum.Kathedrale.Santiago.de.Compostela.P1093548.jpg/3840px-Organistrum.Kathedrale.Santiago.de.Compostela.P1093548.jpg
+    credit: 'Photo: Bautsch / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Organistrum.Kathedrale.Santiago.de.Compostela.P1093548.jpg
 place:
-  id: "ChIJ_Vsg-kP_Lg0RY58yhatyZW4"
-  name: "Pórtico da Gloria"
-  address: "Praza do Obradoiro, s/n, 15704 Santiago de Compostela, A Coruña, Spain"
+  id: ChIJ_Vsg-kP_Lg0RY58yhatyZW4
+  name: Pórtico da Gloria
+  address: 'Praza do Obradoiro, s/n, 15704 Santiago de Compostela, A Coruña, Spain'
   rating: 4.6
-  userRatingsTotal: 1149
-  googleMapsUrl: "https://maps.google.com/?cid=7954890397819510627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1206
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7954890397819510627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.8805564
   lng: -8.545115299999999
-  phone: "+34 981 55 29 85"
+  phone: +34 981 55 29 85
   openingHours:
-    - "Monday: 9:00 AM – 8:00 PM"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -46,24 +54,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_34575a79746168793835595230674c5f506b2d6773565f4a496843"
+    venueId: ven_34575a79746168793835595230674c5f506b2d6773565f4a496843
 tags:
-  - "santiago de compostela"
-  - "top attraction"
-quickAnswer: "The Pórtico da Gloria is the 12th-century carved stone entrance inside Santiago de Compostela's cathedral, facing Praza do Obradoiro. It's open daily 9am–8pm, and the calmest time to study it is 9–10am on weekdays or between 11am and 5pm on weekends. Give it 20–30 quiet minutes, ideally with a guided visit or audio guide since the carvings reward close looking."
+  - santiago de compostela
+  - top attraction
+quickAnswer: >-
+  The Pórtico da Gloria is the 12th-century carved stone entrance inside
+  Santiago de Compostela's cathedral, facing Praza do Obradoiro. It's open daily
+  9am–8pm, and the calmest time to study it is 9–10am on weekdays or between
+  11am and 5pm on weekends. Give it 20–30 quiet minutes, ideally with a guided
+  visit or audio guide since the carvings reward close looking.
 faq:
-  - q: "How do I get to the Pórtico da Gloria?"
-    a: "It's inside Santiago de Compostela Cathedral on Praza do Obradoiro, in the heart of the old town — about a 20–25 minute walk from the train or bus station, or a short taxi ride."
-  - q: "What are the opening hours?"
-    a: "The cathedral is open daily from 9:00 AM to 8:00 PM, with no shortened days during the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 10am are calmest. On weekends, the window from 11am to 5pm tends to stay quieter than early morning."
-  - q: "How long should I plan to spend there?"
-    a: "20–30 minutes is enough to take in the Pórtico itself, but budget an hour or more if you're combining it with the cathedral museum and crypt."
-  - q: "Is there an entry fee for the Pórtico da Gloria?"
-    a: "Access details and any fees can change, especially with ongoing conservation work, so check the cathedral's official information or the tourist office on Praza do Obradoiro before you go."
+  - q: How do I get to the Pórtico da Gloria?
+    a: >-
+      It's inside Santiago de Compostela Cathedral on Praza do Obradoiro, in the
+      heart of the old town — about a 20–25 minute walk from the train or bus
+      station, or a short taxi ride.
+  - q: What are the opening hours?
+    a: >-
+      The cathedral is open daily from 9:00 AM to 8:00 PM, with no shortened
+      days during the week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 10am are calmest. On weekends, the window from
+      11am to 5pm tends to stay quieter than early morning.
+  - q: How long should I plan to spend there?
+    a: >-
+      20–30 minutes is enough to take in the Pórtico itself, but budget an hour
+      or more if you're combining it with the cathedral museum and crypt.
+  - q: Is there an entry fee for the Pórtico da Gloria?
+    a: >-
+      Access details and any fees can change, especially with ongoing
+      conservation work, so check the cathedral's official information or the
+      tourist office on Praza do Obradoiro before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-16'
 ---
 
 ## Why the Pórtico da Gloria matters

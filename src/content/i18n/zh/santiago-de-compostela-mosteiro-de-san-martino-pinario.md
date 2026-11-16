@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: santiago-de-compostela-mosteiro-de-san-martino-pinario
-srcHash: 'a182687a2014'
+srcHash: '625b0960311c'
 title: 圣马丁修道院（Mosteiro de San Martiño Pinario）：圣地亚哥－德孔波斯特拉旅行指南
-description: 圣马丁修道院就在圣地亚哥－德孔波斯特拉大教堂旁边，位于圣马丁广场（Plaza de San Martiño），可大多数朝圣者都径直走过，没有留意到它。4.6星（965条评价）——看看游客怎么说，附开放时间和实用建议。
+description: 圣马丁修道院就在圣地亚哥－德孔波斯特拉大教堂旁边，位于圣马丁广场（Plaza de San Martiño），可大多数朝圣者都径直走过，没有留意到它。4.6星（988条评价）——看看游客怎么说，附开放时间和实用建议。
 quickAnswer: 圣马丁修道院就在圣地亚哥－德孔波斯特拉大教堂旁边，位于圣马丁广场（Plaza de San Martiño），可大多数朝圣者都径直走过，没有留意到它。这里只在工作日上午开放，时间是早上8点到下午1点30分，周六周日不开门，所以最好把行程安排在工作日的早晨到中午之前。参观教堂、博物馆和唱诗席，预留45分钟到1小时就够了。
 faq:
   - q: 圣马丁修道院的开放时间是怎样的？

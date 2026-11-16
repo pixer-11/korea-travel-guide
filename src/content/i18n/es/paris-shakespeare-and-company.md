@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: paris-shakespeare-and-company
-srcHash: '2dd0cedab6b5'
+srcHash: '50313425b758'
 title: 'Shakespeare and Company: guía de viaje de París (4.6★)'
-description: En el número 37 de la Rue de la Bûcherie, en el distrito 5 de París, se encuentra Shakespeare and Company, la librería en lengua inglesa que, desde la orilla izquierda, mira a Notre-Dame al otro lado del Sena. Con una valoración de 4.6★ (26,118 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En el número 37 de la Rue de la Bûcherie, en el distrito 5 de París, se encuentra Shakespeare and Company, la librería en lengua inglesa que, desde la orilla izquierda, mira a Notre-Dame al otro lado del Sena. Con una valoración de 4.6★ (26,124 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: 'En el número 37 de la Rue de la Bûcherie, en el distrito 5 de París, se encuentra Shakespeare and Company, la librería en lengua inglesa que, desde la orilla izquierda, mira a Notre-Dame al otro lado del Sena. Los momentos más tranquilos son las mañanas de entre semana, de 10am a 12pm. Los sábados conviene ir entre las 10am y las 11am. Evite las tardes del fin de semana a partir de la 1pm: es cuando más gente hay y a menudo se forma cola en la puerta.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Shakespeare and Company?

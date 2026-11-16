@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: san-sebastian-san-telmo-museum
-srcHash: '42434a82cf6a'
+srcHash: '17103d6299e7'
 title: 'Museo San Telmo: guía de viaje de San Sebastián (4,5★)'
-description: 'El Museo San Telmo se encuentra en la Parte Vieja de San Sebastián, en la Plaza Zuloaga, y reúne historia, etnografía, arte y arqueología vascas dentro de un antiguo monasterio del siglo XVI. 4,5★ (4.207 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo San Telmo se encuentra en la Parte Vieja de San Sebastián, en la Plaza Zuloaga, y reúne historia, etnografía, arte y arqueología vascas dentro de un antiguo monasterio del siglo XVI. 4,5★ (4.278 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo San Telmo se encuentra en la Parte Vieja de San Sebastián, en la Plaza Zuloaga, y reúne historia, etnografía, arte y arqueología vascas dentro de un antiguo monasterio del siglo XVI. Abre de martes a domingo, de 10:00 a 20:00, y cierra los lunes. Las mañanas de fin de semana entre las 10:00 y las 11:00 son el momento más tranquilo; conviene evitar la franja entre el mediodía y las 20:00 los sábados y domingos si se prefiere esquivar las aglomeraciones.
 faq:
   - q: ¿Cuál es el horario del Museo San Telmo?

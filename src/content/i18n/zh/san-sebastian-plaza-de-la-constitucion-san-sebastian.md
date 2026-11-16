@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: san-sebastian-plaza-de-la-constitucion-san-sebastian
-srcHash: 'a61f97976ec9'
+srcHash: '909fb3dc180b'
 title: 圣塞瓦斯蒂安宪法广场旅行指南（4.5★）
-description: 宪法广场（Plaza de la Constitución）是圣塞瓦斯蒂安老城区（Parte Vieja）的主广场，四周环绕拱廊，从林荫大道（Alameda del Boulevard）往北走几步就到。评分4.5★（121条评价），本文汇总游客评价、开放时间和游览建议。
+description: 宪法广场（Plaza de la Constitución）是圣塞瓦斯蒂安老城区（Parte Vieja）的主广场，四周环绕拱廊，从林荫大道（Alameda del Boulevard）往北走几步就到。评分4.5★（147条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 宪法广场（Plaza de la Constitución）是圣塞瓦斯蒂安老城区（Parte Vieja）的主广场，四周环绕拱廊，从林荫大道（Alameda del Boulevard）往北走几步就到。广场曾是斗牛场，阳台上的编号至今还在，值得专程一看。这里也很适合作为品丘（pintxos）小吃一路吃下去的起点。安排行程时要留意1月20日：鼓乐节（Tamborrada）的鼓声就是午夜从这里敲响的。
 faq:
   - q: 圣塞瓦斯蒂安的宪法广场具体在哪里？
