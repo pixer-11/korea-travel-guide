@@ -9,16 +9,6 @@ eventStartDate: '2026-12-01'
 eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/03/The_Lovely_Eggs_%2854200903791%29.jpg
-  credit: 'Photo: Paul Hudson from United Kingdom / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Lovely_Eggs_(54200903791).jpg
-  focus:
-    x: 52
-    'y': 16
-    top: 10
-    bottom: 22
 gallery: []
 tags:
   - toraja

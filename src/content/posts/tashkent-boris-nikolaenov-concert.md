@@ -13,16 +13,6 @@ eventPerformer:
   name: Boris Nikolaenov
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/94/Boris_Nedeltchev_en_concert.jpg
-  credit: 'Photo: Boris Nedeltchev / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Boris_Nedeltchev_en_concert.jpg
-  focus:
-    x: 49
-    'y': 28
-    top: 22
-    bottom: 33
 gallery: []
 tags:
   - tashkent

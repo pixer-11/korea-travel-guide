@@ -30,14 +30,6 @@ faq:
     a: Most stay downtown, where hotels are concentrated and many are linked by skywalks. Broad Ripple Village, just north of Butler, is the closest area with bars and restaurants.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg/3840px-Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg
-  credit: 'Photo: Stadium Dance / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Stadium_Dance_at_the_NBA_Cup,_T-Mobile_Arena,_Las_Vegas.jpg
-  focus:
-    x: 50
-    'y': 70
 ---
 
 ## A title game in a 1928 college gym

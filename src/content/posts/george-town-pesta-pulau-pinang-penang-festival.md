@@ -13,14 +13,6 @@ eventOffers:
   free: true
   currency: MYR
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/05/Pesta_laut_mappanretasi_teluk_tamiang.jpg
-  credit: 'Photo: Zainal Abidin, AP / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Pesta_laut_mappanretasi_teluk_tamiang.jpg
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - george town

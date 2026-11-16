@@ -13,16 +13,6 @@ eventPerformer:
   name: Týr
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8e/Tyr_Alibi_4.jpg
-  credit: 'Photo: BukaNadchodzi / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tyr_Alibi_4.jpg
-  focus:
-    x: 23
-    'y': 25
-    top: 15
-    bottom: 35
 gallery: []
 tags:
   - milan

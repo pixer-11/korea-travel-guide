@@ -6740,9 +6740,9 @@
  },
  "cairo-zamna-egypt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bornco_en_el_Polif%C3%B3rum_Zamn%C3%A1%2C_M%C3%A9rida%2C_Tour_El_Gran_Baile.jpg/1920px-Bornco_en_el_Polif%C3%B3rum_Zamn%C3%A1%2C_M%C3%A9rida%2C_Tour_El_Gran_Baile.jpg": {
   "slug": "cairo-zamna-egypt",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Concert stage with pyrotechnics, matches event type",
-  "at": "2026-11-15T20:56:44.426Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"zamna\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-16T08:12:55.597Z"
  },
  "calgary-113th-grey-cup\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Grey_Cup%21_07122006.jpg": {
   "slug": "calgary-113th-grey-cup",
@@ -9416,9 +9416,9 @@
  },
  "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg/3840px-Bratan_Bali_Indonesia_Balinese-family-after-Puja-01.jpg": {
   "slug": "denpasar-bali-new-year-s-eve-celebrations",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Balinese temple ceremony, traditional dress and umbrellas",
-  "at": "2026-11-15T21:15:23.755Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"bali\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-16T08:12:55.728Z"
  },
  "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg/3840px-Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg": {
   "slug": "denpasar-bali-new-year-s-eve-celebrations",
@@ -11193,9 +11193,9 @@
  },
  "george-town-pesta-pulau-pinang-penang-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Pesta_laut_mappanretasi_teluk_tamiang.jpg": {
   "slug": "george-town-pesta-pulau-pinang-penang-festival",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Festive boat procession scene fits Penang Festival event",
-  "at": "2026-11-15T20:50:33.553Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"pesta\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-16T08:12:55.857Z"
  },
  "gili-islands-gili-meno-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg": {
   "slug": "gili-islands-gili-meno-beach",
@@ -15067,9 +15067,9 @@
  },
  "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg/3840px-Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg": {
   "slug": "indianapolis-nba-cup-championship-2026",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Group photo on NBA arena court, consistent with venue",
-  "at": "2026-11-15T21:15:47.376Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"nba\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-16T08:12:55.986Z"
  },
  "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Magic_Johnson_at_Lakers_NBA_championship_rally.jpg/3840px-Magic_Johnson_at_Lakers_NBA_championship_rally.jpg": {
   "slug": "indianapolis-nba-cup-championship-2026",
@@ -23789,9 +23789,9 @@
  },
  "milan-tyr-valhalla-calling-european-tour-milan\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Tyr_Alibi_4.jpg": {
   "slug": "milan-tyr-valhalla-calling-european-tour-milan",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Live concert stage performance, matches band's tour event",
-  "at": "2026-11-15T20:47:45.251Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-16T08:12:56.114Z"
  },
  "milan-yapa\u0001https://fastly.4sqi.net/img/general/original/502352968_njTs29CK5JidGh00-YLX_V6IkLtv8qANKvwXSXnbaA8.jpg": {
   "slug": "milan-yapa",
@@ -36559,9 +36559,9 @@
  },
  "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/94/Boris_Nedeltchev_en_concert.jpg": {
   "slug": "tashkent-boris-nikolaenov-concert",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Pianist performing at concert, matches event type",
-  "at": "2026-11-15T20:52:43.261Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"boris\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-16T08:12:56.241Z"
  },
  "tashkent-caravan\u0001https://fastly.4sqi.net/img/general/original/4848437_iFCAhw4haGiiI89O820LjABwptJFGMTJi7uMBdlLjFY.jpg": {
   "slug": "tashkent-caravan",
@@ -38301,9 +38301,9 @@
  },
  "toraja-lovely-december-toraja\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/The_Lovely_Eggs_%2854200903791%29.jpg": {
   "slug": "toraja-lovely-december-toraja",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Concert performer on stage, fits music event hero",
-  "at": "2026-11-15T20:49:38.686Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"lovely\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-16T08:12:56.370Z"
  },
  "toronto-360-the-restaurant-at-the-cn-tower\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Inside_the_360_Restaurant_in_the_CN_Tower_%289160061765%29.jpg": {
   "slug": "toronto-360-the-restaurant-at-the-cn-tower",
