@@ -9,6 +9,14 @@ eventStartDate: '2026-12-01'
 eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Landmark_Toraja.jpg/1280px-Landmark_Toraja.jpg'
+  credit: 'Photo: Aqilla Rahmi (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Landmark Toraja.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - toraja

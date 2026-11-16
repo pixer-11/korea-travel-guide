@@ -13,6 +13,14 @@ eventOrganizer:
   name: PassTiming
   url: https://www.passtiming.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg'
+  credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_skyline_19_February_2022.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - antalya

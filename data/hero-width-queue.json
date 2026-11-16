@@ -3718,48 +3718,51 @@
   "vadodara-wtt-youth-contender-vadodara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Baroda_vadodara_airport.jpg/1280px-Baroda_vadodara_airport.jpg": 1280,
   "vancouver-cypress-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Cypress_Lookout_%28213003317%29.jpeg": 2048,
   "vancouver-the-naam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Miso_Benny_at_The_Naam_%288499605980%29.jpg/3840px-Miso_Benny_at_The_Naam_%288499605980%29.jpg": 3840,
-  "york-the-little-apple-bookshop\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Little_Apple_bookshop_York.jpg/3840px-Little_Apple_bookshop_York.jpg": 3840
+  "york-the-little-apple-bookshop\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Little_Apple_bookshop_York.jpg/3840px-Little_Apple_bookshop_York.jpg": 3840,
+  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536,
+  "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": 1994,
+  "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Shtern_-_2025-04-12_-_p14.jpg/3840px-Boris_Shtern_-_2025-04-12_-_p14.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 15,
-   "nextTry": "2026-11-16",
+   "attempts": 16,
+   "nextTry": "2026-11-23",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 15,
-   "nextTry": "2026-11-16",
+   "attempts": 16,
+   "nextTry": "2026-11-23",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 15,
-   "nextTry": "2026-11-16",
+   "attempts": 16,
+   "nextTry": "2026-11-23",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 15,
-   "nextTry": "2026-11-16",
+   "attempts": 16,
+   "nextTry": "2026-11-23",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 15,
-   "nextTry": "2026-11-16",
+   "attempts": 16,
+   "nextTry": "2026-11-23",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 15,
-   "nextTry": "2026-11-16",
+   "attempts": 16,
+   "nextTry": "2026-11-23",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -3772,8 +3775,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 14,
-   "nextTry": "2026-11-16",
+   "attempts": 15,
+   "nextTry": "2026-11-23",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -4238,5 +4241,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-16T17:32:27.342Z"
+ "updated": "2026-11-16T19:38:36.126Z"
 }

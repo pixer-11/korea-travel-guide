@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: MYR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/George_Town_skyline_at_dusk_Nov_2024.jpg/3840px-George_Town_skyline_at_dusk_Nov_2024.jpg'
+  credit: 'Photo: HundenvonPenang / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:George_Town_skyline_at_dusk_Nov_2024.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - george town

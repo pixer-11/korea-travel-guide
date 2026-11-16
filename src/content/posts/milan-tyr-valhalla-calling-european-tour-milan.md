@@ -13,6 +13,14 @@ eventPerformer:
   name: Týr
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Full_Milan_skyline_from_Duomo_roof.jpg/3840px-Full_Milan_skyline_from_Duomo_roof.jpg'
+  credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Full_Milan_skyline_from_Duomo_roof.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - milan

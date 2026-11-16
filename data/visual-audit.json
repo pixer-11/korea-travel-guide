@@ -1503,6 +1503,12 @@
   "reason": "patrol reject: Men at tea house, unrelated to ultra race event",
   "at": "2026-11-15T21:14:33.085Z"
  },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_06.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Outdoor cafe scene with cat, unrelated to marathon event",
+  "at": "2026-11-16T19:36:18.594Z"
+ },
  "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Ultra_Vomit_-_Concert_2017_%28Saint-%C3%89tienne%29_-_Kammthaar.jpg": {
   "slug": "antalya-antalya-ultra-by-passtiming",
   "verdict": "MISMATCH",
@@ -1515,11 +1521,29 @@
   "reason": "patrol reject: Concert stage, unrelated to running event in Antalya",
   "at": "2026-11-15T21:14:31.703Z"
  },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_05.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Lounge building, unrelated to ultra marathon event",
+  "at": "2026-11-16T19:36:22.278Z"
+ },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_04.jpg/3840px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_04.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Restaurant patio with car prop, not race event or venue",
+  "at": "2026-11-16T19:36:20.460Z"
+ },
  "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_01.jpg/3840px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_01.jpg": {
   "slug": "antalya-antalya-ultra-by-passtiming",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Fish shop unrelated to Antalya Ultra marathon event",
   "at": "2026-11-15T21:14:34.276Z"
+ },
+ "antalya-antalya-ultra-by-passtiming\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg/3840px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg": {
+  "slug": "antalya-antalya-ultra-by-passtiming",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Flower market, unrelated to marathon event or venue",
+  "at": "2026-11-16T19:36:16.809Z"
  },
  "antalya-duden-waterfalls\u0001https://fastly.4sqi.net/img/general/original/1401693259_8jEHFrVFPFANGfSLvWNwvNcLD-Yzsp4u0b7GLX1Oj90.jpg": {
   "slug": "antalya-duden-waterfalls",
@@ -7331,8 +7355,8 @@
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": {
   "slug": "chamonix-grotte-de-glace",
   "verdict": "MATCH",
-  "reason": "patrol replace: Ice cave with glowing light installations, authentic",
-  "at": "2026-11-14T19:37:53.279Z"
+  "reason": "patrol replace: Ice cave interior with LED lighting installation",
+  "at": "2026-11-16T19:36:36.755Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG": {
   "slug": "chamonix-grotte-de-glace",
@@ -9420,11 +9444,35 @@
   "reason": "hand-reviewed: filename shares only \"bali\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-16T08:12:55.728Z"
  },
+ "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2023_Bali_Refuse_Incineration_Plant_O1.jpg/3840px-2023_Bali_Refuse_Incineration_Plant_O1.jpg": {
+  "slug": "denpasar-bali-new-year-s-eve-celebrations",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Industrial port/shipyard scene, unrelated to Bali New Year celebrations",
+  "at": "2026-11-16T19:36:45.109Z"
+ },
+ "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2023_Bali_Refuse_Incineration_Plant_O6.jpg/3840px-2023_Bali_Refuse_Incineration_Plant_O6.jpg": {
+  "slug": "denpasar-bali-new-year-s-eve-celebrations",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Landscape/industrial area, unrelated to Bali NYE celebrations",
+  "at": "2026-11-16T19:36:49.299Z"
+ },
+ "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/3840px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg": {
+  "slug": "denpasar-bali-new-year-s-eve-celebrations",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Balinese temple, not a New Year's Eve celebration event",
+  "at": "2026-11-16T19:36:43.285Z"
+ },
  "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg/3840px-Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg": {
   "slug": "denpasar-bali-new-year-s-eve-celebrations",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Balinese temple scene, unrelated to New Year's Eve celebrations",
   "at": "2026-11-15T21:15:21.041Z"
+ },
+ "denpasar-bali-new-year-s-eve-celebrations\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_Bali_Refuse_Incineration_Plant_O8.jpg/1920px-2023_Bali_Refuse_Incineration_Plant_O8.jpg": {
+  "slug": "denpasar-bali-new-year-s-eve-celebrations",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated monument/chimney scene, not Bali New Year event",
+  "at": "2026-11-16T19:36:50.887Z"
  },
  "denpasar-denpasar-festival-denfest\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Al-Furqon_mosque_interior_Denpasar.jpg": {
   "slug": "denpasar-denpasar-festival-denfest",
@@ -15064,6 +15112,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Tennis player at professional indoor court venue",
   "at": "2026-10-08T14:38:37.944Z"
+ },
+ "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
+  "slug": "indianapolis-nba-cup-championship-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NBA player in action, plausible event photo",
+  "at": "2026-11-16T19:37:06.823Z"
  },
  "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg/3840px-Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg": {
   "slug": "indianapolis-nba-cup-championship-2026",
@@ -23786,6 +23840,30 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Photo of Tyler, the Creator performing, valid for concert article",
   "at": "2026-08-07T13:03:54.557Z"
+ },
+ "milan-tyr-valhalla-calling-european-tour-milan\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%BDr_01553.JPG": {
+  "slug": "milan-tyr-valhalla-calling-european-tour-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Italy",
+  "at": "2026-11-16T19:37:23.152Z"
+ },
+ "milan-tyr-valhalla-calling-european-tour-milan\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/T%C3%BDr_01519.JPG": {
+  "slug": "milan-tyr-valhalla-calling-european-tour-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Italy",
+  "at": "2026-11-16T19:37:20.258Z"
+ },
+ "milan-tyr-valhalla-calling-european-tour-milan\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/T%C3%BDr_01514.JPG": {
+  "slug": "milan-tyr-valhalla-calling-european-tour-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Italy",
+  "at": "2026-11-16T19:37:17.664Z"
+ },
+ "milan-tyr-valhalla-calling-european-tour-milan\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/T%C3%BDr_01550.JPG": {
+  "slug": "milan-tyr-valhalla-calling-european-tour-milan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Germany, post says Italy",
+  "at": "2026-11-16T19:37:26.338Z"
  },
  "milan-tyr-valhalla-calling-european-tour-milan\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Tyr_Alibi_4.jpg": {
   "slug": "milan-tyr-valhalla-calling-european-tour-milan",
@@ -36562,6 +36640,18 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: filename shares only \"boris\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-16T08:12:56.241Z"
+ },
+ "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Shtern_-_2025-04-12_-_p14.jpg/3840px-Boris_Shtern_-_2025-04-12_-_p14.jpg": {
+  "slug": "tashkent-boris-nikolaenov-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer portrait, plausibly the concert act",
+  "at": "2026-11-16T19:37:40.072Z"
+ },
+ "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gia_Kancheli_%26_Boris_Berezovski.jpg/3840px-Gia_Kancheli_%26_Boris_Berezovski.jpg": {
+  "slug": "tashkent-boris-nikolaenov-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic photo of two unidentified men, not performer-specific",
+  "at": "2026-11-16T19:37:34.266Z"
  },
  "tashkent-caravan\u0001https://fastly.4sqi.net/img/general/original/4848437_iFCAhw4haGiiI89O820LjABwptJFGMTJi7uMBdlLjFY.jpg": {
   "slug": "tashkent-caravan",

@@ -9,6 +9,14 @@ eventStartDate: '2026-12-31'
 eventEndDate: '2027-01-01'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Masjid_Agung_Sudirman%2C_Denpasar.jpg/3840px-Masjid_Agung_Sudirman%2C_Denpasar.jpg'
+  credit: 'Photo: EvanPasha / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Masjid_Agung_Sudirman,_Denpasar.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - denpasar
   - event

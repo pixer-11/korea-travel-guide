@@ -10,6 +10,14 @@ eventEndDate: '2026-11-29'
 eventRecurring: true
 eventVenue: desert-adjacent outdoor venue near Cairo
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/71/Cairo_skyline%2C_Panoramic_view%2C_Egypt.jpg'
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cairo_skyline,_Panoramic_view,_Egypt.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - cairo

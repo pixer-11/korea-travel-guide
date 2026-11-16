@@ -8182,5 +8182,53 @@
    "x": 50,
    "y": 50
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg": {
+  "w": 2478,
+  "h": 1288,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/7/71/Cairo_skyline%2C_Panoramic_view%2C_Egypt.jpg": {
+  "w": 3072,
+  "h": 2048,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Masjid_Agung_Sudirman%2C_Denpasar.jpg/3840px-Masjid_Agung_Sudirman%2C_Denpasar.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/George_Town_skyline_at_dusk_Nov_2024.jpg/3840px-George_Town_skyline_at_dusk_Nov_2024.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Full_Milan_skyline_from_Duomo_roof.jpg/3840px-Full_Milan_skyline_from_Duomo_roof.jpg": {
+  "w": 3840,
+  "h": 2072,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Landmark_Toraja.jpg/1280px-Landmark_Toraja.jpg": {
+  "w": 1280,
+  "h": 720,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }
