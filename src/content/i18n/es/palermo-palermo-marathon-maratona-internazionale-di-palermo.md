@@ -1,94 +1,94 @@
 ---
 lang: es
 slug: palermo-palermo-marathon-maratona-internazionale-di-palermo
-srcHash: 'f1fb6f390593'
-title: 'Maratón de Palermo (Maratona Internazionale di Palermo): fechas, inscripciones y sede (Palermo)'
-description: El domingo 15 de noviembre de 2026 se celebra la Maratón de Palermo (Maratona Internazionale di Palermo), con una maratón y una media maratón que recorren las calles históricas de la capital siciliana.
-quickAnswer: El domingo 15 de noviembre de 2026 se celebra la Maratón de Palermo (Maratona Internazionale di Palermo), con una maratón y una media maratón que recorren las calles históricas de la capital siciliana. En la web oficial de la carrera podrá confirmar el lugar de salida y llegada, así como la inscripción. Conviene reservar con antelación el vuelo al aeropuerto Falcone-Borsellino de Palermo.
+srcHash: 'fbfc84efdaf1'
+title: 'Maratón de Palermo (Maratona Internazionale di Palermo): fechas, inscripción y recorrido (Palermo)'
+description: El Maratón de Palermo (Maratona Internazionale di Palermo) tenía fecha anunciada el 15 de noviembre de 2026, con un maratón y un medio maratón por las calles históricas de la ciudad.
+quickAnswer: La fecha anunciada del Maratón de Palermo (Maratona Internazionale di Palermo) era el domingo 15 de noviembre de 2026. El programa incluía un maratón y un medio maratón por las calles históricas de Palermo, la capital de Sicilia. El principal aeropuerto de la ciudad es el de Palermo Falcone-Borsellino, a unos 35 km al oeste del centro.
 faq:
-  - q: ¿Cuándo se celebra la Maratón de Palermo 2026?
-    a: La Maratona Internazionale di Palermo está prevista para el domingo 15 de noviembre de 2026 e incluye tanto una maratón como una media maratón. Los horarios de salida y el programa deben confirmarse en la web oficial de la carrera.
-  - q: ¿Dónde están la salida y la llegada de la Maratón de Palermo?
-    a: La prueba discurre por las calles históricas de Palermo. La web oficial de la carrera publica la ubicación exacta de la salida y la llegada junto con el mapa del recorrido, así que es mejor consultarla allí que fiarse de ediciones anteriores.
-  - q: ¿Necesitan certificado médico los corredores extranjeros?
-    a: Para correr en las carreras de ruta italianas suele exigirse una acreditación de aptitud para el deporte de competición, como un certificado médico con formato italiano o una licencia del tipo Runcard. En la página oficial de inscripción se indica qué documentos concretos acepta esta carrera.
+  - q: ¿Cuándo era el Maratón de Palermo 2026?
+    a: La Maratona Internazionale di Palermo tenía como fecha el domingo 15 de noviembre de 2026. Ese mismo día se disputaban, dentro del programa, un maratón y un medio maratón.
+  - q: ¿Dónde estaban la salida y la meta del Maratón de Palermo?
+    a: Según los organizadores, el recorrido discurría por las calles históricas de Palermo. Entre los lugares emblemáticos que enmarcan el casco antiguo figuran los Quattro Canti, el Teatro Massimo, la catedral de Palermo, el Foro Italico y la Via della Libertà.
+  - q: ¿Necesitaban los corredores extranjeros un certificado médico?
+    a: En las carreras en ruta de Italia suele exigirse una acreditación de aptitud para el deporte de competición, ya sea un certificado médico en formato italiano o una licencia del tipo Runcard. El reglamento de inscripción de cada prueba especifica qué documentos admite.
   - q: ¿Cómo se llega del aeropuerto de Palermo al centro de la ciudad?
-    a: 'Desde el aeropuerto Falcone-Borsellino (Punta Raisi) hay tres opciones: el tren Trinacria Express hasta Palermo Centrale, los autobuses que van al centro o un taxi de la parada situada a la salida de llegadas. El trayecto es de unos 35 km.'
-  - q: ¿Qué conviene comer en Palermo después de la carrera?
-    a: Merece la pena probar las arancine (así llaman en Palermo a las bolas de arroz fritas), las panelle dentro de un panecillo con sésamo, el sfincione y un cannolo recién relleno. Los mercados de Ballarò, Capo y la Vucciria son los lugares de siempre para la comida callejera.
+    a: Desde el aeropuerto Falcone-Borsellino (Punta Raisi), el tren Trinacria Express enlaza con Palermo Centrale y varios autobuses del aeropuerto cubren el trayecto hasta el centro. También hay una parada de taxis a la salida de la zona de llegadas. El recorrido es de unos 35 km.
+  - q: ¿Qué comer en Palermo después de la carrera?
+    a: La comida callejera clásica de Palermo incluye las arancine (así se llaman allí las bolas de arroz fritas), las panelle servidas en un panecillo de sésamo, el sfincione y el cannolo relleno al momento. Los mercados de Ballarò, Capo y la Vucciria son los lugares tradicionales para probarla.
 ---
 
 ## A mediados de noviembre, sobre piedra siciliana
 
-Pocas ciudades resultan tan singulares para correr como Palermo. El centro se organiza en una cuadrícula de calles barrocas donde se suceden cúpulas árabe-normandas y fachadas barrocas de iglesias, y la maratón lleva a los corredores justo por ese entramado. A mediados de noviembre ya escasean los pasajeros de los cruceros, y la ciudad vuelve a pertenecer, en buena medida, a los palermitanos.
+Pocas ciudades resultan tan singulares para correr como Palermo. Su centro se asienta sobre una trama de calles barrocas, cúpulas árabe-normandas y fachadas de iglesias barrocas, y el trazado del maratón se diseñó justo a través de ella. A mediados de noviembre los grupos de cruceristas ya suelen haber menguado, y la ciudad vuelve a ser casi por completo de los palermitanos.
 
-El evento combina una maratón con una media maratón, de modo que hay dos maneras de participar. La distancia completa es para quien quiera vivir la experiencia entera. La media es ideal si prefiere una mañana rápida seguida de un almuerzo largo.
+El evento combinaba un maratón con un medio maratón. Los participantes podían elegir entre la distancia completa, para vivir la experiencia entera, o la media, que dejaba una mañana rápida y tiempo de sobra para una larga comida después.
 
 ## Fechas, distancias e inscripción
 
-La fecha anunciada es el **domingo 15 de noviembre de 2026**. Las dos pruebas, la maratón y la media maratón, forman parte del mismo fin de semana.
+La fecha anunciada era el **domingo 15 de noviembre de 2026**. Las dos pruebas, el maratón y el medio maratón, formaban parte del mismo fin de semana.
 
-Los horarios, el lugar de recogida de dorsales y las inscripciones deben confirmarse en la web oficial. Como el programa del día de la carrera y los detalles del recorrido pueden variar de un año a otro, tome esa página como referencia antes que cualquier listado de terceros.
+Los horarios del día de la carrera, la entrega de dorsales y los detalles del recorrido pueden variar de un año a otro, de modo que lo establecido en una edición no siempre se mantiene en la siguiente.
 
-Lo primero que deben revisar los corredores extranjeros es la documentación médica. En las carreras de ruta italianas suele pedirse una acreditación de aptitud para el deporte de competición, ya sea un certificado médico con formato italiano o una licencia como la Runcard. En la página oficial de inscripción se explica qué documentos admite esta carrera. Resolverlo con tiempo le ahorrará disgustos en la feria del corredor.
+Para los corredores extranjeros, la documentación médica suele ser el trámite más complicado de la inscripción. Las carreras en ruta italianas acostumbran a pedir una acreditación de aptitud para el deporte de competición: un certificado médico en formato italiano o bien una licencia como la Runcard. El reglamento de cada prueba indica qué documentos acepta, y tener esta cuestión resuelta de antemano hacía mucho más tranquila la visita a la feria del corredor.
 
-## La sede: la propia ciudad
+## El escenario: la propia ciudad
 
-Aquí no hay estadio, ya que la sede es la red de calles de Palermo. Según el resumen de los organizadores, el recorrido transcurre por las calles históricas de la ciudad. Estos son los grandes referentes del casco antiguo:
+Aquí no hay estadio: la sede es el entramado de calles de Palermo. En su resumen, los organizadores describían un recorrido por las calles históricas de la ciudad. El casco antiguo queda enmarcado por estos lugares emblemáticos:
 
-- **Quattro Canti**: el cruce barroco donde se encuentran la Via Maqueda y la Via Vittorio Emanuele
-- **Teatro Massimo**: el mayor teatro de ópera de Italia, situado en lo alto de la Via Maqueda
-- **Catedral de Palermo**: en el Corso Vittorio Emanuele, mezcla estilos normando, gótico y otros posteriores
-- **Foro Italico**: un amplio parque frente al mar que bordea la bahía
-- **Via della Libertà**: un ancho bulevar del siglo XIX que se dirige hacia el norte, a la parte más moderna de la ciudad
+- **Quattro Canti**, el cruce barroco donde la Via Maqueda se encuentra con la Via Vittorio Emanuele
+- **Teatro Massimo**, el mayor teatro de ópera de Italia, en lo alto de la Via Maqueda
+- **Catedral de Palermo**, en el Corso Vittorio Emanuele, que mezcla el estilo normando, el gótico y otros posteriores
+- **Foro Italico**, el amplio parque abierto junto al mar a lo largo de la bahía
+- **Via della Libertà**, el ancho bulevar del siglo XIX que se dirige al norte, hacia la parte moderna de la ciudad
 
-El trazado exacto y los puntos de salida y llegada figuran en el mapa oficial del recorrido. No dé por hecho que la carrera pasa por ninguno de estos lugares.
+El resumen no precisaba por cuáles de estos puntos pasaba el recorrido ni dónde estaban exactamente la salida y la meta.
 
-El firme combina asfalto con el empedrado típico del Palermo antiguo. Con humedad, la piedra resbala, así que vale la pena llevar unas zapatillas con buen agarre por si llueve la mañana de la carrera.
+El firme de Palermo combina asfalto con el empedrado propio del casco antiguo. Esa piedra resbala cuando está mojada, por lo que en las mañanas de lluvia conviene una zapatilla con buen agarre.
 
 ## Cómo llegar a Palermo el fin de semana de la carrera
 
-La mayoría de los visitantes llega en avión al **aeropuerto Falcone-Borsellino** (Punta Raisi), situado en la costa a unos 35 km al oeste de la ciudad. Desde allí hay tres formas de llegar al centro:
+La mayoría de los visitantes llega en avión al **aeropuerto Falcone-Borsellino** (Punta Raisi), situado en la costa, a unos 35 km al oeste de la ciudad. Desde allí hay tres formas de llegar al centro:
 
 - El tren **Trinacria Express** hasta Palermo Centrale, con parada intermedia en Notarbartolo
 - Los **autobuses del aeropuerto**, que van al centro y a la zona de la estación Centrale
 - Los **taxis** de la parada situada a la salida de llegadas
 
-Quien ya se encuentre en Sicilia puede llegar a **Palermo Centrale**, en el extremo sur de la Via Roma, en tren regional o en autobús interurbano. Desde la estación, los barrios antiguos quedan a un corto paseo.
+Desde otros puntos de Sicilia, los trenes regionales y los autobuses interurbanos llegan a **Palermo Centrale**, en el extremo sur de la Via Roma. Desde allí se llega a pie en poco tiempo a los barrios antiguos.
 
-La elección del alojamiento influye mucho en la mañana de la carrera. Si la habitación está a poca distancia a pie de la salida, no tendrá que buscar transporte con las calles cortadas. Reserve pronto, porque en un fin de semana con una gran carrera los hoteles del centro se llenan enseguida.
+La ubicación del alojamiento cuenta mucho la mañana de la carrera. Alojarse a una distancia de la salida que pueda recorrerse a pie ahorra buscar transporte con las calles cortadas, y en los fines de semana de grandes carreras los hoteles céntricos suelen llenarse enseguida.
 
 ## Arancina, panelle y la recuperación tras la carrera
 
-Palermo presume de tener una de las mejores comidas callejeras de Italia, y aquí una carrera termina en el mostrador de una *friggitoria*. Con la medalla ya colgada, busque lo siguiente:
+Palermo presume de tener parte de la mejor comida callejera de Italia, y aquí una mañana de carrera termina, por tradición, en la barra de una friggitoria. Estos son los clásicos:
 
-- **Arancina**: la bola de arroz frita, que en Palermo se dice en femenino, *arancina*, y no *arancino* como en el este de Sicilia. Los rellenos clásicos son *al burro* (jamón y mozzarella) y *alla carne* (ragú de carne).
-- **Panelle y crocchè**: buñuelos de harina de garbanzo y croquetas de patata, que a menudo se sirven dentro de un panecillo tierno con sésamo
+- **Arancina**: la bola de arroz frita, que en Palermo recibe el nombre femenino de *arancina* (y no *arancino*, como en el este de Sicilia). Los rellenos tradicionales son *al burro* (jamón y mozzarella) y *alla carne* (ragú de carne).
+- **Panelle y crocchè**: buñuelos de garbanzo y croquetas de patata que a menudo se sirven dentro de un tierno panecillo de sésamo
 - **Sfincione**: la pizza palermitana, gruesa y esponjosa, cubierta de tomate, cebolla y pan rallado
-- **Pane con la milza**: el célebre bocadillo de bazo de la ciudad, para los más atrevidos
-- **Cannoli**: barquillos rellenos de ricota, mejor si los rellenan en el momento
+- **Pane con la milza**: el célebre bocadillo de bazo de la ciudad, solo para los más atrevidos
+- **Cannoli**: barquillos rellenos de ricotta, mejor si se rellenan al momento
 
-Para empaparse del ambiente, recorra los mercados antiguos. **Ballarò** se encuentra cerca de Palermo Centrale, **Capo** se extiende detrás del Teatro Massimo y la **Vucciria** está junto a la Piazza San Domenico. Algunos puestos tienen menos actividad los domingos, por lo que el día después de la carrera suele ser mejor para ir al mercado.
+Los mercados antiguos muestran todo este ambiente. **Ballarò** está cerca de Palermo Centrale; **Capo** se extiende detrás del Teatro Massimo, y la **Vucciria** queda junto a la Piazza San Domenico. Los domingos algunos puestos tienen menos actividad, así que el día siguiente a una carrera dominical suele ser mejor para recorrer los mercados.
 
 ## Ánimos, café y costumbres del día de la carrera
 
-En Palermo gran parte de la vida transcurre en la calle, y el día de la carrera no es una excepción. Estas pautas le ayudarán a integrarse.
+En Palermo buena parte de la vida transcurre en la calle, y los días de carrera no son una excepción. Algunas costumbres locales:
 
-**Junto al bordillo.** El público anima a los corredores al grito de «*Forza!*» o «*Dai, dai!*». Si quiere que unos desconocidos coreen su nombre, escríbalo en el dorsal o en la camiseta.
+**Junto al bordillo.** El público anima a los corredores al grito de «*Forza!*» o «*Dai, dai!*». Muchos corredores llevan su nombre de pila en el dorsal o en la camiseta para que los desconocidos puedan gritarlo.
 
-**En el bar.** La mañana de la carrera rigen las mismas costumbres cafeteras de toda Italia. En muchos bares primero se paga en la *cassa* y después se entrega el tique (*scontrino*) al camarero para tomarse el espresso de pie en la barra. Sentarse a una mesa puede salir más caro, y así lo indica la carta expuesta.
+**En el bar.** El protocolo italiano del café rige igual una mañana de carrera. En muchos bares se paga primero en la *cassa*, se entrega el tique (*scontrino*) al camarero y el espresso se toma de pie en la barra. Sentarse a una mesa puede salir más caro, como indica la carta expuesta.
 
-**Formas de pago.** Hoteles y restaurantes aceptan tarjeta casi siempre. En los pequeños puestos de mercado y los carritos de comida callejera se paga más bien en efectivo, así que guarde unas monedas para las arancine. En Italia no se espera propina, y basta con redondear o dejar algo de cambio si el servicio ha sido bueno.
+**Formas de pago.** Las tarjetas se aceptan en la mayoría de hoteles y restaurantes. Los pequeños puestos de mercado y los carritos de comida callejera funcionan más con efectivo, así que las monedas resultan útiles para las arancine. En Italia no se espera propina; basta con redondear o dejar algo de cambio si el servicio ha sido bueno.
 
-**Cortes de tráfico.** La mañana de la carrera, las calles del recorrido permanecen cerradas al tráfico durante horas. Si va a animar o no participa, organice sus desplazamientos a pie y consulte el aviso oficial de tráfico antes de salir.
+**Cortes de tráfico.** Las mañanas de carrera, las calles del recorrido se cierran al tráfico durante horas. Para los espectadores y quienes no corren, desplazarse a pie es lo más sencillo.
 
-## Prolongar el viaje más allá de la carrera
+## Alargar el viaje más allá de la carrera
 
-Sus piernas agradecerán un día de recuperación con pocos paseos, algo que Palermo pone fácil.
+En Palermo es fácil organizar un día de recuperación sin caminar demasiado.
 
-- **Palacio de los Normandos (Palazzo dei Normanni) y Capilla Palatina**: mosaicos bizantinos dorados que forman parte del conjunto árabe-normando de Palermo, declarado Patrimonio de la Humanidad por la UNESCO
+- **Palazzo dei Normanni y Cappella Palatina**: mosaicos bizantinos dorados que forman parte del conjunto del Palermo árabe-normando, declarado Patrimonio Mundial por la UNESCO
 - **Catedral de Monreale**: en la colina que domina la ciudad, alberga uno de los mayores ciclos de mosaicos del mundo cristiano
-- **Mondello**: el barrio playero de Palermo, a los pies del Monte Pellegrino, perfecto para un almuerzo tranquilo junto al mar
-- **Cefalù**: a una hora aproximada hacia el este en tren regional, con una catedral normanda y un puerto antiguo
+- **Mondello**: el barrio playero de Palermo, a los pies del Monte Pellegrino, ideal para una comida pausada frente al mar
+- **Cefalù**: a una hora aproximadamente al este en tren regional, con una catedral normanda y un puerto antiguo
 
-En noviembre estos lugares están en temporada baja, lo que suele traducirse en esperas más cortas que en verano. Los horarios cambian según la estación, así que consulte la página oficial de cada sitio antes de ir.
+Noviembre es temporada baja para estos lugares, lo que suele traducirse en esperas más cortas que en verano. El horario de apertura de cada sitio cambia según la temporada.

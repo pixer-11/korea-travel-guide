@@ -1,76 +1,76 @@
 ---
 lang: es
 slug: mexico-city-nascar-mexico-city-race-autodromo-hermanos-rodriguez
-srcHash: '6df89b0800ad'
-title: 'Carrera de NASCAR en Ciudad de México (Autódromo Hermanos Rodríguez): fechas, boletos y sede'
-description: La carrera de NASCAR en Ciudad de México está programada para finales de 2026 en el Autódromo Hermanos Rodríguez, un circuito situado dentro del complejo deportivo Magdalena Mixhuca, en Iztacalco, al oriente de la capital.
-quickAnswer: La carrera de NASCAR en Ciudad de México está programada para finales de 2026 en el Autódromo Hermanos Rodríguez, un circuito situado dentro del complejo deportivo Magdalena Mixhuca, en Iztacalco, al oriente de la capital. Las fechas y los enlaces de venta de boletos se publican en el sitio oficial de NASCAR y en los canales del propio Autódromo. La mayoría de los aficionados llega en la Línea 9 del Metro, hasta las estaciones Ciudad Deportiva o Velódromo.
+srcHash: '02e719088ead'
+title: 'Carrera de NASCAR en Ciudad de México (Autódromo Hermanos Rodríguez): fechas, boletos y sede (Ciudad de México)'
+description: La carrera de NASCAR en Ciudad de México (NASCAR Mexico City Race) estaba prevista para finales de 2026 en el Autódromo Hermanos Rodríguez, dentro de la Ciudad Deportiva Magdalena Mixhuca, en Iztacalco.
+quickAnswer: La carrera de NASCAR en Ciudad de México (NASCAR Mexico City Race) estaba programada para finales de 2026 en el Autódromo Hermanos Rodríguez. Este circuito se encuentra dentro de la Ciudad Deportiva Magdalena Mixhuca, en la alcaldía Iztacalco, al oriente de la capital. Fuera de México se le conoce sobre todo como sede del Gran Premio de México. La mayoría de los aficionados llega en la Línea 9 del Metro hasta la estación Ciudad Deportiva o la estación Velódromo.
 faq:
-  - q: ¿Cuándo es la carrera de NASCAR en Ciudad de México en 2026?
-    a: Según lo anunciado, esta edición está programada para finales de 2026. Los días exactos de competencia y el horario de las sesiones se publican en el sitio oficial de NASCAR y en los canales oficiales del Autódromo Hermanos Rodríguez.
+  - q: ¿Cuándo era la carrera de NASCAR en Ciudad de México en 2026?
+    a: La edición de 2026 estaba prevista para finales de ese año en el Autódromo Hermanos Rodríguez, el circuito situado dentro de la Ciudad Deportiva Magdalena Mixhuca, al oriente de Ciudad de México.
   - q: ¿Cómo se llega al Autódromo Hermanos Rodríguez?
-    a: Tome la Línea 9 del Metro hasta Ciudad Deportiva para las tribunas principales, o hasta Velódromo, una estación al oeste. En días de evento, las zonas de descenso de las aplicaciones de transporte quedan alejadas de los accesos, así que cuente con caminar el último tramo.
+    a: La Línea 9 del Metro llega a Ciudad Deportiva, la estación de las tribunas principales, y a Velódromo, una parada más al poniente. Los días de evento, los puntos de descenso de los servicios de transporte por aplicación quedan alejados de los accesos, por lo que los pasajeros recorren a pie el último tramo.
   - q: ¿Cuál es el mejor lugar para ver la carrera?
-    a: Si busca ambiente, la zona del estadio, donde los autos atraviesan el Estadio GNP Seguros rodeados de gradas por todos los lados. Si prefiere la velocidad máxima y la fuerte frenada antes de la curva 1, la recta principal.
-  - q: ¿Cuánto tiempo conviene reservar para la visita al circuito?
-    a: La mayoría de los aficionados dedica el día completo. Ven las sesiones de apoyo y la carrera principal, y luego esperan a que pase la primera aglomeración de la salida antes de dirigirse al Metro.
+    a: Quien busca ambiente encuentra su sitio en la zona del estadio, donde los autos atraviesan el Estadio GNP Seguros rodeados de gradas por todos lados. La recta principal, en cambio, ofrece la velocidad máxima y la fuerte frenada a la entrada de la curva 1.
+  - q: ¿Cuánto tiempo se pasa en el circuito?
+    a: La mayoría de los aficionados dedica el día completo. Ven las sesiones de las categorías de soporte y la carrera principal, y después dejan pasar la primera oleada de salida antes de dirigirse al Metro.
   - q: ¿Dónde suelen alojarse los aficionados que vienen de fuera?
-    a: Casi todos se hospedan en la Roma, la Condesa o el Centro Histórico. Estas zonas ofrecen muchos más lugares para comer y beber que Iztacalco, y cuentan con conexiones de Metro hacia la Línea 9.
+    a: Casi todos se hospedan en la Roma, la Condesa o el Centro Histórico. Estas zonas ofrecen muchos más sitios para comer y beber que Iztacalco, y tienen conexiones de Metro con la Línea 9.
 ---
 
-## Autos de serie a 2,240 metros
+## Stock cars a 2,240 metros
 
-Imagine una parrilla de NASCAR compitiendo a gran altitud. El Autódromo Hermanos Rodríguez se encuentra a unos 2,240 metros sobre el nivel del mar. A esa altura, el aire enrarecido resta potencia a los motores y alarga las zonas de frenado. También explica que muchos aficionados vuelvan a casa con quemaduras de sol.
+Ver un pelotón de NASCAR a gran altitud no es algo habitual. El Autódromo Hermanos Rodríguez se encuentra a unos 2,240 metros sobre el nivel del mar. Con el aire tan enrarecido, los motores pierden potencia y las zonas de frenada se alargan. Por eso mismo, también son muchos los aficionados que vuelven a casa quemados por el sol.
 
-El circuito debe su nombre a Ricardo y Pedro Rodríguez, los dos hermanos mexicanos que corrieron en la Fórmula 1 durante la década de 1960. En el extranjero se le conoce sobre todo como sede del Gran Premio de México, aunque NASCAR también ha escrito aquí su propia historia.
+El circuito debe su nombre a Ricardo y Pedro Rodríguez, los hermanos mexicanos que corrieron en la Fórmula 1 durante los años sesenta. En el extranjero se le conoce más como sede del Gran Premio de México, pero NASCAR también tiene aquí su propia historia.
 
 - La Xfinity Series corrió en este trazado entre 2005 y 2008, y Juan Pablo Montoya ganó la edición de 2007.
-- En junio de 2025, la Cup Series disputó aquí su primera carrera puntuable fuera de Estados Unidos. La victoria fue para Shane van Gisbergen.
+- En junio de 2025, la Cup Series disputó en este circuito su primera carrera puntuable fuera de Estados Unidos. El vencedor fue Shane van Gisbergen.
 
-## La fecha de 2026 y dónde comprar boletos
+## La fecha de 2026 y la venta de boletos
 
-Según lo anunciado, esta edición se celebrará a finales de 2026. Coincide con el calendario de automovilismo que cada año atrae al complejo a grandes multitudes de visitantes internacionales.
+La edición de 2026 estaba prevista para finales de ese año. Así quedaba situada en el tramo del calendario del automovilismo que cada año atrae a grandes multitudes internacionales al complejo.
 
-Los días exactos de competencia, el horario de las sesiones y los enlaces de venta de boletos se publican en el sitio oficial de NASCAR y en los canales oficiales del Autódromo Hermanos Rodríguez. Allí también figuran los nombres de las tribunas, las categorías de asientos y los precios. Esta guía no incluye cifras porque no se nos ha proporcionado ninguna.
+Las localidades del circuito se reparten entre tribunas con nombre propio y zonas de admisión general, y cada una ofrece su propia vista de la pista.
 
 ## Cómo llegar a la Magdalena Mixhuca
 
-El circuito forma parte de la Ciudad Deportiva Magdalena Mixhuca, un gran parque deportivo público de la alcaldía Iztacalco. Queda justo al sur de la vía rápida Viaducto Miguel Alemán, y el Aeropuerto Internacional Benito Juárez está a pocos minutos en coche hacia el norte.
+El circuito forma parte de la Ciudad Deportiva Magdalena Mixhuca, un amplio parque deportivo público de la alcaldía Iztacalco. Queda justo al sur del Viaducto Miguel Alemán, y el Aeropuerto Internacional Benito Juárez está a pocos minutos en auto hacia el norte.
 
-En día de carrera, la forma más sencilla de llegar es la Línea 9 del Metro, la línea café. Estas son las estaciones más próximas a los accesos:
+En día de carrera, la Línea 9 del Metro (la línea café) es la forma más sencilla de llegar. Estas son las estaciones más cercanas a los accesos:
 
-- **Ciudad Deportiva**: la opción habitual para llegar a las tribunas principales.
-- **Velódromo**: una estación al oeste, práctica para los accesos de ese lado del parque.
-- **Puebla**: una alternativa cuando los andenes más cercanos están saturados.
+- **Ciudad Deportiva**, la opción habitual para las tribunas principales
+- **Velódromo**, una parada más al poniente y práctica para los accesos de ese lado del parque
+- **Puebla**, la alternativa cuando los andenes más cercanos están saturados
 
-Cuando se controla el tráfico por grandes eventos, los conductores de aplicaciones de transporte no pueden acercarse a los accesos. Por eso, quienes llegan en Uber o DiDi suelen recorrer a pie el último tramo desde las zonas de descenso.
+Cuando se controla el tráfico por un gran evento, los conductores de aplicaciones no pueden acercarse a los accesos. Por eso, quienes llegan en Uber o DiDi suelen caminar el último tramo desde las zonas de descenso.
 
-## Tribunas, estadio y recta principal
+## Tribunas, el estadio y la recta
 
-La pista rodea el complejo y lo atraviesa, lo que ofrece dos experiencias muy distintas para ver la carrera.
+La pista rodea el complejo y lo atraviesa, lo que permite vivir la carrera de dos maneras muy distintas.
 
-El punto más famoso es la **zona del estadio**. Allí los autos serpentean por el interior del Estadio GNP Seguros, el antiguo Foro Sol, que es un estadio de béisbol. Sus gradas se elevan con fuerte pendiente por todos los lados, de modo que el griterío del público rebota sobre la pista. El ambiente recuerda al de un partido de fútbol, solo que con autos de serie en el campo.
+El punto más famoso es la **zona del estadio**. Allí los autos serpentean por el interior del Estadio GNP Seguros (antes Foro Sol), un estadio de béisbol cuyas gradas, muy empinadas, se levantan por todos los costados. El ruido del público rebota hacia la pista, y la sensación se parece a la de un partido de fútbol con stock cars en el campo.
 
-Desde las tribunas de la **larga recta principal** se aprecian la velocidad máxima y la fuerte frenada antes de la curva 1. Es ahí donde se producen muchos de los rebases de NASCAR en circuitos mixtos.
+Desde las tribunas de la **larga recta principal** se aprecian la velocidad máxima y la fuerte frenada a la entrada de la curva 1. Es ahí donde se producen muchos de los rebases propios de NASCAR en circuitos ruteros.
 
-Numerosos aficionados pasan la mayor parte del día en una sola zona y se desplazan a otra para ver un único tramo de la carrera. Esta estrategia funciona mejor con boletos de admisión general, que permiten moverse entre las distintas áreas.
+Muchos aficionados pasan la mayor parte del día en una misma zona y se desplazan a otra solo durante una tanda. Esto funciona mejor con boletos de admisión general, que permiten moverse de un área a otra.
 
-## Costumbres de los aficionados
+## Las costumbres de la afición local
 
-El público del automovilismo mexicano es ruidoso y organizado, y llega preparado para pasar un día largo a la intemperie.
+El público mexicano del automovilismo es ruidoso y organizado, y llega preparado para una larga jornada al aire libre.
 
-- **El pasaje del Metro** se paga con la *Tarjeta de Movilidad Integrada*, que es recargable. Los asiduos la recargan en las máquinas de la estación antes de la avalancha de la salida.
-- **Dentro del recinto** se paga tanto con tarjeta como en efectivo. Los puestos más pequeños del parque suelen preferir pesos.
-- **Protegerse del sol** es más importante de lo que sugiere la temperatura a esta altitud. Gorra, protector solar y una prenda ligera para cuando refresca por la tarde forman parte del equipo básico.
-- **Para pedir** bastan unas pocas palabras: *una cerveza*, *agua* y *la cuenta*.
-- **La salida** se produce por oleadas. Muchos prefieren esperar en el parque a que pase la primera aglomeración en lugar de sumarse a las multitudes de Ciudad Deportiva.
+- **El pasaje del Metro** se paga con la *Tarjeta de Movilidad Integrada*, que es recargable. Los habituales la recargan en las máquinas de la estación antes de la aglomeración de la salida.
+- **Dentro del recinto** se paga tanto con tarjeta como en efectivo. Los vendedores más pequeños de los alrededores del parque suelen preferir pesos.
+- **La protección contra el sol** importa más de lo que sugiere la temperatura a esta altitud. Gorra, protector solar y una prenda ligera para el fresco de la tarde forman parte del equipo habitual.
+- **Para pedir** basta con unas pocas palabras: *una cerveza*, *agua* y *la cuenta*.
+- **La salida** se produce por oleadas. Mucha gente espera en el parque a que pase la primera en lugar de sumarse a la multitud que se agolpa en Ciudad Deportiva.
 
-En los restaurantes con servicio a la mesa de los alrededores, la propina suele rondar entre el diez y el quince por ciento. En los puestos y concesiones nadie la espera.
+En los restaurantes cercanos con servicio a la mesa, la propina suele rondar entre el diez y el quince por ciento. En puestos y expendios no se acostumbra dejarla.
 
 ## Más allá del circuito
 
-La Ciudad Deportiva alberga también el Palacio de los Deportes, la arena de cúpula de cobre construida para los Juegos Olímpicos de 1968. Es un hito urbano que se distingue desde el Viaducto.
+La Ciudad Deportiva alberga también el Palacio de los Deportes, la arena de cúpula de cobre construida para los Juegos Olímpicos de 1968. Es un hito que se distingue desde el Viaducto.
 
-La mayoría de los aficionados que vienen de fuera no se aloja en Iztacalco. Prefieren la Roma, la Condesa o el Centro Histórico, donde la oferta gastronómica y la vida nocturna quedan a poca distancia de las estaciones de transbordo de la Línea 9. La estación Chilpancingo, por ejemplo, conecta la Línea 9 con el corredor de Insurgentes.
+La mayoría de los aficionados que vienen de fuera no se aloja en Iztacalco. Prefieren la Roma, la Condesa o el Centro Histórico, donde la oferta gastronómica y la vida nocturna quedan a un trayecto corto de las estaciones de transbordo de la Línea 9. La estación Chilpancingo, por ejemplo, conecta la Línea 9 con el corredor de Insurgentes.
 
-Un fin de semana de carreras deja tiempo para visitar el Zócalo y el Templo Mayor, en el centro antiguo. El Museo Nacional de Antropología, en Chapultepec, suele merecer por sí solo media jornada.
+Un fin de semana de carreras deja tiempo para visitar el Zócalo y el Templo Mayor, en el centro antiguo. El Museo Nacional de Antropología, en Chapultepec, suele requerir por sí solo medio día.

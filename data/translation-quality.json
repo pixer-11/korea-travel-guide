@@ -1630,13 +1630,6 @@
   "worst": "un plato de fideos con hueva de camarón o un acompañamiento de verdura",
   "at": "2026-08-15T10:38:27.524Z"
  },
- "es/chamonix-grotte-de-glace": {
-  "hash": "347c0ceae9ec",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "una cronología visible y aleccionadora, grabada literalmente en el propio hielo.",
-  "at": "2026-08-15T03:17:10.835Z"
- },
  "es/chamonix-parc-de-merlet": {
   "hash": "be614890cff9",
   "score": 1,
@@ -9015,13 +9008,6 @@
   "worst": "店内の様子...一食分というより、軽食程度の量を意図しているのです。",
   "at": "2026-08-15T10:35:57.007Z"
  },
- "ja/chamonix-grotte-de-glace": {
-  "hash": "c40a78ac63b6",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "洞窟は氷河の移動や融解に合わせて毎年新たに彫り直す必要があるため、通常は春から秋にかけて営業しています。",
-  "at": "2026-08-15T02:48:34.287Z"
- },
  "ja/chamonix-parc-de-merlet": {
   "hash": "e2b5f00353a7",
   "score": 1,
@@ -16226,11 +16212,11 @@
   "at": "2026-09-21T04:20:59.660Z"
  },
  "ko/busan-museum-1": {
-  "hash": "5d9a3f8d7ea2",
+  "hash": "659fded5db0f",
   "score": 1,
   "registerBreak": false,
   "worst": "센텀시티는 여행객 대부분이 진지한 미술 관람지를 기대하는 동네가 아닙니다.",
-  "at": "2026-09-21T04:21:06.593Z"
+  "at": "2026-11-16T17:28:40.864Z"
  },
  "ko/busan-namaste-haeundae": {
   "hash": "673e9d65e26c",
@@ -16436,18 +16422,18 @@
   "at": "2026-09-21T08:02:00.013Z"
  },
  "ko/central-central-mid-levels-escalators": {
-  "hash": "5c1679c783ac",
+  "hash": "1899eac78ccd",
   "score": 1,
   "registerBreak": false,
   "worst": "이 에스컬레이터를 타는 것은 사실 홍콩섬의 사회적 층위를 가로지르는 움직이는 단면도와 같아서",
-  "at": "2026-10-19T16:03:35.211Z"
+  "at": "2026-11-16T17:28:57.276Z"
  },
  "ko/central-cupping-room-central": {
-  "hash": "ffb108da19cb",
+  "hash": "9ef8ca3e2035",
   "score": 1,
   "registerBreak": false,
-  "worst": "리뷰 1,000개가 넘는 가운데 평점 4.0을 꾸준히 유지하고 있는데, 이는 모든 유행을 좇기보다",
-  "at": "2026-09-21T14:26:31.352Z"
+  "worst": "방문객들이 가장 흔히 하는 실수는 이곳을 잠깐 들러 에스프레소 한 잔 마시고 나가는 곳으로 여기는 것인데...",
+  "at": "2026-11-16T17:28:53.736Z"
  },
  "ko/central-hong-kong-zoological-and-botanical-gardens": {
   "hash": "b31f7906f1c7",
@@ -16476,13 +16462,6 @@
   "registerBreak": false,
   "worst": "가격대는 홍콩 기준으로도 다소 높은 편인데, 이는 양보다는 공간이 주는 분위기값에 가깝습니다.",
   "at": "2026-09-21T08:02:10.520Z"
- },
- "ko/chamonix-grotte-de-glace": {
-  "hash": "8b5eb0efbe87",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "지금 들어가는 동굴은 지난 시즌의 그것과 완전히 다릅니다.",
-  "at": "2026-09-21T08:02:14.617Z"
  },
  "ko/chamonix-parc-de-merlet": {
   "hash": "0f46feefa67c",
@@ -16527,11 +16506,11 @@
   "at": "2026-10-19T16:03:41.932Z"
  },
  "ko/chennai-arulmigu-marundeeswarar-temple": {
-  "hash": "62b4966b1af9",
+  "hash": "ac4925b9cfb8",
   "score": 1,
   "registerBreak": false,
-  "worst": "낮 시간대에 도착하면 문이 잠겨 있으니, 출발하기 전에 시간을 꼭 확인하세요.",
-  "at": "2026-09-21T08:02:16.875Z"
+  "worst": "예측에 따르면 토요일과 일요일은 오전 8시부터 낮 12시까지, 그리고 오후 5시부터 9시까지 붐비며",
+  "at": "2026-11-16T17:28:55.127Z"
  },
  "ko/chennai-government-museum-chennai": {
   "hash": "5e5478d5e799",
@@ -16541,11 +16520,11 @@
   "at": "2026-09-21T08:02:17.706Z"
  },
  "ko/chennai-snow-kingdom": {
-  "hash": "c2a8aa904820",
+  "hash": "1c74c4226b95",
   "score": 1,
   "registerBreak": false,
-  "worst": "더위에 지쳐 몸으로 느끼는 휴식이 필요한 첸나이의 모든 이들을 위한 곳입니다.",
-  "at": "2026-10-19T16:03:36.959Z"
+  "worst": "대부분의 방문객은 한 시간에서 90분 정도면 이 모든 것을 다 둘러봅니다.",
+  "at": "2026-11-16T17:28:57.701Z"
  },
  "ko/chiang-mai-best-khao-soi-chang-mai": {
   "hash": "ec7b44edde96",
@@ -16576,11 +16555,11 @@
   "at": "2026-09-28T07:59:18.048Z"
  },
  "ko/chiang-mai-royal-park-rajapruek": {
-  "hash": "f5645ba900b7",
+  "hash": "1c1b524f1434",
   "score": 1,
   "registerBreak": false,
-  "worst": "주말에 방문하신다면 평일보다 붐빌 것을 감안해 계획을 세우시거나, 일정이 가능하다면 평일 방문으로",
-  "at": "2026-10-26T17:55:45.748Z"
+  "worst": "발이 편하게 감싸이는 신발을 신으세요. 자갈길과 고르지 않은 정원 길이 곳곳에 있습니다.",
+  "at": "2026-11-16T17:29:08.613Z"
  },
  "ko/chiang-mai-the-baristro-asian-style": {
   "hash": "d1b664a1a6d7",
@@ -16611,11 +16590,11 @@
   "at": "2026-09-21T08:02:32.414Z"
  },
  "ko/chiang-rai-baan-dam-museum": {
-  "hash": "ff224a0c96cc",
+  "hash": "d599b73011bb",
   "score": 1,
   "registerBreak": false,
   "worst": "입구 근처의 커다란 검은 홀만 대충 둘러보고 나가버리는 것은 대부분의 초행자들이 저지르는 실수입니다.",
-  "at": "2026-09-12T13:03:53.281Z"
+  "at": "2026-11-16T17:29:00.108Z"
  },
  "ko/chiang-rai-khao-soi-restaurant": {
   "hash": "890c1da764d6",
@@ -16681,11 +16660,11 @@
   "at": "2026-09-21T08:02:40.280Z"
  },
  "ko/chiba-aobanomori-park": {
-  "hash": "ab247ebd9e8b",
+  "hash": "0304070659db",
   "score": 1,
   "registerBreak": false,
   "worst": "많은 도심 공원들이 시도하지만 좀처럼 성공하지 못하는 일을 해냅니다.",
-  "at": "2026-09-21T08:02:47.555Z"
+  "at": "2026-11-16T17:29:10.388Z"
  },
  "ko/chiba-chiba-park": {
   "hash": "71390a90bdfd",
@@ -16709,11 +16688,11 @@
   "at": "2026-09-21T14:26:39.345Z"
  },
  "ko/chiba-national-museum-of-japanese-history": {
-  "hash": "98667089571f",
+  "hash": "c0a516e51d2d",
   "score": 1,
   "registerBreak": false,
-  "worst": "평일 방문은 예상대로 전반적으로 훨씨 한산한데, 이는 박물관을 찾는 학생 단체들이 꾸준히 오는 게 아니라 정해진 일정에",
-  "at": "2026-10-26T17:55:48.817Z"
+  "worst": "이곳의 이야기를 이끄는 것은 단순한 유리 진열장이 아니라 실물 크기의 재현물들입니다.",
+  "at": "2026-11-16T17:29:16.698Z"
  },
  "ko/chiba-tokyo-and-osaka-summer-sonic-2026": {
   "hash": "e3e6ce6fd4aa",
@@ -16723,11 +16702,11 @@
   "at": "2026-09-21T14:26:45.876Z"
  },
  "ko/chicago-360-chicago": {
-  "hash": "1054bae14220",
+  "hash": "b85289b14eb2",
   "score": 1,
   "registerBreak": false,
-  "worst": "티켓 요금이나 바 이용 요금은 미국의 다른 주요 명소들과 마찬가지로 결제하시면 되며, 카드 결제가 일반적이고",
-  "at": "2026-09-21T14:26:48.495Z"
+  "worst": "티켓 요금이나 바 이용 요금은 미국의 다른 주요 명소들과 마찬가지로 결제하시면 되며, 카드 결제가 일반적이고 현금은 거의 필요하지 않습니다.",
+  "at": "2026-11-16T17:29:11.848Z"
  },
  "ko/chicago-billy-goat-tavern-the-original": {
   "hash": "466a1dc2b6d2",
@@ -16751,11 +16730,11 @@
   "at": "2026-09-13T14:55:58.328Z"
  },
  "ko/chicago-garfield-park-conservatory": {
-  "hash": "76e73fd39e4c",
+  "hash": "b6d8b5851d7f",
   "score": 1,
   "registerBreak": false,
-  "worst": "각 방마다 고유한 기후와 저마다 발걸음을 늦출 이유를 갖추고 있습니다.",
-  "at": "2026-11-02T17:40:32.774Z"
+  "worst": "벗어 들 수 있는 겉옷을 겹쳐 입는 것이 좋습니다.",
+  "at": "2026-11-16T17:29:22.246Z"
  },
  "ko/chicago-illinois-lollapalooza-2026": {
   "hash": "691060728e62",
@@ -23337,13 +23316,6 @@
   "worst": "聪明的做法是提前避开人潮高峰，而不是假装人潮不存在。",
   "at": "2026-08-15T10:42:37.928Z"
  },
- "zh/chamonix-grotte-de-glace": {
-  "hash": "3f41763377be",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "当地人应对的办法不是刻意避开人群，而是精心安排时间——搭乘首班车、选择平季出行、工作日优于周末。",
-  "at": "2026-08-15T03:46:38.003Z"
- },
  "zh/chamonix-parc-de-merlet": {
   "hash": "43fe85b7dbce",
   "score": 1,
@@ -29407,11 +29379,11 @@
   "at": "2026-10-05T16:36:30.491Z"
  },
  "ko/busan-yongdusan-park": {
-  "hash": "a10ad9a9ec54",
+  "hash": "be106549d6bb",
   "score": 1,
   "registerBreak": false,
-  "worst": "공원은 중구의 낮은 언덕 위에 자리 잡고 있는데, 하나의 볼거리라기보다는 여러 겹으로 쌓인 공간에 가깝습니다.",
-  "at": "2026-10-26T17:55:35.048Z"
+  "worst": "공원은 문을 닫는 법이 없어서 정문도, 입장권도 따로 없습니다.",
+  "at": "2026-11-16T17:28:35.081Z"
  },
  "ko/bukit-timah-bukit-timah-plaza": {
   "hash": "50e793d3e662",
@@ -29435,18 +29407,18 @@
   "at": "2026-10-19T16:03:38.623Z"
  },
  "ko/chiang-mai-three-kings-monument": {
-  "hash": "36040fc0c19d",
+  "hash": "f64d36d5efd5",
   "score": 1,
   "registerBreak": false,
-  "worst": "노점들이 종종 프라포클라오 로드까지 넘쳐 나오는 탓에, 이날 밤에는 동상 주변도 더 붐비게 됩니다.",
-  "at": "2026-09-28T07:59:22.102Z"
+  "worst": "해가 진 뒤에는 조명이 동상을 밝힙니다.",
+  "at": "2026-11-16T17:29:10.400Z"
  },
  "ko/chiayi-hinoki-village": {
-  "hash": "600af3993cad",
+  "hash": "d32e3ec6a68d",
   "score": 1,
   "registerBreak": false,
-  "worst": "관건은 비밀스러운 장소를 찾는 것이 아니라 타이밍입니다.",
-  "at": "2026-10-12T01:47:19.857Z"
+  "worst": "자이는 아리산에서 벌목한 히노키 편백나무로 부를 쌓았고, 이 마을은 그 목재 산업을 관리하던 노동자들이 살던 곳이었습니다.",
+  "at": "2026-11-16T17:29:03.077Z"
  },
  "ko/chiayi-wenhua-road-night-market": {
   "hash": "32e25e87fba9",
@@ -29827,11 +29799,11 @@
   "at": "2026-10-26T17:55:34.823Z"
  },
  "ko/cairns-cairns-aquarium": {
-  "hash": "60cc508b75d3",
+  "hash": "5a1cdce8adee",
   "score": 1,
   "registerBreak": false,
   "worst": "전시는 서로 다른 여러 생태계를 차례로 거치며, 각 생태계는 그 여정의 한 단계를 보여 주도록 꾸며져 있습니다.",
-  "at": "2026-10-26T17:55:34.392Z"
+  "at": "2026-11-16T17:28:36.490Z"
  },
  "ko/chandigarh-quick-style-india-tour-2026": {
   "hash": "798abb703233",
@@ -29855,11 +29827,11 @@
   "at": "2026-10-12T00:21:19.101Z"
  },
  "ko/canberra-cockington-green-gardens": {
-  "hash": "622ff967f177",
+  "hash": "877177183218",
   "score": 1,
   "registerBreak": false,
-  "worst": "오후 4시 45분에 도착했는데 문이 닫혀 있다면 먼 길을 헛걸음한 셈이 됩니다.",
-  "at": "2026-10-26T17:55:40.477Z"
+  "worst": "혼잡도 정보만 보면 계획은 간단합니다.",
+  "at": "2026-11-16T17:28:51.720Z"
  },
  "ko/darwin-darwin-military-museum": {
   "hash": "a0f9a4777ee2",
@@ -31108,11 +31080,11 @@
   "at": "2026-10-05T16:36:41.737Z"
  },
  "ko/cairns-cairns-botanic-gardens": {
-  "hash": "38c399b4e6b7",
+  "hash": "4093be87b3e6",
   "score": 0,
   "registerBreak": false,
   "worst": "",
-  "at": "2026-10-12T00:21:10.048Z"
+  "at": "2026-11-16T17:28:37.569Z"
  },
  "ko/cairns-cairns-museum": {
   "hash": "d8d9374b2eb7",
@@ -31122,11 +31094,11 @@
   "at": "2026-10-05T16:36:45.432Z"
  },
  "ko/cairns-the-chambers": {
-  "hash": "90b5e7fe4004",
+  "hash": "83b288999391",
   "score": 1,
   "registerBreak": false,
   "worst": "더 체임버스의 진가는 여기서 드러납니다.",
-  "at": "2026-10-05T16:36:45.474Z"
+  "at": "2026-11-16T17:28:38.744Z"
  },
  "ko/canberra-national-arboretum-canberra": {
   "hash": "a8f201cfe0f7",
@@ -32445,11 +32417,11 @@
   "at": "2026-10-12T01:46:58.357Z"
  },
  "ko/cardiff-cardiff-castle": {
-  "hash": "af8f5c8f58a4",
+  "hash": "bbba85dbd445",
   "score": 1,
   "registerBreak": false,
-  "worst": "여유를 갖고 위를 올려다보시기 바랍니다.",
-  "at": "2026-10-12T01:47:00.158Z"
+  "worst": "여유를 갖고 위를 올려다보시기 바랍니다. 버지스의 솜씨가 가장 대담하게 발휘된 곳이 천장입니다.",
+  "at": "2026-11-16T17:28:50.988Z"
  },
  "ko/berlin-mcnd-berlin-2026": {
   "hash": "a40c300ee8d9",
@@ -36309,11 +36281,11 @@
   "at": "2026-10-19T16:03:21.301Z"
  },
  "ko/byron-bay-bangalow-heritage-house-museum": {
-  "hash": "15bcaa9bc7c5",
+  "hash": "c3b342c7ba88",
   "score": 1,
   "registerBreak": false,
-  "worst": "눈여겨볼 주제들은 마을의 역사를 따라갑니다.",
-  "at": "2026-11-02T17:40:18.716Z"
+  "worst": "전시실을 혼자 차지하고 둘러보는 일도 흔합니다.",
+  "at": "2026-11-16T17:28:43.889Z"
  },
  "ko/busan-g-star-2026": {
   "hash": "a4093760fa4f",
@@ -36330,11 +36302,11 @@
   "at": "2026-10-19T16:03:26.934Z"
  },
  "ko/cardiff-national-museum-cardiff": {
-  "hash": "47eb746e76f4",
+  "hash": "86485cfbd192",
   "score": 1,
   "registerBreak": false,
-  "worst": "현재 5pm에 문을 닫으므로 3:30pm 이후에 들어가면 두 층을 다 보기에는 시간이 빠듯합니다.",
-  "at": "2026-10-19T16:03:31.780Z"
+  "worst": "고고학과 미술, 자연사에 순회 특별전까지 웅장한 공간 한곳에서 모두 만날 수 있다는 것입니다.",
+  "at": "2026-11-16T17:28:58.548Z"
  },
  "ko/cardiff-shree-swaminarayan-temple-cardiff": {
   "hash": "42b0f3b85ee0",
@@ -36344,11 +36316,11 @@
   "at": "2026-10-19T16:03:33.975Z"
  },
  "ko/chennai-wta-chennai-open": {
-  "hash": "736294960ece",
+  "hash": "84167abe33f6",
   "score": 1,
   "registerBreak": false,
-  "worst": "관중은 야외 하드코트를 둘러싼 계단식 관중석에 앉고, 바닷가 특유의 눅눅한 공기가 경기장을 무겁게 채웁니다.",
-  "at": "2026-10-19T16:03:46.574Z"
+  "worst": "대진은 투어 측이 정합니다. 많은 팬은 대회 주간 중 초반 라운드를 가장 알찬 시기로 꼽습니다.",
+  "at": "2026-11-16T17:28:58.741Z"
  },
  "ko/dresden-dresdner-striezelmarkt": {
   "hash": "a0925242a19e",
@@ -37800,25 +37772,25 @@
   "at": "2026-10-26T17:55:33.149Z"
  },
  "ko/calgary-heritage-park": {
-  "hash": "853b103eba8e",
+  "hash": "4cb41f6be7dd",
   "score": 1,
   "registerBreak": false,
-  "worst": "정문을 지나 길로 들어서는 순간 1910년으로 시간 여행이 시작됩니다.",
-  "at": "2026-10-26T17:55:35.966Z"
+  "worst": "가장 붐비는 시간은 주말 오전 10시부터 오후 5시까지로, 사실상 운영 시간 거의 전부에 해당합니다.",
+  "at": "2026-11-16T17:28:46.897Z"
  },
  "ko/calgary-studio-bell-home-of-the-national-music-centre": {
-  "hash": "5147445ac638",
+  "hash": "d68cb36d5e78",
   "score": 1,
   "registerBreak": false,
   "worst": "외벽은 유약을 바른 테라코타 타일로 덮여 있는데, 그 곡선이 마치 기타 몸통을 닮았습니다.",
-  "at": "2026-10-26T17:55:36.105Z"
+  "at": "2026-11-16T17:28:47.309Z"
  },
  "ko/calgary-wonderland-sculpture": {
-  "hash": "019af29d5e7f",
+  "hash": "e8704c38095f",
   "score": 1,
   "registerBreak": false,
-  "worst": "광장은 야외 공간이고 현재 24시간 개방되는 것으로 안내되어 있으니 언제 갈지는 마음대로 정하면 됩니다.",
-  "at": "2026-10-26T17:55:42.607Z"
+  "worst": "안에서 위를 올려다보면 와이어 격자 사이로 더 보우의 상층부가 액자처럼 담깁니다.",
+  "at": "2026-11-16T17:28:52.292Z"
  },
  "ko/chennai-wtt-feeder-chennai-2026": {
   "hash": "3b08531647ef",
@@ -37842,18 +37814,18 @@
   "at": "2026-10-26T17:55:48.457Z"
  },
  "ko/christchurch-air-force-museum-of-new-zealand": {
-  "hash": "4f48fa2332aa",
+  "hash": "c5c6bbd064b2",
   "score": 1,
   "registerBreak": false,
-  "worst": "대부분의 방문객이 보러 오는 전투기, 슈퍼마린 스핏파이어",
-  "at": "2026-11-02T17:40:34.678Z"
+  "worst": "교통이 평소 수준이라면 도심에서 차로 15~20분 정도 걸립니다.",
+  "at": "2026-11-16T17:29:16.499Z"
  },
  "ko/christchurch-cardboard-cathedral": {
-  "hash": "503735f1f347",
+  "hash": "d3ccd1662fb8",
   "score": 1,
   "registerBreak": false,
   "worst": "저렴하고 빠르게 지을 수 있으며 재활용도 가능한 재료를 정성껏 다루는 것은 반 시게루가 자주 쓰는 방식입니다.",
-  "at": "2026-11-02T17:40:35.822Z"
+  "at": "2026-11-16T17:29:15.596Z"
  },
  "ko/christchurch-barnett-park-cave": {
   "hash": "374f190ddddc",
@@ -37877,18 +37849,18 @@
   "at": "2026-10-26T17:55:50.918Z"
  },
  "ko/christchurch-christchurch-tram": {
-  "hash": "0955d18dfb1e",
+  "hash": "0ebb3fa34582",
   "score": 1,
   "registerBreak": false,
-  "worst": "측정된 한산한 시간대는 평일과 주말 모두 5pm–6pm입니다.",
-  "at": "2026-10-26T17:55:54.655Z"
+  "worst": "예측상 한산한 시간대는 평일과 주말 모두 오후 5시–6시입니다.",
+  "at": "2026-11-16T17:29:20.566Z"
  },
  "ko/christchurch-christchurch-botanic-gardens": {
-  "hash": "a82955e08d67",
+  "hash": "c63721d5d4f0",
   "score": 1,
   "registerBreak": false,
-  "worst": "캔터베리 지방의 겨울에는 이 온실만큼 따뜻한 곳이 시내에 없습니다.",
-  "at": "2026-10-26T17:55:57.292Z"
+  "worst": "이곳의 모양을 결정한 것은 에이번강입니다.",
+  "at": "2026-11-16T17:29:28.146Z"
  },
  "ko/christchurch-new-zealand-world-peace-bell": {
   "hash": "74af2d9f6dd0",
@@ -38038,11 +38010,11 @@
   "at": "2026-10-27T17:29:31.118Z"
  },
  "ko/cafayate-bodega-vasija-secreta": {
-  "hash": "12a09601886b",
+  "hash": "771f0980653b",
   "score": 1,
   "registerBreak": false,
   "worst": "그다음에는 위치의 이점을 살리십시오.",
-  "at": "2026-11-02T17:40:19.451Z"
+  "at": "2026-11-16T17:28:41.280Z"
  },
  "zh/arequipa-mirador-de-sachaca": {
   "hash": "496e5a584b7e",
@@ -38346,11 +38318,11 @@
   "at": "2026-11-02T17:40:20.517Z"
  },
  "ko/cambridge-cambridge-university-botanic-garden": {
-  "hash": "7894d13b223b",
+  "hash": "364fe2d53ede",
   "score": 1,
   "registerBreak": false,
-  "worst": "헨슬로가 남긴 살아 있는 식물 목록",
-  "at": "2026-11-02T17:40:21.562Z"
+  "worst": "섬처럼 떨어진 화단 여러 개가 넓게 모여 있으며, 식물학자들이 분류한 순서대로 식물을 과별로 묶어 심었습니다.",
+  "at": "2026-11-16T17:28:52.204Z"
  },
  "zh/cambridge-cambridge-market-square": {
   "hash": "605538e9d1da",
@@ -38689,11 +38661,11 @@
   "at": "2026-11-02T17:39:55.262Z"
  },
  "ko/batnorov-winter-horse-festival-steppe-horse-festival": {
-  "hash": "5cbb38c74b2e",
-  "score": 0,
+  "hash": "0c080c8f8a75",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-11-02T08:11:29.262Z"
+  "worst": "목축을 삶으로 살아가는 사람들이 직접 그 기량을 가늠하는 자리였던 셈입니다.",
+  "at": "2026-11-16T17:28:18.594Z"
  },
  "ko/batumi-splin-batumi": {
   "hash": "40a5f4fe7d9a",
@@ -38731,11 +38703,11 @@
   "at": "2026-11-02T08:11:41.488Z"
  },
  "ko/berlin-leenalchi-concert": {
-  "hash": "3d795dd60830",
+  "hash": "56264793b707",
   "score": 1,
   "registerBreak": false,
-  "worst": "처음 온 관객 중에도 철자도 모르는 선율을 흥얼거리며 공연장을 나서는 사람이 많습니다.",
-  "at": "2026-11-02T08:11:44.655Z"
+  "worst": "이야기 속에서 자라는 용왕의 병을 고칠 토끼의 간을 구하러 바닷속 용궁에서 뭍으로 길을 나섭니다.",
+  "at": "2026-11-16T17:28:27.025Z"
  },
  "ko/bologna-cesare-cremonini-amatour": {
   "hash": "4c5ca245708a",
@@ -38822,18 +38794,18 @@
   "at": "2026-11-02T17:40:20.374Z"
  },
  "ko/calgary-113th-grey-cup": {
-  "hash": "8f50557971a5",
+  "hash": "a25c88c022f5",
   "score": 1,
   "registerBreak": false,
-  "worst": "따뜻한 부츠(콘크리트 바닥이 발의 열을 빼앗아 갑니다)",
-  "at": "2026-11-02T17:40:22.400Z"
+  "worst": "결승에 오를 두 팀은 리그가 한 주 전 주말에 치르는 지구 결승에서 가려집니다.",
+  "at": "2026-11-16T17:28:28.382Z"
  },
  "ko/cebu-city-sinulog-festival": {
-  "hash": "215fd5e5c729",
+  "hash": "8bf5e1b11780",
   "score": 1,
   "registerBreak": false,
-  "worst": "무용수들과 같은 순간에 손을 흔들며 그 물결에 함께한다",
-  "at": "2026-11-02T17:40:24.951Z"
+  "worst": "무용단들은 깃털과 스팽글로 장식한 의상을 입고 북소리에 맞춰 춤을 춥니다.",
+  "at": "2026-11-16T17:28:53.042Z"
  },
  "ko/cardiff-the-cardiff-market": {
   "hash": "f8af7699ca9a",
@@ -38843,11 +38815,11 @@
   "at": "2026-11-02T17:40:28.237Z"
  },
  "ko/changzhou-zhou-shen-concert": {
-  "hash": "1c1ea8924dc0",
+  "hash": "bc6b3ff57e76",
   "score": 1,
   "registerBreak": false,
-  "worst": "공식 응원봉은 이날 밤의 큰 부분을 차지합니다.",
-  "at": "2026-11-02T17:40:29.940Z"
+  "worst": "관객이 그의 공연 티켓을 사는 이유는 높고 맑은 음색 때문입니다.",
+  "at": "2026-11-16T17:28:54.111Z"
  },
  "ko/chicago-katseye-wildworld-tour": {
   "hash": "54da879950fe",
@@ -38857,11 +38829,11 @@
   "at": "2026-11-02T17:40:33.154Z"
  },
  "ko/chonburi-bangsaen42-chonburi-marathon": {
-  "hash": "cc64dc18f229",
-  "score": 0,
+  "hash": "0b925e473c96",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-11-02T17:40:33.825Z"
+  "worst": "태국의 로드 레이스는 더위가 시작되기 전에 완주할 수 있도록 관례적으로 해 뜨기 한참 전에 출발합니다.",
+  "at": "2026-11-16T17:29:13.242Z"
  },
  "ko/china-victor-badminton-asia-senior-championships": {
   "hash": "9e13d6a92b69",
@@ -38871,11 +38843,11 @@
   "at": "2026-11-02T17:40:34.450Z"
  },
  "ko/christchurch-all-whites-v-india-international-friendly": {
-  "hash": "958f2a8b506f",
+  "hash": "2bea067ee196",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 도시는 오랫동안 도심 경기장 없이 지냈습니다.",
-  "at": "2026-11-02T17:40:34.681Z"
+  "worst": "뉴질랜드가 2026 월드컵 도전을 마친 지 몇 달 만에 잡힌 경기였기 때문입니다.",
+  "at": "2026-11-16T17:29:14.239Z"
  },
  "ko/chonburi-tomorrowland-thailand": {
   "hash": "e3aeba6b87cb",
@@ -38885,11 +38857,11 @@
   "at": "2026-11-02T17:40:40.477Z"
  },
  "ko/christchurch-blackcaps-v-india-test-match": {
-  "hash": "0182e88e6da1",
+  "hash": "d31eb90dd2d1",
   "score": 1,
   "registerBreak": false,
-  "worst": "현지인들은 자외선 차단제를 티켓만큼이나 필수로 여깁니다.",
-  "at": "2026-11-02T17:40:42.973Z"
+  "worst": "근처 카페에서 사 온 커피를 들고 잔디밭에 앉아 오전 중반을 맞이하며, 하루 경기를 처음부터 즐길 수 있습니다.",
+  "at": "2026-11-16T17:29:19.679Z"
  },
  "es/guadalajara-fiestas-de-octubre-guadalajara": {
   "hash": "104969bc0549",
@@ -39095,11 +39067,11 @@
   "at": "2026-11-09T08:14:53.726Z"
  },
  "ko/chiayi-taiping-old-street": {
-  "hash": "894fba33c972",
+  "hash": "6e440f7bc907",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 여행을 특별하게 만드는 것은 바로 길입니다.",
-  "at": "2026-11-05T07:57:03.028Z"
+  "worst": "인파를 피할 수 있으리라 기대하기보다는 붐빌 것을 전제로 일정을 짜시는 편이 낫습니다.",
+  "at": "2026-11-16T17:29:11.505Z"
  },
  "ko/christchurch-the-bealey": {
   "hash": "64febc67f6b4",
@@ -39795,11 +39767,11 @@
   "at": "2026-11-16T07:46:38.443Z"
  },
  "ko/cairo-al-azhar-park": {
-  "hash": "c5c73129c8a6",
+  "hash": "5748bd797baf",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 공원은 카이로에서 리뷰가 가장 많은 명소 중 하나로, 이미 널리 알려진 곳입니다.",
-  "at": "2026-11-10T07:54:39.012Z"
+  "worst": "그 사이로 중세 카이로 한복판의 언덕을 따라 잘 다듬은 잔디밭과 수로, 야자수가 펼쳐집니다.",
+  "at": "2026-11-16T17:28:49.573Z"
  },
  "zh/alexandria-alexandria-national-museum": {
   "hash": "f378378a4164",
@@ -40773,5 +40745,222 @@
   "registerBreak": false,
   "worst": "전용 공연장으로 지어진 이곳은 지붕이 완전히 덮여 있습니다.",
   "at": "2026-11-16T07:47:16.328Z"
+ },
+ "es/batnorov-winter-horse-festival-steppe-horse-festival": {
+  "hash": "01b45b5f1478",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "estar quieto roba el calor más deprisa que caminar",
+  "at": "2026-11-16T17:27:55.316Z"
+ },
+ "es/berlin-leenalchi-concert": {
+  "hash": "57abd0210909",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "LEENALCHI tenía fecha en esa sala el 15 de noviembre de 2026.",
+  "at": "2026-11-16T17:28:02.919Z"
+ },
+ "es/brisbane-rugby-league-world-cup-2026-final": {
+  "hash": "3bd454f932c4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "A quien tuviera la mañana libre le resultaba fácil visitar los jardines de South Bank",
+  "at": "2026-11-16T17:28:05.919Z"
+ },
+ "ja/batnorov-winter-horse-festival-steppe-horse-festival": {
+  "hash": "d2859c743afd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "つまり、牧畜文化を、それを日々生きる人々自身が審査する場というわけです。",
+  "at": "2026-11-16T17:28:07.111Z"
+ },
+ "ja/berlin-leenalchi-concert": {
+  "hash": "968a209fc02f",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-16T17:28:08.148Z"
+ },
+ "ja/calgary-113th-grey-cup": {
+  "hash": "c57a8fd857aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "食べ物や音楽、仮装も、ここに来る理由の半分を占めています。",
+  "at": "2026-11-16T17:28:13.971Z"
+ },
+ "zh/batnorov-winter-horse-festival-steppe-horse-festival": {
+  "hash": "7cc636ab609a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "换句话说，评判游牧文化的，正是世世代代以此为生的牧民自己。",
+  "at": "2026-11-16T17:28:29.514Z"
+ },
+ "zh/berlin-leenalchi-concert": {
+  "hash": "4e2134ac27f0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "此人既是走绳杂技艺人，也是盘索里歌手，后世对他的这两重身份都有记忆。",
+  "at": "2026-11-16T17:28:30.679Z"
+ },
+ "zh/calgary-113th-grey-cup": {
+  "hash": "88a90854f788",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "卡尔加里的11月中旬，白天气温通常在零度上下，下雪也很常见。但钦诺克风也可能从山那边送来暖空气",
+  "at": "2026-11-16T17:28:32.183Z"
+ },
+ "ko/brisbane-rugby-league-world-cup-2026-final": {
+  "hash": "c4ca97f3c0ec",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "큰 경기가 있는 날 경기장 안은 대개 다음과 같이 돌아갑니다.",
+  "at": "2026-11-16T17:28:35.083Z"
+ },
+ "ko/bandung-playlist-rewind-festival-2026": {
+  "hash": "618206e0a6d6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다른 지역에서 오는 방문객이 가장 얕보기 쉬운 부분입니다.",
+  "at": "2026-11-16T17:28:39.191Z"
+ },
+ "ko/cairo-cairo-international-art-festival": {
+  "hash": "360e6a24cec2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "하루에 두 번씩 도시를 가로지르는 사람보다 장소를 지구별로 묶어 다니는 사람이 대개 훨씬 많은 것을 봅니다.",
+  "at": "2026-11-16T17:28:40.575Z"
+ },
+ "ko/cairo-cairo-tower": {
+  "hash": "80a2f3263afe",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-16T17:28:41.965Z"
+ },
+ "ko/cairo-coptic-museum": {
+  "hash": "b8f9dfdbfcee",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "최초의 십자가가 새겨지던 무렵과 불과 한두 세기 차이로 만들어진 것들입니다.",
+  "at": "2026-11-16T17:28:42.580Z"
+ },
+ "ko/cairo-khan-el-khalili": {
+  "hash": "1fdfb33f8c0d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이번 주 일정을 기준으로 현재 상점은 매일 오전 11시부터 오후 11시까지 문을 엽니다.",
+  "at": "2026-11-16T17:28:43.839Z"
+ },
+ "ko/cairo-cairo-international-film-festival": {
+  "hash": "5c1abcadfc07",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "해외 관객에게 다른 곳에서 가장 만나기 어려운 부문은 단연 아랍 영화의 지평입니다.",
+  "at": "2026-11-16T17:28:44.475Z"
+ },
+ "ko/cairo-mosque-of-ibn-tulun": {
+  "hash": "18c6201259db",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-16T17:28:44.791Z"
+ },
+ "ko/cairo-saladin-citadel": {
+  "hash": "f16079338fbd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "무함마드 알리 본인도 이곳에 잠들어 있습니다. 입구로 들어가 오른쪽을 보면 청동 창살 너머로 그의 대리석 무덤이 있습니다.",
+  "at": "2026-11-16T17:28:45.493Z"
+ },
+ "ko/cairo-zamna-egypt": {
+  "hash": "7661618d61f6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "잠나 이집트는 사막 가장자리에 댄스 플로어를 펼칩니다.",
+  "at": "2026-11-16T17:28:45.967Z"
+ },
+ "ko/cairo-gayer-anderson-museum": {
+  "hash": "6790ba712620",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오후 5시 폐관은 이번 주에만 해당한다는 점도 기억해 두시기 바랍니다.",
+  "at": "2026-11-16T17:28:47.966Z"
+ },
+ "ko/cairo-the-national-museum-of-egyptian-civilization": {
+  "hash": "802d5338c89a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "평소 방문객 흐름을 바탕으로 한 베스트타임의 예측을 보면 요일과 상관없이 답은 같습니다.",
+  "at": "2026-11-16T17:28:50.603Z"
+ },
+ "ko/chennai-chennai-open-atp-challenger": {
+  "hash": "488b6cadcbe5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "20년 동안 첸나이의 ATP 투어 대회가 열리던 곳도 바로 이 단지입니다.",
+  "at": "2026-11-16T17:28:55.351Z"
+ },
+ "ko/chennai-chennai-open-international-grandmaster-chess-tournament": {
+  "hash": "f8b3cc04c006",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "인재가 길러지는 흐름이 실제로 이어지는 곳이 바로 이런 오픈 대회입니다.",
+  "at": "2026-11-16T17:28:56.389Z"
+ },
+ "ko/chiayi-2026-chiayi-city-international-band-festival": {
+  "hash": "102c75985b76",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "연석 쪽은 아이를 데려온 가족들이 차지하는 경우가 많으니, 몇 걸음 뒤로 물러나 지대가 높은 곳에 서면 더 잘 보입니다.",
+  "at": "2026-11-16T17:29:01.663Z"
+ },
+ "ko/causeway-bay-east-coast-park-precinct": {
+  "hash": "1e2341ee6ebf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "매립지 위에 왓슨 로드(Watson Rd)를 따라 조성한 해안 통로로, 코즈웨이베이 태풍 대피항과 바다 사이에 끼어",
+  "at": "2026-11-16T17:29:05.999Z"
+ },
+ "ko/chennai-national-rapid-and-blitz-chess-championship-finale": {
+  "hash": "b4d26a95276e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공인 대회에서 대국 구역 근처의 전자기기는 부정행위 방지와 직결되는 심각한 문제입니다.",
+  "at": "2026-11-16T17:29:06.167Z"
+ },
+ "ko/chiba-countdown-japan-26-27": {
+  "hash": "4f10c9229955",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 가이드는 제공받은 수치가 없어 가격을 싣지 않았습니다.",
+  "at": "2026-11-16T17:29:12.397Z"
+ },
+ "ko/chichibu-chichibu-night-festival": {
+  "hash": "dad94a0fa08b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "끄는 사람들이 한 번씩 힘을 모아 비탈 위로 밀어 올릴 때마다 관중의 함성이 터지고 북소리도 빨라집니다.",
+  "at": "2026-11-16T17:29:12.948Z"
+ },
+ "ko/christchurch-christchurch-tramway-restaurant": {
+  "hash": "8f6f7c5b3455",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-16T17:29:17.739Z"
+ },
+ "ko/christchurch-coca-cola-christmas-in-the-park-christchurch": {
+  "hash": "073abfe15b9e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "찾아오는 인파가 약 100,000명에 이르러 남섬에서 하룻밤에 모이는 행사로는 손꼽히는 규모입니다.",
+  "at": "2026-11-16T17:29:19.029Z"
+ },
+ "ko/christchurch-ravenscar-house-museum": {
+  "hash": "7791032941b9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "도자기와 유리 공예품: 받침대보다는 주로 탁자나 선반 위에 놓여 있습니다",
+  "at": "2026-11-16T17:29:24.311Z"
  }
 }

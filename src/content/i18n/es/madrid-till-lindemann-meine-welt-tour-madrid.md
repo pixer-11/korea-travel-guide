@@ -1,67 +1,67 @@
 ---
 lang: es
 slug: madrid-till-lindemann-meine-welt-tour-madrid
-srcHash: 'b5c4ad76d6f3'
-title: 'Till Lindemann en Madrid con la Meine Welt Tour: fechas, entradas y recinto (Madrid)'
-description: La fecha madrileña de la Meine Welt Tour de Till Lindemann es el domingo 15 de noviembre de 2026, en el Palacio Vistalegre, el recinto cubierto del distrito de Carabanchel.
-quickAnswer: La fecha madrileña de la Meine Welt Tour de Till Lindemann es el domingo 15 de noviembre de 2026, en el Palacio Vistalegre, el recinto cubierto del distrito de Carabanchel. Las paradas de metro más próximas son Vista Alegre y Oporto. Ambas pertenecen a la Línea 5, que llega directamente al centro de Madrid. En la web oficial del artista figuran las fechas de la gira y los enlaces de venta autorizados.
+srcHash: '3b7dd680d02e'
+title: 'Till Lindemann en Madrid con el Meine Welt Tour: fecha, entradas y recinto (Madrid)'
+description: El Meine Welt Tour de Till Lindemann tenía parada el domingo 15 de noviembre de 2026 en el Palacio Vistalegre, el pabellón cubierto del distrito madrileño de Carabanchel.
+quickAnswer: El concierto de Till Lindemann en Madrid, dentro del Meine Welt Tour, estaba programado para el domingo 15 de noviembre de 2026 en el Palacio Vistalegre, el pabellón cubierto del distrito de Carabanchel. Las estaciones de metro más cercanas son Vista Alegre y Oporto, ambas de la Línea 5, que llega directamente al centro de Madrid. La cita madrileña era una de las paradas de la gira.
 faq:
-  - q: ¿Cuándo y dónde actúa Till Lindemann en Madrid?
-    a: Dentro de su Meine Welt Tour, Till Lindemann actúa el domingo 15 de noviembre de 2026 en el Palacio Vistalegre, situado en el distrito madrileño de Carabanchel.
+  - q: ¿Cuándo y dónde actuaba Till Lindemann en Madrid?
+    a: Dentro de su Meine Welt Tour, Till Lindemann tenía fecha en el Palacio Vistalegre, en el distrito madrileño de Carabanchel, el domingo 15 de noviembre de 2026.
   - q: ¿Qué estación de metro queda más cerca del Palacio Vistalegre?
-    a: La más próxima es Vista Alegre, en la Línea 5. Oporto, con servicio de las líneas 5 y 6, está unos minutos más lejos y suele estar menos concurrida al terminar el concierto. La Línea 5 comunica directamente con Ópera, Callao y Gran Vía, en pleno centro.
-  - q: ¿Dónde se venden las entradas para el concierto de Madrid?
-    a: En la web oficial del artista figuran las fechas de la Meine Welt Tour y los enlaces de venta autorizados. Los precios aparecen en el propio punto de venta.
+    a: La más cercana es Vista Alegre, en la Línea 5. Oporto, en las Líneas 5 y 6, queda a unos minutos más y suele estar menos concurrida al acabar los conciertos. La Línea 5 conecta directamente con Ópera, Callao y Gran Vía, en el centro.
+  - q: ¿Dónde se vendían las entradas para el concierto de Madrid?
+    a: Las entradas para la fecha de Madrid se vendían a través de los enlaces de venta autorizados del Meine Welt Tour, y los precios figuraban en el propio punto de venta.
   - q: ¿El Palacio Vistalegre es un recinto cubierto?
-    a: Sí. Se trata de un pabellón circular con techo, levantado donde estaba la antigua plaza de toros de Vista Alegre. Cuenta con una pista central para el público de pie y gradas con asientos a su alrededor.
-  - q: ¿Dónde se puede comer o tomar algo cerca del recinto?
-    a: En la calle del General Ricardos, la vía principal de Carabanchel, abundan los bares de barrio, y en muchos de ellos la consumición suele ir acompañada de una pequeña tapa. Es habitual que los seguidores queden allí antes de ir andando al pabellón.
+    a: Sí. Es un pabellón circular y techado, levantado en el solar de la antigua plaza de toros de Vista Alegre, con una pista central para el público de pie rodeada de gradas con asientos.
+  - q: ¿Dónde se podía comer o tomar algo cerca del recinto?
+    a: En la calle del General Ricardos, la principal de Carabanchel, abundan los bares de barrio donde la bebida suele venir acompañada de una pequeña tapa. Es habitual que el público quede allí antes de ir caminando hasta el pabellón.
 ---
 
 ## Un domingo por la noche en Carabanchel
 
-Pocos visitantes se alojan en Carabanchel. Este distrito residencial y obrero se extiende al sur del río Manzanares, entre bloques de ladrillo, bares de esquina y fruterías. La noche del 15 de noviembre de 2026 es la excepción, porque Till Lindemann lleva su Meine Welt Tour al Palacio Vistalegre.
+Carabanchel no es el barrio donde se aloja la mayoría de los visitantes de Madrid. Se trata de un distrito residencial y obrero al sur del río Manzanares, hecho de bloques de ladrillo, bares de esquina y fruterías. Aquí, en el Palacio Vistalegre, tenía parada el Meine Welt Tour de Till Lindemann el 15 de noviembre de 2026.
 
-La fecha cae en domingo. Las tardes de domingo transcurren sin prisas en Madrid, pero el lunes es un día laborable como cualquier otro. Eso condiciona la velada: muchos seguidores convierten el concierto en una escapada de fin de semana y pasan la noche del domingo en la ciudad en lugar de volver a casa tras los bises.
+La fecha caía en domingo. En Madrid, las noches de domingo transcurren sin prisa, pero el lunes es laborable. Por eso, cuando un concierto cae en domingo, muchos seguidores llegados de fuera convierten el viaje en un fin de semana completo y pasan esa noche en la ciudad en lugar de volver a casa después del bis.
 
-## La voz de Rammstein, por su propia cuenta
+## La voz de Rammstein, por su cuenta
 
-Es una voz inconfundible. Lindemann lidera Rammstein desde los años noventa, y ese barítono rotundo se mantiene intacto en su trayectoria en solitario. Al margen del grupo, grabó dos discos con el productor sueco Peter Tägtgren bajo el nombre de Lindemann: *Skills in Pills* (2015) y *F & M* (2019). Después llegó *Zunge*, publicado en 2023 ya con su propio nombre.
+Esa voz resulta inconfundible. Lindemann es el cantante de Rammstein desde la década de 1990, y su barítono grave y envolvente se mantiene intacto en su trabajo en solitario. Al margen del grupo, grabó dos discos con el productor sueco Peter Tägtgren bajo el nombre de Lindemann: *Skills in Pills* (2015) y *F & M* (2019). En 2023 llegó *Zunge*, publicado ya con su propio nombre.
 
-Sus conciertos en solitario son conocidos por una puesta en escena teatral y provocadora a propósito. Están pensados para un público que conoce de sobra el repertorio escénico de Rammstein y lo quiere aún más extraño. Cabe esperar una sala llena de camisetas negras y de gente que corea en alemán letras aprendidas a base de fonética. Ni el repertorio ni el telonero de Madrid figuran en la información disponible, de modo que esta guía no especula sobre ellos.
+Sus conciertos en solitario tienen fama de contar con una puesta en escena teatral y deliberadamente provocadora. Están pensados para un público que ya conoce de memoria el código de Rammstein y lo quiere todavía más extraño. Entre sus seguidores predomina un mar de camisetas negras, y muchos corean en alemán letras que han aprendido de oído.
 
-## El Palacio Vistalegre por dentro
+## Dentro del Palacio Vistalegre
 
-El pabellón es circular. Ocupa el solar de la antigua plaza de toros de Vista Alegre y conserva su planta redonda: bajo una cubierta fija, las gradas se elevan en torno a una pista central. En la práctica, el sonido y el calor no se escapan, algo que le sienta bien a un espectáculo ruidoso y contundente a mediados de noviembre.
+El recinto es circular. Ocupa el solar de la antigua plaza de toros de Vista Alegre y conserva su planta redonda: bajo una cubierta fija, las gradas se elevan alrededor de una pista central. En la práctica, el sonido y el calor se quedan dentro, algo muy oportuno para un espectáculo ruidoso y contundente a mediados de noviembre.
 
-El público de pie llena la pista, que funciona como el ruedo de una plaza: todo el mundo cerca y mirando hacia el centro. Desde las gradas, más altas, los efectos escénicos se aprecian con mayor claridad. Como el recinto acoge conciertos, partidos de baloncesto y mítines políticos, su distribución está concebida para que las multitudes entren y salgan con rapidez.
+La pista la ocupa el público de pie, que, como en el ruedo de una plaza, queda muy junto y mirando hacia el centro. Desde las gradas se disfruta de una vista más despejada y elevada de los efectos escénicos. Como el recinto acoge conciertos, partidos de baloncesto y mítines políticos, su distribución está pensada para que grandes multitudes entren y salgan con rapidez.
 
-## Cómo llegar con la Línea 5
+## Cómo llegar en la Línea 5
 
-Lo más sencillo es ir en metro. Hay dos estaciones junto al pabellón:
+El metro es la opción más sencilla. Hay dos estaciones cerca del recinto:
 
-- **Vista Alegre** (Línea 5): la parada más próxima, a un corto paseo del recinto.
-- **Oporto** (líneas 5 y 6): algo más alejada, pero práctica para quien llegue por la línea circular 6.
+- **Vista Alegre** (Línea 5): la parada más próxima, a un breve paseo del pabellón.
+- **Oporto** (Líneas 5 y 6): algo más alejada, pero práctica para quien llega por la circular de la Línea 6.
 
-La Línea 5 cruza el centro en dirección norte con paradas en Ópera, Callao y Gran Vía. Desde un hotel cercano a la Puerta del Sol, el trayecto dura entre 15–20 minutos aproximadamente. También se puede ir en taxi o con aplicaciones de VTC, aunque a la salida del concierto el tráfico avanza a paso de tortuga por las calles que rodean el pabellón.
+La Línea 5 atraviesa el centro en dirección norte, con paradas en Ópera, Callao y Gran Vía. Desde un hotel próximo a la Puerta del Sol, el trayecto dura unos 15–20 minutos. También hay taxis y aplicaciones de VTC, aunque a la salida de un concierto los coches avanzan a paso de tortuga por las calles que rodean el recinto.
 
-En noviembre, las noches madrileñas son frescas y, por lo general, secas. La mayoría de los asistentes lleva una chaqueta que pueda atarse a la cintura una vez dentro.
+Las noches de noviembre en Madrid son frescas y, por lo general, secas. La mayoría del público lleva una chaqueta que pueda atarse a la cintura una vez dentro.
 
-## Así es una noche de concierto en Madrid
+## Así transcurre una noche de concierto en Madrid
 
-En Madrid se trasnocha, y quien va a un concierto lo tiene en cuenta. Antes del espectáculo se suele tomar una ronda rápida de tapas en vez de una comida completa; la cena de verdad llega después. Lo habitual es reunirse primero en los bares cercanos al recinto y luego ir todos juntos andando.
+Madrid vive con horarios tardíos, y quienes van a un concierto se organizan en consecuencia. Antes del espectáculo, lo habitual es una ronda rápida de tapas más que una comida completa; la cena de verdad llega después. Los seguidores suelen reunirse primero en los bares cercanos al recinto y luego van juntos a pie.
 
-Algunas costumbres útiles:
+Algunas costumbres locales:
 
-- **Pago:** la tarjeta y el pago sin contacto se aceptan casi en todas partes, incluida la mayoría de los bares de Carabanchel.
-- **Propinas:** los madrileños suelen redondear o dejar algunas monedas; no se espera una propina generosa.
-- **Billetes de metro:** los viajes se cargan en la tarjeta Multi, recargable y a la venta en las máquinas de las estaciones. Los vecinos la recargan antes del concierto para ahorrarse la cola de las máquinas a la salida.
-- **Pedir en la barra:** con «una caña» le servirán una cerveza de barril pequeña, la ronda por excelencia en cualquier bar.
+- **Pago:** la tarjeta y el pago sin contacto se aceptan casi en todas partes, también en la mayoría de los bares de Carabanchel.
+- **Propinas:** lo normal es redondear o dejar unas monedas; nadie espera una propina generosa.
+- **Billetes de metro:** los viajes se cargan en la tarjeta Multi, recargable y a la venta en las máquinas de las estaciones. Los madrileños la recargan antes del concierto para no hacer cola en las máquinas a la salida.
+- **Pedir:** con «una caña» se obtiene una cerveza de barril pequeña, la consumición por defecto en cualquier barra.
 
-Tras los bises, el andén de Vista Alegre se llena enseguida. Muchos seguidores caminan esos minutos de más hasta Oporto, donde hay bastante menos gente.
+Al terminar un concierto, el andén de Vista Alegre se llena enseguida. Mucha gente camina unos minutos más hasta Oporto, donde hay menos aglomeración.
 
 ## Antes y después: la calle del General Ricardos
 
-General Ricardos, la calle principal de Carabanchel, pasa por los alrededores del pabellón. A lo largo de ella se suceden bares de barrio corrientes en los que la bebida suele venir con una pequeña tapa gratuita, una costumbre madrileña que se conserva con especial arraigo en distritos como este. Son locales de toda la vida, no bares temáticos para conciertos, y en domingo algunos cierran antes.
+General Ricardos es la calle principal de Carabanchel y pasa por la zona del recinto. A lo largo de ella se suceden bares de barrio de toda la vida en los que la bebida suele ir acompañada de una pequeña tapa gratis. Esta costumbre madrileña se conserva con más fuerza en distritos como este. Son locales de vecinos, no bares temáticos de conciertos, y en domingo algunos cierran antes.
 
-Si va a pasar el fin de semana, Madrid Río queda justo al norte. Este largo parque fluvial bordea el Manzanares y se alcanza desde Carabanchel con un paseo agradable o un breve trayecto. Una buena opción es dedicar el sábado al centro, en torno a la Plaza Mayor y el Palacio Real, y bajar hacia el sur el domingo para el concierto.
+Justo al norte se extiende Madrid Río, un largo parque junto al Manzanares al que se llega desde Carabanchel con un paseo cómodo o un trayecto corto. Muchos visitantes de fin de semana combinan un sábado en el centro, en torno a la Plaza Mayor y el Palacio Real, con un concierto el domingo por la noche en el sur de la ciudad.

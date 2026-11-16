@@ -42,10 +42,7 @@ Beijing, China — 12 qualifying post(s), variants: 3
   = Beijing 3d — unchanged, skipping
 
 Brighton, United Kingdom — 13 qualifying post(s), variants: 3
-  ~ Brighton 3d — minor structure change (1 slug diff), keeping existing prose
-  ⚠ Brighton 3d — validator found 1 prose-fixable issue(s); correcting once
-    · AREA-CLAIM-UNSUPPORTED: brighton-3-days.md — day 1 names "Madeira Drive" but no stop of that day attests it
-  ✅ Brighton 3d — updated
+  = Brighton 3d — unchanged, skipping
 
 Buenos Aires, Argentina — 14 qualifying post(s), variants: 3
   · Buenos Aires 3d — skipped: day 1 totals only 233 min (floor 240) and no further sight can be added to it
@@ -98,7 +95,7 @@ Singapore, Singapore — 80 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

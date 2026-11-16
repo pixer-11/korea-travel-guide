@@ -1,68 +1,70 @@
 ---
 lang: es
 slug: lima-igma-open-lima-atp-challenger
-srcHash: '493145d6eacb'
-title: 'Igma Open (Challenger ATP de Lima): fechas, entradas y sede (Lima)'
-description: Las fechas del Igma Open (Challenger ATP de Lima) 2026 son del 9 al 15 de noviembre. Se juega sobre las pistas de tierra batida de Las Terrazas de Miraflores, el club del Jockey Club del Perú en el distrito limeño de Miraflores.
-quickAnswer: Las fechas del Igma Open (Challenger ATP de Lima) 2026 son del 9 al 15 de noviembre. Se juega sobre las pistas de tierra batida de Las Terrazas de Miraflores, el club que el Jockey Club del Perú tiene en el distrito limeño de Miraflores. Las entradas corren a cargo de la organización del torneo, mientras que los cuadros y el orden de juego diario se publican en la web del ATP Tour. Los hoteles de Miraflores quedan a poca distancia, y la mayoría de los aficionados combina el tenis con algún paseo por el Malecón, en lo alto del acantilado.
+srcHash: 'ca4d5a1435f3'
+title: 'Igma Open (ATP Challenger de Lima): fechas, entradas y sede (Lima)'
+description: Las fechas anunciadas del Igma Open (ATP Challenger de Lima) 2026 eran del 9 al 15 de noviembre, en Las Terrazas de Miraflores, el club del Jockey Club del Perú en el distrito limeño de Miraflores.
+quickAnswer: Las fechas anunciadas del Igma Open (ATP Challenger de Lima) 2026 eran del 9 al 15 de noviembre. El torneo se jugaba en las canchas de arcilla de Las Terrazas de Miraflores, el club del Jockey Club del Perú en el distrito limeño de Miraflores. La organización del torneo se encargaba de vender las entradas. Los cuadros y el orden de juego diario de los torneos Challenger aparecían en la web del ATP Tour. Los hoteles de Miraflores quedaban cerca, y muchos aficionados aprovechaban el tenis para pasear por el Malecón, en lo alto del acantilado.
 faq:
-  - q: ¿Cuándo es el Igma Open 2026?
-    a: Las fechas del torneo son del lunes 9 al domingo 15 de noviembre de 2026. En el calendario Challenger, el domingo es tradicionalmente el día de las finales.
+  - q: ¿Cuándo era el Igma Open 2026?
+    a: El torneo de 2026 estaba programado del lunes 9 al domingo 15 de noviembre de 2026. En el calendario Challenger, el domingo se reserva tradicionalmente para las finales.
   - q: ¿Dónde se juega el Igma Open?
-    a: Se disputa sobre tierra batida en Las Terrazas de Miraflores, el club del Jockey Club del Perú en el distrito limeño de Miraflores. Es el barrio costero donde se aloja buena parte de los visitantes.
-  - q: ¿Dónde se pueden consultar las entradas y el orden de juego?
-    a: La organización del torneo se ocupa de las entradas y del acceso del público. En la web del ATP Tour se publican los cuadros y el orden de juego diario de los torneos Challenger, entre ellos el de Lima.
-  - q: ¿Cómo se llega a la sede?
-    a: La mayoría de los aficionados recurre a Uber, Cabify o inDrive, o bien va a pie desde los hoteles de Miraflores. El Metropolitano, el sistema de autobuses de tránsito rápido, tiene en la Vía Expresa varias paradas de Miraflores, como Benavides y Ricardo Palma.
-  - q: ¿Qué se puede hacer cerca del torneo?
-    a: En Miraflores se encuentran el paseo del Malecón sobre el acantilado, el Parque del Amor, Larcomar y el Parque Kennedy, además de la pirámide de la Huaca Pucllana. Las calles coloniales y la vida nocturna de Barranco quedan a un corto trayecto hacia el sur.
+    a: Se disputa sobre arcilla en Las Terrazas de Miraflores, el club del Jockey Club del Perú en el distrito limeño de Miraflores. En este barrio costero se aloja buena parte de los visitantes.
+  - q: ¿Dónde se conseguían las entradas y el orden de juego?
+    a: De las entradas y del acceso del público en 2026 se encargaba la organización del torneo. La web del ATP Tour publica los cuadros y el orden de juego diario de los torneos Challenger, incluido el de Lima.
+  - q: ¿Cómo se llegaba a la sede?
+    a: La mayoría de los aficionados usaba Uber, Cabify o inDrive, o bien iba a pie desde los hoteles de Miraflores. El Metropolitano, el sistema de autobuses de tránsito rápido, tiene paradas en Miraflores sobre la Vía Expresa, entre ellas Benavides y Ricardo Palma.
+  - q: ¿Qué había para hacer cerca del torneo?
+    a: En Miraflores se encuentran el Malecón, que recorre lo alto del acantilado, el Parque del Amor, Larcomar y el Parque Kennedy, además de la pirámide de la Huaca Pucllana. Hacia el sur, a poca distancia, Barranco ofrece sus calles coloniales y su vida nocturna.
 ---
 
-## Una semana de tierra batida frente al Pacífico
+## Una semana de arcilla roja frente al Pacífico
 
-El Igma Open ofrece tenis profesional visto de cerca. Esta cita anual del ATP Challenger Tour, la categoría inmediatamente inferior al circuito principal, reúne sobre la tierra batida de Las Terrazas de Miraflores, el club del Jockey Club del Perú, a jugadores que buscan sumar puntos para el ranking.
+El Igma Open permite ver tenis profesional muy de cerca. Esta cita anual del ATP Challenger Tour, el escalón inmediatamente inferior al circuito principal, reúne en las canchas de arcilla de Las Terrazas de Miraflores, el club del Jockey Club del Perú, a jugadores que buscan sumar puntos para el ranking.
 
-En un Challenger, quien se sienta cerca de la pista sale ganando. Las gradas son pequeñas si se comparan con las de un torneo del circuito principal, así que cada punto se oye con nitidez: la zapatilla que se desliza sobre el polvo de ladrillo, el canto del juez de línea, el jugador que refunfuña contra su raqueta. La tierra batida frena la bola y alarga los puntos. Por eso abundan los largos intercambios desde el fondo de la pista y escasea el juego rápido de saque y volea.
+En el tenis Challenger, quien se sienta cerca de la cancha sale ganando. Las gradas son pequeñas en comparación con las de un torneo del circuito principal, de modo que cada peloteo se oye con nitidez. Se percibe el deslizamiento de la zapatilla sobre el polvo de ladrillo, el grito del juez de línea e incluso al jugador que refunfuña contra su raqueta.
 
-## Cómo transcurre la semana
+La arcilla frena la bola y alarga los puntos. Por eso predominan los largos intercambios desde el fondo de la cancha, y el saque y volea rápido apenas se ve.
 
-Las fechas de la edición de 2026 son del lunes 9 al domingo 15 de noviembre. Una semana de Challenger sigue un esquema conocido:
+## Cómo se organiza la semana
 
-- **Primeros días:** fase previa y primera ronda, con partidos simultáneos en varias pistas
-- **Mitad de semana:** segunda ronda y avance del cuadro de dobles
-- **Viernes y sábado:** cuartos de final y semifinales, con el juego concentrado en menos pistas
-- **Domingo 15 de noviembre:** cierre de la semana y, por tradición en este circuito, día de las finales
+La edición de 2026 estaba prevista del lunes 9 al domingo 15 de noviembre. Una semana Challenger sigue un esquema conocido:
 
-En la web del ATP Tour se publican los cuadros y el orden de juego diario. La organización se encarga de las entradas y del acceso del público. A quien le guste pasear de una pista a otra le convienen las primeras rondas; a quien prefiera un único gran partido, el fin de semana.
+- **Primeros días:** fase previa y partidos de primera ronda, con varias canchas en juego al mismo tiempo
+- **Mitad de semana:** segundas rondas y avance del cuadro de dobles
+- **Viernes y sábado:** cuartos de final y semifinales, con el juego concentrado en menos canchas
+- **Domingo 15 de noviembre:** última jornada de la semana de 2026, que en este circuito se reserva tradicionalmente para las finales
 
-En Lima, noviembre es final de primavera. Las mañanas suelen amanecer bajo ese gris costero que en la ciudad llaman *garúa*, y por la tarde el cielo se despeja. En los asientos sin techo, el sol pega con más fuerza de lo que haría pensar el fresco matinal.
+Los cuadros y el orden de juego diario se publican en la web del ATP Tour. De las entradas y del acceso del público en 2026 se encargaba la organización. Las primeras rondas resultan ideales para el aficionado que disfruta paseando de una cancha a otra. El fin de semana conviene más a quien prefiere un solo gran partido.
+
+En Lima, noviembre corresponde al final de la primavera. Las mañanas suelen empezar bajo el cielo gris de la costa, al que los limeños llaman *garúa*, y por la tarde aclara. En los asientos al descubierto, el sol pega con más fuerza de lo que la fresca mañana hace pensar.
 
 ## Cómo llegar a Las Terrazas, en Miraflores
 
-Miraflores es el distrito costero donde ya se aloja la mayoría de los visitantes, de modo que llegar al torneo resulta sencillo. Ninguna línea de metro de Lima llega a Miraflores. Lo habitual entre los aficionados es recurrir a:
+Llegar al torneo resulta sencillo, ya que la mayoría de los visitantes se aloja en Miraflores, el distrito costero donde se encuentra la sede. Como ninguna línea de metro de Lima llega a Miraflores, los aficionados suelen moverse de estas formas:
 
-- **Aplicaciones de transporte** como Uber, Cabify e inDrive, de uso muy extendido en toda la ciudad
-- **El Metropolitano**, el sistema de autobuses de tránsito rápido que recorre la Vía Expresa y que tiene en Miraflores paradas como Benavides y Ricardo Palma
-- **Ir a pie**, cuando el hotel está cerca del Parque Kennedy o junto al Malecón
+- **Aplicaciones de transporte**, como Uber, Cabify e inDrive, de uso muy extendido en toda la ciudad
+- **El Metropolitano**, el autobús de tránsito rápido que circula por la Vía Expresa y para en Miraflores, por ejemplo en Benavides y Ricardo Palma
+- **A pie**, desde los hoteles próximos al Parque Kennedy o por el Malecón
 
-Con tráfico, el trayecto en coche desde el Aeropuerto Internacional Jorge Chávez, en el Callao, hasta Miraflores suele durar una hora o más. Quienes aterrizan esa semana suelen alojarse en Miraflores o en el vecino Barranco, lo que acorta el desplazamiento diario.
+Desde el Aeropuerto Internacional Jorge Chávez, en el Callao, el trayecto en coche hasta Miraflores suele superar la hora cuando hay tráfico. Quienes viajan a la ciudad por el torneo suelen alojarse en Miraflores o en el vecino Barranco, y así el desplazamiento diario es corto.
 
-## Normas de comportamiento en la grada de un Challenger
+## Normas de comportamiento junto a la cancha en un Challenger
 
-El protocolo es estricto, y en un recinto tan pequeño cualquier descuido salta a la vista. El público solo se mueve en los cambios de lado, cuando los jugadores se sientan tras los juegos impares, o entre sets. Quien se queda de pie en un pasillo en mitad de un punto se gana una mirada del juez de silla y, quizá, un aviso por megafonía.
+La etiqueta es estricta, y en un recinto tan pequeño cualquier descuido salta a la vista. El público solo se desplaza en los cambios de lado, cuando los jugadores se sientan tras los juegos impares, o entre sets. Quien se queda de pie en un pasillo en mitad de un punto recibe una mirada del juez de silla y quizá un aviso por el micrófono.
 
-Hay además otras costumbres habituales:
+También son habituales otras costumbres:
 
 - Teléfono en silencio y nada de fotos con flash durante el juego
-- Aplausos al terminar el punto, nunca en pleno peloteo
-- Ningún grito ante una doble falta, aunque la cometa el favorito local
+- Aplausos al terminar el punto, nunca durante el peloteo
+- Ningún grito ante una doble falta, aunque la cometa un favorito local
 
-En la sede se trabaja en español, si bien en el circuito ATP los jueces de silla cantan el marcador en inglés. En Miraflores se aceptan tarjetas casi en todas partes. Muchos peruanos pagan también con Yape, un monedero móvil local. En los puestos informales de comida y bebida vienen bien las monedas de sol y los billetes pequeños.
+En el recinto se habla español, pero en el circuito ATP los jueces de silla cantan el marcador en inglés. En Miraflores se aceptan tarjetas en casi todas partes. Muchos peruanos pagan también con Yape, una billetera móvil local. En los puestos informales de comida y bebida vienen bien las monedas de sol y los billetes pequeños.
 
 ## Lima entre partido y partido
 
-El acantilado de Miraflores ofrece una forma cómoda de organizar el día. El Malecón recorre los farallones que dominan la Costa Verde, y en el mismo borde del acantilado se asientan el Parque del Amor y la terraza comercial de Larcomar. Cuando el viento lo permite, es frecuente ver parapentes despegando desde los parques de lo alto.
+El acantilado de Miraflores marca el ritmo de la jornada. El Malecón recorre los farallones que dominan la Costa Verde. En el mismo borde del acantilado se asientan el Parque del Amor y la terraza comercial de Larcomar. Cuando el viento lo permite, suelen despegar parapentes desde los parques de lo alto.
 
-Tierra adentro, entre bloques de viviendas, se alza la Huaca Pucllana, una pirámide de adobe preincaica. Desde la terraza de su restaurante se contemplan directamente las ruinas. El Parque Kennedy, la plaza central de Miraflores, está rodeado de calles repletas de cafés y cevicherías. En Lima, el ceviche se come tradicionalmente al mediodía, algo que encaja bien con una sesión de tarde-noche.
+Lejos de la costa, entre bloques de departamentos, se alza la Huaca Pucllana, una pirámide de adobe preincaica. Desde la terraza de su restaurante se ven las ruinas de frente. Junto al Parque Kennedy, la plaza central de Miraflores, se extienden calles llenas de cafés y cevicherías. En Lima, el ceviche se come tradicionalmente al mediodía, de modo que encaja bien antes de una sesión vespertina.
 
-Barranco, justo al sur, queda a un corto trayecto. Allí se encuentran casonas de época colonial, el Puente de los Suspiros y los bares donde se concentra buena parte de la vida nocturna limeña. Los aficionados que se quedan toda la semana suelen repartir sus noches entre este barrio y Miraflores.
+Barranco está justo al sur, a poca distancia. Allí se encuentran casonas de la época colonial, el Puente de los Suspiros y los bares que concentran la mayor parte de la vida nocturna limeña. Los aficionados que se quedan toda la semana del torneo suelen pasar unas noches en Barranco y otras en Miraflores.
