@@ -39,7 +39,11 @@ export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩�
 // 푈 under the 외래어 표기법). The fixer deleted saarbrucken-bwf-hylo-open for it
 // and the retranslation wrote it again (2026-10-27). A word, not the syllable:
 // 푈 is one jamo off 펠 and 풀.
-export const KO_WORDS_OK = ['베르됭', '푈클링겐'];
+// 쿠르슌루 (Kurşunlu — the Kurşunlu Mosque complex in Nevşehir; Turkish şu+n
+// is 슌). The fixer would delete nevsehir-ettu-european-u13-championships for
+// it and the retranslation would write it again (2026-11-16). A word, not the
+// syllable: 슌 is one jamo off 순 and 숀.
+export const KO_WORDS_OK = ['베르됭', '푈클링겐', '쿠르슌루'];
 const okWords = new RegExp(KO_WORDS_OK.join('|'), 'g');
 
 // Every broken syllable in `text`, each with a little context so a human can see

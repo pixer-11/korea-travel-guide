@@ -44,6 +44,11 @@ test('allows 푈클링겐 (Völklingen) but not a stray 푈 (2026-10-27)', () =>
   assert.deepEqual(koBrokenSyllables('푈레이드'), ['푈 — 푈레이드']);
 });
 
+test('allows 쿠르슌루 (Kurşunlu) but not a stray 슌 (2026-11-16)', () => {
+  assert.deepEqual(koBrokenSyllables('- **쿠르슌루 모스크 단지**: 시내 중심에 있다'), []);
+  assert.deepEqual(koBrokenSyllables('슌서대로'), ['슌 — 슌서대로']);
+});
+
 test('됭 is allowed only inside 베르됭 — 됭장 is still a typo (Codex, 10-03)', () => {
   assert.deepEqual(koBrokenSyllables('됭장찌개'), ['됭 — 됭장찌개']);
 });
