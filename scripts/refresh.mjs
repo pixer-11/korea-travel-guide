@@ -26,6 +26,7 @@
 //  Runs unattended. Without keys it reports what it would do and exits.
 // ─────────────────────────────────────────────────────────────
 import { isAlwaysVisitable } from './lib/always-visitable.mjs';
+import { sortRefreshCandidates } from './lib/refresh-order.mjs';
 import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
@@ -80,19 +81,16 @@ async function main() {
   if (SLUG_TARGETS.size) console.log(`🎯 targeted run — ${[...SLUG_TARGETS].join(", ")}`);
   const cursor = await loadCursor();
 
-  // Candidates = posts with a place.id, oldest-checked-first (never-checked
-  // sorts before any date; filename breaks ties so the order is stable).
+  // Candidates = posts with a place.id, oldest-checked-first. Never-checked
+  // sorts before any date, oldest publication first — see lib/refresh-order.mjs.
   const candidates = [];
   for (const file of files) {
     const full = join(POSTS_DIR, file);
     const parsed = matter(await readFile(full, 'utf8'));
     if (!isTargeted(file, SLUG_TARGETS)) continue;
-    if (parsed.data.place?.id) candidates.push({ file, full, parsed });
+    if (parsed.data.place?.id) candidates.push({ file, full, parsed, pubDate: parsed.data.pubDate });
   }
-  candidates.sort((a, b) =>
-    (cursor.checked[a.file] ?? '').localeCompare(cursor.checked[b.file] ?? '') ||
-    a.file.localeCompare(b.file)
-  );
+  sortRefreshCandidates(candidates, cursor.checked);
 
   let updated = 0, unpublished = 0, checked = 0, quotaStop = false;
   for (const { file, full, parsed } of candidates) {

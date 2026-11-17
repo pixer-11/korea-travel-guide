@@ -111,7 +111,7 @@ jobs:
           #
           # 50 is also where the Places quota stops being the binding
           # constraint. Details is hard-capped at 100 calls/day and split
-          # publish 40 / backfill 25 / refresh 20 / quality 15. At 50 posts,
+          # publish 25 / backfill 25 / refresh 35 / quality 15 (2026-11-17). At 50 posts,
           # 40 get their phone and hours immediately and 10 wait one night,
           # which the backfill's 25/day clears easily. At the old ceiling of
           # 75 the arithmetic breaks: 35 posts a day arrive incomplete against

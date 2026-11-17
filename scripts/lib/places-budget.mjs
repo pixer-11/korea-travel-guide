@@ -37,7 +37,18 @@
 //                        venue (2026-09-10)
 //    quality        15   address/photo cleanup, the most deferrable
 //
-//  This is the split backfill.yml documented as the pre-throttle intent.
+//  REBALANCED 2026-11-17 (owner approved): publish 40 → 25, refresh 20 → 35.
+//  The 2,637 venue posts took 132 days per rotation at 20/day, which is longer
+//  than validate-content's 120-day STALE-RECHECK alarm — so the alarm fired on
+//  a rotation that was running perfectly, and 557 posts had never been
+//  re-checked at all. Meanwhile publish was measured spending 10/day of its 40
+//  (11-10..11-15), and 5/day since the 11-16 cut to 5 posts. At 35/day the
+//  rotation is ~75 days. Cost of the trade: a discovery day that wants more
+//  than 25 Details (11-09 spent 37) is capped, and those posts arrive without
+//  hours and are picked up by backfill the next day — which is what backfill
+//  is for. The table above is the 09-10 split, kept for its reasoning.
+//
+//  The 09-10 table was the split backfill.yml documented as the pre-throttle intent.
 //  Nothing here talks to Google — it records intent, and the existing 429
 //  guards remain the real backstop. Re-read at the 2026-10-07 volume check.
 // ─────────────────────────────────────────────────────────────
@@ -46,7 +57,7 @@ import { fileURLToPath } from 'node:url';
 
 const LEDGER = fileURLToPath(new URL('../../data/places-budget.json', import.meta.url));
 export const DAILY_CAP = Number(process.env.PLACES_DAILY_CAP || 100);
-export const SHARES = { publish: 40, backfill: 25, refresh: 20, quality: 15 };
+export const SHARES = { publish: 25, backfill: 25, refresh: 35, quality: 15 };
 
 // ── Text Search — the SECOND pot (2026-08-23) ────────────────────────────
 // The Details ledger above assumed Text Search was "75k/day, effectively
