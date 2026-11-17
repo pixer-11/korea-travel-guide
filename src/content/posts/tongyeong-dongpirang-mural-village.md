@@ -1,26 +1,36 @@
 ---
 title: Dongpirang Mural Village in Tongyeong
-description: Dongpirang is a small hillside mural village on the east side of Tongyeong's old harbor, right next to Jungang Market and below Nammangsan Park.
+description: >-
+  Dongpirang is a small hillside mural village on the east side of Tongyeong's
+  old harbor, right next to Jungang Market and below Nammangsan Park.
 region: Tongyeong
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Korea-Tongyeong-Dongpirang_Village-10.jpg/1920px-Korea-Tongyeong-Dongpirang_Village-10.jpg
-  credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY-SA 3.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Korea-Tongyeong-Dongpirang_Village-10.jpg/1920px-Korea-Tongyeong-Dongpirang_Village-10.jpg
+  credit: >-
+    Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC
+    BY-SA 3.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Dongpirang_Village-10.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Dongpirang_Village-10.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dongpirang_Village_20190511_19.jpg/1920px-Dongpirang_Village_20190511_19.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dongpirang_Village_20190511_19.jpg/1920px-Dongpirang_Village_20190511_19.jpg
     credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Dongpirang_Village_20190511_19.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Dongpirang_Village_20190511_19.jpg'
 place:
   id: ChIJqdlILhXHbjURNX9wrCyu260
   name: Dongpirang Mural Village
-  address: 6-18 Dongpirang 1-gil, Dongho-dong, Tongyeong-si, Gyeongsangnam-do, South Korea
+  address: >-
+    6-18 Dongpirang 1-gil, Dongho-dong, Tongyeong-si, Gyeongsangnam-do, South
+    Korea
   rating: 4
-  userRatingsTotal: 7766
-  googleMapsUrl: https://maps.google.com/?cid=12527798295356014389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 7781
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12527798295356014389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.8456408
   lng: 128.4276137
@@ -35,21 +45,42 @@ place:
 tags:
   - tongyeong
   - Dongpirang mural village
-quickAnswer: Dongpirang is a small hillside mural village on the east side of Tongyeong's old harbor, right next to Jungang Market and below Nammangsan Park. Budget 1–1.5 hours to wander the alleyways and murals, plus another 20–30 minutes to climb up to the hilltop pavilion for a panoramic view over Tongyeong harbor and the offshore islands. It's free to enter, best visited early morning or late afternoon on a weekday to avoid tour groups, and pairs naturally with a stop at Jungang Market and a ride on the Tongyeong cable car.
+quickAnswer: >-
+  Dongpirang is a small hillside mural village on the east side of Tongyeong's
+  old harbor, right next to Jungang Market and below Nammangsan Park. Budget
+  1–1.5 hours to wander the alleyways and murals, plus another 20–30 minutes to
+  climb up to the hilltop pavilion for a panoramic view over Tongyeong harbor
+  and the offshore islands. It's free to enter, best visited early morning or
+  late afternoon on a weekday to avoid tour groups, and pairs naturally with a
+  stop at Jungang Market and a ride on the Tongyeong cable car.
 faq:
   - q: Is there an entrance fee for Dongpirang?
-    a: No, the village is a public residential neighborhood and free to walk through at any time; only a few individual cafés or small exhibits inside may charge separately.
+    a: >-
+      No, the village is a public residential neighborhood and free to walk
+      through at any time; only a few individual cafés or small exhibits inside
+      may charge separately.
   - q: How long does a visit take?
-    a: Plan on 1 to 1.5 hours to wander the alleys and murals, plus 20–30 minutes more if you climb to the hilltop pavilion for the harbor view.
+    a: >-
+      Plan on 1 to 1.5 hours to wander the alleys and murals, plus 20–30 minutes
+      more if you climb to the hilltop pavilion for the harbor view.
   - q: How do I get to Tongyeong without a car?
-    a: Take an intercity bus to Tongyeong Bus Terminal (frequent buses from Busan, roughly 1.5–2 hours) then a short taxi ride to Jungang Market, from which Dongpirang's stair-alleys begin.
+    a: >-
+      Take an intercity bus to Tongyeong Bus Terminal (frequent buses from
+      Busan, roughly 1.5–2 hours) then a short taxi ride to Jungang Market, from
+      which Dongpirang's stair-alleys begin.
   - q: What's the best time of day to visit?
-    a: Early morning or after 4 p.m. on weekdays avoids the tour-group crowds; sunset from the hilltop pavilion is especially popular.
+    a: >-
+      Early morning or after 4 p.m. on weekdays avoids the tour-group crowds;
+      sunset from the hilltop pavilion is especially popular.
   - q: What should I eat nearby?
-    a: Try chungmu gimbap and fresh seafood at adjoining Jungang Market — it's Tongyeong's best-known local dish and sold throughout the market stalls at the base of the hill.
+    a: >-
+      Try chungmu gimbap and fresh seafood at adjoining Jungang Market — it's
+      Tongyeong's best-known local dish and sold throughout the market stalls at
+      the base of the hill.
 aiGenerated: true
 draft: false
 country: South Korea
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

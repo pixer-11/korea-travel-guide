@@ -6,20 +6,23 @@ region: Washington DC
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg
   credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:National_Mall,_Washington,_D.C._(20100325-DSC01310).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:National_Mall,_Washington,_D.C._(20100325-DSC01310).jpg
   focus:
     x: 55
     'y': 45
 place:
   id: ChIJMT3_Wpu3t4kRQScGokyrCDo
   name: National Mall
-  address: Washington, DC, USA
+  address: 'Washington, DC, USA'
   rating: 4.8
-  userRatingsTotal: 139712
-  googleMapsUrl: https://maps.google.com/?cid=4181780599637681985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 140299
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4181780599637681985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.8875144
   lng: -77.0363934
@@ -45,7 +48,7 @@ place:
       - 17
       - 18
     venueId: ven_6f444372796b6f47635351526b3474337570575f33544d4a496843
-  phone: '+1 202-426-6841'
+  phone: +1 202-426-6841
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -57,19 +60,44 @@ place:
 tags:
   - washington dc
   - top attraction
-quickAnswer: The National Mall is the 2-mile grassy corridor between the U.S. Capitol and the Lincoln Memorial, anchored by the Washington Monument and flanked by the Smithsonian museums and the WWII, Korean War, Vietnam Veterans, MLK, and FDR memorials. It's free, open 24 hours, and best tackled on foot or by bike over a half or full day. Start early at the Lincoln Memorial or Capitol end to beat crowds and heat.
+quickAnswer: >-
+  The National Mall is the 2-mile grassy corridor between the U.S. Capitol and
+  the Lincoln Memorial, anchored by the Washington Monument and flanked by the
+  Smithsonian museums and the WWII, Korean War, Vietnam Veterans, MLK, and FDR
+  memorials. It's free, open 24 hours, and best tackled on foot or by bike over
+  a half or full day. Start early at the Lincoln Memorial or Capitol end to beat
+  crowds and heat.
 faq:
   - q: How long does it take to see the whole National Mall?
-    a: Walking end-to-end from the Capitol to the Lincoln Memorial covers about 2 miles; allow a half day just for the walk and monuments, or a full day if you want to add one or two Smithsonian museums.
+    a: >-
+      Walking end-to-end from the Capitol to the Lincoln Memorial covers about 2
+      miles; allow a half day just for the walk and monuments, or a full day if
+      you want to add one or two Smithsonian museums.
   - q: What's the closest Metro station to the National Mall?
-    a: Smithsonian station (Blue/Orange/Silver lines) puts you right in the middle of the lawn; Foggy Bottom is closer for the Lincoln Memorial, and Federal Triangle or Archives–Navy Memorial for the eastern museums.
+    a: >-
+      Smithsonian station (Blue/Orange/Silver lines) puts you right in the
+      middle of the lawn; Foggy Bottom is closer for the Lincoln Memorial, and
+      Federal Triangle or Archives–Navy Memorial for the eastern museums.
   - q: Is the National Mall free to visit?
-    a: Yes — the grounds, memorials, and all Smithsonian museums along it are free. The only common exception is timed entry to the Washington Monument's observation deck, also free but requiring a reserved ticket via recreation.gov.
+    a: >-
+      Yes — the grounds, memorials, and all Smithsonian museums along it are
+      free. The only common exception is timed entry to the Washington
+      Monument's observation deck, also free but requiring a reserved ticket via
+      recreation.gov.
   - q: What's the best time of day or year to visit?
-    a: Early morning or evening avoids both heat and crowds; the memorials are lit and open 24 hours. Late March to early April brings cherry blossoms at the Tidal Basin, while fall offers similar mild weather with smaller crowds.
+    a: >-
+      Early morning or evening avoids both heat and crowds; the memorials are
+      lit and open 24 hours. Late March to early April brings cherry blossoms at
+      the Tidal Basin, while fall offers similar mild weather with smaller
+      crowds.
   - q: What else is nearby worth combining with a Mall visit?
-    a: The Tidal Basin (cherry blossoms, MLK and FDR Memorials, Jefferson Memorial) sits just south, and the Smithsonian museums lining the Mall's edges — Natural History, American History, African American History and Culture — can each easily fill a few extra hours.
+    a: >-
+      The Tidal Basin (cherry blossoms, MLK and FDR Memorials, Jefferson
+      Memorial) sits just south, and the Smithsonian museums lining the Mall's
+      edges — Natural History, American History, African American History and
+      Culture — can each easily fill a few extra hours.
 aiGenerated: true
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

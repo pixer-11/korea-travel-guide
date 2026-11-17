@@ -1,29 +1,35 @@
 ---
 title: 'Emperor Qinshihuang''s Mausoleum Site Museum: Xian Travel Guide'
-description: Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an.
+description: >-
+  Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta
+  Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an.
 country: China
 region: Xi'an
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5315953_sXUtAFywlFx3FZqyi7Yk-xEKV-_aWDVw6xzOJF0ZFYA.jpg
-  credit: 'Photo: Foursquare user content (Emperor Qinshihuang''s Mausoleum Artifacts Exhibition Hall (秦始皇帝陵文物陈列厅))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/5315953_sXUtAFywlFx3FZqyi7Yk-xEKV-_aWDVw6xzOJF0ZFYA.jpg
+  credit: >-
+    Photo: Foursquare user content (Emperor Qinshihuang's Mausoleum Artifacts
+    Exhibition Hall (秦始皇帝陵文物陈列厅))
   license: foursquare
-  source: https://foursquare.com/v/5774c8cf498ea0c5b6e811cf
+  source: 'https://foursquare.com/v/5774c8cf498ea0c5b6e811cf'
   focus:
     x: 50
-    y: 25
+    'y': 25
 place:
   id: ChIJowMUgi2nZDYRxz_j6XQ-48M
   name: Emperor Qinshihuang's Mausoleum Site Museum
-  address: Lintong District, Xi'An, Shaanxi, China, 710612
+  address: 'Lintong District, Xi''An, Shaanxi, China, 710612'
   rating: 4.6
-  userRatingsTotal: 8447
-  googleMapsUrl: https://maps.google.com/?cid=14115194328970379207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9220
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14115194328970379207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.3841153
   lng: 109.2784918
-  phone: '+86 29 8139 9127'
+  phone: +86 29 8139 9127
   openingHours:
     - 'Monday: 8:30 AM – 6:30 PM'
     - 'Tuesday: 8:30 AM – 6:30 PM'
@@ -35,20 +41,40 @@ place:
 tags:
   - xi'an
   - Terracotta Army
-quickAnswer: 'Emperor Qinshihuang''s Mausoleum Site Museum — better known as the Terracotta Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi''an. Plan a half-day: 2.5–3.5 hours to see the three excavation pits and the bronze chariot hall. Go early on a weekday, hire an official guide or audio guide at the gate, and Pit 1 last for the full-scale "wow" of the army in formation.'
+quickAnswer: >-
+  Emperor Qinshihuang's Mausoleum Site Museum — better known as the Terracotta
+  Army — is in Lintong District, about 1.5 hours (40km) east of downtown Xi'an.
+  Plan a half-day: 2.5–3.5 hours to see the three excavation pits and the bronze
+  chariot hall. Go early on a weekday, hire an official guide or audio guide at
+  the gate, and Pit 1 last for the full-scale "wow" of the army in formation.
 faq:
   - q: How do I get to the Terracotta Army from downtown Xi'an?
-    a: Take Tourist Bus Line 5 (You You 5 / Bus 306) from the east square of Xi'an Railway Station, or a taxi/Didi — both take about 1.5 hours for the 40km trip to Lintong District.
+    a: >-
+      Take Tourist Bus Line 5 (You You 5 / Bus 306) from the east square of
+      Xi'an Railway Station, or a taxi/Didi — both take about 1.5 hours for the
+      40km trip to Lintong District.
   - q: How much time should I budget for the visit?
-    a: Plan 2.5 to 3.5 hours to see all three pits and the bronze chariot exhibition hall without rushing; add extra time if you also visit the emperor's burial mound nearby.
+    a: >-
+      Plan 2.5 to 3.5 hours to see all three pits and the bronze chariot
+      exhibition hall without rushing; add extra time if you also visit the
+      emperor's burial mound nearby.
   - q: Which pit should I see first?
-    a: See Pits 2 and 3 first for context on excavation and formation, then finish with Pit 1 — the largest and most visually striking, with over 6,000 warriors in formation.
+    a: >-
+      See Pits 2 and 3 first for context on excavation and formation, then
+      finish with Pit 1 — the largest and most visually striking, with over
+      6,000 warriors in formation.
   - q: Is it worth hiring a guide?
-    a: Yes — on-site signage is limited given the site's significance, and a licensed guide or audio guide explains details like faded original paint and why the main tomb remains unexcavated.
+    a: >-
+      Yes — on-site signage is limited given the site's significance, and a
+      licensed guide or audio guide explains details like faded original paint
+      and why the main tomb remains unexcavated.
   - q: What's the best time of year and day to visit?
-    a: Go early on a weekday in spring (April–May) or autumn (September–October) to avoid tour-group crowds and extreme summer heat.
+    a: >-
+      Go early on a weekday in spring (April–May) or autumn (September–October)
+      to avoid tour-group crowds and extreme summer heat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

@@ -26,13 +26,13 @@ place:
   name: Christmas in Alsace
   address: '10 Rue des Dentelles, 67000 Strasbourg, France'
   rating: 4.4
-  userRatingsTotal: 538
+  userRatingsTotal: 559
   googleMapsUrl: >-
     https://maps.google.com/?cid=684859465865441705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.5808609
   lng: 7.7430759999999985
-  phone: '+33 3 88 32 32 32'
+  phone: +33 3 88 32 32 32
   openingHours:
     - 'Monday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
     - 'Tuesday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
@@ -90,6 +90,7 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
+updatedDate: '2026-11-17'
 ---
 ## Why Strasbourg at Christmas
 

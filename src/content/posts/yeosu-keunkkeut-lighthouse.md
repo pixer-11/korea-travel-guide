@@ -1,56 +1,85 @@
 ---
 title: 'Keunkkeut Lighthouse ( ): Yeosu Travel Guide'
-description: 큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea views toward the Namhae Strait.
+description: >-
+  큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern
+  tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open
+  sea views toward the Namhae Strait.
 region: Yeosu
-country: "South Korea"
+country: South Korea
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/12647493_XGbSrLLG61czWtYRdJ6GaX8ED3c-u8w1YxQ2_eJRcU4.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/12647493_XGbSrLLG61czWtYRdJ6GaX8ED3c-u8w1YxQ2_eJRcU4.jpg
   credit: 'Photo: Foursquare user content (큰끝등대)'
   license: foursquare
-  source: https://foursquare.com/v/66346cd8b2003446227e4f39
+  source: 'https://foursquare.com/v/66346cd8b2003446227e4f39'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/12647493_iGtZRvSlaIE-3AhbNGXcTXeG22T8QcwIwm6RDg7Zc9E.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/12647493_iGtZRvSlaIE-3AhbNGXcTXeG22T8QcwIwm6RDg7Zc9E.jpg
     credit: 'Photo: Foursquare user content (큰끝등대)'
     license: foursquare
-    source: https://foursquare.com/v/66346cd8b2003446227e4f39
+    source: 'https://foursquare.com/v/66346cd8b2003446227e4f39'
 place:
   id: ChIJWYT5iYPbbTURqeHk9gfXwT0
   name: Keunkkeut Lighthouse (큰끝등대)
-  address: 산1-1 Pyeongsa-ri, Dolsan-eup, Yeosu, Jeollanam-do, South Korea
-  rating: 4.3
-  userRatingsTotal: 124
-  googleMapsUrl: https://maps.google.com/?cid=4450074336025698729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: '산1-1 Pyeongsa-ri, Dolsan-eup, Yeosu, Jeollanam-do, South Korea'
+  rating: 4.4
+  userRatingsTotal: 128
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4450074336025698729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.6610496
   lng: 127.80612160000001
 tags:
   - yeosu
   - hidden gem
-quickAnswer: 큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open sea views toward the Namhae Strait. It's a quiet, uncrowded coastal spot best reached by car or taxi from central Yeosu, with a short walk from the nearest parking area; plan on 30–60 minutes there, longer if paired with a coastal walk. Rated 4.3 from 124 reviews, it's a genuine hidden-gem detour for travelers who've already covered Odongdo and Hyangiram.
+quickAnswer: >-
+  큰끝등대 (Keunkkeut Lighthouse) is a small white lighthouse on the southeastern
+  tip of Dolsan Island in Yeosu, best visited around sunset or sunrise for open
+  sea views toward the Namhae Strait. It's a quiet, uncrowded coastal spot best
+  reached by car or taxi from central Yeosu, with a short walk from the nearest
+  parking area; plan on 30–60 minutes there, longer if paired with a coastal
+  walk. Rated 4.3 from 124 reviews, it's a genuine hidden-gem detour for
+  travelers who've already covered Odongdo and Hyangiram.
 faq:
   - q: How do I get to 큰끝등대 without a car?
-    a: Take a taxi from downtown Yeosu or Yeosu Expo Station across the Dolsan Bridge to Pyeongsa-ri, Dolsan-eup — about 30–40 minutes. Local buses serve Dolsan-eup but connections into Pyeongsa-ri are limited, so a taxi or rental car is the more reliable option.
+    a: >-
+      Take a taxi from downtown Yeosu or Yeosu Expo Station across the Dolsan
+      Bridge to Pyeongsa-ri, Dolsan-eup — about 30–40 minutes. Local buses serve
+      Dolsan-eup but connections into Pyeongsa-ri are limited, so a taxi or
+      rental car is the more reliable option.
   - q: Is there an entrance fee?
-    a: No, it's an open coastal site with no ticket booth or admission fee — you can walk to the viewpoint and lighthouse area freely at any time.
+    a: >-
+      No, it's an open coastal site with no ticket booth or admission fee — you
+      can walk to the viewpoint and lighthouse area freely at any time.
   - q: How long should I spend there?
-    a: Most visitors spend 30–60 minutes taking in the coastline and photographing the lighthouse; add extra time if you plan to walk further along the headland or wait for sunset.
+    a: >-
+      Most visitors spend 30–60 minutes taking in the coastline and
+      photographing the lighthouse; add extra time if you plan to walk further
+      along the headland or wait for sunset.
   - q: What's the best time of day to visit?
-    a: Sunset is the most popular time given the lighthouse's open sea-facing position; sunrise is also rewarding, especially if paired with a visit to nearby Hyangiram Hermitage the same morning.
+    a: >-
+      Sunset is the most popular time given the lighthouse's open sea-facing
+      position; sunrise is also rewarding, especially if paired with a visit to
+      nearby Hyangiram Hermitage the same morning.
   - q: What else is nearby on Dolsan Island?
-    a: Hyangiram Hermitage, Dolsan Park (with its bridge and night-view overlook), and several small seafood villages along the coast make for an easy half-day combined itinerary.
+    a: >-
+      Hyangiram Hermitage, Dolsan Park (with its bridge and night-view
+      overlook), and several small seafood villages along the coast make for an
+      easy half-day combined itinerary.
 aiGenerated: true
+updatedDate: '2026-11-17'
 ---
 
 ## Why go
 
 큰끝등대, or Keunkkeut Lighthouse, sits at the edge of Pyeongsa-ri on Dolsan Island, one of the peninsulas that make Yeosu's coastline so jagged and photogenic. Unlike the city's headline attractions (Odongdo Island, the Yi Sun-sin Bridge, or Hyangiram Hermitage) this lighthouse rarely appears on standard itineraries, which is exactly its appeal. It's a small, functional navigation light rather than a monument, but its position at the "big end" (큰끝, the literal meaning) of the headland gives it an unobstructed sweep of open water toward the Namhae Strait.
 
-With a 4.3 rating across 124 reviews, it's clearly known to a loyal circle of local and domestic travelers, even if it stays off most English-language maps.
+With a 4.4 rating across 124 reviews, it's clearly known to a loyal circle of local and domestic travelers, even if it stays off most English-language maps.
 
 ## Getting there
 

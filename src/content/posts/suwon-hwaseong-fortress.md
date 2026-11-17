@@ -1,31 +1,38 @@
 ---
 title: Hwaseong Fortress in Suwon
-description: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30 minutes south of central Seoul by KTX or 60-90 by Line 1 subway, and it''s UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command posts, and watchtowers still intact.'
+description: >-
+  Hwaseong Fortress is an 18th-century walled city in Suwon, about 30 minutes
+  south of central Seoul by KTX or 60-90 by Line 1 subway, and it's
+  UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command
+  posts, and watchtowers still intact.
 region: Suwon
 country: South Korea
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hwaseong_Fortress_01.jpg/1920px-Hwaseong_Fortress_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hwaseong_Fortress_01.jpg/1920px-Hwaseong_Fortress_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_01.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hwaseong_Fortress_03.jpg/1920px-Hwaseong_Fortress_03.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hwaseong_Fortress_03.jpg/1920px-Hwaseong_Fortress_03.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_03.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_03.jpg'
 place:
   id: ChIJuy6oD8pcezURQRbto2vkJhM
   name: Suwon Hwaseong Fortress
-  address: 320-2 Yeonghwa-dong, Jangan-gu, Suwon, Gyeonggi-do, South Korea
+  address: '320-2 Yeonghwa-dong, Jangan-gu, Suwon, Gyeonggi-do, South Korea'
   rating: 4.6
-  userRatingsTotal: 9126
-  googleMapsUrl: https://maps.google.com/?cid=1380041486798493249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9266
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1380041486798493249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.2871202
   lng: 127.01193789999999
-  phone: '+82 31-290-3600'
+  phone: +82 31-290-3600
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -37,20 +44,42 @@ place:
 tags:
   - suwon
   - Hwaseong Fortress
-quickAnswer: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30 minutes south of central Seoul by KTX or 60-90 by Line 1 subway, and it''s UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command posts, and watchtowers still intact. Budget half a day — enter near Janganmun Gate or Paldalmun Gate, walk the ramparts to Suwon Hwaseong Museum, and cap it off with the fortress''s signature dish, galbi, in the old town below.'
+quickAnswer: >-
+  Hwaseong Fortress is an 18th-century walled city in Suwon, about 30 minutes
+  south of central Seoul by KTX or 60-90 by Line 1 subway, and it's
+  UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command
+  posts, and watchtowers still intact. Budget half a day — enter near Janganmun
+  Gate or Paldalmun Gate, walk the ramparts to Suwon Hwaseong Museum, and cap it
+  off with the fortress's signature dish, galbi, in the old town below.
 faq:
   - q: How do I get to Hwaseong Fortress from Seoul?
-    a: Take Line 1 to Suwon Station (about 60-90 minutes from central Seoul), then a local bus or taxi (15-25 minutes) to Janganmun or Paldalmun Gate, the fortress's main entry points.
+    a: >-
+      Take Line 1 to Suwon Station (about 60-90 minutes from central Seoul),
+      then a local bus or taxi (15-25 minutes) to Janganmun or Paldalmun Gate,
+      the fortress's main entry points.
   - q: How long does it take to see the whole fortress?
-    a: The full 5.7km wall loop takes about 2-3 hours walking briskly, or a half day if you include the Suwon Hwaseong Museum and stops at command posts like Seojangdae.
+    a: >-
+      The full 5.7km wall loop takes about 2-3 hours walking briskly, or a half
+      day if you include the Suwon Hwaseong Museum and stops at command posts
+      like Seojangdae.
   - q: Is there an entrance fee?
-    a: Walking the wall itself is generally free, but the Suwon Hwaseong Museum and some restored buildings may charge a modest admission — check current prices before your visit.
+    a: >-
+      Walking the wall itself is generally free, but the Suwon Hwaseong Museum
+      and some restored buildings may charge a modest admission — check current
+      prices before your visit.
   - q: What's the best time of year to visit?
-    a: Spring (April cherry blossoms) and autumn (October-November foliage) offer the most comfortable temperatures and best scenery for the outdoor wall walk.
+    a: >-
+      Spring (April cherry blossoms) and autumn (October-November foliage) offer
+      the most comfortable temperatures and best scenery for the outdoor wall
+      walk.
   - q: What should I eat nearby?
-    a: Suwon is known nationwide for galbi (grilled short ribs); the area around Paldalmun Gate and Yeongdong Market has long-established galbi restaurants tied to this local tradition.
+    a: >-
+      Suwon is known nationwide for galbi (grilled short ribs); the area around
+      Paldalmun Gate and Yeongdong Market has long-established galbi restaurants
+      tied to this local tradition.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-17'
 ---
 
 ## Why Hwaseong Fortress Matters

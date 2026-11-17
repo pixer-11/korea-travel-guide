@@ -6216,7 +6216,7 @@
   "at": "2026-08-15T03:34:50.836Z"
  },
  "es/seoul-eid-halal-korean-food": {
-  "hash": "2d2eed978424",
+  "hash": "1417a716d1aa",
   "score": 1,
   "registerBreak": false,
   "worst": "El restaurante se encuentra en 15 Usadan-ro 10-gil, en el distrito de Yongsan, en la colina justo debajo",
@@ -6279,7 +6279,7 @@
   "at": "2026-08-15T06:42:10.802Z"
  },
  "es/seoul-sanchon": {
-  "hash": "a67e37dc7d97",
+  "hash": "8b36a5d04705",
   "score": 1,
   "registerBreak": false,
   "worst": "La dirección es 30-13 Insadong-gil, distrito de Jongno (Jongno District), justo en el corazón...",
@@ -7000,7 +7000,7 @@
   "at": "2026-08-15T10:40:21.819Z"
  },
  "es/tokyo-meiji-jingu": {
-  "hash": "23a5030411d7",
+  "hash": "fbc4d66161f4",
   "score": 1,
   "registerBreak": false,
   "worst": "tenlo en cuenta al planear tu visita.",
@@ -7392,7 +7392,7 @@
   "at": "2026-08-15T03:40:01.535Z"
  },
  "es/yeosu-keunkkeut-lighthouse": {
-  "hash": "2d843b81d6f9",
+  "hash": "fe563bdef03f",
   "score": 1,
   "registerBreak": false,
   "worst": "Con una valoración de 4.3 sobre 124 reseñas, es evidente que cuenta con un círculo fiel...",
@@ -13433,7 +13433,7 @@
   "at": "2026-08-15T03:06:44.139Z"
  },
  "ja/seoul-eid-halal-korean-food": {
-  "hash": "576f35975634",
+  "hash": "4520500c31bd",
   "score": 1,
   "registerBreak": false,
   "worst": "ハラール韓国料理と聞くと、多くの初訪問者には矛盾しているように聞こえるかもしれません——醤油、コチュジャン、豚肉は韓国料理の大半を支える基本要素だからです。",
@@ -13496,7 +13496,7 @@
   "at": "2026-08-15T03:07:22.332Z"
  },
  "ja/seoul-sanchon": {
-  "hash": "8e498080d5ec",
+  "hash": "6bc1a2bf6085",
   "score": 1,
   "registerBreak": false,
   "worst": "その代わりに運ばれてくるのは、野菜、キノコ、山菜、発酵食品を使った料理の長い行列だ",
@@ -14154,7 +14154,7 @@
   "at": "2026-08-15T03:11:10.862Z"
  },
  "ja/tokyo-meiji-jingu": {
-  "hash": "554739d36a5e",
+  "hash": "522773927ee6",
   "score": 1,
   "registerBreak": false,
   "worst": "参拝者は大鳥居と境内を抜けて本殿へと向かいますが、その道中では週末に行われる伝統的な神前結婚式を見かけたり",
@@ -20713,7 +20713,7 @@
   "at": "2026-08-15T02:35:09.538Z"
  },
  "ko/seoul-eid-halal-korean-food": {
-  "hash": "61dcdbb763e1",
+  "hash": "5229d3ea59da",
   "score": 1,
   "registerBreak": false,
   "worst": "이왕 언덕을 오른 김에 방문을 좀 더 늘려보세요.",
@@ -20769,7 +20769,7 @@
   "at": "2026-08-15T02:35:32.742Z"
  },
  "ko/seoul-sanchon": {
-  "hash": "27580dab46f7",
+  "hash": "0f841e6341ff",
   "score": 1,
   "registerBreak": false,
   "worst": "디자인과 공예품 노점이 모여 있는 쌈지길(Ssamziegil) 시장, 북서쪽으로 짧게 걸어가면 나오는 조계사(Jogyesa Temple)",
@@ -21406,7 +21406,7 @@
   "at": "2026-08-15T02:40:28.880Z"
  },
  "ko/tokyo-meiji-jingu": {
-  "hash": "46dd6a63b924",
+  "hash": "1faffdf4d2cb",
   "score": 1,
   "registerBreak": false,
   "worst": "스스로 자생하는 숲으로 성장하도록 의도적으로 심었고, 한 세기가 지난 지금은 공원이라기보다 태고의 야생림처럼",
@@ -21798,7 +21798,7 @@
   "at": "2026-08-15T02:42:41.754Z"
  },
  "ko/yeosu-keunkkeut-lighthouse": {
-  "hash": "0722c83aad30",
+  "hash": "8f0715990c62",
   "score": 1,
   "registerBreak": false,
   "worst": "겨울에는 사람이 더욱 적어 한적하지만, 해협에서 불어오는 바람이 매서울 수 있으니 옷차림에 신경 쓰세요.",
@@ -27517,7 +27517,7 @@
   "at": "2026-08-15T04:12:39.715Z"
  },
  "zh/seoul-eid-halal-korean-food": {
-  "hash": "f75180f630ba",
+  "hash": "9343525ca8bf",
   "score": 1,
   "registerBreak": false,
   "worst": "斋月(Ramadan)期间,营业时间和人流规律会随开斋(iftar)时间大幅调整,由于这一带的餐厅营业安排常随季节变化",
@@ -27580,7 +27580,7 @@
   "at": "2026-08-15T04:12:52.381Z"
  },
  "zh/seoul-sanchon": {
-  "hash": "03c3807bc321",
+  "hash": "0558e57613f7",
   "score": 1,
   "registerBreak": false,
   "worst": "由于这里的料理风味主要来自发酵食物和山菜，而非重盐重味的调味，因此餐后适合以一段简单的散步来收尾，而非再吃点别的。",
@@ -28224,7 +28224,7 @@
   "at": "2026-08-15T09:25:42.621Z"
  },
  "zh/tokyo-meiji-jingu": {
-  "hash": "04069af21cb8",
+  "hash": "3611be3b52b6",
   "score": 1,
   "registerBreak": false,
   "worst": "每逢周日,靠近原宿一侧的公园入口附近还常有业余音乐人和摇滚客风舞者表演。",

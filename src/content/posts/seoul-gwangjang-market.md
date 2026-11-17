@@ -1,44 +1,60 @@
 ---
 title: 'Gwangjang Market: Seoul Travel Guide'
-description: Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley for bindaetteok (mung bean pancakes), mayak gimbap ("drug" gimbap), and yukhoe (Korean beef tartare).
+description: >-
+  Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened
+  1905) and a legendary street food destination — head straight for the food
+  alley for bindaetteok (mung bean pancakes), mayak gimbap ("drug" gimbap), and
+  yukhoe (Korean beef tartare).
 region: Seoul
-country: "South Korea"
+country: South Korea
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwangjang_Market%2C_Seoul_02.jpg/3840px-Gwangjang_Market%2C_Seoul_02.jpg"
-    credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwangjang_Market%2C_Seoul_02.jpg/3840px-Gwangjang_Market%2C_Seoul_02.jpg
+    credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/441342_8fuo56XRXl7JPeE1Jz2wuxZE2DrccbejcKU_Chyfdns.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/441342_8fuo56XRXl7JPeE1Jz2wuxZE2DrccbejcKU_Chyfdns.jpg
   credit: 'Photo: Foursquare user content (Gwangjang Market (광장시장))'
   license: foursquare
-  source: https://foursquare.com/v/4bdb974cc79cc928cfb283e9
+  source: 'https://foursquare.com/v/4bdb974cc79cc928cfb283e9'
   focus:
     x: 50
-    y: 60
+    'y': 60
 place:
   id: ChIJm3V0fu2ifDURRJ8IMUijVtY
   name: Gwangjang Market
-  address: 88 Cheonggyecheon-ro, Jongno District, Seoul, South Korea
+  address: '88 Cheonggyecheon-ro, Jongno District, Seoul, South Korea'
   rating: 4.2
-  userRatingsTotal: 44118
-  googleMapsUrl: https://maps.google.com/?cid=15444711502569316164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 44481
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15444711502569316164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.570039799999996
   lng: 126.99960360000001
   priceLevel: 1
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 19, 20, 21]
+    weekdayQuiet:
+      - 9
+      - 19
+      - 20
+      - 21
     weekdayBusy:
       - 11
       - 12
       - 13
       - 14
       - 15
-    weekendQuiet: [9, 10, 19, 20, 21]
+    weekendQuiet:
+      - 9
+      - 10
+      - 19
+      - 20
+      - 21
     weekendBusy:
       - 11
       - 12
@@ -48,7 +64,7 @@ place:
       - 16
       - 17
     venueId: ven_5974566a69554d49384a5252554466693275663056336d4a496843
-  phone: '+82 2-2267-0291'
+  phone: +82 2-2267-0291
   openingHours:
     - 'Monday: 9:00 AM – 10:30 PM'
     - 'Tuesday: 9:00 AM – 10:30 PM'
@@ -62,19 +78,40 @@ tags:
   - street food
   - market
   - budget
-quickAnswer: Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley for bindaetteok (mung bean pancakes), mayak gimbap ("drug" gimbap), and yukhoe (Korean beef tartare). Go via Jongno 5(o)-ga Station (Line 1, Exit 8) and arrive by late morning to beat both lunch crowds and dinner tour groups. Budget 1-2 hours for a full tasting circuit, which is mid-range for the city; cash-friendly but most stalls now take cards.
+quickAnswer: >-
+  Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened
+  1905) and a legendary street food destination — head straight for the food
+  alley for bindaetteok (mung bean pancakes), mayak gimbap ("drug" gimbap), and
+  yukhoe (Korean beef tartare). Go via Jongno 5(o)-ga Station (Line 1, Exit 8)
+  and arrive by late morning to beat both lunch crowds and dinner tour groups.
+  Budget 1-2 hours for a full tasting circuit, which is mid-range for the city;
+  cash-friendly but most stalls now take cards.
 faq:
   - q: How do I get to Gwangjang Market by subway?
-    a: Take Line 1 to Jongno 5(o)-ga Station and use Exit 8; the market is about a one-minute walk away. Line 2 or 5 to Euljiro 4-ga Station, Exit 4, is a nearby alternative.
+    a: >-
+      Take Line 1 to Jongno 5(o)-ga Station and use Exit 8; the market is about
+      a one-minute walk away. Line 2 or 5 to Euljiro 4-ga Station, Exit 4, is a
+      nearby alternative.
   - q: What food should I try first?
-    a: Start with bindaetteok (mung bean pancake) and mayak gimbap, then add yukhoe (raw beef tartare) or sundubu if you want something more substantial. Portions are small, so plan to try several stalls.
+    a: >-
+      Start with bindaetteok (mung bean pancake) and mayak gimbap, then add
+      yukhoe (raw beef tartare) or sundubu if you want something more
+      substantial. Portions are small, so plan to try several stalls.
   - q: How much does a visit cost?
-    a: A full tasting circuit across 4-5 stalls is mid-range for the city per person, though exact prices vary by vendor and have risen in recent years.
+    a: >-
+      A full tasting circuit across 4-5 stalls is mid-range for the city per
+      person, though exact prices vary by vendor and have risen in recent years.
   - q: What's the best time to visit to avoid crowds?
-    a: Aim for late morning on a weekday, around 10:30-11:30am, before the lunch rush and well ahead of the evening tour-group crowds.
-  - q: How long should I spend there, and is anything else nearby?
-    a: Plan on 1-2 hours for eating and browsing. Cheonggyecheon Stream is a few minutes' walk south, and Dongdaemun Design Plaza is about 15-20 minutes away on foot.
+    a: >-
+      Aim for late morning on a weekday, around 10:30-11:30am, before the lunch
+      rush and well ahead of the evening tour-group crowds.
+  - q: 'How long should I spend there, and is anything else nearby?'
+    a: >-
+      Plan on 1-2 hours for eating and browsing. Cheonggyecheon Stream is a few
+      minutes' walk south, and Dongdaemun Design Plaza is about 15-20 minutes
+      away on foot.
 aiGenerated: true
+updatedDate: '2026-11-17'
 ---
 ## Why Gwangjang Market Matters
 

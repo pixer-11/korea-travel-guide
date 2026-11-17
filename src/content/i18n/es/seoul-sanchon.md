@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-sanchon
-srcHash: 'd2c210dfd537'
+srcHash: '86c84d6958b4'
 title: 'Sanchon: dónde comer en Seúl'
 description: Sanchon es un restaurante de comida de templo escondido en un callejón estrecho junto a Insadong-gil, en el centro de Seúl, que sirve un menú fijo sin carne ni ajo/cebolla.
 quickAnswer: 'Sanchon es un restaurante de comida de templo escondido en un callejón estrecho junto a Insadong-gil, en el centro de Seúl, que sirve un menú fijo, sin carne ni ajo/cebolla, inspirado en la cocina monástica budista. Ve con hambre y sin prisas: una comida dura entre 90 minutos y dos horas, con 10-20 platillos pequeños más arroz y sopa. Reserva con antelación si puedes, el código de vestimenta es informal, y combínalo con una tarde paseando por las tiendas de artesanía y té de Insadong.'
@@ -24,7 +24,7 @@ Sanchon (산촌) lleva décadas sirviendo comida de templo budista coreana en In
 
 En su lugar, llega una larga sucesión de platos de verduras, hongos, hierbas silvestres y fermentados: papilla de calabaza, gelatina de bellota (dotorimuk), namul de temporada, guisos a base de doenjang, y un elenco rotativo de banchan elaborados casi por completo con tofu, hierbas silvestres y verduras de montaña (sancheol, literalmente "verduras de montaña", es de donde viene el nombre Sanchon).
 
-Con 4,1 estrellas en 733 reseñas, es una parada muy conocida para los visitantes que buscan específicamente una comida sin carne, al estilo monástico, en lugar del clásico BBQ coreano.
+Con 4,0 estrellas en 733 reseñas, es una parada muy conocida para los visitantes que buscan específicamente una comida sin carne, al estilo monástico, en lugar del clásico BBQ coreano.
 
 ## Cómo llegar
 

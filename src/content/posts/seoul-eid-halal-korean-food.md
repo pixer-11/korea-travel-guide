@@ -1,37 +1,44 @@
 ---
 title: 'EID Halal Korean Food: Where to Eat in Seoul'
-description: EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like halal bulgogi, dak-galbi, and Korean fried chicken.
+description: >-
+  EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area
+  (near the Seoul Central Mosque) serving halal-certified Korean dishes like
+  halal bulgogi, dak-galbi, and Korean fried chicken.
 region: Seoul
 country: South Korea
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/3571118_qi-8kFVfMI2OL0YpehAC14bmIV9Sc2rkE6fO2ZEVxGc.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/3571118_qi-8kFVfMI2OL0YpehAC14bmIV9Sc2rkE6fO2ZEVxGc.jpg
   credit: 'Photo: Foursquare user content (Eid)'
   license: foursquare
-  source: https://foursquare.com/v/543cf20b498eef542d20c8a7
+  source: 'https://foursquare.com/v/543cf20b498eef542d20c8a7'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/109762248_ZPKjFttErWKeFAgYGq7v3BZqUR7xE7IB86puHVJ2QnE.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/109762248_ZPKjFttErWKeFAgYGq7v3BZqUR7xE7IB86puHVJ2QnE.jpg
     credit: 'Photo: Foursquare user content (Eid)'
     license: foursquare
-    source: https://foursquare.com/v/543cf20b498eef542d20c8a7
+    source: 'https://foursquare.com/v/543cf20b498eef542d20c8a7'
 place:
   id: ChIJa0VtDbWjfDURqx-5tftT9es
   name: EID Halal Korean Food
-  address: 15 Usadan-ro 10-gil, Yongsan District, Seoul, South Korea
-  rating: 4.5
-  userRatingsTotal: 1196
+  address: '15 Usadan-ro 10-gil, Yongsan District, Seoul, South Korea'
+  rating: 4.4
+  userRatingsTotal: 1220
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=17002588308757880747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17002588308757880747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.533220400000005
   lng: 126.99638899999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12]
+    weekdayQuiet:
+      - 12
     weekdayBusy:
       - 19
     weekendBusy:
@@ -41,7 +48,7 @@ place:
       - 19
       - 20
     venueId: ven_73653954746674352d7871525544666a576244745630614a496843
-  phone: '+82 70-8899-8210'
+  phone: +82 70-8899-8210
   openingHours:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
@@ -53,23 +60,45 @@ place:
 tags:
   - seoul
   - halal food Itaewon
-quickAnswer: EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area (near the Seoul Central Mosque) serving halal-certified Korean dishes like halal bulgogi, dak-galbi, and Korean fried chicken. Go for lunch or early dinner, expect a short wait given its 4.5-star reputation from nearly 1,200 reviews, and pair the meal with a walk up to the mosque and the Islam Central Masjid market street. It's a mid-range spot for the city (price level 2).
+quickAnswer: >-
+  EID Halal Korean Food is a small, no-frills eatery in Itaewon's Usadan-ro area
+  (near the Seoul Central Mosque) serving halal-certified Korean dishes like
+  halal bulgogi, dak-galbi, and Korean fried chicken. Go for lunch or early
+  dinner, expect a short wait given its 4.5-star reputation from nearly 1,200
+  reviews, and pair the meal with a walk up to the mosque and the Islam Central
+  Masjid market street. It's a mid-range spot for the city (price level 2).
 faq:
   - q: How do I get to EID Halal Korean Food?
-    a: Take Line 6 to Itaewon Station, use Exit 3, then walk uphill about 10–12 minutes along Usadan-ro toward the Seoul Central Mosque; the restaurant is on Usadan-ro 10-gil just below the mosque.
+    a: >-
+      Take Line 6 to Itaewon Station, use Exit 3, then walk uphill about 10–12
+      minutes along Usadan-ro toward the Seoul Central Mosque; the restaurant is
+      on Usadan-ro 10-gil just below the mosque.
   - q: How much does a meal cost?
-    a: It's a mid-range spot (price level 2) for the city — confirm current menu prices on-site since they can shift.
+    a: >-
+      It's a mid-range spot (price level 2) for the city — confirm current menu
+      prices on-site since they can shift.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday early afternoons between 2:30 and 5pm tend to be quietest. Avoid Friday around midday, when the street fills up after Jummah prayers at the neighboring mosque.
+    a: >-
+      Weekday early afternoons between 2:30 and 5pm tend to be quietest. Avoid
+      Friday around midday, when the street fills up after Jummah prayers at the
+      neighboring mosque.
   - q: Is the food genuinely halal-certified?
-    a: The restaurant markets itself specifically as halal Korean food and is popular with Muslim visitors and the local mosque community, but as always with dietary requirements, ask staff about specific certification details if you need documentation.
+    a: >-
+      The restaurant markets itself specifically as halal Korean food and is
+      popular with Muslim visitors and the local mosque community, but as always
+      with dietary requirements, ask staff about specific certification details
+      if you need documentation.
   - q: What else is nearby worth seeing?
-    a: The Seoul Central Mosque is a two-minute walk uphill and open to visitors outside prayer times; the broader Itaewon district with its bars, boutiques, and the Leeum Museum of Art is a short walk or taxi ride away.
+    a: >-
+      The Seoul Central Mosque is a two-minute walk uphill and open to visitors
+      outside prayer times; the broader Itaewon district with its bars,
+      boutiques, and the Leeum Museum of Art is a short walk or taxi ride away.
 aiGenerated: true
+updatedDate: '2026-11-17'
 ---
 ## Why go
 
-Halal Korean food sounds like a contradiction to many first-time visitors (soy sauce, gochujang, and pork are the backbone of most Korean menus), but Itaewon's Usadan-ro neighborhood has quietly built a small halal food district around the Seoul Central Mosque, and EID Halal Korean Food is one of the standout kitchens there. It takes staples like bulgogi, dak-galbi, and fried chicken and reworks them with halal-certified meat and modified sauces, so Muslim travelers (and anyone curious) can eat Korean comfort food without compromise. With a 4.5-star rating across nearly 1,200 reviews, it's become a reliable stop rather than a novelty act.
+Halal Korean food sounds like a contradiction to many first-time visitors (soy sauce, gochujang, and pork are the backbone of most Korean menus), but Itaewon's Usadan-ro neighborhood has quietly built a small halal food district around the Seoul Central Mosque, and EID Halal Korean Food is one of the standout kitchens there. It takes staples like bulgogi, dak-galbi, and fried chicken and reworks them with halal-certified meat and modified sauces, so Muslim travelers (and anyone curious) can eat Korean comfort food without compromise. With a 4.4-star rating across nearly 1,200 reviews, it's become a reliable stop rather than a novelty act.
 
 ## Getting there
 

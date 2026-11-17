@@ -1,25 +1,30 @@
 ---
 title: 'Gyeongbokgung Palace: Seoul Travel Guide'
-description: Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost directly to the main gate.
+description: >-
+  Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is
+  best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost
+  directly to the main gate.
 region: Seoul
 country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/67350312_h2FqJ-DhM8cRlX91Qeg0L59R3anjSbmbKUbJmQN4tr4.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/67350312_h2FqJ-DhM8cRlX91Qeg0L59R3anjSbmbKUbJmQN4tr4.jpg
   credit: 'Photo: Foursquare user content (Gyeongbokgung Palace (경복궁))'
   license: foursquare
-  source: https://foursquare.com/v/4b68220ef964a52087682be3
+  source: 'https://foursquare.com/v/4b68220ef964a52087682be3'
   focus:
     x: 50
-    y: 35
+    'y': 35
 place:
   id: ChIJod7tSseifDUR9hXHLFNGMIs
   name: Gyeongbokgung Palace
-  address: 161 Sajik-ro, Jongno District, Seoul, South Korea
+  address: '161 Sajik-ro, Jongno District, Seoul, South Korea'
   rating: 4.6
-  userRatingsTotal: 46637
-  googleMapsUrl: https://maps.google.com/?cid=10029593693201569270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 47364
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10029593693201569270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.579617
   lng: 126.977041
@@ -35,19 +40,44 @@ place:
 tags:
   - seoul
   - palaces
-quickAnswer: Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost directly to the main gate. Plan on 2-3 hours to see Geunjeongjeon Throne Hall, Gyeonghoeru Pavilion, and the National Folk Museum on the grounds, and try to time your visit around the Royal Guard Changing Ceremony at the front gate. The palace is closed on Tuesdays, so check the official schedule before heading out.
+quickAnswer: >-
+  Gyeongbokgung Palace, Seoul's largest and grandest Joseon-era royal palace, is
+  best reached via Gyeongbokgung Station (Line 3), Exit 5, which leads almost
+  directly to the main gate. Plan on 2-3 hours to see Geunjeongjeon Throne Hall,
+  Gyeonghoeru Pavilion, and the National Folk Museum on the grounds, and try to
+  time your visit around the Royal Guard Changing Ceremony at the front gate.
+  The palace is closed on Tuesdays, so check the official schedule before
+  heading out.
 faq:
   - q: How do I get to Gyeongbokgung Palace by subway?
-    a: Take Line 3 to Gyeongbokgung Station and use Exit 5, which leads almost directly to the palace's ticket area. Line 5's Gwanghwamun Station, Exit 2, is a good alternative if you want to arrive near the main gate for the guard ceremony.
+    a: >-
+      Take Line 3 to Gyeongbokgung Station and use Exit 5, which leads almost
+      directly to the palace's ticket area. Line 5's Gwanghwamun Station, Exit
+      2, is a good alternative if you want to arrive near the main gate for the
+      guard ceremony.
   - q: How much time should I budget for a visit?
-    a: Plan on 2-3 hours to see the main halls, Gyeonghoeru Pavilion, and Hyangwonjeong. Add 30-60 minutes if you want to include the National Folk Museum or National Palace Museum on the grounds.
+    a: >-
+      Plan on 2-3 hours to see the main halls, Gyeonghoeru Pavilion, and
+      Hyangwonjeong. Add 30-60 minutes if you want to include the National Folk
+      Museum or National Palace Museum on the grounds.
   - q: Is the palace closed on any day?
-    a: Yes, Gyeongbokgung is closed on Tuesdays, along with several of Seoul's other grand palaces on a rotating basis. Confirm the current schedule before visiting since holiday hours can also shift.
+    a: >-
+      Yes, Gyeongbokgung is closed on Tuesdays, along with several of Seoul's
+      other grand palaces on a rotating basis. Confirm the current schedule
+      before visiting since holiday hours can also shift.
   - q: Does wearing hanbok really get free admission?
-    a: Yes, visitors wearing traditional hanbok are admitted free. Numerous rental shops line the streets just outside the palace, and this is a popular option for photos in front of Gyeonghoeru Pavilion and the throne hall.
+    a: >-
+      Yes, visitors wearing traditional hanbok are admitted free. Numerous
+      rental shops line the streets just outside the palace, and this is a
+      popular option for photos in front of Gyeonghoeru Pavilion and the throne
+      hall.
   - q: What's the best time of year to visit?
-    a: Late October to early November is considered peak season for foliage around Gyeonghoeru and Hyangwonjeong, while April brings cherry blossoms along the palace walls. Early mornings year-round are quieter than midday.
+    a: >-
+      Late October to early November is considered peak season for foliage
+      around Gyeonghoeru and Hyangwonjeong, while April brings cherry blossoms
+      along the palace walls. Early mornings year-round are quieter than midday.
 aiGenerated: true
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

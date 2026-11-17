@@ -1,39 +1,53 @@
 ---
 title: 'Mermaid Coffee Roasters: Sapporo Travel Guide'
-description: Mermaid Coffee Roasters is a small-batch specialty roaster and cafe in Sapporo's Susukino/Minami 3 district, a few minutes' walk from Susukino Station on the Namboku Line.
+description: >-
+  Mermaid Coffee Roasters is a small-batch specialty roaster and cafe in
+  Sapporo's Susukino/Minami 3 district, a few minutes' walk from Susukino
+  Station on the Namboku Line.
 country: Japan
 region: Sapporo
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/355373377_dnonDwB2xBwVtIwpCC9MabZkDALWv4dxTLR3kALGAeM.jpg"
-    credit: "Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー ロースターズ))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/643a12df065d1311281954ab"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/355373377_dnonDwB2xBwVtIwpCC9MabZkDALWv4dxTLR3kALGAeM.jpg
+    credit: >-
+      Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー
+      ロースターズ))
+    license: foursquare
+    source: 'https://foursquare.com/v/643a12df065d1311281954ab'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6187870_VNKpL2EkWmZy_vamddgoFjU51CXDTQ3ct3qz4Ixtyfg.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/6187870_VNKpL2EkWmZy_vamddgoFjU51CXDTQ3ct3qz4Ixtyfg.jpg
   credit: 'Photo: Foursquare user content (Mermaid Coffee Roasters (マーメイド コーヒー ロースターズ))'
   license: foursquare
-  source: https://foursquare.com/v/643a12df065d1311281954ab
+  source: 'https://foursquare.com/v/643a12df065d1311281954ab'
 place:
   id: ChIJMeHdZnApC18RhUmGUbAfkSk
   name: Mermaid Coffee Roasters
-  address: 1-chōme-12-7 Minami 3 Jōnishi, Chuo Ward, Sapporo, Hokkaido 060-0063, Japan
+  address: '1-chōme-12-7 Minami 3 Jōnishi, Chuo Ward, Sapporo, Hokkaido 060-0063, Japan'
   rating: 4.8
-  userRatingsTotal: 1512
-  googleMapsUrl: https://maps.google.com/?cid=2995210069320550789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1703
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2995210069320550789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.057817899999996
   lng: 141.357399
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [15, 16, 17]
+    weekdayQuiet:
+      - 15
+      - 16
+      - 17
     weekdayBusy:
       - 10
       - 11
       - 12
       - 13
-    weekendQuiet: [15, 16, 17]
+    weekendQuiet:
+      - 15
+      - 16
+      - 17
     weekendBusy:
       - 9
       - 10
@@ -42,7 +56,7 @@ place:
       - 13
       - 14
     venueId: ven_6b536b66416255476d55685238314370416e5a6448654d4a496843
-  phone: '+81 11-207-2244'
+  phone: +81 11-207-2244
   openingHours:
     - 'Monday: 8:00 AM – 6:00 PM'
     - 'Tuesday: 8:00 AM – 6:00 PM'
@@ -51,23 +65,46 @@ place:
     - 'Friday: 8:00 AM – 6:00 PM'
     - 'Saturday: 8:00 AM – 6:00 PM'
     - 'Sunday: 8:00 AM – 6:00 PM'
+  priceLevel: 1
 tags:
   - sapporo
   - trendy cafe
-quickAnswer: Mermaid Coffee Roasters is a small-batch specialty roaster and cafe in Sapporo's Susukino/Minami 3 district, a few minutes' walk from Susukino Station on the Namboku Line. Go for a slow pour-over or espresso in a minimalist, plant-filled space, and expect a short wait given its cult following (4.8 stars, 1,500+ reviews). Budget 30–45 minutes, and go on a weekday morning to avoid the busiest afternoon crowds.
+quickAnswer: >-
+  Mermaid Coffee Roasters is a small-batch specialty roaster and cafe in
+  Sapporo's Susukino/Minami 3 district, a few minutes' walk from Susukino
+  Station on the Namboku Line. Go for a slow pour-over or espresso in a
+  minimalist, plant-filled space, and expect a short wait given its cult
+  following (4.8 stars, 1,500+ reviews). Budget 30–45 minutes, and go on a
+  weekday morning to avoid the busiest afternoon crowds.
 faq:
   - q: What's the nearest station to Mermaid Coffee Roasters?
-    a: Susukino Station on the Namboku Line is closest, roughly a short walk south into the Minami 3-jo Nishi grid. Odori Station is a slightly longer walk (10–12 minutes) if you're coming from Odori Park.
+    a: >-
+      Susukino Station on the Namboku Line is closest, roughly a short walk
+      south into the Minami 3-jo Nishi grid. Odori Station is a slightly longer
+      walk (10–12 minutes) if you're coming from Odori Park.
   - q: How long should I plan to spend there?
-    a: 30–45 minutes is typical for a pour-over or espresso and a bit of downtime; seating is limited, so it's more of a sit-and-sip stop than a quick grab-and-go.
-  - q: Is it busy, and when's the best time to visit?
-    a: Yes — with a 4.8 rating from over 1,500 reviews, it draws steady crowds. Weekday mornings before 11am are the quietest window; weekends and evenings can mean a short queue.
+    a: >-
+      30–45 minutes is typical for a pour-over or espresso and a bit of
+      downtime; seating is limited, so it's more of a sit-and-sip stop than a
+      quick grab-and-go.
+  - q: 'Is it busy, and when''s the best time to visit?'
+    a: >-
+      Yes — with a 4.8 rating from over 1,500 reviews, it draws steady crowds.
+      Weekday mornings before 11am are the quietest window; weekends and
+      evenings can mean a short queue.
   - q: What should I order?
-    a: Ask staff about the current single-origin lineup, usually listed with tasting notes at the counter, and choose based on whether you prefer a brighter, fruitier cup or a darker, chocolatey one. Pastries, if available, tend to sell out earlier in the day.
+    a: >-
+      Ask staff about the current single-origin lineup, usually listed with
+      tasting notes at the counter, and choose based on whether you prefer a
+      brighter, fruitier cup or a darker, chocolatey one. Pastries, if
+      available, tend to sell out earlier in the day.
   - q: What else is nearby worth combining with the visit?
-    a: It's a short walk from Susukino's Ramen Yokocho alley, Odori Park, and the Sapporo TV Tower, making it easy to fold into a half-day downtown loop.
+    a: >-
+      It's a short walk from Susukino's Ramen Yokocho alley, Odori Park, and the
+      Sapporo TV Tower, making it easy to fold into a half-day downtown loop.
 aiGenerated: true
 galleryAddedOn: '2026-11-01'
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

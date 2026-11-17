@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tokyo-meiji-jingu
-srcHash: 'f08b2e8ee18b'
+srcHash: '1230ee093b81'
 title: 'Meiji Jingu: Guía de viaje de Tokio'
 description: Meiji Jingu es el santuario sintoísta más majestuoso de Tokio, escondido dentro de un bosque de 170 acres entre Harajuku y el parque Yoyogi.
 quickAnswer: Meiji Jingu es el santuario sintoísta más majestuoso de Tokio, escondido dentro de un bosque de 170 acres entre Harajuku y el parque Yoyogi. Entra por el imponente torii de madera que da a Omotesando o desde el lado de Takeshita/Omotesando de la estación de Harajuku, calcula entre 60 y 90 minutos para recorrer el camino de grava hasta el salón principal, y ve temprano por la mañana en un día de semana para evitar las multitudes que se acumulan hacia el mediodía.
@@ -22,7 +22,7 @@ faq:
 
 Meiji Jingu se construyó en 1920 para consagrar los espíritus deificados del emperador Meiji y la emperatriz Shoken, la pareja imperial a la que se atribuye haber guiado a Japón hacia la era moderna. Lo verdaderamente notable no son solo los edificios del santuario —reconstruidos en la década de 1950 tras la destrucción de los originales por los bombardeos de la guerra—, sino el bosque que los rodea.
 
-Más de 100.000 árboles, donados desde todos los rincones de Japón en la fundación del santuario, se plantaron deliberadamente para que madurasen hasta convertirse en un bosque autosuficiente, y un siglo después se siente como naturaleza salvaje ancestral más que como un parque público. Con una calificación de 4,6 en más de 51.000 reseñas, es uno de los lugares mejor valorados de Tokio de manera constante y, a diferencia de muchos templos de la ciudad, recorrer sus terrenos no cuesta nada.
+Más de 100.000 árboles, donados desde todos los rincones de Japón en la fundación del santuario, se plantaron deliberadamente para que madurasen hasta convertirse en un bosque autosuficiente, y un siglo después se siente como naturaleza salvaje ancestral más que como un parque público. Con una calificación de 4,7 en más de 51.000 reseñas, es uno de los lugares mejor valorados de Tokio de manera constante y, a diferencia de muchos templos de la ciudad, recorrer sus terrenos no cuesta nada.
 
 ## Cómo llegar
 

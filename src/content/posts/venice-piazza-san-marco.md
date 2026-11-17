@@ -1,47 +1,76 @@
 ---
 title: 'Piazza San Marco: Venice Travel Guide'
-description: Piazza San Marco is Venice's grand central square, framed by St. Mark's Basilica, the Campanile bell tower, and the Doge's Palace.
+description: >-
+  Piazza San Marco is Venice's grand central square, framed by St. Mark's
+  Basilica, the Campanile bell tower, and the Doge's Palace.
 country: Italy
 region: Venice
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Panorama_Piazza_San_Marco_and_Venice_on_Easter_2013.jpg/1920px-Panorama_Piazza_San_Marco_and_Venice_on_Easter_2013.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Panorama_Piazza_San_Marco_and_Venice_on_Easter_2013.jpg/1920px-Panorama_Piazza_San_Marco_and_Venice_on_Easter_2013.jpg
   credit: 'Photo: Wolfgang Moroder / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Panorama_Piazza_San_Marco_and_Venice_on_Easter_2013.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Panorama_Piazza_San_Marco_and_Venice_on_Easter_2013.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Piazza_San_Marco_%28Venice%29_-_Clock_tower_-_Lion_of_San_Marco.jpg/1920px-Piazza_San_Marco_%28Venice%29_-_Clock_tower_-_Lion_of_San_Marco.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Piazza_San_Marco_%28Venice%29_-_Clock_tower_-_Lion_of_San_Marco.jpg/1920px-Piazza_San_Marco_%28Venice%29_-_Clock_tower_-_Lion_of_San_Marco.jpg
     credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_-_Clock_tower_-_Lion_of_San_Marco.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_(Venice)_-_Clock_tower_-_Lion_of_San_Marco.jpg
 place:
   id: ChIJiYRBbtexfkcRG_b_RJa70AI
   name: Piazza San Marco
-  address: P.za San Marco, 30124 Venezia VE, Italy
+  address: 'P.za San Marco, 30124 Venezia VE, Italy'
   rating: 4.7
-  userRatingsTotal: 194883
-  googleMapsUrl: https://maps.google.com/?cid=202868237308786203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 197736
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=202868237308786203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.4341668
   lng: 12.3384717
 tags:
   - venice
   - St Marks Square
-quickAnswer: Piazza San Marco is Venice's grand central square, framed by St. Mark's Basilica, the Campanile bell tower, and the Doge's Palace. Go early (before 9am) or after dinner to see it without crowds, and budget half a day to cover the square, basilica, and a climb up the bell tower. It's flat, free to enter, and reachable on foot from anywhere in the historic center or by vaporetto to the San Marco stops.
+quickAnswer: >-
+  Piazza San Marco is Venice's grand central square, framed by St. Mark's
+  Basilica, the Campanile bell tower, and the Doge's Palace. Go early (before
+  9am) or after dinner to see it without crowds, and budget half a day to cover
+  the square, basilica, and a climb up the bell tower. It's flat, free to enter,
+  and reachable on foot from anywhere in the historic center or by vaporetto to
+  the San Marco stops.
 faq:
   - q: How do I get to Piazza San Marco?
-    a: Take vaporetto line 1, 2, or 5.1 to San Marco-Vallaresso or San Zaccaria, or walk 30-40 minutes from the train station through the historic center. There's no car or bus access anywhere in central Venice.
+    a: >-
+      Take vaporetto line 1, 2, or 5.1 to San Marco-Vallaresso or San Zaccaria,
+      or walk 30-40 minutes from the train station through the historic center.
+      There's no car or bus access anywhere in central Venice.
   - q: How much time should I budget?
-    a: 'Plan at least half a day: about 45-60 minutes for the basilica, 30 minutes for the Campanile, and 1-2 hours for the Doge''s Palace, plus time to simply sit in the square.'
+    a: >-
+      Plan at least half a day: about 45-60 minutes for the basilica, 30 minutes
+      for the Campanile, and 1-2 hours for the Doge's Palace, plus time to
+      simply sit in the square.
   - q: Is Piazza San Marco free to visit?
-    a: The square itself and the basilica's main entrance are free, though skip-the-line tickets, the Campanile, Doge's Palace, and the clock tower all charge admission that changes periodically — check official sites before you go.
+    a: >-
+      The square itself and the basilica's main entrance are free, though
+      skip-the-line tickets, the Campanile, Doge's Palace, and the clock tower
+      all charge admission that changes periodically — check official sites
+      before you go.
   - q: What's the best time of day to visit?
-    a: Before 9am or after 7pm for the fewest crowds; midday (10am-4pm) is consistently packed, especially when cruise ships dock.
+    a: >-
+      Before 9am or after 7pm for the fewest crowds; midday (10am-4pm) is
+      consistently packed, especially when cruise ships dock.
   - q: What's nearby worth combining with a visit?
-    a: The Bridge of Sighs, Correr Museum, the waterfront Bacino di San Marco for lagoon views, and vaporetto connections to Murano and Burano are all within a few minutes' walk or short boat ride.
+    a: >-
+      The Bridge of Sighs, Correr Museum, the waterfront Bacino di San Marco for
+      lagoon views, and vaporetto connections to Murano and Burano are all
+      within a few minutes' walk or short boat ride.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

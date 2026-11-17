@@ -1,43 +1,52 @@
 ---
 title: 'Shiroi Koibito Park: Sapporo Travel Guide'
-description: Shiroi Koibito Park is a whimsical chocolate-themed museum and factory run by confectioner Ishiya, located in Nishi Ward on Sapporo's western edge.
+description: >-
+  Shiroi Koibito Park is a whimsical chocolate-themed museum and factory run by
+  confectioner Ishiya, located in Nishi Ward on Sapporo's western edge.
 country: Japan
 region: Sapporo
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/60958879_QIWpgiigr2GufCC5d-Bi28RNVVxqnaXRzoaE_djZu-0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/60958879_QIWpgiigr2GufCC5d-Bi28RNVVxqnaXRzoaE_djZu-0.jpg
   credit: 'Photo: Foursquare user content (Shiroi Koibito Park (白い恋人パーク))'
   license: foursquare
-  source: https://foursquare.com/v/4b76498cf964a520c2462ee3
+  source: 'https://foursquare.com/v/4b76498cf964a520c2462ee3'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg/1920px-%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg/1920px-%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg
     credit: 'Photo: t-konno / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg
 place:
   id: ChIJU8vHZBIoC18RkQEK1Lg8HsI
   name: Shiroi Koibito Park
-  address: 2-chōme-11-36 Miyanosawa 2 Jō, Nishi Ward, Sapporo, Hokkaido 063-0052, Japan
+  address: '2-chōme-11-36 Miyanosawa 2 Jō, Nishi Ward, Sapporo, Hokkaido 063-0052, Japan'
   rating: 4.2
-  userRatingsTotal: 24472
-  googleMapsUrl: https://maps.google.com/?cid=13987684257188413841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 25471
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13987684257188413841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.088875099999996
   lng: 141.2717042
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 17]
-    weekendQuiet: [17]
+    weekdayQuiet:
+      - 10
+      - 17
+    weekendQuiet:
+      - 17
     weekendBusy:
       - 13
       - 14
       - 15
     venueId: ven_49734838674c314b45516b523831436f49425a487638554a496843
-  phone: '+81 11-666-1481'
+  phone: +81 11-666-1481
   openingHours:
     - 'Monday: 10:00 AM – 6:00 PM'
     - 'Tuesday: 10:00 AM – 6:00 PM'
@@ -49,20 +58,42 @@ place:
 tags:
   - sapporo
   - hidden gem
-quickAnswer: Shiroi Koibito Park is a whimsical chocolate-themed museum and factory run by confectioner Ishiya, located in Nishi Ward on Sapporo's western edge. Take the subway Tozai Line to Miyanosawa Station, then a short bus or 15-minute walk, and budget 1.5–2 hours to tour the exhibits, watch cookies being made, and shop the on-site bakery. It's best paired with a half-day western Sapporo itinerary rather than as a standalone trip.
+quickAnswer: >-
+  Shiroi Koibito Park is a whimsical chocolate-themed museum and factory run by
+  confectioner Ishiya, located in Nishi Ward on Sapporo's western edge. Take the
+  subway Tozai Line to Miyanosawa Station, then a short bus or 15-minute walk,
+  and budget 1.5–2 hours to tour the exhibits, watch cookies being made, and
+  shop the on-site bakery. It's best paired with a half-day western Sapporo
+  itinerary rather than as a standalone trip.
 faq:
   - q: How do I get to Shiroi Koibito Park without a car?
-    a: Ride the Tozai subway line to Miyanosawa Station (its western terminus), then walk about 15–20 minutes or take a short local bus to the park entrance.
+    a: >-
+      Ride the Tozai subway line to Miyanosawa Station (its western terminus),
+      then walk about 15–20 minutes or take a short local bus to the park
+      entrance.
   - q: How much time should I budget for a visit?
-    a: Plan on 1.5 to 2 hours for the museum, factory-viewing corridor, and gift shop; families doing the cookie workshop and garden train often spend closer to 3 hours.
+    a: >-
+      Plan on 1.5 to 2 hours for the museum, factory-viewing corridor, and gift
+      shop; families doing the cookie workshop and garden train often spend
+      closer to 3 hours.
   - q: Is there an admission fee?
-    a: Yes, the museum and factory tour require paid admission (the garden and shop areas are generally free to enter), but check Ishiya's official website for current prices before you go, as they change periodically.
+    a: >-
+      Yes, the museum and factory tour require paid admission (the garden and
+      shop areas are generally free to enter), but check Ishiya's official
+      website for current prices before you go, as they change periodically.
   - q: What's the best time of year to visit?
-    a: Winter gives the mock-Tudor buildings a snowy, festive look that suits Sapporo's character, while June–July is best for the rose garden in full bloom.
+    a: >-
+      Winter gives the mock-Tudor buildings a snowy, festive look that suits
+      Sapporo's character, while June–July is best for the rose garden in full
+      bloom.
   - q: Can I buy Shiroi Koibito cookies cheaper here than at the airport?
-    a: Often yes — the on-site shop sells factory-fresh tins and park-exclusive flavors, sometimes at a modest discount versus airport or department store pricing.
+    a: >-
+      Often yes — the on-site shop sells factory-fresh tins and park-exclusive
+      flavors, sometimes at a modest discount versus airport or department store
+      pricing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

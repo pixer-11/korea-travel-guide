@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-eid-halal-korean-food
-srcHash: '237482dce72e'
+srcHash: '0a4ae517d9f2'
 title: 'EID Halal Korean Food: dónde comer en Seúl'
 description: EID Halal Korean Food es un restaurante pequeño y sin pretensiones en la zona de Usadan-ro, en Itaewon (cerca de la Mezquita Central de Seúl), donde se sirven platos coreanos certificados como halal, entre ellos bulgogi halal, dak-galbi y pollo frito coreano.
 quickAnswer: EID Halal Korean Food es un restaurante pequeño y sin pretensiones en la zona de Usadan-ro, en Itaewon (cerca de la Mezquita Central de Seúl), donde se sirven platos coreanos certificados como halal, entre ellos bulgogi halal, dak-galbi y pollo frito coreano. Conviene ir a la hora de comer o a media tarde para cenar temprano; hay que contar con una pequeña espera dada su reputación de 4,5 estrellas en casi 1.200 reseñas. Merece la pena combinar la comida con un paseo hasta la mezquita y la calle del mercado de Islam Central Masjid. Es un local de precio medio para la ciudad (nivel de precio 2).
@@ -22,7 +22,7 @@ faq:
 
 Para muchos visitantes que llegan por primera vez, la idea de comida coreana halal suena casi contradictoria, ya que la salsa de soja, el gochujang y el cerdo son la base de la mayoría de los menús coreanos. Sin embargo, el barrio de Usadan-ro, en Itaewon, ha construido silenciosamente un pequeño distrito de comida halal alrededor de la Mezquita Central de Seúl, y EID Halal Korean Food es una de las cocinas más destacadas de la zona.
 
-Aquí se toman platos clásicos como el bulgogi, el dak-galbi y el pollo frito, y se reinventan con carne certificada halal y salsas adaptadas, de modo que tanto los viajeros musulmanes como cualquier persona curiosa pueden disfrutar de la comida coreana de siempre sin renunciar a nada. Con una calificación de 4,5 estrellas en casi 1.200 reseñas, se ha convertido en una parada fiable, más que en una simple curiosidad.
+Aquí se toman platos clásicos como el bulgogi, el dak-galbi y el pollo frito, y se reinventan con carne certificada halal y salsas adaptadas, de modo que tanto los viajeros musulmanes como cualquier persona curiosa pueden disfrutar de la comida coreana de siempre sin renunciar a nada. Con una calificación de 4,4 estrellas en casi 1.200 reseñas, se ha convertido en una parada fiable, más que en una simple curiosidad.
 
 ## Cómo llegar
 

@@ -1,26 +1,34 @@
 ---
 title: 'Tongyeong Cablecar Skywalk: Travel Guide'
-description: Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan (461m), then walk the Skywalk glass-floor deck near the summit for panoramic views over Tongyeong's harbor and the Hallyeohaesang National Park islands.
+description: >-
+  Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan
+  (461m), then walk the Skywalk glass-floor deck near the summit for panoramic
+  views over Tongyeong's harbor and the Hallyeohaesang National Park islands.
 region: Tongyeong
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg/1920px-Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg
-  credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY-SA 3.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg/1920px-Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg
+  credit: >-
+    Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC
+    BY-SA 3.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg
 gallery: []
 place:
   id: ChIJpTSwm764bjURrOlRr1EqJSU
   name: Tongyeong Cablecar Skywalk
-  address: 910-2 Yeong-un-ri, Sanyang-eup, Tongyeong-si, Gyeongsangnam-do, South Korea
+  address: '910-2 Yeong-un-ri, Sanyang-eup, Tongyeong-si, Gyeongsangnam-do, South Korea'
   rating: 4.4
-  userRatingsTotal: 5525
-  googleMapsUrl: https://maps.google.com/?cid=2676592083863726508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5543
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2676592083863726508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.809970799999995
   lng: 128.418531
-  phone: '+82 1544-3303'
+  phone: +82 1544-3303
   openingHours:
     - 'Monday: 10:00 AM – 6:00 PM'
     - 'Tuesday: 10:00 AM – 6:00 PM'
@@ -32,20 +40,42 @@ place:
 tags:
   - tongyeong
   - cable car
-quickAnswer: Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan (461m), then walk the Skywalk glass-floor deck near the summit for panoramic views over Tongyeong's harbor and the Hallyeohaesang National Park islands. Budget 2–3 hours total including the cable car ride, summit trails, and Skywalk; go on a clear morning or before sunset to avoid haze and crowds. The attraction holds a strong 4.4 rating from over 5,500 reviews, reflecting its status as one of Tongyeong's must-do sights.
+quickAnswer: >-
+  Ride the Tongyeong Cablecar from its base station in Sanyang-eup up Mireuksan
+  (461m), then walk the Skywalk glass-floor deck near the summit for panoramic
+  views over Tongyeong's harbor and the Hallyeohaesang National Park islands.
+  Budget 2–3 hours total including the cable car ride, summit trails, and
+  Skywalk; go on a clear morning or before sunset to avoid haze and crowds. The
+  attraction holds a strong 4.4 rating from over 5,500 reviews, reflecting its
+  status as one of Tongyeong's must-do sights.
 faq:
   - q: How do I get to the Tongyeong Cablecar Skywalk without a car?
-    a: Take an intercity bus to Tongyeong Bus Terminal, then a local bus or taxi (about 15–20 minutes) to the cable car base station in Sanyang-eup.
+    a: >-
+      Take an intercity bus to Tongyeong Bus Terminal, then a local bus or taxi
+      (about 15–20 minutes) to the cable car base station in Sanyang-eup.
   - q: How long does a visit take?
-    a: 'Plan for 2–3 hours total: about 10 minutes each way on the cable car, a 10–15 minute uphill walk to the Skywalk, and 30–45 minutes at the summit taking in the views.'
+    a: >-
+      Plan for 2–3 hours total: about 10 minutes each way on the cable car, a
+      10–15 minute uphill walk to the Skywalk, and 30–45 minutes at the summit
+      taking in the views.
   - q: What's the best time of day or year to visit?
-    a: Spring and autumn give the clearest skies; early morning or late afternoon near sunset offers the best light and smallest crowds. Summer haze can reduce visibility, and the summit gets windy in winter.
+    a: >-
+      Spring and autumn give the clearest skies; early morning or late afternoon
+      near sunset offers the best light and smallest crowds. Summer haze can
+      reduce visibility, and the summit gets windy in winter.
   - q: Is the Skywalk suitable for people with mobility issues?
-    a: The cable car itself is accessible, but reaching the Skywalk requires a walk from the upper station over uneven, partly stepped terrain, so it may be challenging for visitors with limited mobility.
+    a: >-
+      The cable car itself is accessible, but reaching the Skywalk requires a
+      walk from the upper station over uneven, partly stepped terrain, so it may
+      be challenging for visitors with limited mobility.
   - q: What else is nearby?
-    a: Dongpirang Mural Village and Jungang Market, both known for seafood and the local chungmu gimbap, are a short drive from the cable car base station and pair well with a half-day visit.
+    a: >-
+      Dongpirang Mural Village and Jungang Market, both known for seafood and
+      the local chungmu gimbap, are a short drive from the cable car base
+      station and pair well with a half-day visit.
 aiGenerated: true
 country: South Korea
+updatedDate: '2026-11-17'
 ---
 
 ## Why Go

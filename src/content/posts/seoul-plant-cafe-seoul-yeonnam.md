@@ -1,26 +1,31 @@
 ---
 title: 'Plant Cafe Seoul (Yeonnam): Travel Guide'
-description: Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the Yeonnam-dong district, best reached via Line 6's Sangsu Station or the Gyeongui Line Forest Park side of Hongdae.
+description: >-
+  Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the
+  Yeonnam-dong district, best reached via Line 6's Sangsu Station or the
+  Gyeongui Line Forest Park side of Hongdae.
 region: Seoul
-country: "South Korea"
+country: South Korea
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1780186_eIf8PL6IGedrmVIrOq7seUtL5pmjTCyy5SXPIT9VOIc.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1780186_eIf8PL6IGedrmVIrOq7seUtL5pmjTCyy5SXPIT9VOIc.jpg
   credit: 'Photo: Foursquare user content (Plant (플랜트))'
   license: foursquare
-  source: https://foursquare.com/v/611e32bb4901776b421f2ec9
+  source: 'https://foursquare.com/v/611e32bb4901776b421f2ec9'
   focus:
     x: 45
-    y: 50
+    'y': 50
 gallery: []
 place:
   id: ChIJ3Y2fGhmZfDURlZg2rP0sRls
   name: Plant Cafe Seoul (Yeonnam)
-  address: 87 World Cup buk-ro 4-gil, Mapo-gu, Seoul, South Korea
+  address: '87 World Cup buk-ro 4-gil, Mapo-gu, Seoul, South Korea'
   rating: 4.5
-  userRatingsTotal: 251
-  googleMapsUrl: https://maps.google.com/?cid=6576993773848795285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 300
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6576993773848795285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.559702699999995
   lng: 126.9231548
@@ -45,7 +50,7 @@ place:
       - 19
       - 20
     venueId: ven_736c527330507232675a6c525544665a6d6847663259334a496843
-  phone: '+82 2-749-1981'
+  phone: +82 2-749-1981
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
@@ -54,22 +59,46 @@ place:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
+  priceLevel: 2
 tags:
   - seoul
   - vegan Yeonnam-dong
-quickAnswer: Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the Yeonnam-dong district, best reached via Line 6's Sangsu Station or the Gyeongui Line Forest Park side of Hongdae. Go Tuesday to Friday (it's closed on Mondays) between the 11am opening and 1pm, before the afternoon rush, to snag a window seat among the greenery without the weekend queue, and budget an hour or two — it's the kind of place people linger and photograph rather than rush through. Pair it with a walk along the nearby Gyeongui Line Forest Park for a full half-day Yeonnam itinerary.
+quickAnswer: >-
+  Plant Cafe Seoul (Yeonnam) is a plant-filled, greenhouse-style café in the
+  Yeonnam-dong district, best reached via Line 6's Sangsu Station or the
+  Gyeongui Line Forest Park side of Hongdae. Go Tuesday to Friday (it's closed
+  on Mondays) between the 11am opening and 1pm, before the afternoon rush, to
+  snag a window seat among the greenery without the weekend queue, and budget an
+  hour or two — it's the kind of place people linger and photograph rather than
+  rush through. Pair it with a walk along the nearby Gyeongui Line Forest Park
+  for a full half-day Yeonnam itinerary.
 faq:
   - q: How do I get to Plant Cafe Seoul (Yeonnam)?
-    a: Take Line 6 to Sangsu Station and walk about 15-20 minutes through Yeonnam-dong's side streets, or come via Hongik University Station and cut through the Gyeongui Line Forest Park toward Yeonnam-dong.
+    a: >-
+      Take Line 6 to Sangsu Station and walk about 15-20 minutes through
+      Yeonnam-dong's side streets, or come via Hongik University Station and cut
+      through the Gyeongui Line Forest Park toward Yeonnam-dong.
   - q: How long should I plan to stay?
-    a: At least an hour — the café is designed for lingering among the plant displays, and photography-minded visitors often stay longer.
+    a: >-
+      At least an hour — the café is designed for lingering among the plant
+      displays, and photography-minded visitors often stay longer.
   - q: When is the best time to visit to avoid crowds?
-    a: From Tuesday to Friday the forecast flags no standout quiet hour, so arrive near the 11am opening, before the 1pm-9pm busy stretch; weekends see heavy café-hopping traffic throughout Yeonnam-dong.
+    a: >-
+      From Tuesday to Friday the forecast flags no standout quiet hour, so
+      arrive near the 11am opening, before the 1pm-9pm busy stretch; weekends
+      see heavy café-hopping traffic throughout Yeonnam-dong.
   - q: What's nearby if I want to make a half-day of it?
-    a: The Gyeongui Line Forest Park runs right through the neighborhood and connects toward Hongdae, and the surrounding blocks are full of boutiques and other themed cafés worth browsing.
+    a: >-
+      The Gyeongui Line Forest Park runs right through the neighborhood and
+      connects toward Hongdae, and the surrounding blocks are full of boutiques
+      and other themed cafés worth browsing.
   - q: Is it good for photos?
-    a: Yes — the greenhouse-like interior with dense plant displays and natural light near the windows is the main draw, especially in spring and early autumn when the greenery is fullest.
+    a: >-
+      Yes — the greenhouse-like interior with dense plant displays and natural
+      light near the windows is the main draw, especially in spring and early
+      autumn when the greenery is fullest.
 aiGenerated: true
+updatedDate: '2026-11-17'
 ---
 
 ## Why go

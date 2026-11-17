@@ -1,27 +1,33 @@
 ---
 title: 'Sensō-ji: Tokyo Travel Guide'
-description: Sensō-ji, Tokyo's oldest temple (completed 645 AD), sits in Asakusa and is best reached via Asakusa Station (Ginza or Asakusa subway lines, exit 1).
+description: >-
+  Sensō-ji, Tokyo's oldest temple (completed 645 AD), sits in Asakusa and is
+  best reached via Asakusa Station (Ginza or Asakusa subway lines, exit 1).
 country: Japan
 region: Tokyo
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sensoji_2023.jpg/1920px-Sensoji_2023.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sensoji_2023.jpg/1920px-Sensoji_2023.jpg
   credit: 'Photo: Akonnchiroll / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sensoji_2023.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Sensoji_2023.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg/1920px-2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg/1920px-2024-10-20_Tokyo%2C_Sens%C5%8D-ji_1.jpg
     credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:2024-10-20_Tokyo,_Sens%C5%8D-ji_1.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:2024-10-20_Tokyo,_Sens%C5%8D-ji_1.jpg
 place:
   id: ChIJ8T1GpMGOGGARDYGSgpooDWw
   name: Sensō-ji
-  address: 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan
+  address: '2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan'
   rating: 4.6
-  userRatingsTotal: 97093
-  googleMapsUrl: https://maps.google.com/?cid=7785923974874169613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 101788
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7785923974874169613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.7147651
   lng: 139.7966553
@@ -29,20 +35,42 @@ place:
 tags:
   - tokyo
   - Senso-ji Temple
-quickAnswer: Sensō-ji, Tokyo's oldest temple (completed 645 AD), sits in Asakusa and is best reached via Asakusa Station (Ginza or Asakusa subway lines, exit 1). Walk the Nakamise-dōri shopping street from the Kaminarimon "Thunder Gate" to the main hall, and budget 1.5–2 hours to see the grounds, Five-Story Pagoda, and Asakusa Shrine next door. Go early morning (before 9am) or in the evening to avoid the heaviest crowds; the outer grounds and gates are illuminated and accessible any time, free of charge.
+quickAnswer: >-
+  Sensō-ji, Tokyo's oldest temple (completed 645 AD), sits in Asakusa and is
+  best reached via Asakusa Station (Ginza or Asakusa subway lines, exit 1). Walk
+  the Nakamise-dōri shopping street from the Kaminarimon "Thunder Gate" to the
+  main hall, and budget 1.5–2 hours to see the grounds, Five-Story Pagoda, and
+  Asakusa Shrine next door. Go early morning (before 9am) or in the evening to
+  avoid the heaviest crowds; the outer grounds and gates are illuminated and
+  accessible any time, free of charge.
 faq:
   - q: How do I get to Sensō-ji?
-    a: Take the Tokyo Metro Ginza Line or Toei Asakusa Line to Asakusa Station, Exit 1, which leads directly to the Kaminarimon gate. The Tobu Skytree Line and Tsukuba Express also serve nearby stations.
+    a: >-
+      Take the Tokyo Metro Ginza Line or Toei Asakusa Line to Asakusa Station,
+      Exit 1, which leads directly to the Kaminarimon gate. The Tobu Skytree
+      Line and Tsukuba Express also serve nearby stations.
   - q: Is there an admission fee?
-    a: No — the temple grounds, Kaminarimon, Hōzōmon, and Main Hall are free to enter. Some optional attractions nearby, like the pagoda's interior, are not open to the public.
+    a: >-
+      No — the temple grounds, Kaminarimon, Hōzōmon, and Main Hall are free to
+      enter. Some optional attractions nearby, like the pagoda's interior, are
+      not open to the public.
   - q: How long should I spend there?
-    a: Budget 1.5–2 hours to see the gates, Main Hall, Five-Story Pagoda, and Asakusa Shrine, plus browsing Nakamise-dōri. Add extra time if visiting during a festival.
+    a: >-
+      Budget 1.5–2 hours to see the gates, Main Hall, Five-Story Pagoda, and
+      Asakusa Shrine, plus browsing Nakamise-dōri. Add extra time if visiting
+      during a festival.
   - q: What's the best time to visit to avoid crowds?
-    a: Early morning before 8-9am, or the evening after the shops close, is when the approach empties out. Weekends, holidays, cherry blossom season, and the mid-May Sanja Matsuri festival draw the largest crowds.
+    a: >-
+      Early morning before 8-9am, or the evening after the shops close, is when
+      the approach empties out. Weekends, holidays, cherry blossom season, and
+      the mid-May Sanja Matsuri festival draw the largest crowds.
   - q: What else is nearby?
-    a: Kappabashi kitchenware street, the Sumida River promenade, and views of Tokyo Skytree are all within a 10-15 minute walk of the temple.
+    a: >-
+      Kappabashi kitchenware street, the Sumida River promenade, and views of
+      Tokyo Skytree are all within a 10-15 minute walk of the temple.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-17'
 ---
 
 ## Why go
