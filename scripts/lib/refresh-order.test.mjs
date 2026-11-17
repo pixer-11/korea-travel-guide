@@ -1,16 +1,43 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { sortRefreshCandidates } from './refresh-order.mjs';
+import { sortRefreshCandidates, lastLooked } from './refresh-order.mjs';
 
 const order = (cands, checked = {}) => sortRefreshCandidates(cands, checked).map((c) => c.file);
 
-test('never-checked posts go before any checked post', () => {
+test('a post checked long ago goes before a never-checked post published since', () => {
+  // The 2026-11-18 case: checked 08-02, parked behind 522 never-checked posts,
+  // most of them newer than its check. It would have crossed 120 days on 11-30.
   assert.deepEqual(
     order(
-      [{ file: 'a.md', pubDate: '2026-07-01' }, { file: 'z.md', pubDate: '2026-11-01' }],
+      [{ file: 'new-last-week.md', pubDate: '2026-11-10' }, { file: 'abu-dhabi-art-house-cafe.md', pubDate: '2026-07-22' }],
+      { 'abu-dhabi-art-house-cafe.md': '2026-08-02' },
+    ),
+    ['abu-dhabi-art-house-cafe.md', 'new-last-week.md'],
+  );
+});
+
+test('a never-checked post older than any check still goes first', () => {
+  assert.deepEqual(
+    order(
+      [{ file: 'a.md', pubDate: '2026-07-01' }, { file: 'z.md', pubDate: '2026-07-20' }],
       { 'a.md': '2026-08-09' },
     ),
     ['z.md', 'a.md'],
+  );
+});
+
+test('a re-check counts, not the publication date behind it', () => {
+  // Published first, checked last: it is the freshest of the three.
+  assert.deepEqual(
+    order(
+      [
+        { file: 'old-but-checked.md', pubDate: '2026-07-01' },
+        { file: 'mid.md', pubDate: '2026-09-01' },
+        { file: 'newer.md', pubDate: '2026-10-01' },
+      ],
+      { 'old-but-checked.md': '2026-11-01' },
+    ),
+    ['mid.md', 'newer.md', 'old-but-checked.md'],
   );
 });
 
@@ -41,6 +68,17 @@ test('checked posts go oldest check first, filename breaking the tie', () => {
   );
 });
 
+test('a check and a publication on the same day tie, and filename settles it', () => {
+  // The cursor stores a day and pubDate carries a time; they must compare as days.
+  assert.deepEqual(
+    order(
+      [{ file: 'b.md', pubDate: '2026-09-10T15:30:00.000Z' }, { file: 'a.md', pubDate: '2026-07-01' }],
+      { 'a.md': '2026-09-10' },
+    ),
+    ['a.md', 'b.md'],
+  );
+});
+
 test('same pubDate falls back to filename, and a missing pubDate is treated as oldest', () => {
   assert.deepEqual(
     order([
@@ -51,4 +89,31 @@ test('same pubDate falls back to filename, and a missing pubDate is treated as o
     ]),
     ['garbage.md', 'nodate.md', 'a.md', 'b.md'],
   );
+});
+
+test('lastLooked: the check when there is one, the publication day when there is not', () => {
+  assert.equal(lastLooked({ file: 'a.md', pubDate: '2026-07-01' }, { 'a.md': '2026-08-09' }), '2026-08-09');
+  assert.equal(lastLooked({ file: 'a.md', pubDate: '2026-07-01T09:00:00Z' }, {}), '2026-07-01');
+  assert.equal(lastLooked({ file: 'a.md' }, {}), '');
+});
+
+test('a rotation on this order never lets a post reach the 120-day alarm', () => {
+  // The site on 2026-11-18 in miniature: one post checked in early August, the
+  // rest never checked and published across the months since, at a rate the
+  // daily budget covers, starting while the oldest post is 100 days old. Under
+  // two queues the checked post waits out the alarm (measured: 1 overdue).
+  const ALARM_DAYS = 120, PER_DAY = 35;
+  const d0 = Date.UTC(2026, 6, 20);
+  const iso = (n) => new Date(d0 + n * 864e5).toISOString().slice(0, 10);
+  const posts = [{ file: 'checked-early.md', pubDate: iso(2) }];
+  for (let i = 0; i < 2600; i++) posts.push({ file: `p${String(i).padStart(4, '0')}.md`, pubDate: iso(i % 118) });
+  const checked = { 'checked-early.md': iso(13) };
+  let worst = 0;
+  for (let n = 100; n < 100 + 200; n++) {
+    const overdue = posts.filter((p) => n - (Date.parse(lastLooked(p, checked)) - d0) / 864e5 > ALARM_DAYS).length;
+    worst = Math.max(worst, overdue);
+    sortRefreshCandidates(posts, checked);
+    for (const p of posts.slice(0, PER_DAY)) checked[p.file] = iso(n);
+  }
+  assert.equal(worst, 0);
 });

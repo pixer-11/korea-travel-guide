@@ -81,8 +81,9 @@ async function main() {
   if (SLUG_TARGETS.size) console.log(`🎯 targeted run — ${[...SLUG_TARGETS].join(", ")}`);
   const cursor = await loadCursor();
 
-  // Candidates = posts with a place.id, oldest-checked-first. Never-checked
-  // sorts before any date, oldest publication first — see lib/refresh-order.mjs.
+  // Candidates = posts with a place.id, longest-unlooked-at first: the last
+  // re-check, or the publication date where there has been none — the clock
+  // the STALE-RECHECK alarm reads. See lib/refresh-order.mjs.
   const candidates = [];
   for (const file of files) {
     const full = join(POSTS_DIR, file);
