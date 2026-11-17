@@ -13,6 +13,14 @@ eventOrganizer:
   name: National Basketball Association
   url: https://www.nba.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/James_Whitcomb_Riley_House_in_Indianapolis%2C_front_and_western_side.jpg/1280px-James_Whitcomb_Riley_House_in_Indianapolis%2C_front_and_western_side.jpg'
+  credit: 'Photo: Nyttend (Public domain)'
+  license: wikimedia
+  source: 'File:James Whitcomb Riley House in Indianapolis, front and western side.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - indianapolis
   - event

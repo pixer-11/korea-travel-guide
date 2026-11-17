@@ -13,6 +13,14 @@ eventPerformer:
   name: Boris Nikolaenov
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yunusabad_sports_complex_3.jpg/3840px-Yunusabad_sports_complex_3.jpg'
+  credit: 'Photo: Umarxon III / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Yunusabad_sports_complex_3.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - tashkent
   - event
