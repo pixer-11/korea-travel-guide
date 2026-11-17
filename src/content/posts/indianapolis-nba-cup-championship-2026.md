@@ -30,16 +30,6 @@ faq:
     a: Most stay downtown, where hotels are concentrated and many are linked by skywalks. Broad Ripple Village, just north of Butler, is the closest area with bars and restaurants.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg
-  credit: 'Photo: Daiei Onoguchi / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg
-  focus:
-    x: 41
-    'y': 28
-    top: 24
-    bottom: 32
 ---
 
 ## A title game in a 1928 college gym

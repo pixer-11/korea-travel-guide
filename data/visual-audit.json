@@ -15127,9 +15127,9 @@
  },
  "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Jalen_Williams_OKCThunder_2025_NBA_Cup.jpg": {
   "slug": "indianapolis-nba-cup-championship-2026",
-  "verdict": "MATCH",
-  "reason": "patrol replace: NBA player in action, plausible event photo",
-  "at": "2026-11-16T19:37:06.823Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"nba\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-17T08:06:25.922Z"
  },
  "indianapolis-nba-cup-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg/3840px-Stadium_Dance_at_the_NBA_Cup%2C_T-Mobile_Arena%2C_Las_Vegas.jpg": {
   "slug": "indianapolis-nba-cup-championship-2026",
@@ -36673,9 +36673,9 @@
  },
  "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Shtern_-_2025-04-12_-_p14.jpg/3840px-Boris_Shtern_-_2025-04-12_-_p14.jpg": {
   "slug": "tashkent-boris-nikolaenov-concert",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Performer portrait, plausibly the concert act",
-  "at": "2026-11-16T19:37:40.072Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"boris\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-17T08:06:26.119Z"
  },
  "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gia_Kancheli_%26_Boris_Berezovski.jpg/3840px-Gia_Kancheli_%26_Boris_Berezovski.jpg": {
   "slug": "tashkent-boris-nikolaenov-concert",

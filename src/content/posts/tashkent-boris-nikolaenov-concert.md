@@ -30,16 +30,6 @@ faq:
     a: No. The songs are in Russian and much of the crowd sings along, but the music and atmosphere work without the words. Tashkent staff generally speak Uzbek and Russian.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Shtern_-_2025-04-12_-_p14.jpg/3840px-Boris_Shtern_-_2025-04-12_-_p14.jpg
-  credit: 'Photo: Александр Сигачёв / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Boris_Shtern_-_2025-04-12_-_p14.jpg
-  focus:
-    x: 63
-    'y': 30
-    top: 15
-    bottom: 44
 ---
 
 January 15, 2027 is a Friday. In Tashkent that means a winter evening near freezing and an indoor arena in the north of the city. Russian-language singer Boris Nikolaenov plays the Yunusabad Sports Complex that night. It is one of the larger halls the city uses when a touring act needs more seats than a theatre has.
