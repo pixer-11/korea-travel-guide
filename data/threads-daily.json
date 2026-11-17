@@ -118,28 +118,29 @@
     "new-york-strand-bookstore",
     "hong-kong-tai-po-half-marathon",
     "gapyeong-garden-of-morning-calm",
-    "fukuoka-manly"
+    "fukuoka-manly",
+    "istanbul-nancy-ajram-concert"
   ],
-  "lastSentDay": "2026-11-17",
+  "lastSentDay": "2026-11-18",
   "material": {
-    "day": "2026-11-17",
-    "slug": "fukuoka-manly",
-    "title": "Manly: Fukuoka Travel Guide",
+    "day": "2026-11-18",
+    "slug": "istanbul-nancy-ajram-concert",
+    "title": "Nancy Ajram Concert: Dates, Tickets & Venue (Istanbul)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-17-fukuoka-manly-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-17-fukuoka-manly-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-18-istanbul-nancy-ajram-concert-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-18-istanbul-nancy-ajram-concert-2.jpg"
     ],
-    "igCaption": "Tucked in Imaizumi's backstreets, Manly brings Australian beach-town vibes to Fukuoka, think meat pies, big breakfast plates, and thick ricotta hotcakes instead of the city's usual souffle pancakes. With a 4.5-star rating from nearly 1,500 reviews, it's worth the short walk from Tenjin.\n\n#Manly #Fukuoka #Japan #travelguide #travel #wanderatlas #TravelGuide #CafeHopping #Imaizumi #Foodie\n📷 Photo: Foursquare user content (Australian Cafe & Bar Manly) (edited)",
-    "thOption": "Fukuoka is famous for jiggly souffle pancakes, but Manly serves thick, custardy ricotta hotcakes instead. Which style would you pick?",
-    "link": "https://wanderatlasguides.com/posts/fukuoka-manly/"
+    "igCaption": "One night before Istanbul explodes into New Year's Eve, Nancy Ajram takes the stage at Ora Arena with two decades of Arabic pop hits and a crowd that knows every word. Expect phone-light ballads, aisle dancing, and a cold walk home warmed by simit and salep.\n\n#Istanbul #Turkey #events #travel #wanderatlas #NancyAjram #OraArena #ArabicPop #TravelTurkey #ConcertTravel\n📷 Photo: Diana Farroukh / Wikimedia Commons (CC BY 2.0) (edited)",
+    "thOption": "\"Akhasmak Ah,\" \"Ya Tabtab,\" \"Inta Eih\" — which old Nancy Ajram hit do you hope makes the setlist when she plays Istanbul this December?",
+    "link": "https://wanderatlasguides.com/posts/istanbul-nancy-ajram-concert/"
   },
   "social": {
-    "thDay": "2026-11-17",
-    "thId": "18159665788519649",
-    "igDay": "2026-11-16",
-    "igId": "18176292394459708",
-    "thSlug": "fukuoka-manly",
-    "igSlug": "gapyeong-garden-of-morning-calm",
+    "thDay": "2026-11-18",
+    "thId": "17909636007598466",
+    "igDay": "2026-11-18",
+    "igId": "18122877934951038",
+    "thSlug": "istanbul-nancy-ajram-concert",
+    "igSlug": "istanbul-nancy-ajram-concert",
     "history": [
       {
         "day": "2026-10-10",
@@ -742,7 +743,25 @@
         "day": "2026-11-11",
         "slug": "taiyuan-yingze-park",
         "thId": "18208408741375055",
-        "igId": "18129854498298798"
+        "igId": "18129854498298798",
+        "insights": {
+          "at": "2026-11-18",
+          "th": {
+            "views": 33,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-12",
@@ -775,6 +794,12 @@
         "day": "2026-11-17",
         "slug": "fukuoka-manly",
         "thId": "18159665788519649"
+      },
+      {
+        "day": "2026-11-18",
+        "slug": "istanbul-nancy-ajram-concert",
+        "thId": "17909636007598466",
+        "igId": "18122877934951038"
       }
     ]
   }
