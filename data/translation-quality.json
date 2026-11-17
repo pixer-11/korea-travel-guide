@@ -40962,5 +40962,89 @@
   "registerBreak": false,
   "worst": "도자기와 유리 공예품: 받침대보다는 주로 탁자나 선반 위에 놓여 있습니다",
   "at": "2026-11-16T17:29:24.311Z"
+ },
+ "es/boston-brattle-book-shop": {
+  "hash": "7ff661a13a71",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "es decir, casi toda la jornada comercial.",
+  "at": "2026-11-17T07:54:33.225Z"
+ },
+ "es/fremantle-new-edition": {
+  "hash": "33ab678913b9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Pocas calles le sientan tan bien a una librería como High Street.",
+  "at": "2026-11-17T07:54:34.016Z"
+ },
+ "es/london-word-on-the-water-the-london-bookbarge": {
+  "hash": "003b921fb701",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-17T07:54:34.727Z"
+ },
+ "ja/boston-brattle-book-shop": {
+  "hash": "6f82825a385f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "これだけ本が詰まった店では、ふるまい方が大切です。次のような点を心がけると、気持ちよく過ごせます。",
+  "at": "2026-11-17T07:54:35.841Z"
+ },
+ "ja/fremantle-new-edition": {
+  "hash": "71a2e1098759",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "独立系の書店だということが、この店の楽しみ方を物語っています。",
+  "at": "2026-11-17T07:54:39.673Z"
+ },
+ "ja/london-word-on-the-water-the-london-bookbarge": {
+  "hash": "9adbad291e2d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "船内の空間は、内装業者ではなく船体の形によって決まっています。",
+  "at": "2026-11-17T07:54:44.535Z"
+ },
+ "ko/boston-brattle-book-shop": {
+  "hash": "d0fdf9421bd7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "브래틀이 가장 붐비는 날은 토요일입니다. 보통 오전 10시부터 오후 5시까지 손님이 몰리는데, 사실상 영업시간 거의 내내 붐비는 셈입니다.",
+  "at": "2026-11-17T07:54:46.228Z"
+ },
+ "ko/fremantle-new-edition": {
+  "hash": "6d70d6f0eed0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "서점이 자리 잡기에 하이 스트리트(High Street)만 한 거리도 드뭅니다.",
+  "at": "2026-11-17T07:54:47.806Z"
+ },
+ "ko/london-word-on-the-water-the-london-bookbarge": {
+  "hash": "906a9bae4c7c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "배에 오르기도 전부터 서가가 손님을 맞습니다.",
+  "at": "2026-11-17T07:54:48.587Z"
+ },
+ "zh/boston-brattle-book-shop": {
+  "hash": "6a85bbf77aea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "目前每个营业日都是下午5:30关门，别拖到傍晚才去。",
+  "at": "2026-11-17T07:54:50.270Z"
+ },
+ "zh/fremantle-new-edition": {
+  "hash": "93c2c94dc82d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "侧身经过时记得把东西抱在身前",
+  "at": "2026-11-17T07:54:51.101Z"
+ },
+ "zh/london-word-on-the-water-the-london-bookbarge": {
+  "hash": "6adadefce5cf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "船舱里的格局由船体的形状决定，而不是由装修师傅设计，所以比起店面，更像是谁家堆满书的书房。",
+  "at": "2026-11-17T07:54:56.389Z"
  }
 }

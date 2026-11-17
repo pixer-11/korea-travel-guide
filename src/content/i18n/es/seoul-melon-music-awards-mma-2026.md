@@ -1,56 +1,54 @@
 ---
 lang: es
 slug: seoul-melon-music-awards-mma-2026
-srcHash: 'e86dbada4a7b'
-title: 'Melon Music Awards (MMA 2026): fechas, entradas y recinto en Seúl'
-description: Los Melon Music Awards (MMA 2026) se celebrarán del 14 al 16 de noviembre de 2026 en el Gocheok Sky Dome, situado en el distrito de Guro-gu, en Seúl.
-quickAnswer: Los Melon Music Awards (MMA 2026) se celebrarán del 14 al 16 de noviembre de 2026 en el Gocheok Sky Dome, en el distrito seulense de Guro-gu. Será la 18.ª edición de esta gala de premios del K-pop que organiza la plataforma de streaming Melon, y las entradas se venden a través de plataformas coreanas de venta de entradas. El estadio queda a pocos minutos a pie de la estación de Guil, en la línea 1 del metro de Seúl.
+srcHash: '1cf192aa75c6'
+title: 'Melon Music Awards (MMA 2026): fechas, entradas y recinto (Seúl)'
+description: Las fechas anunciadas de los Melon Music Awards (MMA 2026) eran del 14 al 16 de noviembre de 2026, en el Gocheok Sky Dome del distrito de Guro-gu, en Seúl. Se trataba de la 18.ª edición de los premios de K-pop que concede Melon.
+quickAnswer: Las fechas anunciadas de los Melon Music Awards (MMA 2026) eran del 14 al 16 de noviembre de 2026, en el Gocheok Sky Dome del distrito de Guro-gu, en Seúl. Era la 18.ª edición de esta gala de premios del K-pop, organizada por la plataforma de música en línea Melon. Las entradas se vendieron a través de plataformas coreanas de venta de entradas. Desde la estación de Guil, en la línea 1 del metro de Seúl, se llega al estadio con un breve paseo.
 faq:
-  - q: ¿Dónde se celebran los MMA 2026?
-    a: En el Gocheok Sky Dome, en el distrito de Guro-gu, al suroeste de Seúl. Se trata de un estadio de béisbol cubierto, situado junto al arroyo Anyangcheon, donde juegan como locales los Kiwoom Heroes.
+  - q: ¿Qué recinto se anunció para los MMA 2026?
+    a: El recinto elegido era el Gocheok Sky Dome, en el distrito de Guro-gu, al suroeste de Seúl. Se trata de un estadio de béisbol cubierto, situado junto al arroyo Anyangcheon, donde juegan como locales los Kiwoom Heroes.
   - q: ¿Cuál es la estación de metro más cercana al Gocheok Sky Dome?
-    a: La estación de Guil, en la línea 1. Desde la salida 2 hay que cruzar el puente, y el estadio queda a pocos minutos a pie. Para volver después del espectáculo, la estación de Gaebong, una parada más al sur, es una alternativa más tranquila.
-  - q: ¿Cuándo son los Melon Music Awards 2026?
-    a: Las fechas anunciadas son del 14 al 16 de noviembre de 2026. Será la 18.ª edición de los premios.
-  - q: ¿Pueden comprar entradas para los MMA los fans extranjeros?
-    a: Sí, aunque las plataformas coreanas de venta de entradas suelen exigir una verificación local. Por eso, desde el extranjero se recurre normalmente a la web internacional de la plataforma o a un servicio intermediario de compra. La organización publica cuáles son los canales oficiales de venta.
-  - q: ¿Dónde suelen alojarse los visitantes que asisten a un espectáculo en el Gocheok Sky Dome?
-    a: Las zonas más elegidas son Yeongdeungpo, Yeouido y Guro Digital Complex. Las tres quedan a un trayecto corto del estadio en metro o en taxi, y Sindorim es la principal estación de transbordo.
+    a: La estación de Guil, en la línea 1. Desde la salida 2 se cruza el puente y, en pocos minutos a pie, se llega al estadio. Una parada más al sur, la estación de Gaebong es una alternativa más tranquila al terminar un espectáculo.
+  - q: ¿Cuándo eran los Melon Music Awards 2026?
+    a: Las fechas anunciadas eran del 14 al 16 de noviembre de 2026. Se trataba de la 18.ª edición de los premios.
+  - q: ¿Podían conseguir entradas para los MMA los fans extranjeros?
+    a: Las entradas de los MMA 2026 se vendieron a través de plataformas coreanas de venta de entradas, que a menudo exigen una verificación local. Por eso, los fans de otros países suelen recurrir a la web internacional de la plataforma o a un servicio de compra por intermediario.
+  - q: ¿Dónde suelen alojarse los visitantes que acuden a un espectáculo en el Gocheok Sky Dome?
+    a: Las zonas más elegidas son Yeongdeungpo, Yeouido y Guro Digital Complex. Las tres quedan a poca distancia del estadio en metro o en taxi, y Sindorim es la principal estación de transbordo.
 ---
 
 ## Dieciocho años de la gran noche de Melon
 
-La 18.ª edición de los Melon Music Awards tendrá lugar del 14 al 16 de noviembre de 2026. Melon, propiedad de Kakao Entertainment, es el mayor servicio de música en streaming de Corea del Sur. Sus premios figuran entre las ceremonias de K-pop más importantes del año, por lo que la gala suele funcionar como un balance de las listas de éxitos al cierre del año.
+La 18.ª edición de los Melon Music Awards estaba programada del 14 al 16 de noviembre de 2026. Melon, propiedad de Kakao Entertainment, es el mayor servicio de música en línea de Corea del Sur. Sus premios figuran entre las ceremonias de K-pop más importantes del año, de modo que la gala suele funcionar como un balance de las listas de éxitos a final de año.
 
-En esta noche las actuaciones pesan tanto como los galardones. Lo habitual es que los grupos no repitan las coreografías de los programas musicales, sino que presenten una puesta en escena concebida expresamente para la gala. Las zonas de fans suelen llenarse de bastones luminosos oficiales idénticos, de modo que los colores de un artista pueden iluminar un bloque entero de asientos.
+En esta noche, las actuaciones pesan tanto como los galardones. Los grupos no se limitan a repetir las coreografías de los programas musicales de televisión, sino que suelen presentar puestas en escena creadas expresamente para la ocasión. Como las zonas de los fans se llenan a menudo de barras luminosas oficiales idénticas, los colores de un artista pueden iluminar un bloque entero de asientos.
 
-## El Gocheok Sky Dome por dentro
+## El interior del Gocheok Sky Dome
 
-Inaugurado en 2015, el Gocheok Sky Dome fue el primer estadio de béisbol cubierto de Corea y es la sede de los partidos en casa de los Kiwoom Heroes. Se levanta junto al arroyo Anyangcheon, en Guro-gu, al suroeste de Seúl. Gracias a su cubierta fija, el frío y la lluvia de mediados de noviembre se quedan fuera, algo nada desdeñable en un mes en que las noches seulenses rondan a menudo los cero grados.
+Inaugurado en 2015, el Gocheok Sky Dome fue el primer estadio de béisbol cubierto de Corea, y en él juegan como locales los Kiwoom Heroes. Se encuentra junto al arroyo Anyangcheon, en el distrito de Guro-gu, al suroeste de Seúl. Su cubierta fija protege del frío y la lluvia de mediados de noviembre, algo nada desdeñable en un mes en que las noches de Seúl rondan a menudo los cero grados.
 
-Para los conciertos y las galas de premios se monta un escenario de lado a lado del terreno de juego, con butacas en la pista y en las gradas curvas. Como las gradas son muy empinadas, desde los niveles superiores se domina todo el montaje de iluminación. Es una perspectiva ideal para un espectáculo en el que la puesta en escena constituye la mitad del atractivo.
+Para los conciertos y las galas de premios se monta un escenario de lado a lado del terreno de juego, y el público ocupa tanto la pista como las gradas curvas. Dada la fuerte pendiente de las gradas, desde los asientos superiores se domina toda la estructura de iluminación. Esa perspectiva encaja con un espectáculo en el que la puesta en escena es la mitad del atractivo.
 
 ## Cómo llegar a Guil y cómo volver
 
-La parada más cercana es la **estación de Guil (línea 1)**. Al salir por la **salida 2**, basta con cruzar el puente sobre el Anyangcheon para llegar al estadio en pocos minutos a pie. Hay otras alternativas:
+La parada más cercana es la **estación de Guil (línea 1)**. Desde la **salida 2** se cruza el puente sobre el Anyangcheon y, en pocos minutos a pie, se llega al estadio. Hay otras opciones:
 
-- La **estación de Gaebong (línea 1)**, una parada más al sur, obliga a caminar más, pero está menos concurrida.
-- La **estación de Sindorim (líneas 1 y 2)**, a dos paradas, es donde hace transbordo la mayoría del público.
-- Los visitantes suelen alojarse en **Yeongdeungpo**, **Yeouido** o **Guro Digital Complex**, tres zonas bien comunicadas con el estadio por un trayecto corto.
+- Una parada más al sur, la **estación de Gaebong (línea 1)** exige un paseo más largo, pero está menos concurrida.
+- A dos paradas se encuentra la **estación de Sindorim (líneas 1 y 2)**, donde hace transbordo la mayoría del público.
+- Los visitantes suelen alojarse en **Yeongdeungpo**, **Yeouido** y **Guro Digital Complex**, tres zonas a poca distancia del estadio.
 
-En cuanto termina el espectáculo, los andenes de Guil se llenan enseguida. Para esquivar las aglomeraciones, muchos asistentes van caminando junto al arroyo hasta Gaebong o toman un taxi en la avenida principal.
+Al terminar un espectáculo, los andenes de Guil se abarrotan enseguida. Para esquivar las aglomeraciones de la estación, muchos asistentes caminan junto al arroyo hasta Gaebong o toman un taxi en la avenida principal.
 
-## Cómo viven los fans una noche de premios del K-pop
+## Los rituales de los fans en una gala de premios de K-pop
 
-La cultura fan coreana tiene sus propios rituales, y los visitantes extranjeros se adaptan a ellos con rapidez. Esto es lo que suele hacer el público:
+La cultura de los fans coreanos tiene sus propias costumbres, que los visitantes extranjeros asimilan con rapidez. Esto es lo que suelen hacer los asistentes:
 
-- **Llevar un bastón luminoso oficial.** Muchos se conectan al sistema del recinto y cambian de color de forma sincronizada durante las actuaciones.
-- **Recoger artículos de regalo para fans.** Antes de que se abran las puertas, los clubes de fans suelen repartir pancartas y toallas con lemas cerca de los accesos.
-- **Llevar una cámara pequeña.** En los grandes espectáculos de K-pop en Corea es habitual que se prohíban las cámaras profesionales con objetivos intercambiables, y el personal revisa los bolsos a la entrada.
-- **Usar la tarjeta T-money.** Esta tarjeta recargable sirve para el metro y el autobús, y también se acepta en las cajas de las tiendas de conveniencia de los alrededores del estadio.
+- **Llevar una barra luminosa oficial.** Muchas se conectan al sistema del recinto y cambian de color todas a la vez durante las actuaciones.
+- **Hacerse con regalos de los clubes de fans.** Antes de que se abran las puertas, los clubes de fans suelen repartir pancartas y toallas con lemas cerca de los accesos.
+- **Llevar una cámara pequeña.** En Corea, los grandes espectáculos de K-pop suelen prohibir las cámaras profesionales con objetivos intercambiables, y el personal registra los bolsos a la entrada.
+- **Usar la tarjeta T-money.** Esta tarjeta recargable sirve para el metro y el autobús, y se acepta en las cajas de las tiendas de conveniencia que rodean el estadio.
 
-Conseguir entradas es el paso que más complica las cosas a los fans extranjeros. Las plataformas coreanas exigen a menudo una verificación de identidad o de número de teléfono local, por lo que desde el extranjero se suele recurrir a la web internacional de la plataforma o a un servicio intermediario de compra. En ediciones anteriores, la venta se hizo a través de la propia plataforma de entradas de Melon.
+La compra de entradas es el paso que más complica las cosas al público extranjero. Las plataformas coreanas exigen a menudo una verificación de identidad o de número de teléfono local, por lo que los fans de otros países suelen recurrir a la web internacional de la plataforma o a un servicio de compra por intermediario. En ediciones anteriores, la venta se hizo a través de la propia plataforma de Melon; las entradas de la edición de 2026 se vendieron mediante plataformas coreanas de venta de entradas. La reventa fuera de los canales oficiales es una fuente habitual de entradas no válidas.
 
-La organización publica las fechas, el recinto y los canales de venta oficiales; la reventa fuera de esos canales es una fuente frecuente de entradas no válidas.
-
-Dentro del recinto, los cánticos de los fans siguen un guion fijo para cada canción, que las comunidades de seguidores ensayan antes por internet. Las normas sobre comida y bebida dependen de la política del recinto, así que la mayoría de los fans prefiere comer en las calles de restaurantes cercanas de Guil y Gocheok en lugar de hacerlo en su asiento.
+Ya en el recinto, los cánticos siguen para cada canción un guion fijo que los clubes de fans ensayan antes por internet. Las normas sobre comida y bebida dependen de la política del recinto, así que la mayoría de los fans no come en su asiento, sino en las calles de restaurantes cercanas de Guil y Gocheok.

@@ -14,11 +14,11 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 140,
-   "hits": 30
+   "attempts": 147,
+   "hits": 31
   },
   "art gallery": {
-   "attempts": 103,
+   "attempts": 105,
    "hits": 20
   },
   "night view": {
@@ -46,11 +46,11 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 87,
-   "hits": 15
+   "attempts": 114,
+   "hits": 19
   },
   "seafood": {
-   "attempts": 96,
+   "attempts": 97,
    "hits": 4
   },
   "hidden gem": {
@@ -58,7 +58,7 @@
    "hits": 61
   },
   "breakfast": {
-   "attempts": 72,
+   "attempts": 73,
    "hits": 5
   },
   "trendy cafe": {
@@ -1410,5 +1410,5 @@
    "hits": 0
   }
  },
- "updated": "2026-11-16T07:43:42.450Z"
+ "updated": "2026-11-17T07:51:20.186Z"
 }

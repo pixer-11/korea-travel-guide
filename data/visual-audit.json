@@ -5528,6 +5528,12 @@
   "reason": "Boston waterfront with Tea Party Ships Museum visible",
   "at": "2026-07-27T12:45:47.648Z"
  },
+ "boston-brattle-book-shop\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brattle_Book_Shop.jpg/3840px-Brattle_Book_Shop.jpg": {
+  "slug": "boston-brattle-book-shop",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront with sign and book carts outside shop",
+  "at": "2026-11-17T07:51:20.164Z"
+ },
  "boston-faneuil-hall-marketplace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2017_Faneuil_Hall_from_southeast.jpg/3840px-2017_Faneuil_Hall_from_southeast.jpg": {
   "slug": "boston-faneuil-hall-marketplace",
   "verdict": "MATCH",
@@ -10567,6 +10573,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Represents Fremantle Prison exterior, historic building complex.",
   "at": "2026-09-28T16:57:27.233Z"
+ },
+ "fremantle-new-edition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Interior_of_New_Edition_Bookshop_September_2025.jpg/3840px-Interior_of_New_Edition_Bookshop_September_2025.jpg": {
+  "slug": "fremantle-new-edition",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior bookstore shelves, representative of a hidden-gem bookshop",
+  "at": "2026-11-17T07:51:20.122Z"
  },
  "fremantle-wa-maritime-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg/3840px-Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg": {
   "slug": "fremantle-wa-maritime-museum",
@@ -20815,6 +20827,12 @@
   "reason": "publish gate: Exterior view of the historic building, representative hero shot",
   "at": "2026-10-03T07:41:04.329Z"
  },
+ "london-word-on-the-water-the-london-bookbarge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Word_on_the_Water_0783.jpg/3840px-Word_on_the_Water_0783.jpg": {
+  "slug": "london-word-on-the-water-the-london-bookbarge",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of the bookbarge with signage and books",
+  "at": "2026-11-17T07:51:19.964Z"
+ },
  "london-young-posse-pilot3-europe-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Brett_Young_in_concert_in_July_2017.jpg": {
   "slug": "london-young-posse-pilot3-europe-tour",
   "verdict": "MISMATCH",
@@ -29560,6 +29578,12 @@
   "reason": "publish gate: Shows market tent with sign and crowd, representative view",
   "at": "2026-09-24T08:06:42.264Z"
  },
+ "portland-powell-s-city-of-books\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PowellsBookstore.jpg/1920px-PowellsBookstore.jpg": {
+  "slug": "portland-powell-s-city-of-books",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior street view of Powell's Books storefront in Portland",
+  "at": "2026-11-17T07:51:20.072Z"
+ },
  "portland-the-grotto\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Peregrine_Tile_Mosaic_at_the_Grotto_in_Portland_Oregon.jpg": {
   "slug": "portland-the-grotto",
   "verdict": "MATCH",
@@ -35062,6 +35086,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Aussie World entrance sign and Ferris wheel",
   "at": "2026-09-28T16:55:38.976Z"
+ },
+ "sunshine-coast-dulong-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/3/32/Green_country._Dulong_Lookout%2C_Sunshine_coast%2C_Australia_%2840926065122%29.jpg": {
+  "slug": "sunshine-coast-dulong-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic overlook view, consistent with lookout attraction",
+  "at": "2026-11-17T07:51:20.030Z"
  },
  "sunshine-coast-eumundi-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eumundi_Markets%2C_January_2026_03.jpg/3840px-Eumundi_Markets%2C_January_2026_03.jpg": {
   "slug": "sunshine-coast-eumundi-markets",
