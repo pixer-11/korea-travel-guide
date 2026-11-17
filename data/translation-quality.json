@@ -41046,5 +41046,47 @@
   "registerBreak": false,
   "worst": "船舱里的格局由船体的形状决定，而不是由装修师傅设计，所以比起店面，更像是谁家堆满书的书房。",
   "at": "2026-11-17T07:54:56.389Z"
+ },
+ "es/orleans-atp-challenger-orleans": {
+  "hash": "e65227136ab1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las entradas y el orden de juego de la edición de 2026 corrían a cargo de la organización",
+  "at": "2026-11-17T17:07:22.234Z"
+ },
+ "ja/orleans-atp-challenger-orleans": {
+  "hash": "d80715f9c87b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ただ、小さなホールでは、守らない人がいるとすぐに目立ってしまいます。",
+  "at": "2026-11-17T17:07:23.507Z"
+ },
+ "ja/seoul-melon-music-awards-mma-2026": {
+  "hash": "0147d099ee88",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "固定式の屋根のおかげで、11月中旬の寒さや雨に悩まされずに済むのは大きな利点です。",
+  "at": "2026-11-17T17:07:24.765Z"
+ },
+ "ko/orleans-atp-challenger-orleans": {
+  "hash": "4cd5b8cdda30",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오를레앙은 해마다 11월이면 남자 프로 테니스 대회를 맞아 온 도시입니다.",
+  "at": "2026-11-17T17:07:25.961Z"
+ },
+ "zh/orleans-atp-challenger-orleans": {
+  "hash": "eae769018403",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "挑战赛比ATP主巡回赛低一个级别，球员要在这里积累排名积分，才能打进大满贯资格赛乃至更高的舞台。",
+  "at": "2026-11-17T17:07:27.418Z"
+ },
+ "zh/paris-taemin-liminal-tour": {
+  "hash": "aea44f8c93c2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "整个街角之所以焕然一新，也正是因为有了这座场馆。",
+  "at": "2026-11-17T17:07:28.550Z"
  }
 }
