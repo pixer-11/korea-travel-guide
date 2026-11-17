@@ -522,5 +522,17 @@
  "Tashkent @ Yunusabad Sports Complex\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Yunusabad_sports_complex.jpg/3840px-Yunusabad_sports_complex.jpg": {
   "reason": "Generic building entrance, not recognizable as sports complex",
   "at": "2026-11-17T19:38:02.084Z"
+ },
+ "cover:Indianapolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/James_Whitcomb_Riley_House_in_Indianapolis%2C_distant_front.jpg/1280px-James_Whitcomb_Riley_House_in_Indianapolis%2C_distant_front.jpg": {
+  "reason": "Single historic house, not a representative Indianapolis city view",
+  "at": "2026-11-16T08:44:58.943Z"
+ },
+ "cover:Indianapolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/James_Whitcomb_Riley_House_in_Indianapolis%2C_closeup_front.jpg/1280px-James_Whitcomb_Riley_House_in_Indianapolis%2C_closeup_front.jpg": {
+  "reason": "Specific historic house, not representative Indianapolis city view",
+  "at": "2026-11-16T08:45:04.320Z"
+ },
+ "cover:Indianapolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Indianapolis_Hebrew_Congregation%2C_900_Block_North_Delaware_Street_%28Indianapolis%2C_Ind.%29_-_DPLA_-_9378117fb7ee7e25b69acd7831efa73a.jpg/1280px-Indianapolis_Hebrew_Congregation%2C_900_Block_North_Delaware_Street_%28Indianapolis%2C_Ind.%29_-_DPLA_-_9378117fb7ee7e25b69acd7831efa73a.jpg": {
+  "reason": "This is a painted/illustrated postcard, not a photo",
+  "at": "2026-11-16T08:45:10.322Z"
  }
 }
