@@ -1,36 +1,46 @@
 ---
 title: 'Taman Sari Tourist Village: Yogyakarta Travel Guide'
-description: Taman Sari (the Water Castle) is an 18th-century royal garden and bathing complex in Yogyakarta's Kraton district, best visited early morning (around 8-9am) to beat both heat and tour groups.
+description: >-
+  Taman Sari (the Water Castle) is an 18th-century royal garden and bathing
+  complex in Yogyakarta's Kraton district, best visited early morning (around
+  8-9am) to beat both heat and tour groups.
 country: Indonesia
 region: Yogyakarta
 category: attraction
 pubDate: '2026-07-22T09:44:22.363Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/756151_i4GFhbqPPy9bg0mZVrQmhDsRNRCYQE0VgEgNG6xgYfk.jpg"
-    credit: "Photo: Foursquare user content (Taman Sari Water Castle)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bad8b68f964a520535a3be3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/756151_i4GFhbqPPy9bg0mZVrQmhDsRNRCYQE0VgEgNG6xgYfk.jpg
+    credit: 'Photo: Foursquare user content (Taman Sari Water Castle)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bad8b68f964a520535a3be3'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/91829172_iKj_kqI9JKLZAGAZGvRUtYwJIhXEIA-AiyVfKhQQkJw.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/91829172_iKj_kqI9JKLZAGAZGvRUtYwJIhXEIA-AiyVfKhQQkJw.jpg
   credit: 'Photo: Foursquare user content (Taman Sari Water Castle)'
   license: foursquare
-  source: https://foursquare.com/v/4bad8b68f964a520535a3be3
+  source: 'https://foursquare.com/v/4bad8b68f964a520535a3be3'
   focus:
     x: 50
-    y: 25
+    'y': 25
 place:
   id: ChIJK8_C0JNXei4RE74coPghaic
   name: Taman Sari Tourist Village
-  address: Patehan, Kraton, Yogyakarta City, Special Region of Yogyakarta 55133, Indonesia
+  address: >-
+    Patehan, Kraton, Yogyakarta City, Special Region of Yogyakarta 55133,
+    Indonesia
   rating: 4.6
-  userRatingsTotal: 45469
-  googleMapsUrl: https://maps.google.com/?cid=2840119866732363283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 46131
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2840119866732363283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -7.810055299999998
   lng: 110.3593012
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 14]
+    weekdayQuiet:
+      - 9
+      - 14
     weekendBusy:
       - 10
       - 11
@@ -48,19 +58,37 @@ place:
 tags:
   - yogyakarta
   - top attraction
-quickAnswer: Taman Sari (the Water Castle) is an 18th-century royal garden and bathing complex in Yogyakarta's Kraton district, best visited early morning (around 8-9am) to beat both heat and tour groups. Budget 1-1.5 hours, wear something you can walk narrow alleys in, and pair it with the nearby Sultan's Palace (Kraton) and the underground mosque, Sumur Gumuling, a short walk away.
+quickAnswer: >-
+  Taman Sari (the Water Castle) is an 18th-century royal garden and bathing
+  complex in Yogyakarta's Kraton district, best visited early morning (around
+  8-9am) to beat both heat and tour groups. Budget 1-1.5 hours, wear something
+  you can walk narrow alleys in, and pair it with the nearby Sultan's Palace
+  (Kraton) and the underground mosque, Sumur Gumuling, a short walk away.
 faq:
   - q: How do I get to Taman Sari from Malioboro?
-    a: It's about a 20-25 minute walk south through the Kraton area, or a 5-10 minute ride by becak, andong, or Gojek/Grab motorbike taxi.
+    a: >-
+      It's about a 20-25 minute walk south through the Kraton area, or a 5-10
+      minute ride by becak, andong, or Gojek/Grab motorbike taxi.
   - q: How long should I spend at Taman Sari?
-    a: Plan for 60-90 minutes, including the bathing pools and the underground mosque, Sumur Gumuling. Add extra time if you hire a local guide.
+    a: >-
+      Plan for 60-90 minutes, including the bathing pools and the underground
+      mosque, Sumur Gumuling. Add extra time if you hire a local guide.
   - q: What is the best time of day to visit?
-    a: Right at opening in the early morning is coolest and least crowded. For the best light inside Sumur Gumuling's circular mosque, aim for late morning, around 11am-1pm.
+    a: >-
+      Right at opening in the early morning is coolest and least crowded. For
+      the best light inside Sumur Gumuling's circular mosque, aim for late
+      morning, around 11am-1pm.
   - q: Do I need a guide?
-    a: Not required, but informal local guides near the entrance can explain the site's history and tunnel layout well; agree on a price before starting.
+    a: >-
+      Not required, but informal local guides near the entrance can explain the
+      site's history and tunnel layout well; agree on a price before starting.
   - q: What else is nearby?
-    a: The Yogyakarta Sultan's Palace (Kraton) is a 10-15 minute walk away, and the surrounding kampung has batik stalls, murals, and small home-industry workshops worth exploring.
+    a: >-
+      The Yogyakarta Sultan's Palace (Kraton) is a 10-15 minute walk away, and
+      the surrounding kampung has batik stalls, murals, and small home-industry
+      workshops worth exploring.
 aiGenerated: true
+updatedDate: '2026-11-18'
 ---
 ## Why go
 

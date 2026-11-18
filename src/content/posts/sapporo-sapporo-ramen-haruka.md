@@ -1,28 +1,35 @@
 ---
 title: 'Sapporo Ramen Haruka: Where to Eat'
-description: "Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a two-minute walk from Susukino Station."
+description: >-
+  Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the
+  historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a
+  two-minute walk from Susukino Station.
 country: Japan
 region: Sapporo
 category: restaurant
 pubDate: '2026-07-22T09:02:55.514Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg/1920px-Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg/1920px-Ainu_food_in_Sapporo%2C_Japan_%2824%29.jpg
   credit: 'Photo: Savannah Rivka / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ainu_food_in_Sapporo,_Japan_(24).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Ainu_food_in_Sapporo,_Japan_(24).jpg'
 gallery: []
 place:
   id: ChIJ07FgJIQpC18RYkRNPfQgdvw
   name: Sapporo Ramen Haruka
-  address: Japan, 〒064-0805 Hokkaido, Sapporo, Chuo Ward, Minami 5 Jōnishi, 3-chōme 元祖さっぽろラーメン横丁
+  address: >-
+    Japan, 〒064-0805 Hokkaido, Sapporo, Chuo Ward, Minami 5 Jōnishi, 3-chōme
+    元祖さっぽろラーメン横丁
   rating: 4.8
-  userRatingsTotal: 4129
+  userRatingsTotal: 4852
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=18191763978182280290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18191763978182280290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.0549506
   lng: 141.3542979
-  phone: '+81 11-551-8700'
+  phone: +81 11-551-8700
   openingHours:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
@@ -34,20 +41,41 @@ place:
 tags:
   - sapporo
   - street food
-quickAnswer: Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a two-minute walk from Susukino Station. Expect a bowl of rich miso ramen with butter and corn at a mid-range price for the city, a short counter with limited seats, and a wait during dinner peak hours (7-9pm), so aim for an early lunch or late-night visit instead.
+quickAnswer: >-
+  Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the
+  historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a
+  two-minute walk from Susukino Station. Expect a bowl of rich miso ramen with
+  butter and corn at a mid-range price for the city, a short counter with
+  limited seats, and a wait during dinner peak hours (7-9pm), so aim for an
+  early lunch or late-night visit instead.
 faq:
   - q: How do I get to Sapporo Ramen Haruka?
-    a: Take the Namboku Line subway to Susukino Station, use Exit 3, and walk about 3-5 minutes south into the Ganso Sapporo Ramen Yokocho alley in Chuo Ward.
+    a: >-
+      Take the Namboku Line subway to Susukino Station, use Exit 3, and walk
+      about 3-5 minutes south into the Ganso Sapporo Ramen Yokocho alley in Chuo
+      Ward.
   - q: How much does a bowl of ramen cost?
-    a: A standard miso ramen sits in the mid-range price tier for the city; confirm current prices at the shop since they can change.
+    a: >-
+      A standard miso ramen sits in the mid-range price tier for the city;
+      confirm current prices at the shop since they can change.
   - q: How long should I plan to spend there?
-    a: Most visits run 20-40 minutes given the counter seating and quick service typical of ramen alley shops; add time if there's a queue during peak dinner hours.
+    a: >-
+      Most visits run 20-40 minutes given the counter seating and quick service
+      typical of ramen alley shops; add time if there's a queue during peak
+      dinner hours.
   - q: What's the best time to visit to avoid a wait?
-    a: Go early, not long after it opens, or leave it until late in the evening. The stretch in between is when Susukino's dinner and nightlife crowd is out, and that is the hardest time to get a seat.
+    a: >-
+      Go early, not long after it opens, or leave it until late in the evening.
+      The stretch in between is when Susukino's dinner and nightlife crowd is
+      out, and that is the hardest time to get a seat.
   - q: What else is nearby worth combining with a visit?
-    a: The rest of Susukino's dining and entertainment streets are steps away, and in winter the Sapporo Snow Festival grounds are a short trip from the area, making it easy to pair a bowl of ramen with an evening out.
+    a: >-
+      The rest of Susukino's dining and entertainment streets are steps away,
+      and in winter the Sapporo Snow Festival grounds are a short trip from the
+      area, making it easy to pair a bowl of ramen with an evening out.
 aiGenerated: true
 draft: true
+updatedDate: '2026-11-18'
 ---
 ## Why go
 

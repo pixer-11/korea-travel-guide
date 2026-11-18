@@ -1,30 +1,35 @@
 ---
 title: 'Smash Street Singapore: Burgers, Hours & Walk-In Tips (4.6★)'
-description: 'The smash-burger bar from the Scarpetta team: what to order, opening hours, and the quieter windows to turn up without queueing. 4.6★ (349 reviews).'
+description: >-
+  The smash-burger bar from the Scarpetta team: what to order, opening hours,
+  and the quieter windows to turn up without queueing. 4.6★ (445 reviews).
 country: Singapore
 region: Singapore
 category: trendy
 pubDate: '2026-07-23'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/66482202_d1yxGpWmGlggLHVT9jxqfC5wOCmt9jPjNPxr5R72Adc.jpg"
-    credit: "Photo: Foursquare user content (Smash Street)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/69d8f55c73ca0576a90e9284"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/66482202_d1yxGpWmGlggLHVT9jxqfC5wOCmt9jPjNPxr5R72Adc.jpg
+    credit: 'Photo: Foursquare user content (Smash Street)'
+    license: foursquare
+    source: 'https://foursquare.com/v/69d8f55c73ca0576a90e9284'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/234324_lOnqNgB29VfRevi5yRMUw-fsMjsoLR2Nx_jkZl2fmQA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/234324_lOnqNgB29VfRevi5yRMUw-fsMjsoLR2Nx_jkZl2fmQA.jpg
   credit: 'Photo: Foursquare user content (Smash Street)'
   license: foursquare
-  source: https://foursquare.com/v/69d8f55c73ca0576a90e9284
+  source: 'https://foursquare.com/v/69d8f55c73ca0576a90e9284'
   focus:
     x: 45
-    y: 35
+    'y': 35
 place:
   id: ChIJ9zBNNG8Z2jER2JAM0WTfPRs
   name: Smash Street
-  address: 50 Amoy St, Singapore 069876
+  address: '50 Amoy St, Singapore 069876'
   rating: 4.6
-  userRatingsTotal: 349
-  googleMapsUrl: https://maps.google.com/?cid=1962970636700389592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 445
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1962970636700389592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.2802641
   lng: 103.8468326
@@ -36,23 +41,45 @@ place:
     - 'Friday: 11:30 AM – 2:00 PM, 6:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 6:00 – 10:00 PM'
     - 'Sunday: Closed'
+  priceLevel: 2
 tags:
   - singapore
   - new & trending
-quickAnswer: Smash Street is the new smash-burger concept from the team behind the viral pasta bar Scarpetta, serving caramelised, crispy-edged smashed beef patties on artisanal potato buns. It opened April 3, 2026, and has quickly become one of Singapore's most talked-about casual bites. Since it's brand new and details are still settling, confirm current hours, location specifics, and whether reservations are needed before heading over.
+quickAnswer: >-
+  Smash Street is the new smash-burger concept from the team behind the viral
+  pasta bar Scarpetta, serving caramelised, crispy-edged smashed beef patties on
+  artisanal potato buns. It opened April 3, 2026, and has quickly become one of
+  Singapore's most talked-about casual bites. Since it's brand new and details
+  are still settling, confirm current hours, location specifics, and whether
+  reservations are needed before heading over.
 faq:
   - q: Do I need a reservation for Smash Street?
-    a: It's not confirmed whether reservations are required, but given the buzz around its sister restaurant Scarpetta, booking ahead (or arriving right at opening) is a smart precaution, especially for weekend meals.
+    a: >-
+      It's not confirmed whether reservations are required, but given the buzz
+      around its sister restaurant Scarpetta, booking ahead (or arriving right
+      at opening) is a smart precaution, especially for weekend meals.
   - q: What is Smash Street known for?
-    a: It specializes in smash-burgers — thin beef patties pressed hard on a hot griddle for a crispy, caramelised crust — served on artisanal potato buns, from the team behind viral pasta bar Scarpetta.
+    a: >-
+      It specializes in smash-burgers — thin beef patties pressed hard on a hot
+      griddle for a crispy, caramelised crust — served on artisanal potato buns,
+      from the team behind viral pasta bar Scarpetta.
   - q: When did Smash Street open?
-    a: It opened on April 3, 2026, making it one of Singapore's newest trending casual-dining openings.
+    a: >-
+      It opened on April 3, 2026, making it one of Singapore's newest trending
+      casual-dining openings.
   - q: What's the best time to visit to avoid crowds?
-    a: Expect the heaviest crowds in the first couple of months after opening; a weekday lunch is generally a safer bet than weekend dinner if you want a shorter wait.
+    a: >-
+      Expect the heaviest crowds in the first couple of months after opening; a
+      weekday lunch is generally a safer bet than weekend dinner if you want a
+      shorter wait.
   - q: Is Smash Street affiliated with another well-known restaurant?
-    a: Yes — it's from the same team behind Scarpetta, the pasta bar that became a viral hit in Singapore, so expect a similar level of buzz and craft applied to the burger format.
+    a: >-
+      Yes — it's from the same team behind Scarpetta, the pasta bar that became
+      a viral hit in Singapore, so expect a similar level of buzz and craft
+      applied to the burger format.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-18'
 ---
 
 ## Why go

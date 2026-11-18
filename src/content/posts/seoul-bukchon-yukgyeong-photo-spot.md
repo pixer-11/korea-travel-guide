@@ -1,27 +1,36 @@
 ---
 title: 'Bukchon Yukgyeong (Photo Spot): Seoul Travel Guide'
-description: Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with "View 6," on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single most-photographed spot — a narrow stone alley framed by curved tiled hanok roofs with Namsan Tower visible in the distance.
+description: >-
+  Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking
+  route through Bukchon Hanok Village's steep alleys in Jongno District, with
+  "View 6," on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single
+  most-photographed spot — a narrow stone alley framed by curved tiled hanok
+  roofs with Namsan Tower visible in the distance.
 country: South Korea
 region: Seoul
 category: attraction
 pubDate: '2026-07-22T22:16:23.436Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
   credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/4089262_TAGOA0XCgTQbeD3ij8-Av9l1eW6r2J38BaGBHYvE6R8.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/4089262_TAGOA0XCgTQbeD3ij8-Av9l1eW6r2J38BaGBHYvE6R8.jpg
     credit: 'Photo: Foursquare user content (Bukchon Hanok Village (북촌한옥마을))'
     license: foursquare
-    source: https://foursquare.com/v/4bbed04dba9776b01d47fec8
+    source: 'https://foursquare.com/v/4bbed04dba9776b01d47fec8'
 place:
   id: ChIJpW84ltqjfDUR6yFNUAgpJzc
   name: Bukchon Yukgyeong (Photo Spot)
-  address: 31-48 Gahoe-dong, Jongno District, Seoul, South Korea
+  address: '31-48 Gahoe-dong, Jongno District, Seoul, South Korea'
   rating: 4.6
-  userRatingsTotal: 1278
-  googleMapsUrl: https://maps.google.com/?cid=3974190311861461483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1347
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3974190311861461483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.582530299999995
   lng: 126.9836464
@@ -48,20 +57,42 @@ place:
 tags:
   - seoul
   - Bukchon hanoks
-quickAnswer: Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking route through Bukchon Hanok Village's steep alleys in Jongno District, with "View 6," on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single most-photographed spot — a narrow stone alley framed by curved tiled hanok roofs with Namsan Tower visible in the distance. Go right at opening, 10am, or late afternoon on a weekday to shoot it without crowds, since this is a residential neighborhood where people actually live. Budget 1–2 hours to walk all six viewpoints from Anguk Station (Line 3) to Jaedong Elementary School.
+quickAnswer: >-
+  Bukchon Yukgyeong ("Six Scenic Views of Bukchon") is a self-guided walking
+  route through Bukchon Hanok Village's steep alleys in Jongno District, with
+  "View 6," on Gahoe-dong's hillside lanes (31-48 Gahoe-dong), the single
+  most-photographed spot — a narrow stone alley framed by curved tiled hanok
+  roofs with Namsan Tower visible in the distance. Go right at opening, 10am, or
+  late afternoon on a weekday to shoot it without crowds, since this is a
+  residential neighborhood where people actually live. Budget 1–2 hours to walk
+  all six viewpoints from Anguk Station (Line 3) to Jaedong Elementary School.
 faq:
   - q: How do I get to Bukchon Yukgyeong by subway?
-    a: Take Line 3 to Anguk Station, Exit 2, then walk uphill about 10-15 minutes into Gahoe-dong. Jongno 3-ga Station (Lines 1, 3, 5) is a nearby alternative.
+    a: >-
+      Take Line 3 to Anguk Station, Exit 2, then walk uphill about 10-15 minutes
+      into Gahoe-dong. Jongno 3-ga Station (Lines 1, 3, 5) is a nearby
+      alternative.
   - q: Is there an entrance fee?
-    a: No — it's an open residential neighborhood with a walking route marked by numbered signposts, not a ticketed attraction. Nearby sites like Gahoe Museum or hanbok rentals charge separately.
+    a: >-
+      No — it's an open residential neighborhood with a walking route marked by
+      numbered signposts, not a ticketed attraction. Nearby sites like Gahoe
+      Museum or hanbok rentals charge separately.
   - q: How long does it take to see all six views?
-    a: Plan on 1-2 hours at a relaxed pace, including photo stops; add extra time if you rent hanbok or visit a tea house along the way.
+    a: >-
+      Plan on 1-2 hours at a relaxed pace, including photo stops; add extra time
+      if you rent hanbok or visit a tea house along the way.
   - q: What's the best time to visit for photos?
-    a: Right at opening, 10am, on a weekday for the quietest alleys and soft light, or October-November and April for the best weather; weekends and midday get crowded.
+    a: >-
+      Right at opening, 10am, on a weekday for the quietest alleys and soft
+      light, or October-November and April for the best weather; weekends and
+      midday get crowded.
   - q: What else is nearby?
-    a: Changdeokgung and Gyeongbokgung palaces are both within a 15-20 minute walk, and Insadong's shopping streets are a short taxi or walk away.
+    a: >-
+      Changdeokgung and Gyeongbokgung palaces are both within a 15-20 minute
+      walk, and Insadong's shopping streets are a short taxi or walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-18'
 ---
 ## Why go
 

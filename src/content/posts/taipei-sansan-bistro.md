@@ -1,27 +1,34 @@
 ---
 title: Sansan Bistro in Taipei
-description: Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that landed in the Michelin Guide Taiwan in January 2026, known for a striking burgundy-red, wood-and-metal dining room and inventive drink pairings.
+description: >-
+  Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that
+  landed in the Michelin Guide Taiwan in January 2026, known for a striking
+  burgundy-red, wood-and-metal dining room and inventive drink pairings.
 country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/92194845_ElzWszYJTGfgPswl-uauQja32QqzQrtuYS8Un0FuhII.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/92194845_ElzWszYJTGfgPswl-uauQja32QqzQrtuYS8Un0FuhII.jpg
   credit: 'Photo: Foursquare user content (Sugar Bistro (小食糖))'
   license: foursquare
-  source: https://foursquare.com/v/50793e96e4b07018b62b1cef
+  source: 'https://foursquare.com/v/50793e96e4b07018b62b1cef'
 gallery: []
 place:
   id: ChIJP-dotkqrQjQRpaOwby3BwtM
   name: Sansan Bistro
-  address: No. 170號, Section 2, Dunhua S Rd, Huxiao Village, Da’an District, Taipei City, Taiwan 106
+  address: >-
+    No. 170號, Section 2, Dunhua S Rd, Huxiao Village, Da’an District, Taipei
+    City, Taiwan 106
   rating: 4.8
-  userRatingsTotal: 407
-  googleMapsUrl: https://maps.google.com/?cid=15258970888376198053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 461
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15258970888376198053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.0241005
   lng: 121.54830860000001
-  phone: '+886 2 2732 3388'
+  phone: +886 2 2732 3388
   openingHours:
     - 'Monday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
@@ -30,23 +37,47 @@ place:
     - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Sunday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+  priceLevel: 3
 tags:
   - taipei
   - new & trending
-quickAnswer: Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that landed in the Michelin Guide Taiwan in January 2026, known for a striking burgundy-red, wood-and-metal dining room and inventive drink pairings. It's a reservation-first, dress-a-little-sharp kind of place best visited for dinner on a weeknight if you want a shot at a table without a long wait. Book ahead, confirm current hours directly, and expect a scene as much as a meal.
+quickAnswer: >-
+  Sansan Bistro is a neo-Sichuan restaurant and cocktail bar in Taipei that
+  landed in the Michelin Guide Taiwan in January 2026, known for a striking
+  burgundy-red, wood-and-metal dining room and inventive drink pairings. It's a
+  reservation-first, dress-a-little-sharp kind of place best visited for dinner
+  on a weeknight if you want a shot at a table without a long wait. Book ahead,
+  confirm current hours directly, and expect a scene as much as a meal.
 faq:
   - q: Do I need a reservation for Sansan Bistro?
-    a: Yes — strongly recommended, especially since its January 2026 Michelin Guide Taiwan listing. Book through the restaurant's official channel as early as possible and have a backup date ready.
+    a: >-
+      Yes — strongly recommended, especially since its January 2026 Michelin
+      Guide Taiwan listing. Book through the restaurant's official channel as
+      early as possible and have a backup date ready.
   - q: What kind of food does Sansan Bistro serve?
-    a: Neo-Sichuan cuisine — classic ma-la, chili, and fermented flavors reworked with modern technique and plating — paired with an inventive, spice-friendly cocktail menu rather than typical Sichuan beer-and-baijiu service.
+    a: >-
+      Neo-Sichuan cuisine — classic ma-la, chili, and fermented flavors reworked
+      with modern technique and plating — paired with an inventive,
+      spice-friendly cocktail menu rather than typical Sichuan beer-and-baijiu
+      service.
   - q: How much does a meal cost?
-    a: Specific pricing isn't published here and can change; confirm current menu pricing directly with the restaurant before booking, especially given its recent surge in popularity.
+    a: >-
+      Specific pricing isn't published here and can change; confirm current menu
+      pricing directly with the restaurant before booking, especially given its
+      recent surge in popularity.
   - q: What's the best time to visit to actually get a table?
-    a: Early weeknight dinner seatings are generally the easiest to book at newly Michelin-listed restaurants; weekends fill fastest. Always confirm hours directly, as these can change post-recognition.
+    a: >-
+      Early weeknight dinner seatings are generally the easiest to book at newly
+      Michelin-listed restaurants; weekends fill fastest. Always confirm hours
+      directly, as these can change post-recognition.
   - q: What should I wear or expect atmosphere-wise?
-    a: The dining room has a moody, design-led look — burgundy-red tones with wood and metal accents — so smart-casual dress fits the vibe better than strictly casual attire.
+    a: >-
+      The dining room has a moody, design-led look — burgundy-red tones with
+      wood and metal accents — so smart-casual dress fits the vibe better than
+      strictly casual attire.
 aiGenerated: true
 draft: true
+updatedDate: '2026-11-18'
 ---
 
 ## Why Sansan Bistro is worth knowing about

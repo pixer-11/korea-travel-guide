@@ -1,31 +1,38 @@
 ---
 title: Bouillon Gavroche in Singapore
-description: Bouillon Gavroche is a French "bouillon"-style brasserie inside Mandarin Gallery on Orchard Road, bringing Asia's first take on the historic 19th-century Parisian bouillon concept — affordable, no-frills French comfort food served at speed in an old-school dining room.
+description: >-
+  Bouillon Gavroche is a French "bouillon"-style brasserie inside Mandarin
+  Gallery on Orchard Road, bringing Asia's first take on the historic
+  19th-century Parisian bouillon concept — affordable, no-frills French comfort
+  food served at speed in an old-school dining room.
 country: Singapore
 region: Singapore
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/11182924_GN-D7DZ50t6W5Kee6CceB4S0wW5sykkYQBpDgPfaXwA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/11182924_GN-D7DZ50t6W5Kee6CceB4S0wW5sykkYQBpDgPfaXwA.jpg
   credit: 'Photo: Foursquare user content (Boullion Gavroche)'
   license: foursquare
-  source: https://foursquare.com/v/69f5cd250fc5a5628ee167dd
+  source: 'https://foursquare.com/v/69f5cd250fc5a5628ee167dd'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/11182924_wnIjmpC2CaCfcoUSPJLt3_h30loYsR3ciltq1gXSBas.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/11182924_wnIjmpC2CaCfcoUSPJLt3_h30loYsR3ciltq1gXSBas.jpg
     credit: 'Photo: Foursquare user content (Boullion Gavroche)'
     license: foursquare
-    source: https://foursquare.com/v/69f5cd250fc5a5628ee167dd
+    source: 'https://foursquare.com/v/69f5cd250fc5a5628ee167dd'
 place:
   id: ChIJ71k9NkIZ2jERiLWVC5QUHag
   name: Bouillon Gavroche
   address: '333A Orchard Rd, #01-16/17, Singapore 238897'
   rating: 4.4
-  userRatingsTotal: 105
-  googleMapsUrl: https://maps.google.com/?cid=12113861198778578312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 240
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12113861198778578312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3020467
   lng: 103.83663179999999
-  phone: '+65 8522 0998'
+  phone: +65 8522 0998
   openingHours:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'
@@ -34,23 +41,47 @@ place:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 11:30 AM – 11:00 PM'
+  priceLevel: 2
 tags:
   - singapore
   - new & trending
-quickAnswer: Bouillon Gavroche is a French "bouillon"-style brasserie inside Mandarin Gallery on Orchard Road, bringing Asia's first take on the historic 19th-century Parisian bouillon concept — affordable, no-frills French comfort food served at speed in an old-school dining room. It's best visited for a classic French lunch or early dinner while shopping on Orchard Road; book ahead or check wait times since it's a newly opened, buzzed-about spot. Confirm current hours, reservation policy, and menu pricing directly with the restaurant before heading over, as these details change frequently for new openings.
+quickAnswer: >-
+  Bouillon Gavroche is a French "bouillon"-style brasserie inside Mandarin
+  Gallery on Orchard Road, bringing Asia's first take on the historic
+  19th-century Parisian bouillon concept — affordable, no-frills French comfort
+  food served at speed in an old-school dining room. It's best visited for a
+  classic French lunch or early dinner while shopping on Orchard Road; book
+  ahead or check wait times since it's a newly opened, buzzed-about spot.
+  Confirm current hours, reservation policy, and menu pricing directly with the
+  restaurant before heading over, as these details change frequently for new
+  openings.
 faq:
   - q: Where exactly is Bouillon Gavroche located?
-    a: Inside Mandarin Gallery, the shopping podium next to Mandarin Orchard Singapore on Orchard Road.
+    a: >-
+      Inside Mandarin Gallery, the shopping podium next to Mandarin Orchard
+      Singapore on Orchard Road.
   - q: What's the nearest MRT station?
-    a: Orchard Station (Thomson-East Coast Line / North-South Line) or Somerset Station (North-South Line), both a short walk from Mandarin Gallery.
+    a: >-
+      Orchard Station (Thomson-East Coast Line / North-South Line) or Somerset
+      Station (North-South Line), both a short walk from Mandarin Gallery.
   - q: Do I need a reservation?
-    a: As a newly opened, trending spot it may have queues; check the restaurant's official channels for current reservation options before visiting.
+    a: >-
+      As a newly opened, trending spot it may have queues; check the
+      restaurant's official channels for current reservation options before
+      visiting.
   - q: What kind of food does it serve?
-    a: It follows the traditional Parisian 'bouillon' format — affordable, fast-served French comfort classics like braises, roasts, and soups — though the exact menu should be confirmed directly as it's a new opening.
+    a: >-
+      It follows the traditional Parisian 'bouillon' format — affordable,
+      fast-served French comfort classics like braises, roasts, and soups —
+      though the exact menu should be confirmed directly as it's a new opening.
   - q: What's a good time to visit to avoid crowds?
-    a: Try just before or after standard lunch (12-2pm) and dinner (7-9pm) peaks, and weekdays over weekends, since it's currently a buzzed-about new opening.
+    a: >-
+      Try just before or after standard lunch (12-2pm) and dinner (7-9pm) peaks,
+      and weekdays over weekends, since it's currently a buzzed-about new
+      opening.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-18'
 ---
 
 ## Why go

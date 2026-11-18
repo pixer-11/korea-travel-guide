@@ -1,28 +1,33 @@
 ---
 title: 'Manseok Dakgangjeong(deep-fried and braised chicken): Where to Eat in Sokcho'
-description: Manseok Dakgangjeong is a Sokcho institution for dakgangjeong — bite-sized fried chicken tossed in a sweet-spicy-garlicky glaze — served near Sokcho's Cheongchoho lake area.
+description: >-
+  Manseok Dakgangjeong is a Sokcho institution for dakgangjeong — bite-sized
+  fried chicken tossed in a sweet-spicy-garlicky glaze — served near Sokcho's
+  Cheongchoho lake area.
 country: South Korea
 region: Sokcho
 category: restaurant
 pubDate: '2026-07-24T22:25:59.641Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/14315018_rRDVxQVCYFa6dyVXacowI08sklrDaDXdG9a8kgv_NVY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/14315018_rRDVxQVCYFa6dyVXacowI08sklrDaDXdG9a8kgv_NVY.jpg
   credit: 'Photo: Foursquare user content (만석닭강정)'
   license: foursquare
-  source: https://foursquare.com/v/4f7fd4cde4b0e160b8b26c8f
+  source: 'https://foursquare.com/v/4f7fd4cde4b0e160b8b26c8f'
 gallery: []
 place:
   id: ChIJ_anZJ3q72F8RwNtXP7C84rQ
   name: Manseok Dakgangjeong(deep-fried and braised chicken)
-  address: 72 Cheongchohoban-ro, 조양동 Sokcho-si, Gangwon-do, South Korea
+  address: '72 Cheongchohoban-ro, 조양동 Sokcho-si, Gangwon-do, South Korea'
   rating: 4
-  userRatingsTotal: 2323
+  userRatingsTotal: 2345
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=13034187736726625216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13034187736726625216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.190239999999996
   lng: 128.5868781
-  phone: '+82 33-632-4089'
+  phone: +82 33-632-4089
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
@@ -34,19 +39,42 @@ place:
 tags:
   - sokcho
   - street food
-quickAnswer: Manseok Dakgangjeong is a Sokcho institution for dakgangjeong — bite-sized fried chicken tossed in a sweet-spicy-garlicky glaze — served near Sokcho's Cheongchoho lake area. It's casual, moderately priced (price level 2), and rated around 4.0 from over 2,300 reviews, so expect a wait at peak meal times. Order a whole portion to share, ask for it "half spicy, half original" if you can't decide, and pair it with rice or as anju (drinking food) with a cold beer.
+quickAnswer: >-
+  Manseok Dakgangjeong is a Sokcho institution for dakgangjeong — bite-sized
+  fried chicken tossed in a sweet-spicy-garlicky glaze — served near Sokcho's
+  Cheongchoho lake area. It's casual, moderately priced (price level 2), and
+  rated around 4.0 from over 2,300 reviews, so expect a wait at peak meal times.
+  Order a whole portion to share, ask for it "half spicy, half original" if you
+  can't decide, and pair it with rice or as anju (drinking food) with a cold
+  beer.
 faq:
   - q: How do I get to Manseok Dakgangjeong without a car?
-    a: Take an intercity bus to Sokcho Express or Intercity Bus Terminal, then a short taxi (about 10-15 minutes) or local bus toward the Cheongchoho Lake area, where the restaurant is located on Cheongchohoban-ro.
+    a: >-
+      Take an intercity bus to Sokcho Express or Intercity Bus Terminal, then a
+      short taxi (about 10-15 minutes) or local bus toward the Cheongchoho Lake
+      area, where the restaurant is located on Cheongchohoban-ro.
   - q: How much does dakgangjeong cost here?
-    a: Price level is mid-range (moderate/level 2) for the area — expect a shareable order to cost more than a single fast-food meal but be reasonable for 2-3 people to split, similar to other casual Korean restaurants in Sokcho.
+    a: >-
+      Price level is mid-range (moderate/level 2) for the area — expect a
+      shareable order to cost more than a single fast-food meal but be
+      reasonable for 2-3 people to split, similar to other casual Korean
+      restaurants in Sokcho.
   - q: How long should I plan to spend here?
-    a: Budget 45 minutes to an hour, including a possible wait at peak times; the food itself is quick to eat once served.
+    a: >-
+      Budget 45 minutes to an hour, including a possible wait at peak times; the
+      food itself is quick to eat once served.
   - q: What's nearby to combine with a meal here?
-    a: The Cheongchoho Lake walking paths and Sokcho Beach are both within easy reach, making this a natural lunch or dinner stop before or after exploring the lakeside or heading toward Seoraksan National Park.
-  - q: Is it better for lunch or dinner, or as a drinking spot?
-    a: It works for both — order it with rice as a full meal, or treat it as anju (bar food) with beer or soju in the evening, which is a common way locals enjoy dakgangjeong.
+    a: >-
+      The Cheongchoho Lake walking paths and Sokcho Beach are both within easy
+      reach, making this a natural lunch or dinner stop before or after
+      exploring the lakeside or heading toward Seoraksan National Park.
+  - q: 'Is it better for lunch or dinner, or as a drinking spot?'
+    a: >-
+      It works for both — order it with rice as a full meal, or treat it as anju
+      (bar food) with beer or soju in the evening, which is a common way locals
+      enjoy dakgangjeong.
 aiGenerated: true
+updatedDate: '2026-11-18'
 ---
 
 ## Why go

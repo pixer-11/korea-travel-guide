@@ -1,30 +1,36 @@
 ---
 title: London Bagel Museum in Seoul
-description: London Bagel Museum is Seoul's most talked-about bakery, famous for chewy, creatively topped bagels like Potato Cheese and Brick Lane, and for the hours-long "open run" queues it draws.
+description: >-
+  London Bagel Museum is Seoul's most talked-about bakery, famous for chewy,
+  creatively topped bagels like Potato Cheese and Brick Lane, and for the
+  hours-long "open run" queues it draws.
 country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-07-23'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/3145414_t0PH53W7mr4DOFA5DrFUlCGU5kBz8Qhxv4HTI6Lgg_E.jpg"
-    credit: "Photo: Foursquare user content (London Bagel Museum (런던베이글뮤지엄))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/613b092d6082cc326e9966c5"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/3145414_t0PH53W7mr4DOFA5DrFUlCGU5kBz8Qhxv4HTI6Lgg_E.jpg
+    credit: 'Photo: Foursquare user content (London Bagel Museum (런던베이글뮤지엄))'
+    license: foursquare
+    source: 'https://foursquare.com/v/613b092d6082cc326e9966c5'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/150378465_ZdEh6NqhGBRHf7QgzyblTy2tjYLPOVpQ1mGivjm01Xs.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/150378465_ZdEh6NqhGBRHf7QgzyblTy2tjYLPOVpQ1mGivjm01Xs.jpg
   credit: 'Photo: Foursquare user content (London Bagel Museum (런던베이글뮤지엄))'
   license: foursquare
-  source: https://foursquare.com/v/613b092d6082cc326e9966c5
+  source: 'https://foursquare.com/v/613b092d6082cc326e9966c5'
   focus:
     x: 45
-    y: 25
+    'y': 25
 place:
   id: ChIJKw66zRCjfDURuaw9qYPdI-k
   name: London Bagel Museum Anguk
-  address: 20 Bukchon-ro 4-gil, Jongno District, Seoul, South Korea
+  address: '20 Bukchon-ro 4-gil, Jongno District, Seoul, South Korea'
   rating: 4.1
-  userRatingsTotal: 2304
-  googleMapsUrl: https://maps.google.com/?cid=16799514592571927737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2475
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16799514592571927737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.579182599999996
   lng: 126.98615199999999
@@ -36,23 +42,46 @@ place:
     - 'Friday: 7:00 AM – 6:00 PM'
     - 'Saturday: 7:00 AM – 6:00 PM'
     - 'Sunday: 7:00 AM – 6:00 PM'
+  priceLevel: 2
 tags:
   - seoul
   - new & trending
-quickAnswer: London Bagel Museum is Seoul's most talked-about bakery, famous for chewy, creatively topped bagels like Potato Cheese and Brick Lane, and for the hours-long "open run" queues it draws. The original Anguk branch near Bukchon Hanok Village is the one most visitors aim for, but the chain has since expanded to other Seoul neighborhoods. Arrive early (well before opening) or plan around a wait, since walk-in queues and limited daily stock are part of the experience.
+quickAnswer: >-
+  London Bagel Museum is Seoul's most talked-about bakery, famous for chewy,
+  creatively topped bagels like Potato Cheese and Brick Lane, and for the
+  hours-long "open run" queues it draws. The original Anguk branch near Bukchon
+  Hanok Village is the one most visitors aim for, but the chain has since
+  expanded to other Seoul neighborhoods. Arrive early (well before opening) or
+  plan around a wait, since walk-in queues and limited daily stock are part of
+  the experience.
 faq:
   - q: How early should I arrive to avoid a long wait?
-    a: Regulars aiming for the original Anguk branch often show up before opening time to join the 'open run.' Weekday mornings are generally less crowded than weekends.
+    a: >-
+      Regulars aiming for the original Anguk branch often show up before opening
+      time to join the 'open run.' Weekday mornings are generally less crowded
+      than weekends.
   - q: What's the nearest subway station?
-    a: Anguk Station on Line 3 is closest to the flagship location; exits toward Bukchon (typically Exit 2 or 3) lead you into the surrounding lanes where the bakery sits.
+    a: >-
+      Anguk Station on Line 3 is closest to the flagship location; exits toward
+      Bukchon (typically Exit 2 or 3) lead you into the surrounding lanes where
+      the bakery sits.
   - q: Do I need a reservation?
-    a: Historically this has been a walk-in, queue-based bakery, but policies for viral Seoul spots change often. Check recent reviews or the bakery's social media shortly before your visit to confirm current procedures.
+    a: >-
+      Historically this has been a walk-in, queue-based bakery, but policies for
+      viral Seoul spots change often. Check recent reviews or the bakery's
+      social media shortly before your visit to confirm current procedures.
   - q: How long should I plan to spend there?
-    a: Between queueing and browsing the bagel selection, budget at least 30-60 minutes beyond the wait time itself, more on weekends.
+    a: >-
+      Between queueing and browsing the bagel selection, budget at least 30-60
+      minutes beyond the wait time itself, more on weekends.
   - q: What else can I do nearby if the line is too long?
-    a: The bakery's Anguk location is close to Bukchon Hanok Village, Changdeokgung Palace, and Insadong's shopping streets, all good alternatives while you decide whether to queue.
+    a: >-
+      The bakery's Anguk location is close to Bukchon Hanok Village,
+      Changdeokgung Palace, and Insadong's shopping streets, all good
+      alternatives while you decide whether to queue.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-18'
 ---
 
 ## Why London Bagel Museum Is Worth Knowing About

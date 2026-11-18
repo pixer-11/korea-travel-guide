@@ -1,41 +1,55 @@
 ---
 title: 'Depot Bu Rudy Dharmahusada: Where to Eat in Surabaya'
-description: "Depot Bu Rudy Dharmahusada is a long-running Surabaya institution on Jl. Dharmahusada known for its sambal-forward East Javanese cooking, especially rempeyek (crispy peanut/anchovy crackers), empal, and fried chicken with sambal that regulars buy by the kilo to take home."
+description: >-
+  Depot Bu Rudy Dharmahusada is a long-running Surabaya institution on Jl.
+  Dharmahusada known for its sambal-forward East Javanese cooking, especially
+  rempeyek (crispy peanut/anchovy crackers), empal, and fried chicken with
+  sambal that regulars buy by the kilo to take home.
 country: Indonesia
 region: Surabaya
 category: restaurant
 pubDate: '2026-07-23T07:29:22.158Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1410499986_CmQTrmWx4Y2N30xpoqv13yGC7yQvt2eGnkkKHTo4NgY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1410499986_CmQTrmWx4Y2N30xpoqv13yGC7yQvt2eGnkkKHTo4NgY.jpg
   credit: 'Photo: Foursquare user content (Depot Madiun Masakan Khas "Bu Rudy")'
   license: foursquare
-  source: https://foursquare.com/v/4bb848d9cf2fc9b6a5739f02
+  source: 'https://foursquare.com/v/4bb848d9cf2fc9b6a5739f02'
   focus:
     x: 45
-    y: 65
+    'y': 65
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/3272431_SgJ8gpwHxEmeJ99UF5q0XbSqcFDfMaxbWRteE4ghNO4.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/3272431_SgJ8gpwHxEmeJ99UF5q0XbSqcFDfMaxbWRteE4ghNO4.jpg
     credit: 'Photo: Foursquare user content (Depot Madiun Masakan Khas "Bu Rudy")'
     license: foursquare
-    source: https://foursquare.com/v/4bb848d9cf2fc9b6a5739f02
+    source: 'https://foursquare.com/v/4bb848d9cf2fc9b6a5739f02'
 place:
   id: ChIJzclN-v351y0Rnpji2jU5UXM
   name: Depot Bu Rudy Dharmahusada
-  address: Jl. Dharmahusada No.144, Mojo, Kec. Gubeng, Surabaya, Jawa Timur 60285, Indonesia
+  address: >-
+    Jl. Dharmahusada No.144, Mojo, Kec. Gubeng, Surabaya, Jawa Timur 60285,
+    Indonesia
   rating: 4.5
-  userRatingsTotal: 16799
+  userRatingsTotal: 16989
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=8309485690943608990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8309485690943608990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -7.267450299999999
   lng: 112.7700431
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8, 9]
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
     weekdayBusy:
       - 17
       - 18
-    weekendQuiet: [7, 8]
+    weekendQuiet:
+      - 7
+      - 8
     weekendBusy:
       - 11
       - 12
@@ -47,7 +61,7 @@ place:
       - 18
       - 19
     venueId: ven_4d585535556a32696a706e523079313533762d4e6c637a4a496843
-  phone: '+62 812-3456-5110'
+  phone: +62 812-3456-5110
   openingHours:
     - 'Monday: 6:00 AM – 9:00 PM'
     - 'Tuesday: 6:00 AM – 9:00 PM'
@@ -59,19 +73,43 @@ place:
 tags:
   - surabaya
   - street food
-quickAnswer: Depot Bu Rudy Dharmahusada is a long-running Surabaya institution on Jl. Dharmahusada known for its sambal-forward East Javanese cooking, especially rempeyek (crispy peanut/anchovy crackers), empal, and fried chicken with sambal that regulars buy by the kilo to take home. With a 4.5 rating across nearly 17,000 reviews, it's consistently packed, so aim for an early lunch (11:30am) or mid-afternoon lull (2:30–4pm) to avoid the worst crowds.
+quickAnswer: >-
+  Depot Bu Rudy Dharmahusada is a long-running Surabaya institution on Jl.
+  Dharmahusada known for its sambal-forward East Javanese cooking, especially
+  rempeyek (crispy peanut/anchovy crackers), empal, and fried chicken with
+  sambal that regulars buy by the kilo to take home. With a 4.5 rating across
+  nearly 17,000 reviews, it's consistently packed, so aim for an early lunch
+  (11:30am) or mid-afternoon lull (2:30–4pm) to avoid the worst crowds.
 faq:
   - q: How do I get to Depot Bu Rudy Dharmahusada without a car?
-    a: Use Gojek or Grab (Indonesia's main ride-hailing apps) from anywhere in Surabaya; there's no direct train or metro link, so a car or motorbike taxi is the standard way in. From Gubeng or Pasar Turi train stations it's roughly a 15-25 minute ride depending on traffic.
+    a: >-
+      Use Gojek or Grab (Indonesia's main ride-hailing apps) from anywhere in
+      Surabaya; there's no direct train or metro link, so a car or motorbike
+      taxi is the standard way in. From Gubeng or Pasar Turi train stations it's
+      roughly a 15-25 minute ride depending on traffic.
   - q: Is it expensive?
-    a: It sits at a mid-range price level for Surabaya — affordable for a full family-style meal of fried chicken, sambal, and sides, without being a high-end splurge. Exact menu prices can shift, so it's worth confirming current pricing on arrival.
+    a: >-
+      It sits at a mid-range price level for Surabaya — affordable for a full
+      family-style meal of fried chicken, sambal, and sides, without being a
+      high-end splurge. Exact menu prices can shift, so it's worth confirming
+      current pricing on arrival.
   - q: What's the best time to visit to avoid crowds?
-    a: This is a very popular, heavily reviewed restaurant, so weekday early lunch (around opening to 11:30am) or a mid-afternoon visit between 2:30 and 4pm tend to have shorter waits than the weekend and evening rush.
+    a: >-
+      This is a very popular, heavily reviewed restaurant, so weekday early
+      lunch (around opening to 11:30am) or a mid-afternoon visit between 2:30
+      and 4pm tend to have shorter waits than the weekend and evening rush.
   - q: How long should I plan to spend here?
-    a: A typical sit-down meal takes 45-75 minutes; add extra time during peak lunch (12-1pm) and dinner (after 6:30pm) windows when queues are longest.
+    a: >-
+      A typical sit-down meal takes 45-75 minutes; add extra time during peak
+      lunch (12-1pm) and dinner (after 6:30pm) windows when queues are longest.
   - q: What should I order?
-    a: Try the ayam or bebek goreng (fried chicken or duck) with a sambal of your choice, plus rempeyek — the crispy peanut-or-anchovy cracker the depot is best known for. It's also sold pre-packed for takeaway, which most repeat visitors buy in bulk.
+    a: >-
+      Try the ayam or bebek goreng (fried chicken or duck) with a sambal of your
+      choice, plus rempeyek — the crispy peanut-or-anchovy cracker the depot is
+      best known for. It's also sold pre-packed for takeaway, which most repeat
+      visitors buy in bulk.
 aiGenerated: true
+updatedDate: '2026-11-18'
 ---
 
 ## Why go

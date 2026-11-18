@@ -1,31 +1,38 @@
 ---
 title: Oxomoco in Tokyo
-description: Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal tacos, and agave-forward cocktail list to the city's most polished dining and entertainment complex.
+description: >-
+  Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has
+  relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal
+  tacos, and agave-forward cocktail list to the city's most polished dining and
+  entertainment complex.
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1412222860_A6WjGSVZAaCUrCvARC7J-fWmFe-X9oF-URKbQjhcLC0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1412222860_A6WjGSVZAaCUrCvARC7J-fWmFe-X9oF-URKbQjhcLC0.jpg
   credit: 'Photo: Foursquare user content (Oxomoco オショモコ)'
   license: foursquare
-  source: https://foursquare.com/v/69fd76d47d033768f6173af0
+  source: 'https://foursquare.com/v/69fd76d47d033768f6173af0'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/69277252_8DlqGgj_Mi0dtvf_KTlnKa-B-Ix6Nj3JRuXdSwVdOTU.jpg"
-    credit: "Photo: Foursquare user content (Oxomoco オショモコ)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/69fd76d47d033768f6173af0"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/69277252_8DlqGgj_Mi0dtvf_KTlnKa-B-Ix6Nj3JRuXdSwVdOTU.jpg
+    credit: 'Photo: Foursquare user content (Oxomoco オショモコ)'
+    license: foursquare
+    source: 'https://foursquare.com/v/69fd76d47d033768f6173af0'
 place:
   id: ChIJ0y3_b4eLGGAR6q6oerLsBDo
   name: OXOMOCO
-  address: Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6-chōme−10−２ 六本木ヒルズ West Walk, 1F
-  rating: 4.3
-  userRatingsTotal: 153
-  googleMapsUrl: https://maps.google.com/?cid=4180726605412871914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: 'Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6-chōme−10−１ ヒルズウエストウォーク 1f'
+  rating: 4.2
+  userRatingsTotal: 178
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4180726605412871914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.6611207
   lng: 139.7286823
-  phone: '+81 3-3478-9991'
+  phone: +81 3-3478-9991
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -34,23 +41,48 @@ place:
     - 'Friday: 11:00 AM – 2:00 AM'
     - 'Saturday: 11:00 AM – 2:00 AM'
     - 'Sunday: 11:00 AM – 11:00 PM'
+  priceLevel: 2
 tags:
   - tokyo
   - new & trending
-quickAnswer: Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal tacos, and agave-forward cocktail list to the city's most polished dining and entertainment complex. Expect a stylish, energetic NYC-meets-CDMX crowd rather than a quiet traditional meal, and book ahead since the concept's pedigree draws a reservation-hungry audience. Confirm current hours and booking policy directly before visiting, as details for a newly relocated venue shift quickly.
+quickAnswer: >-
+  Oxomoco, the Brooklyn-born, Michelin-starred modern Mexican restaurant, has
+  relocated to Roppongi Hills, Tokyo, bringing its wood-fired cooking, artisanal
+  tacos, and agave-forward cocktail list to the city's most polished dining and
+  entertainment complex. Expect a stylish, energetic NYC-meets-CDMX crowd rather
+  than a quiet traditional meal, and book ahead since the concept's pedigree
+  draws a reservation-hungry audience. Confirm current hours and booking policy
+  directly before visiting, as details for a newly relocated venue shift
+  quickly.
 faq:
   - q: Where exactly is Oxomoco located in Tokyo?
-    a: It's in Roppongi Hills, the large mixed-use complex in Minato Ward built around Mori Tower, alongside attractions like the Mori Art Museum and Tokyo City View.
+    a: >-
+      It's in Roppongi Hills, the large mixed-use complex in Minato Ward built
+      around Mori Tower, alongside attractions like the Mori Art Museum and
+      Tokyo City View.
   - q: What's the closest train station?
-    a: Roppongi Station, served by the Tokyo Metro Hibiya Line and the Toei Oedo Line. Exit 1C on the Hibiya Line connects directly into Roppongi Hills via an underground passage.
+    a: >-
+      Roppongi Station, served by the Tokyo Metro Hibiya Line and the Toei Oedo
+      Line. Exit 1C on the Hibiya Line connects directly into Roppongi Hills via
+      an underground passage.
   - q: Do I need a reservation?
-    a: Given the restaurant's Michelin-starred pedigree from its Brooklyn original, expect strong demand — booking ahead is strongly recommended, especially for weekend evenings.
+    a: >-
+      Given the restaurant's Michelin-starred pedigree from its Brooklyn
+      original, expect strong demand — booking ahead is strongly recommended,
+      especially for weekend evenings.
   - q: What kind of food does Oxomoco serve?
-    a: Modern Mexican cuisine centered on wood-fired cooking, artisanal tacos, and an agave-driven cocktail list (tequila and mezcal), blending New York polish with Mexico City flavor sensibilities.
+    a: >-
+      Modern Mexican cuisine centered on wood-fired cooking, artisanal tacos,
+      and an agave-driven cocktail list (tequila and mezcal), blending New York
+      polish with Mexico City flavor sensibilities.
   - q: What else can I do nearby?
-    a: Roppongi Hills itself has the Mori Art Museum, Tokyo City View observation deck, and numerous other restaurants and bars, making it easy to build a full evening around the visit.
+    a: >-
+      Roppongi Hills itself has the Mori Art Museum, Tokyo City View observation
+      deck, and numerous other restaurants and bars, making it easy to build a
+      full evening around the visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-18'
 ---
 
 ## Why Oxomoco Matters in Tokyo

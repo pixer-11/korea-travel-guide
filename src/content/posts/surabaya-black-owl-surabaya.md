@@ -1,30 +1,38 @@
 ---
 title: 'Black Owl: Where to Eat in Surabaya'
-description: Black Owl is a highly rated modern café-restaurant on Jl. Basuki Rahmat in central Surabaya's Tegalsari district, a short taxi or ride-hail trip from Gubeng or Pasar Turi train stations.
+description: >-
+  Black Owl is a highly rated modern café-restaurant on Jl. Basuki Rahmat in
+  central Surabaya's Tegalsari district, a short taxi or ride-hail trip from
+  Gubeng or Pasar Turi train stations.
 country: Indonesia
 region: Surabaya
 category: restaurant
 pubDate: '2026-07-23T07:18:32.244Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg
   credit: 'Photo: Foursquare user content (Black Owl)'
   license: foursquare
-  source: https://foursquare.com/v/6675637dd1a0267feefe824b
+  source: 'https://foursquare.com/v/6675637dd1a0267feefe824b'
   focus:
     x: 25
-    y: 35
+    'y': 35
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/42531918_t2U1iybbPEKVfg3Xh9lD529-7vZtrOscCr4-ri6Aq3Y.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/42531918_t2U1iybbPEKVfg3Xh9lD529-7vZtrOscCr4-ri6Aq3Y.jpg
     credit: 'Photo: Foursquare user content (Black Owl)'
     license: foursquare
-    source: https://foursquare.com/v/6675637dd1a0267feefe824b
+    source: 'https://foursquare.com/v/6675637dd1a0267feefe824b'
 place:
   id: ChIJcQ_EToL71y0RM3ta80qLId8
   name: Black Owl - Surabaya
-  address: Jl. Basuki Rahmat No.80, RW.82, Tegal Sari, Kec. Tegalsari, Surabaya, Jawa Timur 60262, Indonesia
+  address: >-
+    Jl. Basuki Rahmat No.80, RW.82, Tegal Sari, Kec. Tegalsari, Surabaya, Jawa
+    Timur 60262, Indonesia
   rating: 4.9
-  userRatingsTotal: 1781
-  googleMapsUrl: https://maps.google.com/?cid=16078285298716015411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2120
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16078285298716015411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -7.2680065
   lng: 112.74113109999999
@@ -50,7 +58,7 @@ place:
       - 21
       - 22
     venueId: ven_3864494c7130386174334d52307931374c6f54455f51634a496843
-  phone: '+62 888-8555-579'
+  phone: +62 888-8555-579
   openingHours:
     - 'Monday: 11:00 AM – 3:00 AM'
     - 'Tuesday: 11:00 AM – 3:00 AM'
@@ -59,22 +67,47 @@ place:
     - 'Friday: 11:00 AM – 4:00 AM'
     - 'Saturday: 11:00 AM – 4:00 AM'
     - 'Sunday: 11:00 AM – 3:00 AM'
+  priceLevel: 4
 tags:
   - surabaya
   - local restaurant
-quickAnswer: Black Owl is a highly rated modern café-restaurant on Jl. Basuki Rahmat in central Surabaya's Tegalsari district, a short taxi or ride-hail trip from Gubeng or Pasar Turi train stations. It's known for a broad all-day menu spanning Western comfort food, coffee, and dessert, and it draws a steady, well-reviewed crowd (4.9 rating, nearly 1,800 reviews), so plan to go outside the Friday–Sunday dinner rush or book ahead. Budget an hour to 90 minutes for a proper sit-down meal plus dessert.
+quickAnswer: >-
+  Black Owl is a highly rated modern café-restaurant on Jl. Basuki Rahmat in
+  central Surabaya's Tegalsari district, a short taxi or ride-hail trip from
+  Gubeng or Pasar Turi train stations. It's known for a broad all-day menu
+  spanning Western comfort food, coffee, and dessert, and it draws a steady,
+  well-reviewed crowd (4.9 rating, nearly 1,800 reviews), so plan to go outside
+  the Friday–Sunday dinner rush or book ahead. Budget an hour to 90 minutes for
+  a proper sit-down meal plus dessert.
 faq:
   - q: Do I need a reservation at Black Owl in Surabaya?
-    a: It's not strictly required, but given its high review volume and popularity, booking ahead (via phone, Instagram, or WhatsApp if available) is smart for Friday–Sunday dinner. Weekday afternoons are easier to walk into.
+    a: >-
+      It's not strictly required, but given its high review volume and
+      popularity, booking ahead (via phone, Instagram, or WhatsApp if available)
+      is smart for Friday–Sunday dinner. Weekday afternoons are easier to walk
+      into.
   - q: How do I get to Black Owl without a car?
-    a: Use Gojek or Grab (Indonesia's main ride-hailing apps) or a Blue Bird taxi — both are reliable in Surabaya. It's roughly 10–15 minutes from Surabaya Gubeng Station and a bit farther from Pasar Turi Station.
+    a: >-
+      Use Gojek or Grab (Indonesia's main ride-hailing apps) or a Blue Bird taxi
+      — both are reliable in Surabaya. It's roughly 10–15 minutes from Surabaya
+      Gubeng Station and a bit farther from Pasar Turi Station.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday late morning to mid-afternoon (around 11am–3pm) is typically calmer. Friday through Sunday evenings are peak times across Surabaya's café-restaurant scene, so expect the busiest atmosphere and possible waits then.
+    a: >-
+      Weekday late morning to mid-afternoon (around 11am–3pm) is typically
+      calmer. Friday through Sunday evenings are peak times across Surabaya's
+      café-restaurant scene, so expect the busiest atmosphere and possible waits
+      then.
   - q: How long should I plan to spend there?
-    a: Budget about an hour to 90 minutes for a full meal with coffee or dessert, since the menu and format encourage lingering rather than a quick bite.
+    a: >-
+      Budget about an hour to 90 minutes for a full meal with coffee or dessert,
+      since the menu and format encourage lingering rather than a quick bite.
   - q: What's nearby if I want to make a half-day of it?
-    a: Tunjungan Plaza and the historic Tunjungan shopping street are both close by along the same central corridor, easy to combine with a meal before or after.
+    a: >-
+      Tunjungan Plaza and the historic Tunjungan shopping street are both close
+      by along the same central corridor, easy to combine with a meal before or
+      after.
 aiGenerated: true
+updatedDate: '2026-11-18'
 ---
 
 ## Why Black Owl stands out

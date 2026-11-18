@@ -1,46 +1,73 @@
 ---
 title: 'Myeongdong Shopping Street: Seoul Travel Guide'
-description: Myeongdong is Seoul's biggest street-level shopping and street-food district, packed into a compact grid a few minutes from Euljiro or Myeongdong subway stations.
+description: >-
+  Myeongdong is Seoul's biggest street-level shopping and street-food district,
+  packed into a compact grid a few minutes from Euljiro or Myeongdong subway
+  stations.
 country: South Korea
 region: Seoul
 category: hidden-gem
 pubDate: '2026-07-24T22:23:13.313Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/25113286_pBJtYQJR9dYqgpaA1rKspQgRRTuwZdN3GeD3n3ZYEt0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/25113286_pBJtYQJR9dYqgpaA1rKspQgRRTuwZdN3GeD3n3ZYEt0.jpg
   credit: 'Photo: Foursquare user content (Myeongdong Shopping Street)'
   license: foursquare
-  source: https://foursquare.com/v/102ea7b22fd6414fe38df33f
+  source: 'https://foursquare.com/v/102ea7b22fd6414fe38df33f'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 place:
   id: ChIJXz2vx_GifDURImd3aTJZ1VA
   name: Myeongdong Shopping Street
-  address: Myeong-dong 2(i)-ga, Jung District, Seoul, South Korea
+  address: 'Myeong-dong 2(i)-ga, Jung District, Seoul, South Korea'
   rating: 4.4
-  userRatingsTotal: 26335
-  googleMapsUrl: https://maps.google.com/?cid=5824659766126274338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 26696
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5824659766126274338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.5637699
   lng: 126.9844765
 tags:
   - seoul
   - Seongbuk-dong
-quickAnswer: Myeongdong is Seoul's biggest street-level shopping and street-food district, packed into a compact grid a few minutes from Euljiro or Myeongdong subway stations. Go on a weekday afternoon or right when stalls open in the early evening to shop cosmetics and grab tteokbokki, hotteok, and skewers before the after-dinner crowds peak. Budget 2-3 hours, more if you want a full sit-down meal or a side trip to Myeongdong Cathedral.
+quickAnswer: >-
+  Myeongdong is Seoul's biggest street-level shopping and street-food district,
+  packed into a compact grid a few minutes from Euljiro or Myeongdong subway
+  stations. Go on a weekday afternoon or right when stalls open in the early
+  evening to shop cosmetics and grab tteokbokki, hotteok, and skewers before the
+  after-dinner crowds peak. Budget 2-3 hours, more if you want a full sit-down
+  meal or a side trip to Myeongdong Cathedral.
 faq:
   - q: How do I get to Myeongdong Shopping Street?
-    a: Take Line 4 to Myeongdong Station (Exit 6 or 8), or Line 2 to Euljiro 1(il)-ga Station (Exit 5 or 6). Both put you within a few minutes' walk of the main pedestrian shopping lane.
+    a: >-
+      Take Line 4 to Myeongdong Station (Exit 6 or 8), or Line 2 to Euljiro
+      1(il)-ga Station (Exit 5 or 6). Both put you within a few minutes' walk of
+      the main pedestrian shopping lane.
   - q: How much does it cost to visit?
-    a: Walking the street is free. Street food items are typically small cash-friendly purchases in the low thousands of won each; cosmetics and clothing prices vary by store, and many shops offer on-the-spot tax refunds for tourists.
+    a: >-
+      Walking the street is free. Street food items are typically small
+      cash-friendly purchases in the low thousands of won each; cosmetics and
+      clothing prices vary by store, and many shops offer on-the-spot tax
+      refunds for tourists.
   - q: What's the best time to go?
-    a: Weekday afternoons (roughly 2–5pm) are calmer for browsing. For street food with shorter lines, aim for early evening around 5–6pm, just as carts open, before Friday/Saturday night crowds peak.
+    a: >-
+      Weekday afternoons (roughly 2–5pm) are calmer for browsing. For street
+      food with shorter lines, aim for early evening around 5–6pm, just as carts
+      open, before Friday/Saturday night crowds peak.
   - q: How long should I spend here?
-    a: Two to three hours covers a solid loop of shopping and street food; add 20–30 minutes if you want to walk over to nearby Myeongdong Cathedral.
+    a: >-
+      Two to three hours covers a solid loop of shopping and street food; add
+      20–30 minutes if you want to walk over to nearby Myeongdong Cathedral.
   - q: What else is nearby?
-    a: Myeongdong Cathedral is a short walk south, and Lotte Department Store Main Branch and Shinsegae Department Store sit at the edges of the district for duty-free shopping.
+    a: >-
+      Myeongdong Cathedral is a short walk south, and Lotte Department Store
+      Main Branch and Shinsegae Department Store sit at the edges of the
+      district for duty-free shopping.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-18'
 ---
 
 ## Why go

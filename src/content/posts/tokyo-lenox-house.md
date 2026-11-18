@@ -1,29 +1,35 @@
 ---
-heldFinal: 'rated 3.9, under the 4.0 floor the methodology page promises; the rating is a fact about the venue, not something a repair can clear'
-heldReason: 'below-rating-floor'
+heldFinal: >-
+  rated 3.9, under the 4.0 floor the methodology page promises; the rating is a
+  fact about the venue, not something a repair can clear
+heldReason: below-rating-floor
 title: Lenox House in Tokyo
-description: 'Lenox House in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Lenox House in Tokyo, Japan — a new/trending spot: what it is, where it is,
+  and how to visit.
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/81933423_OxXxoYXDUHaTpcdNVPICQ8kgodH3Lt9T-GbGpXIS02g.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/81933423_OxXxoYXDUHaTpcdNVPICQ8kgodH3Lt9T-GbGpXIS02g.jpg
   credit: 'Photo: Foursquare user content (LENOX HOUSE)'
   license: foursquare
-  source: https://foursquare.com/v/69e6fac56f675e5ea46fa556
+  source: 'https://foursquare.com/v/69e6fac56f675e5ea46fa556'
 gallery: []
 place:
   id: ChIJ_SMqd5aNGGARK71nsl_7w8w
   name: LENOX HOUSE
-  address: Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 4-chōme−9−１ feel参宮橋 1階
-  rating: 3.9
-  userRatingsTotal: 25
-  googleMapsUrl: https://maps.google.com/?cid=14754913192629484843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: 'Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 4-chōme−9−１ feel参宮橋 1階'
+  rating: 4.2
+  userRatingsTotal: 35
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14754913192629484843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.6780961
   lng: 139.6923945
-  phone: '+81 3-6273-6600'
+  phone: +81 3-6273-6600
   openingHours:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
@@ -32,23 +38,47 @@ place:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+  priceLevel: 2
 tags:
   - tokyo
   - new & trending
-quickAnswer: Lenox House is a handmade-pasta Italian restaurant near Sangubashi Station in Yoyogi, opened by the crew behind cult burger spot The Great Burger. It's known for regional Italian cooking built around seasonal Japanese produce, served in a vintage-meets-modern dining room. Reserve ahead if you can, and confirm current hours before heading over — this is a newer, trending opening and details can shift.
+quickAnswer: >-
+  Lenox House is a handmade-pasta Italian restaurant near Sangubashi Station in
+  Yoyogi, opened by the crew behind cult burger spot The Great Burger. It's
+  known for regional Italian cooking built around seasonal Japanese produce,
+  served in a vintage-meets-modern dining room. Reserve ahead if you can, and
+  confirm current hours before heading over — this is a newer, trending opening
+  and details can shift.
 faq:
   - q: How do I get to Lenox House?
-    a: Take the Odakyu Odawara Line to Sangubashi Station — it's a short one- or two-stop ride from Shinjuku — then walk a few minutes into Yoyogi; confirm the exact walking route from the station before you go.
+    a: >-
+      Take the Odakyu Odawara Line to Sangubashi Station — it's a short one- or
+      two-stop ride from Shinjuku — then walk a few minutes into Yoyogi; confirm
+      the exact walking route from the station before you go.
   - q: Do I need a reservation?
-    a: It's strongly recommended. As a trending opening from the team behind The Great Burger, tables can fill quickly, especially on weekend evenings, so check for a booking option online or by phone ahead of time.
+    a: >-
+      It's strongly recommended. As a trending opening from the team behind The
+      Great Burger, tables can fill quickly, especially on weekend evenings, so
+      check for a booking option online or by phone ahead of time.
   - q: What kind of food does it serve?
-    a: Handmade pasta and regional Italian dishes made with seasonal Japanese ingredients. Specific dishes rotate with the season and weren't published at the time of writing, so check current offerings directly with the restaurant.
+    a: >-
+      Handmade pasta and regional Italian dishes made with seasonal Japanese
+      ingredients. Specific dishes rotate with the season and weren't published
+      at the time of writing, so check current offerings directly with the
+      restaurant.
   - q: What are the hours and prices?
-    a: Not confirmed for this guide — as a recently opened, trending spot, hours and pricing may still be settling or subject to change, so verify directly with the restaurant or its official channels before visiting.
+    a: >-
+      Not confirmed for this guide — as a recently opened, trending spot, hours
+      and pricing may still be settling or subject to change, so verify directly
+      with the restaurant or its official channels before visiting.
   - q: What else can I see nearby?
-    a: Sangubashi Station is close to the northern entrance of Yoyogi Park and near National Yoyogi Stadium, making it easy to pair a park walk or event with dinner at Lenox House.
+    a: >-
+      Sangubashi Station is close to the northern entrance of Yoyogi Park and
+      near National Yoyogi Stadium, making it easy to pair a park walk or event
+      with dinner at Lenox House.
 aiGenerated: true
 draft: true
+updatedDate: '2026-11-18'
 ---
 ## Why Lenox House stands out
 

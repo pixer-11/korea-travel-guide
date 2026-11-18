@@ -1,34 +1,40 @@
 ---
 title: 'Fiamma: Where to Eat in Sentosa'
-description: Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club crowds.
+description: >-
+  Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1
+  The Knolls, Sentosa — a quieter, refined alternative to the island's
+  beach-club crowds.
 country: Singapore
 region: Sentosa
 category: restaurant
 pubDate: '2026-07-23T07:34:21.457Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/101034445_rMl0cIl0HICDIcnZnL8-Lpfy0_WEM9eHK6PEWNPgJaY.jpg"
-    credit: "Photo: Foursquare user content (Fiamma)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/62c41fc88a443f637bdd91a1"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/101034445_rMl0cIl0HICDIcnZnL8-Lpfy0_WEM9eHK6PEWNPgJaY.jpg
+    credit: 'Photo: Foursquare user content (Fiamma)'
+    license: foursquare
+    source: 'https://foursquare.com/v/62c41fc88a443f637bdd91a1'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/40583305_Xp_0QY4QADnzs16ukh3bOT6KFDt2Mo0y-I3t-Yv4ZeU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/40583305_Xp_0QY4QADnzs16ukh3bOT6KFDt2Mo0y-I3t-Yv4ZeU.jpg
   credit: 'Photo: Foursquare user content (Fiamma)'
   license: foursquare
-  source: https://foursquare.com/v/62c41fc88a443f637bdd91a1
+  source: 'https://foursquare.com/v/62c41fc88a443f637bdd91a1'
   focus:
     x: 50
-    y: 50
+    'y': 50
 place:
   id: ChIJEWNnq5of2jER69_bjd4nzlg
   name: Fiamma
-  address: 1 The Knolls, Singapore 098297
+  address: '1 The Knolls, Singapore 098297'
   rating: 4.8
-  userRatingsTotal: 842
-  googleMapsUrl: https://maps.google.com/?cid=6399095957356273643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 890
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6399095957356273643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.2492482
   lng: 103.82445129999999
-  phone: '+65 6591 5046'
+  phone: +65 6591 5046
   openingHours:
     - 'Monday: 12:00 – 10:30 PM'
     - 'Tuesday: 12:00 – 10:30 PM'
@@ -37,23 +43,46 @@ place:
     - 'Friday: 12:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 10:30 PM'
+  priceLevel: 4
 tags:
   - sentosa
   - local restaurant
-quickAnswer: Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1 The Knolls, Sentosa — a quieter, refined alternative to the island's beach-club crowds. Go for a leisurely dinner (book ahead), expect modern Italian cooking with a strong wine list, and budget at least 90 minutes to two hours for a full meal. Rated 4.8 from 842 reviews, it rewards travelers who want a proper sit-down meal away from Sentosa's tourist strip.
+quickAnswer: >-
+  Fiamma is an upscale Italian restaurant tucked inside Capella Singapore at 1
+  The Knolls, Sentosa — a quieter, refined alternative to the island's
+  beach-club crowds. Go for a leisurely dinner (book ahead), expect modern
+  Italian cooking with a strong wine list, and budget at least 90 minutes to two
+  hours for a full meal. Rated 4.8 from 842 reviews, it rewards travelers who
+  want a proper sit-down meal away from Sentosa's tourist strip.
 faq:
   - q: How do I get to Fiamma without a car?
-    a: Take the Sentosa Express monorail from VivoCity to Waterfront Station, then a taxi, ride-hail, or Sentosa shuttle to Capella Singapore at 1 The Knolls — it's on the island's quieter eastern side, away from the main monorail stops.
+    a: >-
+      Take the Sentosa Express monorail from VivoCity to Waterfront Station,
+      then a taxi, ride-hail, or Sentosa shuttle to Capella Singapore at 1 The
+      Knolls — it's on the island's quieter eastern side, away from the main
+      monorail stops.
   - q: Do I need a reservation?
-    a: Yes. As a hotel restaurant inside Capella Singapore, Fiamma is best booked in advance directly through the hotel rather than relying on a walk-in table.
+    a: >-
+      Yes. As a hotel restaurant inside Capella Singapore, Fiamma is best booked
+      in advance directly through the hotel rather than relying on a walk-in
+      table.
   - q: What kind of food does Fiamma serve?
-    a: Modern Italian cuisine — handmade pasta, seafood, wood-fired or grilled mains, and a wine-focused pairing menu, geared toward a multi-course dinner rather than a quick meal.
+    a: >-
+      Modern Italian cuisine — handmade pasta, seafood, wood-fired or grilled
+      mains, and a wine-focused pairing menu, geared toward a multi-course
+      dinner rather than a quick meal.
   - q: How long should I plan for a meal here?
-    a: Budget 90 minutes to two hours for a full dinner with multiple courses, plus extra time before or after to enjoy Capella's grounds.
+    a: >-
+      Budget 90 minutes to two hours for a full dinner with multiple courses,
+      plus extra time before or after to enjoy Capella's grounds.
   - q: What else is nearby if I want to make a day of it?
-    a: Tanjong Beach and Sentosa's eastern boardwalk trails are both close by and make a good calmer pairing with dinner, away from the busier western attractions like Siloso Beach and Universal Studios.
+    a: >-
+      Tanjong Beach and Sentosa's eastern boardwalk trails are both close by and
+      make a good calmer pairing with dinner, away from the busier western
+      attractions like Siloso Beach and Universal Studios.
 aiGenerated: true
 galleryAddedOn: '2026-11-08'
+updatedDate: '2026-11-18'
 ---
 
 ## Why go

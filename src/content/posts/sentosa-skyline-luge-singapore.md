@@ -1,37 +1,48 @@
 ---
 title: 'Skyline Luge Singapore: Sentosa Travel Guide'
-description: Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the Dragon Trail and Jungle Trail.
+description: >-
+  Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift
+  ride up with a self-steered go-kart-style luge run back down tracks like the
+  Dragon Trail and Jungle Trail.
 country: Singapore
 region: Sentosa
 category: attraction
 pubDate: '2026-07-23T07:30:27.024Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/529436459_53JFEYm_2gQbtmztAFBHVOtf3eFI84I3T6M1VtvUVPU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/529436459_53JFEYm_2gQbtmztAFBHVOtf3eFI84I3T6M1VtvUVPU.jpg
   credit: 'Photo: Foursquare user content (Skyline Sentosa Luge)'
   license: foursquare
-  source: https://foursquare.com/v/4b05881af964a52013b222e3
+  source: 'https://foursquare.com/v/4b05881af964a52013b222e3'
   focus:
     x: 25
-    y: 15
+    'y': 15
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/349222_yOQXC8OAp7gKTWCZ9NC9kY3q87iLg10RokmkDHL6RvA.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/349222_yOQXC8OAp7gKTWCZ9NC9kY3q87iLg10RokmkDHL6RvA.jpg
     credit: 'Photo: Foursquare user content (Skyline Sentosa Luge)'
     license: foursquare
-    source: https://foursquare.com/v/4b05881af964a52013b222e3
+    source: 'https://foursquare.com/v/4b05881af964a52013b222e3'
 place:
   id: ChIJs1Hr6f4b2jER3t3uRzo5IgE
   name: Skyline Luge Singapore
-  address: 1 Imbiah Rd, Singapore 099692
-  rating: 4.5
-  userRatingsTotal: 9795
-  googleMapsUrl: https://maps.google.com/?cid=81690665723813342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: '1 Imbiah Rd, Singapore 099692'
+  rating: 4.6
+  userRatingsTotal: 9952
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=81690665723813342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.2549696
   lng: 103.8173674
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 18, 19, 20]
-    weekendQuiet: [20]
+    weekdayQuiet:
+      - 10
+      - 18
+      - 19
+      - 20
+    weekendQuiet:
+      - 20
     weekendBusy:
       - 12
       - 13
@@ -41,7 +52,7 @@ place:
       - 17
       - 18
     venueId: ven_456749356f7a527533743352456a3262346636724831734a496843
-  phone: '+65 6274 0472'
+  phone: +65 6274 0472
   openingHours:
     - 'Monday: 10:00 AM – 7:30 PM'
     - 'Tuesday: 10:00 AM – 7:30 PM'
@@ -53,26 +64,46 @@ place:
 tags:
   - sentosa
   - top attraction
-quickAnswer: Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift ride up with a self-steered go-kart-style luge run back down tracks like the Dragon Trail and Jungle Trail. Buy combo tickets (chairlift + multiple luge rides) online in advance, arrive on a weekday morning or after 4pm to avoid the worst crowds, and budget about 1.5–2 hours total including queueing.
+quickAnswer: >-
+  Skyline Luge Singapore, at 1 Imbiah Rd on Sentosa, combines a scenic chairlift
+  ride up with a self-steered go-kart-style luge run back down tracks like the
+  Dragon Trail and Jungle Trail. Buy combo tickets (chairlift + multiple luge
+  rides) online in advance, arrive on a weekday morning or after 4pm to avoid
+  the worst crowds, and budget about 1.5–2 hours total including queueing.
 faq:
   - q: How do I get to Skyline Luge Singapore without a car?
-    a: Take the MRT to HarbourFront, transfer to the Sentosa Express monorail at VivoCity, and alight at Imbiah Station, which is right by the luge's base area.
+    a: >-
+      Take the MRT to HarbourFront, transfer to the Sentosa Express monorail at
+      VivoCity, and alight at Imbiah Station, which is right by the luge's base
+      area.
   - q: How long does a visit take?
-    a: Plan for about 1.5 to 2 hours for a standard combo of one chairlift ride and 2–4 luge descents, including queue time; longer on weekends and holidays.
+    a: >-
+      Plan for about 1.5 to 2 hours for a standard combo of one chairlift ride
+      and 2–4 luge descents, including queue time; longer on weekends and
+      holidays.
   - q: Which track should first-timers ride?
-    a: Start with the Jungle Trail to get comfortable with the push-pull brake and steering, then move to the longer, faster Dragon Trail.
+    a: >-
+      Start with the Jungle Trail to get comfortable with the push-pull brake
+      and steering, then move to the longer, faster Dragon Trail.
   - q: Is it worth visiting if it rains?
-    a: Rides are usually paused during heavy rain or lightning for safety, so check conditions before heading over and build in flexible time if visiting in the monsoon months (roughly November to January).
+    a: >-
+      Rides are usually paused during heavy rain or lightning for safety, so
+      check conditions before heading over and build in flexible time if
+      visiting in the monsoon months (roughly November to January).
   - q: What else is nearby to combine with the visit?
-    a: Imbiah Lookout, Siloso Beach, and Skypark Sentosa's zipline are all within a short walk, making it easy to build a half-day itinerary around the luge.
+    a: >-
+      Imbiah Lookout, Siloso Beach, and Skypark Sentosa's zipline are all within
+      a short walk, making it easy to build a half-day itinerary around the
+      luge.
 aiGenerated: true
+updatedDate: '2026-11-18'
 ---
 
 ## Why go
 
 Skyline Luge Singapore is one of Sentosa's signature "do it yourself" rides: a chairlift hauls you up a wooded hillside for panoramic views over the island and the Southern Islands, then you climb into a small wheeled luge cart and steer yourself back down a winding concrete track using a simple push-pull handlebar (push forward to brake, pull back to go).
 
-It's rated 4.5 from nearly 9,800 reviews, which reflects both the novelty of the ride and how efficiently the operator moves large crowds through on a busy day. There are multiple tracks (including the longer, twistier Dragon Trail and the more flowing Jungle Trail), so repeat riders can pick different routes rather than doing the same run twice.
+It's rated 4.6 from nearly 9,800 reviews, which reflects both the novelty of the ride and how efficiently the operator moves large crowds through on a busy day. There are multiple tracks (including the longer, twistier Dragon Trail and the more flowing Jungle Trail), so repeat riders can pick different routes rather than doing the same run twice.
 
 ## Getting there
 

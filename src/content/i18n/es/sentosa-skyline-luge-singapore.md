@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sentosa-skyline-luge-singapore
-srcHash: 'a547f43ac580'
+srcHash: 'c599d5db5f58'
 title: 'Skyline Luge Singapur: Guía de viaje de Sentosa'
 description: Skyline Luge Singapur, en 1 Imbiah Rd en Sentosa, combina un pintoresco paseo en telesilla de subida con un descenso autoconducido al estilo kart por pistas como el Dragon Trail y el Jungle Trail.
 quickAnswer: Skyline Luge Singapur, en 1 Imbiah Rd en Sentosa, combina un pintoresco paseo en telesilla de subida con un descenso autoconducido al estilo kart por pistas como el Dragon Trail y el Jungle Trail. Compra las entradas combo (telesilla + varias vueltas en luge) online con antelación, llega un día laborable por la mañana o después de las 4pm para evitar las peores aglomeraciones, y calcula entre 1,5 y 2 horas en total incluyendo las colas.
@@ -22,7 +22,7 @@ faq:
 
 Skyline Luge Singapur es una de las atracciones "hazlo tú mismo" más emblemáticas de Sentosa: una telesilla te sube por una ladera boscosa con vistas panorámicas de la isla y de las Southern Islands, y luego te subes a un pequeño kart con ruedas para conducirlo tú mismo cuesta abajo por una sinuosa pista de hormigón usando un sencillo manillar de empuje-tirón (empuja hacia adelante para frenar, tira hacia atrás para acelerar).
 
-Tiene una calificación de 4,5 sobre casi 9.800 reseñas, lo que refleja tanto lo novedoso del recorrido como la eficiencia con la que el operador gestiona las grandes multitudes en los días de mayor afluencia. Hay varias pistas —incluyendo el Dragon Trail, más largo y sinuoso, y el Jungle Trail, de recorrido más fluido— para que los visitantes que repiten puedan elegir rutas distintas en lugar de hacer siempre el mismo trayecto.
+Tiene una calificación de 4,6 sobre casi 9.800 reseñas, lo que refleja tanto lo novedoso del recorrido como la eficiencia con la que el operador gestiona las grandes multitudes en los días de mayor afluencia. Hay varias pistas —incluyendo el Dragon Trail, más largo y sinuoso, y el Jungle Trail, de recorrido más fluido— para que los visitantes que repiten puedan elegir rutas distintas en lugar de hacer siempre el mismo trayecto.
 
 ## Cómo llegar
 

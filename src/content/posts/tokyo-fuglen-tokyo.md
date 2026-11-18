@@ -1,31 +1,37 @@
 ---
 title: 'Fuglen: Tokyo Travel Guide'
-description: Fuglen Tokyo is a Norwegian-import café-bar in the Tomigaya area of Shibuya, near Yoyogi Park, known for third-wave coffee and Nordic pastries by day and inventive cocktails by night.
+description: >-
+  Fuglen Tokyo is a Norwegian-import café-bar in the Tomigaya area of Shibuya,
+  near Yoyogi Park, known for third-wave coffee and Nordic pastries by day and
+  inventive cocktails by night.
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-22T09:05:26.920Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/496805_mjKwCGDhd9tE6Rvgzu5Mqh6NcuXREfa6E-eEOJVRbTY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/496805_mjKwCGDhd9tE6Rvgzu5Mqh6NcuXREfa6E-eEOJVRbTY.jpg
   credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'
   license: foursquare
-  source: https://foursquare.com/v/4c13052982a3c9b66fe6faf8
+  source: 'https://foursquare.com/v/4c13052982a3c9b66fe6faf8'
   focus:
     x: 50
     'y': 30
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1954701_PMaJSx3tkmj9akzrfcjdub4s16MxoAW7aEKblcnHMhE.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1954701_PMaJSx3tkmj9akzrfcjdub4s16MxoAW7aEKblcnHMhE.jpg
     credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'
     license: foursquare
-    source: https://foursquare.com/v/4c13052982a3c9b66fe6faf8
+    source: 'https://foursquare.com/v/4c13052982a3c9b66fe6faf8'
 place:
   id: ChIJrWB6lbKMGGARp0QB0mMSNe4
   name: Fuglen Tokyo
-  address: 1-chōme-16-11 Tomigaya, Shibuya, Tokyo 151-0063, Japan
+  address: '1-chōme-16-11 Tomigaya, Shibuya, Tokyo 151-0063, Japan'
   rating: 4.3
-  userRatingsTotal: 3747
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=17164645774726874279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3874
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17164645774726874279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.6666181
   lng: 139.6923999
@@ -60,19 +66,41 @@ place:
 tags:
   - tokyo
   - trendy cafe
-quickAnswer: Fuglen Tokyo is a Norwegian-import café-bar in the Tomigaya area of Shibuya, near Yoyogi Park, known for third-wave coffee and Nordic pastries by day and inventive cocktails by night. Go on a weekday morning for coffee and cinnamon buns without a wait, or after 8pm for the bar menu in a cozy, vintage 1960s-Scandinavian-furnished room. It's about a 10-12 minute walk from Yoyogi-Hachiman or Yoyogi-Koen stations, cash and card both accepted, moderately priced (price level 2).
+quickAnswer: >-
+  Fuglen Tokyo is a Norwegian-import café-bar in the Tomigaya area of Shibuya,
+  near Yoyogi Park, known for third-wave coffee and Nordic pastries by day and
+  inventive cocktails by night. Go on a weekday morning for coffee and cinnamon
+  buns without a wait, or after 8pm for the bar menu in a cozy, vintage
+  1960s-Scandinavian-furnished room. It's about a 10-12 minute walk from
+  Yoyogi-Hachiman or Yoyogi-Koen stations, cash and card both accepted,
+  moderately priced (price level 2).
 faq:
   - q: How do I get to Fuglen Tokyo by train?
-    a: Walk about 10-12 minutes from Yoyogi-Hachiman Station (Odakyu Line) or Yoyogi-Koen Station (Chiyoda Line). It's also a 15-20 minute walk from Shibuya Station via Yoyogi Park.
+    a: >-
+      Walk about 10-12 minutes from Yoyogi-Hachiman Station (Odakyu Line) or
+      Yoyogi-Koen Station (Chiyoda Line). It's also a 15-20 minute walk from
+      Shibuya Station via Yoyogi Park.
   - q: Is Fuglen Tokyo a café or a bar?
-    a: Both — it operates as a specialty coffee bar with Scandinavian pastries during the day and switches to a cocktail bar in the evening, usually from around 8pm.
+    a: >-
+      Both — it operates as a specialty coffee bar with Scandinavian pastries
+      during the day and switches to a cocktail bar in the evening, usually from
+      around 8pm.
   - q: How much does it cost?
-    a: It's moderately priced for Tokyo (roughly mid-range, price level 2 out of 4), covering coffee, pastries, and cocktails. Exact prices fluctuate, so check current pricing on-site.
+    a: >-
+      It's moderately priced for Tokyo (roughly mid-range, price level 2 out of
+      4), covering coffee, pastries, and cocktails. Exact prices fluctuate, so
+      check current pricing on-site.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings between 8-10am are quietest for coffee; weekends and evenings, especially Thursday-Saturday nights, tend to be busiest.
+    a: >-
+      Weekday mornings between 8-10am are quietest for coffee; weekends and
+      evenings, especially Thursday-Saturday nights, tend to be busiest.
   - q: What's nearby to combine with a visit?
-    a: Yoyogi Park is a short walk away, and the surrounding Tomigaya neighborhood has quiet boutiques and design shops worth exploring before or after.
+    a: >-
+      Yoyogi Park is a short walk away, and the surrounding Tomigaya
+      neighborhood has quiet boutiques and design shops worth exploring before
+      or after.
 aiGenerated: true
+updatedDate: '2026-11-18'
 ---
 
 ## Why Fuglen Tokyo Stands Out

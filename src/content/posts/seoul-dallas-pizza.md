@@ -1,6 +1,8 @@
 ---
 title: Dallas Pizza in Seoul
-description: 'Dallas Pizza in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Dallas Pizza in Seoul, South Korea — a new/trending spot: what it is, where it
+  is, and how to visit.
 country: South Korea
 region: Seoul
 category: hidden-gem
@@ -8,10 +10,11 @@ pubDate: '2026-07-24'
 place:
   id: ChIJNYchyFuffDURxFE7PFYMfX0
   name: Dallas Pizza
-  address: 14-81번지 Mullae-dong 2(i)-ga, Yeongdeungpo District, Seoul, South Korea
+  address: '14-81번지 Mullae-dong 2(i)-ga, Yeongdeungpo District, Seoul, South Korea'
   rating: 4.9
-  userRatingsTotal: 222
-  googleMapsUrl: https://maps.google.com/?cid=9042397191347065284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 227
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9042397191347065284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.5134178
   lng: 126.89482419999999
@@ -24,24 +27,51 @@ place:
     - 'Friday: 5:00 – 11:00 PM'
     - 'Saturday: 5:00 – 11:00 PM'
     - 'Sunday: 5:00 – 11:00 PM'
+  priceLevel: 2
 tags:
   - seoul
   - new & trending
-quickAnswer: Dallas Pizza is a reservation-only pizzeria tucked down a narrow alley beside an active metal workshop in Mullae-dong, Seoul's old industrial district that's now a magnet for artists and small creative businesses. Book ahead — walk-ins are unreliable given demand — and confirm current hours before you go, since the spot is new and details can shift. Pair the visit with a wander through Mullae Art Village's mural-covered workshops for the full neighborhood experience.
+quickAnswer: >-
+  Dallas Pizza is a reservation-only pizzeria tucked down a narrow alley beside
+  an active metal workshop in Mullae-dong, Seoul's old industrial district
+  that's now a magnet for artists and small creative businesses. Book ahead —
+  walk-ins are unreliable given demand — and confirm current hours before you
+  go, since the spot is new and details can shift. Pair the visit with a wander
+  through Mullae Art Village's mural-covered workshops for the full neighborhood
+  experience.
 faq:
   - q: Do I need a reservation for Dallas Pizza?
-    a: Yes — it operates as reservation-only, and given its buzz as one of Mullae-dong's most talked-about openings, walk-ins are unreliable. Book via the restaurant's own channel (likely Naver or Instagram) as far ahead as possible.
+    a: >-
+      Yes — it operates as reservation-only, and given its buzz as one of
+      Mullae-dong's most talked-about openings, walk-ins are unreliable. Book
+      via the restaurant's own channel (likely Naver or Instagram) as far ahead
+      as possible.
   - q: How do I get to Dallas Pizza?
-    a: Take Seoul Subway Line 2 to Mullae Station, then walk into the Mullae-dong workshop district. The pizzeria sits down a narrow alley next to an active metal workshop, so use Naver Map or Kakao Map for the final approach rather than relying on street signage.
+    a: >-
+      Take Seoul Subway Line 2 to Mullae Station, then walk into the Mullae-dong
+      workshop district. The pizzeria sits down a narrow alley next to an active
+      metal workshop, so use Naver Map or Kakao Map for the final approach
+      rather than relying on street signage.
   - q: What should I expect to pay?
-    a: Exact prices aren't published or stable enough to quote reliably — confirm current menu and pricing through the restaurant's booking page or by contacting them directly before your visit.
+    a: >-
+      Exact prices aren't published or stable enough to quote reliably — confirm
+      current menu and pricing through the restaurant's booking page or by
+      contacting them directly before your visit.
   - q: What else is worth doing nearby?
-    a: Combine your meal with a walk through Mullae Art Village, the surrounding cluster of artist studios, murals, and galleries built into former metalworking spaces — it's the neighborhood context that makes Dallas Pizza's setting make sense.
+    a: >-
+      Combine your meal with a walk through Mullae Art Village, the surrounding
+      cluster of artist studios, murals, and galleries built into former
+      metalworking spaces — it's the neighborhood context that makes Dallas
+      Pizza's setting make sense.
   - q: What's the best time to visit?
-    a: Weekday early-evening reservations are generally easier to secure than weekend slots, and visiting in late afternoon lets you see the workshop district at its most atmospheric before dinner service gets busy.
+    a: >-
+      Weekday early-evening reservations are generally easier to secure than
+      weekend slots, and visiting in late afternoon lets you see the workshop
+      district at its most atmospheric before dinner service gets busy.
 aiGenerated: true
 draft: false
 photoless: true
+updatedDate: '2026-11-18'
 ---
 
 ## Why Dallas Pizza Is Worth the Trip
