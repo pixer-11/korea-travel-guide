@@ -16627,5 +16627,356 @@
       "getting": "大多数游客选择经瓦多达拉机场(BDQ)抵达,该机场有飞往德里、孟买、班加罗尔等城市的国内航班;也可乘火车抵达瓦多达拉枢纽站(BRC),这里是西部铁路德里-孟买干线上的一个重要站点。若没有直达航班,不少人会先飞往艾哈迈达巴德,再转乘公路或铁路前往,车程大约2小时。",
       "days": "建议安排1到2天的时间,从容地游览这座城市的宫殿、博物馆和集市。"
     }
+  },
+  "Benidorm": {
+    "en": {
+      "blurb": "Benidorm is Spain's most vertical resort city: a dense cluster of high-rise towers, famously nicknamed the \"Manhattan of the Mediterranean\", rising behind two broad, golden beaches on the Costa Blanca. What began as a small fishing village is now one of Europe's most visited coastal destinations, built almost entirely around sun, nightlife and package-holiday ease.",
+      "getting": "The nearest airport is Alicante-Elche (ALC), roughly 45 minutes away by road: ALSA runs direct coach services from the airport to Benidorm's bus station, and travellers coming via Alicante city can also connect onward on the TRAM L1 line. There is no airport in Benidorm itself, so arrival almost always means a bus, tram or taxi transfer from Alicante.",
+      "days": "Plan on ~4-7 days: enough time to settle into the beach rhythm on Levante and Poniente, explore the old town's clifftop views, and fit in a boat trip or day excursion along the Costa Blanca coast."
+    },
+    "ko": {
+      "blurb": "베니도름은 스페인에서 가장 수직적인 휴양 도시다. \"지중해의 맨해튼\"이라는 별명으로 유명한 고층 타워 숲이, 코스타 블랑카의 널찍한 황금빛 해변 두 곳을 뒤로하고 빽빽하게 솟아 있다. 작은 어촌 마을에서 출발한 이곳은 이제 유럽에서 가장 많은 사람이 찾는 해안 휴양지 중 하나로, 태양과 나이트라이프, 그리고 패키지 여행의 편리함을 중심으로 거의 모든 것이 구성되어 있다.",
+      "getting": "가장 가까운 공항은 알리칸테-엘체(ALC)로, 차로 약 45분 거리에 있다. ALSA 버스가 공항에서 베니도름 버스터미널까지 직행 노선을 운행하며, 알리칸테 시내를 거쳐 오는 여행자라면 TRAM L1 노선으로 환승할 수도 있다. 베니도름에는 자체 공항이 없기 때문에, 도착은 거의 항상 알리칸테에서 버스, 트램 또는 택시로 이동하는 방식이 된다.",
+      "days": "4~7일 정도를 계획하면 좋다. 레반테와 포니엔테 해변에서 여유롭게 해변 리듬에 몸을 맡기고, 구시가지의 절벽 전망을 둘러보며, 코스타 블랑카 해안을 따라 보트 투어나 당일 여행을 즐기기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "ベニドームは、スペインで最も「縦に伸びた」リゾート都市だ。高層タワーが林立する独特の景観から「地中海のマンハッタン」として知られ、コスタ・ブランカに広がる二つの黄金色のビーチを背に、空へとそびえ立つ。かつては小さな漁村に過ぎなかったこの町も、今やヨーロッパ屈指の人気沿岸リゾートへと発展し、太陽・ナイトライフ・手軽なパッケージ旅行を軸にほぼ完全に作り上げられた街となっている。",
+      "getting": "最寄り空港はアリカンテ・エルチェ空港(ALC)で、車でおよそ45分。ALSA社の直行バスが空港からベニドームのバスターミナルまで運行しているほか、アリカンテ市内経由であればTRAM(路面電車)のL1線で乗り継ぐことも可能だ。ベニドームには空港そのものがないため、到着の際はほぼ必ずアリカンテからのバス・トラム・タクシーでの移動となる。",
+      "days": "滞在の目安は4〜7日ほど。レバンテビーチとポニエンテビーチでのんびりとビーチライフを満喫し、旧市街の断崖から広がる絶景を散策し、さらにコスタ・ブランカ沿岸でのボートツアーや日帰り観光も楽しめる余裕のある日数だ。"
+    },
+    "es": {
+      "blurb": "Benidorm es la ciudad turística más vertical de España: un denso conjunto de torres y rascacielos, conocido popularmente como el \"Manhattan del Mediterráneo\", que se alza tras dos amplias playas doradas en la Costa Blanca. Lo que comenzó siendo un pequeño pueblo de pescadores es hoy uno de los destinos costeros más visitados de Europa, construido casi por completo en torno al sol, la vida nocturna y las vacaciones organizadas sin complicaciones.",
+      "getting": "El aeropuerto más cercano es el de Alicante-Elche (ALC), a unos 45 minutos por carretera: ALSA ofrece autobuses directos desde el aeropuerto hasta la estación de autobuses de Benidorm, y quienes lleguen a través de la ciudad de Alicante también pueden enlazar con la línea L1 del TRAM. Benidorm no cuenta con aeropuerto propio, así que para llegar casi siempre hay que tomar un autobús, un tranvía o un taxi desde Alicante.",
+      "days": "Calcula entre 4 y 7 días: tiempo suficiente para adaptarte al ritmo playero de Levante y Poniente, descubrir las vistas del casco antiguo desde el acantilado y disfrutar de un paseo en barco o una excursión de un día por la costa de la Costa Blanca."
+    },
+    "zh": {
+      "blurb": "贝尼多姆是西班牙垂直感最强的度假城市：密集林立的高层塔楼鳞次栉比，素有\"地中海曼哈顿\"之称，矗立在白浪海岸（Costa Blanca）两片宽阔的金色沙滩之后。这里曾只是一个小渔村，如今已发展成欧洲最热门的海滨旅游地之一，阳光、夜生活与套餐式度假的便利几乎构成了这座城市的全部基调。",
+      "getting": "最近的机场是阿利坎特-埃尔切机场（ALC），驱车约45分钟可达。ALSA长途客车提供从机场直达贝尼多姆汽车站的班次，经由阿利坎特市区前往的旅客也可以换乘TRAM L1线路到达。贝尼多姆本身没有机场，因此抵达方式几乎都离不开从阿利坎特出发的巴士、轻轨或出租车接驳。",
+      "days": "建议安排4-7天行程：既有充裕时间在莱万特（Levante）和波尼恩特（Poniente）两片海滩上尽情享受悠闲的海滩时光，也能探索老城区俯瞰悬崖的绝美景致，还可以安排一次游船出海或白浪海岸沿线的一日游。"
+    }
+  },
+  "Courchevel": {
+    "en": {
+      "blurb": "Courchevel is the most glamorous address in Les Trois Vallées, the world's largest linked ski area, spread across five villages that range from the five-star glitz of Courchevel 1850 to the quieter charm of Le Praz. It is also home to the Altiport, Europe's highest-altitude runway, a dramatic sloped airstrip used by small private aircraft that lands skiers almost directly onto the slopes.",
+      "getting": "Most travellers fly into Geneva Airport (GVA) and take a road transfer of roughly 2 to 3 hours into the mountains; Chambéry Airport (CMF) is geographically closer, around 1.5 hours away, but has fewer flight options. Rail travellers typically go to Moûtiers station and finish the journey by bus or transfer, about 45 minutes from there to resort.",
+      "days": "Plan on at least 5 to 7 days to properly explore Courchevel's own slopes and make the most of the wider Trois Vallées network via lift and piste links."
+    },
+    "ko": {
+      "blurb": "쿠르슈벨은 세계 최대 규모의 연계 스키 지역인 레 트루아 발레(Les Trois Vallées)에서 가장 화려한 명소로 꼽힌다. 다섯 개의 마을로 이루어져 있으며, 화려한 5성급 분위기의 쿠르슈벨 1850부터 한적하고 소박한 매력의 르 프라즈(Le Praz)까지 각기 다른 개성을 지니고 있다. 이곳에는 유럽에서 가장 높은 고도에 위치한 활주로인 알티포르(Altiport)도 자리하고 있는데, 경사진 지형에 조성된 이 독특한 활주로는 소형 전용기들이 이착륙하며, 스키어들을 슬로프 바로 앞까지 데려다준다.",
+      "getting": "대부분의 여행객은 제네바 공항(GVA)을 이용하며, 이후 약 2~3시간 정도 차량으로 산간 지역까지 이동한다. 샹베리 공항(CMF)은 지리적으로 더 가까워 약 1시간 30분 거리지만, 취항하는 항공편 수가 상대적으로 적다. 기차로 이동할 경우 보통 무티에(Moûtiers)역까지 간 다음, 버스나 전용 차량으로 환승해 리조트까지 약 45분을 더 이동하게 된다.",
+      "days": "쿠르슈벨 자체의 슬로프를 제대로 즐기고, 리프트와 슬로프로 연결되는 광활한 트루아 발레 전역을 만끽하려면 최소 5~7일 정도의 일정을 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "クーシュベルは、世界最大級のスキーエリアとして知られるトロワ・ヴァレーの中でも、ひときわ華やかな名を誇るリゾートです。五つ星の煌びやかなクーシュベル1850から、落ち着いた雰囲気が魅力のル・プラまで、5つの村が連なるこのエリアには、欧州最高標高に位置する滑走路「アルティポール」もあります。小型プライベート機が発着するこの傾斜滑走路は、まさにゲレンデの目の前に降り立つという、他に類を見ない体験をもたらしてくれます。",
+      "getting": "多くの旅行者はジュネーブ空港(GVA)を利用し、そこから山岳地帯まで車でおよそ2~3時間かけて移動します。シャンベリー空港(CMF)は距離的にはより近く、約1.5時間程度でアクセスできますが、就航便の選択肢は限られます。鉄道を利用する場合は、通常ムーティエ駅まで行き、そこからバスや送迎サービスに乗り継いでリゾートまで約45分ほどで到着します。",
+      "days": "クーシュベル自体のゲレンデをじっくり楽しみ、さらにリフトやコースで繋がる広大なトロワ・ヴァレー全体を満喫するには、最低でも5~7日は確保しておきたいところです。"
+    },
+    "es": {
+      "blurb": "Courchevel es la dirección más glamurosa de Les Trois Vallées, el dominio esquiable interconectado más grande del mundo, repartido en cinco pueblos que van desde el brillo de cinco estrellas de Courchevel 1850 hasta el encanto más tranquilo de Le Praz. Aquí se encuentra también el Altiport, la pista a mayor altitud de Europa, una espectacular pista inclinada utilizada por pequeñas aeronaves privadas que deja a los esquiadores prácticamente sobre las laderas.",
+      "getting": "La mayoría de los viajeros llega al aeropuerto de Ginebra (GVA) y continúa por carretera unas 2 o 3 horas hacia la montaña; el aeropuerto de Chambéry (CMF) está geográficamente más cerca, a una hora y media aproximadamente, pero ofrece menos opciones de vuelo. Quienes viajan en tren suelen llegar hasta la estación de Moûtiers y completar el trayecto en autobús o traslado privado, unos 45 minutos más hasta la estación.",
+      "days": "Conviene reservar al menos de 5 a 7 días para explorar bien las pistas propias de Courchevel y aprovechar al máximo la amplia red de Les Trois Vallées gracias a sus telesillas y enlaces de pista."
+    },
+    "zh": {
+      "blurb": "库尔雪维尔（Courchevel）是三峡谷（Les Trois Vallées）——全球最大的相连滑雪区——中最奢华耀眼的地方。这片滑雪区由五个村落组成，从五星级奢华的库尔雪维尔1850（Courchevel 1850），到更为静谧雅致的勒普拉兹（Le Praz），风格各异，一应俱全。这里还坐落着海拔高度（Altiport），欧洲海拔最高的跑道，一条惊险的斜坡机场跑道，专供小型私人飞机起降，让滑雪者几乎可以直接降落在雪道旁。",
+      "getting": "大多数游客会选择飞抵日内瓦机场（GVA），再乘车前往山区，车程约2至3小时；尚贝里机场（CMF）地理位置更近，车程约1.5小时，但航班选择较少。乘火车前往的旅客通常会抵达穆捷站（Moûtiers），再转乘巴士或接驳车完成最后一段约45分钟的路程，抵达度假村。",
+      "days": "建议至少安排5至7天，才能充分领略库尔雪维尔自身的雪道魅力，并通过缆车和雪道串联，尽情畅游更广阔的三峡谷滑雪网络。"
+    }
+  },
+  "Foshan": {
+    "en": {
+      "blurb": "Foshan is a sprawling industrial and cultural powerhouse on the edge of the Pearl River Delta, famous as the ancestral home of Cantonese kung fu and the lion dance tradition, and for the intricate ancestral temples of its old town. Despite its size and manufacturing clout, its historic core around Foshan Ancient Town retains narrow lanes, guild halls and ceramic workshops that feel far removed from the high-rises of neighbouring Guangzhou.",
+      "getting": "Foshan has its own small domestic airport, but most travellers fly into Guangzhou Baiyun International Airport (CAN) and continue on by metro or road, a trip of around 1 to 1.5 hours. High-speed rail also reaches Foshan directly, with services connecting Foshan West Station and other city stations to Guangzhou and the wider national network in well under an hour.",
+      "days": "Budget ~2 to 3 days to explore Foshan's temples, ceramics quarter and martial arts heritage sites at an easy pace, with many visitors combining it as a short side trip from Guangzhou."
+    },
+    "ko": {
+      "blurb": "포산(佛山)은 주강 삼각주 끝자락에 자리한, 규모 면에서도 문화적으로도 묵직한 산업·문화의 중심지입니다. 광둥 쿵푸와 사자춤 전통의 발상지로 널리 알려져 있으며, 구시가지에 남아 있는 정교한 조상 사당들로도 유명합니다. 거대한 제조업 도시임에도 불구하고, 포산 고진(佛山古鎮)을 중심으로 한 옛 시가지에는 좁은 골목길과 동업자 조합 회관, 도자기 공방들이 그대로 남아 있어, 이웃한 광저우의 고층 빌딩 숲과는 사뭇 다른 정취를 느낄 수 있습니다.",
+      "getting": "포산에도 작은 국내선 공항이 있지만, 대부분의 여행자는 광저우 바이윈 국제공항(CAN)을 이용한 뒤 지하철이나 도로로 이동합니다. 소요 시간은 약 1시간에서 1시간 30분 정도입니다. 고속철도로도 포산에 직접 갈 수 있는데, 포산시역(佛山西站)을 비롯한 시내 여러 역이 광저우 및 전국 철도망과 연결되어 있어 1시간이 채 걸리지 않습니다.",
+      "days": "포산의 사당들과 도자기 거리, 무술 유적지를 여유롭게 둘러보려면 2~3일 정도를 잡는 것이 좋습니다. 많은 여행자들이 광저우에서 짧게 다녀오는 당일 또는 1박 여행지로 포산을 찾습니다."
+    },
+    "ja": {
+      "blurb": "仏山（フォーシャン）は珠江デルタの一角に広がる、工業と文化の両面で存在感を放つ都市だ。広東カンフーと獅子舞発祥の地として知られるほか、旧市街に点在する精緻な祖廟でも名高い。大規模な製造業拠点を擁しながらも、仏山古鎮を中心とする歴史地区には細い路地や会館、陶芸工房が今も残り、隣接する広州の高層ビル群とはまったく異なる、どこか懐かしい空気が漂っている。",
+      "getting": "仏山には小規模な国内線専用空港があるものの、多くの旅行者は広州白雲国際空港（CAN）を利用し、そこから地下鉄や道路移動で仏山へ向かう。所要時間はおよそ1～1.5時間だ。高速鉄道も仏山に直接乗り入れており、仏山西駅をはじめとする市内各駅から広州や全国の鉄道網へ1時間足らずでアクセスできる。",
+      "days": "仏山の寺院や陶芸地区、武術ゆかりのスポットをゆったりと巡るなら、2～3日程度が目安。広州からの小旅行として短期間で組み込む旅行者も多い。"
+    },
+    "es": {
+      "blurb": "Foshan es una extensa potencia industrial y cultural a orillas del delta del río de las Perlas, célebre por ser la cuna ancestral del kung fu cantonés y de la tradición de la danza del león, así como por los intrincados templos ancestrales de su casco antiguo. A pesar de su tamaño y de su peso manufacturero, su núcleo histórico, en torno a Foshan Ancient Town, conserva callejuelas estrechas, salones gremiales y talleres de cerámica que parecen muy alejados de los rascacielos de la vecina Guangzhou.",
+      "getting": "Foshan cuenta con su propio aeropuerto doméstico de tamaño reducido, pero la mayoría de los viajeros llega por el Aeropuerto Internacional de Guangzhou Baiyun (CAN) y continúa en metro o por carretera, un trayecto de aproximadamente 1 a 1,5 horas. El tren de alta velocidad también llega directamente a Foshan, con servicios que conectan la estación de Foshan West y otras estaciones de la ciudad con Guangzhou y el resto de la red nacional en bastante menos de una hora.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma los templos de Foshan, el barrio de la cerámica y los sitios relacionados con las artes marciales, y muchos viajeros la incluyen como una breve excursión desde Guangzhou."
+    },
+    "zh": {
+      "blurb": "佛山是珠江三角洲边缘一座规模庞大的工业与文化重镇，以岭南武术和醒狮传统的发源地闻名，老城区内精雕细琢的祖庙建筑群同样令人称道。尽管城市体量庞大、制造业实力雄厚，佛山古镇一带的历史核心区仍保留着狭窄的街巷、会馆和陶瓷作坊，氛围与近邻广州的高楼林立截然不同。",
+      "getting": "佛山本身设有小型国内机场，但大多数旅客会选择飞抵广州白云国际机场（CAN），再转乘地铁或陆路前往佛山，车程约1至1.5小时。高铁也可直达佛山，佛山西站等市内站点与广州及全国铁路网相连，车程不到一小时。",
+      "days": "建议预留约2至3天，从容游览佛山的祖庙、陶瓷产区以及武术文化遗迹。许多游客会将佛山作为广州之行的短途延伸一并安排。"
+    }
+  },
+  "Gatineau": {
+    "en": {
+      "blurb": "Gatineau sits directly across the Ottawa River from Canada's capital, a bilingual Quebec city best known for the Canadian Museum of History and the forested trails of Gatineau Park. It pairs big national institutions and a lively Hull nightlife strip with an easy walk or bike ride over the river into downtown Ottawa.",
+      "getting": "Most travellers fly into Ottawa Macdonald-Cartier International Airport (YOW) and continue into Gatineau by taxi, rideshare or public bus, a trip of roughly 20 to 35 minutes depending on traffic and transfers. From downtown Ottawa, Gatineau is also reachable on foot or by local bus across one of the interprovincial bridges, such as the Alexandra Bridge.",
+      "days": "Plan on ~1 full day to cover the Canadian Museum of History, the Casino du Lac-Leamy and Hull's restaurant strip, or ~2 days if adding a hike in Gatineau Park."
+    },
+    "ko": {
+      "blurb": "가티노는 오타와강을 사이에 두고 캐나다 수도 오타와와 마주보고 있는 퀘벡의 이중언어 도시로, 캐나다 역사박물관과 울창한 숲길이 펼쳐진 가티노 공원으로 특히 유명하다. 대형 국립 기관들과 활기찬 헐 지구의 나이트라이프를 함께 즐길 수 있으며, 강을 건너 오타와 시내까지도 도보나 자전거로 가볍게 오갈 수 있다.",
+      "getting": "대부분의 여행자는 오타와 맥도널드-카르티에 국제공항(YOW)으로 입국한 뒤, 택시나 차량 공유 서비스, 또는 시내버스를 이용해 가티노로 이동한다. 소요 시간은 교통 상황과 환승 여부에 따라 대략 20~35분 정도다. 오타와 시내에서는 알렉산드라 다리 등 주(州) 간 다리를 건너 도보나 지역 버스로도 가티노에 쉽게 갈 수 있다.",
+      "days": "캐나다 역사박물관, 카지노 뒤 락 레미, 헐의 레스토랑 거리를 둘러보려면 하루 정도면 충분하다. 가티노 공원에서 하이킹까지 즐기고 싶다면 이틀 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ガトーノはオタワ川を挟んでカナダの首都オタワの対岸に位置する、バイリンガルなケベック州の都市。カナダ歴史博物館や、森に囲まれたガトーノ公園のトレイルで知られています。国立の大型施設と、活気あるハル地区のナイトライフが同居しつつ、川を渡って徒歩や自転車でオタワのダウンタウンへ気軽に行き来できるのも魅力です。",
+      "getting": "多くの旅行者はオタワ・マクドナルド＝カルティエ国際空港（YOW）に到着し、そこからタクシーやライドシェア、路線バスでガトーノへ向かいます。所要時間は交通状況や乗り継ぎにもよりますが、おおよそ20〜35分程度です。オタワのダウンタウンからであれば、アレクサンドラ橋などの州間橋を渡って徒歩や路線バスでガトーノへアクセスすることもできます。",
+      "days": "カナダ歴史博物館、カジノ・デュ・ラック＝リーミー、そしてハル地区のレストラン街を巡るなら、まる1日を目安にしましょう。ガトーノ公園でのハイキングも組み込むなら、2日ほど見ておくのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Gatineau se encuentra justo enfrente de la capital de Canadá, al otro lado del río Ottawa. Es una ciudad bilingüe de Quebec conocida sobre todo por el Museo Canadiense de Historia y los senderos boscosos del Parque Gatineau. Combina grandes instituciones nacionales y el animado ambiente nocturno del barrio de Hull con la posibilidad de cruzar el río a pie o en bicicleta hasta el centro de Ottawa.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional Macdonald-Cartier de Ottawa (YOW) y luego continúa hacia Gatineau en taxi, servicio de transporte privado o autobús público, un trayecto de entre 20 y 35 minutos aproximadamente, según el tráfico y las conexiones. Desde el centro de Ottawa, también se puede llegar a Gatineau a pie o en autobús local cruzando uno de los puentes interprovinciales, como el puente Alexandra.",
+      "days": "Calcula un día completo para recorrer el Museo Canadiense de Historia, el Casino du Lac-Leamy y la zona de restaurantes de Hull, o unos 2 días si quieres añadir una caminata por el Parque Gatineau."
+    },
+    "zh": {
+      "blurb": "加蒂诺与加拿大首都渥太华隔渥太华河相望，是一座讲英法双语的魁北克城市，最为人熟知的是加拿大历史博物馆以及林木葱郁的加蒂诺公园步道。这里既有国家级的重量级文化地标，又有赫尔区热闹的夜生活，还能轻松步行或骑车过桥直达渥太华市中心。",
+      "getting": "大多数旅客会飞抵渥太华麦克唐纳-卡蒂埃国际机场（YOW），再转乘出租车、网约车或公交前往加蒂诺，车程约20到35分钟，具体视路况和换乘情况而定。从渥太华市中心出发，也可以步行或乘坐当地公交车，经由亚历山德拉桥等省际大桥前往加蒂诺。",
+      "days": "建议安排约1整天游览加拿大历史博物馆、拉克里米赌场（Casino du Lac-Leamy）以及赫尔区的餐厅聚集地；如果还想去加蒂诺公园徒步，建议预留约2天时间。"
+    }
+  },
+  "Khatgal": {
+    "en": {
+      "blurb": "Khatgal sits at the southern tip of Lake Khövsgöl, Mongolia's deepest and clearest freshwater lake, where wooden guesthouses and ger camps back onto taiga forest instead of the open steppe found elsewhere in the country. It is the de facto gateway to the lake: a small village built around boat trips, horse treks and onward routes to the Tsaatan reindeer herders further north.",
+      "getting": "Most travellers fly from Ulaanbaatar to Mörön Airport (MXV), the regional hub, then continue by taxi, shared jeep or arranged transfer for the ~100km road journey to Khatgal, which takes roughly 1.5 to 3 hours depending on vehicle and road conditions. Khatgal has no scheduled air or rail service of its own, so Mörön remains the essential access point.",
+      "days": "Most visitors base themselves in Khatgal for ~2 to 3 days, enough time to settle in, take a boat trip on the lake and fit in a day of horse riding or hiking along the shore."
+    },
+    "ko": {
+      "blurb": "하트갈은 몽골에서 가장 깊고 맑은 담수호인 호브스골 호수 남단에 자리한 마을이다. 몽골 다른 지역에서 흔히 보는 탁 트인 초원 대신, 통나무로 지은 게스트하우스와 게르 캠프들이 타이가 숲을 등지고 늘어서 있다. 사실상 호수로 들어가는 관문 역할을 하는 곳으로, 보트 투어와 승마 트레킹, 그리고 더 북쪽에 사는 차탕 순록 유목민을 찾아가는 여정의 출발지로 발달한 작은 마을이다.",
+      "getting": "대부분의 여행자는 울란바토르에서 비행기를 타고 이 지역의 관문인 모론 공항(MXV)까지 이동한 뒤, 택시나 합승 지프, 또는 미리 예약한 차량으로 약 100km 떨어진 하트갈까지 이동한다. 도로 상태와 차량에 따라 소요 시간은 대략 1시간 30분에서 3시간 정도다. 하트갈에는 정기 항공편이나 철도편이 없기 때문에, 모론이 사실상 유일한 관문 역할을 한다.",
+      "days": "대부분의 여행자는 하트갈에 약 2~3일 정도 머문다. 도착해 여정을 정리하고, 호수에서 보트 투어를 즐기며, 하루 정도는 호숫가를 따라 승마나 하이킹을 즐기기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "ハトガルは、モンゴルで最も深く透明度の高い湖、フブスグル湖の南端に位置する村だ。国内他地域に広がる開けたステップとは異なり、ここでは木造のゲストハウスやゲルキャンプがタイガの森を背にして建ち並ぶ。事実上の湖への玄関口であり、ボートツアーや乗馬トレッキング、さらに北方のツァータン(トナカイ遊牧民)へ向かうルートを中心に成り立つ小さな町である。",
+      "getting": "多くの旅行者はウランバートルから地域の拠点空港であるムルン空港(MXV)へ飛び、そこからタクシーや乗合ジープ、手配済みの送迎車で約100kmの道のりをハトガルまで移動する。所要時間は車両や道路状況により1.5時間から3時間程度。ハトガル自体には定期便の空路も鉄道もないため、ムルンが欠かせない玄関口となっている。",
+      "days": "多くの旅行者はハトガルを拠点に2〜3日ほど滞在する。これだけあれば到着後に落ち着き、湖でボートツアーを楽しみ、さらに湖畔での乗馬やハイキングを1日組み込むのに十分な時間となる。"
+    },
+    "es": {
+      "blurb": "Khatgal se encuentra en el extremo sur del lago Khövsgöl, el lago de agua dulce más profundo y cristalino de Mongolia, donde las casas de huéspedes de madera y los campamentos de gers se apoyan contra el bosque de taiga en lugar de la estepa abierta que se ve en el resto del país. Es la puerta de entrada de facto al lago: un pequeño pueblo construido en torno a los paseos en barco, las cabalgatas y las rutas que continúan hacia el norte, hasta los pastores de renos tsaatan.",
+      "getting": "La mayoría de los viajeros vuela desde Ulán Bator hasta el aeropuerto de Mörön (MXV), el centro regional, y desde allí continúa en taxi, jeep compartido o traslado organizado durante los aproximadamente 100 km de carretera hasta Khatgal, trayecto que dura entre 1,5 y 3 horas según el vehículo y el estado de la vía. Khatgal no cuenta con servicio aéreo ni ferroviario propio, por lo que Mörön sigue siendo el punto de acceso imprescindible.",
+      "days": "La mayoría de los visitantes se instala en Khatgal entre 2 y 3 días, tiempo suficiente para aclimatarse, dar un paseo en barco por el lago y dedicar una jornada a montar a caballo o hacer senderismo por la orilla."
+    },
+    "zh": {
+      "blurb": "哈特嘎勒（Khatgal）坐落在呼伦湖——不对，应为库苏古尔湖（Khövsgöl Lake）南端，这是蒙古最深、湖水最清澈的淡水湖。与蒙古其他地区常见的开阔草原不同，这里的木屋旅馆和蒙古包营地背靠着成片的泰加针叶林。作为通往库苏古尔湖的实际门户，哈特嘎勒是一个围绕游船观光、骑马远足以及前往北边查坦人（Tsaatan）驯鹿部落的交通线而发展起来的小村庄。",
+      "getting": "大多数旅行者会先从乌兰巴托（Ulaanbaatar）飞往该地区的交通枢纽——木伦机场（MXV），再乘坐出租车、拼车吉普或预订的接送车，走完约100公里前往哈特嘎勒的路程，根据车况和路况不同，车程大约需要1.5到3小时。哈特嘎勒本身没有固定航班或铁路服务，因此木伦始终是进出该地区的关键节点。",
+      "days": "大多数游客会在哈特嘎勒停留约2到3天，这段时间足够安顿下来，乘船游览库苏古尔湖，并安排一天沿湖骑马或徒步。"
+    }
+  },
+  "Koblenz": {
+    "en": {
+      "blurb": "Koblenz sits at the Deutsches Eck, the dramatic confluence where the Mosel River meets the Rhine, with the hilltop Ehrenbreitstein Fortress looming above the old town on the opposite bank. As the gateway to both the Rhine Gorge and the Mosel Valley wine region, it is as much a springboard for river cruises and vineyard day trips as it is a destination in its own right.",
+      "getting": "Koblenz Hauptbahnhof is the city's main station, well connected by ICE and IC long-distance trains as well as regional services along the Rhine, Mosel and Lahn lines. There is no major airport in Koblenz itself; most travellers fly into Frankfurt (FRA) or Cologne Bonn (CGN) and continue by direct train, a journey of roughly ~1h10min from Frankfurt and ~1h20min to 1h40min from Cologne Bonn.",
+      "days": "Allow ~1-2 days to take in the Deutsches Eck, the old town and a cable car ride up to Ehrenbreitstein Fortress, with extra time if you plan to branch out into the Rhine Gorge or Mosel Valley by boat or train."
+    },
+    "ko": {
+      "blurb": "코블렌츠는 모젤강이 라인강과 극적으로 합류하는 지점인 도이체스 에크(Deutsches Eck)에 자리하고 있으며, 강 건너편 구시가지 위로는 언덕 꼭대기의 에렌브라이트슈타인 요새(Ehrenbreitstein Fortress)가 우뚝 솟아 있습니다. 라인 협곡과 모젤 밸리 와인 산지로 향하는 관문인 코블렌츠는 그 자체로도 매력적인 목적지이지만, 크루즈 여행과 포도밭 당일치기 여행의 출발점 역할도 톡톡히 해냅니다.",
+      "getting": "코블렌츠 중앙역(Koblenz Hauptbahnhof)은 이 도시의 주요 기차역으로, ICE와 IC 장거리 열차는 물론 라인, 모젤, 란 노선을 따라 운행하는 지역 열차와도 잘 연결되어 있습니다. 코블렌츠에는 대형 공항이 따로 없기 때문에, 대부분의 여행자는 프랑크푸르트(FRA)나 쾰른 본(CGN)을 통해 입국한 뒤 직행 열차로 이동합니다. 소요 시간은 프랑크푸르트에서 약 1시간 10분, 쾰른 본에서는 약 1시간 20분에서 1시간 40분 정도입니다.",
+      "days": "도이체스 에크와 구시가지를 둘러보고 케이블카를 타고 에렌브라이트슈타인 요새까지 오르는 데 약 1~2일 정도를 잡으시면 됩니다. 라인 협곡이나 모젤 밸리까지 배나 기차로 둘러볼 계획이라면 일정을 좀 더 여유 있게 잡아두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "コブレンツは、モーゼル川がライン川と劇的に合流する「ドイチェス・エック」に位置する街で、対岸には旧市街を見下ろすように丘の上のエーレンブライトシュタイン要塞がそびえています。ライン渓谷とモーゼル渓谷のワイン産地、両方への玄関口であるこの街は、それ自体が魅力的な目的地であると同時に、リバークルーズやブドウ畑への日帰り旅行の起点としても最適です。",
+      "getting": "コブレンツ中央駅(Koblenz Hauptbahnhof)が街の中心的な駅で、ICEやICといった長距離列車に加え、ライン線・モーゼル線・ラーン線沿いの地域列車も発着しています。コブレンツ自体に大きな空港はなく、多くの旅行者はフランクフルト(FRA)またはケルン・ボン(CGN)に到着し、そこから直通列車で向かいます。所要時間はフランクフルトから約1時間10分、ケルン・ボンからは約1時間20分から1時間40分ほどです。",
+      "days": "ドイチェス・エック、旧市街の散策、そしてケーブルカーで上るエーレンブライトシュタイン要塞を楽しむには、1〜2日ほど見ておくとよいでしょう。さらにライン渓谷やモーゼル渓谷へ船や列車で足を延ばす予定がある場合は、追加で時間を取ることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Koblenz se asienta en el Deutsches Eck, el espectacular punto donde el río Mosela desemboca en el Rin, con la Fortaleza de Ehrenbreitstein coronando la colina que domina el casco antiguo desde la orilla opuesta. Como puerta de entrada tanto a la Garganta del Rin como a la región vinícola del Valle del Mosela, es tanto un trampolín para cruceros fluviales y excursiones de un día por los viñedos como un destino en sí mismo.",
+      "getting": "Koblenz Hauptbahnhof es la estación principal de la ciudad, bien conectada mediante trenes ICE e IC de larga distancia, así como servicios regionales a lo largo de las líneas del Rin, el Mosela y el Lahn. Koblenz no cuenta con un aeropuerto importante propio; la mayoría de los viajeros llegan por Frankfurt (FRA) o Colonia-Bonn (CGN) y continúan en tren directo, un trayecto de aproximadamente 1h10min desde Frankfurt y de entre 1h20min y 1h40min desde Colonia-Bonn.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer el Deutsches Eck, el casco antiguo y subir en teleférico hasta la Fortaleza de Ehrenbreitstein, añadiendo más tiempo si se planea explorar la Garganta del Rin o el Valle del Mosela en barco o en tren."
+    },
+    "zh": {
+      "blurb": "科布伦茨坐落于\"德意志之角\"（Deutsches Eck），摩泽尔河在此与莱茵河壮观交汇；河对岸的老城之上，矗立于山顶的埃伦布赖特施泰因要塞（Ehrenbreitstein Fortress）俯瞰全城。作为通往莱茵峡谷与摩泽尔河谷葡萄酒产区的门户，科布伦茨既是前往河上游船与葡萄园一日游的绝佳出发点，本身也是一处值得停留的目的地。",
+      "getting": "科布伦茨中央车站（Koblenz Hauptbahnhof）是该市的主要车站，ICE 和 IC 长途列车在此停靠，沿莱茵河、摩泽尔河及拉恩河沿线的区域列车也四通八达。科布伦茨本地没有大型机场，大多数旅客会飞往法兰克福机场（FRA）或科隆/波恩机场（CGN），再转乘直达火车前往：从法兰克福约需1小时10分钟，从科隆/波恩约需1小时20分钟至1小时40分钟。",
+      "days": "建议安排约1-2天游览\"德意志之角\"、老城区，并乘坐缆车登上埃伦布赖特施泰因要塞。如果还计划乘船或坐火车深入探索莱茵峡谷或摩泽尔河谷，则需预留更多时间。"
+    }
+  },
+  "Mississauga": {
+    "en": {
+      "blurb": "Mississauga is Canada's sixth-largest city, a sprawling, glass-towered suburb on Lake Ontario that has grown from farmland into a major business and immigration hub just west of Toronto. Its skyline is anchored by the curving Absolute World towers, nicknamed the \"Marilyn Monroe buildings,\" while its waterfront trails and the historic village of Port Credit offer a quieter, lakeside counterpoint to the city's office parks and shopping malls.",
+      "getting": "Mississauga is home to Toronto Pearson International Airport (YYZ), Canada's busiest airport, which sits within the city's boundaries. From the airport, the Union Pearson Express rail link runs to Union Station in downtown Toronto, while GO Transit commuter trains and buses connect Union Station to several stops within Mississauga itself.",
+      "days": "~2-3 days is enough to cover the main sights, from the Port Credit waterfront and Celebration Square to the Absolute World towers and the Living Arts Centre."
+    },
+    "ko": {
+      "blurb": "미시소가는 캐나다에서 여섯 번째로 큰 도시로, 온타리오 호수를 따라 유리 타워들이 늘어선 광활한 교외 지역이다. 한때 농경지였던 이곳은 토론토 바로 서쪽에서 손꼽히는 비즈니스 및 이민자 허브로 성장했다. 스카이라인의 중심에는 곡선형 외관으로 \"마릴린 먼로 빌딩\"이라는 별명을 얻은 앱솔루트 월드 타워가 자리하고 있으며, 호숫가 산책로와 유서 깊은 마을 포트 크레딧은 오피스 단지와 쇼핑몰이 즐비한 도심과는 대조적으로 한적한 분위기를 전해준다.",
+      "getting": "미시소가에는 캐나다에서 가장 분주한 공항인 토론토 피어슨 국제공항(YYZ)이 자리하고 있으며, 공항 자체가 이 도시 경계 안에 위치해 있다. 공항에서는 유니언 피어슨 익스프레스(UP Express) 철도를 이용해 토론토 도심의 유니언 역까지 이동할 수 있고, 유니언 역에서는 GO 트랜짓의 통근 열차와 버스를 통해 미시소가 내 여러 정류장으로 연결된다.",
+      "days": "포트 크레딧 호숫가와 셀러브레이션 광장부터 앱솔루트 월드 타워, 리빙 아츠 센터까지 주요 명소를 둘러보는 데는 2~3일이면 충분하다."
+    },
+    "ja": {
+      "blurb": "ミサシャガはカナダ第6位の人口を誇る都市で、オンタリオ湖畔に広がるガラス張りのタワーが立ち並ぶ郊外都市だ。かつては農地だったこの街は、トロント西郊の一大ビジネス・移民拠点へと発展を遂げた。スカイラインの象徴は、うねるような曲線を描く「アブソリュート・ワールド」ツインタワー。通称「マリリン・モンロー・ビル」として知られるこの建物が街の顔となっている一方、湖畔のトレイルや歴史あるポート・クレディット村は、オフィス街やショッピングモールが広がる市街地とは対照的な、落ち着いた湖畔の雰囲気を楽しませてくれる。",
+      "getting": "ミサシャガ市内には、カナダで最も利用者数の多いトロント・ピアソン国際空港(YYZ)がある。空港からはユニオン・ピアソン・エクスプレス(UP Express)がトロント中心部のユニオン駅まで直通しており、さらにユニオン駅からはGOトランジットの通勤電車やバスがミサシャガ市内の複数の停留所へとつながっている。",
+      "days": "主要な見どころを巡るなら2〜3日あれば十分だ。ポート・クレディットの湖畔エリアやセレブレーション・スクエアから、アブソリュート・ワールドのツインタワー、リビング・アーツ・センターまで一通り回ることができる。"
+    },
+    "es": {
+      "blurb": "Mississauga es la sexta ciudad más grande de Canadá, un extenso suburbio de torres de cristal a orillas del lago Ontario que ha pasado de ser tierra de cultivo a convertirse en un importante centro de negocios e inmigración justo al oeste de Toronto. Su skyline está marcado por las curvas torres Absolute World, apodadas los \"edificios Marilyn Monroe\", mientras que sus senderos junto al lago y el histórico pueblo de Port Credit ofrecen un contrapunto más tranquilo y costero frente a los parques empresariales y centros comerciales de la ciudad.",
+      "getting": "Mississauga alberga el Aeropuerto Internacional Toronto Pearson (YYZ), el más transitado de Canadá, ubicado dentro de los límites de la ciudad. Desde el aeropuerto, el tren Union Pearson Express conecta con la estación Union, en el centro de Toronto, mientras que los trenes y autobuses de cercanías de GO Transit enlazan la estación Union con varias paradas dentro de la propia Mississauga.",
+      "days": "Con 2 o 3 días es suficiente para recorrer los principales atractivos, desde el paseo costero de Port Credit y Celebration Square hasta las torres Absolute World y el Living Arts Centre."
+    },
+    "zh": {
+      "blurb": "密西沙加是加拿大第六大城市，坐落在安大略湖畔，是一座高楼林立的庞大城郊都市。它由昔日的农田逐渐发展成多伦多以西的重要商业与移民枢纽。天际线以弧形的\"绝对世界\"双塔为地标，这两座大楼因造型独特被戏称为\"梦露大厦\"；而沿湖步道与历史悠久的波特克雷迪特村，则为这座遍布办公园区与购物中心的城市，增添了一份宁静的湖畔气息。",
+      "getting": "密西沙加境内坐落着加拿大最繁忙的机场——多伦多皮尔逊国际机场（YYZ）。从机场出发，可乘坐联合皮尔逊快线直达市中心的联合车站，而GO Transit通勤火车及巴士则连接联合车站与密西沙加市内多个站点。",
+      "days": "安排2-3天即可游览主要景点，从波特克雷迪特湖滨区、庆典广场，到绝对世界双塔和生活艺术中心，皆可悠然探索。"
+    }
+  },
+  "Ningbo": {
+    "en": {
+      "blurb": "Ningbo is a major port city on China's eastern coast, blending a history-rich old town, the ancient Tianyi Pavilion library, and Buddhist sites like Tiantong Temple with one of the world's busiest cargo harbours. It sits in the shadow of Shanghai but has its own distinct identity as a prosperous trading city with roots stretching back over a thousand years.",
+      "getting": "Most travellers fly into Ningbo Lishe International Airport (NGB), which connects to the city centre via metro Line 2, or arrive by high-speed rail into Ningbo Railway Station, with trains from Shanghai taking roughly 1.5 to 2.5 hours depending on the service.",
+      "days": "Allow ~2 to 3 days to cover the old town, waterfront, and key temples at an easy pace, with an extra day if venturing out to nearby coastal or island attractions."
+    },
+    "ko": {
+      "blurb": "닝보(宁波)는 중국 동부 해안에 자리한 주요 항구 도시로, 유서 깊은 구시가지와 천년 고찰 톈이거(天一阁) 장서각, 톈퉁사(天童寺)를 비롯한 불교 유적이 세계에서 손꼽히는 분주한 화물항과 함께 어우러져 있는 곳이다. 상하이의 그늘에 가려지기 쉽지만, 천 년이 넘는 역사를 지닌 번영한 교역 도시로서 뚜렷한 자기만의 정체성을 간직하고 있다.",
+      "getting": "대부분의 여행객은 닝보 리세 국제공항(NGB)을 이용하며, 이곳에서 지하철 2호선을 타면 시내로 바로 연결된다. 고속철도를 이용할 경우 닝보역(宁波站)으로 도착하게 되는데, 상하이에서 출발하면 열차 종류에 따라 약 1시간 30분에서 2시간 30분 정도가 소요된다.",
+      "days": "구시가지와 해안가, 주요 사찰들을 여유롭게 둘러보려면 2~3일 정도를 잡는 것이 좋으며, 인근 해안이나 섬 명소까지 둘러볼 계획이라면 하루를 더 추가하는 것을 추천한다."
+    },
+    "ja": {
+      "blurb": "寧波は中国東海岸を代表する港湾都市で、歴史情緒あふれる旧市街、古い蔵書楼として知られる天一閣、天童寺をはじめとする仏教寺院など、由緒ある見どころと、世界有数の貨物取扱量を誇る港とが共存する街です。上海の陰に隠れがちですが、千年以上の歴史を持つ商業都市として独自の存在感を放っています。",
+      "getting": "多くの旅行者は寧波櫟社国際空港（NGB）を利用して訪れ、空港からは地下鉄2号線で市内中心部へアクセスできます。また、高速鉄道で寧波駅に向かう方法もあり、上海からは便によって約1.5～2.5時間で到着します。",
+      "days": "旧市街や港湾エリア、主要な寺院を無理のないペースで巡るなら、2～3日ほど見ておくとよいでしょう。近郊の海岸部や島の観光スポットにも足を延ばす場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Ningbo es una importante ciudad portuaria en la costa oriental de China, que combina un casco antiguo cargado de historia, la antigua biblioteca Tianyi Pavilion y sitios budistas como el Templo Tiantong con uno de los puertos de carga más transitados del mundo. Aunque vive un poco a la sombra de Shanghái, tiene una identidad propia muy marcada como próspera ciudad comercial con raíces que se remontan a más de mil años atrás.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional Ningbo Lishe (NGB), conectado con el centro de la ciudad a través de la Línea 2 del metro, o viaja en tren de alta velocidad hasta la Estación de Ferrocarril de Ningbo, con trayectos desde Shanghái que duran aproximadamente entre 1.5 y 2.5 horas según el servicio.",
+      "days": "Calcula entre 2 y 3 días para recorrer con calma el casco antiguo, el frente marítimo y los templos principales, y suma un día extra si piensas escaparte a las zonas costeras o islas cercanas."
+    },
+    "zh": {
+      "blurb": "宁波是中国东部沿海的重要港口城市，既有底蕴深厚的老城区、历史悠久的天一阁藏书楼，以及天童寺等佛教圣地，又坐拥全球最繁忙的货运港口之一。虽身处上海的光环之下，宁波却凭借逾千年的通商历史，形成了自己独特的身份——一座底蕴深厚的繁荣商贸之城。",
+      "getting": "多数旅客选择飞抵宁波栎社国际机场（NGB），可通过地铁2号线直达市区；也可乘坐高铁抵达宁波站，从上海出发车程约1.5至2.5小时，具体视车次而定。",
+      "days": "建议安排约2至3天，以轻松的节奏游览老城区、滨水区及主要寺庙；若想前往附近的海滨或海岛景点，可再多留一天。"
+    }
+  },
+  "Oberstdorf": {
+    "en": {
+      "blurb": "Oberstdorf is Germany's southernmost village, a car-free-feeling alpine resort tucked against the Austrian border where ski jumps, hiking trails and thermal baths sit beneath the Allgäu Alps. It has built a reputation as both a winter sports hub, famous for its ski jumping events, and a quiet summer base for mountain walking.",
+      "getting": "Oberstdorf has its own railway station at the end of a branch line, reached by regional and InterCity trains with a change at Immenstadt. The nearest airport is Memmingen (FMM), roughly ~1 to 1.5 hours away by bus and train combined; Munich Airport (MUC) is farther but better connected internationally, with a train journey of ~3 to 4 hours including changes.",
+      "days": "Most visitors plan for 3-5 days, enough to cover the main lifts, a lake excursion or two, and some time in the village itself."
+    },
+    "ko": {
+      "blurb": "오버스트도르프는 독일에서 가장 남쪽에 위치한 마을로, 오스트리아 국경에 바짝 붙어 있는 알프스 휴양지다. 차 없이도 다닐 수 있을 듯한 아늑한 분위기 속에 스키 점프대, 하이킹 트레일, 온천 시설이 알고이 알프스 산자락에 자리 잡고 있다. 스키 점프 대회로 유명한 겨울 스포츠의 중심지이자, 여름철에는 산행을 즐기려는 이들이 찾는 조용한 베이스캠프로도 명성을 쌓아왔다.",
+      "getting": "오버스트도르프에는 지선 종착역에 해당하는 자체 기차역이 있으며, 레기오날반(지역열차)과 인터시티(IC) 열차를 이용해 임멘슈타트(Immenstadt)에서 환승하면 도착할 수 있다. 가장 가까운 공항은 멤밍겐 공항(FMM)으로, 버스와 기차를 합쳐 약 1~1.5시간 정도 소요된다. 뮌헨 공항(MUC)은 거리는 더 멀지만 국제선 연결이 더 좋은 편으로, 환승 포함 기차로 약 3~4시간이 걸린다.",
+      "days": "대부분의 여행자는 3~5일 일정을 계획하며, 주요 리프트를 둘러보고 호수 나들이를 한두 번 다녀온 뒤 마을 자체를 둘러볼 시간까지 충분히 가질 수 있는 기간이다."
+    },
+    "ja": {
+      "blurb": "オーバーストドルフはドイツ最南端の村で、オーストリア国境に寄り添うように広がるアルプスのリゾート地です。車の往来をほとんど感じさせない落ち着いた雰囲気の中、ジャンプ台やハイキングコース、温泉施設がアルゴイ・アルプスの山々の麓に点在しています。ウィンタースポーツの拠点としてスキージャンプ大会で名を馳せる一方、夏には静かな登山ベースとしても親しまれています。",
+      "getting": "オーバーストドルフには、支線の終着駅として独自の鉄道駅があり、イミンシュタットで乗り換えて地域列車やインターシティでアクセスできます。最寄り空港はメミンゲン空港(FMM)で、バスと鉄道を乗り継いでおよそ1~1.5時間。ミュンヘン空港(MUC)はやや遠いものの国際線の便数が多く、乗り換えを含めて鉄道でおよそ3~4時間かかります。",
+      "days": "多くの旅行者は3~5日ほどの滞在を予定しています。主要なリフトを巡り、湖への小旅行を1~2回楽しみ、村そのものをゆっくり散策するのに十分な日数です。"
+    },
+    "es": {
+      "blurb": "Oberstdorf es el pueblo más austral de Alemania, un enclave alpino que transmite la sensación de estar libre de coches y que se acurruca junto a la frontera con Austria, donde trampolines de salto, senderos de montaña y baños termales conviven bajo las cumbres de los Alpes de Allgäu. Se ha ganado la reputación de ser, a la vez, un centro de deportes de invierno, célebre por sus competiciones de salto de esquí, y una tranquila base veraniega para el senderismo de montaña.",
+      "getting": "Oberstdorf cuenta con su propia estación de tren, situada al final de un ramal ferroviario, a la que se llega mediante trenes regionales e InterCity con trasbordo en Immenstadt. El aeropuerto más cercano es el de Memmingen (FMM), a aproximadamente 1 o 1,5 horas combinando autobús y tren; el aeropuerto de Múnich (MUC) queda más lejos, pero tiene mejores conexiones internacionales, con un trayecto en tren de unas 3 a 4 horas incluyendo trasbordos.",
+      "days": "La mayoría de los visitantes planea entre 3 y 5 días, tiempo suficiente para recorrer los principales telesillas, hacer una o dos excursiones a algún lago y disfrutar también del propio pueblo."
+    },
+    "zh": {
+      "blurb": "上阿默高（Oberstdorf）是德国最南端的村镇，紧邻奥地利边境，是一座几乎感觉不到车流的阿尔卑斯度假小镇。跳台滑雪场、徒步小径和温泉浴场依偎在阿尔高阿尔卑斯山脉（Allgäu Alps）脚下。这里既是冬季运动胜地，以跳台滑雪赛事闻名，也是夏季登山徒步者青睐的静谧基地。",
+      "getting": "上阿默高拥有自己的火车站，位于一条支线铁路的终点，可乘坐区域列车或城际列车前往，需在因门施塔特（Immenstadt）换乘。距离最近的机场是梅明根机场（FMM），乘坐大巴加火车大约需要1到1.5小时；慕尼黑机场（MUC）虽然路程更远，但国际航线更为便捷，转乘火车前往约需3到4小时（含换乘时间）。",
+      "days": "大多数游客会安排3到5天的行程，足以体验主要缆车线路、一两次湖泊游览，以及在村镇本身悠闲漫步的时光。"
+    }
+  },
+  "Sant Boi de Llobregat": {
+    "en": {
+      "blurb": "Sant Boi de Llobregat is a riverside town just outside Barcelona, best known for its excavated Roman Baths and as the birthplace of Spanish rugby, home to Unió Esportiva Santboiana, the sport's first club on the Iberian Peninsula. It also carries a quieter legacy as a historic centre for mental health care, alongside leafy parks and a lived-in, workaday Catalan character far removed from the city's tourist crowds.",
+      "getting": "The easiest route is by FGC train from Barcelona's Plaça Espanya station directly to Sant Boi, with services running roughly every 15 minutes and a journey time of around 18 minutes; regional buses from Barcelona also serve the town as a slower alternative.",
+      "days": "A half day to a full day is enough to cover the Roman Baths, the Museu de Sant Boi and a wander through Parc de la Muntanyeta, making it an easy add-on to a Barcelona stay rather than a standalone base."
+    },
+    "ko": {
+      "blurb": "산트 보이 데 요브레가트는 바르셀로나 외곽에 자리한 강변 마을로, 발굴된 로마 목욕탕 유적과 스페인 럭비의 발상지로 가장 잘 알려져 있다. 이베리아 반도 최초의 럭비 클럽인 우니오 에스포르티바 산트보이아나가 바로 이곳에서 탄생했다. 이와 함께 정신 건강 치료의 유서 깊은 중심지였다는 조용한 역사도 품고 있으며, 푸르른 공원들과 관광객으로 붐비는 바르셀로나 시내와는 거리가 먼, 생활감 있는 카탈루냐 서민 마을의 면모를 간직하고 있다.",
+      "getting": "가장 쉬운 방법은 바르셀로나 플라사 에스파냐 역에서 FGC 열차를 타고 산트 보이까지 직행하는 것으로, 약 15분 간격으로 운행하며 소요 시간은 약 18분이다. 바르셀로나에서 출발하는 지역 버스도 운행하지만, 속도는 더 느린 대안이다.",
+      "days": "로마 목욕탕 유적, 산트 보이 박물관, 그리고 라 문타녜타 공원 산책까지 둘러보는 데는 반나절에서 하루면 충분하다. 독립적인 여행 거점이라기보다는 바르셀로나 체류 중 가볍게 다녀오기 좋은 곳이다."
+    },
+    "ja": {
+      "blurb": "サンボイ・デ・リュブラガットは、バルセロナ近郊に位置する川沿いの町で、発掘されたローマ浴場跡と、スペインラグビー発祥の地として知られています。イベリア半島初のラグビークラブ、ウニオ・エスポルティバ・サンボイアナの本拠地もここにあります。また、精神医療の歴史的中心地としての静かな歩みも持ち合わせており、緑豊かな公園や、観光客で賑わうバルセロナ市街とは一線を画す、生活感あふれる素朴なカタルーニャの顔も魅力です。",
+      "getting": "最も簡単な行き方は、バルセロナのプラサ・エスパーニャ駅からFGC線でサンボイまで直接向かう方法で、列車はおよそ15分おきに運行しており、所要時間は約18分です。バルセロナからの地域バスも町へのアクセス手段としてありますが、こちらは時間がかかります。",
+      "days": "ローマ浴場跡、サンボイ博物館、そしてムンタニェタ公園の散策を楽しむには、半日から1日あれば十分です。単独の滞在先というよりは、バルセロナ滞在に気軽に組み込める日帰りの立ち寄り先として最適です。"
+    },
+    "es": {
+      "blurb": "Sant Boi de Llobregat es una localidad a orillas del río, muy cerca de Barcelona, conocida sobre todo por sus restos excavados de unas termas romanas y por ser la cuna del rugby español, hogar de la Unió Esportiva Santboiana, el primer club de este deporte en la península ibérica. También guarda un legado más discreto como centro histórico de atención a la salud mental, junto a frondosos parques y un carácter catalán auténtico y cotidiano, muy alejado del bullicio turístico de la ciudad.",
+      "getting": "La forma más sencilla de llegar es en tren de FGC desde la estación de Plaça Espanya de Barcelona directamente a Sant Boi, con servicios cada 15 minutos aproximadamente y un trayecto de unos 18 minutos; también hay autobuses regionales desde Barcelona que llegan al pueblo, aunque como alternativa más lenta.",
+      "days": "Con medio día o una jornada completa es suficiente para visitar las termas romanas, el Museu de Sant Boi y pasear por el Parc de la Muntanyeta, lo que lo convierte en una escapada fácil desde Barcelona más que en un destino para alojarse por su cuenta."
+    },
+    "zh": {
+      "blurb": "圣博伊-德略夫雷加特（Sant Boi de Llobregat）是巴塞罗那近郊一座傍河而建的小城，以出土的罗马浴场遗址闻名，同时也是西班牙橄榄球运动的发祥地——伊比利亚半岛第一家橄榄球俱乐部 Unió Esportiva Santboiana 便坐落于此。此外，这座城市还有一段鲜为人知的历史：它曾是心理健康治疗的重要中心。绿树成荫的公园、踏实质朴的加泰罗尼亚市井气息，让这里与巴塞罗那市区的游人如织截然不同。",
+      "getting": "最便捷的方式是从巴塞罗那的西班牙广场站（Plaça Espanya）乘坐 FGC 市郊列车直达圣博伊，班次大约每15分钟一趟，车程约18分钟；此外，也有从巴塞罗那出发的区域巴士可到达该镇，不过耗时较长，可作为备选方案。",
+      "days": "安排半天到一天时间，便足以游览罗马浴场、圣博伊博物馆（Museu de Sant Boi），并在蒙塔涅塔公园（Parc de la Muntanyeta）悠闲漫步。相比作为独立的旅行据点，它更适合作为巴塞罗那行程中轻松惬意的一日游延伸。"
+    }
+  },
+  "Thanh Hoa": {
+    "en": {
+      "blurb": "Thanh Hoa is a sprawling north-central province where limestone mountains, rice-terrace valleys and a long sandy coastline meet centuries of royal history, from the UNESCO-listed Ho Dynasty Citadel to the forested trails of Pu Luong. It is as much a gateway to wild nature reserves and fishing villages as it is a province of its own distinct identity, drawing far fewer foreign visitors than neighbouring Ninh Binh despite comparable scenery.",
+      "getting": "Thanh Hoa city is served by Tho Xuan Airport (THD), located roughly 45km from the city centre, and by Thanh Hoa railway station, a major stop on the North-South Reunification Express line linking Hanoi, Ninh Binh, Hue, Da Nang and beyond. Most travellers arrive overland from Hanoi, around 150km to the north, by train or bus, with onward buses and taxis covering the final stretch to the coast or inland reserves.",
+      "days": "Allow ~3 to 5 days to cover a mix of Sam Son or Hai Tien beach time, the Ho Dynasty Citadel, and a trek through Pu Luong's rice terraces, with extra days needed if combining Ben En National Park or more remote caves and villages."
+    },
+    "ko": {
+      "blurb": "타인호아는 베트남 중북부에 넓게 펼쳐진 성으로, 석회암 산맥과 계단식 논이 펼쳐진 골짜기, 그리고 길게 이어지는 모래 해안선이 수백 년에 걸친 왕조의 역사와 만나는 곳이다. 유네스코 세계유산으로 등재된 호 왕조 성채부터 푸루옹의 울창한 트레킹 코스까지, 그 면면이 다채롭다. 야생 자연보호구역과 어촌 마을로 향하는 관문 역할을 하는 동시에, 그 자체로도 뚜렷한 개성을 지닌 지역이다. 이웃한 닌빈과 견줄 만한 풍광을 자랑하면서도 외국인 여행객의 발길은 훨씬 뜸한 편이다.",
+      "getting": "타인호아 시는 토쑤언 공항(THD)을 통해 접근할 수 있는데, 공항은 시내 중심에서 약 45km 떨어져 있다. 또한 타인호아 기차역은 하노이, 닌빈, 후에, 다낭 등을 잇는 남북통일철도선(Reunification Express)의 주요 정차역이기도 하다. 대부분의 여행객은 북쪽으로 약 150km 떨어진 하노이에서 기차나 버스를 이용해 육로로 이동하며, 이후 해안 지역이나 내륙 보호구역까지는 버스나 택시로 마지막 구간을 이동한다.",
+      "days": "삼손 또는 하이띠엔 해변에서의 휴식, 호 왕조 성채 탐방, 그리고 푸루옹의 계단식 논을 가로지르는 트레킹을 모두 둘러보려면 약 3~5일 정도를 잡는 것이 좋다. 벤엔 국립공원이나 더 외딴 동굴과 마을까지 함께 둘러보고 싶다면 며칠 더 일정을 늘려야 한다."
+    },
+    "ja": {
+      "blurb": "タインホア省は、北中部に広がる広大な省で、石灰岩の山々、棚田が連なる渓谷、そして長く続く砂浜の海岸線が、何世紀にもわたる王朝の歴史と溶け合う土地です。ユネスコ世界遺産に登録されたホー朝の城塞から、プールオン(Pu Luong)の森深いトレッキングコースまで、見どころは多岐にわたります。手つかずの自然保護区や漁村への玄関口でありながら、独自の個性を持つ省でもあり、景観の美しさでは引けを取らないにもかかわらず、隣接するニンビンほど外国人観光客には知られていません。",
+      "getting": "タインホア市へは、市中心部から約45km離れたトーショアン空港(THD)、またはタインホア駅からアクセスできます。タインホア駅は、ハノイ、ニンビン、フエ、ダナンなどを結ぶ南北統一鉄道(ユニフィケーション・エクスプレス)の主要停車駅です。多くの旅行者は、北へ約150km離れたハノイから鉄道やバスで陸路入りし、そこからバスやタクシーで海岸沿いや内陸の保護区まで足を延ばします。",
+      "days": "サムソン(Sam Son)やハイティエン(Hai Tien)のビーチ、ホー朝の城塞、そしてプールオンの棚田トレッキングを組み合わせるなら、3〜5日ほど見ておくとよいでしょう。ベンエン国立公園や、さらに奥地の洞窟・村々まで足を延ばす場合は、プラスで日数を確保する必要があります。"
+    },
+    "es": {
+      "blurb": "Thanh Hoa es una extensa provincia del centro-norte de Vietnam donde montañas kársticas, valles con terrazas de arroz y un largo litoral de arena se entrelazan con siglos de historia real, desde la Ciudadela de la Dinastía Ho, declarada Patrimonio de la Humanidad por la UNESCO, hasta los senderos boscosos de Pu Luong. Es tanto una puerta de entrada a reservas naturales vírgenes y pueblos pesqueros como una provincia con identidad propia, que recibe muchos menos visitantes extranjeros que la vecina Ninh Binh pese a ofrecer paisajes igual de espectaculares.",
+      "getting": "La ciudad de Thanh Hoa cuenta con el aeropuerto de Tho Xuan (THD), situado a unos 45 km del centro, y con la estación de tren de Thanh Hoa, una parada importante en la línea del Expreso de la Reunificación Norte-Sur que conecta Hanói, Ninh Binh, Hue, Da Nang y otros destinos. La mayoría de los viajeros llegan por tierra desde Hanói, a unos 150 km al norte, en tren o autobús, y completan el trayecto hasta la costa o las reservas del interior con autobuses locales o taxis.",
+      "days": "Se recomienda dedicar entre 3 y 5 días para combinar tiempo de playa en Sam Son o Hai Tien, la visita a la Ciudadela de la Dinastía Ho y una caminata por las terrazas de arroz de Pu Luong, sumando días adicionales si se quiere incluir el Parque Nacional de Ben En o cuevas y pueblos más remotos."
+    },
+    "zh": {
+      "blurb": "清化省地处越南中北部，幅员辽阔，喀斯特石灰岩山脉、层叠的梯田山谷与绵长的沙质海岸线在这里交汇，承载着数百年的王朝历史，从被列入联合国教科文组织名录的胡朝城堡，到普luong郁郁葱葱的林间小径，处处可见。它既是通往原始自然保护区与渔村的门户，也是一个拥有独特身份的省份，尽管风光不输邻近的宁平省，吸引的外国游客却少得多。",
+      "getting": "清化市由寿春机场（THD）提供空中交通服务，距市中心约45公里；此外还有清化火车站，是连接河内、宁平、顺化、岘港及更远地区的南北统一快线上的重要站点。大多数游客选择从约150公里外的河内陆路前往，乘坐火车或长途巴士抵达，再转乘巴士或出租车前往海边或内陆的自然保护区。",
+      "days": "建议安排约3至5天，可将岑山或海田海滩时光、胡朝城堡以及普luong梯田徒步行程结合起来；若还想游览奔安国家公园或更偏远的洞穴与村落，则需要额外增加天数。"
+    }
+  },
+  "Val d'Isère": {
+    "en": {
+      "blurb": "Perched at 1,850m in the Haute Tarentaise valley near the Italian border, Val d'Isère is linked with neighbouring Tignes to form the Espace Killy, one of the world's largest ski areas with around 300km of pistes. The resort is steeped in racing heritage as the childhood home of Olympic champion Jean-Claude Killy, with skiing reaching up to roughly 3,450m and snow-sure terrain for intermediates through experts.",
+      "getting": "Val d'Isère has no airport or train station of its own: most travellers fly into Chambéry, Geneva or Lyon and take a road transfer, or reach Bourg-Saint-Maurice by train before completing the final climb by bus, taxi or transfer. Journey times vary by gateway, with Chambéry generally the shortest road transfer and Bourg-Saint-Maurice the nearest rail link, roughly 30km below the resort.",
+      "days": "Plan on ~4 to 7 days to properly explore the linked Espace Killy terrain, with a full week allowing time for both Val d'Isère's and Tignes' sectors, glacier skiing, and at least one rest day for the village's shops and après-ski."
+    },
+    "ko": {
+      "blurb": "이탈리아 국경과 가까운 오트 타랑테즈 계곡, 해발 1,850m에 자리한 발 디제르는 이웃한 티뉴와 연결되어 '에스파스 킬리(Espace Killy)'를 이룹니다. 약 300km에 달하는 슬로프를 자랑하는 세계 최대 규모의 스키 지역 중 하나죠. 올림픽 챔피언 장클로드 킬리가 어린 시절을 보낸 곳으로 레이싱의 전통이 깊이 배어 있으며, 스키장은 약 3,450m 고지까지 이어져 중급자부터 상급자까지 만족시킬 만한 확실한 설질을 자랑합니다.",
+      "getting": "발 디제르에는 공항이나 기차역이 따로 없습니다. 대부분의 여행객은 샹베리(Chambéry), 제네바(Geneva), 리옹(Lyon) 중 한 곳으로 입국해 차량으로 이동하거나, 기차로 부르생모리스(Bourg-Saint-Maurice)까지 간 뒤 버스나 택시, 또는 전용 transfer로 마지막 구간을 올라갑니다. 이동 시간은 출발 공항에 따라 다른데, 일반적으로 샹베리가 육로 이동 시간이 가장 짧고, 부르생모리스는 리조트에서 약 30km 아래에 위치한 가장 가까운 기차역입니다.",
+      "days": "연결된 에스파스 킬리 지역을 제대로 둘러보려면 대략 4~7일 정도를 계획하는 것이 좋습니다. 일주일 정도 머무르면 발 디제르와 티뉴 양쪽 구역은 물론 빙하 스키까지 즐길 시간이 충분하고, 마을의 상점과 아프레스키를 즐길 휴식일도 최소 하루는 확보할 수 있습니다."
+    },
+    "ja": {
+      "blurb": "イタリア国境に近いオート・タランテーズ渓谷の標高1,850mに位置するヴァル・ディゼールは、隣接するティーニュと結ばれて「エスパス・キリー」を形成しており、総滑走距離約300kmを誇る世界最大級のスキーエリアのひとつとなっています。オリンピックチャンピオン、ジャン=クロード・キリーが生まれ育った地としても知られ、レースの伝統が色濃く息づくこのリゾートは、標高約3,450mまでゲレンデが広がり、中級者から上級者まで満足できる雪質の良さが魅力です。",
+      "getting": "ヴァル・ディゼールには空港も鉄道駅もありません。多くの旅行者はシャンベリー、ジュネーブ、リヨンのいずれかの空港を利用し、そこから陸路で移動するか、あるいは列車でブール・サン・モーリスまで行き、そこからバスやタクシー、送迎サービスで最後の山道を上る形でリゾートを目指します。所要時間は出発地によって異なり、一般的にシャンベリーからの陸路移動が最も短く、ブール・サン・モーリスはリゾートから約30km下った場所にある最寄りの鉄道駅です。",
+      "days": "エスパス・キリーのゲレンデをじっくり楽しむには、4日から7日程度を見ておくとよいでしょう。1週間あれば、ヴァル・ディゼールとティーニュ両方のエリアを滑り、氷河スキーも体験でき、さらに村でのショッピングやアプレスキーを満喫する休養日も確保できます。"
+    },
+    "es": {
+      "blurb": "Encaramada a 1.850 m en el valle de la Haute Tarentaise, cerca de la frontera con Italia, Val d'Isère está unida a la vecina Tignes para formar el Espace Killy, uno de los dominios esquiables más grandes del mundo, con cerca de 300 km de pistas. La estación respira tradición de competición, ya que fue el hogar de infancia del campeón olímpico Jean-Claude Killy, con esquí que alcanza los 3.450 m aproximadamente y terrenos de nieve garantizada para esquiadores de nivel intermedio hasta expertos.",
+      "getting": "Val d'Isère no cuenta con aeropuerto ni estación de tren propios: la mayoría de los viajeros vuela a Chambéry, Ginebra o Lyon y completa el trayecto por carretera, o bien llega en tren hasta Bourg-Saint-Maurice y termina la subida en autobús, taxi o traslado privado. Los tiempos de viaje varían según la puerta de entrada; Chambéry suele ofrecer el traslado por carretera más corto, mientras que Bourg-Saint-Maurice es el enlace ferroviario más cercano, a unos 30 km de la estación.",
+      "days": "Se recomienda entre 4 y 7 días para explorar bien el dominio conjunto del Espace Killy; una semana completa permite disfrutar tanto del sector de Val d'Isère como del de Tignes, practicar esquí de glaciar y reservar al menos un día de descanso para las tiendas y el après-ski del pueblo."
+    },
+    "zh": {
+      "blurb": "瓦尔迪泽尔坐落于上塔朗泰兹山谷海拔1,850米处,毗邻意大利边境,与相邻的蒂涅相连,共同组成基利滑雪场(Espace Killy)——全球规模最大的滑雪区之一,雪道总长约300公里。作为奥运冠军让-克劳德·基利的故乡,这里的赛事传统底蕴深厚,滑雪范围最高可达约3,450米,雪质稳定可靠,从中级到高阶滑雪者都能尽兴而归。",
+      "getting": "瓦尔迪泽尔本身没有机场或火车站:大多数旅客会选择飞抵尚贝里、日内瓦或里昂,再转乘陆路交通前往;也可以先乘火车抵达圣莫里斯堡,再转乘巴士、出租车或接驳车完成最后一段山路。各出发地的行程时间不尽相同,其中尚贝里通常是陆路转乘距离最短的选择,而圣莫里斯堡则是最近的铁路连接点,距离度假村约30公里。",
+      "days": "建议安排约4到7天时间,充分探索相连的基利滑雪场。如果有完整一周,则可以从容游览瓦尔迪泽尔和蒂涅两大滑雪区,体验冰川滑雪,并至少预留一天休息日,悠闲逛逛村中商店、享受滑雪后的悠然时光。"
+    }
+  },
+  "Hwacheon": {
+    "en": {
+      "blurb": "Hwacheon sits in the mountainous far north of Gangwon Province, close to the border with North Korea, in what is widely considered South Korea's coldest region. It is best known for the Sancheoneo Ice Festival, when the frozen Hwacheon Stream fills with ice fishing holes, sledding and ice sculptures, and for landmarks like the Peace Dam.",
+      "getting": "Hwacheon has no railway station, so the usual route is an intercity bus from Seoul's Dong Seoul or Sangbong terminals direct to Hwacheon Bus Terminal, taking roughly ~2.5 hours. Travellers can also take a train to Chuncheon and transfer to a short connecting bus for the final leg.",
+      "days": "Plan on ~2-3 days to cover the main sights at an easy pace, or a single long day trip if visiting only the ice festival or Peace Dam from Seoul."
+    },
+    "ko": {
+      "blurb": "화천은 강원도 최북단 산간 지역에 자리한 곳으로, 북한과의 접경지대에 가까우며 한국에서 가장 추운 지역으로 손꼽힙니다. 꽁꽁 언 화천천 위에서 얼음낚시와 썰매, 빙하 조각을 즐길 수 있는 산천어 축제로 가장 잘 알려져 있으며, 평화의 댐 같은 명소로도 유명합니다.",
+      "getting": "화천에는 기차역이 없어서, 보통 서울 동서울터미널이나 상봉터미널에서 화천시외버스터미널까지 가는 시외버스를 이용합니다. 소요 시간은 약 2시간 30분 정도입니다. 기차로 춘천까지 이동한 뒤, 화천까지 짧은 연계 버스로 갈아타는 방법도 있습니다.",
+      "days": "여유롭게 주요 명소를 둘러보려면 2~3일 정도를 계획하는 것이 좋고, 서울에서 산천어 축제나 평화의 댐만 둘러볼 계획이라면 당일치기 여행으로도 충분합니다."
+    },
+    "ja": {
+      "blurb": "華川（ファチョン）は江原道の最北端、北朝鮮との国境近くに広がる山深い町で、韓国でも屈指の寒さを誇る地域として知られています。凍った華川川に無数の氷上穴釣りスポットが並び、そり遊びや氷の彫刻が楽しめる「山川魚（サンチョノ）氷祭り」の開催地として特に有名で、平和の夢（ピョンファ）ダムなどの見どころもあります。",
+      "getting": "華川には鉄道駅がないため、通常はソウルの東ソウル（トンソウル）またはサンボンターミナルから華川バスターミナルへ直行する高速・市外バスを利用するのが一般的で、所要時間は約2.5時間です。春川（チュンチョン）まで列車で行き、そこから華川行きの連絡バスに乗り換えるというルートも選べます。",
+      "days": "主な見どころをゆったり巡るなら2～3日ほど見ておくと安心です。氷祭りや平和の夢ダムだけを目的にソウルから訪れる場合は、日帰りでも十分楽しめます。"
+    },
+    "es": {
+      "blurb": "Hwacheon se encuentra en la montañosa zona del extremo norte de la provincia de Gangwon, muy cerca de la frontera con Corea del Norte, en lo que se considera ampliamente la región más fría de Corea del Sur. Es célebre sobre todo por el Festival del Hielo de Sancheoneo, cuando el río Hwacheon, completamente congelado, se llena de agujeros para pesca en hielo, pistas de trineo y esculturas de hielo, así como por lugares emblemáticos como la Presa de la Paz (Peace Dam).",
+      "getting": "Hwacheon no cuenta con estación de tren, así que lo habitual es llegar en autobús interurbano desde las terminales Dong Seoul o Sangbong de Seúl, directo hasta la terminal de autobuses de Hwacheon, en un trayecto de aproximadamente 2,5 horas. También se puede tomar el tren hasta Chuncheon y hacer trasbordo a un autobús de conexión para completar el último tramo.",
+      "days": "Calcula entre 2 y 3 días para recorrer los principales atractivos con calma, o bien una excursión de un solo día si solo vas a visitar el festival del hielo o la Presa de la Paz desde Seúl."
+    },
+    "zh": {
+      "blurb": "华川位于江原道最北端的山区，紧邻朝鲜边境，是韩国公认最寒冷的地区之一。这里最著名的当属山川鱼冰鱼节——每到隆冬，华川溪便会冻结成冰，游客可以在冰面上凿洞钓鱼、滑雪橇，还能欣赏各式冰雕，此外和平大坝等地标景点也颇具人气。",
+      "getting": "华川没有火车站，因此前往当地通常需要从首尔东首尔或上凤客运站乘坐市际巴士，直达华川客运站，车程约2.5小时。此外，也可以先乘火车到春川，再转乘短途巴士抵达华川。",
+      "days": "若想轻松游览主要景点，建议安排2至3天的行程；如果只是从首尔出发专程参观冰鱼节或和平大坝，安排一天的长途往返也完全可行。"
+    }
   }
 }

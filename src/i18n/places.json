@@ -371,6 +371,12 @@
     "es": "Bengaluru",
     "zh": "班加罗尔"
   },
+  "Benidorm": {
+    "ko": "베니도름",
+    "ja": "ベニドルム",
+    "es": "Benidorm",
+    "zh": "贝尼多姆"
+  },
   "Berlin": {
     "ko": "베를린",
     "ja": "ベルリン",
@@ -839,6 +845,12 @@
     "es": "Cotai",
     "zh": "路氹"
   },
+  "Courchevel": {
+    "ko": "쿠르슈벨",
+    "ja": "クールシュヴェル",
+    "es": "Courchevel",
+    "zh": "库尔谢韦勒"
+  },
   "Cozumel": {
     "ko": "코수멜",
     "ja": "コスメル",
@@ -1091,6 +1103,12 @@
     "es": "Florencia",
     "zh": "佛罗伦萨"
   },
+  "Foshan": {
+    "ko": "포산",
+    "ja": "仏山",
+    "es": "Foshan",
+    "zh": "佛山"
+  },
   "Foxborough": {
     "ko": "폭스버러",
     "ja": "フォックスボロ",
@@ -1192,6 +1210,12 @@
     "ja": "ガーデナ",
     "es": "Gardena",
     "zh": "加迪纳"
+  },
+  "Gatineau": {
+    "ko": "가티노",
+    "ja": "ガティノー",
+    "es": "Gatineau",
+    "zh": "加蒂诺"
   },
   "Genoa": {
     "ko": "제노바",
@@ -1523,6 +1547,12 @@
     "es": "Hurgada",
     "zh": "赫尔格达"
   },
+  "Hwacheon": {
+    "ko": "화천",
+    "ja": "華川",
+    "es": "Hwacheon",
+    "zh": "华川"
+  },
   "Hyderabad": {
     "ko": "하이데라바드",
     "ja": "ハイデラバード",
@@ -1781,6 +1811,12 @@
     "es": "Kharkhorin",
     "zh": "哈拉和林"
   },
+  "Khatgal": {
+    "ko": "하트갈",
+    "ja": "ハトガル",
+    "es": "Khatgal",
+    "zh": "哈特加勒"
+  },
   "Khiva": {
     "ko": "히바",
     "ja": "ヒヴァ",
@@ -1810,6 +1846,12 @@
     "ja": "神戸",
     "es": "Kobe",
     "zh": "神户"
+  },
+  "Koblenz": {
+    "ko": "코블렌츠",
+    "ja": "コブレンツ",
+    "es": "Coblenza",
+    "zh": "科布伦茨"
   },
   "Kochi": {
     "ko": "코치",
@@ -2321,6 +2363,12 @@
     "es": "Misano Adriatico",
     "zh": "米萨诺阿德里亚蒂科"
   },
+  "Mississauga": {
+    "ko": "미시소가",
+    "ja": "ミシサガ",
+    "es": "Mississauga",
+    "zh": "密西沙加"
+  },
   "Mong Kok": {
     "ko": "몽콕",
     "ja": "モンコック",
@@ -2591,6 +2639,12 @@
     "es": "Nikko",
     "zh": "日光"
   },
+  "Ningbo": {
+    "ko": "닝보",
+    "ja": "寧波",
+    "es": "Ningbo",
+    "zh": "宁波"
+  },
   "Ninh Binh": {
     "ko": "닌빈",
     "ja": "ニンビン",
@@ -2632,6 +2686,12 @@
     "ja": "オアハカ",
     "es": "Oaxaca",
     "zh": "瓦哈卡"
+  },
+  "Oberstdorf": {
+    "ko": "오버스트도르프",
+    "ja": "オーバーストドルフ",
+    "es": "Oberstdorf",
+    "zh": "上阿尔卑斯村"
   },
   "Okayama": {
     "ko": "오카야마",
@@ -3155,6 +3215,12 @@
     "es": "San Remo",
     "zh": "圣雷莫"
   },
+  "Sant Boi de Llobregat": {
+    "ko": "산트보이데요브레가트",
+    "ja": "サン・バイ・デ・リョブレガート",
+    "es": "Sant Boi de Llobregat",
+    "zh": "略布雷加特河畔圣博伊"
+  },
   "Santa Rosa": {
     "ko": "산타로사",
     "ja": "サンタローザ",
@@ -3623,6 +3689,12 @@
     "es": "Tailandia",
     "zh": "泰国"
   },
+  "Thanh Hoa": {
+    "ko": "타인호아",
+    "ja": "タインホア",
+    "es": "Thanh Hoa",
+    "zh": "清化"
+  },
   "Tianzhong": {
     "ko": "톈중",
     "ja": "田中鎮",
@@ -3826,6 +3898,12 @@
     "ja": "バドーダラー",
     "es": "Vadodara",
     "zh": "巴罗达"
+  },
+  "Val d": {
+    "ko": "발 드",
+    "ja": "ヴァル・ド",
+    "es": "Val d'",
+    "zh": "瓦勒德"
   },
   "Valencia": {
     "ko": "발렌시아",

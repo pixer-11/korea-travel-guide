@@ -32,6 +32,10 @@ export default {
     "Uvurkhangai": {
       "tz": "Asia/Ulaanbaatar",
       "province": "Ovorkhangai"
+    },
+    "Khatgal": {
+      "tz": "Asia/Ulaanbaatar",
+      "province": "Khovsgol"
     }
   },
   "Mexico": {
@@ -42,6 +46,16 @@ export default {
     "Mazatlán": {
       "tz": "America/Mazatlan",
       "province": "Sinaloa"
+    }
+  },
+  "Canada": {
+    "Gatineau": {
+      "tz": "America/Toronto",
+      "province": "Quebec"
+    },
+    "Mississauga": {
+      "tz": "America/Toronto",
+      "province": "Ontario"
     }
   }
 };
