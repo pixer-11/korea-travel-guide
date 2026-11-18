@@ -70,13 +70,22 @@ test('checked posts go oldest check first, filename breaking the tie', () => {
 
 test('a check and a publication on the same day tie, and filename settles it', () => {
   // The cursor stores a day and pubDate carries a time; they must compare as days.
+  // The checked post is the LATER filename on purpose: compared as raw strings
+  // '2026-09-10' sorts before '2026-09-10T15:30…' and z.md would lead, so this
+  // only passes when both are reduced to a day (Codex, 2026-11-18: with a.md
+  // checked, a comparator that skipped the reduction passed all the same).
   assert.deepEqual(
     order(
-      [{ file: 'b.md', pubDate: '2026-09-10T15:30:00.000Z' }, { file: 'a.md', pubDate: '2026-07-01' }],
-      { 'a.md': '2026-09-10' },
+      [{ file: 'a.md', pubDate: '2026-09-10T15:30:00.000Z' }, { file: 'z.md', pubDate: '2026-07-01' }],
+      { 'z.md': '2026-09-10' },
     ),
-    ['a.md', 'b.md'],
+    ['a.md', 'z.md'],
   );
+});
+
+test('a quoted timestamp with an offset is read by its written day, as the alarm reads it', () => {
+  assert.equal(lastLooked({ file: 'z.md', pubDate: '2026-07-20T23:30:00-05:00' }, {}), '2026-07-20');
+  assert.equal(lastLooked({ file: 'z.md', pubDate: new Date('2026-07-20T00:00:00Z') }, {}), '2026-07-20');
 });
 
 test('same pubDate falls back to filename, and a missing pubDate is treated as oldest', () => {

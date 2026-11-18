@@ -26,10 +26,16 @@
 //  Ties break by filename, which keeps the order stable between runs.
 // ─────────────────────────────────────────────────────────────
 
+// A date → 'YYYY-MM-DD' the way validate-content's isoDay reads it: a Date by
+// its UTC day, a string by its first ten characters. Converting a quoted
+// '2026-07-20T23:30:00-05:00' to UTC would call it 07-21 here and 07-20 at the
+// alarm, and a day's disagreement is a post served one run late (Codex,
+// 2026-11-18; no such pubDate in the corpus that day).
 const day = (d) => {
   if (!d) return '';
-  const t = new Date(d);
-  return Number.isNaN(t.getTime()) ? '' : t.toISOString().slice(0, 10);
+  if (d instanceof Date) return Number.isNaN(d.getTime()) ? '' : d.toISOString().slice(0, 10);
+  const s = String(d);
+  return /^\d{4}-\d{2}-\d{2}/.test(s) && !Number.isNaN(new Date(s.slice(0, 10)).getTime()) ? s.slice(0, 10) : '';
 };
 
 /**
