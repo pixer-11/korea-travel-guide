@@ -1,11 +1,5 @@
 {
   "validate-content": {},
-  "audit-translations": {
-    "broken-syllable posts/ko/kuala-lumpur-5-seconds-of-summer-everyone-s-a-star-tour.md": {
-      "since": "2026-11-18",
-      "last": "2026-11-18",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
