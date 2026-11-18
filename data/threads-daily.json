@@ -119,27 +119,30 @@
     "hong-kong-tai-po-half-marathon",
     "gapyeong-garden-of-morning-calm",
     "fukuoka-manly",
-    "istanbul-nancy-ajram-concert"
+    "istanbul-nancy-ajram-concert",
+    "naoshima-benesse-house-museum"
   ],
-  "lastSentDay": "2026-11-18",
+  "lastSentDay": "2026-11-19",
   "material": {
-    "day": "2026-11-18",
-    "slug": "istanbul-nancy-ajram-concert",
-    "title": "Nancy Ajram Concert: Dates, Tickets & Venue (Istanbul)",
+    "day": "2026-11-19",
+    "slug": "naoshima-benesse-house-museum",
+    "title": "Benesse House Museum: Naoshima Travel Guide (4.3★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-18-istanbul-nancy-ajram-concert-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-18-istanbul-nancy-ajram-concert-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-4.jpg"
     ],
-    "igCaption": "One night before Istanbul explodes into New Year's Eve, Nancy Ajram takes the stage at Ora Arena with two decades of Arabic pop hits and a crowd that knows every word. Expect phone-light ballads, aisle dancing, and a cold walk home warmed by simit and salep.\n\n#Istanbul #Turkey #events #travel #wanderatlas #NancyAjram #OraArena #ArabicPop #TravelTurkey #ConcertTravel\n📷 Photo: Diana Farroukh / Wikimedia Commons (CC BY 2.0) (edited)",
-    "thOption": "\"Akhasmak Ah,\" \"Ya Tabtab,\" \"Inta Eih\" — which old Nancy Ajram hit do you hope makes the setlist when she plays Istanbul this December?",
-    "link": "https://wanderatlasguides.com/posts/istanbul-nancy-ajram-concert/"
+    "igCaption": "Tadao Ando carved this museum into a hillside above the Seto Inland Sea, pairing concrete walls with glass views of the islands. Just downhill, Kusama's yellow pumpkin waits at the end of a pier — and the galleries stay open until\n\n#BenesseHouseMuseum #Naoshima #Japan #travelguide #travel #wanderatlas\n📷 Photo: 663highland / Wikimedia Commons (CC BY 2.5) (edited)",
+    "thOption": "Benesse House Museum stays open 8am–9pm, way later than most Japanese museums. Would you time your visit for the quiet evening hours, after the day-trip crowds leave on the afternoon ferry?",
+    "link": "https://wanderatlasguides.com/posts/naoshima-benesse-house-museum/"
   },
   "social": {
-    "thDay": "2026-11-18",
-    "thId": "17909636007598466",
+    "thDay": "2026-11-19",
+    "thId": "18159600316468370",
     "igDay": "2026-11-18",
     "igId": "18122877934951038",
-    "thSlug": "istanbul-nancy-ajram-concert",
+    "thSlug": "naoshima-benesse-house-museum",
     "igSlug": "istanbul-nancy-ajram-concert",
     "history": [
       {
@@ -766,7 +769,17 @@
       {
         "day": "2026-11-12",
         "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
-        "thId": "17916231993590153"
+        "thId": "17916231993590153",
+        "insights": {
+          "at": "2026-11-19",
+          "th": {
+            "views": 22,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-13",
@@ -800,6 +813,11 @@
         "slug": "istanbul-nancy-ajram-concert",
         "thId": "17909636007598466",
         "igId": "18122877934951038"
+      },
+      {
+        "day": "2026-11-19",
+        "slug": "naoshima-benesse-house-museum",
+        "thId": "18159600316468370"
       }
     ]
   }
