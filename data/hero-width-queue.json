@@ -3736,7 +3736,8 @@
   "london-the-national-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG/1920px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG": 1920,
   "london-the-view-from-the-shard\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_View_From_the_Shard_%288367215057%29.jpg/1920px-The_View_From_the_Shard_%288367215057%29.jpg": 1920,
   "london-aux-pains-de-papy\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Aux_Pains_de_Papy_2026-08-22.jpg": 2692,
-  "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yunusabad_sports_complex_3.jpg/3840px-Yunusabad_sports_complex_3.jpg": 3840
+  "tashkent-boris-nikolaenov-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yunusabad_sports_complex_3.jpg/3840px-Yunusabad_sports_complex_3.jpg": 3840,
+  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3874,8 +3875,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 11,
-   "nextTry": "2026-11-18",
+   "attempts": 12,
+   "nextTry": "2026-11-25",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -3951,15 +3952,15 @@
   },
   "hong-kong-fello": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-11-18",
+   "attempts": 9,
+   "nextTry": "2026-11-25",
    "flaggedAt": "2026-09-18",
    "lastResult": "no-wider"
   },
   "hiroshima-hiroshima-botanical-garden": {
    "width": 800,
-   "attempts": 8,
-   "nextTry": "2026-11-18",
+   "attempts": 9,
+   "nextTry": "2026-11-25",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -3993,8 +3994,8 @@
   },
   "barcelona-chambacu": {
    "width": 1103,
-   "attempts": 6,
-   "nextTry": "2026-11-18",
+   "attempts": 7,
+   "nextTry": "2026-11-25",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -4256,5 +4257,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-18T16:42:12.422Z"
+ "updated": "2026-11-18T19:36:55.107Z"
 }

@@ -7361,8 +7361,8 @@
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": {
   "slug": "chamonix-grotte-de-glace",
   "verdict": "MATCH",
-  "reason": "patrol replace: Ice cave interior with LED lighting installation",
-  "at": "2026-11-16T19:36:36.755Z"
+  "reason": "patrol replace: Ice cave with glowing light installations, Chamonix",
+  "at": "2026-11-18T19:36:05.315Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG": {
   "slug": "chamonix-grotte-de-glace",
@@ -10640,6 +10640,12 @@
   "verdict": "MISMATCH",
   "reason": "release check: Close-up cup shot, not the venue itself",
   "at": "2026-08-11T04:11:53.693Z"
+ },
+ "fujairah-backyard\u0001https://fastly.4sqi.net/img/general/original/8484593_H7pysBFx7XseNy3JBPJgk6vdD16CfGEf3XfxDg-1d7M.jpg": {
+  "slug": "fujairah-backyard",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated coffee cup shot, not venue interior/exterior",
+  "at": "2026-11-18T19:36:09.228Z"
  },
  "fujairah-backyard\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Snow_in_the_backyard_in_Visby%2C_Gotland.jpg/1920px-Snow_in_the_backyard_in_Visby%2C_Gotland.jpg": {
   "slug": "fujairah-backyard",
