@@ -30,6 +30,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 51.5294257
   lng: -0.12032450000000001
+  phone: '+44 7771 613779'
+  openingHours:
+    - 'Monday: 7:00 AM – 4:00 PM'
+    - 'Tuesday: 7:00 AM – 4:00 PM'
+    - 'Wednesday: 7:00 AM – 4:00 PM'
+    - 'Thursday: 7:00 AM – 4:00 PM'
+    - 'Friday: 7:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 12:00 PM'
+    - 'Sunday: Closed'
 tags:
   - "london"
   - "bakery"
