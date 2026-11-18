@@ -14678,6 +14678,12 @@
   "reason": "publish gate: Shows Thien Mu Pagoda tower and gate, representative view",
   "at": "2026-09-08T14:26:18.651Z"
  },
+ "hue-truong-tien-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Truong_Tien_bridge_%28I%29.jpg/3840px-Truong_Tien_bridge_%28I%29.jpg": {
+  "slug": "hue-truong-tien-bridge",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear aerial view of Truong Tien Bridge over river",
+  "at": "2026-11-18T07:41:46.585Z"
+ },
  "hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue\u0001https://fastly.4sqi.net/img/general/original/974224_L-eZcyBtOOrHpQGcNlNL5mde8WV2Nr6cp8IRR4K2KbE.jpg": {
   "slug": "hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue",
   "verdict": "MATCH",
@@ -20563,6 +20569,12 @@
   "reason": "patrol reject: audit: Photo shows ATP Finals, not London venue.",
   "at": "2026-10-19T23:04:37.868Z"
  },
+ "london-aux-pains-de-papy\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Aux_Pains_de_Papy_2026-08-22.jpg": {
+  "slug": "london-aux-pains-de-papy",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior with sign, matches venue, representative hero shot",
+  "at": "2026-11-18T07:41:46.626Z"
+ },
  "london-bigbang-20th-anniversary-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/3840px-London_Tottenham_Hotspur_Stadium.jpg": {
   "slug": "london-bigbang-20th-anniversary-world-tour",
   "verdict": "MATCH",
@@ -20809,6 +20821,12 @@
   "reason": "publish gate: Street market stall with clothes and goods, representative scene",
   "at": "2026-10-08T07:47:50.995Z"
  },
+ "london-sky-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Sky_Garden.jpg/3840px-The_Sky_Garden.jpg": {
+  "slug": "london-sky-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior of Sky Garden with glass dome, plants, visitors",
+  "at": "2026-11-18T07:41:46.538Z"
+ },
  "london-taemin-liminal-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/c/c5/Taemin_at_Dream_Concert_2016_02.jpg": {
   "slug": "london-taemin-liminal-world-tour",
   "verdict": "MATCH",
@@ -20820,6 +20838,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic British Museum facade with columns and pediment",
   "at": "2026-09-30T14:17:34.898Z"
+ },
+ "london-the-national-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG/1920px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG": {
+  "slug": "london-the-national-gallery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior facade of The National Gallery, London",
+  "at": "2026-11-18T07:41:46.494Z"
+ },
+ "london-the-view-from-the-shard\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_View_From_the_Shard_%288367215057%29.jpg/1920px-The_View_From_the_Shard_%288367215057%29.jpg": {
+  "slug": "london-the-view-from-the-shard",
+  "verdict": "MATCH",
+  "reason": "publish gate: Observation deck view of London cityscape from The Shard",
+  "at": "2026-11-18T07:41:46.431Z"
  },
  "london-two-temple-place\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Two_Temple_Place_London_%282%29.jpg/3840px-Two_Temple_Place_London_%282%29.jpg": {
   "slug": "london-two-temple-place",

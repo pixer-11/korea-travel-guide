@@ -1,19 +1,4 @@
 {
- "aberdeen-ocean-park": {
-  "steps": [
-   {
-    "from": "f8d68c6b4e0f",
-    "to": "61d8816f18dc",
-    "at": "2026-10-03T21:45:53.033Z",
-    "removed": [
-     "- **Arrive at opening.** The gates open at 10:00 AM sharp, being there five minutes early gets you onto the cable car before the first wave forms.\n- **Go up, then down.** Take the cable car to the Summit first thing, tackle Hair Raiser before the queue builds, then work your way back down via the Ocean Express in the afternoon.\n- **Pay by card or mobile.** Octopus card and major mobile wallets are widely accepted at food stalls and shops inside the park, so there's little need to carry much cash.\n- **Skip the all-day queue at Panda Village.** Pandas are calmest and least visited right after opening or in the last hour before close.\n- **Eat outside peak lunch hours.** Aim for an earlier or later lunch to avoid the midday rush inside the park; grabbing lunch at 11:30 AM or after 2 PM saves real time.\n- **The rookie mistake**: trying to do both levels via the same connector both ways. Locals loop it (cable car up, funicular down (or vice versa)), so you're not backtracking through the same queue twice."
-    ],
-    "added": [
-     "- **Arrive at opening.** The gates open at 10:00 AM sharp, being there five minutes early gets you onto the cable car before the first wave forms.\n- **Go up, then down.** Take the cable car to the Summit first thing, tackle Hair Raiser before the queue builds, then work your way back down via the Ocean Express in the afternoon.\n- **Pay by card or mobile.** Octopus card and major mobile wallets are widely accepted at food stalls and shops inside the park, so there's little need to carry much cash.\n- **Skip the all-day queue at Panda Village.** Pandas are calmest and least visited right after opening or in the last hour before close.\n- **Eat outside peak lunch hours.** Aim for an earlier or later lunch to avoid the midday rush inside the park.\n- **The rookie mistake**: trying to do both levels via the same connector both ways. Locals loop it (cable car up, funicular down (or vice versa)), so you're not backtracking through the same queue twice."
-    ]
-   }
-  ]
- },
  "abu-dhabi-andrea-bocelli-yasalam-classics": {
   "steps": [
    {
@@ -210,19 +195,6 @@
  "abu-dhabi-khalifa-park": {
   "steps": [
    {
-    "from": "bed4a163fd3c",
-    "to": "ad3d41299134",
-    "at": "2026-10-03T21:46:11.748Z",
-    "removed": [
-     "Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before families arrive for evening barbecues. If you're weekend-only, that early slot is your best bet for space to yourself.",
-     "- **Time it right**: aim for the weekend 10–11am window, or slip in near closing on a weekday, to skip the peak evening rush\n- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food, as nothing is sold on-site for grilling\n- **Cash and small notes help**: informal vendors and parking attendants often prefer cash over card\n- **Dress for shade-hopping**: the paths are landscaped but exposed in parts, so a hat matters more than you'd think between April and October\n- **Skip the car if you can carpool**: weekend evening parking is the single biggest bottleneck, especially Thursday to Saturday nights\n- **Don't rush the museum**: it's small enough that groups tend to breeze through it, but the pearl-diving exhibits reward a slower pace"
-    ],
-    "added": [
-     "Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the afternoon crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself.",
-     "- **Time it right**: aim for the weekend 10–11am window, or slip in near closing on a weekday, to skip the peak evening rush\n- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food\n- **Cash and small notes help**: informal vendors and parking attendants often prefer cash over card\n- **Dress for shade-hopping**: the paths are landscaped but exposed in parts, so a hat matters more than you'd think between April and October\n- **Skip the car if you can carpool**: weekend evening parking is the single biggest bottleneck, especially Thursday to Saturday nights\n- **Don't rush the museum**: it's small enough that groups tend to breeze through it, but the pearl-diving exhibits reward a slower pace"
-    ]
-   },
-   {
     "from": "ad3d41299134",
     "to": "bbbf20d2e46b",
     "at": "2026-10-17T20:56:29.531Z",
@@ -318,17 +290,6 @@
  },
  "abu-dhabi-louvre-abu-dhabi": {
   "steps": [
-   {
-    "from": "410a75fe9e82",
-    "to": "b030f50e86e0",
-    "at": "2026-10-03T21:46:27.090Z",
-    "removed": [
-     "Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right at 10am on a Saturday or Sunday, as soon as the doors open."
-    ],
-    "added": [
-     "Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right as the doors open on a Saturday or Sunday."
-    ]
-   },
    {
     "from": "b030f50e86e0",
     "to": "70800fe0d100",
@@ -754,17 +715,6 @@
  },
  "alishan-fenqihu-old-street": {
   "steps": [
-   {
-    "from": "f6ecbcd0f99f",
-    "to": "3ed6700453c7",
-    "at": "2026-10-03T21:46:35.126Z",
-    "removed": [
-     "The train slows before you see the town, a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, a old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice."
-    ],
-    "added": [
-     "The train slows before you see the town, a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, an old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice."
-    ]
-   },
    {
     "from": "3ed6700453c7",
     "to": "66c128a5893c",
@@ -1359,17 +1309,6 @@
  "avignon-jardin-des-doms": {
   "steps": [
    {
-    "from": "6ec8b90439b6",
-    "to": "9c3d8873fd6b",
-    "at": "2026-10-03T21:46:43.775Z",
-    "removed": [
-     "The garden opens at 7:30am and stays open until 10pm every day, which makes early morning and evening the two best windows. Weekends are calmest between 8am and 10pm generally, but the stretch from noon to 8pm draws the heaviest crowds, especially in summer."
-    ],
-    "added": [
-     "The garden opens at 7:30am and stays open until 10pm every day, which makes early morning and evening the two best windows. Weekends are busier throughout the day, with the stretch from noon to 8pm drawing the heaviest crowds, especially in summer."
-    ]
-   },
-   {
     "from": "9c3d8873fd6b",
     "to": "9270d82be6b0",
     "at": "2026-10-24T21:12:36.494Z",
@@ -1520,53 +1459,6 @@
     "added": [
      "MassKara is Bacolod's \"Festival of Smiles,\" a month-long civic celebration built around masked street dancing. The 2026 edition was set for October 1-25, with street and arena dance competitions held within that period. The programme put closing ceremonies on October 25.",
      "On dance competition days, the best free sidewalk spots along the parade route typically fill well before the troupes start moving. Street vendors sell food and drinks along the route, and cash is the default payment at street stalls."
-    ]
-   }
-  ]
- },
- "baguio-baguio-botanical-garden": {
-  "steps": [
-   {
-    "from": "e50c8faaed63",
-    "to": "ce6d2d557eae",
-    "at": "2026-10-03T21:46:55.614Z",
-    "removed": [
-     "The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm all day, from opening to close."
-    ],
-    "added": [
-     "The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm from opening to close."
-    ]
-   }
-  ]
- },
- "baguio-bencab-museum": {
-  "steps": [
-   {
-    "from": "76175f0dfa97",
-    "to": "f5a70561d580",
-    "at": "2026-10-03T21:47:06.126Z",
-    "removed": [
-     "This is the museum of Benedicto \"BenCab\" Cabrera, one of the most significant painters the Philippines has produced. He built it not just to house his own work but to give the Cordillera region's art and material culture a permanent home.",
-     "You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases, his famous \"Sabel\" figures recur throughout, a recurring hunched, shawled woman he's painted for decades."
-    ],
-    "added": [
-     "This is the museum of Benedicto \"BenCab\" Cabrera, one of the most significant painters the Philippines has produced. He built it to house his own work and to give the Cordillera region's art and material culture a permanent home.",
-     "You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases, including his famous \"Sabel\" figures, a hunched, shawled woman he's painted for decades."
-    ]
-   }
-  ]
- },
- "baguio-tam-awan-village": {
-  "steps": [
-   {
-    "from": "77d7cfa09aa3",
-    "to": "7a8b1d9bb018",
-    "at": "2026-10-03T21:47:15.164Z",
-    "removed": [
-     "- Ifugao and Kalinga-style bahay kubo huts, some open to walk through\n- A cave-like gallery space showing work by Baguio's Cordillera artists\n- Cafe Sabel, tucked among the huts, serving coffee and simple Filipino meals\n- Open viewpoints looking out over pine-covered ridges toward the South China Sea on clear days\n- A small art shop selling woodcarvings, weavings, and paintings from local artists"
-    ],
-    "added": [
-     "- Ifugao and Kalinga-style bahay kubo huts, some open to walk through\n- A cave-like gallery space showing work by Baguio's Cordillera artists\n- Cafe Sabel, tucked among the huts, serving coffee and simple Filipino meals\n- Open viewpoints looking out over pine-covered ridges\n- A small art shop selling woodcarvings, weavings, and paintings from local artists"
     ]
    }
   ]
@@ -2247,6 +2139,51 @@
     "added": [
      "[QUICK ANSWER] King Power Mahanakhon is Bangkok's pixelated glass \"notch\" skyscraper on Naradhiwas Rajanagarindra Road in Silom, home to Thailand's highest observation deck (SkyWalk) at 1,030 feet, including a glass floor and open-air rooftop bar. Ride the BTS to Chong Nonsi station and walk straight in via the skywalk exit. Go on a clear late afternoon to catch sunset sliding into the city's night skyline — crowds are quiet on weekdays (10am–11am and 10pm–11pm) but spike hardest on weekends between 5pm and 7pm, so an early or later slot gets you more elbow room at the glass.",
      "[FAQ 3] Q: When is the quietest time to visit? A: The tower is busy on weekdays 12pm–2pm and 5pm–8pm, but weekends between 5pm and 7pm are the peak crush. Go on a weekday, or early/late in the day, for more breathing room at the glass floor and railings."
+    ]
+   }
+  ]
+ },
+ "bangkok-my-chemical-romance-bangkok": {
+  "steps": [
+   {
+    "from": "1ef514160148",
+    "to": "819660b58dca",
+    "at": "2026-11-18T07:52:27.211Z",
+    "removed": [
+     "[DESCRIPTION] My Chemical Romance Bangkok takes place on Tuesday, November 17, 2026, at Impact Challenger Hall in Muang Thong Thani, just north of central Bangkok.",
+     "[QUICK ANSWER] My Chemical Romance Bangkok takes place on Tuesday, November 17, 2026, at Impact Challenger Hall in Muang Thong Thani, just north of central Bangkok. Most fans reach the venue on the MRT Pink Line or by taxi, and leaving takes longer than arriving because the whole crowd heads home at once.",
+     "[FAQ 1] Q: When and where is My Chemical Romance playing in Bangkok? A: The show takes place on Tuesday, November 17, 2026, at Impact Challenger Hall, part of the IMPACT Muang Thong Thani complex in Pak Kret, Nonthaburi, just north of Bangkok.",
+     "[FAQ 2] Q: How do I get to Impact Challenger Hall by public transport? A: Take the MRT Pink Line to Muang Thong Thani station. You can reach the Pink Line from the MRT Purple Line at Khae Rai or the BTS Sukhumvit Line at Wat Phra Sri Mahathat.",
+     "[FAQ 3] Q: Where are tickets sold? A: The tour organiser publishes ticket links, zones and prices on its official channels. Unofficial resale on social media is where most ticket scams happen.",
+     "[FAQ 4] Q: How long does it take to leave after the show? A: Expect a slow exit. Thousands of people head for the Pink Line and the taxi ranks at once, and ride-hailing prices surge. Many fans eat inside the complex until the crowd thins.",
+     "Bangkok gets the Black Parade on a weeknight. My Chemical Romance headlines Impact Challenger Hall on Tuesday, November 17, 2026, and brings the theatrical stage show the band has been known for since the mid-2000s. In a city where most big tours pass through on a weekend, that date shapes everything about the night, from the trip out to the ride home.",
+     "The band formed in New Jersey in 2001 and broke up in 2013. It reunited in 2019, and the shows since then have played like a decade of backlog finally being cleared. For a Thai fanbase that grew up on *The Black Parade*, this is a headline date in its own right, not a festival slot.",
+     "The hall regularly hosts major international concerts, K-pop tours and trade fairs. The surrounding complex includes the IMPACT Arena, several exhibition halls, a lake and a run of food courts and convenience stores. Before doors, the walkways between buildings fill with fans in black eyeliner, band shirts and the odd marching-band jacket.",
+     "IMPACT sits in Pak Kret district, Nonthaburi, about 25 km north of Sukhumvit. It is closer to Don Mueang Airport than to the old city. Your main options:",
+     "A Tuesday show means the trip out overlaps with Bangkok's rush hour. Fans coming from the centre typically leave in the mid-afternoon, or take the train the whole way to dodge the traffic.",
+     "The tour organiser publishes the date, venue and ticket links for the Bangkok show on its official channels. Ticket tiers, seating plans and entry rules come from that source too. Resale listings on social media are where Thai fans most often report getting scammed, and the organiser's own outlet is the only reliable place to buy.",
+     "No ticket prices are given here. The organiser's ticket page carries the current price for each zone.",
+     "- **Queues form long before doors.** Fans with standing tickets often arrive many hours early to get close to the barrier. Merch lines start early in the day as well.\n- **Pay with your phone.** Food stalls and convenience stores at IMPACT take Thai QR payment (PromptPay). Small cash notes cover any stall that doesn't.\n- **Bags get checked.** Large concert halls in Thailand run security checks at the entrance, so fans travel light. Small bags get through faster.\n- **Sing loud, push less.** Local crowds tend to hold their spot instead of surging. Shoving toward the front draws looks.\n- **The exit crush is real.** When the show ends, thousands of people head for the Pink Line and the taxi ranks at the same moment. Ride-hailing prices surge, so many fans eat nearby or wait inside the complex until the rush thins.",
+     "November is the start of Bangkok's cool, dry season, which makes the evening queue outdoors far more bearable than in April. Inside a packed hall it will still feel warm, so attendees tend to dress for heat rather than for the poster.",
+     "The Novotel Bangkok Impact is inside the complex, a short walk from the halls. For out-of-town fans it removes the late-night trip back entirely. Other hotels line Chaeng Watthana Road and the Muang Thong Thani area, and that area has the shortest journey to Don Mueang Airport if you're flying out the next morning."
+    ],
+    "added": [
+     "[DESCRIPTION] My Chemical Romance was set to play Impact Challenger Hall in Muang Thong Thani, just north of central Bangkok, on Tuesday, November 17, 2026.",
+     "[QUICK ANSWER] My Chemical Romance Bangkok was set for Tuesday, November 17, 2026, at Impact Challenger Hall in Muang Thong Thani, just north of central Bangkok. The MRT Pink Line and taxis are the main ways to reach the venue, and leaving a big show here usually takes longer than arriving because the whole crowd heads home at once.",
+     "[FAQ 1] Q: When and where is My Chemical Romance playing in Bangkok? A: The show was set for Tuesday, November 17, 2026, at Impact Challenger Hall, part of the IMPACT Muang Thong Thani complex in Pak Kret, Nonthaburi, just north of Bangkok.",
+     "[FAQ 2] Q: How do I get to Impact Challenger Hall by public transport? A: The MRT Pink Line stops at Muang Thong Thani station. The Pink Line connects with the MRT Purple Line at Khae Rai and with the BTS Sukhumvit Line at Wat Phra Sri Mahathat.",
+     "[FAQ 3] Q: Where are tickets sold? A: Tickets were sold through the tour organiser, which set the ticket zones and prices. Unofficial resale on social media is where most ticket scams in Thailand happen.",
+     "[FAQ 4] Q: How long does it take to leave after the show? A: Exits from big shows at IMPACT are usually slow. Thousands of people head for the Pink Line and the taxi ranks at once, and ride-hailing prices surge. Many concertgoers eat inside the complex until the crowd thins.",
+     "Bangkok's Black Parade date fell on a weeknight. My Chemical Romance was set to headline Impact Challenger Hall on Tuesday, November 17, 2026, with the theatrical stage show the band has been known for since the mid-2000s. In a city where most big tours pass through on a weekend, a Tuesday date changes everything about a concert night, from the trip out to the ride home.",
+     "The band formed in New Jersey in 2001 and broke up in 2013. It reunited in 2019, and the shows since then have played like a decade of backlog finally being cleared. For a Thai fanbase that grew up on *The Black Parade*, this was billed as a headline date in its own right, not a festival slot.",
+     "The hall regularly hosts major international concerts, K-pop tours and trade fairs. The surrounding complex includes the IMPACT Arena, several exhibition halls, a lake and a run of food courts and convenience stores. On rock nights, the walkways between buildings typically fill with black eyeliner, band shirts and the odd marching-band jacket well before doors.",
+     "IMPACT sits in Pak Kret district, Nonthaburi, about 25 km north of Sukhumvit. It is nearer to Don Mueang Airport than to the old city. The main options:",
+     "A Tuesday show meant the trip out overlapped with Bangkok's rush hour. For weekday concerts, fans coming from the centre typically leave in the mid-afternoon, or take the train the whole way to dodge the traffic.",
+     "Tickets for the Bangkok show were sold through the tour organiser, which also set the ticket tiers, seating plans and entry rules. Resale listings on social media are where Thai fans most often report getting scammed, and the organiser's own outlet was the only reliable place to buy.",
+     "Ticket prices were set per zone.",
+     "- **Queues form long before doors.** Fans with standing tickets often arrive many hours early to get close to the barrier. Merch lines usually start early in the day as well.\n- **Pay with your phone.** Food stalls and convenience stores at IMPACT take Thai QR payment (PromptPay). Small cash notes cover any stall that doesn't.\n- **Bags get checked.** Large concert halls in Thailand run security checks at the entrance, so fans travel light. Small bags get through faster.\n- **Sing loud, push less.** Local crowds tend to hold their spot instead of surging. Shoving toward the front draws looks.\n- **The exit crush is real.** When a show ends, thousands of people head for the Pink Line and the taxi ranks at the same moment. Ride-hailing prices surge, so many fans eat nearby or wait inside the complex until the rush thins.",
+     "November is the start of Bangkok's cool, dry season, which makes an evening queue outdoors far more bearable than in April. Inside a packed hall it still feels warm, so concertgoers tend to dress for heat rather than for the poster.",
+     "The Novotel Bangkok Impact is inside the complex, a short walk from the halls. For out-of-town fans it removes the late-night trip back entirely. Other hotels line Chaeng Watthana Road and the Muang Thong Thani area, and that area has the shortest journey to Don Mueang Airport for anyone flying out the next morning."
     ]
    }
   ]
@@ -5241,19 +5178,6 @@
  "bugis-supertree-grove": {
   "steps": [
    {
-    "from": "c9f4ad2605f7",
-    "to": "9373022113b1",
-    "at": "2026-10-03T21:47:27.213Z",
-    "removed": [
-     "- **OCBC Skyway**, a suspended walkway between two Supertrees, roughly 22 metres up, with panoramic views over Marina Bay (small admission fee).\n- **Garden Rhapsody**, the free light-and-sound show, nightly at 7:45pm and 8:45pm, projected across the Supertree canopies.\n- **Cloud Forest and Flower Dome**, the two cooled conservatories nearby, ticketed separately, worth combining if you have a couple of hours to spare.",
-     "- **Time it right.** Arrive by 7pm to stake out grass near the sound towers before the show fills in.\n- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks, cash is rarely used at all in Singapore now.\n- **Don't queue at the main gate.** Enter from the Bayfront MRT side rather than looping around from Marina Bay Sands; it's a shorter, shadier approach.\n- **Bring a light layer.** The outdoor grove is humid, but sitting still on the lawn after sunset can feel surprisingly breezy.\n- **The rookie mistake:** treating Garden Rhapsody as the only reason to visit, then leaving immediately after. Stick around. The paths are far calmer once the show crowd disperses, and the lit canopy above is worth a slower walk."
-    ],
-    "added": [
-     "- **OCBC Skyway**, a suspended walkway between two Supertrees, roughly 22 metres up, with panoramic views over Marina Bay (small admission fee).\n- **Garden Rhapsody**, the free light-and-sound show, held each evening, projected across the Supertree canopies.\n- **Cloud Forest and Flower Dome**, the two cooled conservatories nearby, ticketed separately, worth combining if you have a couple of hours to spare.",
-     "- **Time it right.** Arrive by 7pm to stake out grass near the sound towers before the show fills in.\n- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks.\n- **Don't queue at the main gate.** Enter from the Bayfront MRT side rather than looping around from Marina Bay Sands; it's a shorter, shadier approach.\n- **Bring a light layer.** The outdoor grove is humid, but sitting still on the lawn after sunset can feel surprisingly breezy.\n- **The rookie mistake:** treating Garden Rhapsody as the only reason to visit, then leaving immediately after. Stick around. The paths are far calmer once the show crowd disperses, and the lit canopy above is worth a slower walk."
-    ]
-   },
-   {
     "from": "9373022113b1",
     "to": "530b516ab846",
     "at": "2026-10-24T21:17:38.366Z",
@@ -5503,17 +5427,6 @@
  "bursa-green-tomb": {
   "steps": [
    {
-    "from": "670ce4086b2d",
-    "to": "6dc284c2936a",
-    "at": "2026-10-03T21:47:38.417Z",
-    "removed": [
-     "- The exterior tiles are actually a 19th-century restoration. The originals faded and were replaced\n- The interior tilework is largely original 15th-century work\n- The mihrab is the single most photographed detail inside"
-    ],
-    "added": [
-     "- The exterior tiles are the turquoise-green cladding that gives the tomb its name\n- The interior tilework is largely original 15th-century work\n- The mihrab is the single most photographed detail inside"
-    ]
-   },
-   {
     "from": "6dc284c2936a",
     "to": "6770b3ff9075",
     "at": "2026-11-02T18:30:22.802Z",
@@ -5543,17 +5456,6 @@
  },
  "bursa-tophane-clock-tower": {
   "steps": [
-   {
-    "from": "2a5af591b54a",
-    "to": "2ba5ee1f3508",
-    "at": "2026-10-03T21:47:47.223Z",
-    "removed": [
-     "The tower itself is a slim, 15-meter neoclassical column, rebuilt in 1905 after an earlier version burned down. Cream-colored stone, a clock face on each side, a small onion-domed cap, it photographs cleanly against the sky."
-    ],
-    "added": [
-     "The tower itself is a slim, 15-meter neoclassical column. Cream-colored stone, a clock face on each side, a small onion-domed cap, it photographs cleanly against the sky."
-    ]
-   },
    {
     "from": "2ba5ee1f3508",
     "to": "6f4c4de07a00",
@@ -6075,17 +5977,6 @@
  "cameron-highlands-cactus-valley": {
   "steps": [
    {
-    "from": "ecd3278eaafc",
-    "to": "ac3ca28ffcbf",
-    "at": "2026-10-03T21:47:56.348Z",
-    "removed": [
-     "- Arrive between 8am and 10am to beat both the heat haze and the tour groups.\n- Wear closed shoes with grip; the terraced paths get slick after overnight mist or rain.\n- Bring small cash notes for the fruit and plant stalls, card machines aren't reliable this far up the hill.\n- If you want to buy a cactus to take home, check your country's plant import rules first; some varieties can't cross borders.\n- Treat it as one stop on a loop with the nearby Big Red Strawberry Farm and Brinchang's night market rather than a half-day destination on its own.\n- Photograph the terraces from the lower path looking up, it captures the layered effect better than shots taken from the top down."
-    ],
-    "added": [
-     "- Arrive between 8am and 10am to beat both the heat haze and the tour groups.\n- Wear closed shoes with grip; the terraced paths get slick after overnight mist or rain.\n- Bring small cash notes for the fruit and plant stalls; card machines aren't reliable this far up the hill.\n- If you want to buy a cactus to take home, check your country's plant import rules first; some varieties can't cross borders.\n- Treat it as one stop on a loop with the nearby Big Red Strawberry Farm and Brinchang's night market rather than a half-day destination on its own.\n- Photograph the terraces from the lower path looking up, it captures the layered effect better than shots taken from the top down."
-    ]
-   },
-   {
     "from": "ac3ca28ffcbf",
     "to": "6886d656f473",
     "at": "2026-10-24T21:19:06.613Z",
@@ -6366,17 +6257,6 @@
  "causeway-bay-tin-hau-temple-causeway-bay": {
   "steps": [
    {
-    "from": "5082038e1db0",
-    "to": "97a52842275b",
-    "at": "2026-10-03T21:48:10.815Z",
-    "removed": [
-     "Weekends get busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am."
-    ],
-    "added": [
-     "The temple gets busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am."
-    ]
-   },
-   {
     "from": "97a52842275b",
     "to": "eaf8bde4cfab",
     "at": "2026-10-17T21:07:46.631Z",
@@ -6422,17 +6302,6 @@
  "central-central-mid-levels-escalators": {
   "steps": [
    {
-    "from": "15797ce5f319",
-    "to": "e6bf45ded385",
-    "at": "2026-10-03T21:48:19.581Z",
-    "removed": [
-     "Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Both weekdays and weekends stay noticeably calmer from around 7am to 11pm outside that window."
-    ],
-    "added": [
-     "Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Outside that window, both weekdays and weekends stay noticeably calmer."
-    ]
-   },
-   {
     "from": "e6bf45ded385",
     "to": "3ad8fe10d7f9",
     "at": "2026-10-17T21:07:55.214Z",
@@ -6471,21 +6340,6 @@
     ],
     "added": [
      "[FAQ 1] Q: What are the best hours to avoid crowds at Cupping Room? A: Go on a weekday between 8am and 9am, right after opening — that's the quietest window in the forecast. Weekend afternoons from noon to 5pm are the busiest, so avoid arriving then if you want a table without waiting."
-    ]
-   }
-  ]
- },
- "central-hong-kong-zoological-and-botanical-gardens": {
-  "steps": [
-   {
-    "from": "d4cc8e0d9837",
-    "to": "272c9800ed78",
-    "at": "2026-10-03T21:48:28.044Z",
-    "removed": [
-     "Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen, who reportedly used to walk these grounds as a student."
-    ],
-    "added": [
-     "Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen."
     ]
    }
   ]
@@ -6679,17 +6533,6 @@
  },
  "chennai-snow-kingdom": {
   "steps": [
-   {
-    "from": "e03375cda396",
-    "to": "d09f804218cf",
-    "at": "2026-10-03T21:48:47.539Z",
-    "removed": [
-     "Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily and peak between 12pm and 7pm, with long queues for jackets, boots, and the sled slope."
-    ],
-    "added": [
-     "Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily from 12pm, peaking around 7pm, with long queues for jackets, boots, and the sled slope."
-    ]
-   },
    {
     "from": "d09f804218cf",
     "to": "ebda6536ffaa",
@@ -6886,34 +6729,8 @@
    }
   ]
  },
- "chiayi-chiayi-park": {
-  "steps": [
-   {
-    "from": "4da6a2bca73a",
-    "to": "e736ee15fa07",
-    "at": "2026-10-03T21:48:56.285Z",
-    "removed": [
-     "- **Chiayi Confucius Temple**, a red-and-gold complex with quiet courtyards, incense smoke curling near the entrance\n- **Sun Shooting Tower** (射日塔), a striking modern tower with an observation deck overlooking the treetops\n- **Historic shrine ruins**, stone torii-style gates and lantern bases from the Japanese colonial period\n- **Ponds and arched bridges**, koi drifting under red-lacquered footbridges, especially photogenic near midday light\n- **Playground and open lawns**, swings, slides, and shaded seating for families"
-    ],
-    "added": [
-     "- **Chiayi Confucius Temple**, a red-and-gold complex with quiet courtyards, incense smoke curling near the entrance\n- **Sun Shooting Tower**, a striking modern tower with an observation deck overlooking the treetops\n- **Historic shrine ruins**, stone torii-style gates and lantern bases from the Japanese colonial period\n- **Ponds and arched bridges**, koi drifting under red-lacquered footbridges, especially photogenic near midday light\n- **Playground and open lawns**, swings, slides, and shaded seating for families"
-    ]
-   }
-  ]
- },
  "chiayi-hinoki-village": {
   "steps": [
-   {
-    "from": "388f5e6bd25e",
-    "to": "f996381bee11",
-    "at": "2026-10-03T21:49:04.608Z",
-    "removed": [
-     "- Go on a weekday between 10am and noon, the measured quiet window, before groups arrive\n- If a weekend is your only option, be at the gate at opening or wait until after 5pm\n- Payment at most shops and cafés is by card or mobile pay, though smaller craft stalls sometimes prefer cash, carry a little just in case\n- No tipping expected anywhere in Taiwan, including here\n- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes\n- The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast"
-    ],
-    "added": [
-     "- Go on a weekday between 10am and noon, the measured quiet window, before groups arrive\n- If a weekend is your only option, be at the gate at opening or wait until after 5pm\n- It's worth carrying a little cash alongside the usual cards or mobile pay, just in case\n- No tipping expected anywhere in Taiwan, including here\n- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes\n- The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast"
-    ]
-   },
    {
     "from": "f996381bee11",
     "to": "16df0c10cf06",
@@ -7536,21 +7353,6 @@
    }
   ]
  },
- "clarke-quay-artscience-museum": {
-  "steps": [
-   {
-    "from": "d39e1c64bca5",
-    "to": "26f4ed2cbd65",
-    "at": "2026-10-03T21:49:30.626Z",
-    "removed": [
-     "Give yourself two to three hours to see two exhibitions properly. Tickets are usually sold per exhibition or as a combo, so decide before you queue whether you want one show or several."
-    ],
-    "added": [
-     "Give yourself two to three hours to see two exhibitions properly. Tickets are usually sold per exhibition or as a combo, so decide before you queue how many exhibitions you plan to see."
-    ]
-   }
-  ]
- },
  "clarke-quay-tan-si-chong-su-temple": {
   "steps": [
    {
@@ -7789,21 +7591,6 @@
      "Runners usually keep the Kölsch for after the finish. Brewery pubs around the Altstadt, such as Früh am Dom near the Cathedral, are usually packed on 11.11. Runners often celebrate in their own neighbourhood instead.",
      "For tired legs, the Rheinauhafen to the south is calmer. The Chocolate Museum sits there on a peninsula, a short walk along the riverside promenade. The Altstadt itself, between the Heumarkt and Alter Markt, is the place for watching carnival rather than escaping it.",
      "On this date, the city's celebration usually lasts far longer than any race, and many visitors stay out to see it."
-    ]
-   }
-  ]
- },
- "cordoba-torre-de-la-calahorra": {
-  "steps": [
-   {
-    "from": "2e0f9fcbe307",
-    "to": "41887618b790",
-    "at": "2026-10-03T21:49:45.360Z",
-    "removed": [
-     "- Go in the 7–8pm slot, the last hour of opening, when both weekday and weekend traffic drops off\n- Rent the included audio guide. The waxwork rooms have minimal posted text and make far more sense narrated\n- Wear flat shoes; the spiral stairwell is narrow, uneven, and has no elevator\n- Pay by card or cash at the door; there's rarely a long ticket line, so pre-booking isn't essential\n- Cross the Roman Bridge slowly on your way there. It's part of the experience, not just the approach\n- Don't confuse this with the Alcázar de los Reyes Cristianos on the other bank; they're separate sites with separate tickets"
-    ],
-    "added": [
-     "- Go in the 7–8pm slot, the last hour of opening, when both weekday and weekend traffic drops off\n- Rent the included audio guide. The waxwork rooms have minimal posted text and make far more sense narrated\n- Wear flat shoes; the spiral stairwell is narrow, uneven, and has no elevator\n- Cross the Roman Bridge slowly on your way there. It's part of the experience, not just the approach\n- Don't confuse this with the Alcázar de los Reyes Cristianos on the other bank; they're separate sites with separate tickets"
     ]
    }
   ]
@@ -8067,21 +7854,6 @@
    }
   ]
  },
- "daegu-daegu-national-museum": {
-  "steps": [
-   {
-    "from": "f793708cd504",
-    "to": "f62465202f0b",
-    "at": "2026-10-03T21:49:54.159Z",
-    "removed": [
-     "Budget 90 minutes for a solid pass through the main halls, or two hours if you linger in the outdoor pagoda garden."
-    ],
-    "added": [
-     "Give yourself enough time to move through the main halls at an unhurried pace, and longer still if you linger in the outdoor pagoda garden."
-    ]
-   }
-  ]
- },
  "daegu-day6-the-decade-concert-daegu": {
   "steps": [
    {
@@ -8283,17 +8055,6 @@
  "deira-abra-dubai": {
   "steps": [
    {
-    "from": "bddfd30db8d0",
-    "to": "527af96279a7",
-    "at": "2026-10-03T21:50:02.770Z",
-    "removed": [
-     "- Fare: a flat token amount, roughly AED 1, paid in cash to the boatman or via a token booth at some docks\n- Duration: 5–10 minutes one way\n- Best seat: middle bench, away from the motor's diesel smell, for the clearest photos of the creek"
-    ],
-    "added": [
-     "- Fare: a small, nominal amount, paid in cash to the boatman or via a token booth at some docks\n- Duration: 5–10 minutes one way\n- Best seat: middle bench, away from the motor's diesel smell, for the clearest photos of the creek"
-    ]
-   },
-   {
     "from": "527af96279a7",
     "to": "e62fe86766ba",
     "at": "2026-10-24T21:24:47.947Z",
@@ -8308,17 +8069,6 @@
  },
  "dempsey-hill-pasar-geylang-serai": {
   "steps": [
-   {
-    "from": "ea6d488de505",
-    "to": "1384748c56bc",
-    "at": "2026-10-03T21:50:12.030Z",
-    "removed": [
-     "Arrive early, by 8am the fishmongers have the best selection and the hawker stalls are freshly cooked, not sitting under heat lamps."
-    ],
-    "added": [
-     "Arrive early, when the hawker stalls are freshly cooked, not sitting under heat lamps."
-    ]
-   },
    {
     "from": "1384748c56bc",
     "to": "29f414f2208d",
@@ -8345,19 +8095,6 @@
  },
  "dempsey-hill-singapore-botanic-gardens": {
   "steps": [
-   {
-    "from": "a823fa44d209",
-    "to": "f2f20d29aab4",
-    "at": "2026-10-03T21:50:23.227Z",
-    "removed": [
-     "Look for:\n- The Sundial Garden's open lawns, good for a breather\n- Tembusu tree near the Music Garden, its low, gnarled branch is the one on the old Singapore $5 note\n- Bandstand, a Victorian-era gazebo on a small hill\n- Ginger Garden, thick with heliconias and torch ginger",
-     "## What to eat and where to unwind"
-    ],
-    "added": [
-     "Look for:\n- The Sundial Garden's open lawns, good for a breather\n- Tembusu tree near the Music Garden, with a low, gnarled branch that's a popular photo spot\n- Bandstand, a Victorian-era gazebo on a small hill\n- Ginger Garden, thick with heliconias and torch ginger",
-     "## What to eat and where to rest"
-    ]
-   },
    {
     "from": "f2f20d29aab4",
     "to": "04dc5f109ff5",
@@ -8849,21 +8586,6 @@
    }
   ]
  },
- "dumaguete-silliman-hall": {
-  "steps": [
-   {
-    "from": "3c247150d53a",
-    "to": "dfc94177a9e5",
-    "at": "2026-10-03T21:50:32.179Z",
-    "removed": [
-     "The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely. The 200 BCE material is easy to walk past if you're moving fast."
-    ],
-    "added": [
-     "The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely. The oldest material is easy to walk past if you're moving fast."
-    ]
-   }
-  ]
- },
  "dusseldorf-japanese-garden": {
   "steps": [
    {
@@ -8983,17 +8705,6 @@
  "el-nido-taraw-cliff": {
   "steps": [
    {
-    "from": "e5231dd78e05",
-    "to": "646124ece05d",
-    "at": "2026-10-03T21:50:41.622Z",
-    "removed": [
-     "Weekend afternoons between 4pm and 11pm are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
-    ],
-    "added": [
-     "Weekend afternoons are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
-    ]
-   },
-   {
     "from": "646124ece05d",
     "to": "19e2b3ee8085",
     "at": "2026-11-14T18:43:29.606Z",
@@ -9002,36 +8713,6 @@
     ],
     "added": [
      "Weekend evenings are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
-    ]
-   }
-  ]
- },
- "fethiye-ancient-city-of-telmessos": {
-  "steps": [
-   {
-    "from": "248c1c0138eb",
-    "to": "bfa86e9a2301",
-    "at": "2026-10-03T21:50:58.211Z",
-    "removed": [
-     "On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm, after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably."
-    ],
-    "added": [
-     "On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm; after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably."
-    ]
-   }
-  ]
- },
- "fethiye-gemiler-island": {
-  "steps": [
-   {
-    "from": "d15dd9ac0b71",
-    "to": "f0db47ff7ec4",
-    "at": "2026-10-03T21:51:06.861Z",
-    "removed": [
-     "- Wear closed-toe shoes; the path is uneven stone, not sandals-friendly\n- Bring cash for a boat captain's tip and any drinks sold dockside\n- Pack your own water and a hat. There's no café or shade at the summit\n- Combine it with a swim stop in the bay, since most boats anchor for exactly that\n- Ask your boat operator upfront how long you'll get on the island, some trips only allow 45 minutes"
-    ],
-    "added": [
-     "- Wear closed-toe shoes; the path is uneven stone, not sandals-friendly\n- Bring cash for a boat captain's tip and any drinks sold dockside\n- Pack your own water and a hat. There's no café or shade at the summit\n- Combine it with a swim stop in the bay, since most boats anchor for exactly that\n- Ask your boat operator upfront how long you'll get on the island, since the time ashore varies from trip to trip"
     ]
    }
   ]
@@ -9437,21 +9118,6 @@
    }
   ]
  },
- "fujairah-fujairah-museum": {
-  "steps": [
-   {
-    "from": "7ed6eb2196c6",
-    "to": "b912e97ae313",
-    "at": "2026-10-03T21:51:16.752Z",
-    "removed": [
-     "- Pair it with Fujairah Fort next door; buying into the combined heritage-site rhythm of the area saves backtracking\n- Go on a weekday morning if you want the galleries essentially to yourself\n- Wear comfortable shoes for the fort visit that usually bookends this stop, since that site involves uneven stone underfoot\n- Bring small cash for the entry fee, since card readers aren't always reliable at smaller Fujairah heritage sites\n- Don't rush the excavation-site display panels; they're the part that explains why the rest of the emirate looks the way it does"
-    ],
-    "added": [
-     "- Pair it with Fujairah Fort next door; buying into the combined heritage-site rhythm of the area saves backtracking\n- Go on a weekday morning if you want the galleries essentially to yourself\n- Wear comfortable shoes for the fort visit that usually bookends this stop, since that site involves uneven stone underfoot\n- Check ahead on the entry fee and accepted payment methods so you're not caught off guard\n- Don't rush the excavation-site display panels; they're the part that explains why the rest of the emirate looks the way it does"
-    ]
-   }
-  ]
- },
  "fukuoka-fukuoka-christmas-market-christmas-advent": {
   "steps": [
    {
@@ -9538,21 +9204,6 @@
      "- **The cheer:** \"Ganbatte!\" (keep going) is the standard shout, often shortened to \"Faito!\" Clapping in time and holding up handmade signs are both normal.\n- **Barriers mean it:** people stay behind the rope or railing. Crossing the road happens only at marked points, when marshals in vests wave pedestrians through.\n- **Rubbish goes home:** public bins are scarce in Japan. Spectators bring a small bag and take wrappers and bottles home.\n- **Spots near transit:** families often stand near a subway exit in the city section. Others take the train west to catch runners on the coast and again near the finish.",
      "The **Fukuoka Marathon**, held in November, is the mass-participation road race from Fukuoka City to Itoshima. It is the race for recreational runners, and the one where thousands of club runners turn out in costumes.",
      "Some people head back to Itoshima the day after, when the roads are open again. Futamigaura's wedded rocks are best at sunset, when the sun drops behind the torii into the sea. In the cooler months, oyster huts (kaki-goya) set up around the Itoshima coast, where visitors grill shellfish themselves over charcoal."
-    ]
-   }
-  ]
- },
- "fukuoka-ohori-park-japanese-garden": {
-  "steps": [
-   {
-    "from": "c2eaeb8d936c",
-    "to": "87dff2c57028",
-    "at": "2026-10-03T21:51:26.320Z",
-    "removed": [
-     "The garden is closed Mondays, and open 9am to 6pm every other day of the week. Weekends fill up between 10am and 5pm, especially when the maples or azaleas are at their peak."
-    ],
-    "added": [
-     "The garden is closed Mondays, and open 9am to 6pm every other day of the week. Weekends get busiest between 10am and 5pm, especially when the maples or azaleas are at their peak."
     ]
    }
   ]
@@ -9721,23 +9372,6 @@
    }
   ]
  },
- "genoa-royal-palace-museum": {
-  "steps": [
-   {
-    "from": "7f4218b6a736",
-    "to": "e29c5a0b27e9",
-    "at": "2026-10-03T21:52:19.469Z",
-    "removed": [
-     "The palace sits at Via Balbi, 10, in the heart of Genoa's old university quarter. Genova Piazza Principe, the city's main rail station, is a five-minute walk away.",
-     "Wednesday through Saturday, hours run 9am to 7pm, your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds building steadily from 10am through closing at 7pm."
-    ],
-    "added": [
-     "The palace sits at Via Balbi, 10, in Genoa's old university quarter. Genova Piazza Principe, the city's main rail station, is a five-minute walk away.",
-     "Wednesday through Saturday, hours run 9am to 7pm, your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds heaviest on Saturdays, since the museum is closed on Sundays."
-    ]
-   }
-  ]
- },
  "genting-highlands-chin-swee-caves-temple": {
   "steps": [
    {
@@ -9899,21 +9533,6 @@
     ],
     "added": [
      "Two hours covers the main hall at a comfortable pace. Add another 45 minutes or so if you board the Glenlee. If you're with children who find the interactive screens and the streets fascinating, three hours can go quickly."
-    ]
-   }
-  ]
- },
- "goa-goa-market": {
-  "steps": [
-   {
-    "from": "23a841e49eda",
-    "to": "5c1388e9f0e8",
-    "at": "2026-10-03T21:52:51.566Z",
-    "removed": [
-     "If you want fish, go early (the best cuts sell out by late morning. If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag) plastic bags aren't always offered."
-    ],
-    "added": [
-     "If you want fish, go early (the best cuts sell out by late morning). If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag — plastic bags aren't always offered."
     ]
    }
   ]
@@ -11066,55 +10685,6 @@
    }
   ]
  },
- "hong-kong-east-coast-boardwalk": {
-  "steps": [
-   {
-    "from": "db5eb19488b6",
-    "to": "d67cb3f79e1b",
-    "at": "2026-10-03T21:53:01.680Z",
-    "removed": [
-     "- Go at 7am if you want it close to empty; by mid-morning on weekends it's a different place entirely\n- No entry fee, no ticket, no booking, you just walk in from any of the access points along the corridor\n- Cash or card isn't relevant here since there's nothing to buy on-site; carry your own water\n- Cyclists and runners have unofficial priority on the through-path. Walk toward the harbour railing side if you're strolling with a group\n- The common mistake: expecting a polished tourist promenade with cafés and lookout signage. It's plainer than that, and better for it if you just want harbour air\n- As an under-the-radar spot, it rewards an early or off-peak visit far more than trying to \"see everything\", pick one stretch, walk it slowly, and let the harbour do the rest"
-    ],
-    "added": [
-     "- Go at 7am if you want it close to empty; by mid-morning on weekends it's a different place entirely\n- No entry fee, no ticket, no booking, you just walk in from any of the access points along the corridor\n- Cash or card isn't relevant here since there's nothing to buy on-site; carry your own water\n- Cyclists and runners have unofficial priority on the through-path. Walk toward the harbour railing side if you're strolling with a group\n- The common mistake: expecting a polished tourist promenade with cafés and lookout signage. It's plainer than that, and better for it if you just want harbour air\n- Don't try to \"see everything\" here, pick one stretch, walk it slowly, and let the harbour do the rest"
-    ]
-   }
-  ]
- },
- "hong-kong-hong-kong-museum-of-history": {
-  "steps": [
-   {
-    "from": "4517d0fcd428",
-    "to": "9386f826ac45",
-    "at": "2026-10-03T21:53:11.328Z",
-    "removed": [
-     "The centerpiece is \"The Hong Kong Story,\" a permanent exhibition spanning eight galleries and roughly 400 million years of natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense. You're not reading placards from a distance, you're standing inside the scenes.",
-     "The museum sits at 100 Chatham Road South in Tsim Sha Tsui, a short walk from Exit B2 of Tsim Sha Tsui MTR station (East Rail Line and Tsuen Wan Line both stop nearby). From the exit, it's about 10 minutes on foot, past the Science Museum, which shares the same block and pairs well with a combined visit."
-    ],
-    "added": [
-     "The centerpiece is \"The Hong Kong Story,\" a permanent exhibition spanning natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense. You're not reading placards from a distance, you're standing inside the scenes.",
-     "The museum sits at 100 Chatham Road South in Tsim Sha Tsui, a short walk from Exit B2 of Tsim Sha Tsui MTR station. From the exit, it's about 10 minutes on foot, past the Science Museum, which shares the same block and pairs well with a combined visit."
-    ]
-   }
-  ]
- },
- "hong-kong-hong-kong-park": {
-  "steps": [
-   {
-    "from": "8b1a8fe75470",
-    "to": "c2ef58e4b51b",
-    "at": "2026-10-03T21:53:21.635Z",
-    "removed": [
-     "Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to over 80 bird species. You walk through it at treetop height, which is the whole point, birds pass close enough to hear their wingbeats.",
-     "- The **Museum of Tea Ware**, housed in the former Flagstaff House, the oldest colonial building still standing in Hong Kong\n- A children's **playground** and a **squash and tennis facility** tucked into the lower section\n- The **Vantage Point**, a viewing tower with a wraparound look over the park's tree canopy and the harbor skyline beyond"
-    ],
-    "added": [
-     "Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to a variety of bird species. You walk through it at treetop height, which is the whole point, birds pass close enough to hear their wingbeats.",
-     "- The **Museum of Tea Ware**, housed in the former Flagstaff House, a colonial-era building within the park\n- A children's **playground** and a **squash and tennis facility** tucked into the lower section\n- The **Vantage Point**, a viewing tower with a wraparound look over the park's tree canopy and the harbor skyline beyond"
-    ]
-   }
-  ]
- },
  "hong-kong-hong-kong-pride-rainbow-market": {
   "steps": [
    {
@@ -11360,17 +10930,6 @@
  "hong-kong-po-lin-monastery": {
   "steps": [
    {
-    "from": "375e2c815d34",
-    "to": "024b7832640b",
-    "at": "2026-10-03T21:53:31.133Z",
-    "removed": [
-     "Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Both weekdays and weekends stay comparatively calm across the full 9am–6pm window if you avoid that midday weekend surge."
-    ],
-    "added": [
-     "Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Weekdays stay comparatively calm across the full 9am–6pm window, and weekends are calmer too if you avoid that midday surge."
-    ]
-   },
-   {
     "from": "024b7832640b",
     "to": "71d3a2b14a54",
     "at": "2026-10-11T17:44:35.768Z",
@@ -11551,38 +11110,6 @@
    }
   ]
  },
- "hsinchu-green-world-ecological-farm": {
-  "steps": [
-   {
-    "from": "c39886f3a74b",
-    "to": "46b1f4571a46",
-    "at": "2026-10-03T21:53:46.886Z",
-    "removed": [
-     "The farm sits at 大湖村尾隘子7鄰20號 in Beipu Township, Hsinchu County, well outside the city center. Most visitors arrive by car or scooter, since public transit options are limited and infrequent this far into the hills.",
-     "Weekdays are your best bet for breathing room, with the calm stretching across the whole 9am–5pm window. Weekends are a different story: crowds build steadily from 10am and stay heavy through the afternoon, especially if it's a national holiday."
-    ],
-    "added": [
-     "The farm sits in Beipu Township, Hsinchu County, well outside the city center. Most visitors arrive by car or scooter, since public transit options are limited and infrequent this far into the hills.",
-     "Weekdays are your best bet for breathing room, with calm lasting through the 9am–5pm window. Weekends are a different story: crowds build steadily from 10am and stay heavy through the afternoon, especially if it's a national holiday."
-    ]
-   }
-  ]
- },
- "hsinchu-hsinchu-zoo": {
-  "steps": [
-   {
-    "from": "fc0c935822da",
-    "to": "7a924c9e203c",
-    "at": "2026-10-03T21:53:56.184Z",
-    "removed": [
-     "The zoo sits at 食品路66號 in Hsinchu's East District, right inside Hsinchu Park."
-    ],
-    "added": [
-     "The zoo sits in Hsinchu's East District, right inside Hsinchu Park."
-    ]
-   }
-  ]
- },
  "hue-an-dinh-palace": {
   "steps": [
    {
@@ -11622,36 +11149,6 @@
     ],
     "added": [
      "Dalt Vila is still relatively under-the-radar compared to Ibiza's beach clubs, and many day-trippers never make it far past the harbour gate. That said, midday does get busier."
-    ]
-   }
-  ]
- },
- "iloilo-iloilo-city-garden-of-love": {
-  "steps": [
-   {
-    "from": "83f1b4513f9b",
-    "to": "84af2f209266",
-    "at": "2026-10-03T21:54:12.912Z",
-    "removed": [
-     "Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw local families and couples in larger numbers, so benches can fill quickly."
-    ],
-    "added": [
-     "Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw larger numbers of local families and couples, so benches can fill quickly."
-    ]
-   }
-  ]
- },
- "iloilo-national-museum-of-the-philippines-iloilo": {
-  "steps": [
-   {
-    "from": "558d6995c130",
-    "to": "19b5f9ac6686",
-    "at": "2026-10-03T21:54:22.905Z",
-    "removed": [
-     "Since it's free and low-traffic, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome."
-    ],
-    "added": [
-     "Given how quiet it usually is, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome."
     ]
    }
   ]
@@ -12610,36 +12107,6 @@
    }
   ]
  },
- "jakarta-national-museum-of-indonesia": {
-  "steps": [
-   {
-    "from": "3b935ac57a7d",
-    "to": "b65197e3af06",
-    "at": "2026-10-03T21:54:34.162Z",
-    "removed": [
-     "If you're visiting on a weekend, arrive right at opening. The 8am to 9am window is noticeably quieter. On weekdays, aim for late afternoon, closer to closing time, when the crowds have thinned out."
-    ],
-    "added": [
-     "If you're visiting on a weekend, arrive right at opening. The 8am to 9am window is noticeably quieter. On weekdays, aim for the morning as well, before crowds build toward the afternoon."
-    ]
-   }
-  ]
- },
- "jakarta-selamat-datang-monument": {
-  "steps": [
-   {
-    "from": "cb2554f556c3",
-    "to": "08a11b046f9b",
-    "at": "2026-10-03T21:54:43.780Z",
-    "removed": [
-     "Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The two 5-meter bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol, the roundabout around it, Bundaran HI, has become shorthand for the city itself."
-    ],
-    "added": [
-     "Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol, the roundabout around it, Bundaran HI, has become shorthand for the city itself."
-    ]
-   }
-  ]
- },
  "jeju-hallim-park": {
   "steps": [
    {
@@ -12757,21 +12224,6 @@
    }
   ]
  },
- "jordan-hong-kong-heritage-museum": {
-  "steps": [
-   {
-    "from": "f7910b41776a",
-    "to": "54aa576f59bf",
-    "at": "2026-10-03T21:54:53.094Z",
-    "removed": [
-     "Take the MTR from Jordan Station to Che Kung Temple Station, changing trains once en route. From there it's a flat, well-signed 5-minute walk along the river promenade."
-    ],
-    "added": [
-     "Take the MTR from Jordan Station to Che Kung Temple Station. From there it's a short walk along the river promenade."
-    ]
-   }
-  ]
- },
  "jordan-spicy-salt-hk": {
   "steps": [
    {
@@ -12826,17 +12278,6 @@
  "jumeirah-dubai-water-canal": {
   "steps": [
    {
-    "from": "9ab2c5319a64",
-    "to": "533454427878",
-    "at": "2026-10-03T21:55:05.444Z",
-    "removed": [
-     "On weekends, the canal is quietest between 7am and 3pm, ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast."
-    ],
-    "added": [
-     "Early mornings tend to be the quietest time at the canal, ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast."
-    ]
-   },
-   {
     "from": "533454427878",
     "to": "37e2a4e14080",
     "at": "2026-11-02T21:47:18.079Z",
@@ -12847,21 +12288,6 @@
     "added": [
      "[QUICK ANSWER] The Dubai Water Canal is a 3.2km artificial waterway looping through Al Safa and Jumeirah, lined with promenades, bridges, and the Dubai Water Canal Mall — free to walk anytime, since it's open 24 hours. Go early morning for the coolest air and softest light; on weekends it's calmest 7am–9am and busiest 9am–11pm. Budget 1-2 hours for a stroll, longer if you're cycling the full loop.",
      "[FAQ 3] Q: When is the quietest time to visit? A: On weekends, it's calmest between 7am and 9am. Try to avoid 9am–11pm on weekends, when it's at its busiest."
-    ]
-   }
-  ]
- },
- "jurong-jurong-lake-gardens": {
-  "steps": [
-   {
-    "from": "2521e5cb9e32",
-    "to": "da046e4f5602",
-    "at": "2026-10-03T21:55:14.318Z",
-    "removed": [
-     "The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line, either gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk."
-    ],
-    "added": [
-     "The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line, and either station gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk."
     ]
    }
   ]
@@ -12911,38 +12337,6 @@
     ],
     "added": [
      "[FAQ 3] Q: When is it least crowded? A: Traffic is quiet 7am–9am and 5pm–6pm; the clearest advice is to avoid 11am–4pm on weekends, when crowds peak."
-    ]
-   }
-  ]
- },
- "kanazawa-omicho-market": {
-  "steps": [
-   {
-    "from": "6faa4e3dbb94",
-    "to": "f637ee11e217",
-    "at": "2026-10-03T21:55:23.919Z",
-    "removed": [
-     "The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop, about 10 minutes and a couple hundred yen. Walking takes roughly 15-20 minutes if the weather's cooperating.",
-     "Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building. It's more like 170 stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start."
-    ],
-    "added": [
-     "The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop. Walking takes roughly 15-20 minutes if the weather's cooperating.",
-     "Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building. It's more a cluster of stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start."
-    ]
-   }
-  ]
- },
- "kaohsiung-post-malone-big-ass-world-tour": {
-  "steps": [
-   {
-    "from": "090b9d5d12e8",
-    "to": "12e83890c81c",
-    "at": "2026-10-03T21:55:34.825Z",
-    "removed": [
-     "The venue's local name is **高雄國家體育場** (Kaohsiung National Stadium), which is handy for directions or a taxi driver, and faster than describing it in English."
-    ],
-    "added": [
-     "The venue's full English name is Kaohsiung National Stadium, which is handy to know for directions or a taxi driver."
     ]
    }
   ]
@@ -13025,21 +12419,6 @@
    }
   ]
  },
- "katong-katong-park": {
-  "steps": [
-   {
-    "from": "d79dc599a061",
-    "to": "c75ed58dc54a",
-    "at": "2026-10-03T21:55:43.797Z",
-    "removed": [
-     "Weekday evenings after office hours tend to be calmer than weekends, though there's no hard data on the exact quiet window. Early morning light also happens to suit the old gun emplacement and rain trees best for photos, with soft shadows instead of the flat glare of midday."
-    ],
-    "added": [
-     "Weekday evenings after office hours tend to be calmer than weekends. Early morning light also happens to suit the old gun emplacement and rain trees best for photos, with soft shadows instead of the flat glare of midday."
-    ]
-   }
-  ]
- },
  "kenting-national-museum-of-marine-biology-aquarium": {
   "steps": [
    {
@@ -13057,19 +12436,6 @@
  },
  "kep-kep-national-park": {
   "steps": [
-   {
-    "from": "983a9e3ba0fb",
-    "to": "4e4bab968e07",
-    "at": "2026-10-03T21:55:53.287Z",
-    "removed": [
-     "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The measured crowd pattern backs this up: weekend visits stay lightest between 1pm and 8pm, while the busiest stretch runs from 9am to 11pm as day-trippers and evening walkers arrive.",
-     "If you're coming on a weekend, aim for that quieter afternoon window rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go."
-    ],
-    "added": [
-     "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The measured crowd pattern backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive.",
-     "If you're coming on a weekend, aim for that quieter early window rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go."
-    ]
-   },
    {
     "from": "4e4bab968e07",
     "to": "dff3e37c39d6",
@@ -13096,36 +12462,6 @@
      "[FAQ 2] Q: When is the quietest time to visit? A: On weekends, the park is calmest between 7pm and 8pm. Arrivals peak from 9am to 11am, 1pm to 2pm, 3pm to 7pm and 9pm to 11pm, so plan around those stretches if you want the trail to yourself.",
      "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The crowd forecast adds a twist: on weekends visits are lightest from 7pm to 8pm, while the busiest stretches run from 9am to 11am, 1pm to 2pm, 3pm to 7pm and 9pm to 11pm.",
      "If you're coming on a weekend, aim to start before 9am rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go."
-    ]
-   }
-  ]
- },
- "khiva-itchan-kala": {
-  "steps": [
-   {
-    "from": "3ce2a3ac992f",
-    "to": "d4a0e673e808",
-    "at": "2026-10-03T21:56:01.618Z",
-    "removed": [
-     "- **Kunya-Ark**, the khan's fortress and former seat of power, with a working watchtower view over the rooftops\n- **Tosh Hovli Palace**, carved wooden columns and tiled courtyards, once the khan's harem quarters\n- **Islom Hoja Minaret**, the tallest structure in the city, worth the climb for the view over the old town's flat roofs\n- **Juma Mosque**, dim and cool inside, held up by 213 wooden columns, some dating to the 10th century"
-    ],
-    "added": [
-     "- **Kunya-Ark**, the khan's fortress and former seat of power, with a working watchtower view over the rooftops\n- **Tosh Hovli Palace**, carved wooden columns and tiled courtyards, once the khan's harem quarters\n- **Islom Hoja Minaret**, the tallest structure in the city, worth the climb for the view over the old town's flat roofs\n- **Juma Mosque**, dim and cool inside, held up by a forest of carved wooden columns"
-    ]
-   }
-  ]
- },
- "khiva-khiva-ichan-kala": {
-  "steps": [
-   {
-    "from": "452338de59ea",
-    "to": "5761b65508cd",
-    "at": "2026-10-03T21:56:10.796Z",
-    "removed": [
-     "Give yourself unhurried time here. A single lap takes 15-20 minutes, but the sites deserve hours."
-    ],
-    "added": [
-     "Give yourself unhurried time here. The walled town is compact enough to cross on foot without much effort, but the sites deserve hours."
     ]
    }
   ]
@@ -13224,36 +12560,6 @@
    }
   ]
  },
- "kochi-fort-kochi-beach": {
-  "steps": [
-   {
-    "from": "004f6e910053",
-    "to": "141a27085998",
-    "at": "2026-10-03T21:56:18.950Z",
-    "removed": [
-     "- Watch the fishing nets in action, especially near dusk\n- Browse stalls selling shell jewelry, sunglasses, and snacks\n- Walk to the nearby Vasco da Gama Square for more net-viewing angles\n- Grab fresh-caught fish at the small stalls, cooked to order"
-    ],
-    "added": [
-     "- Watch the fishing nets in action, especially near dusk\n- Browse stalls selling shell jewelry, sunglasses, and snacks\n- Walk to the nearby Vasco da Gama Square for more net-viewing angles\n- Sample snacks from the food stalls along the promenade"
-    ]
-   }
-  ]
- },
- "kochi-mattancherry-palace": {
-  "steps": [
-   {
-    "from": "4c89fb146e6d",
-    "to": "02623b7e9988",
-    "at": "2026-10-03T21:56:30.480Z",
-    "removed": [
-     "You step off Bazaar Road into a low, laterite-walled courtyard, and the noise of Mattancherry's tuk-tuks drops away almost immediately. This isn't a palace of soaring domes or gilded gates. It's a squat, single-storey Kerala-style structure with a pitched, tiled roof, built by the Portuguese in 1555 as a peace offering to the Raja of Kochi, then renovated decades later by the Dutch, which is why most people here still call it the Dutch Palace."
-    ],
-    "added": [
-     "You step off Bazaar Road into a low, laterite-walled courtyard, and the noise of Mattancherry's tuk-tuks drops away almost immediately. This isn't a palace of soaring domes or gilded gates. It's a squat, single-storey Kerala-style structure with a pitched, tiled roof, originally built by the Portuguese and later renovated by the Dutch, which is why most people here still call it the Dutch Palace."
-    ]
-   }
-  ]
- },
  "kochi-subhash-bose-park": {
   "steps": [
    {
@@ -13265,23 +12571,6 @@
     ],
     "added": [
      "If you want breathing room, target the Sunday 11am-2pm window specifically. It's the calmest stretch of the week in the forecast, mostly because it falls before the evening rush and after the early-morning walking crowd has cleared out."
-    ]
-   }
-  ]
- },
- "kokand-palace-of-khudayar-khan": {
-  "steps": [
-   {
-    "from": "c21d19565165",
-    "to": "4f64088e5e0c",
-    "at": "2026-10-03T21:56:44.687Z",
-    "removed": [
-     "- Weekdays, 9am–11am: the quietest stretch, courtyards nearly to yourself\n- Weekend mornings, 9am–12pm: still calm, a good backup if you're only passing through on a Saturday or Sunday\n- Weekends 11am–10pm: the busiest window, local families and tour groups fill the courtyard",
-     "This is a well-kept museum, not a bustling bazaar, so the etiquette here leans quiet and unhurried. Treat it the way you would any regional history museum."
-    ],
-    "added": [
-     "- Weekdays, 9am–11am: the quietest stretch, courtyards nearly to yourself\n- Weekend mornings, 9am–12pm: still calm, a good backup if you're only passing through on a Saturday or Sunday\n- Weekends, 12pm–10pm: the busiest window, local families and tour groups fill the courtyard",
-     "This is a well-kept museum, not a busy bazaar, so the etiquette here leans quiet and unhurried. Treat it the way you would any regional history museum."
     ]
    }
   ]
@@ -13325,6 +12614,53 @@
     ],
     "added": [
      "[FAQ 3] Q: When is the quietest time to visit? A: Weekdays between 12pm and 1pm are the calmest. On weekends, crowds stay fairly steady all day (7am–7pm), with the busiest hours generally 9am to 12pm and 1pm to 6pm."
+    ]
+   }
+  ]
+ },
+ "kuala-lumpur-5-seconds-of-summer-everyone-s-a-star-tour": {
+  "steps": [
+   {
+    "from": "37b62c3f4088",
+    "to": "93d2c11f7d90",
+    "at": "2026-11-18T07:52:27.218Z",
+    "removed": [
+     "[DESCRIPTION] 5 Seconds of Summer: Everyone's a Star! Tour plays Unifi Arena in Bukit Jalil, Kuala Lumpur, on Tuesday, November 17, 2026.",
+     "[QUICK ANSWER] 5 Seconds of Summer: Everyone's a Star! Tour plays Unifi Arena in Bukit Jalil, Kuala Lumpur, on Tuesday, November 17, 2026. The arena is the indoor hall of the Bukit Jalil National Sports Complex, a short walk from Bukit Jalil LRT station on the Sri Petaling Line, and most fans get there by train rather than in weeknight traffic.",
+     "[FAQ 1] Q: When and where is the 5 Seconds of Summer Everyone's a Star! Tour in Kuala Lumpur? A: It takes place on Tuesday, November 17, 2026, at Unifi Arena, the indoor arena of the Bukit Jalil National Sports Complex in southern Kuala Lumpur.",
+     "[FAQ 4] Q: What is the weather like in Kuala Lumpur in mid-November? A: It's the wet season, and heavy afternoon thunderstorms are common. Fans usually carry a compact umbrella or poncho for the outdoor stretch, plus a light layer for the strongly air-conditioned arena.",
+     "[FAQ 5] Q: Where can I eat near the venue before the show? A: Pavilion Bukit Jalil, the large mall beside the sports complex, has a big food court and restaurants under one roof. That's why most concertgoers eat there.",
+     "The date falls on a weeknight. On Tuesday, November 17, 2026, the Australian pop-rock four-piece 5 Seconds of Summer brings its Everyone's a Star! Tour to Unifi Arena, in the national sports complex on Kuala Lumpur's southern edge.",
+     "A weeknight show changes the day for local fans. Many come straight from work or class, so you'll see office lanyards next to homemade band shirts on the LRT platform. Visitors flying in have it easier: a free afternoon, then a train ride south as the city's rush hour peaks.",
+     "The tour is named after their album *Everyone's a Star!*. Nobody here has seen the setlist. Still, the catalogue a crowd hopes to hear is well known:",
+     "The audience covers two generations. Some fans grew up with the band, and some found them later through \"Youngblood\".",
+     "The building sits on its own within the sports complex. The open plazas around it are where the merch lines and photo spots usually form. The bowl is fully enclosed and air-conditioned. Coming in from Kuala Lumpur's damp evening air, the cold hits you straight away, so fans in seated sections often carry a light layer.",
+     "Driving to a 5pm-onward event on a weekday means joining the city's evening jam on the Bukit Jalil Highway. That's why most attendees take the train and keep Grab for the ride home, or skip cars entirely.",
+     "The facts on record are simple. The show takes place on November 17, 2026, and it is held at Unifi Arena, Kuala Lumpur.",
+     "Ticket tiers and door times sit with the promoter and its ticketing partner, so they aren't repeated here.",
+     "**Fan projects.** The Malaysian fandom tends to organise coordinated moments: printed banners, phone-light waves, sign cards handed out in the queue. If someone gives you a card at the gate, it usually comes with instructions on when to hold it up.",
+     "**The ride home.** Once the encore ends, thousands of people head for one station at once. Some fans walk to the nearby mall and wait out the first rush over a drink. Others accept the queue, which moves steadily because trains run back to back.",
+     "The Pavilion Bukit Jalil mall stands beside the sports complex. Most fans eat dinner there before the show because it's covered, air-conditioned and has a large food court. It also explains a quirk of the area on show nights. Long before doors open, the mall fills with fans in band shirts who are there to keep dry as much as to eat.",
+     "After the show, the mall's restaurants and the mamak stalls around Bukit Jalil are where groups usually go to talk about the set over teh tarik and roti canai."
+    ],
+    "added": [
+     "[DESCRIPTION] 5 Seconds of Summer's Everyone's a Star! Tour was set for Unifi Arena in Bukit Jalil, Kuala Lumpur, on Tuesday, November 17, 2026.",
+     "[QUICK ANSWER] 5 Seconds of Summer's Everyone's a Star! Tour was set for Unifi Arena in Bukit Jalil, Kuala Lumpur, on Tuesday, November 17, 2026. The arena is the indoor hall of the Bukit Jalil National Sports Complex, a short walk from Bukit Jalil LRT station on the Sri Petaling Line. For weeknight shows here, most fans travel by train rather than sit in evening traffic.",
+     "[FAQ 1] Q: When and where is the 5 Seconds of Summer Everyone's a Star! Tour in Kuala Lumpur? A: The show was set for Tuesday, November 17, 2026, at Unifi Arena, the indoor arena of the Bukit Jalil National Sports Complex in southern Kuala Lumpur.",
+     "[FAQ 4] Q: What is the weather like in Kuala Lumpur in mid-November? A: It's the wet season, and heavy afternoon thunderstorms are common. Concertgoers usually carry a compact umbrella or poncho for the outdoor stretch, plus a light layer for the strongly air-conditioned arena.",
+     "[FAQ 5] Q: Where can I eat near the venue before the show? A: Pavilion Bukit Jalil, the large mall beside the sports complex, has a big food court and restaurants under one roof. Most concertgoers at the arena eat there.",
+     "The date fell on a weeknight. The Australian pop-rock four-piece 5 Seconds of Summer was set to bring its Everyone's a Star! Tour to Unifi Arena on Tuesday, November 17, 2026. The arena sits in the national sports complex on Kuala Lumpur's southern edge.",
+     "A weeknight show changes the day for local fans. Many come straight from work or class, so office lanyards often sit next to homemade band shirts on the LRT platform. Visitors flying in usually have it easier: a free afternoon, then a train ride south as the city's rush hour peaks.",
+     "The tour took its name from their album *Everyone's a Star!*. The songs fans most associate with the band are well known:",
+     "The band's audience spans two generations. Some fans grew up with the band, and some found them later through \"Youngblood\".",
+     "The building sits on its own within the sports complex. The open plazas around it are where the merch lines and photo spots usually form. The bowl is fully enclosed and air-conditioned. Coming in from Kuala Lumpur's damp evening air, the cold hits straight away, so people in seated sections often carry a light layer.",
+     "Driving to a 5pm-onward event on a weekday means joining the city's evening jam on the Bukit Jalil Highway. That's why most concertgoers take the train and keep Grab for the ride home, or skip cars entirely.",
+     "The announced details were simple: November 17, 2026, at Unifi Arena, Kuala Lumpur.",
+     "Ticket tiers and door times for shows like this are the promoter's call, set together with its ticketing partner.",
+     "**Fan projects.** The Malaysian fandom tends to organise coordinated moments: printed banners, phone-light waves, sign cards handed out in the queue. A card handed out at the gate usually comes with instructions on when to hold it up.",
+     "**The ride home.** Once an encore ends, thousands of people head for one station at once. Some concertgoers walk to the nearby mall and wait out the first rush over a drink. Others accept the queue, which moves steadily because trains run back to back.",
+     "The Pavilion Bukit Jalil mall stands beside the sports complex. Most concertgoers eat dinner there before shows because it's covered, air-conditioned and has a large food court. It also explains a quirk of the area on show nights. Long before doors open, the mall fills with people in band shirts who are there to keep dry as much as to eat.",
+     "After shows, the mall's restaurants and the mamak stalls around Bukit Jalil are where groups usually go to talk about the set over teh tarik and roti canai."
     ]
    }
   ]
@@ -13388,21 +12724,6 @@
      "- **The official lightstick** is the big one. MONSTIEZ (the fandom name) fill arenas with it, and the official app can sync it to the show.\n- **Fanchants** are shouted at fixed points in the songs, and following along is half the fun.\n- **Card and e-wallet** work almost everywhere. Touch 'n Go eWallet is used all over KL, though small stalls outside often take cash.\n- **Bag and camera rules** at arenas like this are strict. Banned items get taken at the gate and nobody gives them back.\n- **The city's dress norms** are relaxed, and a light layer makes the LRT and the air-conditioned arena more comfortable.",
      "November 14, 2026 is a Saturday, which made the show a natural weekend trip. November falls in KL's wetter season, and sudden afternoon thunderstorms are common. A compact umbrella or rain jacket earns its place on the walk from the station.",
      "For a Sunday, the Petronas Twin Towers and KLCC Park are an easy trip back up the line. Bukit Bintang has Jalan Alor's street food after dark, and Batu Caves works as a morning trip on the KTM Komuter from KL Sentral. Merch lines at arena shows tend to be long, and the widest choice usually goes in the first hours of sales."
-    ]
-   }
-  ]
- },
- "kuala-lumpur-islamic-arts-museum-malaysia": {
-  "steps": [
-   {
-    "from": "478161f00dba",
-    "to": "4cae33ceb148",
-    "at": "2026-10-03T21:56:57.403Z",
-    "removed": [
-     "Most visitors underestimate how large it is. There are twelve permanent galleries across two levels, each organized by region or medium, textiles, metalwork, arms and armor, ceramics."
-    ],
-    "added": [
-     "Most visitors underestimate how large it is. There are several permanent galleries spread across multiple levels, each organized by region or medium, textiles, metalwork, arms and armor, ceramics."
     ]
    }
   ]
@@ -13637,21 +12958,6 @@
    }
   ]
  },
- "kuala-lumpur-thean-hou-temple": {
-  "steps": [
-   {
-    "from": "00ae7e0b00b5",
-    "to": "6476f9bd0ac0",
-    "at": "2026-10-03T21:57:10.926Z",
-    "removed": [
-     "Weekday mornings and early afternoons stay comparatively calm right through to 7pm. Weekends are a different story: crowds build fast after 10am and remain busy until closing at 8pm."
-    ],
-    "added": [
-     "Weekday mornings and early afternoons stay comparatively calm right through to 7pm. Weekends are a different story: crowds build fast after 10am and remain busy until closing."
-    ]
-   }
-  ]
- },
  "kuala-lumpur-yves-loona-2026-asia-australia-tour": {
   "steps": [
    {
@@ -13667,21 +12973,6 @@
      "[DESCRIPTION] The Yves (LOONA) 2026 Asia & Australia Tour plays Kuala Lumpur on November 7, 2026, with tickets sold for a single night at Vox Live KL.",
      "[QUICK ANSWER] The Yves (LOONA) 2026 Asia & Australia Tour plays Kuala Lumpur on November 7, 2026, with tickets sold for a single night at Vox Live KL. It is a solo show by the former LOONA member, set in a live-music venue rather than a stadium. Most fans from outside KL use the city's rail network and Grab to get there, and stay one or two nights.",
      "[FAQ 1] Q: When and where did Yves play Kuala Lumpur on her 2026 tour? A: Yves brings her 2026 Asia & Australia Tour to Vox Live KL in Kuala Lumpur on November 7, 2026. It is the tour's only Kuala Lumpur date."
-    ]
-   }
-  ]
- },
- "kuantan-kuantan-188": {
-  "steps": [
-   {
-    "from": "dc14f6045db2",
-    "to": "f135c8940c5e",
-    "at": "2026-10-03T21:57:36.328Z",
-    "removed": [
-     "Weekends flip that. Between 6pm and 11pm on Saturday and Sunday, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting."
-    ],
-    "added": [
-     "Weekends flip that. Between 6pm and 11pm on weekend evenings, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting."
     ]
    }
   ]
@@ -13725,21 +13016,6 @@
      "- **Modest dress.** Covered shoulders and knees are respectful, and sensible for mosquitoes by the river.\n- **A clear floor.** Bertandak needs space. Audiences stand back from the dancers' path.\n- **No flash.** Bright flashes during a performance distract both drummers and dancers.\n- **The verses.** Much of Bermukun's appeal is in the sung pantun, which carries best to those standing close enough to hear the singer, not just the drums.",
      "For getting around, Grab is the standard ride-hailing app in Kuching and is easy to use from the waterfront. Food stalls and small shops along Main Bazaar and Carpenter Street often prefer cash, so ringgit in hand is useful for snacks.",
      "The old town is the place to eat before an evening on the waterfront. Sarawak laksa, made with a sambal-based broth rather than curry, is a breakfast and lunch staple. Kolo mee, springy noodles tossed rather than served in soup, is easy to find. After dark, the lit-up Assembly building across the river makes the walk along the promenade worth taking slowly."
-    ]
-   }
-  ]
- },
- "kumamoto-kumamoto-castle": {
-  "steps": [
-   {
-    "from": "4c30771ff8a2",
-    "to": "852af9327a06",
-    "at": "2026-10-03T21:57:46.620Z",
-    "removed": [
-     "Weekday mornings and afternoons are consistently calmer. The castle's hours run 9am–5pm every day, and weekdays stay quiet throughout that window. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm."
-    ],
-    "added": [
-     "Weekday mornings and afternoons are consistently calmer. The castle's hours run 9am–5pm every day. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm."
     ]
    }
   ]
@@ -15508,23 +14784,6 @@
     ],
     "added": [
      "None of this is forecast data, just how museum traffic in a historic center typically behaves. Treat it as a starting point, not a guarantee."
-    ]
-   }
-  ]
- },
- "malang-arema-blue-village": {
-  "steps": [
-   {
-    "from": "3ff5d25c12db",
-    "to": "b8173a6a05ae",
-    "at": "2026-10-03T21:58:05.270Z",
-    "removed": [
-     "- Keep your voice down and ask before photographing residents or their doorways directly\n- A small donation to the upkeep box near the entrance is customary and appreciated, since residents fund the repainting themselves\n- Pay for any snacks or drinks from local stalls in cash, small rupiah notes, nothing card-based here\n- Skip the football jersey theatrics; a respectful, quiet walkthrough is the norm\n- Combine it with a stop at Jodipan village or the Alun-Alun Malang square, both a short ride away, to make a half-day of Malang's street-art side",
-     "After the blue alleys, central Malang rewards more wandering: colonial-era buildings around Jalan Ijen, the bustling Pasar Besar market for lunch, and the aforementioned Jodipan rainbow village make natural add-ons within a short ojek ride, letting you turn a 30-minute detour into a half-day loop through the city's most photogenic corners."
-    ],
-    "added": [
-     "- Keep your voice down and ask before photographing residents or their doorways directly\n- Residents fund the repainting themselves, so a polite greeting and respect for their space matters more than any donation\n- Pay for any snacks or drinks from local stalls in cash, small rupiah notes, nothing card-based here\n- Skip the football jersey theatrics; a respectful, quiet walkthrough is the norm\n- Combine it with a stop at Jodipan village or the Alun-Alun Malang square, both a short ride away, to make a half-day of Malang's street-art side",
-     "After the blue alleys, central Malang rewards more wandering: colonial-era buildings around Jalan Ijen, Pasar Besar market for lunch, and the aforementioned Jodipan rainbow village make natural add-ons within a short ojek ride, letting you turn a 30-minute detour into a half-day loop through the city's most photogenic corners."
     ]
    }
   ]
@@ -19727,6 +18986,53 @@
     "added": [
      "[QUICK ANSWER] Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten standing up at the marble bar. It's open daily (7:30am–6pm most days, 8am–5pm Sunday); go between 8am and 10am on a weekday to skip the crowds, since 11am–4pm on weekends is when the line backs up into the market aisle.",
      "[FAQ 1] Q: What's the best time to visit Jack's Fish Spot? A: Go between 8am and 10am, or from 5pm to 6pm on weekdays and Saturday. The forecast flags no standout busy hour on weekdays, but weekends between 11am and 4pm see the longest lines, so avoid that stretch if you can."
+    ]
+   }
+  ]
+ },
+ "seattle-katseye-the-wildworld-tour-seattle": {
+  "steps": [
+   {
+    "from": "e271b82d0203",
+    "to": "586cf90ed472",
+    "at": "2026-11-18T07:52:27.227Z",
+    "removed": [
+     "[DESCRIPTION] KATSEYE The Wildworld Tour - Seattle takes place on November 17, 2026 at Climate Pledge Arena, part of the Seattle Center campus in Lower Queen Anne.",
+     "[QUICK ANSWER] KATSEYE The Wildworld Tour - Seattle takes place on November 17, 2026 at Climate Pledge Arena, part of the Seattle Center campus in Lower Queen Anne. The easiest way in is the Link light rail to Westlake, then the Seattle Center Monorail to the arena's doorstep. Concert-goers usually skip driving because Seattle Center parking fills on event nights.",
+     "[FAQ 1] Q: When and where is KATSEYE The Wildworld Tour in Seattle? A: It takes place on November 17, 2026 at Climate Pledge Arena, 334 1st Ave N, on the Seattle Center campus in Lower Queen Anne.",
+     "[FAQ 2] Q: What's the best way to get to Climate Pledge Arena? A: Take Link light rail (1 Line) to Westlake, then the Seattle Center Monorail, which runs to Seattle Center in about two minutes. Event-night parking near the arena is limited and slow to leave.",
+     "KATSEYE comes to Seattle on November 17, 2026. The stop is part of the group's North American run of The Wildworld Tour, and the venue is Climate Pledge Arena, the city's largest indoor arena.",
+     "The group came together through *The Debut: Dream Academy*, the HYBE and Geffen Records competition series. That origin explains the crowd you'll find here. Plenty of fans followed the members from their first audition clips, so the singing along tends to start with the opening song.",
+     "Expect the choreography-heavy, all-sung-live style behind tracks like \"Gnarly\" and \"Touch\". The set list and support act are not part of what's known about this date, so this guide doesn't guess at them.",
+     "You go in at ground level and then head down to the seats. That gives the room steeper, closer sightlines than the outside suggests. On other nights it is home to the Seattle Kraken (NHL) and the Seattle Storm (WNBA).",
+     "Some points worth knowing:",
+     "- **Payment:** the arena runs cashless, so concessions and merch take cards and mobile wallets.\n- **Tickets:** entry is by mobile ticket on your phone, so a charged battery matters.\n- **Address:** 334 1st Ave N, on the north edge of Seattle Center.\n- **Merch:** stands open with the doors, and lines at pop shows are often longest before the first act.",
+     "Event-night traffic jams Mercer Street and the garages around Seattle Center fill fast. Most fans come by transit.",
+     "- **Monorail:** the Seattle Center Monorail runs from Westlake Center downtown to Seattle Center in about two minutes. Its terminal is a short walk from the arena.\n- **Link light rail:** the 1 Line stops at Westlake, directly below the monorail terminal. That links Sea-Tac Airport, Capitol Hill and the University District to the show.\n- **On foot:** from Belltown or Lower Queen Anne, it's a 10–20 minute walk on flat streets.",
+     "After the encore, the monorail queue builds quickly. Many people walk the 20 minutes or so back downtown along 5th Avenue instead.",
+     "Fans of K-pop-adjacent acts usually line up well before doors, especially for general admission floor spots. Mid-November in Seattle means early darkness and drizzle, so the outdoor wait is usually done in rain jackets, not under umbrellas that block the people behind.",
+     "Arena bag rules are posted on Climate Pledge Arena's website. Small or clear bags get through security fastest. Coat checks are not always available, so people tend to wear layers they can stuff under a seat.",
+     "Seattle Center makes the hours before the show easy to fill:",
+     "For dinner, attendees usually head to Lower Queen Anne's restaurants along Queen Anne Avenue North and Roy Street, just west of the arena."
+    ],
+    "added": [
+     "[DESCRIPTION] KATSEYE The Wildworld Tour - Seattle was set for November 17, 2026 at Climate Pledge Arena, part of the Seattle Center campus in Lower Queen Anne.",
+     "[QUICK ANSWER] KATSEYE The Wildworld Tour - Seattle was set for November 17, 2026 at Climate Pledge Arena, part of the Seattle Center campus in Lower Queen Anne. The easiest way in is the Link light rail to Westlake, then the Seattle Center Monorail to the arena's doorstep. Concert-goers usually skip driving because Seattle Center parking fills on event nights.",
+     "[FAQ 1] Q: When and where is KATSEYE The Wildworld Tour in Seattle? A: The show was set for November 17, 2026 at Climate Pledge Arena, 334 1st Ave N, on the Seattle Center campus in Lower Queen Anne.",
+     "[FAQ 2] Q: What's the best way to get to Climate Pledge Arena? A: The simplest route is Link light rail (1 Line) to Westlake, then the Seattle Center Monorail, which runs to Seattle Center in about two minutes. Event-night parking near the arena is limited and slow to leave.",
+     "KATSEYE's Seattle date was set for November 17, 2026. The stop was part of the group's North American run of The Wildworld Tour, and the venue was Climate Pledge Arena, the city's largest indoor arena.",
+     "The group came together through *The Debut: Dream Academy*, the HYBE and Geffen Records competition series. That origin shapes its fan base. Plenty of fans have followed the members since their first audition clips, and at the group's shows the singing along tends to start with the opening song.",
+     "KATSEYE is known for the choreography-heavy, all-sung-live style behind tracks like \"Gnarly\" and \"Touch\".",
+     "Visitors enter at ground level and then head down to the seats. That gives the room steeper, closer sightlines than the outside suggests. On other nights it is home to the Seattle Kraken (NHL) and the Seattle Storm (WNBA).",
+     "Some points about the venue:",
+     "- **Payment:** the arena is cashless, so concessions and merch take cards and mobile wallets.\n- **Tickets:** entry is by mobile ticket on a phone.\n- **Address:** 334 1st Ave N, on the north edge of Seattle Center.\n- **Merch:** stands typically open with the doors, and lines at pop shows are often longest before the first act.",
+     "Event-night traffic jams Mercer Street and the garages around Seattle Center fill fast. Most concert-goers come by transit.",
+     "- **Monorail:** the Seattle Center Monorail runs from Westlake Center downtown to Seattle Center in about two minutes. Its terminal is a short walk from the arena.\n- **Link light rail:** the 1 Line stops at Westlake, directly below the monorail terminal. That links Sea-Tac Airport, Capitol Hill and the University District to the arena.\n- **On foot:** from Belltown or Lower Queen Anne, it's a 10–20 minute walk on flat streets.",
+     "After a concert, the monorail queue usually builds quickly. Many people walk the 20 minutes or so back downtown along 5th Avenue instead.",
+     "Fans of K-pop-adjacent acts usually line up well before doors, especially for general admission floor spots. Mid-November in Seattle means early darkness and drizzle, so outdoor waits are usually done in rain jackets, not under umbrellas that block the people behind.",
+     "Climate Pledge Arena sets its own bag rules, and small or clear bags get through security fastest. Coat checks are not always available, so people tend to wear layers they can stuff under a seat.",
+     "Seattle Center makes the hours before a show easy to fill:",
+     "For dinner, concert-goers usually head to Lower Queen Anne's restaurants along Queen Anne Avenue North and Roy Street, just west of the arena."
     ]
    }
   ]

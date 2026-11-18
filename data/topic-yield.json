@@ -14,16 +14,16 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 147,
-   "hits": 31
+   "attempts": 148,
+   "hits": 32
   },
   "art gallery": {
-   "attempts": 105,
-   "hits": 20
+   "attempts": 106,
+   "hits": 21
   },
   "night view": {
-   "attempts": 97,
-   "hits": 20
+   "attempts": 100,
+   "hits": 22
   },
   "waterfront": {
    "attempts": 62,
@@ -70,8 +70,8 @@
    "hits": 20
   },
   "bakery": {
-   "attempts": 80,
-   "hits": 5
+   "attempts": 81,
+   "hits": 6
   },
   "bar": {
    "attempts": 63,
@@ -1410,5 +1410,5 @@
    "hits": 0
   }
  },
- "updated": "2026-11-17T07:51:20.186Z"
+ "updated": "2026-11-18T07:41:46.648Z"
 }

@@ -34075,13 +34075,6 @@
   "worst": "관람객이 돈을 날리는 가장 흔한 경로가 SNS에 올라온 재판매 티켓입니다.",
   "at": "2026-10-12T08:08:12.029Z"
  },
- "ko/hong-kong-janice-vidal-out-of-frame-world-tour-hong-kong": {
-  "hash": "ff72b1f526ba",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "콜리세움은 홍함 교통 허브 위에 거꾸로 뒤집힌 피라미드 모양으로 얹혀 있는 콘크리트 건물입니다.",
-  "at": "2026-10-12T08:08:16.627Z"
- },
  "ko/hong-kong-jason-mraz-live-in-hong-kong": {
   "hash": "bf87e267bc01",
   "score": 1,
@@ -37504,13 +37497,6 @@
   "registerBreak": false,
   "worst": "이날의 세트리스트는 저희가 확인한 정보에 없습니다.",
   "at": "2026-10-26T08:17:26.384Z"
- },
- "ko/bangkok-my-chemical-romance-bangkok": {
-  "hash": "5073c49302b3",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "시야를 가리는 기둥이 없으니 무대가 얼마나 잘 보이는지는 주로 내가 얼마나 뒤에 서 있는지, 그리고 앞사람 머리에 달려 있습니다.",
-  "at": "2026-10-26T08:17:28.934Z"
  },
  "ko/bangkok-fujii-kaze-bangkok": {
   "hash": "6f9cc15127d7",
@@ -41088,5 +41074,89 @@
   "registerBreak": false,
   "worst": "整个街角之所以焕然一新，也正是因为有了这座场馆。",
   "at": "2026-11-17T17:07:28.550Z"
+ },
+ "es/hue-truong-tien-bridge": {
+  "hash": "2d2e5efe615e",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-18T07:44:58.770Z"
+ },
+ "es/london-aux-pains-de-papy": {
+  "hash": "7c81be932687",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Gracias a los bocadillos, es una buena opción para el almuerzo.",
+  "at": "2026-11-18T07:44:59.606Z"
+ },
+ "es/london-sky-garden": {
+  "hash": "56c1df30e3a4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "En la planta superior, según la ficha editorial, hay un restaurante, además de un bar...",
+  "at": "2026-11-18T07:45:06.598Z"
+ },
+ "ja/hue-truong-tien-bridge": {
+  "hash": "7a0d7992642b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "そのため、リベット留めのトラスが12のこぶとなって連なって見えます。",
+  "at": "2026-11-18T07:45:07.521Z"
+ },
+ "ja/london-aux-pains-de-papy": {
+  "hash": "9b5f5575971c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ユーロスターでセント・パンクラス・インターナショナル駅に着いた方なら、市内へ向かう前に本格的なフランス式の朝食をとれる店として、もっとも近い候補のひとつになります。",
+  "at": "2026-11-18T07:45:14.782Z"
+ },
+ "ja/london-sky-garden": {
+  "hash": "7c9d034e4991",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "編集部の情報によると、上の階には最上階レストランがあるほか、スカイラインを間近に眺めながらくつろげるバーもあります。",
+  "at": "2026-11-18T07:45:15.990Z"
+ },
+ "ko/hue-truong-tien-bridge": {
+  "hash": "f068187ee792",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "보행로가 양쪽 트러스 바깥에 붙어 있어서, 발아래로는 탁 트인 강물이, 어깨 옆으로는 강철 격자가 함께 따라옵니다.",
+  "at": "2026-11-18T07:45:17.783Z"
+ },
+ "ko/london-aux-pains-de-papy": {
+  "hash": "4f54bb5aab77",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "시내로 들어가기 전에 제대로 된 프랑스식 빵으로 아침을 먹을 수 있는, 역에서 가장 가까운 곳 중 하나입니다.",
+  "at": "2026-11-18T07:45:21.600Z"
+ },
+ "ko/london-sky-garden": {
+  "hash": "a5236ea185b3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "편집부 자료에 따르면 위층 맨 꼭대기에는 레스토랑이 있고, 스카이라인을 곁에 두고 앉아 쉴 수 있는 바도 있습니다.",
+  "at": "2026-11-18T07:45:22.779Z"
+ },
+ "zh/hue-truong-tien-bridge": {
+  "hash": "50a368a13f16",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "19世纪90年代末，法国工程技术正传入这座帝都，长钱桥便在成泰帝在位期间建成。",
+  "at": "2026-11-18T07:49:07.045Z"
+ },
+ "zh/london-aux-pains-de-papy": {
+  "hash": "746ad37fe8fc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "排到柜台前最好已经想好要点什么",
+  "at": "2026-11-18T07:45:30.798Z"
+ },
+ "zh/london-sky-garden": {
+  "hash": "73c95f9c95e6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周日上午附近营业的咖啡馆会比较少。",
+  "at": "2026-11-18T07:45:31.798Z"
  }
 }

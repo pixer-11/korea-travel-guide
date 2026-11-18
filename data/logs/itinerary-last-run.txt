@@ -2,6 +2,7 @@ SKIP new city "Berlin" — weekly new-city cap (2/7d) reached
 SKIP new city "Christchurch" — weekly new-city cap (2/7d) reached
 SKIP new city "Florence" — weekly new-city cap (2/7d) reached
 SKIP new city "Kyoto" — weekly new-city cap (2/7d) reached
+SKIP new city "London" — weekly new-city cap (2/7d) reached
 SKIP new city "Luxor" — weekly new-city cap (2/7d) reached
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
