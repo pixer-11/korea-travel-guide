@@ -12,6 +12,14 @@ eventOrganizer:
   name: FIDE
   url: https://www.fide.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/002_Ajuntament_de_Sant_Boi_de_Llobregat%2C_pl._de_la_Vila_-_av._Maria_Girona.jpg/1280px-002_Ajuntament_de_Sant_Boi_de_Llobregat%2C_pl._de_la_Vila_-_av._Maria_Girona.jpg'
+  credit: 'Photo: Enric (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:002 Ajuntament de Sant Boi de Llobregat, pl. de la Vila - av. Maria Girona.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - sant boi de llobregat

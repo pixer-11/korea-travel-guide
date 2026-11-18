@@ -10,6 +10,14 @@ eventEndDate: '2027-01-03'
 eventRecurring: true
 eventVenue: Paragon Hall, Siam Paragon
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/53/The_main_hall_of_Siam_Paragon_Center%2C_Bangkok%2C_Thailand.jpg'
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_main_hall_of_Siam_Paragon_Center,_Bangkok,_Thailand.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - bangkok

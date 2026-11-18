@@ -13,16 +13,13 @@ eventOrganizer:
   url: https://wanjinshi-marathon.com.tw
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/84/2008JinShiMarathon_PressConference.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/2008JinShiMarathon_in_the_morning.jpg
   credit: 'Photo: Rico Shen / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2008JinShiMarathon_PressConference.jpg
+  source: https://commons.wikimedia.org/wiki/File:2008JinShiMarathon_in_the_morning.jpg
   focus:
     x: 50
-    'y': 15
-    top: 5
-    bottom: 25
-gallery: []
+    'y': 50
 tags:
   - new taipei
   - event
@@ -39,8 +36,6 @@ faq:
   - q: What is there to do nearby after the race?
     a: Jinshan's hot springs and Old Street are the classic post-race stops. Yeliu Geopark, Shimen Cave and the seafood restaurants at Fuji Fishing Harbor are all along the same coast road.
 aiGenerated: true
-draft: true
-heldReason: wrong-venue-photo
 ---
 
 ## Three districts, one coastline

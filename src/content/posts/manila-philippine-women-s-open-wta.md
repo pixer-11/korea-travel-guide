@@ -12,6 +12,14 @@ eventVenue: Rizal Memorial Tennis Center
 eventOrganizer:
   name: Philippine Tennis Association (PhilTA)
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Manila_Skyline_March_2020.jpg/3840px-Manila_Skyline_March_2020.jpg'
+  credit: 'Photo: Lawrence Ruiz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Manila_Skyline_March_2020.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - manila

@@ -10,6 +10,14 @@ eventEndDate: '2027-01-31'
 eventRecurring: true
 eventVenue: World Trade Centre Kuala Lumpur
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bangunan_WTC_Kuala_Lumpur_dan_Menara_Dato%27_Onn_%281%29.jpg/3840px-Bangunan_WTC_Kuala_Lumpur_dan_Menara_Dato%27_Onn_%281%29.jpg'
+  credit: 'Photo: Zahirul Nukman / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bangunan_WTC_Kuala_Lumpur_dan_Menara_Dato%27_Onn_(1).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - kuala lumpur

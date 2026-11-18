@@ -12,6 +12,14 @@ eventVenue: Gisborne
 eventOffers:
   url: https://www.runningcalendar.co.nz/calendar/running/marathons/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Timelines_Sculpture%2C_Gisborne%2C_New_Zealand.jpg/3840px-Timelines_Sculpture%2C_Gisborne%2C_New_Zealand.jpg'
+  credit: 'Photo: David Thomsen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Timelines_Sculpture,_Gisborne,_New_Zealand.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - gisborne

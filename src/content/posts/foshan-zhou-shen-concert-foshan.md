@@ -13,6 +13,14 @@ eventPerformer:
   name: Zhou Shen
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mahavira_Hall%2C_Renshou_Temple%2C_Foshan%2C_Guangdong%2C_China%2C_picture1.jpg/1280px-Mahavira_Hall%2C_Renshou_Temple%2C_Foshan%2C_Guangdong%2C_China%2C_picture1.jpg'
+  credit: 'Photo: Huangdan2060 (CC0)'
+  license: wikimedia
+  source: 'File:Mahavira Hall, Renshou Temple, Foshan, Guangdong, China, picture1.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - foshan

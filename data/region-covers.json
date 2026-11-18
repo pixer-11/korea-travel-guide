@@ -363,5 +363,40 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Landmark_Toraja.jpg/1280px-Landmark_Toraja.jpg",
     "credit": "Photo: Aqilla Rahmi (CC BY-SA 4.0)",
     "source": "File:Landmark Toraja.jpg"
+  },
+  "Courchevel": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/T%C3%A9l%C3%A9cabine_Chenus_et_Front_de_neige_de_Courchevel_%28d%C3%A9cembre_2019%29.JPG/1280px-T%C3%A9l%C3%A9cabine_Chenus_et_Front_de_neige_de_Courchevel_%28d%C3%A9cembre_2019%29.JPG",
+    "credit": "Photo: Florian Pépellin (CC BY-SA 4.0)",
+    "source": "File:Télécabine Chenus et Front de neige de Courchevel (décembre 2019).JPG"
+  },
+  "Foshan": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mahavira_Hall%2C_Renshou_Temple%2C_Foshan%2C_Guangdong%2C_China%2C_picture1.jpg/1280px-Mahavira_Hall%2C_Renshou_Temple%2C_Foshan%2C_Guangdong%2C_China%2C_picture1.jpg",
+    "credit": "Photo: Huangdan2060 (CC0)",
+    "source": "File:Mahavira Hall, Renshou Temple, Foshan, Guangdong, China, picture1.jpg"
+  },
+  "Gatineau": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Passerelle_reliant_Hotel_Sheraton_%C3%A0_la_Maison_du_Citoyen%2C_secteur_Hull%2C_Gatineau%2C_Qu%C3%A9bec.JPG/1280px-Passerelle_reliant_Hotel_Sheraton_%C3%A0_la_Maison_du_Citoyen%2C_secteur_Hull%2C_Gatineau%2C_Qu%C3%A9bec.JPG",
+    "credit": "Photo: RaynaultM (CC BY-SA 3.0)",
+    "source": "File:Passerelle reliant Hotel Sheraton à la Maison du Citoyen, secteur Hull, Gatineau, Québec.JPG"
+  },
+  "Koblenz": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hochhaus_Technisches_Rathaus_Koblenz_2014.jpg/1280px-Hochhaus_Technisches_Rathaus_Koblenz_2014.jpg",
+    "credit": "Photo: Holger Weinandt (CC BY-SA 3.0 de)",
+    "source": "File:Hochhaus Technisches Rathaus Koblenz 2014.jpg"
+  },
+  "Mississauga": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wildfire_smoke_on_the_Mississauga_skyline.jpg/1280px-Wildfire_smoke_on_the_Mississauga_skyline.jpg",
+    "credit": "Photo: The Eloquent Peasant (CC BY 4.0)",
+    "source": "File:Wildfire smoke on the Mississauga skyline.jpg"
+  },
+  "Oberstdorf": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20250601_xl_1015-Skiinternat_Oberstdorf.jpg/1280px-20250601_xl_1015-Skiinternat_Oberstdorf.jpg",
+    "credit": "Photo: Molgreen (CC BY-SA 4.0)",
+    "source": "File:20250601 xl 1015-Skiinternat Oberstdorf.jpg"
+  },
+  "Sant Boi de Llobregat": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/002_Ajuntament_de_Sant_Boi_de_Llobregat%2C_pl._de_la_Vila_-_av._Maria_Girona.jpg/1280px-002_Ajuntament_de_Sant_Boi_de_Llobregat%2C_pl._de_la_Vila_-_av._Maria_Girona.jpg",
+    "credit": "Photo: Enric (CC BY-SA 4.0)",
+    "source": "File:002 Ajuntament de Sant Boi de Llobregat, pl. de la Vila - av. Maria Girona.jpg"
   }
 }

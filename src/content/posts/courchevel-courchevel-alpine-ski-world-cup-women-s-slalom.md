@@ -12,6 +12,14 @@ eventOrganizer:
   name: FIS
   url: https://www.fis-ski.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/T%C3%A9l%C3%A9cabine_Chenus_et_Front_de_neige_de_Courchevel_%28d%C3%A9cembre_2019%29.JPG/1280px-T%C3%A9l%C3%A9cabine_Chenus_et_Front_de_neige_de_Courchevel_%28d%C3%A9cembre_2019%29.JPG'
+  credit: 'Photo: Florian Pépellin (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Télécabine Chenus et Front de neige de Courchevel (décembre 2019).JPG'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - courchevel

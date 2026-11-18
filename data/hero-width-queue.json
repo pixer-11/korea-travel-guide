@@ -3762,7 +3762,14 @@
   "tashkent-lvbel-c5-tashkent-concert\u0001https://upload.wikimedia.org/wikipedia/commons/f/f1/Lvbel_C5_%282023%29_%28cropped%29.png": 1544,
   "tbilisi-erovnuli-liga-final-matchday-dinamo-tbilisi\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Tbilisi_Boris_Paichadze_Dinamo_Arena_6.jpg": 3264,
   "toronto-cavalcade-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Calvacade_of_lights_in_Toronto.jpg/3840px-Calvacade_of_lights_in_Toronto.jpg": 3840,
-  "thanh-hoa-vietnam-jungle-marathon-pu-luong\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Jungle.jpg": 1600
+  "thanh-hoa-vietnam-jungle-marathon-pu-luong\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Jungle.jpg": 1600,
+  "denpasar-sanur-bali-international-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Morning_in_Sanur_Beach%2C_Bali.jpg/3840px-Morning_in_Sanur_Beach%2C_Bali.jpg": 3840,
+  "benidorm-xxiii-torneo-internacional-gran-hotel-bali-chess\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Benidorm_-_Gran_Hotel_Bali_07.jpg": 1536,
+  "el-gouna-recap-festival-el-gouna\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/Stage_FC10_1_semi_recap.JPG": 3072,
+  "new-taipei-new-taipei-city-wan-jin-shi-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/2008JinShiMarathon_in_the_morning.jpg": 3584,
+  "kuala-lumpur-2027-malaysia-open-petronas-malaysia-open-badminton\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Axiata_Arena_Bukit_Jalil_%28230527%29.jpg": 3000,
+  "val-d-isere-val-d-isere-alpine-ski-world-cup-criterium-de-la-premiere-neige\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Face_de_Bellevarde_2014.JPG": 3264,
+  "tbilisi-swan-lake-by-the-royal-classical-ballet-berlin\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Swan_lake_ballet_at_SODRE.jpg": 2048
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4052,15 +4059,15 @@
   },
   "istanbul-araf": {
    "width": 1080,
-   "attempts": 4,
-   "nextTry": "2026-11-16",
+   "attempts": 5,
+   "nextTry": "2026-11-25",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
   "istanbul-istanbul-marathon": {
    "width": 1024,
-   "attempts": 4,
-   "nextTry": "2026-11-16",
+   "attempts": 5,
+   "nextTry": "2026-11-25",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -4282,5 +4289,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-18T21:47:53.570Z"
+ "updated": "2026-11-18T21:53:26.406Z"
 }

@@ -10,7 +10,6 @@ eventEndDate: '2027-02-07'
 eventRecurring: true
 eventVenue: Sanur, Denpasar
 eventFactsAsked: true
-gallery: []
 tags:
   - denpasar
   - event
@@ -28,6 +27,14 @@ faq:
     a: You can walk Sanur's beachfront path or visit the Le Mayeur Museum. In the evening the Sindhu night market sells cheap local food. Fast boats leave Sanur beach for Nusa Lembongan and Nusa Penida.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Morning_in_Sanur_Beach%2C_Bali.jpg/3840px-Morning_in_Sanur_Beach%2C_Bali.jpg
+  credit: 'Photo: Danangtrihartanto / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Morning_in_Sanur_Beach,_Bali.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Three distances on Bali's east coast

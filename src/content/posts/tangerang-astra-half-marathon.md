@@ -12,6 +12,14 @@ eventVenue: Astra Biz Center, BSD City
 eventOrganizer:
   name: Astra
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tangerang%2C_1.jpg/1280px-Tangerang%2C_1.jpg'
+  credit: 'Photo: Ya, saya inBaliTimur (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'File:Tangerang, 1.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - tangerang

@@ -13,7 +13,6 @@ eventOrganizer:
   name: FIS
   url: https://www.fis-ski.com
 eventFactsAsked: true
-gallery: []
 tags:
   - val d'isère
   - event
@@ -31,6 +30,14 @@ faq:
     a: Yes. The race is usually on one of the first open weekends of the Espace Killy season. Many spectators ride the Olympique gondola up between runs, ski, and come back down for the second run.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/51/Face_de_Bellevarde_2014.JPG
+  credit: 'Photo: Jmex / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Face_de_Bellevarde_2014.JPG
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## A race that ends in the village

@@ -10,6 +10,14 @@ eventEndDate: '2027-02-22'
 eventRecurring: true
 eventVenue: Abu Simbel Temple
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_153.jpg/3840px-Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_153.jpg'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Templo_de_Nefertari,_Abu_Simbel,_Egipto,_2022-04-02,_DD_153.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - abu simbel

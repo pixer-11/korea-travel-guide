@@ -15,6 +15,14 @@ eventPerformer:
   name: K-POP The Live Experience
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wide_angle_Milan_skyline_from_Duomo_roof.jpg/3840px-Wide_angle_Milan_skyline_from_Duomo_roof.jpg'
+  credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Wide_angle_Milan_skyline_from_Duomo_roof.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - milan

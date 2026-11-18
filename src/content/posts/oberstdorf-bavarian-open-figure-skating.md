@@ -9,6 +9,14 @@ eventStartDate: '2027-01-19'
 eventEndDate: '2027-01-24'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20250601_xl_1015-Skiinternat_Oberstdorf.jpg/1280px-20250601_xl_1015-Skiinternat_Oberstdorf.jpg'
+  credit: 'Photo: Molgreen (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:20250601 xl 1015-Skiinternat Oberstdorf.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - oberstdorf

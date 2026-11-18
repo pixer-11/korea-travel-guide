@@ -10,6 +10,14 @@ eventEndDate: '2026-12-09'
 eventRecurring: true
 eventVenue: Tbilisi State Conservatoire Grand Hall
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/City_skyline%2C_Tbilisi_-_panoramio.jpg'
+  credit: 'Photo: Ainars Brūvelis / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:City_skyline,_Tbilisi_-_panoramio.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - tbilisi

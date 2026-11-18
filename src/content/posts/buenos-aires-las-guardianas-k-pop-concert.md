@@ -10,6 +10,14 @@ eventEndDate: '2026-12-21'
 eventRecurring: false
 eventVenue: Teatro Gran Rex
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Casa_Rosada_in_Buenos_Aires_Cityscape.jpg/3840px-Casa_Rosada_in_Buenos_Aires_Cityscape.jpg'
+  credit: 'Photo: Wovegiv9 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Casa_Rosada_in_Buenos_Aires_Cityscape.jpg'
+  focus:
+    x: 35
+    y: 35
 gallery: []
 tags:
   - buenos aires

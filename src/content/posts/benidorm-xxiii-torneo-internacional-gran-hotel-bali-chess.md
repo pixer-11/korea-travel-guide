@@ -10,7 +10,6 @@ eventEndDate: '2026-12-05'
 eventRecurring: true
 eventVenue: Gran Hotel Bali
 eventFactsAsked: true
-gallery: []
 tags:
   - benidorm
   - event
@@ -28,6 +27,14 @@ faq:
     a: You can walk Levante and Poniente beaches or visit the Balcón del Mediterráneo lookout in the old town. The tapas bars around Calle Santo Domingo are close by, and the cliff path in Serra Gelada natural park starts at the eastern end of Levante. Boats also run out to the Isla de Benidorm.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3e/Benidorm_-_Gran_Hotel_Bali_07.jpg
+  credit: 'Photo: Zarateman / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Benidorm_-_Gran_Hotel_Bali_07.jpg
+  focus:
+    x: 50
+    'y': 60
 ---
 
 ## Eight days at the boards

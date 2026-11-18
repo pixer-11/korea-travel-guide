@@ -13,7 +13,6 @@ eventOrganizer:
   name: Badminton Association of Malaysia
   url: https://bam.org.my/
 eventFactsAsked: true
-gallery: []
 tags:
   - kuala lumpur
   - event
@@ -31,6 +30,14 @@ faq:
     a: Many fans bring a light jacket because the air conditioning is strong. Some also bring a flag or clapper to join in the cheering, and a Touch 'n Go card for the LRT.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3b/Axiata_Arena_Bukit_Jalil_%28230527%29.jpg
+  credit: 'Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Axiata_Arena_Bukit_Jalil_(230527).jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 Six days, five draws, one arena. The 2027 Malaysia Open runs from Tuesday, January 5 to Sunday, January 10. It opens the badminton year at Axiata Arena in Bukit Jalil, the domed indoor hall inside Kuala Lumpur's National Sports Complex.

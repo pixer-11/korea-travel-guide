@@ -13,7 +13,6 @@ eventPerformer:
   name: Royal Classical Ballet (Berlin)
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - tbilisi
   - event
@@ -31,6 +30,16 @@ faq:
     a: The Old Town, about a 10–15 minute walk downhill from Liberty Square, has many restaurants around Leselidze and Kote Afkhazi streets. Rustaveli Avenue itself also has cafés.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6f/Swan_lake_ballet_at_SODRE.jpg
+  credit: 'Photo: Jimmy Baikovicius from Montevideo, Uruguay / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Swan_lake_ballet_at_SODRE.jpg
+  focus:
+    x: 68
+    'y': 15
+    top: 11
+    bottom: 19
 ---
 
 ## One night of Tchaikovsky on Rustaveli

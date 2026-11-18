@@ -15,6 +15,14 @@ eventPerformer:
   name: WeiBird
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/90/Macau_Skyline_%283777497332%29.jpg'
+  credit: 'Photo: DearEdward from New York, NY, USA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Macau_Skyline_(3777497332).jpg'
+  focus:
+    x: 25
+    y: 35
 gallery: []
 tags:
   - macau

@@ -9,6 +9,14 @@ eventStartDate: '2026-11-11'
 eventEndDate: '2026-11-25'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wildfire_smoke_on_the_Mississauga_skyline.jpg/1280px-Wildfire_smoke_on_the_Mississauga_skyline.jpg'
+  credit: 'Photo: The Eloquent Peasant (CC BY 4.0)'
+  license: wikimedia
+  source: 'File:Wildfire smoke on the Mississauga skyline.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - mississauga

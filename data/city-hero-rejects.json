@@ -534,5 +534,49 @@
  "cover:Indianapolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Indianapolis_Hebrew_Congregation%2C_900_Block_North_Delaware_Street_%28Indianapolis%2C_Ind.%29_-_DPLA_-_9378117fb7ee7e25b69acd7831efa73a.jpg/1280px-Indianapolis_Hebrew_Congregation%2C_900_Block_North_Delaware_Street_%28Indianapolis%2C_Ind.%29_-_DPLA_-_9378117fb7ee7e25b69acd7831efa73a.jpg": {
   "reason": "This is a painted/illustrated postcard, not a photo",
   "at": "2026-11-16T08:45:10.322Z"
+ },
+ "cover:Mississauga\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gas_Station%2C_Mississauga%2C_Canada.jpg/1280px-Gas_Station%2C_Mississauga%2C_Canada.jpg": {
+  "reason": "Generic gas station, not a Mississauga landmark view",
+  "at": "2026-11-18T21:54:17.678Z"
+ },
+ "Abu Simbel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_26-28_HDR.jpg/3840px-Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_26-28_HDR.jpg": {
+  "reason": "Interior statue chamber, not exterior landmark view",
+  "at": "2026-11-18T21:55:22.293Z"
+ },
+ "Abu Simbel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_74-76_HDR.jpg/3840px-Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_74-76_HDR.jpg": {
+  "reason": "Ancient relief carving, not a present-day venue view",
+  "at": "2026-11-18T21:55:24.418Z"
+ },
+ "Cairo\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/EKB_Pavilion_at_ICT_Cairo_Exhibition%2C_2018.jpg": {
+  "reason": "Indoor exhibition booth, not a Cairo cityscape",
+  "at": "2026-11-18T21:55:53.182Z"
+ },
+ "Cairo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ministers_of_Education%2C_Egypt_at_Cairo_ICT_2018.jpg/3840px-Ministers_of_Education%2C_Egypt_at_Cairo_ICT_2018.jpg": {
+  "reason": "Photo of people indoors, not a Cairo view",
+  "at": "2026-11-18T21:55:54.498Z"
+ },
+ "Cairo\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/EKB_Pavilion_at_ICT_Cairo_Exhibition%2C_2018_%282%29.jpg": {
+  "reason": "Indoor event photo focused on people, not a city view",
+  "at": "2026-11-18T21:55:55.847Z"
+ },
+ "Cairo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/EKB_featured_at_the_Cairo_ICT_2018_Exhibition.jpg/3840px-EKB_featured_at_the_Cairo_ICT_2018_Exhibition.jpg": {
+  "reason": "Indoor group of people, not a Cairo view",
+  "at": "2026-11-18T21:55:57.145Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Spices_on_Spice_Bazaar_in_Istanbul_02.jpg/3840px-Spices_on_Spice_Bazaar_in_Istanbul_02.jpg": {
+  "reason": "Close-up of spices, not a city view",
+  "at": "2026-11-18T21:56:02.849Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sweets_on_Spice_Bazaar_in_Istanbul_02.jpg/3840px-Sweets_on_Spice_Bazaar_in_Istanbul_02.jpg": {
+  "reason": "Close-up product shot of food, not a city view",
+  "at": "2026-11-18T21:56:04.286Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sweets_on_Spice_Bazaar_in_Istanbul_07.jpg/3840px-Sweets_on_Spice_Bazaar_in_Istanbul_07.jpg": {
+  "reason": "Close-up product shot of candy, not a city view",
+  "at": "2026-11-18T21:56:05.626Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sweets_on_Spice_Bazaar_in_Istanbul_05.jpg/3840px-Sweets_on_Spice_Bazaar_in_Istanbul_05.jpg": {
+  "reason": "Close-up of candy display, not a city view",
+  "at": "2026-11-18T21:56:06.961Z"
  }
 }

@@ -11,6 +11,14 @@ eventRecurring: true
 eventOffers:
   url: https://www.nara-marathon.jp
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Skyline_of_Nara_City02.jpg'
+  credit: 'Photo: Nryate / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Nara_City02.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - nara

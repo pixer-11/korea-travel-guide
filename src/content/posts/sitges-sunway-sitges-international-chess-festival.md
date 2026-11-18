@@ -12,6 +12,14 @@ eventOrganizer:
   name: FIDE
   url: https://www.fide.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ajuntament_de_Sitges_P1140837.JPG/1280px-Ajuntament_de_Sitges_P1140837.JPG'
+  credit: 'Photo: Pere López (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Ajuntament de Sitges P1140837.JPG'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - sitges

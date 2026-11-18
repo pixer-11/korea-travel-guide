@@ -13,6 +13,14 @@ eventOrganizer:
   name: Formula 1
   url: https://www.formula1.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Autodromo_Buenos_Aires.jpg'
+  credit: 'Photo: Banfield / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Autodromo_Buenos_Aires.jpg'
+  focus:
+    x: 55
+    y: 45
 gallery: []
 tags:
   - buenos aires

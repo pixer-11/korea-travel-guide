@@ -13,6 +13,14 @@ eventOrganizer:
   name: Skate Canada
   url: https://skatecanada.ca
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Passerelle_reliant_Hotel_Sheraton_%C3%A0_la_Maison_du_Citoyen%2C_secteur_Hull%2C_Gatineau%2C_Qu%C3%A9bec.JPG/1280px-Passerelle_reliant_Hotel_Sheraton_%C3%A0_la_Maison_du_Citoyen%2C_secteur_Hull%2C_Gatineau%2C_Qu%C3%A9bec.JPG'
+  credit: 'Photo: RaynaultM (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Passerelle reliant Hotel Sheraton à la Maison du Citoyen, secteur Hull, Gatineau, Québec.JPG'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - gatineau

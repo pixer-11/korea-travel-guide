@@ -9,6 +9,14 @@ eventStartDate: '2027-02-09'
 eventEndDate: '2027-02-13'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Berlin_Mitte_June_2023_01.jpg/3840px-Berlin_Mitte_June_2023_01.jpg'
+  credit: 'Photo: ArildV / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Berlin_Mitte_June_2023_01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - berlin

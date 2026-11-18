@@ -11,6 +11,14 @@ eventRecurring: true
 eventOrganizer:
   name: ATP Challenger Tour
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hochhaus_Technisches_Rathaus_Koblenz_2014.jpg/1280px-Hochhaus_Technisches_Rathaus_Koblenz_2014.jpg'
+  credit: 'Photo: Holger Weinandt (CC BY-SA 3.0 de)'
+  license: wikimedia
+  source: 'File:Hochhaus Technisches Rathaus Koblenz 2014.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - koblenz
