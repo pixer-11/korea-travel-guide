@@ -35,6 +35,8 @@ import { upcomingPastTense, endedPresentTense } from './lib/invented-outcomes.mj
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 import { hasBodyDisclosure } from './lib/body-disclosure.mjs';
 import { spellingTwins } from './lib/region-spelling.mjs';
+import { rotationDays, ROTATION_WARN_DAYS } from './lib/refresh-order.mjs';
+import { SHARES as PLACES_SHARES } from './lib/places-budget.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -976,6 +978,17 @@ async function main() {
     }
     // The count is quoted so the Korean rendering keeps it (facts() reads quotes).
     if (stale.length > 5) issues.push(`STALE-RECHECK: "${stale.length}건" overdue in total — check data/refresh-cursor.json and the refresh workflow`);
+
+    // The alarm above only speaks once posts are already overdue, and on
+    // 2026-11-17 the cause was not a stuck rotation but a slow one: 2,637 posts
+    // at 20 a day is 132 days. The posts grow daily and the share does not, so
+    // say it while there is still time to change the share. Live posts only
+    // (drafts are not in `posts`); the 20-day margin covers them many times over.
+    const venuePosts = posts.filter((p) => p.placeId).length;
+    const pass = rotationDays(venuePosts, PLACES_SHARES.refresh);
+    if (pass > ROTATION_WARN_DAYS) {
+      issues.push(`ROTATION-SLOW: "${venuePosts}편 · 한 바퀴 ${pass}일" at ${PLACES_SHARES.refresh} re-checks a day —STALE-RECHECK fires at ${STALE_RECHECK_DAYS}; raise the refresh share in lib/places-budget.mjs`);
+    }
   }
 
   // Unescaped tilde gate — ALL collections. CJK ranges ("4~5월") are GFM

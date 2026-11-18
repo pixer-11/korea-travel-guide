@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { sortRefreshCandidates, lastLooked } from './refresh-order.mjs';
+import { sortRefreshCandidates, lastLooked, rotationDays, ROTATION_WARN_DAYS } from './refresh-order.mjs';
 
 const order = (cands, checked = {}) => sortRefreshCandidates(cands, checked).map((c) => c.file);
 
@@ -104,6 +104,17 @@ test('lastLooked: the check when there is one, the publication day when there is
   assert.equal(lastLooked({ file: 'a.md', pubDate: '2026-07-01' }, { 'a.md': '2026-08-09' }), '2026-08-09');
   assert.equal(lastLooked({ file: 'a.md', pubDate: '2026-07-01T09:00:00Z' }, {}), '2026-07-01');
   assert.equal(lastLooked({ file: 'a.md' }, {}), '');
+});
+
+test('the slow-rotation warning speaks before the alarm can, and is quiet today', async () => {
+  const { SHARES } = await import('./places-budget.mjs');
+  assert.ok(ROTATION_WARN_DAYS < 120, 'a warning at or past the alarm is no warning');
+  // 2026-11-18: 2,637 venue posts at today's share. Quiet, or every run reports it.
+  assert.ok(rotationDays(2637, SHARES.refresh) <= ROTATION_WARN_DAYS);
+  // The 11-17 state — the same posts at 20 a day — is the case it exists for.
+  assert.equal(rotationDays(2637, 20), 132);
+  assert.ok(rotationDays(2637, 20) > ROTATION_WARN_DAYS);
+  assert.equal(rotationDays(100, 0), Infinity, 'a zero share never finishes a pass');
 });
 
 test('a rotation on this order never lets a post reach the 120-day alarm', () => {

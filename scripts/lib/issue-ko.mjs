@@ -111,6 +111,7 @@ const T = {
   'LOCAL-PHONE': () => '전화번호가 국내 형식 — 해외 유심에서 전화 연결 안 됨 (+국가번호 필요)',
   'BUSYNESS-OUTSIDE-HOURS': () => '한산/붐빔 시간이 영업시간 밖을 안내함 (repair-busyness-hours 실행 필요)',
   'STALE-RECHECK': () => '장소 정보 재점검이 너무 오래 끊김 — 주간 재점검(refresh) 작동 확인 필요',
+  'ROTATION-SLOW': () => '장소 글이 늘어 재점검 한 바퀴가 경고 기준(120일)에 가까워짐 — 하루 재점검 몫을 올릴지 결정 필요',
   'PLACEHOLDER-TEXT': () => '자리표시 문구가 그대로 남아 있음',
   'STALE-TRANSLATION': () => '원문이 바뀐 뒤 번역이 갱신되지 않음',
   'ORPHAN-TRANSLATION': () => '원문 없는 번역 파일',

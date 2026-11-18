@@ -48,6 +48,17 @@ export function lastLooked(candidate, checked) {
   return day(checked[candidate.file]) || day(candidate.pubDate);
 }
 
+// How long one pass over the venue posts takes at `perDay` re-checks. The order
+// above keeps the alarm quiet only while this stays under the alarm's 120 days,
+// and the catalogue grows every day while the share is a constant somebody
+// typed: on 2026-11-17 the pass was 132 days and nothing had said so until the
+// alarm itself went off. validate-content raises ROTATION-SLOW past
+// ROTATION_WARN_DAYS, which at 35 a day is 700 posts — months — of notice.
+export const ROTATION_WARN_DAYS = 100;
+export function rotationDays(venuePosts, perDay) {
+  return perDay > 0 ? Math.ceil(venuePosts / perDay) : Infinity;
+}
+
 /**
  * @param {{file: string, pubDate?: string|Date}[]} candidates
  * @param {Record<string, string>} checked  filename → YYYY-MM-DD last checked
