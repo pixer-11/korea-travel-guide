@@ -1,65 +1,65 @@
 ---
 lang: es
 slug: bangkok-my-chemical-romance-bangkok
-srcHash: '1ef514160148'
-title: 'My Chemical Romance en Bangkok: fecha, entradas y recinto (Bangkok)'
-description: My Chemical Romance actuará en Bangkok el martes 17 de noviembre de 2026 en el Impact Challenger Hall, situado en Muang Thong Thani, justo al norte del centro de la ciudad.
-quickAnswer: My Chemical Romance actuará en Bangkok el martes 17 de noviembre de 2026 en el Impact Challenger Hall, situado en Muang Thong Thani, justo al norte del centro de la ciudad. La mayoría del público llega en la línea rosa del MRT o en taxi. Conviene saber que la salida se hace más lenta que la llegada, porque todo el mundo emprende el regreso a la vez.
+srcHash: '819660b58dca'
+title: 'My Chemical Romance en Bangkok: fechas, entradas y recinto (Bangkok)'
+description: El martes 17 de noviembre de 2026 era la fecha anunciada para el concierto de My Chemical Romance en el Impact Challenger Hall de Muang Thong Thani, justo al norte del centro de Bangkok.
+quickAnswer: El concierto de My Chemical Romance en Bangkok estaba programado para el martes 17 de noviembre de 2026 en el Impact Challenger Hall de Muang Thong Thani, justo al norte del centro de la ciudad. Al recinto se llega sobre todo en taxi o con la línea rosa del MRT (Pink Line). Tras un gran espectáculo, salir suele llevar más tiempo que llegar, porque todo el público se marcha a la vez.
 faq:
-  - q: ¿Cuándo y dónde actúa My Chemical Romance en Bangkok?
-    a: El concierto será el martes 17 de noviembre de 2026 en el Impact Challenger Hall. El pabellón forma parte del complejo IMPACT Muang Thong Thani, en Pak Kret (Nonthaburi), justo al norte de Bangkok.
+  - q: ¿Cuándo y dónde actuaba My Chemical Romance en Bangkok?
+    a: La fecha anunciada era el martes 17 de noviembre de 2026, en el Impact Challenger Hall. Este pabellón forma parte del complejo IMPACT Muang Thong Thani, situado en Pak Kret (Nonthaburi), justo al norte de Bangkok.
   - q: ¿Cómo se llega al Impact Challenger Hall en transporte público?
-    a: Hay que tomar la línea rosa del MRT hasta la estación de Muang Thong Thani. Para enlazar con la línea rosa, puede hacer transbordo desde la línea morada del MRT en Khae Rai o desde la línea Sukhumvit del BTS en Wat Phra Sri Mahathat.
-  - q: ¿Dónde se venden las entradas?
-    a: Los enlaces de venta, las zonas y los precios los publica el promotor de la gira en sus canales oficiales. La mayoría de las estafas con entradas se producen en la reventa no oficial a través de redes sociales.
+    a: La línea rosa del MRT tiene parada en la estación de Muang Thong Thani. En Khae Rai enlaza con la línea morada del MRT, y en Wat Phra Sri Mahathat, con la línea Sukhumvit del BTS.
+  - q: ¿Dónde se vendían las entradas?
+    a: La venta corría a cargo del promotor de la gira, que también fijó las zonas y los precios. En Tailandia, la mayoría de las estafas con entradas se producen en la reventa no oficial a través de las redes sociales.
   - q: ¿Cuánto se tarda en salir después del concierto?
-    a: Cuente con una salida lenta. Miles de personas se dirigen a la vez hacia la línea rosa y las paradas de taxi, y las tarifas de los VTC se disparan. Muchos asistentes optan por cenar dentro del complejo hasta que se dispersa la multitud.
-  - q: ¿Dónde conviene alojarse para el concierto?
-    a: Dentro del propio complejo se encuentra el Novotel Bangkok Impact, y en la avenida Chaeng Watthana hay otros hoteles. Quienes prefieren quedarse en el centro suelen buscar alojamiento cerca de alguna estación de la línea Sukhumvit del BTS para luego enlazar con la línea rosa.
+    a: En los grandes espectáculos de IMPACT, la salida suele ser lenta. Miles de personas se dirigen al mismo tiempo hacia la línea rosa y las paradas de taxi, y las tarifas de los servicios de transporte por aplicación se disparan. Muchos asistentes cenan dentro del complejo mientras esperan a que se disperse la multitud.
+  - q: ¿Dónde alojarse para el concierto?
+    a: El Novotel Bangkok Impact se encuentra dentro del propio complejo, y hay otros hoteles a lo largo de la avenida Chaeng Watthana. Quienes prefieren alojarse en el centro suelen elegir un hotel cerca de alguna estación de la línea Sukhumvit del BTS y hacer transbordo a la línea rosa.
 ---
 
-## Un martes por la noche vestido de negro
+## Un martes vestido de negro
 
-El Black Parade llega a Bangkok entre semana. El martes 17 de noviembre de 2026, My Chemical Romance encabeza el cartel del Impact Challenger Hall con el espectáculo teatral que caracteriza a la banda desde mediados de la década de 2000. En una ciudad por la que casi todas las grandes giras pasan en fin de semana, esa fecha condiciona toda la velada, desde el trayecto de ida hasta la vuelta a casa.
+La cita de Bangkok con *The Black Parade* caía entre semana. My Chemical Romance iba a encabezar el cartel del Impact Challenger Hall el martes 17 de noviembre de 2026, con ese montaje teatral que distingue a la banda desde mediados de la década de 2000. En una ciudad por la que casi todas las grandes giras pasan en fin de semana, un concierto en martes lo cambia todo, desde el trayecto de ida hasta la vuelta a casa.
 
-El grupo se fundó en Nueva Jersey en 2001 y se separó en 2013. En 2019 volvió a reunirse, y desde entonces sus conciertos parecen saldar por fin una deuda acumulada durante una década. Para el público tailandés que creció escuchando *The Black Parade*, no se trata de una simple actuación de festival, sino de un concierto propio con todas las letras.
+El grupo se formó en Nueva Jersey en 2001 y se separó en 2013. Volvió a reunirse en 2019, y desde entonces sus conciertos parecen saldar por fin una deuda de diez años con el público. Para los seguidores tailandeses que crecieron escuchando *The Black Parade*, esta fecha se anunció como un concierto propio de la banda y no como una actuación más dentro de un festival.
 
-## Así es el Challenger Hall
+## Dentro del Challenger Hall
 
-El Challenger Hall no es un estadio. Es una enorme nave de exposiciones del complejo IMPACT Muang Thong Thani, construida sin pilares, de modo que la pista resulta llana, amplia y diáfana. Al no haber columnas que estorben, la visibilidad desde la pista depende sobre todo de lo lejos que uno se coloque y de las cabezas que tenga delante.
+El Challenger Hall no es un estadio, sino un enorme pabellón de exposiciones del complejo IMPACT Muang Thong Thani. Al estar construido sin pilares, ofrece una pista llana, amplia y diáfana. Como ninguna columna estorba, la visibilidad depende sobre todo de la distancia al escenario y de las cabezas que uno tenga delante.
 
-En este pabellón se celebran con frecuencia grandes conciertos internacionales, giras de K-pop y ferias comerciales. El complejo que lo rodea incluye el IMPACT Arena, varios pabellones de exposiciones, un lago y una sucesión de zonas de restauración y tiendas de conveniencia. Antes de que abran las puertas, los pasillos entre edificios se llenan de seguidores con los ojos perfilados de negro y camisetas del grupo, y no falta quien luce alguna chaqueta de banda de música.
+El pabellón acoge con frecuencia grandes conciertos internacionales, giras de K-pop y ferias comerciales. A su alrededor, el complejo reúne el IMPACT Arena, varios pabellones de exposiciones, un lago y una sucesión de zonas de restauración y tiendas de conveniencia. Las noches de rock, mucho antes de que se abran las puertas, los pasillos entre edificios suelen llenarse de ojos perfilados en negro, camisetas de grupos y alguna que otra chaqueta de banda de música.
 
 ## Cómo llegar a Muang Thong Thani
 
-IMPACT se encuentra en el distrito de Pak Kret (Nonthaburi), a unos 25 km al norte de Sukhumvit. Queda más cerca del aeropuerto de Don Mueang que del casco antiguo. Estas son las principales opciones:
+IMPACT se encuentra en el distrito de Pak Kret, en la provincia de Nonthaburi, a unos 25 km al norte de Sukhumvit. Queda más cerca del aeropuerto de Don Mueang que del casco antiguo. Estas son las opciones principales:
 
 - **Línea rosa del MRT:** este monorraíl elevado recorre la avenida Chaeng Watthana, y la estación de Muang Thong Thani da servicio al complejo.
-- **Enlaces con la línea rosa:** se puede hacer transbordo desde la línea morada del MRT en Khae Rai o desde la línea Sukhumvit del BTS en Wat Phra Sri Mahathat.
-- **Taxi o Grab:** le dejan en la puerta, aunque la avenida Chaeng Watthana se colapsa las tardes de los días laborables.
+- **Enlaces con la línea rosa:** se puede transbordar desde la línea morada del MRT en Khae Rai o desde la línea Sukhumvit del BTS en Wat Phra Sri Mahathat.
+- **Taxi o Grab:** llevan de puerta a puerta, aunque la avenida Chaeng Watthana se colapsa por las tardes entre semana.
 
-Al ser martes, el trayecto de ida coincide con la hora punta de Bangkok. Quienes vienen desde el centro suelen salir a media tarde o hacer todo el recorrido en tren para esquivar los atascos.
+Al ser martes, el viaje de ida coincidía con la hora punta de Bangkok. Cuando el concierto cae en día laborable, quienes salen del centro suelen ponerse en marcha a media tarde o hacer todo el trayecto en tren para esquivar los atascos.
 
-## Entradas y dónde consultar la información
+## Entradas e información oficial
 
-Es el promotor de la gira quien publica en sus canales oficiales la fecha, el recinto y los enlaces de venta del concierto de Bangkok. De esa misma fuente proceden las categorías de entradas, los planos de las localidades y las normas de acceso. Los seguidores tailandeses denuncian estafas sobre todo en los anuncios de reventa de las redes sociales, y el único lugar fiable para comprar es el punto de venta del propio promotor.
+La venta de entradas para el concierto de Bangkok corrió a cargo del promotor de la gira, que también fijó las categorías, los planos de asientos y las normas de acceso. Los seguidores tailandeses denuncian estafas sobre todo en los anuncios de reventa de las redes sociales, y el único canal fiable de compra era el del propio promotor.
 
-Aquí no se indican precios. Los vigentes para cada zona figuran en la página de venta del promotor.
+Cada zona tenía su propio precio.
 
-## Cómo se vive un concierto en Bangkok
+## Así transcurre una noche de concierto en Bangkok
 
-El público tailandés es entusiasta, organizado y, por lo general, muy educado. Algunas costumbres marcan el desarrollo de la noche:
+El público tailandés es entusiasta, organizado y, por lo general, muy educado. Algunas costumbres marcan la velada:
 
-- **Las colas empiezan mucho antes de abrir puertas.** Quienes tienen entrada de pista suelen llegar con muchas horas de antelación para colocarse junto a la valla. Las colas para el merchandising también arrancan temprano.
-- **Se paga con el móvil.** Los puestos de comida y las tiendas de conveniencia de IMPACT aceptan el pago tailandés por código QR (PromptPay). Para los pocos puestos que no lo admiten, bastan unos billetes pequeños.
-- **Se revisan los bolsos.** En la entrada de los grandes pabellones de conciertos de Tailandia hay controles de seguridad, por lo que la gente acude con poco equipaje. Con un bolso pequeño se pasa más rápido.
-- **Cantar fuerte, empujar poco.** El público local suele mantener su sitio en lugar de abalanzarse hacia delante. A quien se abre paso a empujones hacia las primeras filas lo miran mal.
-- **La avalancha de la salida no es ninguna exageración.** Al acabar el concierto, miles de personas se dirigen en el mismo momento hacia la línea rosa y las paradas de taxi. Como las tarifas de los VTC se disparan, muchos asistentes cenan por la zona o esperan dentro del complejo hasta que baja la afluencia.
+- **Las colas empiezan mucho antes de abrir puertas.** Con entrada de pista, muchos seguidores llegan con varias horas de antelación para colocarse junto a la valla. Las colas para comprar productos oficiales también suelen formarse a primera hora del día.
+- **Se paga con el móvil.** Los puestos de comida y las tiendas de conveniencia de IMPACT aceptan el pago tailandés por código QR (PromptPay). Para los puestos que no lo admiten, bastan unos billetes pequeños.
+- **Se revisan los bolsos.** En la entrada de los grandes recintos de conciertos de Tailandia hay controles de seguridad, así que el público acude con poco equipaje. Con un bolso pequeño se pasa antes.
+- **Cantar a pleno pulmón, empujar lo justo.** El público local tiende a mantener su sitio en lugar de abalanzarse hacia delante. Quien se abre paso a empujones se gana miradas de reproche.
+- **La avalancha de la salida es real.** Al terminar el concierto, miles de personas se dirigen a la vez hacia la línea rosa y las paradas de taxi. Como las tarifas de los servicios por aplicación se disparan, muchos optan por cenar cerca o esperar dentro del complejo hasta que la multitud se disperse.
 
-En noviembre comienza en Bangkok la estación fresca y seca, así que la cola al aire libre por la tarde se lleva mucho mejor que en abril. Aun así, dentro de un pabellón abarrotado hará calor, y los asistentes suelen vestirse pensando más en la temperatura que en la estética del cartel.
+En noviembre comienza la estación fresca y seca de Bangkok, de modo que hacer cola al aire libre por la tarde resulta mucho más llevadero que en abril. Aun así, dentro de un pabellón abarrotado sigue haciendo calor, por lo que los asistentes suelen vestirse pensando en la temperatura más que en la estética del cartel.
 
 ## Alojarse cerca del recinto
 
-El Novotel Bangkok Impact está dentro del complejo, a pocos pasos de los pabellones. Para quienes vienen de fuera, elimina por completo el trayecto de vuelta de madrugada. A lo largo de la avenida Chaeng Watthana y en los alrededores de Muang Thong Thani hay otros hoteles, y desde esa zona el trayecto al aeropuerto de Don Mueang es el más corto si tiene un vuelo a la mañana siguiente.
+El Novotel Bangkok Impact está dentro del complejo, a pocos minutos a pie de los pabellones. A quienes vienen de fuera les ahorra por completo el trayecto de vuelta de madrugada. A lo largo de la avenida Chaeng Watthana y en la zona de Muang Thong Thani hay otros hoteles, y desde allí el trayecto al aeropuerto de Don Mueang es el más corto para quien vuela a la mañana siguiente.
 
-Quienes prefieren alojarse en el centro suelen elegir un hotel cerca de alguna estación de la línea Sukhumvit del BTS. Desde allí viajan hasta Wat Phra Sri Mahathat y hacen transbordo a la línea rosa. Con la carretera despejada, esta ruta es más lenta que el taxi, pero una tarde entre semana suele ser la opción más rápida.
+Quienes prefieren alojarse en el centro suelen instalarse cerca de alguna estación de la línea Sukhumvit del BTS. Desde allí viajan hasta Wat Phra Sri Mahathat y cambian a la línea rosa. Con la carretera despejada, esta ruta es más lenta que el taxi, pero una tarde entre semana suele ser la opción más rápida.

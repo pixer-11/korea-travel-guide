@@ -41158,5 +41158,40 @@
   "registerBreak": false,
   "worst": "周日上午附近营业的咖啡馆会比较少。",
   "at": "2026-11-18T07:45:31.798Z"
+ },
+ "es/bangkok-my-chemical-romance-bangkok": {
+  "hash": "d1bd978c3650",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Quien se abre paso a empujones se gana miradas de rep",
+  "at": "2026-11-18T16:39:17.229Z"
+ },
+ "es/seattle-katseye-the-wildworld-tour-seattle": {
+  "hash": "acb1b1da9134",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "A KATSEYE se la conoce por un estilo de coreografías exigentes y voces siempre en directo",
+  "at": "2026-11-18T16:39:18.163Z"
+ },
+ "ja/seattle-katseye-the-wildworld-tour-seattle": {
+  "hash": "a0bfa71afc38",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "クロークがいつも利用できるとは限らないため、座席の下に押し込める重ね着で来場する人が多く見られます。",
+  "at": "2026-11-18T16:39:24.753Z"
+ },
+ "ko/seattle-katseye-the-wildworld-tour-seattle": {
+  "hash": "686f4d9f8cfb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 구조 덕분에 객석 경사가 가팔라서 겉에서 보고 짐작하는 것보다 무대가 훨씬 가깝게 보입니다.",
+  "at": "2026-11-18T16:39:25.814Z"
+ },
+ "zh/seattle-katseye-the-wildworld-tour-seattle": {
+  "hash": "411eabf39287",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这样的出身也决定了她们的粉丝构成：不少粉丝从成员最早的试镜片段起就一路追随",
+  "at": "2026-11-18T16:39:26.808Z"
  }
 }
