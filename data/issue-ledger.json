@@ -1,36 +1,11 @@
 {
-  "validate-content": {
-    "STALE-RECHECK seoul-euljiro.md": {
-      "since": "2026-11-17",
-      "last": "2026-11-17",
-      "seen": 1
-    },
-    "STALE-RECHECK seoul-gwangjang-market.md": {
-      "since": "2026-11-17",
-      "last": "2026-11-17",
-      "seen": 1
-    },
-    "STALE-RECHECK seoul-ikseon-dong.md": {
-      "since": "2026-11-17",
-      "last": "2026-11-17",
-      "seen": 1
-    },
-    "STALE-RECHECK suncheon-suncheon-bay.md": {
-      "since": "2026-11-17",
-      "last": "2026-11-17",
-      "seen": 1
-    },
-    "STALE-RECHECK suwon-hwaseong-fortress.md": {
-      "since": "2026-11-17",
-      "last": "2026-11-17",
-      "seen": 1
-    },
-    "STALE-RECHECK \"6건\"": {
-      "since": "2026-11-17",
-      "last": "2026-11-17",
+  "validate-content": {},
+  "audit-translations": {
+    "broken-syllable posts/ko/kuala-lumpur-5-seconds-of-summer-everyone-s-a-star-tour.md": {
+      "since": "2026-11-18",
+      "last": "2026-11-18",
       "seen": 1
     }
   },
-  "audit-translations": {},
   "audit-hours-claims": {}
 }
