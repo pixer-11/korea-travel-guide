@@ -177,3 +177,24 @@ test('역방향: 돈이 아닌 것은 넓어진 규칙에도 걸리지 않는다
     'The EGP is the local currency', 'Take Line 1 Sol to the square', 'order 2 som tam to share',
   ]) assert.deepEqual(moneyClaims(c), [], c);
 });
+
+test('문장부호 뒤의 won 은 동사다 — 연도는 금액이 아니다 (11-19)', () => {
+  for (const c of [
+    // 실제로 경고가 나간 문장(부에노스아이레스 F1 글).
+    'The last edition was in 1998, won by Michael Schumacher for Ferrari.',
+    'She raced here in 2024, won the title in 2025 and retired.',
+    'Founded in 1920. Won over by the view, the owners stayed.',
+    // 쉼표가 없어도 목적어가 따라오면 동사다.
+    'The club in 2019 won the national title', 'Schumacher in 1998 won his third race here',
+    // 코드도 같은 부류: 문장이 끝난 뒤의 대문자 낱말.
+    'The fair began in 2019. TRY the lamb first.', 'Opened in 1998, PEN America held readings here',
+  ]) assert.deepEqual(moneyClaims(c), [], c);
+});
+
+test('역방향: 숫자로 끝나는 진짜 금액은 문장부호가 붙어도 그대로 잡는다', () => {
+  for (const c of [
+    'Expect about 15,000 won per person', 'A bowl costs 8,000 won a head', 'It costs 5000 won.',
+    'Pay 5,000 won by card', 'Tickets start at 30,000 won, payable at the gate', 'around 1.5 dollars each',
+    'Entry is 700 EGP.', 'about 12,000won at the stall',
+  ]) assert.equal(moneyClaims(c).length, 1, c);
+});

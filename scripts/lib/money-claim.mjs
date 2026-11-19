@@ -27,7 +27,15 @@ export const CURRENCY_WORDS = [
 // "Keep your bag below 50 pounds" 는 무게다. 이집트 글의 "700 pounds" 는 금액이므로
 // 낱말을 빼지 않고, 앞에 짐·무게 문맥이 있을 때만 건너뛴다(코덱스, 11-09).
 const POUNDS_NOT_WEIGHT = String.raw`(?<!\b(?:bags?|baggage|luggage|suitcases?|backpacks?|carry-ons?|weigh\w*)\b[^.!?]{0,40})pounds?`;
-export const CURRENCY_WORDS_ALONE = CURRENCY_WORDS.map((w) => (w === 'pounds?' ? POUNDS_NOT_WEIGHT : w));
+// "won" 은 동사이기도 하다. "in 2019 won the national title" 의 연도가 한국 돈이 된다.
+// 뒤에 목적어가 오는 꼴만 뺀다 — "8,000 won a bowl", "5,000 won by card" 는 금액이다.
+const WON_NOT_VERB = String.raw`won(?!\s+(?:the|his|her|their|its)\b)`;
+export const CURRENCY_WORDS_ALONE = CURRENCY_WORDS.map((w) => (w === 'pounds?' ? POUNDS_NOT_WEIGHT : w === 'won' ? WON_NOT_VERB : w));
+// 금액의 숫자는 숫자로 끝난다. `\d[\d,.]*` 는 문장부호까지 삼켜서 "in 1998, won by
+// Michael Schumacher" 의 "1998, won" 을 금액으로 읽었다 — F1 글 한 편이 발행 때마다
+// 경고로 나가고 수리 모델로 보내졌다, 지울 가격이 없는데도(11-19). "50,000 won" 의
+// 쉼표는 숫자 사이에 있으므로 그대로 잡힌다. validate-content 도 이 조각을 쓴다.
+export const AMOUNT_DIGITS = String.raw`\d(?:[\d,.]*\d)?`;
 // "700 Egyptian pounds": 숫자와 단위 사이에 끼는 나라 형용사. 아무 낱말이나 허용하면
 // "2 people won" 이 금액이 된다.
 export const CURRENCY_ADJECTIVES = [
@@ -40,7 +48,8 @@ export const CURRENCY_ADJECTIVES = [
 const SYMBOLS = '$€£¥₩₫฿₹₺₱₾₮៛元';
 const CURRENCY_SYMBOL = String.raw`[${SYMBOLS}]\s?\d[\d,.]*`;
 const CURRENCY_RP = String.raw`\bRp\.?\s?\d[\d,.]*`;
-const CURRENCY_WORD = String.raw`\b\d[\d,.]*\s?(?:(?:${CURRENCY_ADJECTIVES.join('|')})\s+)?(?:USD|EUR|GBP|JPY|KRW|VND|THB|IDR|SGD|MYR|PHP|INR|TWD|HKD|CNY|RMB|AUD|CAD|CHF|${CURRENCY_WORDS.join('|')})\b`;
+const WORDS_AFTER_DIGITS = CURRENCY_WORDS.map((w) => (w === 'won' ? WON_NOT_VERB : w));
+const CURRENCY_WORD = String.raw`\b${AMOUNT_DIGITS}\s?(?:(?:${CURRENCY_ADJECTIVES.join('|')})\s+)?(?:USD|EUR|GBP|JPY|KRW|VND|THB|IDR|SGD|MYR|PHP|INR|TWD|HKD|CNY|RMB|AUD|CAD|CHF|${WORDS_AFTER_DIGITS.join('|')})\b`;
 const AMOUNT = new RegExp(`(?:${CURRENCY_SYMBOL}|${CURRENCY_RP}|${CURRENCY_WORD})`, 'gi');
 
 // 코드는 대소문자를 구분해서 본다: TRY·PEN·GEL·MOP 는 소문자로 쓰면 영어 낱말이다.
@@ -50,8 +59,8 @@ const CODES = CURRENCY_CODES.join('|');
 export const CODED_AMOUNT_PATTERN = [
   String.raw`\b(?:${CODES}|RM|TL|Rs\.?|L\.E\.|LE)\s?\d[\d,.]*`,
   String.raw`\bS\/\.?\s?\d[\d,.]*`,
-  String.raw`\b\d[\d,.]*\s?(?:${CODES}|RM|TL)\b`,
-  String.raw`\b\d[\d,.]*\s?L\.?E\.?(?![A-Za-z])(?!\s+[A-Z])`,
+  String.raw`\b${AMOUNT_DIGITS}\s?(?:${CODES}|RM|TL)\b`,
+  String.raw`\b${AMOUNT_DIGITS}\s?L\.?E\.?(?![A-Za-z])(?!\s+[A-Z])`,
 ].join('|');
 const CODED_AMOUNT = new RegExp(CODED_AMOUNT_PATTERN, 'g');
 
