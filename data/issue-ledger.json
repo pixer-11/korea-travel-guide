@@ -1,5 +1,16 @@
 {
   "validate-content": {},
-  "audit-translations": {},
+  "audit-translations": {
+    "broken-syllable, posts/ko/ho-chi-minh-city-tet-lunar-new-year-festival.md": {
+      "since": "2026-11-19",
+      "last": "2026-11-19",
+      "seen": 1
+    },
+    "broken-syllable, posts/ko/thanh-hoa-vietnam-jungle-marathon-pu-luong.md": {
+      "since": "2026-11-19",
+      "last": "2026-11-19",
+      "seen": 1
+    }
+  },
   "audit-hours-claims": {}
 }
