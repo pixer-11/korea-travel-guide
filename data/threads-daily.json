@@ -120,30 +120,29 @@
     "gapyeong-garden-of-morning-calm",
     "fukuoka-manly",
     "istanbul-nancy-ajram-concert",
-    "naoshima-benesse-house-museum"
+    "naoshima-benesse-house-museum",
+    "milan-max-pezzali-unipol-dome-milan"
   ],
-  "lastSentDay": "2026-11-19",
+  "lastSentDay": "2026-11-20",
   "material": {
-    "day": "2026-11-19",
-    "slug": "naoshima-benesse-house-museum",
-    "title": "Benesse House Museum: Naoshima Travel Guide (4.3★)",
+    "day": "2026-11-20",
+    "slug": "milan-max-pezzali-unipol-dome-milan",
+    "title": "Max Pezzali - Unipol Dome Milan: Dates, Tickets & Venue (Milan)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-19-naoshima-benesse-house-museum-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-20-milan-max-pezzali-unipol-dome-milan-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-20-milan-max-pezzali-unipol-dome-milan-2.jpg"
     ],
-    "igCaption": "Tadao Ando carved this museum into a hillside above the Seto Inland Sea, pairing concrete walls with glass views of the islands. Just downhill, Kusama's yellow pumpkin waits at the end of a pier — and the galleries stay open until\n\n#BenesseHouseMuseum #Naoshima #Japan #travelguide #travel #wanderatlas\n📷 Photo: 663highland / Wikimedia Commons (CC BY 2.5) (edited)",
-    "thOption": "Benesse House Museum stays open 8am–9pm, way later than most Japanese museums. Would you time your visit for the quiet evening hours, after the day-trip crowds leave on the afternoon ferry?",
-    "link": "https://wanderatlasguides.com/posts/naoshima-benesse-house-museum/"
+    "igCaption": "Max Pezzali brings his 883-era anthems to Milan's brand-new Unipol Dome on January 4, 2027 — built for the Winter Olympics, now ready for ten thousand voices singing every word. Easy to reach via Rogoredo station, and timed right in the middle of Italy's Epiphany holiday week.\n\n#Milan #Italy #events #travel #wanderatlas #TravelItaly #UnipolDome #MaxPezzali #SantaGiulia #ConcertTravel\n📷 Photo: daviderudy93 / Wikimedia Commons (CC BY-SA 2.0) (edited)",
+    "thOption": "Which 883 song do you think the crowd sings loudest — \"Gli anni,\" the nostalgic closer, or the 1992 breakthrough \"Hanno ucciso l'Uomo Ragno\"?",
+    "link": "https://wanderatlasguides.com/posts/milan-max-pezzali-unipol-dome-milan/"
   },
   "social": {
-    "thDay": "2026-11-19",
-    "thId": "18159600316468370",
-    "igDay": "2026-11-18",
-    "igId": "18122877934951038",
-    "thSlug": "naoshima-benesse-house-museum",
-    "igSlug": "istanbul-nancy-ajram-concert",
+    "thDay": "2026-11-20",
+    "thId": "18649947373011692",
+    "igDay": "2026-11-20",
+    "igId": "18433422982144504",
+    "thSlug": "milan-max-pezzali-unipol-dome-milan",
+    "igSlug": "milan-max-pezzali-unipol-dome-milan",
     "history": [
       {
         "day": "2026-10-10",
@@ -785,7 +784,25 @@
         "day": "2026-11-13",
         "slug": "jakarta-bts-world-tour-arirang-jakarta",
         "thId": "18116342822165630",
-        "igId": "18224026666356364"
+        "igId": "18224026666356364",
+        "insights": {
+          "at": "2026-11-20",
+          "th": {
+            "views": 58,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-14",
@@ -818,6 +835,12 @@
         "day": "2026-11-19",
         "slug": "naoshima-benesse-house-museum",
         "thId": "18159600316468370"
+      },
+      {
+        "day": "2026-11-20",
+        "slug": "milan-max-pezzali-unipol-dome-milan",
+        "thId": "18649947373011692",
+        "igId": "18433422982144504"
       }
     ]
   }
