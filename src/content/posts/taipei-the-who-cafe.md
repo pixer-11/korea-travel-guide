@@ -1,31 +1,36 @@
 ---
 title: 'The Who Cafe: Taipei Travel Guide'
-description: The Who Cafe is a plant-filled, two-storey coffeehouse tucked up a stairwell on Lishui Street in Da'an District, a five-minute walk from Dongmen MRT (Exit 5, Lines 3 and 6).
+description: >-
+  The Who Cafe is a plant-filled, two-storey coffeehouse tucked up a stairwell
+  on Lishui Street in Da'an District, a five-minute walk from Dongmen MRT (Exit
+  5, Lines 3 and 6).
 country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-07-26T07:04:14.904Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/56802654_yDAHZYxJnORYkFWLg0h1rxv6aL8dNOF0zZFfomYDIQA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/56802654_yDAHZYxJnORYkFWLg0h1rxv6aL8dNOF0zZFfomYDIQA.jpg
   credit: 'Photo: Foursquare user content (框影 the who cafe)'
   license: foursquare
-  source: https://foursquare.com/v/5a35191c1b0ea57a2f6b39db
+  source: 'https://foursquare.com/v/5a35191c1b0ea57a2f6b39db'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
   id: ChIJIVMfUIKpQjQRo_eG-oCfZuE
   name: The Who Cafe
-  address: 106, Taiwan, Taipei City, Da’an District, Lishui St, 2-1號2樓
+  address: '106, Taiwan, Taipei City, Da’an District, Lishui St, 2-1號2樓'
   rating: 4.7
-  userRatingsTotal: 1428
+  userRatingsTotal: 1447
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=16241844482466052003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16241844482466052003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.033499100000004
   lng: 121.52912210000001
-  phone: '+886 2 3322 1020'
+  phone: +886 2 3322 1020
   openingHours:
     - 'Monday: 12:00 – 8:30 PM'
     - 'Tuesday: 12:00 – 8:30 PM'
@@ -37,19 +42,43 @@ place:
 tags:
   - taipei
   - trendy cafe
-quickAnswer: The Who Cafe is a plant-filled, two-storey coffeehouse tucked up a stairwell on Lishui Street in Da'an District, a five-minute walk from Dongmen MRT (Exit 5, Lines 3 and 6). Go on a weekday mid-morning for a window seat and unhurried service; weekends after lunch get tight since it's a well-known name with a 4.7 rating from over 1,400 reviews. Budget 1–2 hours, cash or card both fine, and expect to queue if you arrive without a plan on Saturday afternoon.
+quickAnswer: >-
+  The Who Cafe is a plant-filled, two-storey coffeehouse tucked up a stairwell
+  on Lishui Street in Da'an District, a five-minute walk from Dongmen MRT (Exit
+  5, Lines 3 and 6). Go on a weekday mid-morning for a window seat and unhurried
+  service; weekends after lunch get tight since it's a well-known name with a
+  4.7 rating from over 1,400 reviews. Budget 1–2 hours, cash or card both fine,
+  and expect to queue if you arrive without a plan on Saturday afternoon.
 faq:
   - q: How do I get to The Who Cafe by MRT?
-    a: Take Dongmen Station (Line 3 Xindian / Line 6 Zhonghe–Xinlu) and use Exit 5. It's about a 5–8 minute walk through the residential lanes of Da'an District to Lishui St.
+    a: >-
+      Take Dongmen Station (Line 3 Xindian / Line 6 Zhonghe–Xinlu) and use Exit
+      5. It's about a 5–8 minute walk through the residential lanes of Da'an
+      District to Lishui St.
   - q: When is the quietest time to visit?
-    a: Weekday mornings, especially right after opening and before noon, are calmest. Weekend afternoons see the heaviest brunch crowds, so avoid arriving after midday on Saturday or Sunday if you want a table without waiting.
+    a: >-
+      Weekday mornings, especially right after opening and before noon, are
+      calmest. Weekend afternoons see the heaviest brunch crowds, so avoid
+      arriving after midday on Saturday or Sunday if you want a table without
+      waiting.
   - q: How much should I budget and how do I pay?
-    a: It's a mid-range cafe (price level 2 of 4), so expect to pay roughly what you would at a good Western-style brunch spot in Taipei. Cards are generally accepted, but it's wise to carry some cash as backup, as is common practice across Taipei's smaller cafes.
+    a: >-
+      It's a mid-range cafe (price level 2 of 4), so expect to pay roughly what
+      you would at a good Western-style brunch spot in Taipei. Cards are
+      generally accepted, but it's wise to carry some cash as backup, as is
+      common practice across Taipei's smaller cafes.
   - q: How long should I plan to stay?
-    a: Most visits run 1–2 hours — this is a sit-and-linger cafe with brunch-style portions, not a quick coffee stop, especially given the second-floor seating is worth taking your time in.
+    a: >-
+      Most visits run 1–2 hours — this is a sit-and-linger cafe with
+      brunch-style portions, not a quick coffee stop, especially given the
+      second-floor seating is worth taking your time in.
   - q: What's nearby if I want to make a morning of it?
-    a: Da'an Forest Park and Yongkang Street's food stalls and dessert shops are both within easy walking distance, making this a good anchor for a slower-paced Da'an District morning.
+    a: >-
+      Da'an Forest Park and Yongkang Street's food stalls and dessert shops are
+      both within easy walking distance, making this a good anchor for a
+      slower-paced Da'an District morning.
 aiGenerated: true
+updatedDate: '2026-11-19'
 ---
 ## Why go
 

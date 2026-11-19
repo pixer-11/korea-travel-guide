@@ -1,30 +1,37 @@
 ---
 title: 'Mole Antonelliana: Turin Travel Guide'
-description: The Mole Antonelliana is Turin's soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up to a panoramic terrace 85 metres above the city, with the full spire topping out at 121 metres.
+description: >-
+  The Mole Antonelliana is Turin's soaring 19th-century landmark on Via
+  Montebello, home to the National Museum of Cinema and a glass lift that shoots
+  you up to a panoramic terrace 85 metres above the city, with the full spire
+  topping out at 121 metres.
 country: Italy
 region: Turin
 category: hidden-gem
 pubDate: '2026-07-29T10:14:17.068Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/14546441_JRIV-jtJAJFn4P7y_RGSfu-a1ZkoZAmO3fVsIKNW8bo.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/14546441_JRIV-jtJAJFn4P7y_RGSfu-a1ZkoZAmO3fVsIKNW8bo.jpg
   credit: 'Photo: Foursquare user content (Mole Antonelliana)'
   license: foursquare
-  source: https://foursquare.com/v/4d56530096ed548155361370
+  source: 'https://foursquare.com/v/4d56530096ed548155361370'
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mole_Antonelliana_da_sotto.JPG/1920px-Mole_Antonelliana_da_sotto.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mole_Antonelliana_da_sotto.JPG/1920px-Mole_Antonelliana_da_sotto.JPG
     credit: 'Photo: Pmk58 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_da_sotto.JPG
+    source: 'https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_da_sotto.JPG'
 place:
   id: ChIJdeBgpXxtiEcRCA1w65O0FjM
   name: Mole Antonelliana
-  address: Via Montebello, 20, 10124 Torino TO, Italy
+  address: 'Via Montebello, 20, 10124 Torino TO, Italy'
   rating: 4.6
-  userRatingsTotal: 57895
-  googleMapsUrl: https://maps.google.com/?cid=3681328292825140488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 59012
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3681328292825140488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.0691807
   lng: 7.693233900000001
@@ -57,19 +64,44 @@ place:
 tags:
   - turin
   - hidden gem
-quickAnswer: 'The Mole Antonelliana is Turin''s soaring 19th-century landmark on Via Montebello, home to the National Museum of Cinema and a glass lift that shoots you up to a panoramic terrace 85 metres above the city, with the full spire topping out at 121 metres. It''s very popular, so aim for a weekday (it is closed on Tuesdays) from 9am to 10am, or a weekend right at opening, 9am, to skip the worst of the crowds — weekends from 11am to 7pm are the busiest stretch. Budget half a day: roughly 45 minutes for the lift and view, longer if you linger in the cinema museum below.'
+quickAnswer: >-
+  The Mole Antonelliana is Turin's soaring 19th-century landmark on Via
+  Montebello, home to the National Museum of Cinema and a glass lift that shoots
+  you up to a panoramic terrace 85 metres above the city, with the full spire
+  topping out at 121 metres. It's very popular, so aim for a weekday (it is
+  closed on Tuesdays) from 9am to 10am, or a weekend right at opening, 9am, to
+  skip the worst of the crowds — weekends from 11am to 7pm are the busiest
+  stretch. Budget half a day: roughly 45 minutes for the lift and view, longer
+  if you linger in the cinema museum below.
 faq:
   - q: How do I get to the Mole Antonelliana?
-    a: It's on Via Montebello in central Turin, an easy 5-10 minute walk from Piazza Castello. The nearest metro is Line 1, getting off at Vinzaglio or Porta Nuova station, followed by a short walk through the city's arcaded streets.
+    a: >-
+      It's on Via Montebello in central Turin, an easy 5-10 minute walk from
+      Piazza Castello. The nearest metro is Line 1, getting off at Vinzaglio or
+      Porta Nuova station, followed by a short walk through the city's arcaded
+      streets.
   - q: When is the quietest time to visit?
-    a: Weekdays are calmest from 9am to 10am. On weekends, the forecast flags no quiet hour, so avoid 11am to 7pm when it's busiest, and instead aim for right at opening, 9am, before the crowds build.
+    a: >-
+      Weekdays are calmest from 9am to 10am. On weekends, the forecast flags no
+      quiet hour, so avoid 11am to 7pm when it's busiest, and instead aim for
+      right at opening, 9am, before the crowds build.
   - q: How long should I spend there?
-    a: 'Plan on about 45 minutes to an hour total: a quick ride up in the panoramic lift plus time on the terrace, and more if you explore the National Museum of Cinema''s galleries around the central hall.'
+    a: >-
+      Plan on about 45 minutes to an hour total: a quick ride up in the
+      panoramic lift plus time on the terrace, and more if you explore the
+      National Museum of Cinema's galleries around the central hall.
   - q: Is it worth booking tickets in advance?
-    a: Yes — the panoramic lift uses timed-entry tickets separate from general museum admission, and weekend slots can sell out, so booking online ahead is the safer bet.
+    a: >-
+      Yes — the panoramic lift uses timed-entry tickets separate from general
+      museum admission, and weekend slots can sell out, so booking online ahead
+      is the safer bet.
   - q: What else is nearby?
-    a: Piazza San Carlo, the Egyptian Museum, and the riverside Parco del Valentino are all within easy walking distance, making it simple to combine the Mole with a few hours of central Turin sightseeing.
+    a: >-
+      Piazza San Carlo, the Egyptian Museum, and the riverside Parco del
+      Valentino are all within easy walking distance, making it simple to
+      combine the Mole with a few hours of central Turin sightseeing.
 aiGenerated: true
+updatedDate: '2026-11-19'
 ---
 You see it before you see anything else in Turin. From the Po's riverbanks, from the arcaded stretch of Via Roma, even from a train pulling into Porta Nuova, the Mole Antonelliana pokes up over the rooftops like a needle stitched into the sky, its aluminum spire catching the light differently depending on the hour. Up close, the building is stranger and more theatrical than photos suggest, a squat, heavily colonnaded base topped by a dome that keeps rising, tier after tier, until it narrows into that impossibly thin spire. It doesn't look like it should hold together, and for a while, structurally, it barely did.
 

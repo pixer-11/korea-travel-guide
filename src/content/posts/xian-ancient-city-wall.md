@@ -1,22 +1,28 @@
 ---
 title: 'Ancient City Wall: Xian Travel Guide'
-description: Xi'an's Ming-dynasty City Wall is the most complete ancient city wall in China, forming a rectangular loop of roughly 13.7 km around the old city center.
+description: >-
+  Xi'an's Ming-dynasty City Wall is the most complete ancient city wall in
+  China, forming a rectangular loop of roughly 13.7 km around the old city
+  center.
 country: China
 region: Xi'an
 category: attraction
 pubDate: '2026-07-26T07:46:05.165Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg/1920px-Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg/1920px-Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg
   credit: 'Photo: Aaron Zhu / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Towers_of_ancient_city_wall,_Xi%27an,_China_-_panoramio.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Towers_of_ancient_city_wall,_Xi%27an,_China_-_panoramio.jpg
 place:
   id: ChIJkbIeAoh6YzYR1Ej2JoWm1EA
   name: Ancient City Wall
   address: 'China, Shan Xi Sheng, Xi An Shi, Bei Lin Qu, 陕西 邮政编码: 710001'
-  rating: 4.6
-  userRatingsTotal: 434
-  googleMapsUrl: https://maps.google.com/?cid=4671541804304582868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  rating: 4.7
+  userRatingsTotal: 464
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4671541804304582868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.252061
   lng: 108.95029699999999
@@ -24,19 +30,41 @@ place:
 tags:
   - xi'an
   - Xian City Wall
-quickAnswer: Xi'an's Ming-dynasty City Wall is the most complete ancient city wall in China, forming a rectangular loop of roughly 13.7 km around the old city center. Rent a bike at the South Gate (Yongning Men) and ride the full loop in about 1.5–2 hours, or walk a shorter stretch between two gates for 45 minutes. Go early morning or late afternoon for softer light and thinner crowds, since this is a spread-out attraction that rarely feels packed even at its busiest gates.
+quickAnswer: >-
+  Xi'an's Ming-dynasty City Wall is the most complete ancient city wall in
+  China, forming a rectangular loop of roughly 13.7 km around the old city
+  center. Rent a bike at the South Gate (Yongning Men) and ride the full loop in
+  about 1.5–2 hours, or walk a shorter stretch between two gates for 45 minutes.
+  Go early morning or late afternoon for softer light and thinner crowds, since
+  this is a spread-out attraction that rarely feels packed even at its busiest
+  gates.
 faq:
   - q: How long should I spend at the City Wall?
-    a: Plan on 45 minutes to 1 hour for a single gate-to-gate walking stretch, or 1.5–2 hours if you rent a bike and ride the full 13.7 km loop.
+    a: >-
+      Plan on 45 minutes to 1 hour for a single gate-to-gate walking stretch, or
+      1.5–2 hours if you rent a bike and ride the full 13.7 km loop.
   - q: What's the best way to get around the top of the wall?
-    a: Bicycle rental at the gate kiosks (most popular at South Gate) is the classic way to cover the full loop quickly; walking is better if you want to stop often for photos and watchtower views.
+    a: >-
+      Bicycle rental at the gate kiosks (most popular at South Gate) is the
+      classic way to cover the full loop quickly; walking is better if you want
+      to stop often for photos and watchtower views.
   - q: When is the quietest time to visit?
-    a: Early morning (around 8–9am) before tour buses arrive, or in the evening after sunset when lantern lighting begins, are both calmer than midday; the wall is generally under-the-radar compared to Xi'an's other major sights and rarely feels overcrowded.
+    a: >-
+      Early morning (around 8–9am) before tour buses arrive, or in the evening
+      after sunset when lantern lighting begins, are both calmer than midday;
+      the wall is generally under-the-radar compared to Xi'an's other major
+      sights and rarely feels overcrowded.
   - q: Which gate should I enter from?
-    a: South Gate (Yongning Men) is the most convenient and atmospheric entrance, close to the Bell Tower and Muslim Quarter, and sometimes hosts evening gate ceremonies.
+    a: >-
+      South Gate (Yongning Men) is the most convenient and atmospheric entrance,
+      close to the Bell Tower and Muslim Quarter, and sometimes hosts evening
+      gate ceremonies.
   - q: Is the wall walkable in summer heat?
-    a: Yes, but there's minimal shade on top, so bring sun protection and water, or aim for early morning/late afternoon instead of midday in summer.
+    a: >-
+      Yes, but there's minimal shade on top, so bring sun protection and water,
+      or aim for early morning/late afternoon instead of midday in summer.
 aiGenerated: true
+updatedDate: '2026-11-19'
 ---
 
 ## Why the wall still matters

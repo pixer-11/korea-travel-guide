@@ -1,22 +1,27 @@
 ---
 title: 'Shri Kashi Vishwanath Temple: Varanasi Travel Guide'
-description: Go early — the temple opens around 3am for Mangala Aarti and stays busiest from mid-morning through evening, so the calmest darshan window is right at opening or in the early afternoon lull before evening aarti crowds build.
+description: >-
+  Go early — the temple opens around 3am for Mangala Aarti and stays busiest
+  from mid-morning through evening, so the calmest darshan window is right at
+  opening or in the early afternoon lull before evening aarti crowds build.
 country: India
 region: Varanasi
 category: attraction
 pubDate: '2026-07-26T08:21:52.567Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg
   credit: 'Photo: Gannu03 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_3.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_3.jpg'
 place:
   id: ChIJFwuU7iEujjkRE3v7zU8OYEg
   name: Shri Kashi Vishwanath Temple
-  address: Lahori Tola, Varanasi, Uttar Pradesh 221001, India
+  address: 'Lahori Tola, Varanasi, Uttar Pradesh 221001, India'
   rating: 4.7
-  userRatingsTotal: 119697
-  googleMapsUrl: https://maps.google.com/?cid=5215184104416049939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 122453
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5215184104416049939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.3108532
   lng: 83.0106783
@@ -32,20 +37,45 @@ place:
 tags:
   - varanasi
   - top attraction
-quickAnswer: Go early — the temple opens around 3am for Mangala Aarti and stays busiest from mid-morning through evening, so the calmest darshan window is right at opening or in the early afternoon lull before evening aarti crowds build. Expect airport-style security, no phones or bags allowed inside, and a queue system that can take anywhere from 30 minutes to a couple of hours depending on the day. This is Shiva's most revered shrine in India, sitting a short walk from the Ganges at Lalita Ghat, so pair your visit with a walk along the river.
+quickAnswer: >-
+  Go early — the temple opens around 3am for Mangala Aarti and stays busiest
+  from mid-morning through evening, so the calmest darshan window is right at
+  opening or in the early afternoon lull before evening aarti crowds build.
+  Expect airport-style security, no phones or bags allowed inside, and a queue
+  system that can take anywhere from 30 minutes to a couple of hours depending
+  on the day. This is Shiva's most revered shrine in India, sitting a short walk
+  from the Ganges at Lalita Ghat, so pair your visit with a walk along the
+  river.
 faq:
   - q: What's the quietest time to visit Kashi Vishwanath Temple?
-    a: Very early morning at opening (around the 3am Mangala Aarti) or the early afternoon lull are calmer than the mid-morning and evening rush; weekdays outside festival dates are always easier than weekends.
+    a: >-
+      Very early morning at opening (around the 3am Mangala Aarti) or the early
+      afternoon lull are calmer than the mid-morning and evening rush; weekdays
+      outside festival dates are always easier than weekends.
   - q: How do I get to the temple from Varanasi Junction station?
-    a: Take an auto-rickshaw or taxi to Maidagin or Gyan Vapi crossing (about 15-20 minutes), then walk the last stretch through Vishwanath Gali, or continue to the ghats and approach via the Kashi Vishwanath Dham corridor on foot.
+    a: >-
+      Take an auto-rickshaw or taxi to Maidagin or Gyan Vapi crossing (about
+      15-20 minutes), then walk the last stretch through Vishwanath Gali, or
+      continue to the ghats and approach via the Kashi Vishwanath Dham corridor
+      on foot.
   - q: What can't I bring inside?
-    a: Phones, cameras, bags, and leather goods are not permitted in the sanctum area. Use one of the cloakrooms or lockers near the entrance before joining the queue.
+    a: >-
+      Phones, cameras, bags, and leather goods are not permitted in the sanctum
+      area. Use one of the cloakrooms or lockers near the entrance before
+      joining the queue.
   - q: How long should I plan to spend there?
-    a: Budget at least an hour once past security for darshan; add more time if you want to explore the wider Dham corridor, its galleries and subsidiary shrines, or sit by the Ganga-facing viewpoint.
+    a: >-
+      Budget at least an hour once past security for darshan; add more time if
+      you want to explore the wider Dham corridor, its galleries and subsidiary
+      shrines, or sit by the Ganga-facing viewpoint.
   - q: Is there a way to skip the queue?
-    a: Yes — a paid Sugam Darshan ticket, available at counters near the complex, lets you bypass the general line during busy periods; confirm current pricing and process on arrival since it can change.
+    a: >-
+      Yes — a paid Sugam Darshan ticket, available at counters near the complex,
+      lets you bypass the general line during busy periods; confirm current
+      pricing and process on arrival since it can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 ## Why this temple matters
 

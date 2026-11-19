@@ -1,23 +1,28 @@
 ---
 title: 'Jinci: Taiyuan Travel Guide'
-description: Jinci (晋祠) is a sprawling Northern Song-era temple complex on the southwestern edge of Taiyuan, built around a sacred spring and a 3,000-year-old cypress tree.
+description: >-
+  Jinci (晋祠) is a sprawling Northern Song-era temple complex on the southwestern
+  edge of Taiyuan, built around a sacred spring and a 3,000-year-old cypress
+  tree.
 country: China
 region: Taiyuan
 category: attraction
 pubDate: '2026-07-29T10:07:03.893Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Goddess_Temple_Jinsi.JPG/1920px-Goddess_Temple_Jinsi.JPG
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Goddess_Temple_Jinsi.JPG/1920px-Goddess_Temple_Jinsi.JPG
   credit: 'Photo: Gisling / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Goddess_Temple_Jinsi.JPG
+  source: 'https://commons.wikimedia.org/wiki/File:Goddess_Temple_Jinsi.JPG'
 gallery: []
 place:
   id: ChIJn9ocQhdSdTYRMI3xtNT4dhQ
   name: Jinci
-  address: PC4X+M2X, Jinyuan District, Taiyuan, Shanxi, China, 030025
+  address: 'PC4X+M2X, Jinyuan District, Taiyuan, Shanxi, China, 030025'
   rating: 4.6
-  userRatingsTotal: 156
-  googleMapsUrl: https://maps.google.com/?cid=1474639520462900528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 166
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1474639520462900528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.706739999999996
   lng: 112.447623
@@ -25,20 +30,41 @@ place:
 tags:
   - taiyuan
   - top attraction
-quickAnswer: Jinci (晋祠) is a sprawling Northern Song-era temple complex on the southwestern edge of Taiyuan, built around a sacred spring and a 3,000-year-old cypress tree. Give it two to three hours to wander the halls, gardens, and courtyards at an unhurried pace. It's still refreshingly uncrowded compared to China's marquee temple sites, so a weekday morning is all you need to have many corners nearly to yourself.
+quickAnswer: >-
+  Jinci (晋祠) is a sprawling Northern Song-era temple complex on the southwestern
+  edge of Taiyuan, built around a sacred spring and a 3,000-year-old cypress
+  tree. Give it two to three hours to wander the halls, gardens, and courtyards
+  at an unhurried pace. It's still refreshingly uncrowded compared to China's
+  marquee temple sites, so a weekday morning is all you need to have many
+  corners nearly to yourself.
 faq:
   - q: How do I get to Jinci from central Taiyuan?
-    a: It's about 25 km southwest of downtown Taiyuan, roughly a 45-minute to hour-long taxi or rideshare ride, or you can take a local bus toward Jinci Park (confirm the current route with your hotel, as numbers change).
+    a: >-
+      It's about 25 km southwest of downtown Taiyuan, roughly a 45-minute to
+      hour-long taxi or rideshare ride, or you can take a local bus toward Jinci
+      Park (confirm the current route with your hotel, as numbers change).
   - q: How long should I spend at Jinci?
-    a: Plan on two to three hours to see the main halls, the ancient cypress, and the spring gardens; history enthusiasts could spend half a day exploring the smaller side courtyards too.
+    a: >-
+      Plan on two to three hours to see the main halls, the ancient cypress, and
+      the spring gardens; history enthusiasts could spend half a day exploring
+      the smaller side courtyards too.
   - q: When is the best time to visit?
-    a: Spring and autumn offer the most comfortable weather. Since Jinci draws lighter crowds than China's major temple sites, a weekday morning shortly after opening is usually quiet.
+    a: >-
+      Spring and autumn offer the most comfortable weather. Since Jinci draws
+      lighter crowds than China's major temple sites, a weekday morning shortly
+      after opening is usually quiet.
   - q: What's the most famous thing to see there?
-    a: The Song-dynasty Shengmu Hall with its 43 painted clay statues, and the roughly 3,000-year-old leaning cypress tree standing just in front of it.
+    a: >-
+      The Song-dynasty Shengmu Hall with its 43 painted clay statues, and the
+      roughly 3,000-year-old leaning cypress tree standing just in front of it.
   - q: Do I need to book tickets in advance?
-    a: No, Jinci isn't a timed-entry site — buy your ticket at the gate. Just confirm current opening hours and admission price before you go, as these can change seasonally.
+    a: >-
+      No, Jinci isn't a timed-entry site — buy your ticket at the gate. Just
+      confirm current opening hours and admission price before you go, as these
+      can change seasonally.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 You come to Jinci for a tree and a spring, and you leave having walked through three thousand years of Chinese architectural history without really noticing the transition. That's the strange trick of this place: it doesn't announce its age with velvet ropes and placards every ten steps. Instead you find it in the lean of a cypress trunk, the worn stone of a bridge, the way light falls through carved lattice windows onto painted beams that have not been touched up in decades.
 

@@ -1,27 +1,37 @@
 ---
 title: 'Museo Egizio: Turin Travel Guide'
-description: Museo Egizio, on Via Accademia delle Scienze in central Turin, is the world's oldest Egyptology museum and the largest collection of Egyptian antiquities outside Cairo.
+description: >-
+  Museo Egizio, on Via Accademia delle Scienze in central Turin, is the world's
+  oldest Egyptology museum and the largest collection of Egyptian antiquities
+  outside Cairo.
 country: Italy
 region: Turin
 category: attraction
 pubDate: '2026-07-26T07:46:41.524Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg/1920px-Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg
-  credit: 'Photo: Georgius LXXXIX at Italian Wikipedia / Wikimedia Commons (Public domain)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg/1920px-Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg
+  credit: >-
+    Photo: Georgius LXXXIX at Italian Wikipedia / Wikimedia Commons (Public
+    domain)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Museo_Egizio_e_Galleria_sabauda,_Torino.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museo_Egizio_e_Galleria_sabauda,_Torino.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg/1920px-Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg/1920px-Edit-a-thon_in_Turin%2C_Museo_Egizio_01.jpg
     credit: 'Photo: Iolanda Pensa / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Edit-a-thon_in_Turin,_Museo_Egizio_01.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Edit-a-thon_in_Turin,_Museo_Egizio_01.jpg
 place:
   id: ChIJcbdhzm9tiEcRV5jbgVsAy24
   name: Museo Egizio
-  address: Via Accademia delle Scienze, 6, 10123 Torino TO, Italy
+  address: 'Via Accademia delle Scienze, 6, 10123 Torino TO, Italy'
   rating: 4.7
-  userRatingsTotal: 67554
-  googleMapsUrl: https://maps.google.com/?cid=7983475157465012311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 69658
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7983475157465012311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.0684433
   lng: 7.6844128
@@ -37,20 +47,41 @@ place:
 tags:
   - turin
   - top attraction
-quickAnswer: Museo Egizio, on Via Accademia delle Scienze in central Turin, is the world's oldest Egyptology museum and the largest collection of Egyptian antiquities outside Cairo. Book a timed-entry ticket online, arrive right at opening (9am) or in the last two hours before closing to dodge the tour-group crush, and set aside two to three hours to do it justice.
+quickAnswer: >-
+  Museo Egizio, on Via Accademia delle Scienze in central Turin, is the world's
+  oldest Egyptology museum and the largest collection of Egyptian antiquities
+  outside Cairo. Book a timed-entry ticket online, arrive right at opening (9am)
+  or in the last two hours before closing to dodge the tour-group crush, and set
+  aside two to three hours to do it justice.
 faq:
   - q: How long should I spend at Museo Egizio?
-    a: Plan on two to three hours for a proper visit; enthusiasts of Egyptology can easily fill half a day given the depth of the papyrus and tomb collections.
+    a: >-
+      Plan on two to three hours for a proper visit; enthusiasts of Egyptology
+      can easily fill half a day given the depth of the papyrus and tomb
+      collections.
   - q: Do I need to book tickets in advance?
-    a: Yes — booking a timed-entry slot online is strongly recommended given how popular the museum is; it lets you bypass the walk-up ticket queue.
+    a: >-
+      Yes — booking a timed-entry slot online is strongly recommended given how
+      popular the museum is; it lets you bypass the walk-up ticket queue.
   - q: What is the best time of day to avoid crowds?
-    a: Aim for right at opening on a weekday morning or the last couple of hours before closing; late morning through mid-afternoon, especially on weekends, is when it's busiest.
+    a: >-
+      Aim for right at opening on a weekday morning or the last couple of hours
+      before closing; late morning through mid-afternoon, especially on
+      weekends, is when it's busiest.
   - q: Is Museo Egizio closed on any particular day?
-    a: No — Museo Egizio is open every day of the week, including Mondays. Monday hours are shorter than the rest of the week (9am–2pm rather than into the evening), so plan accordingly, and always confirm current hours on the official website before your trip since they can change seasonally.
+    a: >-
+      No — Museo Egizio is open every day of the week, including Mondays. Monday
+      hours are shorter than the rest of the week (9am–2pm rather than into the
+      evening), so plan accordingly, and always confirm current hours on the
+      official website before your trip since they can change seasonally.
   - q: How do I get to Museo Egizio from the train station?
-    a: It's about a 15-20 minute walk from either Porta Nuova or Porta Susa station, or a short ride on the GTT bus network into the historic centre near Piazza Castello.
+    a: >-
+      It's about a 15-20 minute walk from either Porta Nuova or Porta Susa
+      station, or a short ride on the GTT bus network into the historic centre
+      near Piazza Castello.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 ## Why go
 

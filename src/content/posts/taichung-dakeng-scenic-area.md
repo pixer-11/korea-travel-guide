@@ -1,23 +1,29 @@
 ---
 title: 'Dakeng Scenic Area: Taichung Travel Guide'
-description: Dakeng Scenic Area is a network of numbered hiking trails (Trails 1–10) in the forested hills of Beitun District, about 30–40 minutes from central Taichung by taxi or scooter.
+description: >-
+  Dakeng Scenic Area is a network of numbered hiking trails (Trails 1–10) in the
+  forested hills of Beitun District, about 30–40 minutes from central Taichung
+  by taxi or scooter.
 country: Taiwan
 region: Taichung
 category: hidden-gem
 pubDate: '2026-07-29T10:02:39.927Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg/1920px-Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg/1920px-Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg
   credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg
 gallery: []
 place:
   id: ChIJoyVvQVMYaTQRN9z8Ir9Oyo8
   name: Dakeng Scenic Area
-  address: Lane 383, Section 1, Dongshan Rd, Beitun District, Taichung City, Taiwan 406
+  address: 'Lane 383, Section 1, Dongshan Rd, Beitun District, Taichung City, Taiwan 406'
   rating: 4.3
-  userRatingsTotal: 28041
-  googleMapsUrl: https://maps.google.com/?cid=10361180475551964215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 28190
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10361180475551964215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.180193
   lng: 120.73369799999999
@@ -51,20 +57,41 @@ place:
 tags:
   - taichung
   - hidden gem
-quickAnswer: Dakeng Scenic Area is a network of numbered hiking trails (Trails 1–10) in the forested hills of Beitun District, about 30–40 minutes from central Taichung by taxi or scooter. It's a well-visited spot, not a hidden secret, so go on a weekday morning if you can — weekends see steady crowds from 7am to 6pm. Trail 4 with its wooden ladder-and-rope sections is the signature route; budget 2–4 hours depending on which trail you pick.
+quickAnswer: >-
+  Dakeng Scenic Area is a network of numbered hiking trails (Trails 1–10) in the
+  forested hills of Beitun District, about 30–40 minutes from central Taichung
+  by taxi or scooter. It's a well-visited spot, not a hidden secret, so go on a
+  weekday morning if you can — weekends see steady crowds from 7am to 6pm. Trail
+  4 with its wooden ladder-and-rope sections is the signature route; budget 2–4
+  hours depending on which trail you pick.
 faq:
   - q: How do I get to Dakeng Scenic Area without a car?
-    a: Local buses run from central Taichung toward Dakeng, but service is infrequent — check current routes before you go. Most visitors instead take a taxi or rent a scooter, about a 30–40 minute ride to the trailhead area on Lane 383, Section 1, Dongshan Road.
+    a: >-
+      Local buses run from central Taichung toward Dakeng, but service is
+      infrequent — check current routes before you go. Most visitors instead
+      take a taxi or rent a scooter, about a 30–40 minute ride to the trailhead
+      area on Lane 383, Section 1, Dongshan Road.
   - q: Which trail should I pick if it's my first time?
-    a: Trail 4 is the famous one, with wooden ladders and rope sections and big views, but it's physically demanding. Trails 9 and 10 are gentler, shadier, and better for families or shorter visits.
+    a: >-
+      Trail 4 is the famous one, with wooden ladders and rope sections and big
+      views, but it's physically demanding. Trails 9 and 10 are gentler,
+      shadier, and better for families or shorter visits.
   - q: When is the quietest time to visit?
-    a: Weekends are consistently busy from 7am to 6pm, so a weekday morning is your best bet for a quieter trail experience. Early arrival also means cooler temperatures for the climb.
+    a: >-
+      Weekends are consistently busy from 7am to 6pm, so a weekday morning is
+      your best bet for a quieter trail experience. Early arrival also means
+      cooler temperatures for the climb.
   - q: How long should I plan to spend at Dakeng?
-    a: Budget at least half a day — two to four hours on the trails themselves, plus time for the drive and a stop at the roadside stalls on Lane 383.
+    a: >-
+      Budget at least half a day — two to four hours on the trails themselves,
+      plus time for the drive and a stop at the roadside stalls on Lane 383.
   - q: Is there an entrance fee?
-    a: The scenic area itself is free to enter; confirm any parking fees or shuttle costs locally, as these can change.
+    a: >-
+      The scenic area itself is free to enter; confirm any parking fees or
+      shuttle costs locally, as these can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 ## Why go
 

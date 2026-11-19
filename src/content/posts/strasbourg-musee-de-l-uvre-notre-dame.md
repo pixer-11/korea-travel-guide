@@ -1,22 +1,28 @@
 ---
 title: 'Musée de l''Œuvre-Notre-Dame: Strasbourg Travel Guide'
-description: The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of the city's most under-visited major sights — a 4.7-star-rated museum of medieval and Renaissance art, stained glass, and cathedral sculpture.
+description: >-
+  The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and
+  Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is
+  one of the city's most under-visited major sights — a 4.7-star-rated museum of
+  medieval and Renaissance art, stained glass, and cathedral sculpture.
 country: France
 region: Strasbourg
 category: attraction
 pubDate: '2026-07-26T08:31:00.021Z'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/197608695_1ABwlhhTcLg01pxJVcIsipNpyJWBENg4VMafqcBMZ9o.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/197608695_1ABwlhhTcLg01pxJVcIsipNpyJWBENg4VMafqcBMZ9o.jpg
     credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'
     license: foursquare
-    source: https://foursquare.com/v/4d9850a4744f37047bc4eb57
+    source: 'https://foursquare.com/v/4d9850a4744f37047bc4eb57'
 place:
   id: ChIJcWECd1PIlkcR6CHdDgYtlzA
   name: Musée de l'Œuvre-Notre-Dame
-  address: 3 Pl. du Château, 67000 Strasbourg, France
+  address: '3 Pl. du Château, 67000 Strasbourg, France'
   rating: 4.7
-  userRatingsTotal: 549
-  googleMapsUrl: https://maps.google.com/?cid=3501316739346276840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 573
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3501316739346276840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.580977
   lng: 7.751474
@@ -32,28 +38,53 @@ place:
 tags:
   - strasbourg
   - top attraction
-quickAnswer: The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is one of the city's most under-visited major sights — a 4.7-star-rated museum of medieval and Renaissance art, stained glass, and cathedral sculpture. Give it 90 minutes to two hours, go on a weekday morning, and pair it with the cathedral and its astronomical clock next door.
+quickAnswer: >-
+  The Musée de l'Œuvre-Notre-Dame, tucked into a cluster of medieval and
+  Renaissance houses at 3 Place du Château right beside Strasbourg Cathedral, is
+  one of the city's most under-visited major sights — a 4.7-star-rated museum of
+  medieval and Renaissance art, stained glass, and cathedral sculpture. Give it
+  90 minutes to two hours, go on a weekday morning, and pair it with the
+  cathedral and its astronomical clock next door.
 faq:
   - q: How do I get to the Musée de l'Œuvre-Notre-Dame?
-    a: It's at 3 Place du Château, right behind Strasbourg Cathedral in the Grande Île old town. Take tram A, C, or D to Langstross–Grand'Rue or Broglie, then walk about 10 minutes, or walk roughly 20 minutes from the train station.
+    a: >-
+      It's at 3 Place du Château, right behind Strasbourg Cathedral in the
+      Grande Île old town. Take tram A, C, or D to Langstross–Grand'Rue or
+      Broglie, then walk about 10 minutes, or walk roughly 20 minutes from the
+      train station.
   - q: How long should I spend there?
-    a: Budget 90 minutes for the highlights — original cathedral sculpture and the stained-glass rooms — or up to two hours if you want to read through the history of Strasbourg's guilds and Revolution-era exhibits in detail.
+    a: >-
+      Budget 90 minutes for the highlights — original cathedral sculpture and
+      the stained-glass rooms — or up to two hours if you want to read through
+      the history of Strasbourg's guilds and Revolution-era exhibits in detail.
   - q: When is the quietest time to visit?
-    a: Weekday mornings soon after opening are calmest, before cathedral tour groups spread into the surrounding square. It's a genuinely under-the-radar stop compared to the cathedral, so it rarely feels crowded even in high season.
+    a: >-
+      Weekday mornings soon after opening are calmest, before cathedral tour
+      groups spread into the surrounding square. It's a genuinely
+      under-the-radar stop compared to the cathedral, so it rarely feels crowded
+      even in high season.
   - q: Is it worth visiting if I'm already seeing the cathedral?
-    a: Yes — many of the cathedral's original medieval statues, removed for preservation, are displayed here at eye level, and the stained glass predates much of what's currently in the cathedral. Visiting beforehand gives helpful context.
+    a: >-
+      Yes — many of the cathedral's original medieval statues, removed for
+      preservation, are displayed here at eye level, and the stained glass
+      predates much of what's currently in the cathedral. Visiting beforehand
+      gives helpful context.
   - q: Do I need to book tickets in advance?
-    a: No advance booking is necessary; it doesn't draw the queues the cathedral does, so you can typically buy tickets at the door and walk straight in.
+    a: >-
+      No advance booking is necessary; it doesn't draw the queues the cathedral
+      does, so you can typically buy tickets at the door and walk straight in.
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/110499992_CIe5ne_gJQe9SMcDOqudbmUMuWv3OT3koVv3WU2B_ww.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/110499992_CIe5ne_gJQe9SMcDOqudbmUMuWv3OT3koVv3WU2B_ww.jpg
   credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'
   license: foursquare
-  source: https://foursquare.com/v/4d9850a4744f37047bc4eb57
+  source: 'https://foursquare.com/v/4d9850a4744f37047bc4eb57'
   focus:
     x: 50
     'y': 55
+updatedDate: '2026-11-19'
 ---
 
 You almost walk past it. The entrance sits in the shadow of Strasbourg Cathedral's rose-pink sandstone spire, squeezed between half-timbered gables on Place du Château, and unless you already know to look for the low wooden door and small sign, the crowds streaming toward the cathedral's west front carry right on past it. That's the first thing that makes this museum feel different from almost everything else in the old town: even at peak tourist season, you can stand in front of a 13th-century stained-glass window here in near silence.

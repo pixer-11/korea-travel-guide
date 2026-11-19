@@ -1,22 +1,26 @@
 ---
 title: 'Artist Bakery: Seoul Travel Guide'
-description: 'Artist Bakery in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Artist Bakery in Seoul, South Korea — a new/trending spot: what it is, where
+  it is, and how to visit.
 country: South Korea
 region: Seoul
 category: hidden-gem
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1031332_-rpqby6juzcDn7SkOnA40vqxgepHItP9LnyPSsfewAg.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1031332_-rpqby6juzcDn7SkOnA40vqxgepHItP9LnyPSsfewAg.jpg
   credit: 'Photo: Foursquare user content (Artist Bakery (아티스트베이커리))'
   license: foursquare
-  source: https://foursquare.com/v/69ce0d3a931d8e6bfaee69df
+  source: 'https://foursquare.com/v/69ce0d3a931d8e6bfaee69df'
 place:
   id: ChIJp1npFq-jfDURtn6eZYt-FZY
   name: Artist Bakery
-  address: 167 Anguk-dong, Jongno District, Seoul, South Korea
+  address: '167 Anguk-dong, Jongno District, Seoul, South Korea'
   rating: 4.3
-  userRatingsTotal: 1067
-  googleMapsUrl: https://maps.google.com/?cid=10814689217370554038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1178
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10814689217370554038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.576219
   lng: 126.984271
@@ -28,23 +32,49 @@ place:
     - 'Friday: 7:30 AM – 8:00 PM'
     - 'Saturday: 7:30 AM – 8:00 PM'
     - 'Sunday: 7:30 AM – 8:00 PM'
+  priceLevel: 2
 tags:
   - seoul
   - new & trending
-quickAnswer: Artist Bakery is a bakery-café near Anguk Station in Jongno-gu, opened by the team behind the wildly popular London Bagel Museum, and it now pulls queues just as long — arrive right at opening or resign yourself to a wait. It's known for salt breads and baguette sandwiches, and this is a very-popular, well-documented spot rather than a hidden find, so plan around the crowds, not against them. Confirm current hours and whether reservations or line-up apps are in use before you go, since bakery queue systems in this neighborhood change often.
+quickAnswer: >-
+  Artist Bakery is a bakery-café near Anguk Station in Jongno-gu, opened by the
+  team behind the wildly popular London Bagel Museum, and it now pulls queues
+  just as long — arrive right at opening or resign yourself to a wait. It's
+  known for salt breads and baguette sandwiches, and this is a very-popular,
+  well-documented spot rather than a hidden find, so plan around the crowds, not
+  against them. Confirm current hours and whether reservations or line-up apps
+  are in use before you go, since bakery queue systems in this neighborhood
+  change often.
 faq:
   - q: How do I get to Artist Bakery?
-    a: It's in the Anguk neighborhood of Jongno-gu, a short walk from Anguk Station on Line 3 — the same area as Bukchon Hanok Village and Jogyesa Temple.
+    a: >-
+      It's in the Anguk neighborhood of Jongno-gu, a short walk from Anguk
+      Station on Line 3 — the same area as Bukchon Hanok Village and Jogyesa
+      Temple.
   - q: Do I need a reservation?
-    a: The bakery is known for long queues even on weekdays, and Anguk-area bakeries from this same team have historically used sign-up sheets or waitlist apps. Check current procedures the day you plan to visit, since systems change.
+    a: >-
+      The bakery is known for long queues even on weekdays, and Anguk-area
+      bakeries from this same team have historically used sign-up sheets or
+      waitlist apps. Check current procedures the day you plan to visit, since
+      systems change.
   - q: What's the best time to avoid the crowds?
-    a: Arrive right at opening. Popular items like the salt bread routinely sell out by midday, and afternoon visits often mean a picked-over case or a long stand-by wait.
+    a: >-
+      Arrive right at opening. Popular items like the salt bread routinely sell
+      out by midday, and afternoon visits often mean a picked-over case or a
+      long stand-by wait.
   - q: What should I order?
-    a: The salt bread and baguette sandwiches are the signature items to try — eat the salt bread fresh rather than saving it, since the texture is best within the first hour.
+    a: >-
+      The salt bread and baguette sandwiches are the signature items to try —
+      eat the salt bread fresh rather than saving it, since the texture is best
+      within the first hour.
   - q: What else is nearby if I have to wait?
-    a: Use queue time to wander Bukchon Hanok Village's lanes or walk toward Insadong and Jogyesa Temple, all within easy walking distance of Anguk Station.
+    a: >-
+      Use queue time to wander Bukchon Hanok Village's lanes or walk toward
+      Insadong and Jogyesa Temple, all within easy walking distance of Anguk
+      Station.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 
 ## Why this bakery, and why now

@@ -1,6 +1,9 @@
 ---
 title: 'Bokchun Restaurant: Where to Eat in Yeosu'
-description: "Bokchun Restaurant is a long-running local spot in Yeosu's old downtown (Gyodong area) known for hearty Jeollanam-do-style home cooking, especially fish-based stews and banchan spreads."
+description: >-
+  Bokchun Restaurant is a long-running local spot in Yeosu's old downtown
+  (Gyodong area) known for hearty Jeollanam-do-style home cooking, especially
+  fish-based stews and banchan spreads.
 country: South Korea
 region: Yeosu
 category: restaurant
@@ -9,15 +12,16 @@ gallery: []
 place:
   id: ChIJ9SBtIdrYbTURz9thJW-w8rA
   name: Bokchun Restaurant
-  address: 5-8 Gyodongnam 1-gil, Yeosu, Jeollanam-do, South Korea
+  address: '5-8 Gyodongnam 1-gil, Yeosu, Jeollanam-do, South Korea'
   rating: 4.2
-  userRatingsTotal: 941
+  userRatingsTotal: 955
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=12750447486454324175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12750447486454324175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.7395717
   lng: 127.73407929999999
-  phone: '+82 61-662-5260'
+  phone: +82 61-662-5260
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 9:00 AM – 9:00 PM'
@@ -29,21 +33,45 @@ place:
 tags:
   - yeosu
   - street food
-quickAnswer: Bokchun Restaurant is a long-running local spot in Yeosu's old downtown (Gyodong area) known for hearty Jeollanam-do-style home cooking, especially fish-based stews and banchan spreads. With a 4.2 rating across 941 reviews and mid-range pricing, it's best visited at lunch on a weekday to avoid the dinner rush and to see the banchan at its freshest. Budget 45–60 minutes and pair it with a stroll through nearby Jongpo or Gyodong market streets.
+quickAnswer: >-
+  Bokchun Restaurant is a long-running local spot in Yeosu's old downtown
+  (Gyodong area) known for hearty Jeollanam-do-style home cooking, especially
+  fish-based stews and banchan spreads. With a 4.2 rating across 941 reviews and
+  mid-range pricing, it's best visited at lunch on a weekday to avoid the dinner
+  rush and to see the banchan at its freshest. Budget 45–60 minutes and pair it
+  with a stroll through nearby Jongpo or Gyodong market streets.
 faq:
   - q: How do I get to Bokchun Restaurant without a car?
-    a: Take a taxi from Yeosu Expo Station or central Yeosu into the Gyo-dong neighborhood; it's a short, inexpensive ride (around 10–15 minutes) from the main train/bus terminals. Public bus routes also serve the older downtown, but a taxi is simplest if you don't read Korean bus signage.
+    a: >-
+      Take a taxi from Yeosu Expo Station or central Yeosu into the Gyo-dong
+      neighborhood; it's a short, inexpensive ride (around 10–15 minutes) from
+      the main train/bus terminals. Public bus routes also serve the older
+      downtown, but a taxi is simplest if you don't read Korean bus signage.
   - q: How much does a meal cost?
-    a: It's priced at a mid-range level (roughly a '2' out of 4 on standard price tiers), typical for a Korean home-style seafood restaurant. Expect set meals or shared dishes priced per person rather than steep à la carte pricing, but confirm current menu prices on arrival since they can shift.
+    a: >-
+      It's priced at a mid-range level (roughly a '2' out of 4 on standard price
+      tiers), typical for a Korean home-style seafood restaurant. Expect set
+      meals or shared dishes priced per person rather than steep à la carte
+      pricing, but confirm current menu prices on arrival since they can shift.
   - q: What's the best time to visit to avoid a wait?
-    a: Weekday lunch is the quietest window. Dinner service and weekends, especially during Yeosu's summer tourist season and the fireworks festival period, tend to be busiest.
+    a: >-
+      Weekday lunch is the quietest window. Dinner service and weekends,
+      especially during Yeosu's summer tourist season and the fireworks festival
+      period, tend to be busiest.
   - q: How long should I plan for the meal?
-    a: Budget about 45–60 minutes for a full sit-down meal with banchan, longer if you're sharing several dishes across a larger group.
+    a: >-
+      Budget about 45–60 minutes for a full sit-down meal with banchan, longer
+      if you're sharing several dishes across a larger group.
   - q: What's nearby to combine with a visit?
-    a: The Gyodong and Jongpo old market streets are within walking distance, and Yeosu's landmark night views at Dolsan Bridge and Odongdo Island are a short taxi ride away, making this a good early-dinner stop before heading to the waterfront in the evening.
+    a: >-
+      The Gyodong and Jongpo old market streets are within walking distance, and
+      Yeosu's landmark night views at Dolsan Bridge and Odongdo Island are a
+      short taxi ride away, making this a good early-dinner stop before heading
+      to the waterfront in the evening.
 aiGenerated: true
 draft: false
 photoless: true
+updatedDate: '2026-11-19'
 ---
 
 ## Why go

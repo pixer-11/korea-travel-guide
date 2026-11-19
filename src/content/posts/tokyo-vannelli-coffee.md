@@ -1,25 +1,29 @@
 ---
 title: 'Vannelli Coffee: Tokyo Travel Guide'
-description: 'Vannelli Coffee in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Vannelli Coffee in Tokyo, Japan — a new/trending spot: what it is, where it
+  is, and how to visit.
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/150480670_SqXtspuhy_6_CFk8iTQqZ7FMxlvIcIvYiJ03W7DzsVs.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/150480670_SqXtspuhy_6_CFk8iTQqZ7FMxlvIcIvYiJ03W7DzsVs.jpg
   credit: 'Photo: Foursquare user content (Vannelli Coffee)'
   license: foursquare
-  source: https://foursquare.com/v/699005d8c60a9b5a8ff43190
+  source: 'https://foursquare.com/v/699005d8c60a9b5a8ff43190'
   focus:
     x: 50
     'y': 45
 place:
   id: ChIJ63ZAP6uNGGARhNnX8p94a8k
   name: Vannelli Coffee
-  address: Japan, 〒107-0061 Tokyo, Minato City, Kitaaoyama, 3-chōme−5−９ ARISTO北青山
-  rating: 4.3
-  userRatingsTotal: 25
-  googleMapsUrl: https://maps.google.com/?cid=14513826852500920708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: 'Japan, 〒107-0061 Tokyo, Minato City, Kitaaoyama, 3-chōme−5−９ ARISTO北青山'
+  rating: 4.4
+  userRatingsTotal: 28
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14513826852500920708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.6671416
   lng: 139.7137168
@@ -31,23 +35,51 @@ place:
     - 'Friday: 9:00 AM – 6:00 PM'
     - 'Saturday: 9:00 AM – 6:00 PM'
     - 'Sunday: 9:00 AM – 6:00 PM'
+  priceLevel: 2
 tags:
   - tokyo
   - new & trending
-quickAnswer: 'Vannelli Coffee''s first global flagship opened in Omotesando, Tokyo, in February 2026, and the draw is less about a single espresso than the whole ritual around it: an Italian specialty coffee brand founded by champion baristas, built around a movable coffee showcase where you explore beans by aroma and origin before you ever order a cup. Go on a weekday morning if you can, since new Omotesando openings like this tend to draw long weekend queues, and confirm current hours and whether reservations are needed before you go, as these details are still settling in the opening weeks.'
+quickAnswer: >-
+  Vannelli Coffee's first global flagship opened in Omotesando, Tokyo, in
+  February 2026, and the draw is less about a single espresso than the whole
+  ritual around it: an Italian specialty coffee brand founded by champion
+  baristas, built around a movable coffee showcase where you explore beans by
+  aroma and origin before you ever order a cup. Go on a weekday morning if you
+  can, since new Omotesando openings like this tend to draw long weekend queues,
+  and confirm current hours and whether reservations are needed before you go,
+  as these details are still settling in the opening weeks.
 faq:
   - q: Where exactly is Vannelli Coffee in Tokyo?
-    a: It's the brand's first global flagship, located in Omotesando, Tokyo's boulevard between Shibuya and Harajuku known for flagship fashion stores and design-forward cafés. Confirm the exact street address before you go, since it's a very recent opening.
+    a: >-
+      It's the brand's first global flagship, located in Omotesando, Tokyo's
+      boulevard between Shibuya and Harajuku known for flagship fashion stores
+      and design-forward cafés. Confirm the exact street address before you go,
+      since it's a very recent opening.
   - q: How do I get to Omotesando for Vannelli Coffee?
-    a: Take the Tokyo Metro to Omotesando Station, served by the Ginza, Chiyoda, and Hanzomon lines, then walk to the boulevard from there — the area is very walkable and easy to combine with a Harajuku or Shibuya stroll.
+    a: >-
+      Take the Tokyo Metro to Omotesando Station, served by the Ginza, Chiyoda,
+      and Hanzomon lines, then walk to the boulevard from there — the area is
+      very walkable and easy to combine with a Harajuku or Shibuya stroll.
   - q: What makes this coffee shop different from other Omotesando cafés?
-    a: Its centerpiece is a movable coffee showcase where you explore beans by aroma and origin before ordering, created by a brand founded by champion baristas from Italy — it's built as an experience, not just a counter for quick espresso.
+    a: >-
+      Its centerpiece is a movable coffee showcase where you explore beans by
+      aroma and origin before ordering, created by a brand founded by champion
+      baristas from Italy — it's built as an experience, not just a counter for
+      quick espresso.
   - q: When is the best time to visit to avoid crowds?
-    a: Given it just opened as a global flagship in February 2026, expect strong interest, especially on weekends. A weekday morning is your best bet for time with the showcase without a long wait.
-  - q: Do I need a reservation, and what should I confirm before going?
-    a: Reservation policy and hours weren't confirmed at publication, so check Vannelli Coffee's official channels shortly before your visit to confirm current opening hours and whether the showcase experience requires booking.
+    a: >-
+      Given it just opened as a global flagship in February 2026, expect strong
+      interest, especially on weekends. A weekday morning is your best bet for
+      time with the showcase without a long wait.
+  - q: 'Do I need a reservation, and what should I confirm before going?'
+    a: >-
+      Reservation policy and hours weren't confirmed at publication, so check
+      Vannelli Coffee's official channels shortly before your visit to confirm
+      current opening hours and whether the showcase experience requires
+      booking.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 
 ## Why Vannelli Coffee is worth the detour

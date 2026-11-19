@@ -1,27 +1,33 @@
 ---
 title: 'Yokohama Marine Tower: Travel Guide'
-description: Yokohama Marine Tower sits at the edge of Yamashita Park in Naka Ward, a 106.2-metre former lighthouse tower built in 1961 with an indoor/outdoor observation deck over the harbor.
+description: >-
+  Yokohama Marine Tower sits at the edge of Yamashita Park in Naka Ward, a
+  106.2-metre former lighthouse tower built in 1961 with an indoor/outdoor
+  observation deck over the harbor.
 country: Japan
 region: Yokohama
 category: attraction
 pubDate: '2026-07-26T07:13:16.588Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yokohama_Marine_Tower_02a.jpg/1920px-Yokohama_Marine_Tower_02a.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yokohama_Marine_Tower_02a.jpg/1920px-Yokohama_Marine_Tower_02a.jpg
   credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Yokohama_Marine_Tower_02a.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Yokohama_Marine_Tower_02a.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Yokohama_Marine_Tower_01a.jpg/1920px-Yokohama_Marine_Tower_01a.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Yokohama_Marine_Tower_01a.jpg/1920px-Yokohama_Marine_Tower_01a.jpg
     credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Yokohama_Marine_Tower_01a.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Yokohama_Marine_Tower_01a.jpg'
 place:
   id: ChIJ_2RVhR1dGGAR98Vdq5w3DPw
   name: Yokohama Marine Tower
-  address: 4F, 14-1 山下町 中区 横浜市 神奈川県 231-0023, Japan
+  address: '4F, 14-1 山下町 中区 横浜市 神奈川県 231-0023, Japan'
   rating: 4.2
-  userRatingsTotal: 4264
-  googleMapsUrl: https://maps.google.com/?cid=18161952543307843063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4395
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18161952543307843063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.4439383
   lng: 139.6509414
@@ -37,20 +43,40 @@ place:
 tags:
   - yokohama
   - top attraction
-quickAnswer: Yokohama Marine Tower sits at the edge of Yamashita Park in Naka Ward, a 106.2-metre former lighthouse tower built in 1961 with an indoor/outdoor observation deck over the harbor. Plan on 45–60 minutes, go late afternoon into dusk for the light change over the bay, and combine it with a stroll through Yamashita Park or a visit to the Hikawa Maru moored just offshore.
+quickAnswer: >-
+  Yokohama Marine Tower sits at the edge of Yamashita Park in Naka Ward, a
+  106.2-metre former lighthouse tower built in 1961 with an indoor/outdoor
+  observation deck over the harbor. Plan on 45–60 minutes, go late afternoon
+  into dusk for the light change over the bay, and combine it with a stroll
+  through Yamashita Park or a visit to the Hikawa Maru moored just offshore.
 faq:
   - q: How do I get to Yokohama Marine Tower by train?
-    a: Take the Minatomirai Line to Motomachi-Chukagai Station (about 8 minutes on foot) or Nihon-Odori Station (about 10–12 minutes on foot); both put you at the edge of Yamashita Park.
+    a: >-
+      Take the Minatomirai Line to Motomachi-Chukagai Station (about 8 minutes
+      on foot) or Nihon-Odori Station (about 10–12 minutes on foot); both put
+      you at the edge of Yamashita Park.
   - q: How long should I spend there?
-    a: 'Budget 45–60 minutes: about 20–30 minutes on the observation floors, plus time for the small exhibits and café downstairs.'
+    a: >-
+      Budget 45–60 minutes: about 20–30 minutes on the observation floors, plus
+      time for the small exhibits and café downstairs.
   - q: What's the best time of day to visit?
-    a: Late afternoon into dusk gives you daylight harbor views and then the city lights coming on, all in one visit; weekday mornings are calmest if you want to avoid queues.
+    a: >-
+      Late afternoon into dusk gives you daylight harbor views and then the city
+      lights coming on, all in one visit; weekday mornings are calmest if you
+      want to avoid queues.
   - q: What else can I see nearby?
-    a: Yamashita Park surrounds the tower, the historic ocean liner Hikawa Maru is moored just up the waterfront, and Yokohama Chinatown and Osanbashi Pier are both roughly a 10-minute walk away.
+    a: >-
+      Yamashita Park surrounds the tower, the historic ocean liner Hikawa Maru
+      is moored just up the waterfront, and Yokohama Chinatown and Osanbashi
+      Pier are both roughly a 10-minute walk away.
   - q: Is it worth it if the weather is cloudy?
-    a: The harbor and park views are still worthwhile, but save it for a clearer day if you can — the main draw is the sightline across Minato Mirai's skyline and the bay, which needs decent visibility to pay off.
+    a: >-
+      The harbor and park views are still worthwhile, but save it for a clearer
+      day if you can — the main draw is the sightline across Minato Mirai's
+      skyline and the bay, which needs decent visibility to pay off.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 
 You spot the tower long before you reach it, a slim white-and-red lattice mast poking up over the plane trees of Yamashita Park, looking like something that wandered in from a 1960s postcard. That's not far off: Marine Tower went up in 1961 to mark the centennial of Yokohama's port opening, and for years it held the title of tallest lighthouse structure in the world.

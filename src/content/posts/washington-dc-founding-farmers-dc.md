@@ -1,28 +1,38 @@
 ---
 title: 'Founding Farmers DC: Where to Eat in Washington DC'
-description: 'Founding Farmers DC, at 1924 Pennsylvania Ave NW near Foggy Bottom/George Washington University, is a farm-to-table American spot known for its buttermilk biscuits, chicken and waffles, and all-day brunch — expect a wait, since it''s one of the most reviewed restaurants in the city (23,000+ reviews, 4.5 stars).'
+description: >-
+  Founding Farmers DC, at 1924 Pennsylvania Ave NW near Foggy Bottom/George
+  Washington University, is a farm-to-table American spot known for its
+  buttermilk biscuits, chicken and waffles, and all-day brunch — expect a wait,
+  since it's one of the most reviewed restaurants in the city (23,000+ reviews,
+  4.5 stars).
 country: United States
 region: Washington DC
 category: restaurant
 pubDate: '2026-07-26T07:48:20.050Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/38479891_mNa_tBiCtNMK1w8uEdqLWAr-E3P7XVw-Jps92_dcWDQ.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/38479891_mNa_tBiCtNMK1w8uEdqLWAr-E3P7XVw-Jps92_dcWDQ.jpg
   credit: 'Photo: Foursquare user content (Founding Farmers)'
   license: foursquare
-  source: https://foursquare.com/v/4a469855f964a5202aa91fe3
+  source: 'https://foursquare.com/v/4a469855f964a5202aa91fe3'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Founding_Farmers_%283565819904%29.jpg/1920px-Founding_Farmers_%283565819904%29.jpg
-    credit: 'Photo: Mack Male from Edmonton, AB, Canada / Wikimedia Commons (CC BY-SA 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Founding_Farmers_%283565819904%29.jpg/1920px-Founding_Farmers_%283565819904%29.jpg
+    credit: >-
+      Photo: Mack Male from Edmonton, AB, Canada / Wikimedia Commons (CC BY-SA
+      2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Founding_Farmers_(3565819904).jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Founding_Farmers_(3565819904).jpg'
 place:
   id: ChIJk58zcbq3t4kR9VDFZdcB5uE
   name: Founding Farmers DC
   address: '1924 Pennsylvania Ave NW #3607, Washington, DC 20006, USA'
   rating: 4.5
-  userRatingsTotal: 23205
+  userRatingsTotal: 24145
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=16277699927814263029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16277699927814263029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.900280599999995
   lng: -77.0444736
@@ -38,20 +48,41 @@ place:
 tags:
   - washington dc
   - local restaurant
-quickAnswer: Founding Farmers DC, at 1924 Pennsylvania Ave NW near Foggy Bottom/George Washington University, is a farm-to-table American spot known for its buttermilk biscuits, chicken and waffles, and all-day brunch — expect a wait, since it's one of the most reviewed restaurants in the city (23,000+ reviews, 4.5 stars). Go on a weekday before noon or after 2pm to avoid the worst of the crowds, and book ahead for weekend brunch.
+quickAnswer: >-
+  Founding Farmers DC, at 1924 Pennsylvania Ave NW near Foggy Bottom/George
+  Washington University, is a farm-to-table American spot known for its
+  buttermilk biscuits, chicken and waffles, and all-day brunch — expect a wait,
+  since it's one of the most reviewed restaurants in the city (23,000+ reviews,
+  4.5 stars). Go on a weekday before noon or after 2pm to avoid the worst of the
+  crowds, and book ahead for weekend brunch.
 faq:
   - q: Do I need a reservation at Founding Farmers DC?
-    a: It's not strictly required, but it's strongly recommended for weekend brunch (Friday-Sunday), when walk-in waits commonly run 30-45 minutes. Weekday mornings and mid-afternoons are easier to walk into.
+    a: >-
+      It's not strictly required, but it's strongly recommended for weekend
+      brunch (Friday-Sunday), when walk-in waits commonly run 30-45 minutes.
+      Weekday mornings and mid-afternoons are easier to walk into.
   - q: What's the closest Metro station?
-    a: Foggy Bottom-GWU, served by the Blue, Orange, and Silver lines, is about a 5-10 minute walk from the restaurant at 1924 Pennsylvania Ave NW.
+    a: >-
+      Foggy Bottom-GWU, served by the Blue, Orange, and Silver lines, is about a
+      5-10 minute walk from the restaurant at 1924 Pennsylvania Ave NW.
   - q: What should I order?
-    a: The bread basket and chicken and waffles are signature orders, along with the pot roast and mac and cheese for lunch or dinner. Brunch dishes are served all day, not just mornings.
+    a: >-
+      The bread basket and chicken and waffles are signature orders, along with
+      the pot roast and mac and cheese for lunch or dinner. Brunch dishes are
+      served all day, not just mornings.
   - q: How much does it cost?
-    a: It's mid-range for DC — main dishes are moderately priced rather than cheap, and a full brunch or dinner with a drink typically lands in the mid-range bracket rather than budget or splurge territory.
+    a: >-
+      It's mid-range for DC — main dishes are moderately priced rather than
+      cheap, and a full brunch or dinner with a drink typically lands in the
+      mid-range bracket rather than budget or splurge territory.
   - q: What's nearby if I have to wait for a table?
-    a: The Kennedy Center's riverside terrace and the Watergate complex are both a short walk away, making for an easy stroll while you wait for a text that your table's ready.
+    a: >-
+      The Kennedy Center's riverside terrace and the Watergate complex are both
+      a short walk away, making for an easy stroll while you wait for a text
+      that your table's ready.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-19'
 ---
 
 You smell it before you see the menu: warm butter, roasting coffee, something sweet and yeasty drifting out from the open kitchen. Founding Farmers sits at the base of an office tower on Pennsylvania Avenue NW, just blocks from the World Bank and George Washington University, and the contrast is part of the appeal, glass-and-steel DC outside, reclaimed barn wood, mismatched vintage farm tools, and rough-hewn beams inside.
