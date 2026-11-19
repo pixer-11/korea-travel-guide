@@ -27,14 +27,6 @@ faq:
     a: More than 30 artists are on the program. The organiser publishes the lineup and ticket links on its official festival channels.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/29/Stage_FC10_1_semi_recap.JPG
-  credit: 'Photo: João P. M. Lima / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Stage_FC10_1_semi_recap.JPG
-  focus:
-    x: 50
-    'y': 40
 ---
 
 Five nights, one calendar flip, and a town laid out around saltwater lagoons. Recap runs from December 29, 2026 to January 2, 2027, so the countdown to 2027 lands right in the middle of the program. This is the festival's first edition in El Gouna.

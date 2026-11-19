@@ -13,14 +13,6 @@ eventOrganizer:
   name: Topas Travel
   url: https://topastravel.vn
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/47/Jungle.jpg
-  credit: 'Photo: No machine-readable author provided. / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jungle.jpg
-  focus:
-    x: 50
-    'y': 50
 gallery: []
 tags:
   - thanh hoa

@@ -10393,9 +10393,9 @@
  },
  "el-gouna-recap-festival-el-gouna\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/Stage_FC10_1_semi_recap.JPG": {
   "slug": "el-gouna-recap-festival-el-gouna",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Large concert/festival stage with crowd, venue lighting",
-  "at": "2026-11-18T21:49:53.128Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"recap\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-19T08:07:23.711Z"
  },
  "el-gouna-recap-festival-el-gouna\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Recap_FC10_2_semi.JPG": {
   "slug": "el-gouna-recap-festival-el-gouna",
@@ -38078,9 +38078,9 @@
  },
  "thanh-hoa-vietnam-jungle-marathon-pu-luong\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Jungle.jpg": {
   "slug": "thanh-hoa-vietnam-jungle-marathon-pu-luong",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Jungle venue scene plausible for Pu Luong Nature Reserve",
-  "at": "2026-11-18T21:13:36.228Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"jungle\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-19T08:07:23.855Z"
  },
  "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Rice_cracker_from_Taiwan.jpg": {
   "slug": "tianzhong-taiwan-s-rice-heaven-tianzhong-marathon",
