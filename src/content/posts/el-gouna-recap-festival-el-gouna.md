@@ -10,6 +10,14 @@ eventEndDate: '2027-01-02'
 eventRecurring: false
 eventVenue: Gouna Conference and Culture Centre
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/El_Gouna_Mosque_R03.jpg'
+  credit: 'Photo: Marc Ryckaert / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:El_Gouna_Mosque_R03.jpg'
+  focus:
+    x: 50
+    y: 40
 tags:
   - el gouna
   - event

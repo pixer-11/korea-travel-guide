@@ -13,6 +13,14 @@ eventOrganizer:
   name: Candlelight Concerts
   url: https://candlelightexperience.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Istanbul-skyline-night-view-with-TV-tower.jpg/3840px-Istanbul-skyline-night-view-with-TV-tower.jpg'
+  credit: 'Photo: SeablueTravelOfficial / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Istanbul-skyline-night-view-with-TV-tower.jpg'
+  focus:
+    x: 35
+    y: 35
 gallery: []
 tags:
   - istanbul

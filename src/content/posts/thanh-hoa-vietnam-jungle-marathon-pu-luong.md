@@ -13,6 +13,14 @@ eventOrganizer:
   name: Topas Travel
   url: https://topastravel.vn
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg/3840px-C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg'
+  credit: 'Photo: Anthony Leekien / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - thanh hoa

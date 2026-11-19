@@ -13,6 +13,14 @@ eventOrganizer:
   name: Arabian World Events, in partnership with the Egyptian Armed Forces and the Ministry of Military Production
   url: https://arabianworldevents.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/54/Cairo_skyline%2C_Nile_River%2C_Egypt.jpg'
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cairo_skyline,_Nile_River,_Egypt.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - cairo

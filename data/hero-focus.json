@@ -8414,5 +8414,37 @@
    "x": 50,
    "y": 40
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/5/54/Cairo_skyline%2C_Nile_River%2C_Egypt.jpg": {
+  "w": 3072,
+  "h": 2048,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/6/6b/El_Gouna_Mosque_R03.jpg": {
+  "w": 2328,
+  "h": 1821,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Istanbul-skyline-night-view-with-TV-tower.jpg/3840px-Istanbul-skyline-night-view-with-TV-tower.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 35,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg/3840px-C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg": {
+  "w": 3840,
+  "h": 2882,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }
