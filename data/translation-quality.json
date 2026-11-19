@@ -32388,13 +32388,6 @@
   "worst": "다른 한 사람은 넓은 잔디밭을 가득 메운 관객이 일제히 뛰어오르도록 만든 댄스팝을 들려줍니다.",
   "at": "2026-11-15T07:50:41.387Z"
  },
- "ko/berlin-taemin-berlin-2026": {
-  "hash": "f0b16c15cc31",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이후 '무브', '크리미널', '길티' 같은 곡을 거치며 안무가 이끄는 무대의 대명사로 자리 잡았습니다.",
-  "at": "2026-10-12T01:46:54.058Z"
- },
  "ko/brisbane-brisbane-australia-temple": {
   "hash": "b4c922d6af43",
   "score": 1,
@@ -41193,5 +41186,89 @@
   "registerBreak": false,
   "worst": "这样的出身也决定了她们的粉丝构成：不少粉丝从成员最早的试镜片段起就一路追随",
   "at": "2026-11-18T16:39:26.808Z"
+ },
+ "ko/ho-chi-minh-city-tet-lunar-new-year-festival": {
+  "hash": "bc7484d2c74d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 불꽃놀이가 전통적으로 이날 밤의 공식 행사입니다.",
+  "at": "2026-11-19T07:53:19.276Z"
+ },
+ "ko/thanh-hoa-vietnam-jungle-marathon-pu-luong": {
+  "hash": "07ddcd1efd64",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "레이스의 성격은 이 지형이 결정합니다.",
+  "at": "2026-11-19T07:53:24.548Z"
+ },
+ "es/bath-mr-b-s-emporium-of-reading-delights": {
+  "hash": "204e96f54a77",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "abre de lunes a sábado de 9:30am a 5:30pm",
+  "at": "2026-11-19T07:53:31.464Z"
+ },
+ "es/cambridge-castle-mound": {
+  "hash": "f923b353144d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las fuentes editoriales la describen como un castro de la Edad del Hierro.",
+  "at": "2026-11-19T07:56:39.474Z"
+ },
+ "es/cordoba-palacio-de-viana": {
+  "hash": "8475f74beab5",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-19T07:53:41.035Z"
+ },
+ "ja/bath-mr-b-s-emporium-of-reading-delights": {
+  "hash": "87aa820b2adc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "店では個室型のブースを貸し出しているほか、有料の読書相談「リーディング・スパ」も行っています。",
+  "at": "2026-11-19T07:53:42.870Z"
+ },
+ "ja/cambridge-castle-mound": {
+  "hash": "b9a63a9d8178",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "編集部の記録によれば、ここは鉄器時代の丘砦だったとされています。",
+  "at": "2026-11-19T07:53:47.711Z"
+ },
+ "ja/cordoba-palacio-de-viana": {
+  "hash": "09e0ec0c3c54",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "週末は、11時〜15時と17時〜18時を避けるのが賢明です。この時間帯はパティオが人であふれ、写真も撮りにくくなります。",
+  "at": "2026-11-19T07:53:48.742Z"
+ },
+ "ko/bath-mr-b-s-emporium-of-reading-delights": {
+  "hash": "105f95e87ab3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주소가 14-15 John Street라는 데서 벌써 짐작하실 수 있습니다.",
+  "at": "2026-11-19T07:53:52.731Z"
+ },
+ "zh/bath-mr-b-s-emporium-of-reading-delights": {
+  "hash": "a4fcdacda5fa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "单看门牌就能猜出几分：这家书店横跨两个门牌号，坐落在一条狭窄的乔治亚风格小街上。",
+  "at": "2026-11-19T07:56:45.084Z"
+ },
+ "zh/cambridge-castle-mound": {
+  "hash": "0a602b70b69c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "据编辑资料记载，这里曾是一座铁器时代的山堡。",
+  "at": "2026-11-19T07:54:04.410Z"
+ },
+ "zh/cordoba-palacio-de-viana": {
+  "hash": "81e01fc0648d",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-19T07:54:05.541Z"
  }
 }

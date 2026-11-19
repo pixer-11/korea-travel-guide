@@ -4327,6 +4327,12 @@
   "reason": "publish gate: Interior market hall with stalls, arches, shoppers matches venue",
   "at": "2026-10-31T07:54:35.777Z"
  },
+ "bath-mr-b-s-emporium-of-reading-delights\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mr_B%27s_Emporium_1.jpg/1920px-Mr_B%27s_Emporium_1.jpg": {
+  "slug": "bath-mr-b-s-emporium-of-reading-delights",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior clearly showing Mr B's Emporium signage",
+  "at": "2026-11-19T07:44:04.962Z"
+ },
  "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
   "slug": "bath-museum-of-bath-at-work",
   "verdict": "MATCH",
@@ -6936,6 +6942,12 @@
   "reason": "publish gate: Shows actual entrance gate and signage of the garden",
   "at": "2026-10-30T08:12:31.294Z"
  },
+ "cambridge-castle-mound\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Cambridge_Castle_Mound.jpg/1920px-The_Cambridge_Castle_Mound.jpg": {
+  "slug": "cambridge-castle-mound",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the grassy mound clearly, representative view",
+  "at": "2026-11-19T07:43:03.306Z"
+ },
  "cambridge-museum-of-archaeology-and-anthropology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg/3840px-Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg": {
   "slug": "cambridge-museum-of-archaeology-and-anthropology",
   "verdict": "MATCH",
@@ -8932,6 +8944,12 @@
   "reason": "publish gate: Interior shot of restaurant counter with signage, representative view",
   "at": "2026-09-24T07:53:10.376Z"
  },
+ "cordoba-palacio-de-viana\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Palacio_de_Viana_di_Cordoba.JPG": {
+  "slug": "cordoba-palacio-de-viana",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Palacio de Viana, representative view",
+  "at": "2026-11-19T07:43:03.213Z"
+ },
  "cordoba-templo-romano\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/C%C3%B3rdoba_-_Templo_romano_K01.jpg": {
   "slug": "cordoba-templo-romano",
   "verdict": "MATCH",
@@ -10771,6 +10789,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior bookstore shelves, representative of a hidden-gem bookshop",
   "at": "2026-11-17T07:51:20.122Z"
+ },
+ "fremantle-south-mole-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/South_mole_light_and_fore-buildings_from_south.jpg/3840px-South_mole_light_and_fore-buildings_from_south.jpg": {
+  "slug": "fremantle-south-mole-lighthouse",
+  "verdict": "MATCH",
+  "reason": "publish gate: Green lighthouse on rocky mole, representative hero shot",
+  "at": "2026-11-19T07:43:03.339Z"
  },
  "fremantle-wa-maritime-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg/3840px-Western_Australian_Maritime_Museum%2C_HMAS_Ovens_and_submarine_slipway%2C_September_2020_01.jpg": {
   "slug": "fremantle-wa-maritime-museum",
@@ -32002,6 +32026,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Recognizable Segovia Cathedral tower and skyline shown",
   "at": "2026-09-11T07:45:08.274Z"
+ },
+ "segovia-mirador-del-acueducto\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Plaza_de_la_Artiller%C3%ADa_y_Acueducto_desde_el_Mirador_del_Postigo_%2827306740575%29.jpg/3840px-Plaza_de_la_Artiller%C3%ADa_y_Acueducto_desde_el_Mirador_del_Postigo_%2827306740575%29.jpg": {
+  "slug": "segovia-mirador-del-acueducto",
+  "verdict": "MATCH",
+  "reason": "publish gate: View from aqueduct viewpoint overlooking Segovia plaza, as expected",
+  "at": "2026-11-19T07:43:03.268Z"
  },
  "segovia-murallas-de-segovia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Murallas_de_Segovia_en_marzo_de_2022_31.jpg/3840px-Murallas_de_Segovia_en_marzo_de_2022_31.jpg": {
   "slug": "segovia-murallas-de-segovia",

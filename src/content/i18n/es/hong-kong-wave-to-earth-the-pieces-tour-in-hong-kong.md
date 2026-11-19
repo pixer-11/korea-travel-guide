@@ -3,89 +3,89 @@ lang: es
 slug: hong-kong-wave-to-earth-the-pieces-tour-in-hong-kong
 srcHash: '5c507b8d0494'
 title: 'wave to earth y The Pieces Tour en Hong Kong: fecha, entradas y recinto (Hong Kong)'
-description: El 18 de noviembre de 2026, The Pieces Tour de wave to earth llega al pabellón 10 de AsiaWorld-Expo (Hall 10), situado junto al aeropuerto, en el extremo de la isla de Lantau.
-quickAnswer: El 18 de noviembre de 2026, The Pieces Tour de wave to earth llega al pabellón 10 de AsiaWorld-Expo (Hall 10), situado junto al aeropuerto, en el extremo de la isla de Lantau. Se trata de la gira más grande que ha emprendido hasta ahora este trío surcoreano de indie. Para llegar, lo más sencillo es tomar el MTR Airport Express hasta la estación AsiaWorld-Expo, desde la que se accede directamente al recinto.
+description: La parada de The Pieces Tour de wave to earth en Hong Kong estaba prevista para el 18 de noviembre de 2026 en el pabellón 10 (Hall 10) de AsiaWorld-Expo. El recinto está junto al aeropuerto, en la isla de Lantau.
+quickAnswer: La parada de The Pieces Tour de wave to earth en Hong Kong estaba prevista para el 18 de noviembre de 2026 en el pabellón 10 (Hall 10) de AsiaWorld-Expo, en el extremo de la isla de Lantau donde se encuentra el aeropuerto. Con esta gira, el trío indie surcoreano emprendía la más grande de su trayectoria. El camino más sencillo era el Airport Express del MTR hasta la estación AsiaWorld-Expo, que deja al viajero a las mismas puertas del recinto.
 faq:
-  - q: ¿Cuándo y dónde actúa wave to earth en Hong Kong dentro de The Pieces Tour?
-    a: El concierto de Hong Kong tendrá lugar el 18 de noviembre de 2026 en el pabellón 10 de AsiaWorld-Expo (Hall 10). Este complejo se encuentra en la isla de Lantau, junto al Aeropuerto Internacional de Hong Kong.
-  - q: ¿Cómo se llega a AsiaWorld-Expo para el concierto?
-    a: Hay que tomar el MTR Airport Express hasta la estación AsiaWorld-Expo, que es la última de la línea y está una parada más allá de la estación Airport. Desde la propia estación se pasa directamente al complejo ferial. El trayecto desde la estación Hong Kong, en Central, dura aproximadamente media hora. En los torniquetes se aceptan tanto la tarjeta Octopus como las tarjetas bancarias sin contacto.
-  - q: ¿Es complicado volver a la ciudad después del concierto?
-    a: Más que complicado, es lento. Miles de personas salen a la vez y el personal organiza una cola para acceder al andén del Airport Express, de modo que el público cuenta con esperar un rato antes de subir al tren. Algunos optan por alojarse cerca, en el Hong Kong SkyCity Marriott o en el Regal Airport Hotel.
-  - q: ¿Qué se puede esperar de un concierto de wave to earth?
-    a: Este trío ofrece un indie rock suave con toques de jazz, de guitarra limpia y voz delicada. Entre los temas favoritos de sus seguidores figuran «seasons» y «bad». El público suele cantar en voz baja y guarda silencio durante las canciones más tranquilas.
-  - q: ¿Qué se puede hacer cerca de AsiaWorld-Expo antes del concierto?
-    a: Tung Chung queda muy cerca. Desde allí, el teleférico Ngong Ping 360 sube hasta el Buda Tian Tan y el monasterio Po Lin; también se puede ir en autobús a Tai O, un pueblo de casas sobre pilotes. Encima de la estación Tung Chung se encuentra el centro comercial Citygate Outlets, con numerosos sitios donde comer antes del concierto.
+  - q: ¿Dónde y cuándo tocaba wave to earth en Hong Kong dentro de The Pieces Tour?
+    a: La fecha de Hong Kong era el 18 de noviembre de 2026, en el pabellón 10 (Hall 10) de AsiaWorld-Expo. Este complejo se levanta junto al Aeropuerto Internacional de Hong Kong, en la isla de Lantau.
+  - q: ¿Cómo se llegaba a AsiaWorld-Expo para el concierto?
+    a: Con el Airport Express del MTR hasta la estación AsiaWorld-Expo, final de la línea y una parada más allá de la estación del aeropuerto (Airport). La estación comunica directamente con el complejo de exposiciones. Desde la estación de Hong Kong, en Central, el trayecto dura una media hora. En los tornos se aceptan tanto la tarjeta Octopus como las tarjetas bancarias sin contacto.
+  - q: ¿Era difícil volver a la ciudad después del concierto?
+    a: Más que difícil, era lento. Miles de personas salían a la vez y el personal organizaba una cola de espera hacia el andén del Airport Express, de modo que el público contaba con aguardar un buen rato antes de subir al tren. Algunos optaban por alojarse cerca, en el Hong Kong SkyCity Marriott o en el Regal Airport Hotel.
+  - q: ¿Qué se podía esperar de un concierto de wave to earth?
+    a: Un indie rock suave y con matices de jazz, interpretado por un trío de guitarra limpia y voz delicada. Entre los temas favoritos de sus seguidores figuran «seasons» y «bad». El público suele cantar en voz baja y guardar silencio en las canciones más tranquilas.
+  - q: ¿Qué había para hacer cerca de AsiaWorld-Expo antes del concierto?
+    a: Tung Chung queda muy cerca. Desde allí sale el teleférico Ngong Ping 360, que sube hasta el Buda Tian Tan y el monasterio Po Lin, y también hay autobuses al pueblo de casas sobre pilotes de Tai O. En Citygate Outlets, encima de la estación de Tung Chung, abundaban los sitios para comer antes del concierto.
 ---
 
 ## Guitarras suaves en un pabellón junto al aeropuerto
 
-Un concierto de wave to earth es algo íntimo que sucede en un espacio enorme. Este trío surcoreano toca un indie rock sereno con toques de jazz: guitarra limpia con efecto chorus, una voz suave y cercana y una base rítmica contenida. Ese sonido llenará el pabellón 10 de AsiaWorld-Expo (Hall 10), en Hong Kong, el 18 de noviembre de 2026, dentro de The Pieces Tour.
+Un concierto de wave to earth es algo íntimo dentro de un espacio enorme. El trío surcoreano toca un indie rock susurrado y con matices de jazz: guitarras limpias con efecto chorus, una voz suave que suena muy cercana y una base rítmica contenida. Ese sonido debía llenar el 18 de noviembre de 2026 el pabellón 10 (Hall 10) de AsiaWorld-Expo, en Hong Kong, como parte de The Pieces Tour.
 
-Según la propia banda, es la gira más grande que ha hecho hasta la fecha. No sorprende en un grupo cuyas canciones, sobre todo «seasons» y «bad», han llegado mucho más allá de Corea gracias al streaming y a los vídeos cortos. Buena parte del público descubrió a la banda por esa vía, y más que gritar, suele acompañar las letras en voz baja.
+Según el propio grupo, se trataba de su gira más grande hasta la fecha. Encaja con una banda cuyas canciones, sobre todo «seasons» y «bad», han llegado mucho más allá de Corea gracias a las plataformas de *streaming* y a los vídeos cortos. Buena parte del público la descubrió por esa vía, y suele acompañar las letras en voz baja en lugar de gritarlas.
 
 ## El pabellón 10, al final de la línea
 
-AsiaWorld-Expo se levanta sobre terrenos ganados al mar en Chek Lap Kok, justo al lado del Aeropuerto Internacional de Hong Kong. Es el gran complejo ferial y de conciertos de la ciudad, formado por una sucesión de amplios pabellones sin columnas que se comunican mediante largos pasillos cubiertos. El pabellón 10 es uno de ellos y se acondiciona con un escenario para los conciertos.
+AsiaWorld-Expo ocupa terrenos ganados al mar en Chek Lap Kok, pegado al Aeropuerto Internacional de Hong Kong. Es el gran complejo de exposiciones y conciertos de la ciudad, formado por una serie de amplios pabellones sin columnas que se comunican mediante largos pasillos cubiertos. El pabellón 10 es uno de ellos y se acondiciona con escenario para los conciertos.
 
-Cuente con una pista plana y un techo muy alto, del que cuelga la estructura de iluminación industrial. Nada que ver con un club acogedor: los matices delicados de la banda dependen del equipo de sonido y de que el público guarde silencio entre canción y canción. Quienes conocen bien su repertorio suelen hacerlo.
+El suelo es llano y el techo, muy alto, con la estructura de iluminación industrial colgando sobre el público. Nada recuerda a un club acogedor, así que los matices delicados de la banda dependen del equipo de sonido y de que el público guarde silencio entre canción y canción. Quienes conocen bien su repertorio suelen hacerlo.
 
-En la práctica, la ubicación implica lo siguiente:
+En la práctica, la ubicación supone lo siguiente:
 
-- El recinto no está en el centro, sino a unos 30 kilómetros de Central.
+- El recinto está a unos 30 kilómetros de Central, lejos del centro de la ciudad.
 - Desde fuera se ven los aviones en plena maniobra de aproximación.
-- Dentro del complejo hay pocos restaurantes, así que la mayoría de la gente come antes de llegar o en el aeropuerto.
+- Dentro del complejo hay pocos restaurantes, por lo que la mayoría de la gente come antes de llegar o en el aeropuerto.
 
-## El trayecto en el Airport Express
+## El trayecto en Airport Express
 
-Lo que hace único este concierto en Hong Kong es la manera de llegar. La línea MTR Airport Express termina en la estación AsiaWorld-Expo, una parada después de la estación Airport. Al bajar del tren se entra directamente en el complejo ferial. Desde la estación Hong Kong, en Central, el viaje dura aproximadamente media hora, con paradas en Kowloon, Tsing Yi y el aeropuerto.
+Lo que distingue a este concierto de cualquier otro es precisamente el modo de llegar. La línea Airport Express del MTR termina en la estación AsiaWorld-Expo, una parada después de la del aeropuerto (Airport Station). Al bajar del tren se entra caminando directamente en el complejo. Desde la estación de Hong Kong, en Central, se tarda alrededor de media hora, con paradas en Kowloon, Tsing Yi y el aeropuerto.
 
-Otras opciones:
+Existen otras opciones:
 
-- **Línea Tung Chung** hasta Tung Chung y, desde allí, taxi o autobús local hasta la isla del aeropuerto. Se tarda más, pero conviene a quienes se alojan en Lantau.
-- **Taxi** desde Kowloon o desde la isla de Hong Kong. Es un trayecto directo, aunque largo, y la tarifa va por taxímetro.
-- **Autobuses del aeropuerto** (líneas «A»), que conectan la ciudad con la zona aeroportuaria. Algunos asistentes los combinan con un breve desplazamiento hasta el recinto.
+- **Línea Tung Chung** hasta Tung Chung y, desde allí, taxi o autobús local hasta la isla del aeropuerto. Se tarda más, pero resulta cómodo para quien se aloja en Lantau.
+- **Taxi** desde Kowloon o desde la isla de Hong Kong. Es directo, aunque el viaje es largo y se paga por taxímetro.
+- **Autobuses del aeropuerto** (líneas «A»), que unen la ciudad con la zona aeroportuaria; algunos asistentes los combinan con un breve trayecto hasta el recinto.
 
-En los torniquetes puede pagar con la tarjeta Octopus o con una tarjeta bancaria sin contacto. Ambas sirven en toda la red del MTR, de modo que no hace falta hacer cola en las máquinas expendedoras.
+En los tornos se paga con la tarjeta Octopus o con una tarjeta bancaria sin contacto. Ambas sirven en toda la red del MTR, de modo que no hace falta hacer cola en las máquinas de billetes.
 
-## Entradas y fecha en Hong Kong
+## Entradas y la fecha de Hong Kong
 
-La parada de The Pieces Tour en Hong Kong será el 18 de noviembre de 2026 en el pabellón 10 de AsiaWorld-Expo. La venta corre a cargo de la banda y de su promotor local a través de los canales oficiales. Tratándose de un grupo tan popular en Asia, las entradas para Hong Kong suelen estar muy disputadas.
+La parada de The Pieces Tour en Hong Kong correspondía al 18 de noviembre de 2026, en el pabellón 10 de AsiaWorld-Expo. La venta corría a cargo de la banda y de su promotor local a través de los canales oficiales. Tratándose de un grupo tan popular en toda Asia, las entradas para Hong Kong suelen estar muy disputadas.
 
-En Hong Kong, el principal riesgo de las giras indie con muchos seguidores es la reventa no oficial. Los fans pierden dinero sobre todo con capturas de pantalla de entradas electrónicas y con transferencias acordadas por redes sociales. Los asistentes más experimentados compran únicamente en la plataforma oficial y conservan la entrada en la cuenta con la que la adquirieron.
+En las giras indie con seguidores tan fieles, la reventa no oficial es el principal riesgo en Hong Kong. Las capturas de pantalla de entradas electrónicas y las transferencias pactadas en redes sociales son donde los aficionados pierden dinero con más frecuencia. Los asistentes veteranos se limitan a la plataforma oficial y conservan la entrada en la cuenta con la que la compraron.
 
-## Colas, merchandising y normas de convivencia en AsiaWorld-Expo
+## Colas, artículos oficiales y buenos modales entre el público de AsiaWorld-Expo
 
-El público de los conciertos en Hong Kong es ordenado, y este no es una excepción. En los pasillos que dan al pabellón, el personal delimita los carriles de la cola. Los asistentes se colocan en ellos casi sin necesidad de indicaciones y, cuando se abren las puertas, la fila avanza por bloques.
+El público de los conciertos en Hong Kong es ordenado, y este no era una excepción. En los pasillos que rodean el pabellón, el personal delimita carriles de espera. Los asistentes se colocan en ellos casi sin indicaciones, y la fila avanza por bloques cuando se abre el acceso.
 
 Esto es lo que suelen hacer los asistentes:
 
-- **Ir primero al merchandising.** El puesto de merchandising acumula la cola más larga de la noche. Conviene acercarse mucho antes de la apertura de puertas, porque las tallas más solicitadas se agotan pronto.
-- **Llevar poco equipaje.** Las bolsas grandes retrasan el control de seguridad y en la pista apenas hay sitio para ellas.
-- **Grabar poco tiempo.** La mayoría graba un estribillo y después baja el móvil. Quien mantiene la pantalla en alto durante toda una canción tranquila se gana las miradas de los que están detrás.
-- **Respetar los momentos de silencio.** De ello dependen los pasajes más delicados del concierto, y el público suele mandar callar a quien habla.
+- **Primero, los artículos oficiales.** El puesto de *merchandising* acumula la cola más larga de la noche. Los fans suelen acudir mucho antes de que se abran las puertas, porque las tallas más solicitadas se agotan pronto.
+- **Ir ligeros de equipaje.** Las mochilas grandes retrasan el control de seguridad y en la pista apenas hay sitio para ellas.
+- **Grabar poco.** La mayoría graba un estribillo y después baja el móvil. Mantener la pantalla en alto durante toda una canción tranquila provoca miradas de reproche de quienes están detrás.
+- **Respetar los momentos de silencio.** De ello dependen los pasajes más delicados del concierto, y el propio público suele mandar callar a quien habla.
 - **Hablar en inglés o en cantonés.** El personal del recinto domina ambos idiomas y la señalización es bilingüe.
 
-Resulta más fácil conseguir agua y algo de picar en el aeropuerto, una parada antes, que dentro del complejo.
+El agua y algo de picar se consiguen con más facilidad en el aeropuerto, una parada atrás, que dentro del complejo.
 
 ## Después del bis
 
-Cuando se encienden las luces de la sala, miles de personas se dirigen a la vez hacia una estación pequeña. El personal organiza una cola de espera hacia el andén del Airport Express y deja pasar a los grupos por turnos. Quienes viven en Kowloon o en la isla de Hong Kong suelen contar con un rato de espera antes de subir al tren y regresar junto con el resto del público.
+Al encenderse las luces de la sala, miles de personas se dirigen a la vez hacia una estación pequeña. El personal organiza una cola de espera hacia el andén del Airport Express y va dejando pasar a grupos por turnos. Quienes viven en Kowloon o en la isla de Hong Kong suelen contar con un buen rato de espera antes de subir al tren y regresar junto al resto del público.
 
-Hay quien evita las aglomeraciones alojándose cerca. Dos hoteles están prácticamente a la puerta:
+Hay quien evita las aglomeraciones alojándose cerca. Dos hoteles están prácticamente en la puerta:
 
-- **Hong Kong SkyCity Marriott Hotel**, junto a AsiaWorld-Expo
-- **Regal Airport Hotel**, comunicado con la terminal del aeropuerto
+- **Hong Kong SkyCity Marriott Hotel**, contiguo a AsiaWorld-Expo
+- **Regal Airport Hotel**, conectado con la terminal del aeropuerto
 
-Los viajeros que tienen un vuelo a la mañana siguiente suelen reservar en uno de ellos y volver a pie tras el concierto. Tung Chung, a un corto trayecto en taxi, ofrece más variedad de hoteles y apartamentos con servicios.
+Los viajeros con vuelo a la mañana siguiente suelen alojarse en uno de ellos y volver a pie tras el concierto. Tung Chung, a un corto trayecto en taxi, ofrece más variedad de hoteles y apartamentos con servicios.
 
 ## Una jornada completa en Lantau
 
-Aunque el recinto queda lejos del centro, sus alrededores merecen unas horas. Los lugares más conocidos de Lantau son fácilmente accesibles desde Tung Chung, así que el concierto encaja muy bien como broche de un día de excursión por la isla.
+Aunque el recinto queda lejos del centro, sus alrededores merecen unas cuantas horas. Los lugares más conocidos de Lantau están a poca distancia de Tung Chung, de modo que la noche de concierto encaja perfectamente tras un día de excursión por la isla.
 
-- **Ngong Ping 360**: teleférico que sube desde Tung Chung hasta la meseta de Ngong Ping y ofrece amplias vistas del aeropuerto y del mar de China Meridional.
+- **Ngong Ping 360**: teleférico que sube desde Tung Chung hasta la meseta de Ngong Ping, con amplias vistas sobre el aeropuerto y el mar de la China Meridional.
 - **Buda Tian Tan y monasterio Po Lin**: el gigantesco Buda de bronce de Ngong Ping, al que se llega subiendo 268 escalones.
-- **Tai O**: pueblo de pescadores con casas sobre pilotes en el agua, al que se llega en autobús desde Tung Chung o Ngong Ping.
-- **Citygate Outlets**: centro comercial situado encima de la estación Tung Chung, con numerosos sitios donde comer antes de ir al pabellón.
+- **Tai O**: pueblo de pescadores con casas sobre pilotes encima del agua, accesible en autobús desde Tung Chung o desde Ngong Ping.
+- **Citygate Outlets**: centro comercial situado sobre la estación de Tung Chung, con multitud de sitios para comer antes de ir al pabellón.
 
-Reserve una tarde entera para Ngong Ping. En noviembre el tiempo suele ser seco y templado, lo que hace de este mes una época agradable para subir a la meseta.
+Ngong Ping requiere una tarde entera. En noviembre el tiempo suele ser seco y templado, lo que convierte este mes en una época agradable para subir a la meseta.
