@@ -62,3 +62,15 @@ test('allows the Chinese-loanword syllables 몐·폔 (사몐다오 沙面岛, 20
   // the guard still bites next to them
   assert.equal(koBrokenSyllables('사몐다오 쀍').length, 1);
 });
+
+test('allows the Vietnamese syllables 쩬·믕·꽌, and still catches the ㅉ-block shatters beside them (2026-11-19)', () => {
+  // The four sentences that went out as "broken" that day.
+  for (const s of [
+    '"위는 부두, 아래는 배"라는 뜻의 *쩬 벤 즈어이 투옌*이라',
+    '"새해 복 많이 받으세요"라는 뜻의 *쭉 믕 남 머이*입니다.',
+    '바특현과 꽌호아(Quan Hoa)현에 걸쳐 있으며',
+    '전날 밤이라면 "못 쩬 토이(một chén thôi)"라고',
+  ]) assert.deepEqual(koBrokenSyllables(s), [], s);
+  // 쩬 sits one jamo from 쪤, a recorded shatter of 쪽; allowing one must not allow the other.
+  assert.equal(koBrokenSyllables('오른쪤으로 꺾으면 10분쯽 걸립니다').length, 2);
+});

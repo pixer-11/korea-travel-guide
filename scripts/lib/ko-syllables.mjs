@@ -30,7 +30,13 @@ const KO_WANSUNG = new Set(readFileSync(new URL('../../src/data/ko-wansung.txt',
 // 사몐다오 沙面岛). Outside KS X 1001, so a Guangzhou guide's correct
 // translation was deleted as "broken" (2026-10-12). The rest of that
 // table's ㅖ-row (볜 뎬 롄 녠 톈) is already in the 2,350.
-export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡녤몐폔']);
+// 쩬·믕·꽌: Vietnamese under the 외래어 표기법 — trên/chén → 쩬 (tr·ch = ㅉ),
+// mừng → 믕 (ư = 으, ng = ㅇ: 쭉 믕 남 머이, "Chúc mừng năm mới"), Quan → 꽌
+// (qu + a is written 꽈: 꽌호아 Quan Hoa, as Quảng is 꽝). Two correct
+// translations — the Ho Chi Minh City Tết guide and the Pu Luong marathon —
+// went out as "broken" on 2026-11-19 and were queued for deletion on every
+// publish. None is in the fixer's table of known shatters (those are 쯤/쪽/딪/퍼).
+export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡녤몐폔쩬믕꽌']);
 // Whole words, for a syllable that is a typo everywhere else: 됭 is 된 mangled
 // in 됭장 (Codex, 10-03), but 베르됭 (Verdun — Nicholas of Verdun, goldsmith of
 // Cologne's Shrine of the Three Kings) is the standard spelling; the Cologne
