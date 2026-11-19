@@ -198,3 +198,16 @@ test('역방향: 숫자로 끝나는 진짜 금액은 문장부호가 붙어도 
     'Entry is 700 EGP.', 'about 12,000won at the stall',
   ]) assert.equal(moneyClaims(c).length, 1, c);
 });
+
+test('won 은 뒤 낱말이 아니라 앞의 연도 꼴로 가른다 (코덱스, 11-19)', () => {
+  // 금액: 뒤에 the 가 와도, 네 자리 숫자여도.
+  for (const c of [
+    'For 10,000 won the museum ticket includes the special exhibition.',
+    'A skewer is 2000 won the last time anyone looked', 'It costs 3000 won a head',
+  ]) assert.equal(moneyClaims(c).length, 1, c);
+  // 동사: 전치사 + 연도 뒤.
+  for (const c of [
+    'The club in 2019 won a national title.', 'Since 1998 won only twice at home',
+    'In 2024 won the title again',
+  ]) assert.deepEqual(moneyClaims(c), [], c);
+});

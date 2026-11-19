@@ -578,5 +578,9 @@
  "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sweets_on_Spice_Bazaar_in_Istanbul_05.jpg/3840px-Sweets_on_Spice_Bazaar_in_Istanbul_05.jpg": {
   "reason": "Close-up of candy display, not a city view",
   "at": "2026-11-18T21:56:06.961Z"
+ },
+ "cover:Thanh Hoa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Seal_of_Thanh_H%C3%B3a_City.png/1280px-Seal_of_Thanh_H%C3%B3a_City.png": {
+  "reason": "This is a logo/illustration, not a photo",
+  "at": "2026-11-19T09:26:46.368Z"
  }
 }

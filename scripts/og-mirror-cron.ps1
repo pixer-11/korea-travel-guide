@@ -32,9 +32,9 @@ node scripts\mirror-og-images.mjs 2>&1 | Out-File -Append -Encoding utf8 "$env:T
 # Region tiles without a photo: resumable, skips regions already covered.
 node scripts\backfill-region-covers.mjs 2>&1 | Out-File -Append -Encoding utf8 "$env:TEMP\og-mirror-last.log"
 
-$diff = git status --porcelain data/og-mirror.json data/region-covers.json
+$diff = git status --porcelain data/og-mirror.json data/region-covers.json data/city-hero-rejects.json
 if ($diff) {
-  git add data/og-mirror.json data/region-covers.json
+  git add data/og-mirror.json data/region-covers.json data/city-hero-rejects.json
   # A patrol adds photo records; it never removes files. If a deletion reached
   # the index anyway (a purge the healer could not undo), unstage and stop --
   # pushing it would drop live data from main.

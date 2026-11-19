@@ -28,8 +28,10 @@ export const CURRENCY_WORDS = [
 // 낱말을 빼지 않고, 앞에 짐·무게 문맥이 있을 때만 건너뛴다(코덱스, 11-09).
 const POUNDS_NOT_WEIGHT = String.raw`(?<!\b(?:bags?|baggage|luggage|suitcases?|backpacks?|carry-ons?|weigh\w*)\b[^.!?]{0,40})pounds?`;
 // "won" 은 동사이기도 하다. "in 2019 won the national title" 의 연도가 한국 돈이 된다.
-// 뒤에 목적어가 오는 꼴만 뺀다 — "8,000 won a bowl", "5,000 won by card" 는 금액이다.
-const WON_NOT_VERB = String.raw`won(?!\s+(?:the|his|her|their|its)\b)`;
+// 뒤 낱말로는 가를 수 없다: "For 10,000 won the museum ticket includes…" 는 금액이고
+// "in 2019 won a national title" 은 아니다(코덱스, 11-19 — the/his/her 를 보던 첫 수리는
+// 앞 문장을 놓치고 뒤 문장을 잡았다). 앞을 본다: 전치사 + 연도 꼴 숫자 뒤의 won 은 동사다.
+const WON_NOT_VERB = String.raw`(?<!\b(?:in|since|by|from|until|during)\s+(?:1[89]|20)\d\d\s)won`;
 export const CURRENCY_WORDS_ALONE = CURRENCY_WORDS.map((w) => (w === 'pounds?' ? POUNDS_NOT_WEIGHT : w === 'won' ? WON_NOT_VERB : w));
 // 금액의 숫자는 숫자로 끝난다. `\d[\d,.]*` 는 문장부호까지 삼켜서 "in 1998, won by
 // Michael Schumacher" 의 "1998, won" 을 금액으로 읽었다 — F1 글 한 편이 발행 때마다

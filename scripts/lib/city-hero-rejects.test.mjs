@@ -59,3 +59,20 @@ test('the rejection ledger is written, committed, and never wakes a build', () =
   assert.ok(read('../../.github/workflows/alt-photos.yml').includes(REJECTS_FILE), 'alt-photos.yml must stage it or every night starts over');
   assert.ok(read('../../.github/workflows/build-check.yml').includes(`'!${REJECTS_FILE}'`), 'bookkeeping the build never reads');
 });
+
+test('the local patrol commits the rejections it writes (2026-11-19)', async () => {
+  // og-mirror-cron.ps1 runs backfill-region-covers, which writes this file, and
+  // committed only the two tables beside it. Rejections sat uncommitted in the
+  // shared tree for days; on 11-18 a pull's autostash pop left conflict markers
+  // inside the JSON. Every data file the patrol's scripts write must be in both
+  // the "anything changed?" check and the add.
+  const { readFileSync } = await import('node:fs');
+  const ps1 = readFileSync(new URL('../og-mirror-cron.ps1', import.meta.url), 'utf8');
+  assert.match(ps1, /backfill-region-covers/);
+  const status = ps1.split('\n').find((l) => l.includes('git status --porcelain'));
+  const add = ps1.split('\n').find((l) => l.trim().startsWith('git add '));
+  for (const f of ['data/og-mirror.json', 'data/region-covers.json', 'data/city-hero-rejects.json']) {
+    assert.ok(status.includes(f), `status check misses ${f}`);
+    assert.ok(add.includes(f), `git add misses ${f}`);
+  }
+});
