@@ -17047,6 +17047,55 @@
    }
   ]
  },
+ "paris-beaujolais-nouveau-festival": {
+  "steps": [
+   {
+    "from": "6ba144372045",
+    "to": "0fa13f25cf93",
+    "at": "2026-11-20T07:58:50.395Z",
+    "removed": [
+     "[DESCRIPTION] The Beaujolais Nouveau Festival in Paris takes place on Thursday, November 19, 2026.",
+     "[QUICK ANSWER] The Beaujolais Nouveau Festival in Paris takes place on Thursday, November 19, 2026. There is no single venue or central ticket: the celebration happens across the city's bistros, wine bars and wine shops, which pour the new vintage from the day of release. Most of the action is a walk-in affair at the bar, and some venues run their own separately ticketed tastings or dinners.",
+     "[FAQ 1] Q: When is the Beaujolais Nouveau Festival in Paris in 2026? A: It takes place on Thursday, November 19, 2026. Beaujolais Nouveau is always released on the third Thursday of November, and some bars start pouring just after midnight on the Wednesday night.",
+     "[FAQ 2] Q: Where is the venue for Beaujolais Nouveau in Paris? A: There is no single venue. The celebration happens across Paris in bistros, wine bars, brasseries and wine shops. The 11th arrondissement around rue Oberkampf, Canal Saint-Martin and Le Marais have many wine bars close together.",
+     "The date is fixed by a rule, not a promoter. Since 1985, Beaujolais Nouveau has been released on the third Thursday of November. In 2026 that is November 19.",
+     "The slogan you see chalked on bistro boards is the same one used for decades: *\"Le Beaujolais Nouveau est arrivé!\"* It means the new Beaujolais has arrived. That sign is the closest thing the day has to an opening ceremony.",
+     "None of these is an official hub. They are simply streets where you can find many open counters within a few minutes of each other.",
+     "For most people, the festival costs only what's in the glass. You walk into a bar, order the new vintage and stand at the counter. No ticket is involved.",
+     "Prices follow the venue rather than the festival. A glass at a neighbourhood zinc counter is usually budget-friendly, while a hotel bar or a ticketed dinner sits on the pricier side. Menus and boards show the current figures.",
+     "Expect something light, bright and young. Beaujolais Nouveau is made mostly by carbonic maceration: whole bunches ferment inside a sealed tank. The result is low in tannin, purple-tinged and fruity, with aromas often compared to banana, cherry and candied red fruit.",
+     "It is meant to be drunk now, not cellared. Bars commonly serve it slightly cool rather than at room temperature, which suits its lightness.",
+     "Don't confuse it with the region's serious wines. The ten Beaujolais *crus*, such as Morgon, Fleurie and Moulin-à-Vent, are made from the same grape but aged and structured. Many Paris wine bars pour Nouveau from natural-wine producers alongside the big commercial labels. That spread is a large part of the fun of comparing glasses.",
+     "Standing at the counter is usually cheaper than taking a table, and it is where the conversation happens. If you sit, wait to be served rather than ordering at the bar. Card payment is widely accepted, including contactless. Service is included in French bills by law, so tipping is optional. Rounding up or leaving small change is common when service was good.",
+     "Greeting staff with *\"Bonsoir\"* on the way in matters more than it might seem. Skipping it reads as rude in Paris. Saying it costs nothing.",
+     "The night drives this festival. It falls on a weekday, so after-work crowds fill bars from early evening. Sunset in Paris in late November comes around 5pm, and terraces under heaters stay busy well after dark.",
+     "Cavistes add a quieter option. Many open bottles for tasting at the counter on release day, and you can carry one home rather than squeeze into a packed bar. The Nouveau is meant to be finished within months, so a bottle bought in November is for this winter, not next.",
+     "The Métro runs late, but not all night on weekdays. Revellers crossing the city usually plan around the last trains or use Vélib' bikes and taxis. For the 11th arrondissement, Oberkampf (Lines 5 and 9) and Charonne (Line 9) put you among the wine bars. Canal Saint-Martin is a short walk from République, where Lines 3, 5, 8, 9 and 11 meet.",
+     "For Montmartre, Abbesses (Line 12) drops you onto the hill, a climb away from the Clos Montmartre vineyard. The vineyard holds its own harvest festival in October, so it makes a fitting pilgrimage spot for wine lovers at either event."
+    ],
+    "added": [
+     "[DESCRIPTION] The Beaujolais Nouveau Festival in Paris was set for Thursday, November 19, 2026, across the city's bistros, wine bars and wine shops.",
+     "[QUICK ANSWER] The Beaujolais Nouveau Festival in Paris was set for Thursday, November 19, 2026. There was no single venue or central ticket. The celebration happens across the city's bistros, wine bars and wine shops, which pour the new vintage from the day of release. Most of it is a walk-in affair at the bar, and some venues host their own separately ticketed tastings or dinners.",
+     "[FAQ 1] Q: When is the Beaujolais Nouveau Festival in Paris in 2026? A: The 2026 festival was set for Thursday, November 19. Beaujolais Nouveau is always released on the third Thursday of November, and some bars start pouring just after midnight on the Wednesday night.",
+     "[FAQ 2] Q: Where is the venue for Beaujolais Nouveau in Paris? A: There was no single venue. The celebration happens across Paris in bistros, wine bars, brasseries and wine shops. The 11th arrondissement around rue Oberkampf, Canal Saint-Martin and Le Marais have many wine bars close together.",
+     "The date is fixed by a rule, not a promoter. Since 1985, Beaujolais Nouveau has been released on the third Thursday of November. In 2026 that was November 19.",
+     "The slogan chalked on bistro boards is the same one used for decades: *\"Le Beaujolais Nouveau est arrivé!\"* It means the new Beaujolais has arrived. That sign is the closest thing the day has to an opening ceremony.",
+     "None of these is an official hub. They are simply streets where many open counters sit within a few minutes of each other.",
+     "For most people, the festival costs only what's in the glass. People walk into a bar, order the new vintage and stand at the counter. No ticket is involved.",
+     "Prices follow the venue rather than the festival. A glass at a neighbourhood zinc counter is usually budget-friendly, while a hotel bar or a ticketed dinner sits on the pricier side. Menus and boards list the prices.",
+     "The wine is light, bright and young. Beaujolais Nouveau is made mostly by carbonic maceration: whole bunches ferment inside a sealed tank. The result is low in tannin, purple-tinged and fruity, with aromas often compared to banana, cherry and candied red fruit.",
+     "It is meant to be drunk young, not cellared. Bars commonly serve it slightly cool rather than at room temperature, which suits its lightness.",
+     "It is distinct from the region's serious wines. The ten Beaujolais *crus*, such as Morgon, Fleurie and Moulin-à-Vent, are made from the same grape but aged and structured. Many Paris wine bars pour Nouveau from natural-wine producers alongside the big commercial labels. That spread is a large part of the fun of comparing glasses.",
+     "Standing at the counter is usually cheaper than taking a table, and it is where the conversation happens. Customers who sit are served at the table rather than ordering at the bar. Card payment is widely accepted, including contactless. Service is included in French bills by law, so tipping is optional. Rounding up or leaving small change is common when service was good.",
+     "Greeting staff with *\"Bonsoir\"* on the way in matters more than it might seem. Skipping it reads as rude in Paris, and saying it costs nothing.",
+     "The night drives this festival. Release day always falls on a Thursday, so after-work crowds typically fill bars from early evening. Sunset in Paris in late November comes around 5pm, and terraces under heaters stay busy well after dark.",
+     "Cavistes add a quieter option. Many open bottles for tasting at the counter on release day, and a bottle can go home rather than into a packed bar. The Nouveau is meant to be finished within months, so a bottle bought in November is for the winter that follows, not the next one.",
+     "The Métro runs late, but not all night on weekdays. Revellers crossing the city usually rely on the last trains, Vélib' bikes and taxis. For the 11th arrondissement, Oberkampf (Lines 5 and 9) and Charonne (Line 9) are among the wine bars. Canal Saint-Martin is a short walk from République, where Lines 3, 5, 8, 9 and 11 meet.",
+     "For Montmartre, Abbesses (Line 12) sits on the hill, a climb away from the Clos Montmartre vineyard. The vineyard holds its own harvest festival in October, so it makes a fitting pilgrimage spot for wine lovers at either event."
+    ]
+   }
+  ]
+ },
  "paris-big-ocean-fall-europe-tour": {
   "steps": [
    {
@@ -17748,6 +17797,43 @@
      "At races like this, the shorter-distance crowd is mostly families and office running clubs from the surrounding business districts. The 21K field lines up first and is more serious. Some race-day habits:",
      "- **Corrals:** runners sort themselves by distance at the start line. The 21K gun goes off ahead of the shorter categories.\n- **Bib placement:** the bib goes on the front, in full view, because marshals and photographers use it to identify runners.\n- **Aid stations:** volunteers hold out cups of water. Runners take a cup without stopping and drop it in the bins just past the table, not on the road.\n- **Finish area:** the medal usually comes first, then the recovery food line, then running groups taking photos. Meetup points are usually agreed in advance because phone signal gets patchy when thousands of runners crowd together.",
      "After a race, runners usually head to Tiendesitas or the cafés around Ortigas East for a late breakfast. That way they're done before the C5 traffic picks up for the day."
+    ]
+   }
+  ]
+ },
+ "pattaya-ittf-world-para-table-tennis-championships": {
+  "steps": [
+   {
+    "from": "1d1a524ed953",
+    "to": "b629a67418aa",
+    "at": "2026-11-20T07:59:17.500Z",
+    "removed": [
+     "[DESCRIPTION] The ITTF World Para Table Tennis Championships take place in Pattaya, Thailand, from November 13 to 19, 2026, bringing international para table tennis players to the Gulf of Thailand coast.",
+     "[QUICK ANSWER] The ITTF World Para Table Tennis Championships take place in Pattaya, Thailand, from November 13 to 19, 2026, bringing international para table tennis players to the Gulf of Thailand coast. The ITTF publishes the venue, session schedule and ticket information on its official site. Pattaya is roughly two hours by road from Bangkok's Suvarnabhumi Airport, so the trip down is easy.",
+     "[FAQ 1] Q: When are the ITTF World Para Table Tennis Championships in Pattaya? A: The championships run from November 13 to 19, 2026, in Pattaya, Thailand.",
+     "[FAQ 2] Q: Where do I find the venue and ticket information? A: The ITTF, the sport's world governing body, publishes the venue, session schedule and ticket details on its official site.",
+     "This is para table tennis at world-title level. The 2026 championships run from November 13 to 19 in Pattaya. Players arrive from across the world, and over those seven days the singles, doubles and team events produce the sport's world champions.",
+     "You're watching table tennis at its most compressed. The ball travels a 2.74-metre table in a fraction of a second, and points rarely last more than a few shots. Matches are played to 11 points a game and usually decided over five games. A session can swing on a couple of serves.",
+     "The class numbers on the draw sheets tell you what you're about to see. Para table tennis groups players by how their impairment affects play:",
+     "Inside Pattaya, the blue and white songthaews (pickup \"baht buses\") loop Beach Road and Second Road. Grab and Bolt work across the city and are what most visitors use to reach the competition venue.",
+     "Some sessions draw large travelling groups, waving national flags and singing between games. The atmosphere is warm and partisan, but players from every country get applause.",
+     "Visitors coming for the championships often stay in Jomtien or Central Pattaya. These areas have the most transport options and the most step-free hotel rooms. Pavements in the city can be uneven, with high kerbs. Wheelchair users usually rely on ride-hailing cars instead of songthaews, which you climb into from the back.",
+     "The timing works well for a beach city. November is when Thailand's monsoon gives way to the cool, dry season. The humidity falls, and the evenings along Beach Road are pleasant to walk.",
+     "The ITTF publishes the competition schedule, venue details and ticket information on its official site. That's where the session times for each class and medal day are listed."
+    ],
+    "added": [
+     "[DESCRIPTION] The ITTF World Para Table Tennis Championships were set for November 13 to 19, 2026, in Pattaya, Thailand, on the Gulf of Thailand coast.",
+     "[QUICK ANSWER] The ITTF World Para Table Tennis Championships were set for November 13 to 19, 2026, in Pattaya, Thailand, on the Gulf of Thailand coast, with an international field of para table tennis players. The ITTF, the sport's world governing body, was the organiser. Pattaya is roughly two hours by road from Bangkok's Suvarnabhumi Airport, so the trip down is easy.",
+     "[FAQ 1] Q: When are the ITTF World Para Table Tennis Championships in Pattaya? A: The championships were scheduled for November 13 to 19, 2026, in Pattaya, Thailand.",
+     "[FAQ 2] Q: Where do I find the venue and ticket information? A: The championships were an event of the ITTF, the sport's world governing body, and were set in Pattaya for November 13 to 19, 2026.",
+     "This is para table tennis at world-title level. The 2026 championships were set for November 13 to 19 in Pattaya. The programme covered singles, doubles and team events, with the sport's world titles at stake across the seven days.",
+     "Para table tennis is the sport at its most compressed. The ball travels a 2.74-metre table in a fraction of a second, and points rarely last more than a few shots. Matches are played to 11 points a game and usually decided over five games. A session can swing on a couple of serves.",
+     "The class numbers on the draw sheets tell spectators what kind of match is on. Para table tennis groups players by how their impairment affects play:",
+     "Inside Pattaya, the blue and white songthaews (pickup \"baht buses\") loop Beach Road and Second Road. Grab and Bolt work across the city and are what most visitors use to get around between venues and hotels.",
+     "At world championships, some sessions draw large travelling groups, waving national flags and singing between games. The atmosphere is usually warm and partisan, but players from every country get applause.",
+     "Visitors coming to Pattaya for sporting events often stay in Jomtien or Central Pattaya. These areas have the most transport options and the most step-free hotel rooms. Pavements in the city can be uneven, with high kerbs. Wheelchair users usually rely on ride-hailing cars instead of songthaews, which you climb into from the back.",
+     "The November dates fall at a good time for a beach city. November is when Thailand's monsoon gives way to the cool, dry season. The humidity falls, and the evenings along Beach Road are pleasant to walk.",
+     "The 2026 schedule spread sessions for each class across the week, with medal days placed through the seven-day programme."
     ]
    }
   ]
@@ -22897,6 +22983,51 @@
      "App-based ride-hailing (Grab, Gojek) works in parts of Ubud. Some central streets restrict pickups by app drivers, so riders often walk to a main road or use a local driver. Most locals pay drivers in cash in rupiah, and the fare is usually agreed before the ride.",
      "Small palm-leaf offerings called *canang sari* sit on pavements and doorsteps. The custom is to step around them, not on them. Temple compounds require a sarong and sash, which are usually available to borrow at the entrance.",
      "Book signings usually follow sessions, often with the festival's bookshop selling titles on site. Popular authors draw long queues soon after a session ends. Popular special events can sell out, while main-programme sessions are easier to fit around them."
+    ]
+   }
+  ]
+ },
+ "ulaanbaatar-evening-museum-let-s-travel-through-socialism": {
+  "steps": [
+   {
+    "from": "66f1f53fca88",
+    "to": "7877300a6ecb",
+    "at": "2026-11-20T07:59:17.506Z",
+    "removed": [
+     "[DESCRIPTION] Evening Museum: Let's Travel Through Socialism runs at the National Museum of Mongolia in central Ulaanbaatar from October 10 to November 19, 2026, and the museum itself handles dates and tickets.",
+     "[QUICK ANSWER] Evening Museum: Let's Travel Through Socialism runs at the National Museum of Mongolia in central Ulaanbaatar from October 10 to November 19, 2026, and the museum itself handles dates and tickets. The exhibition covers everyday life, industry, science and culture between 1950 and 1990. The museum is on Juulchin Street, a short walk from Sükhbaatar Square.",
+     "[FAQ 1] Q: When and where is Evening Museum: Let's Travel Through Socialism held? A: It runs from October 10 to November 19, 2026, at the National Museum of Mongolia. The museum is on the corner of Juulchin Street and Sükhbaatar Street, just northwest of Sükhbaatar Square in central Ulaanbaatar.",
+     "[FAQ 3] Q: Where do the ticket and hours details come from? A: The National Museum of Mongolia organises the exhibition. It publishes its hours and admission details on its official website, and its front desk sets the photography rules.",
+     "[FAQ 4] Q: How long does the exhibition take? A: Most visitors spend about an hour on a themed exhibition like this. Allow another hour if you're also seeing the museum's permanent 20th-century galleries.",
+     "Mongolia declared a people's republic in 1924 and became the world's second socialist state. Most of the 20th century followed from that. From October 10 to November 19, 2026, the National Museum of Mongolia gives its attention to the four decades in the middle: 1950 to 1990.",
+     "The exhibition is called Evening Museum: Let's Travel Through Socialism. It covers four strands of that era: everyday life, industry, science and culture.",
+     "The years are chosen with care. In 1950 the state already controlled Mongolian life, and by 1990 it was coming apart. The exhibition's four themes line up with some well-known moments of the period:",
+     "None of this is a list of what's on display. It's background that helps the rooms make sense.",
+     "The museum's permanent galleries tell Mongolia's story from prehistory onward. A temporary socialist-era show fits that story well. Here's how visitors usually handle it:",
+     "- **Ask by name.** In Mongolian the museum is Үндэсний музей (Ündesnii muzei), and taxi drivers know it. A simple \"Sain baina uu\" (hello) at the desk goes a long way.\n- **Pay by card or tugrik.** Card payment is normal across central Ulaanbaatar. The museum's front desk sets the exhibition's admission and photography rules.\n- **Read the captions slowly.** Many labels in Mongolian museums are Mongolian-first. A translation app with camera mode helps with longer texts.\n- **Give it time.** Most people spend about an hour on a themed exhibition like this. Add another hour if you're pairing it with the 20th-century rooms upstairs.",
+     "The \"Evening\" in the title points to an after-work format. The museum publishes its exhibition hours and ticket details on its official website.",
+     "The exhibition doesn't stop at the museum doors. Central Ulaanbaatar is still largely a planned socialist city, and you can walk through it.",
+     "Seeing the exhibition first gives the Zaisan mosaic and the opera house façade much more to say.",
+     "The show runs while the weather turns. Ulaanbaatar is one of the coldest capitals in the world. Evenings in October are sharp, and by mid-November temperatures sit well below freezing.",
+     "Visitors usually come in a proper winter coat, a hat and gloves, especially for the walk across the open square after dark. The cold is also why so many attendees end with a hot meal or milk tea in the cafés along Peace Avenue."
+    ],
+    "added": [
+     "[DESCRIPTION] Evening Museum: Let's Travel Through Socialism was set for October 10 to November 19, 2026, at the National Museum of Mongolia in central Ulaanbaatar.",
+     "[QUICK ANSWER] Evening Museum: Let's Travel Through Socialism was set for October 10 to November 19, 2026, at the National Museum of Mongolia in central Ulaanbaatar. The museum itself handled dates and tickets. The announced programme covered everyday life, industry, science and culture between 1950 and 1990. The museum is on Juulchin Street, a short walk from Sükhbaatar Square.",
+     "[FAQ 1] Q: When and where is Evening Museum: Let's Travel Through Socialism held? A: It was set for October 10 to November 19, 2026, at the National Museum of Mongolia. The museum is on the corner of Juulchin Street and Sükhbaatar Street, just northwest of Sükhbaatar Square in central Ulaanbaatar.",
+     "[FAQ 3] Q: Where do the ticket and hours details come from? A: The National Museum of Mongolia organised the exhibition and set its hours and admission. The museum's front desk sets the photography rules.",
+     "[FAQ 4] Q: How long does the exhibition take? A: Most visitors spend about an hour on a themed exhibition like this. Adding the museum's permanent 20th-century galleries takes about another hour.",
+     "Mongolia declared a people's republic in 1924 and became the world's second socialist state. Most of the 20th century followed from that. From October 10 to November 19, 2026, the National Museum of Mongolia was set to turn its attention to the four decades in the middle: 1950 to 1990.",
+     "The exhibition was called Evening Museum: Let's Travel Through Socialism. The announced programme covered four strands of that era: everyday life, industry, science and culture.",
+     "The years were chosen with care. In 1950 the state already controlled Mongolian life, and by 1990 it was coming apart. The exhibition's four themes lined up with some well-known moments of the period:",
+     "None of this is a list of what was on display. It's background that helps the rooms make sense.",
+     "The museum's permanent galleries tell Mongolia's story from prehistory onward. A temporary socialist-era show fitted that story well. Here's how visitors usually handle a visit:",
+     "- **Name:** in Mongolian the museum is Үндэсний музей (Ündesnii muzei), and taxi drivers know it. A simple \"Sain baina uu\" (hello) at the desk goes a long way.\n- **Payment:** card payment is normal across central Ulaanbaatar, alongside tugrik. The museum's front desk set the exhibition's admission and photography rules.\n- **Captions:** many labels in Mongolian museums are Mongolian-first. A translation app with camera mode helps with longer texts.\n- **Time:** most people spend about an hour on a themed exhibition like this. Pairing it with the 20th-century rooms upstairs adds another hour.",
+     "The \"Evening\" in the title pointed to an after-work format.",
+     "The exhibition's subject doesn't stop at the museum doors. Central Ulaanbaatar is still largely a planned socialist city, and you can walk through it.",
+     "The exhibition was meant to give the Zaisan mosaic and the opera house façade much more to say.",
+     "The show was scheduled to run while the weather turned. Ulaanbaatar is one of the coldest capitals in the world. Evenings in October are sharp, and by mid-November temperatures sit well below freezing.",
+     "Visitors usually come in a proper winter coat, a hat and gloves, especially for the walk across the open square after dark. The cold is also why so many evenings out in the city end with a hot meal or milk tea in the cafés along Peace Avenue."
     ]
    }
   ]

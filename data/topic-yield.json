@@ -14,16 +14,16 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 158,
+   "attempts": 165,
    "hits": 35
   },
   "art gallery": {
-   "attempts": 111,
-   "hits": 22
+   "attempts": 117,
+   "hits": 23
   },
   "night view": {
-   "attempts": 100,
-   "hits": 22
+   "attempts": 103,
+   "hits": 23
   },
   "waterfront": {
    "attempts": 63,
@@ -46,8 +46,8 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 127,
-   "hits": 20
+   "attempts": 140,
+   "hits": 23
   },
   "seafood": {
    "attempts": 97,
@@ -78,7 +78,7 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 65,
+   "attempts": 66,
    "hits": 3
   },
   "concept cafe": {
@@ -90,7 +90,7 @@
    "hits": 133
   },
   "grill": {
-   "attempts": 59,
+   "attempts": 60,
    "hits": 0
   },
   "design shop": {
@@ -1410,5 +1410,5 @@
    "hits": 0
   }
  },
- "updated": "2026-11-19T07:44:04.984Z"
+ "updated": "2026-11-20T07:50:05.986Z"
 }

@@ -7119,6 +7119,12 @@
   "reason": "publish gate: Shows Old Parliament House building across lake, representative view",
   "at": "2026-10-01T07:44:10.532Z"
  },
+ "canberra-paperchain-bookstore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Interior_of_Paperchain_Bookstore_August_2026.jpg/3840px-Interior_of_Paperchain_Bookstore_August_2026.jpg": {
+  "slug": "canberra-paperchain-bookstore",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative bookstore interior with shelves and displays",
+  "at": "2026-11-20T07:50:05.812Z"
+ },
  "canberra-the-mandalay-bus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mandalay_bus_September_2020.jpg/3840px-Mandalay_bus_September_2020.jpg": {
   "slug": "canberra-the-mandalay-bus",
   "verdict": "MATCH",
@@ -8973,6 +8979,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior facade of Palacio de Viana, representative view",
   "at": "2026-11-19T07:43:03.213Z"
+ },
+ "cordoba-roman-bridge-of-cordoba\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Puente_Romano_Cordoba.jpg/1920px-Puente_Romano_Cordoba.jpg": {
+  "slug": "cordoba-roman-bridge-of-cordoba",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear view of Roman Bridge with tower, Córdoba",
+  "at": "2026-11-20T07:50:05.747Z"
  },
  "cordoba-templo-romano\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/C%C3%B3rdoba_-_Templo_romano_K01.jpg": {
   "slug": "cordoba-templo-romano",
@@ -11661,6 +11673,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront clearly showing Cafe Gandolfi signage and entrance",
   "at": "2026-10-01T14:57:09.612Z"
+ },
+ "glasgow-category-is-books\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Category_Is_Books_%28Queer_Bookshop%29%2C_Glasgow%2C_Scotland_08.jpg/1920px-Category_Is_Books_%28Queer_Bookshop%29%2C_Glasgow%2C_Scotland_08.jpg": {
+  "slug": "glasgow-category-is-books",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shopfront with books visible, matches bookshop venue",
+  "at": "2026-11-20T07:50:05.958Z"
  },
  "glasgow-glasgow-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glasgow_Botanic_Gardens_%2851131796638%29.jpg/3840px-Glasgow_Botanic_Gardens_%2851131796638%29.jpg": {
   "slug": "glasgow-glasgow-botanic-gardens",
@@ -27127,6 +27145,12 @@
   "reason": "publish gate: Shows the curved Kongresshalle building exterior, representative view",
   "at": "2026-10-17T07:46:11.054Z"
  },
+ "nuremberg-kunstvilla-nurnberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kunstvilla_N%C3%BCrnberg.jpg/3840px-Kunstvilla_N%C3%BCrnberg.jpg": {
+  "slug": "nuremberg-kunstvilla-nurnberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Kunstvilla building, representative hero shot",
+  "at": "2026-11-20T07:50:05.860Z"
+ },
  "nuremberg-memorium-nuremberg-trials\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuremberg_-_justice_palace_2012_%28aka%29.jpg/1920px-Nuremberg_-_justice_palace_2012_%28aka%29.jpg": {
   "slug": "nuremberg-memorium-nuremberg-trials",
   "verdict": "MATCH",
@@ -40351,6 +40375,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Miniature figures and corral scene, representative of Miniature World",
   "at": "2026-10-22T07:49:24.255Z"
+ },
+ "victoria-munro-s-books\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/Interior_of_Munro%27s_Books.jpg": {
+  "slug": "victoria-munro-s-books",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior bookshelves and aisle, representative of bookstore",
+  "at": "2026-11-20T07:50:05.910Z"
  },
  "victoria-mystic-vale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mystic_vale_trees.jpg/1920px-Mystic_vale_trees.jpg": {
   "slug": "victoria-mystic-vale",

@@ -37484,13 +37484,6 @@
   "worst": "",
   "at": "2026-10-26T08:17:24.484Z"
  },
- "ko/auckland-joji-live": {
-  "hash": "14534824a18e",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이날의 세트리스트는 저희가 확인한 정보에 없습니다.",
-  "at": "2026-10-26T08:17:26.384Z"
- },
  "ko/bangkok-fujii-kaze-bangkok": {
   "hash": "6f9cc15127d7",
   "score": 1,
@@ -41270,5 +41263,89 @@
   "registerBreak": false,
   "worst": "",
   "at": "2026-11-19T07:54:05.541Z"
+ },
+ "es/canberra-paperchain-bookstore": {
+  "hash": "e97d5379086d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los domingos cierra a las 5pm, de modo que si llega a las 4pm dispondrá apenas de una hora.",
+  "at": "2026-11-20T07:53:54.143Z"
+ },
+ "es/cordoba-roman-bridge-of-cordoba": {
+  "hash": "58e2423bff63",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Todos los días de la semana, la franja más tranquila va de las 7am a las 9am.",
+  "at": "2026-11-20T07:53:57.565Z"
+ },
+ "es/glasgow-category-is-books": {
+  "hash": "2215d62ed119",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Y precisamente ahí reside su gracia.",
+  "at": "2026-11-20T07:53:58.638Z"
+ },
+ "ja/canberra-paperchain-bookstore": {
+  "hash": "c63b1ed02b74",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "日曜は午後5時に閉店するため、午後4時に訪れても1時間しかありません。",
+  "at": "2026-11-20T07:53:59.991Z"
+ },
+ "ja/cordoba-roman-bridge-of-cordoba": {
+  "hash": "c2e8860c3ff1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "橋の所在地はスール地区（Sur）のAv. del Alcázar, s/nです。",
+  "at": "2026-11-20T07:54:01.053Z"
+ },
+ "ja/glasgow-category-is-books": {
+  "hash": "01ca03474c24",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "専門書店がアルゴリズムに勝るいちばんの点は、人によるおすすめです。",
+  "at": "2026-11-20T07:54:05.288Z"
+ },
+ "ko/canberra-paperchain-bookstore": {
+  "hash": "4963caeaef6e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "마누카가 캔버라를 대표하는 카페·식당가로 바뀌어 가는 모습을 고스란히 지켜본 셈입니다.",
+  "at": "2026-11-20T07:54:06.668Z"
+ },
+ "ko/cordoba-roman-bridge-of-cordoba": {
+  "hash": "62b323a69caa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "북쪽 끝에는 르네상스 양식의 문인 다리의 문(Puerta del Puente)이 서 있는데, 이 문 너머로 메스키타 대성당의 성벽이 액자처럼 들어옵니다.",
+  "at": "2026-11-20T07:54:07.963Z"
+ },
+ "ko/glasgow-category-is-books": {
+  "hash": "a8457de14b8d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "1층에는 식료품점과 빵집, 테이크아웃 음식점이 들어서 있고 그 위로 주택이 층층이 올라가 있습니다.",
+  "at": "2026-11-20T07:54:12.790Z"
+ },
+ "zh/canberra-paperchain-bookstore": {
+  "hash": "07619c142880",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "虽然地址写的是格里菲斯，但它实际位于马努卡街区——一片紧凑的方格状商业街，离马努卡椭圆球场只有几步路。",
+  "at": "2026-11-20T07:54:18.886Z"
+ },
+ "zh/cordoba-roman-bridge-of-cordoba": {
+  "hash": "1fdb20fa8a1a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "每天早上7点到9点是桥上最清静的时候，一周七天都是如此。",
+  "at": "2026-11-20T07:54:22.863Z"
+ },
+ "zh/glasgow-category-is-books": {
+  "hash": "42ebe98035a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "妙处恰恰在于这样的环境。在这里，你不是从布坎南街走进一家连锁店，而是置身于苏格兰族群最多元的街区之一。",
+  "at": "2026-11-20T07:54:24.083Z"
  }
 }
