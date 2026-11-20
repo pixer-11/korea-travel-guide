@@ -42,11 +42,7 @@ Beijing, China — 12 qualifying post(s), variants: 3
   = Beijing 3d — unchanged, skipping
 
 Berlin, Germany — 12 qualifying post(s), variants: 3
-  ⚠ Berlin 3d — guard found 3 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-     · faq[1].a — clock-time-ampm: "Berlin Cathedral is quietest on weekday mornings between 9am and 11am or Saturday mornings between 9am and 10am, while Tiergarten is calmest"
-     · faq[2].a — hours-language: "It's closed on Mondays, so plan day one for another weekday or the weekend and consider an early slot since it gets busiest later in the day"
-     · faq[4].a — clock-time-ampm: "The queue is shortest on weekdays between 11am and 11pm, or on weekends between 11am and 1pm, so timing lunch around those windows helps."
-NEW_ITINERARY: Berlin 3d
+  = Berlin 3d — unchanged, skipping
 
 Brighton, United Kingdom — 13 qualifying post(s), variants: 3
   = Brighton 3d — unchanged, skipping
@@ -102,7 +98,7 @@ Singapore, Singapore — 80 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

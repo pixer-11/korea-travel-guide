@@ -41347,5 +41347,47 @@
   "registerBreak": false,
   "worst": "妙处恰恰在于这样的环境。在这里，你不是从布坎南街走进一家连锁店，而是置身于苏格兰族群最多元的街区之一。",
   "at": "2026-11-20T07:54:24.083Z"
+ },
+ "es/pattaya-ittf-world-para-table-tennis-championships": {
+  "hash": "b3e32021033a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Si se interpreta el himno real tailandés, el público local permanece inmóvil, y los visitantes hacen lo mismo.",
+  "at": "2026-11-20T16:23:06.256Z"
+ },
+ "es/ulaanbaatar-evening-museum-let-s-travel-through-socialism": {
+  "hash": "60ae61d3bf58",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El «de noche» del título aludía a un formato pensado para después del trabajo.",
+  "at": "2026-11-20T16:20:47.579Z"
+ },
+ "ja/pattaya-ittf-world-para-table-tennis-championships": {
+  "hash": "029a649aee34",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "交通手段の選択肢が最も多く、段差のない客室を備えたホテルも最も多いエリアだからです。",
+  "at": "2026-11-20T16:20:49.177Z"
+ },
+ "ko/pattaya-ittf-world-para-table-tennis-championships": {
+  "hash": "ee6cd509eb41",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "교통편이 가장 다양하고 턱 없는 객실을 갖춘 호텔도 가장 많은 지역이기 때문입니다.",
+  "at": "2026-11-20T16:20:55.464Z"
+ },
+ "zh/pattaya-ittf-world-para-table-tennis-championships": {
+  "hash": "7b235d1fd7f8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "对阵表上的级别数字，能让观众一眼看出这是什么类型的比赛。",
+  "at": "2026-11-20T16:21:00.559Z"
+ },
+ "zh/ulaanbaatar-evening-museum-let-s-travel-through-socialism": {
+  "hash": "d1b4038908e4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "起止年份的选择颇有讲究：1950年，国家已全面掌控蒙古人的生活；到了1990年，这套体制已经土崩瓦解。",
+  "at": "2026-11-20T16:21:01.588Z"
  }
 }
