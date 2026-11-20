@@ -1,26 +1,33 @@
 ---
 title: 'Xi''an Museum: Travel Guide (4.6★)'
-description: Xi'an Museum, on Youyi Xi Lu in the Beilin District near the South Gate of the old city wall, is a free, well-run museum covering 3,000+ years of Xi'an's history, anchored by the Tang-dynasty Jianfu Temple and its Little Wild Goose Pagoda in the same park. 4.6★ (193 reviews) — what visitors say, hours, and tips.
+description: >-
+  Xi'an Museum, on Youyi Xi Lu in the Beilin District near the South Gate of the
+  old city wall, is a free, well-run museum covering 3,000+ years of Xi'an's
+  history, anchored by the Tang-dynasty Jianfu Temple and its Little Wild Goose
+  Pagoda in the same park. 4.6★ (210 reviews) — what visitors say, hours, and
+  tips.
 country: China
 region: Xi'an
 category: attraction
 pubDate: '2026-08-05T11:24:32.830Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Xi%27an_Museum_2024.jpg/1920px-Xi%27an_Museum_2024.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Xi%27an_Museum_2024.jpg/1920px-Xi%27an_Museum_2024.jpg
   credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Xi%27an_Museum_2024.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Xi%27an_Museum_2024.jpg'
 place:
   id: ChIJXVVWnIRwYzYR6dmS_KAYg2U
   name: Xi'an Museum
-  address: 72 You Yi Xi Lu, Bei Lin Qu, Xi An Shi, Shan Xi Sheng, China, 710064
+  address: '72 You Yi Xi Lu, Bei Lin Qu, Xi An Shi, Shan Xi Sheng, China, 710064'
   rating: 4.6
-  userRatingsTotal: 193
-  googleMapsUrl: https://maps.google.com/?cid=7314717299491133929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 210
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7314717299491133929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.237311999999996
   lng: 108.94024999999999
-  phone: '+86 29 8780 3591'
+  phone: +86 29 8780 3591
   openingHours:
     - 'Monday: 9:00 AM – 5:00 PM'
     - 'Tuesday: Closed'
@@ -32,20 +39,45 @@ place:
 tags:
   - xi'an
   - museum
-quickAnswer: 'Xi''an Museum, on Youyi Xi Lu in the Beilin District near the South Gate of the old city wall, is a free, well-run museum covering 3,000+ years of Xi''an''s history, anchored by the Tang-dynasty Jianfu Temple and its Little Wild Goose Pagoda in the same park. Budget 2-2.5 hours: an hour or so in the galleries, then a slow walk through the surrounding gardens and pagoda grounds. Go on a weekday morning to have the courtyards mostly to yourself before tour groups arrive.'
+quickAnswer: >-
+  Xi'an Museum, on Youyi Xi Lu in the Beilin District near the South Gate of the
+  old city wall, is a free, well-run museum covering 3,000+ years of Xi'an's
+  history, anchored by the Tang-dynasty Jianfu Temple and its Little Wild Goose
+  Pagoda in the same park. Budget 2-2.5 hours: an hour or so in the galleries,
+  then a slow walk through the surrounding gardens and pagoda grounds. Go on a
+  weekday morning to have the courtyards mostly to yourself before tour groups
+  arrive.
 faq:
   - q: How much does it cost to enter Xi'an Museum?
-    a: Entry is typically free, as with most Chinese state museums, but you'll usually need to book a timed slot in advance online and bring your passport for registration at the entrance — confirm the current booking process before you go, as it can change.
+    a: >-
+      Entry is typically free, as with most Chinese state museums, but you'll
+      usually need to book a timed slot in advance online and bring your
+      passport for registration at the entrance — confirm the current booking
+      process before you go, as it can change.
   - q: How long should I spend there?
-    a: 'Plan on 2 to 2.5 hours total: roughly an hour in the galleries and the rest wandering the pagoda grounds and gardens. A quick pass through just the museum can be done in 30-40 minutes if you''re short on time.'
+    a: >-
+      Plan on 2 to 2.5 hours total: roughly an hour in the galleries and the
+      rest wandering the pagoda grounds and gardens. A quick pass through just
+      the museum can be done in 30-40 minutes if you're short on time.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday mornings shortly after opening are the calmest, before tour groups typically arrive later in the day. Weekends and Chinese public holidays get noticeably busier in both the exhibition halls and the outdoor gardens.
+    a: >-
+      Weekday mornings shortly after opening are the calmest, before tour groups
+      typically arrive later in the day. Weekends and Chinese public holidays
+      get noticeably busier in both the exhibition halls and the outdoor
+      gardens.
   - q: How do I get there from the Bell Tower or Muslim Quarter?
-    a: It's about a 15-20 minute taxi or rideshare ride south to Youyi Xi Lu in Beilin District. By metro, take Line 2 or 3 to Xiaozhai station, then a short taxi ride or roughly 20-minute walk north.
+    a: >-
+      It's about a 15-20 minute taxi or rideshare ride south to Youyi Xi Lu in
+      Beilin District. By metro, take Line 2 or 3 to Xiaozhai station, then a
+      short taxi ride or roughly 20-minute walk north.
   - q: Is the Little Wild Goose Pagoda included in the same visit?
-    a: Yes — the pagoda and its garden grounds are part of the same complex as the museum, so you can see both in a single trip without planning separate visits.
+    a: >-
+      Yes — the pagoda and its garden grounds are part of the same complex as
+      the museum, so you can see both in a single trip without planning separate
+      visits.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 
 ## Why go

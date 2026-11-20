@@ -16,7 +16,7 @@ heroImage:
   source: 'https://foursquare.com/v/53ff53b9498ef90189445fe5'
   focus:
     x: 35
-    y: 35
+    'y': 35
 gallery:
   - url: >-
       https://fastly.4sqi.net/img/general/original/348024470_UR6p1LsKoCgfd1gP3_gCCFyUaKftzFu_7UHHegy8Ut8.jpg
@@ -30,7 +30,7 @@ place:
     Al Huwelat street - Villa No 15 - 4 Al Falah St - opp. Al Bateen - Bateen
     Area - W17 03 - Abu Dhabi - United Arab Emirates
   rating: 4.6
-  userRatingsTotal: 3074
+  userRatingsTotal: 3159
   priceLevel: 2
   googleMapsUrl: >-
     https://maps.google.com/?cid=13875849417726365909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -95,7 +95,7 @@ faq:
       Al Hosn and the Cultural Foundation are also reachable for a broader
       arts-and-history outing.
 aiGenerated: true
-updatedDate: '2026-08-02'
+updatedDate: '2026-11-20'
 draft: false
 ---
 ## Why go

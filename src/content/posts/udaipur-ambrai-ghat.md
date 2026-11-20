@@ -1,23 +1,30 @@
 ---
 title: 'Ambrai Ghat: Udaipur Travel Guide'
-description: Ambrai Ghat is the classic waterfront perch on the eastern shore of Lake Pichola, directly across from the City Palace and Lake Palace, and it's open daily from 5am to 7pm.
+description: >-
+  Ambrai Ghat is the classic waterfront perch on the eastern shore of Lake
+  Pichola, directly across from the City Palace and Lake Palace, and it's open
+  daily from 5am to 7pm.
 country: India
 region: Udaipur
 category: hidden-gem
 pubDate: '2026-07-30T10:02:00.876Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ambrai_Ghat_Night_Life.jpg/1920px-Ambrai_Ghat_Night_Life.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ambrai_Ghat_Night_Life.jpg/1920px-Ambrai_Ghat_Night_Life.jpg
   credit: 'Photo: Imsourabh1996 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ambrai_Ghat_Night_Life.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Ambrai_Ghat_Night_Life.jpg'
 gallery: []
 place:
   id: ChIJf1CpH2flZzkRmiCtzPDYk4A
   name: Ambrai Ghat
-  address: Chandpole Maji, Ka Mandir corner of Lake, Cheerwa, Pichola, Udaipur, Rajasthan 313004, India
+  address: >-
+    Chandpole Maji, Ka Mandir corner of Lake, Cheerwa, Pichola, Udaipur,
+    Rajasthan 313004, India
   rating: 4.7
-  userRatingsTotal: 12570
-  googleMapsUrl: https://maps.google.com/?cid=9264987387168891034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 12961
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9264987387168891034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.5775547
   lng: 73.67990209999999
@@ -41,22 +48,44 @@ place:
 tags:
   - udaipur
   - hidden gem
-quickAnswer: Ambrai Ghat is the classic waterfront perch on the eastern shore of Lake Pichola, directly across from the City Palace and Lake Palace, and it's open daily from 5am to 7pm. Come for golden hour, but arrive well before 4pm — weekend crowds thicken between 4pm and 7pm, exactly when the light gets good. Budget 30-45 minutes to walk the steps and settle in for sunset, longer if you're eating at one of the lakeside restaurants here.
+quickAnswer: >-
+  Ambrai Ghat is the classic waterfront perch on the eastern shore of Lake
+  Pichola, directly across from the City Palace and Lake Palace, and it's open
+  daily from 5am to 7pm. Come for golden hour, but arrive well before 4pm —
+  weekend crowds thicken between 4pm and 7pm, exactly when the light gets good.
+  Budget 30-45 minutes to walk the steps and settle in for sunset, longer if
+  you're eating at one of the lakeside restaurants here.
 faq:
   - q: What are Ambrai Ghat's opening hours?
-    a: It's open daily from 5:00 AM to 7:00 PM — early enough to catch locals bathing and washing at dawn, and late enough to cover sunset.
+    a: >-
+      It's open daily from 5:00 AM to 7:00 PM — early enough to catch locals
+      bathing and washing at dawn, and late enough to cover sunset.
   - q: When is the best time to visit for photos?
-    a: Sunset (roughly the last hour before closing) gives the best light on the City Palace and Lake Palace, but try to arrive by 3:30-4pm — weekends get very crowded between 4pm and 7pm.
+    a: >-
+      Sunset (roughly the last hour before closing) gives the best light on the
+      City Palace and Lake Palace, but try to arrive by 3:30-4pm — weekends get
+      very crowded between 4pm and 7pm.
   - q: Is there an entrance fee?
-    a: No, the ghat and promenade are free and open to the public. You only pay separately if you take a boat ride on Lake Pichola or eat at one of the lakeside restaurants.
+    a: >-
+      No, the ghat and promenade are free and open to the public. You only pay
+      separately if you take a boat ride on Lake Pichola or eat at one of the
+      lakeside restaurants.
   - q: How do I get to Ambrai Ghat?
-    a: It's on the Chandpole side of Lake Pichola, opposite the City Palace. Walk over from Jagdish Temple/City Palace area via the nearby bridge, or take an auto-rickshaw — any driver will know it by name.
+    a: >-
+      It's on the Chandpole side of Lake Pichola, opposite the City Palace. Walk
+      over from Jagdish Temple/City Palace area via the nearby bridge, or take
+      an auto-rickshaw — any driver will know it by name.
   - q: How long should I plan to stay?
-    a: Allow 30-45 minutes for a walk and photos, or 1.5-2 hours if you're settling in at a terrace restaurant for sunset and a meal.
+    a: >-
+      Allow 30-45 minutes for a walk and photos, or 1.5-2 hours if you're
+      settling in at a terrace restaurant for sunset and a meal.
   - q: What's nearby worth combining with a visit?
-    a: The City Palace, Jagdish Temple, and Bagore Ki Haveli (with its evening folk dance show) are all a short walk or quick auto ride from the ghat.
+    a: >-
+      The City Palace, Jagdish Temple, and Bagore Ki Haveli (with its evening
+      folk dance show) are all a short walk or quick auto ride from the ghat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 ## Why Ambrai Ghat matters in Udaipur
 

@@ -1,23 +1,31 @@
 ---
 title: 'Shanghai Tower: Travel Guide (4.6★)'
-description: Shanghai Tower's observation deck (floor 118-119) is open daily 8:30am–9:30pm in Lujiazui, Pudong — the quietest window is 8:30am–9:30am on any day, while weekend evenings from 7pm to 9pm draw the thickest crowds for the night skyline. 4.6★ (3,180 reviews) — what visitors say, hours, and tips.
+description: >-
+  Shanghai Tower's observation deck (floor 118-119) is open daily 8:30am–9:30pm
+  in Lujiazui, Pudong — the quietest window is 8:30am–9:30am on any day, while
+  weekend evenings from 7pm to 9pm draw the thickest crowds for the night
+  skyline. 4.6★ (3,383 reviews) — what visitors say, hours, and tips.
 country: China
 region: Shanghai
 category: attraction
 pubDate: '2026-08-04T10:03:34.728Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/1920px-Shanghai_-_Shanghai_Tower_-_0002.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/1920px-Shanghai_-_Shanghai_Tower_-_0002.jpg
   credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Tower_-_0002.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Tower_-_0002.jpg'
 gallery: []
 place:
   id: ChIJcT52JmpwsjURKKp8uyIQKjU
   name: Shanghai Tower
-  address: 501 Yin Cheng Zhong Lu, Lujiazui, Pu Dong Xin Qu, Shang Hai Shi, China, 200120
+  address: >-
+    501 Yin Cheng Zhong Lu, Lujiazui, Pu Dong Xin Qu, Shang Hai Shi, China,
+    200120
   rating: 4.6
-  userRatingsTotal: 3180
-  googleMapsUrl: https://maps.google.com/?cid=3830892174392470056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3383
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3830892174392470056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 31.233518000000004
   lng: 121.505618
@@ -43,20 +51,39 @@ place:
 tags:
   - shanghai
   - top attraction
-quickAnswer: Shanghai Tower's observation deck (floor 118-119) is open daily 8:30am–9:30pm in Lujiazui, Pudong — the quietest window is 8:30am–9:30am on any day, while weekend evenings from 7pm to 9pm draw the thickest crowds for the night skyline. Book timed-entry tickets online in advance, take metro Line 2 to Lujiazui Station, and budget about two hours including security and the double-decker elevator ride.
+quickAnswer: >-
+  Shanghai Tower's observation deck (floor 118-119) is open daily 8:30am–9:30pm
+  in Lujiazui, Pudong — the quietest window is 8:30am–9:30am on any day, while
+  weekend evenings from 7pm to 9pm draw the thickest crowds for the night
+  skyline. Book timed-entry tickets online in advance, take metro Line 2 to
+  Lujiazui Station, and budget about two hours including security and the
+  double-decker elevator ride.
 faq:
   - q: What are the opening hours?
-    a: Shanghai Tower's observation deck is open daily from 8:30am to 9:30pm, with no variation across the week.
+    a: >-
+      Shanghai Tower's observation deck is open daily from 8:30am to 9:30pm,
+      with no variation across the week.
   - q: When is the quietest time to visit?
-    a: Both weekdays and weekends are calmest between 8:30am and 9:30am, right after opening — arrive then to avoid lines at the elevators and deck.
+    a: >-
+      Both weekdays and weekends are calmest between 8:30am and 9:30am, right
+      after opening — arrive then to avoid lines at the elevators and deck.
   - q: How do I get there by metro?
-    a: Take Metro Line 2 (or Line 14) to Lujiazui Station and follow signs for Lujiazui/IFC; it's a short walk from the exit to the tower entrance.
+    a: >-
+      Take Metro Line 2 (or Line 14) to Lujiazui Station and follow signs for
+      Lujiazui/IFC; it's a short walk from the exit to the tower entrance.
   - q: How long should I plan for the visit?
-    a: Budget around two hours total, including security screening, the elevator ride, and time on the observation floors — longer if you also want to see the damper viewing area.
+    a: >-
+      Budget around two hours total, including security screening, the elevator
+      ride, and time on the observation floors — longer if you also want to see
+      the damper viewing area.
   - q: What's nearby worth combining with this visit?
-    a: The Oriental Pearl Tower and Shanghai World Financial Center are both within walking distance in Lujiazui, and a river ferry connects across to the Bund on the Puxi side.
+    a: >-
+      The Oriental Pearl Tower and Shanghai World Financial Center are both
+      within walking distance in Lujiazui, and a river ferry connects across to
+      the Bund on the Puxi side.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 ## Why go
 

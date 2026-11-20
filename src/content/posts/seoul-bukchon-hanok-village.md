@@ -1,27 +1,35 @@
 ---
 title: 'Bukchon Hanok Village: Seoul Travel Guide (4.4★)'
-description: Bukchon Hanok Village is a hillside neighborhood of centuries-old wooden hanok houses between Gyeongbokgung and Changdeokgung palaces — walk it for the sweeping tiled-roof views, not for a single ticketed sight. 4.4★ (24,313 reviews) — what visitors say, hours, and tips.
+description: >-
+  Bukchon Hanok Village is a hillside neighborhood of centuries-old wooden hanok
+  houses between Gyeongbokgung and Changdeokgung palaces — walk it for the
+  sweeping tiled-roof views, not for a single ticketed sight. 4.4★ (24,955
+  reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Seoul
 category: hidden-gem
 pubDate: '2026-08-04T10:33:34.876Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/1920px-Bukchon_Hanok_Village_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/1920px-Bukchon_Hanok_Village_01.jpg
   credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/3840px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/3840px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
     credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg
 place:
   id: ChIJT8H4r9qifDURmuXJ_6m6vM0
   name: Bukchon Hanok Village
-  address: Gyedong-gil, Jongno District, Seoul, South Korea
+  address: 'Gyedong-gil, Jongno District, Seoul, South Korea'
   rating: 4.4
-  userRatingsTotal: 24313
-  googleMapsUrl: https://maps.google.com/?cid=14824929312700491162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 24955
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14824929312700491162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.5814696
   lng: 126.9849519
@@ -50,20 +58,41 @@ place:
 tags:
   - seoul
   - hidden gem
-quickAnswer: Bukchon Hanok Village is a hillside neighborhood of centuries-old wooden hanok houses between Gyeongbokgung and Changdeokgung palaces — walk it for the sweeping tiled-roof views, not for a single ticketed sight. Go right at opening, between 10am and 11am, when the alleys are calmest; by midday on weekends the busiest photo spots turn into a slow shuffle of tour groups. Budget 1.5–2 hours, wear flat shoes for the steep lanes, and keep your voice down — people still live in these houses.
+quickAnswer: >-
+  Bukchon Hanok Village is a hillside neighborhood of centuries-old wooden hanok
+  houses between Gyeongbokgung and Changdeokgung palaces — walk it for the
+  sweeping tiled-roof views, not for a single ticketed sight. Go right at
+  opening, between 10am and 11am, when the alleys are calmest; by midday on
+  weekends the busiest photo spots turn into a slow shuffle of tour groups.
+  Budget 1.5–2 hours, wear flat shoes for the steep lanes, and keep your voice
+  down — people still live in these houses.
 faq:
   - q: How do I get to Bukchon Hanok Village by subway?
-    a: Take Line 3 to either Anguk Station (Exit 2) or Gyeongbokgung Station (Exit 5), then walk about 10–15 minutes uphill into the village.
+    a: >-
+      Take Line 3 to either Anguk Station (Exit 2) or Gyeongbokgung Station
+      (Exit 5), then walk about 10–15 minutes uphill into the village.
   - q: Is there an entrance fee?
-    a: No, walking the streets of Bukchon is free — you only pay if you enter a specific paid attraction like the culture center's programs, a hanbok rental shop, or a tea house.
+    a: >-
+      No, walking the streets of Bukchon is free — you only pay if you enter a
+      specific paid attraction like the culture center's programs, a hanbok
+      rental shop, or a tea house.
   - q: When is the quietest time to visit?
-    a: Both weekdays and weekends are calmest between 10am and 11am, right when it opens. Try to avoid weekends between noon and 5pm, when the main viewpoints get crowded.
+    a: >-
+      Both weekdays and weekends are calmest between 10am and 11am, right when
+      it opens. Try to avoid weekends between noon and 5pm, when the main
+      viewpoints get crowded.
   - q: How long should I plan to spend there?
-    a: Most visitors spend 1.5 to 2 hours wandering the main lanes, including Bukchon-ro 11-gil and the Bukchon Traditional Culture Center. Add more time if you're renting hanbok or combining it with a nearby palace.
+    a: >-
+      Most visitors spend 1.5 to 2 hours wandering the main lanes, including
+      Bukchon-ro 11-gil and the Bukchon Traditional Culture Center. Add more
+      time if you're renting hanbok or combining it with a nearby palace.
   - q: What's nearby that I can combine with this visit?
-    a: Gyeongbokgung Palace and Changdeokgung Palace both sit within walking distance and pair naturally with a Bukchon morning or afternoon.
+    a: >-
+      Gyeongbokgung Palace and Changdeokgung Palace both sit within walking
+      distance and pair naturally with a Bukchon morning or afternoon.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 ## Why Bukchon feels different from the rest of Seoul
 

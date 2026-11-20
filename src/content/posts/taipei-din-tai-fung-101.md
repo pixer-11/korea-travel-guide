@@ -1,23 +1,29 @@
 ---
 title: 'Din Tai Fung 101: Where to Eat in Taipei'
-description: This branch of Din Tai Fung sits in the basement of the City Hall Rd building in Xinyi District, a few minutes' walk from Taipei 101 — making it the natural lunch or dinner stop after the tower or the surrounding malls.
+description: >-
+  This branch of Din Tai Fung sits in the basement of the City Hall Rd building
+  in Xinyi District, a few minutes' walk from Taipei 101 — making it the natural
+  lunch or dinner stop after the tower or the surrounding malls.
 country: Taiwan
 region: Taipei
 category: restaurant
 pubDate: '2026-07-30T09:48:31.857Z'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Din_Tai_Fung_at_Taipei_101_Food_Court.jpg/3840px-Din_Tai_Fung_at_Taipei_101_Food_Court.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Din_Tai_Fung_at_Taipei_101_Food_Court.jpg/3840px-Din_Tai_Fung_at_Taipei_101_Food_Court.jpg
     credit: 'Photo: 玄 史生 / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Din_Tai_Fung_at_Taipei_101_Food_Court.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Din_Tai_Fung_at_Taipei_101_Food_Court.jpg
 place:
   id: ChIJQXcl6LarQjQRGUMnQ18F0lE
   name: Din Tai Fung 101
-  address: 110, Taiwan, Taipei City, Xinyi District, Xicun Village, City Hall Rd, 45號B1
+  address: '110, Taiwan, Taipei City, Xinyi District, Xicun Village, City Hall Rd, 45號B1'
   rating: 4.5
-  userRatingsTotal: 13775
+  userRatingsTotal: 14152
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=5895780768888079129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5895780768888079129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.033337099999997
   lng: 121.56465960000001
@@ -47,28 +53,51 @@ place:
 tags:
   - taipei
   - street food
-quickAnswer: This branch of Din Tai Fung sits in the basement of the City Hall Rd building in Xinyi District, a few minutes' walk from Taipei 101 — making it the natural lunch or dinner stop after the tower or the surrounding malls. It's open daily 10:45am–8:30pm, but go right at opening on a weekday (10:45am–12pm) or right at Saturday/Sunday opening (10:45–11:45am) if you want to skip the queue, since afternoons from 1pm through closing on weekends turn into a wait. Expect a wait regardless of timing — this is one of the most consistently packed Din Tai Fung locations in the city.
+quickAnswer: >-
+  This branch of Din Tai Fung sits in the basement of the City Hall Rd building
+  in Xinyi District, a few minutes' walk from Taipei 101 — making it the natural
+  lunch or dinner stop after the tower or the surrounding malls. It's open daily
+  10:45am–8:30pm, but go right at opening on a weekday (10:45am–12pm) or right
+  at Saturday/Sunday opening (10:45–11:45am) if you want to skip the queue,
+  since afternoons from 1pm through closing on weekends turn into a wait. Expect
+  a wait regardless of timing — this is one of the most consistently packed Din
+  Tai Fung locations in the city.
 faq:
   - q: What are the opening hours for Din Tai Fung 101?
-    a: It's open every day of the week, 10:45am to 8:30pm, with no shortened days.
+    a: >-
+      It's open every day of the week, 10:45am to 8:30pm, with no shortened
+      days.
   - q: When is the quietest time to visit?
-    a: Weekdays between 10:45am and noon, or weekends between 10:45am and 11:45am — both are effectively the first hour after opening.
+    a: >-
+      Weekdays between 10:45am and noon, or weekends between 10:45am and 11:45am
+      — both are effectively the first hour after opening.
   - q: How do I get there?
-    a: It's in the basement (B1) of a building at 45 City Hall Rd, Xinyi District, an easy walk from Taipei 101/World Trade Center Station on the Blue Line, close to Taipei City Hall Station too.
+    a: >-
+      It's in the basement (B1) of a building at 45 City Hall Rd, Xinyi
+      District, an easy walk from Taipei 101/World Trade Center Station on the
+      Blue Line, close to Taipei City Hall Station too.
   - q: Is it expensive?
-    a: It's mid-range for Taipei — pricier than a noodle stall but not a splurge restaurant; ordering a few steamer baskets plus a soup and vegetable side for two is a typical order.
+    a: >-
+      It's mid-range for Taipei — pricier than a noodle stall but not a splurge
+      restaurant; ordering a few steamer baskets plus a soup and vegetable side
+      for two is a typical order.
   - q: Do I need a reservation?
-    a: Walk-ins are the norm and you'll be given a numbered ticket; there's usually a wait, especially weekend afternoons from 1pm onward, so arriving near opening minimizes the delay.
+    a: >-
+      Walk-ins are the norm and you'll be given a numbered ticket; there's
+      usually a wait, especially weekend afternoons from 1pm onward, so arriving
+      near opening minimizes the delay.
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/454225848_vmS9NUsYJIPqorrUj2PFuJTOrxwYsnuiLbvB_Ey9WlY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/454225848_vmS9NUsYJIPqorrUj2PFuJTOrxwYsnuiLbvB_Ey9WlY.jpg
   credit: 'Photo: Foursquare user content (Din Tai Fung (鼎泰豐))'
   license: foursquare
-  source: https://foursquare.com/v/4e30f045e4cd9fcdc93d0783
+  source: 'https://foursquare.com/v/4e30f045e4cd9fcdc93d0783'
   focus:
     x: 45
     'y': 35
+updatedDate: '2026-11-20'
 ---
 ## Why this branch, specifically
 

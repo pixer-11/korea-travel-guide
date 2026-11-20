@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: venice-doge-s-palace
-srcHash: 'f1918b3a53b5'
+srcHash: 'f0f2278e9449'
 title: 'Palacio Ducal: guía de viaje de Venecia (4.7★)'
-description: 'Para esquivar las peores aglomeraciones, conviene llegar justo a la apertura (9am) o en las dos últimas horas antes del cierre; los fines de semana se llena entre las 11am–5pm, así que lo ideal es una mañana entre semana. 4.7★ (39,262 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Para esquivar las peores aglomeraciones, conviene llegar justo a la apertura (9am) o en las dos últimas horas antes del cierre; los fines de semana se llena entre las 11am–5pm, así que lo ideal es una mañana entre semana. 4.7★ (40,931 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Para esquivar las peores aglomeraciones, conviene llegar justo a la apertura (9am) o en las dos últimas horas antes del cierre. Los fines de semana se llena entre las 11am–5pm, de modo que, si es posible, lo mejor es elegir una mañana entre semana. Compre con antelación por internet una entrada con hora asignada, reserve entre dos y tres horas para la visita y, si dispone de tiempo, complétela con el Puente de los Suspiros y el recorrido de los Itinerarios Secretos. El palacio se alza en la misma Plaza de San Marcos (Piazza San Marco), a dos minutos a pie de la parada de vaporetto que lleva su nombre.
 faq:
   - q: ¿Cuánto tiempo hay que dedicar al Palacio Ducal?

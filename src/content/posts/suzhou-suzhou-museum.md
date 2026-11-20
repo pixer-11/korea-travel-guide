@@ -1,48 +1,78 @@
 ---
-title: "Suzhou Museum: Travel Guide (4.4★)"
-description: "Suzhou Museum, on Dongbei Jie next to the Humble Administrator's Garden, is a half-day stop for anyone visiting the old city — free to enter (reserve a timed slot online or at the gate), designed by I.M. 4.4★ (478 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Suzhou"
-category: "attraction"
-pubDate: "2026-08-05T11:17:01.630Z"
+title: 'Suzhou Museum: Travel Guide (4.4★)'
+description: >-
+  Suzhou Museum, on Dongbei Jie next to the Humble Administrator's Garden, is a
+  half-day stop for anyone visiting the old city — free to enter (reserve a
+  timed slot online or at the gate), designed by I.M. 4.4★ (498 reviews) — what
+  visitors say, hours, and tips.
+country: China
+region: Suzhou
+category: attraction
+pubDate: '2026-08-05T11:17:01.630Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg/1920px-%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg"
-  credit: "Photo: Legolas1024 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg/1920px-%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg
+  credit: 'Photo: Legolas1024 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E8%8B%8F%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86%C2%B7%E8%8B%8F%E5%B7%9E%C2%B7%E8%A5%BF%E5%8D%97%E5%90%91%E4%B8%9C%E5%8C%97.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Suzhou_Museum%2C_China_%282015%29_-_03.JPG/3840px-Suzhou_Museum%2C_China_%282015%29_-_03.JPG"
-    credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Suzhou_Museum,_China_(2015)_-_03.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Suzhou_Museum%2C_China_%282015%29_-_03.JPG/3840px-Suzhou_Museum%2C_China_%282015%29_-_03.JPG
+    credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Suzhou_Museum,_China_(2015)_-_03.JPG
 place:
-  id: "ChIJm_BwxtGmszURa94EWFcIKN0"
-  name: "Suzhou Museum"
-  address: "204 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215005"
+  id: ChIJm_BwxtGmszURa94EWFcIKN0
+  name: Suzhou Museum
+  address: '204 Dong Bei Jie, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215005'
   rating: 4.4
-  userRatingsTotal: 478
-  googleMapsUrl: "https://maps.google.com/?cid=15935996452682391147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 498
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15935996452682391147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.322878999999997
   lng: 120.627791
-  phone: '+86 512 6757 5666'
+  phone: +86 512 6757 5666
 tags:
-  - "suzhou"
-  - "museum"
-quickAnswer: "Suzhou Museum, on Dongbei Jie next to the Humble Administrator's Garden, is a half-day stop for anyone visiting the old city — free to enter (reserve a timed slot online or at the gate), designed by I.M. Pei, and best seen right when it opens on a weekday morning before tour groups arrive. Give it 90 minutes to two hours, longer if you linger over the garden courtyard."
+  - suzhou
+  - museum
+quickAnswer: >-
+  Suzhou Museum, on Dongbei Jie next to the Humble Administrator's Garden, is a
+  half-day stop for anyone visiting the old city — free to enter (reserve a
+  timed slot online or at the gate), designed by I.M. Pei, and best seen right
+  when it opens on a weekday morning before tour groups arrive. Give it 90
+  minutes to two hours, longer if you linger over the garden courtyard.
 faq:
-  - q: "Do I need to pay to enter Suzhou Museum?"
-    a: "No, admission is free, but you need to reserve a timed-entry slot in advance online (or at the gate if slots remain) and bring your passport for ID verification."
-  - q: "How do I get to Suzhou Museum by public transport?"
-    a: "Take Metro Line 4 to Lindun Road Station and walk about 15–20 minutes north into the old city, or take a short taxi ride directly to 204 Dongbei Jie in Gusu District."
-  - q: "How much time should I budget?"
-    a: "Plan on 90 minutes for a focused visit; allow closer to two hours if you want to linger in the courtyard garden and read through the calligraphy and ceramics galleries."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go on a weekday morning as close to opening time as possible — crowds build steadily by mid-morning and stay heavy through the afternoon, especially on weekends and Chinese public holidays."
-  - q: "What else is nearby?"
-    a: "The Humble Administrator's Garden sits right next door, the Prince Zhong's Mansion backs onto the museum, and Guanqian Street's shops and Pingjiang Road's canal-side teahouses are both a short walk away."
+  - q: Do I need to pay to enter Suzhou Museum?
+    a: >-
+      No, admission is free, but you need to reserve a timed-entry slot in
+      advance online (or at the gate if slots remain) and bring your passport
+      for ID verification.
+  - q: How do I get to Suzhou Museum by public transport?
+    a: >-
+      Take Metro Line 4 to Lindun Road Station and walk about 15–20 minutes
+      north into the old city, or take a short taxi ride directly to 204 Dongbei
+      Jie in Gusu District.
+  - q: How much time should I budget?
+    a: >-
+      Plan on 90 minutes for a focused visit; allow closer to two hours if you
+      want to linger in the courtyard garden and read through the calligraphy
+      and ceramics galleries.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go on a weekday morning as close to opening time as possible — crowds
+      build steadily by mid-morning and stay heavy through the afternoon,
+      especially on weekends and Chinese public holidays.
+  - q: What else is nearby?
+    a: >-
+      The Humble Administrator's Garden sits right next door, the Prince Zhong's
+      Mansion backs onto the museum, and Guanqian Street's shops and Pingjiang
+      Road's canal-side teahouses are both a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 
 ## Why go

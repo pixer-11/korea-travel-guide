@@ -1,6 +1,8 @@
 ---
 title: 'Mil Toast: Seoul Travel Guide'
-description: 'Mil Toast in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Mil Toast in Seoul, South Korea — a new/trending spot: what it is, where it
+  is, and how to visit.
 country: South Korea
 region: Seoul
 category: trendy
@@ -8,38 +10,60 @@ pubDate: '2026-08-05'
 tags:
   - seoul
   - new & trending
-quickAnswer: Mil Toast is the Seoul café behind the soufflé French toast that keeps blowing up on TikTok — the kind of place where a weekend morning queue can run past an hour before you even see a menu. No verified address, hours, or reservation policy are confirmed here, so check the café's current Instagram or Naver Map listing the same day you plan to go. Aim for a weekday opening-time arrival if you want to avoid the worst of the line.
+quickAnswer: >-
+  Mil Toast is the Seoul café behind the soufflé French toast that keeps blowing
+  up on TikTok — the kind of place where a weekend morning queue can run past an
+  hour before you even see a menu. No verified address, hours, or reservation
+  policy are confirmed here, so check the café's current Instagram or Naver Map
+  listing the same day you plan to go. Aim for a weekday opening-time arrival if
+  you want to avoid the worst of the line.
 faq:
   - q: Do I need a reservation for Mil Toast?
-    a: That depends on current policy, which can change as a café's popularity spikes — check its Instagram or Naver Map listing the same day you plan to visit to see whether it's taking bookings or walk-ins only.
+    a: >-
+      That depends on current policy, which can change as a café's popularity
+      spikes — check its Instagram or Naver Map listing the same day you plan to
+      visit to see whether it's taking bookings or walk-ins only.
   - q: How long is the wait really?
-    a: Reports point to hour-long waits on weekend mornings, and that may be typical rather than a worst case given how viral the spot has become. A weekday visit right at opening is your best bet for a shorter line.
+    a: >-
+      Reports point to hour-long waits on weekend mornings, and that may be
+      typical rather than a worst case given how viral the spot has become. A
+      weekday visit right at opening is your best bet for a shorter line.
   - q: What's the signature dish?
-    a: The soufflé French toast — an airy, custardy take on French toast that's the reason the café blew up on TikTok in the first place. Treat everything else on the menu as unconfirmed until you see it in person.
+    a: >-
+      The soufflé French toast — an airy, custardy take on French toast that's
+      the reason the café blew up on TikTok in the first place. Treat everything
+      else on the menu as unconfirmed until you see it in person.
   - q: How do I find the exact location?
-    a: Search for it on Naver Map or Kakao Map rather than international map apps, which often lag on new Seoul openings. Cross-check the pin against recent posts geotagged at the café before you head out.
-  - q: How should I pay, and is tipping expected?
-    a: Card or mobile pay (Naver Pay, Kakao Pay) is standard at Seoul cafés, and tipping isn't customary anywhere in Korea, including here.
+    a: >-
+      Search for it on Naver Map or Kakao Map rather than international map
+      apps, which often lag on new Seoul openings. Cross-check the pin against
+      recent posts geotagged at the café before you head out.
+  - q: 'How should I pay, and is tipping expected?'
+    a: >-
+      Card or mobile pay (Naver Pay, Kakao Pay) is standard at Seoul cafés, and
+      tipping isn't customary anywhere in Korea, including here.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1407264291_RPcNRpTlHJ5suSBL4K-sHRTKFTKj-tF6dNx7VJX_tX8.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1407264291_RPcNRpTlHJ5suSBL4K-sHRTKFTKj-tF6dNx7VJX_tX8.jpg
   credit: 'Photo: Foursquare user content (Mil Toast Ikseon)'
   license: foursquare
-  source: https://foursquare.com/v/685c9fec83dabb364732a21c
+  source: 'https://foursquare.com/v/685c9fec83dabb364732a21c'
   focus:
     x: 55
     'y': 65
 place:
   id: ChIJrRhDycujfDURGQzRahFxTdM
   name: Mil Toast Ikseon
-  address: 30-3 Supyo-ro 28-gil, Jongno District, Seoul, South Korea
+  address: '30-3 Supyo-ro 28-gil, Jongno District, Seoul, South Korea'
   rating: 3.9
-  userRatingsTotal: 1248
-  googleMapsUrl: https://maps.google.com/?cid=15225950234829982745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1311
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15225950234829982745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.57311920000001
   lng: 126.99034250000001
-  phone: '+82 2-766-0627'
+  phone: +82 2-766-0627
   openingHours:
     - 'Monday: 8:00 AM – 10:00 PM'
     - 'Tuesday: 8:00 AM – 10:00 PM'
@@ -48,8 +72,10 @@ place:
     - 'Friday: 8:00 AM – 10:00 PM'
     - 'Saturday: 8:00 AM – 10:00 PM'
     - 'Sunday: 8:00 AM – 10:00 PM'
+  priceLevel: 2
 draft: true
 heldReason: rating
+updatedDate: '2026-11-20'
 ---
 
 ## Why everyone's talking about it

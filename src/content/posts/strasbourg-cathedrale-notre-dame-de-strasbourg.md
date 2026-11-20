@@ -1,23 +1,29 @@
 ---
 title: 'Cathédrale Notre-Dame-de-Strasbourg: Travel Guide'
-description: Strasbourg's cathedral is a working parish church with a rose window, an astronomical clock, and a 142-metre spire that dominated Europe's skylines for centuries — and it's free to walk in.
+description: >-
+  Strasbourg's cathedral is a working parish church with a rose window, an
+  astronomical clock, and a 142-metre spire that dominated Europe's skylines for
+  centuries — and it's free to walk in.
 country: France
 region: Strasbourg
 category: hidden-gem
 pubDate: '2026-07-30T10:21:44.415Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/1920px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/1920px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg
   credit: 'Photo: Andrea Griffini / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg
 gallery: []
 place:
   id: ChIJQ4g5U1LIlkcROCde9XcnFec
   name: Cathédrale Notre-Dame-de-Strasbourg
-  address: Pl. de la Cathédrale, 67000 Strasbourg, France
+  address: 'Pl. de la Cathédrale, 67000 Strasbourg, France'
   rating: 4.8
-  userRatingsTotal: 77239
-  googleMapsUrl: https://maps.google.com/?cid=16651258593443456824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 78562
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16651258593443456824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 48.5818799
   lng: 7.7510348
@@ -32,28 +38,57 @@ place:
     - 'Sunday: 2:00 – 5:15 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet: [9]
+    weekdayQuiet:
+      - 9
     weekdayBusy: []
-    weekendQuiet: [9]
-    weekendBusy: [13, 14, 15, 16]
+    weekendQuiet:
+      - 9
+    weekendBusy:
+      - 13
+      - 14
+      - 15
+      - 16
     venueId: ven_6365466e6358396564434f52636b6c494c3155356734514a496843
 tags:
   - strasbourg
   - hidden gem
-quickAnswer: Strasbourg's cathedral is a working parish church with a rose window, an astronomical clock, and a 142-metre spire that dominated Europe's skylines for centuries — and it's free to walk in. Visit right at the 8:30am opening on a weekday for a nearly empty nave, since the square fills with tour groups from noon to 5pm on weekends. Set aside 45 minutes to an hour for the interior, more if you climb the platform or catch the clock's noon show.
+quickAnswer: >-
+  Strasbourg's cathedral is a working parish church with a rose window, an
+  astronomical clock, and a 142-metre spire that dominated Europe's skylines for
+  centuries — and it's free to walk in. Visit right at the 8:30am opening on a
+  weekday for a nearly empty nave, since the square fills with tour groups from
+  noon to 5pm on weekends. Set aside 45 minutes to an hour for the interior,
+  more if you climb the platform or catch the clock's noon show.
 faq:
   - q: Is it free to visit Strasbourg Cathedral?
-    a: Yes, entry to the main nave is free. Only the astronomical clock viewing and the climb to the tower platform require separate paid tickets, bought at the south portal counter.
+    a: >-
+      Yes, entry to the main nave is free. Only the astronomical clock viewing
+      and the climb to the tower platform require separate paid tickets, bought
+      at the south portal counter.
   - q: When is the quietest time to visit?
-    a: Between 8:30am and 10am, on weekdays and Saturdays, according to typical foot-traffic — right after the doors open at 8:30am. Sundays open later, at 2pm, so the quiet window there starts right at 2 instead. Avoid weekend afternoons, when it's busiest.
+    a: >-
+      Between 8:30am and 10am, on weekdays and Saturdays, according to typical
+      foot-traffic — right after the doors open at 8:30am. Sundays open later,
+      at 2pm, so the quiet window there starts right at 2 instead. Avoid weekend
+      afternoons, when it's busiest.
   - q: How do I get to the cathedral from the train station?
-    a: It's about a 20-minute walk, or take tram Line A or D to Langstross Grand'Rue or Broglie and walk the remaining five minutes through the pedestrian old town.
+    a: >-
+      It's about a 20-minute walk, or take tram Line A or D to Langstross
+      Grand'Rue or Broglie and walk the remaining five minutes through the
+      pedestrian old town.
   - q: How long should I spend there?
-    a: Plan 45 minutes to an hour for the nave, stained glass, and clock area. Add 30-45 minutes if you climb the tower platform or wait for the clock's noon animation.
+    a: >-
+      Plan 45 minutes to an hour for the nave, stained glass, and clock area.
+      Add 30-45 minutes if you climb the tower platform or wait for the clock's
+      noon animation.
   - q: What are the opening hours?
-    a: Monday to Saturday it's open 8:30–11:15am and 12:45–5:45pm; Sunday hours are shorter, 2pm–5:15pm. Services can affect access, so plan around the midday closure.
+    a: >-
+      Monday to Saturday it's open 8:30–11:15am and 12:45–5:45pm; Sunday hours
+      are shorter, 2pm–5:15pm. Services can affect access, so plan around the
+      midday closure.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 ## Why go
 

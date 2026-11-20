@@ -1,27 +1,35 @@
 ---
 title: 'Suncheon Bay National Garden: Travel Guide'
-description: Suncheon Bay National Garden is a sprawling, themed-garden complex in Jeollanam-do, best paired with a walk or shuttle-cart ride out to the neighboring Suncheon Bay Wetland Reserve.
+description: >-
+  Suncheon Bay National Garden is a sprawling, themed-garden complex in
+  Jeollanam-do, best paired with a walk or shuttle-cart ride out to the
+  neighboring Suncheon Bay Wetland Reserve.
 country: South Korea
 region: Suncheon
 category: hidden-gem
 pubDate: '2026-08-02T09:36:14.856Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg/3840px-Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg/3840px-Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg
   credit: 'Photo: Choi2451 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg/3840px-Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg/3840px-Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg
     credit: 'Photo: lumoplank / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg
 place:
   id: ChIJi-zR09QIbjURUZghIMLCgqM
   name: Suncheon Bay National Garden
-  address: 47 Gukgajeongwon1ho-gil, Suncheon, Jeollanam-do, South Korea
+  address: '47 Gukgajeongwon1ho-gil, Suncheon, Jeollanam-do, South Korea'
   rating: 4.5
-  userRatingsTotal: 7874
-  googleMapsUrl: https://maps.google.com/?cid=11782193714173155409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 7914
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11782193714173155409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.9284391
   lng: 127.49826909999999
@@ -54,19 +62,41 @@ place:
 tags:
   - suncheon
   - hidden gem
-quickAnswer: Suncheon Bay National Garden is a sprawling, themed-garden complex in Jeollanam-do, best paired with a walk or shuttle-cart ride out to the neighboring Suncheon Bay Wetland Reserve. It's open daily 9am–8pm, and while weekends get busy from 11am to 6pm, the last hour before closing (7–8pm) is noticeably calmer. Budget at least half a day, more if you're combining it with the wetland's reed fields and observatory hill.
+quickAnswer: >-
+  Suncheon Bay National Garden is a sprawling, themed-garden complex in
+  Jeollanam-do, best paired with a walk or shuttle-cart ride out to the
+  neighboring Suncheon Bay Wetland Reserve. It's open daily 9am–8pm, and while
+  weekends get busy from 11am to 6pm, the last hour before closing (7–8pm) is
+  noticeably calmer. Budget at least half a day, more if you're combining it
+  with the wetland's reed fields and observatory hill.
 faq:
   - q: How do I get to Suncheon Bay National Garden without a car?
-    a: Take a KTX or regional train to Suncheon Station, then a local city bus or taxi (roughly 20–30 minutes) directly to the garden's main entrance.
+    a: >-
+      Take a KTX or regional train to Suncheon Station, then a local city bus or
+      taxi (roughly 20–30 minutes) directly to the garden's main entrance.
   - q: How long should I plan for a visit?
-    a: Two to three hours covers the garden's main zones; allow a half day or more if you're also walking or shuttling over to the adjoining Suncheon Bay Wetland Reserve.
+    a: >-
+      Two to three hours covers the garden's main zones; allow a half day or
+      more if you're also walking or shuttling over to the adjoining Suncheon
+      Bay Wetland Reserve.
   - q: When is the quietest time to visit?
-    a: Weekdays stay manageable all day (9am–8pm). On weekends, avoid 11am–6pm when it's busiest, and aim instead for the final hour before closing, 7–8pm, when crowds thin out noticeably.
+    a: >-
+      Weekdays stay manageable all day (9am–8pm). On weekends, avoid 11am–6pm
+      when it's busiest, and aim instead for the final hour before closing,
+      7–8pm, when crowds thin out noticeably.
   - q: What's the best season to see the gardens?
-    a: Spring brings tulips and rapeseed blooms, summer is roses and full green foliage, and autumn pairs chrysanthemums in the garden with golden reed fields in the neighboring wetland.
+    a: >-
+      Spring brings tulips and rapeseed blooms, summer is roses and full green
+      foliage, and autumn pairs chrysanthemums in the garden with golden reed
+      fields in the neighboring wetland.
   - q: Is the wetland reserve part of the same ticket or visit?
-    a: The National Garden and Suncheon Bay Wetland Reserve are adjacent but distinct areas connected by a path, shuttle cart, and cable car — check current combined-ticket options at the entrance before deciding how much time to allot.
+    a: >-
+      The National Garden and Suncheon Bay Wetland Reserve are adjacent but
+      distinct areas connected by a path, shuttle cart, and cable car — check
+      current combined-ticket options at the entrance before deciding how much
+      time to allot.
 aiGenerated: true
+updatedDate: '2026-11-20'
 ---
 You feel the scale of this place before you understand it. From the main gate, the path fans out into a patchwork of national pavilions (a Dutch garden with wooden clogs and tulip beds, a French formal parterre, a US-style prairie planting, a Japanese garden with raked gravel) each one a small, self-contained world planted right next to its neighbor.
 

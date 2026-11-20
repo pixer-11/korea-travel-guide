@@ -1,24 +1,30 @@
 ---
 title: 'Surfside Taco Stand: Where to Eat in Washington DC'
-description: Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St NW in Dupont Circle, open 24 hours, known for tacos and margaritas at budget-friendly prices.
+description: >-
+  Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St
+  NW in Dupont Circle, open 24 hours, known for tacos and margaritas at
+  budget-friendly prices.
 country: United States
 region: Washington DC
 category: restaurant
 pubDate: '2026-08-01T09:36:41.868Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg/1920px-Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg/1920px-Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg
   credit: 'Photo: Tony Webster / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg
 gallery: []
 place:
   id: ChIJFewhhMe3t4kRflRkan9_s8I
   name: Surfside Taco Stand
-  address: 1800 N St NW, Washington, DC 20036, USA
+  address: '1800 N St NW, Washington, DC 20036, USA'
   rating: 4.4
-  userRatingsTotal: 2107
+  userRatingsTotal: 2125
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=14029697449411761278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14029697449411761278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.9071493
   lng: -77.0425272
@@ -57,20 +63,40 @@ place:
 tags:
   - washington dc
   - street food
-quickAnswer: Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St NW in Dupont Circle, open 24 hours, known for tacos and margaritas at budget-friendly prices. Go on a weekday morning between 7am and 9am (or before 1pm on weekends) if you want the place to yourself; avoid Saturday and Sunday afternoons into the evening (4pm–11pm), when it's slammed. Budget 30-45 minutes for a counter meal, longer if you're settling in with margaritas.
+quickAnswer: >-
+  Surfside Taco Stand is a bright, cafeteria-style Mexican counter at 1800 N St
+  NW in Dupont Circle, open 24 hours, known for tacos and margaritas at
+  budget-friendly prices. Go on a weekday morning between 7am and 9am (or before
+  1pm on weekends) if you want the place to yourself; avoid Saturday and Sunday
+  afternoons into the evening (4pm–11pm), when it's slammed. Budget 30-45
+  minutes for a counter meal, longer if you're settling in with margaritas.
 faq:
   - q: What are the best hours to avoid a wait?
-    a: Weekdays from 7am to 9am are quietest, and weekends stay calm from about 7am until 1pm. Try to steer clear of Saturday and Sunday between 4pm and 11pm, when lines and full tables are most likely.
+    a: >-
+      Weekdays from 7am to 9am are quietest, and weekends stay calm from about
+      7am until 1pm. Try to steer clear of Saturday and Sunday between 4pm and
+      11pm, when lines and full tables are most likely.
   - q: How do I get to Surfside Taco Stand by Metro?
-    a: Take the Red Line to Dupont Circle station and use the Q Street exit; it's roughly a 5-8 minute walk east to 1800 N St NW. Farragut North on the Red Line also works via a short walk down Connecticut Avenue.
+    a: >-
+      Take the Red Line to Dupont Circle station and use the Q Street exit; it's
+      roughly a 5-8 minute walk east to 1800 N St NW. Farragut North on the Red
+      Line also works via a short walk down Connecticut Avenue.
   - q: Is it a sit-down restaurant?
-    a: No — it's cafeteria-style. You order and pay at the counter, then find your own seat among the surf-themed decor, so expect quick service rather than table service.
+    a: >-
+      No — it's cafeteria-style. You order and pay at the counter, then find
+      your own seat among the surf-themed decor, so expect quick service rather
+      than table service.
   - q: Is it expensive?
-    a: It's on the budget-friendly end for DC, making it an easy option for a casual taco meal or a pre- or post-night-out stop without a big bill.
+    a: >-
+      It's on the budget-friendly end for DC, making it an easy option for a
+      casual taco meal or a pre- or post-night-out stop without a big bill.
   - q: Is it open late at night?
-    a: Yes, it runs 24 hours every day, which makes it one of the few reliable late-night food (and margarita) options in Dupont Circle.
+    a: >-
+      Yes, it runs 24 hours every day, which makes it one of the few reliable
+      late-night food (and margarita) options in Dupont Circle.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 
 You smell the place before you see the sign, charred tortilla and lime cutting through the diesel-and-dry-cleaning air of N Street. Surfside Taco Stand sits mid-block in Dupont Circle, its facade painted in the kind of saturated turquoise and coral that looks like it got airlifted in from a Tulum boardwalk and dropped into the middle of a very buttoned-up DC neighborhood of embassies and law offices. That contrast is the whole charm of the place: suits and backpacks and 2am stragglers all queuing at the same counter.

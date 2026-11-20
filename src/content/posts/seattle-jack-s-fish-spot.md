@@ -1,24 +1,30 @@
 ---
 title: 'Jack''s Fish Spot: Where to Eat in Seattle'
-description: Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten standing up at the marble bar.
+description: >-
+  Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best
+  for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten
+  standing up at the marble bar.
 country: United States
 region: Seattle
 category: restaurant
 pubDate: '2026-07-30T10:17:37.248Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg
   credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Seattle,_Washington,_October_2022_-_210.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Seattle,_Washington,_October_2022_-_210.jpg
 gallery: []
 place:
   id: ChIJmbBY97JqkFQR4ok9vvlmBpw
   name: Jack's Fish Spot
-  address: 1514 Pike Pl, Seattle, WA 98101, USA
+  address: '1514 Pike Pl, Seattle, WA 98101, USA'
   rating: 4.1
-  userRatingsTotal: 1278
+  userRatingsTotal: 1347
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=11242786742601615842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11242786742601615842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 47.6090678
   lng: -122.34086909999999
@@ -33,9 +39,15 @@ place:
     - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet: [8, 9, 17]
+    weekdayQuiet:
+      - 8
+      - 9
+      - 17
     weekdayBusy: []
-    weekendQuiet: [8, 9, 17]
+    weekendQuiet:
+      - 8
+      - 9
+      - 17
     weekendBusy:
       - 11
       - 12
@@ -46,20 +58,42 @@ place:
 tags:
   - seattle
   - street food
-quickAnswer: Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten standing up at the marble bar. It's open daily (7:30am–6pm most days, 8am–5pm Sunday); go between 8am and 10am on a weekday to skip the crowds, since 11am–4pm on weekends is when the line backs up into the market aisle.
+quickAnswer: >-
+  Jack's Fish Spot is a no-frills seafood counter inside Pike Place Market, best
+  for a quick bowl of chowder, a crab cocktail, or a fresh oyster shooter eaten
+  standing up at the marble bar. It's open daily (7:30am–6pm most days, 8am–5pm
+  Sunday); go between 8am and 10am on a weekday to skip the crowds, since
+  11am–4pm on weekends is when the line backs up into the market aisle.
 faq:
   - q: What's the best time to visit Jack's Fish Spot?
-    a: Go between 8am and 10am, or from 5pm to 6pm on weekdays and Saturday. The forecast flags no standout busy hour on weekdays, but weekends between 11am and 4pm see the longest lines, so avoid that stretch if you can.
+    a: >-
+      Go between 8am and 10am, or from 5pm to 6pm on weekdays and Saturday. The
+      forecast flags no standout busy hour on weekdays, but weekends between
+      11am and 4pm see the longest lines, so avoid that stretch if you can.
   - q: How do I get there by public transit?
-    a: The nearest major stop is Westlake Station on Link light rail, about a 10-minute walk through downtown to Pike Place Market. The stall is at 1514 Pike Pl, inside the main market arcade.
+    a: >-
+      The nearest major stop is Westlake Station on Link light rail, about a
+      10-minute walk through downtown to Pike Place Market. The stall is at 1514
+      Pike Pl, inside the main market arcade.
   - q: Is it expensive?
-    a: No — it's a budget-friendly market counter, priced for a quick lunch rather than a sit-down seafood dinner. A cup of chowder or a crab cocktail won't break the bank, though whole live crab and geoduck cost more by weight.
+    a: >-
+      No — it's a budget-friendly market counter, priced for a quick lunch
+      rather than a sit-down seafood dinner. A cup of chowder or a crab cocktail
+      won't break the bank, though whole live crab and geoduck cost more by
+      weight.
   - q: How long should I plan to spend there?
-    a: Most people are in and out in 15–20 minutes since there's no seating — order, then eat standing at the market rail or a nearby bench. Budget more time if you're visiting during the 11am–4pm weekend rush.
+    a: >-
+      Most people are in and out in 15–20 minutes since there's no seating —
+      order, then eat standing at the market rail or a nearby bench. Budget more
+      time if you're visiting during the 11am–4pm weekend rush.
   - q: What should I order if I only get one thing?
-    a: The clam chowder is the signature order, but a fresh crab cocktail or a dozen oysters shucked to order are the better choice if you want to taste what's actually fresh that day.
+    a: >-
+      The clam chowder is the signature order, but a fresh crab cocktail or a
+      dozen oysters shucked to order are the better choice if you want to taste
+      what's actually fresh that day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 ## Why go
 

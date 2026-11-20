@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: venice-saint-mark-s-basilica
-srcHash: 'cc1d73f316f3'
+srcHash: '87a9eb9357e9'
 title: 'Basílica de San Marcos: guía de viaje de Venecia (4.7★)'
-description: En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la gran catedral bizantina de Venecia, con sus cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido de mosaicos dorados. Con una valoración de 4.7★ (29,559 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos prácticos.
+description: En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la gran catedral bizantina de Venecia, con sus cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido de mosaicos dorados. Con una valoración de 4.7★ (31,003 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos prácticos.
 quickAnswer: 'En el extremo oriental de la plaza de San Marcos (Piazza San Marco) se alza la Basílica de San Marcos, la gran catedral bizantina de Venecia. Tiene cinco cúpulas, una fachada de mármoles y bronces expoliados y un interior revestido por completo de mosaicos dorados. Lo ideal es llegar justo a la hora de apertura (de lunes a sábado) o entre las 4pm y las 5pm, la franja más tranquila: a partir del mediodía la afluencia no deja de crecer y alcanza su máximo entre las 12pm y las 3pm (los domingos, entre las 2pm y las 3pm). La entrada a la iglesia es gratuita, aunque conviene reservar algo más de tiempo y un pequeño presupuesto para la Loggia dei Cavalli, la Pala d''Oro y el Tesoro.'
 faq:
   - q: ¿Hay que pagar para entrar en la Basílica de San Marcos?

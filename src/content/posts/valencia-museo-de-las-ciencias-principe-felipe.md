@@ -1,27 +1,38 @@
 ---
-title: "Museo de las Ciencias Príncipe Felipe: Valencia Travel Guide"
-description: The Museo de las Ciencias Príncipe Felipe is the striking ribbed-glass-and-concrete science museum anchoring Valencia's Ciudad de las Artes y de las Ciencias — plan on 2–3 hours to cover its three levels of hands-on exhibits. 4.4★ (57,652 reviews) — what visitors say, hours, and tips.
+title: 'Museo de las Ciencias Príncipe Felipe: Valencia Travel Guide'
+description: >-
+  The Museo de las Ciencias Príncipe Felipe is the striking
+  ribbed-glass-and-concrete science museum anchoring Valencia's Ciudad de las
+  Artes y de las Ciencias — plan on 2–3 hours to cover its three levels of
+  hands-on exhibits. 4.4★ (59,240 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Valencia
 category: attraction
-pubDate: "2026-08-05T11:10:33.067Z"
+pubDate: '2026-08-05T11:10:33.067Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg/1920px-Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg
-  credit: "Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg/1920px-Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg
+  credit: 'Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Valencia_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_from_the_east.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_56.JPG/3840px-Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_56.JPG
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_56.JPG/3840px-Museo_Pr%C3%ADncipe_Felipe%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_56.JPG
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Museo_Pr%C3%ADncipe_Felipe,_Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_56.JPG
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Museo_Pr%C3%ADncipe_Felipe,_Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_56.JPG
 place:
   id: ChIJN3odlehIYA0RIewSjEPxEw0
   name: Museo de las Ciencias Príncipe Felipe
-  address: Ciudad de las Artes y de las Ciencias, Av. del Professor López Piñero, 7, Quatre Carreres, 46013 Valencia, Spain
+  address: >-
+    Ciudad de las Artes y de las Ciencias, Av. del Professor López Piñero, 7,
+    Quatre Carreres, 46013 Valencia, Spain
   rating: 4.4
-  userRatingsTotal: 57652
-  googleMapsUrl: https://maps.google.com/?cid=942362019465718817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 59240
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=942362019465718817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.4561074
   lng: -0.35208419999999996
@@ -41,30 +52,53 @@ place:
     venueId: ven_3077457850456a53776549523041594968656c646f334e4a496843
   phone: +34 961 97 46 86
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
   - valencia
   - museum
-quickAnswer: The Museo de las Ciencias Príncipe Felipe is the striking ribbed-glass-and-concrete science museum anchoring Valencia's Ciudad de las Artes y de las Ciencias — plan on 2–3 hours to cover its three levels of hands-on exhibits. Weekdays it stays quiet all day (10am–7pm); on weekends, skip the crowded 11am–7pm stretch and go right at opening, 10am–11am, instead. Reach it via Metro Línea 3 or 5 to Alameda, then a 20-minute walk (or bus) along the old Turia riverbed park.
+quickAnswer: >-
+  The Museo de las Ciencias Príncipe Felipe is the striking
+  ribbed-glass-and-concrete science museum anchoring Valencia's Ciudad de las
+  Artes y de las Ciencias — plan on 2–3 hours to cover its three levels of
+  hands-on exhibits. Weekdays it stays quiet all day (10am–7pm); on weekends,
+  skip the crowded 11am–7pm stretch and go right at opening, 10am–11am, instead.
+  Reach it via Metro Línea 3 or 5 to Alameda, then a 20-minute walk (or bus)
+  along the old Turia riverbed park.
 faq:
   - q: How long should I spend at the Museo de las Ciencias Príncipe Felipe?
-    a: Plan on 2–3 hours for a solid visit; families with kids who want to try every interactive station often spend a half-day, especially if combining it with the Oceanogràfic next door.
+    a: >-
+      Plan on 2–3 hours for a solid visit; families with kids who want to try
+      every interactive station often spend a half-day, especially if combining
+      it with the Oceanogràfic next door.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekdays are calm throughout the full 10am–7pm opening period. On weekends, avoid 11am–7pm when it's busiest and instead arrive right at opening, between 10am and 11am, when crowds are thinnest.
+    a: >-
+      Weekdays are calm throughout the full 10am–7pm opening period. On
+      weekends, avoid 11am–7pm when it's busiest and instead arrive right at
+      opening, between 10am and 11am, when crowds are thinnest.
   - q: How do I get there by public transport?
-    a: Take Metro Línea 3 or Línea 5 to Alameda station, then walk about 20 minutes through the Jardín del Turia riverbed park to reach the Ciudad de las Artes y de las Ciencias complex.
+    a: >-
+      Take Metro Línea 3 or Línea 5 to Alameda station, then walk about 20
+      minutes through the Jardín del Turia riverbed park to reach the Ciudad de
+      las Artes y de las Ciencias complex.
   - q: Should I book tickets in advance?
-    a: Yes — given how heavily visited the museum is, buying timed-entry tickets online ahead of time avoids long queues, particularly on weekends and school holidays.
+    a: >-
+      Yes — given how heavily visited the museum is, buying timed-entry tickets
+      online ahead of time avoids long queues, particularly on weekends and
+      school holidays.
   - q: Is it worth combining with other attractions nearby?
-    a: Definitely — the Oceanogràfic aquarium and the Hemisfèric planetarium are both within the same complex, a short walk across the plaza, and many visitors buy combo tickets to see two or three venues in one day.
+    a: >-
+      Definitely — the Oceanogràfic aquarium and the Hemisfèric planetarium are
+      both within the same complex, a short walk across the plaza, and many
+      visitors buy combo tickets to see two or three venues in one day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 
 ## Why go

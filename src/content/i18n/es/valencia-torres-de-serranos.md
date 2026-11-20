@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: valencia-torres-de-serranos
-srcHash: '11beac2ce71e'
+srcHash: 'fb8765c99f08'
 title: 'Torres de Serranos: guía para visitarlas en Valencia (4.6★)'
-description: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. 4.6★ (50,473 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. 4.6★ (51,818 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. La franja más tranquila es de 10am a 11am todos los días (y los sábados, también de 2pm a 3pm). Las aglomeraciones llegan los sábados entre el mediodía y las 2pm y de 3pm a 6pm, y los domingos entre el mediodía y el cierre de las 2pm, así que el fin de semana conviene ir a primera hora (o a última, si es sábado). La entrada es económica y algunos días suele ser gratuita, aunque es mejor confirmar el horario y el precio vigentes antes de ir. Entre la subida y el rato en lo alto, la visita lleva unos 45–60 minutos.'
 faq:
   - q: ¿Cuánto tiempo hay que dedicar a las Torres de Serranos?

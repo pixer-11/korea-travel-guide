@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: seoul-bukchon-hanok-village
-srcHash: 'c13c5cc0edff'
+srcHash: '23b19f272ef8'
 title: 'Aldea Hanok de Bukchon (Bukchon Hanok Village): guía de viaje de Seúl (4,4★)'
-description: 'La Aldea Hanok de Bukchon (Bukchon Hanok Village) es un barrio en la colina con casas hanok de madera centenarias entre los palacios Gyeongbokgung y Changdeokgung: se recorre a pie por sus vistas de tejados de tejas, no por una atracción concreta con entrada. 4,4★ (24.313 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Aldea Hanok de Bukchon (Bukchon Hanok Village) es un barrio en la colina con casas hanok de madera centenarias entre los palacios Gyeongbokgung y Changdeokgung: se recorre a pie por sus vistas de tejados de tejas, no por una atracción concreta con entrada. 4,4★ (24.955 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Aldea Hanok de Bukchon (Bukchon Hanok Village) es un barrio en la colina con casas hanok de madera centenarias entre los palacios Gyeongbokgung y Changdeokgung: se recorre a pie por sus vistas de tejados de tejas, no por una atracción concreta con entrada. Ve justo al abrir, entre las 10 y las 11 de la mañana, cuando los callejones están más tranquilos; hacia el mediodía de los fines de semana, los puntos fotográficos más populares se convierten en un lento desfile de grupos turísticos. Reserva entre 1,5 y 2 horas, lleva zapatos planos por las cuestas empinadas y habla en voz baja: en estas casas todavía vive gente.'
 faq:
   - q: ¿Cómo llego a la Aldea Hanok de Bukchon en metro?

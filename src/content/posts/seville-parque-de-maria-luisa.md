@@ -1,27 +1,34 @@
 ---
 title: 'Parque de María Luisa: Seville Travel Guide (4.8★)'
-description: Parque de María Luisa is Seville's grand 19th-century park just south of the city centre, best explored on foot or by rented bike in the early morning. 4.8★ (42,231 reviews) — what visitors say, hours, and tips.
+description: >-
+  Parque de María Luisa is Seville's grand 19th-century park just south of the
+  city centre, best explored on foot or by rented bike in the early morning.
+  4.8★ (42,947 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Seville
 category: hidden-gem
 pubDate: '2026-08-04T10:13:13.132Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg
   credit: 'Photo: Gzzz / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa_(2).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa_(2).jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg/3840px-Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg/3840px-Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg
     credit: 'Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa,_Sevilla,_Oct_1999_-_03.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa,_Sevilla,_Oct_1999_-_03.jpg
 place:
   id: ChIJ7zUaHSRsEg0RQugeffDytmg
   name: Parque de María Luisa
-  address: 41013 Seville, Spain
+  address: '41013 Seville, Spain'
   rating: 4.8
-  userRatingsTotal: 42231
-  googleMapsUrl: https://maps.google.com/?cid=7545485340411095106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 42947
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7545485340411095106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.3741832
   lng: -5.9872231
@@ -54,20 +61,43 @@ place:
 tags:
   - seville
   - hidden gem
-quickAnswer: Parque de María Luisa is Seville's grand 19th-century park just south of the city centre, best explored on foot or by rented bike in the early morning. With over 42,000 reviews and a 4.8 rating, it's firmly on the tourist trail (not a hidden secret), so aim for opening time — 8am on weekdays is calmest, and on weekends the window before 10am beats the 11am–6pm crush. Budget two to three hours to cover Plaza de España, Plaza de América, and the shaded avenues in between.
+quickAnswer: >-
+  Parque de María Luisa is Seville's grand 19th-century park just south of the
+  city centre, best explored on foot or by rented bike in the early morning.
+  With over 42,000 reviews and a 4.8 rating, it's firmly on the tourist trail
+  (not a hidden secret), so aim for opening time — 8am on weekdays is calmest,
+  and on weekends the window before 10am beats the 11am–6pm crush. Budget two to
+  three hours to cover Plaza de España, Plaza de América, and the shaded avenues
+  in between.
 faq:
   - q: How do I get to Parque de María Luisa from central Seville?
-    a: It's a 15–20 minute walk south from the Cathedral and Real Alcázar via Avenida de Roma or Paseo de las Delicias. Buses C5 and C6 also circle the park, and Sevici bike docks sit at several entrances.
+    a: >-
+      It's a 15–20 minute walk south from the Cathedral and Real Alcázar via
+      Avenida de Roma or Paseo de las Delicias. Buses C5 and C6 also circle the
+      park, and Sevici bike docks sit at several entrances.
   - q: What is the quietest time to visit?
-    a: On weekdays the park stays calm from opening at 8am right through to 11pm. On weekends, go between 8am and 10am — traffic builds fast after that, peaking from 11am to 6pm.
+    a: >-
+      On weekdays the park stays calm from opening at 8am right through to 11pm.
+      On weekends, go between 8am and 10am — traffic builds fast after that,
+      peaking from 11am to 6pm.
   - q: Is there an entrance fee?
-    a: No, the park is free to enter and open daily from 8am to midnight. You only pay if you rent a bike, a rowboat on the Plaza de España moat, or take a horse-drawn carriage ride.
+    a: >-
+      No, the park is free to enter and open daily from 8am to midnight. You
+      only pay if you rent a bike, a rowboat on the Plaza de España moat, or
+      take a horse-drawn carriage ride.
   - q: How long should I plan to spend there?
-    a: Two to three hours covers the main highlights — Plaza de España, Plaza de América, and the shaded central paths — though it's easy to linger longer given the park's size.
+    a: >-
+      Two to three hours covers the main highlights — Plaza de España, Plaza de
+      América, and the shaded central paths — though it's easy to linger longer
+      given the park's size.
   - q: What's nearby if I want to combine it with other sights?
-    a: The park borders Plaza de España to the north and connects easily to the Cathedral, Real Alcázar, and Barrio de Santa Cruz, all within a 15–20 minute walk.
+    a: >-
+      The park borders Plaza de España to the north and connects easily to the
+      Cathedral, Real Alcázar, and Barrio de Santa Cruz, all within a 15–20
+      minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 You feel the temperature drop before you even reach the gates. Seville's streets radiate heat off pale stone, but step under the plane trees and palms of Parque de María Luisa and the air thickens with the smell of damp earth, orange blossom, and the mineral tang of fountain spray. Cicadas buzz in the branches. Somewhere a horse-drawn carriage clops past on gravel.
 

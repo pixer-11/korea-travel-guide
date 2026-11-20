@@ -1,37 +1,49 @@
 ---
 title: 'Yokohama Mazu Miao: Travel Guide (4.2★)'
-description: Yokohama Mazu Miao is a small but ornately decorated Chinese temple tucked into a side street in Yokohama Chinatown, dedicated to Mazu, the Taoist sea goddess who protects sailors and travelers. 4.2★ (1,067 reviews) — what visitors say, hours, and tips.
+description: >-
+  Yokohama Mazu Miao is a small but ornately decorated Chinese temple tucked
+  into a side street in Yokohama Chinatown, dedicated to Mazu, the Taoist sea
+  goddess who protects sailors and travelers. 4.2★ (1,103 reviews) — what
+  visitors say, hours, and tips.
 country: Japan
 region: Yokohama
 category: attraction
 pubDate: '2026-08-05T11:50:11.304Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/34827066_jfxl44LNxaBbviSlOISGYF4V7m4RyYCd377LdfpzbRg.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/34827066_jfxl44LNxaBbviSlOISGYF4V7m4RyYCd377LdfpzbRg.jpg
   credit: 'Photo: Foursquare user content (Yokohama Ma Zhu Miao (横濱媽祖廟))'
   license: foursquare
-  source: https://foursquare.com/v/4b65543bf964a5206ced2ae3
+  source: 'https://foursquare.com/v/4b65543bf964a5206ced2ae3'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg/3840px-Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg/3840px-Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg
     credit: 'Photo: Ximonic (Simo Räsänen) / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown,_Naka-ku,_Yokohama,_Japan,_2024_May.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown,_Naka-ku,_Yokohama,_Japan,_2024_May.jpg
 place:
   id: ChIJTaZgtONcGGAR-NBk1CCCh4I
   name: Yokohama Mazu Miao
-  address: 136 Yamashitachō, Naka Ward, Yokohama, Kanagawa 231-0023, Japan
+  address: '136 Yamashitachō, Naka Ward, Yokohama, Kanagawa 231-0023, Japan'
   rating: 4.2
-  userRatingsTotal: 1067
-  googleMapsUrl: https://maps.google.com/?cid=9405629424300511480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1103
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9405629424300511480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.4421211
   lng: 139.6476456
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet: [9, 18]
-    weekendQuiet: [9, 18]
+    weekdayQuiet:
+      - 9
+      - 18
+    weekendQuiet:
+      - 9
+      - 18
     weekendBusy:
       - 12
       - 13
@@ -39,7 +51,7 @@ place:
       - 15
       - 16
     venueId: ven_493468434343316b424e2d52414747634e4f74675a61544a496843
-  phone: '+81 45-681-0909'
+  phone: +81 45-681-0909
   openingHours:
     - 'Monday: 9:00 AM – 7:00 PM'
     - 'Tuesday: 9:00 AM – 7:00 PM'
@@ -51,19 +63,41 @@ place:
 tags:
   - yokohama
   - historic site
-quickAnswer: Yokohama Mazu Miao is a small but ornately decorated Chinese temple tucked into a side street in Yokohama Chinatown, dedicated to Mazu, the Taoist sea goddess who protects sailors and travelers. It's free to step into the courtyard and peer inside, takes about 20-30 minutes to appreciate properly, and is calmest in the morning — weekends get busy from noon to 5pm, so aim for earlier in the day. It pairs naturally with a wander through Chinatown's food stalls and Yamashita Park nearby.
+quickAnswer: >-
+  Yokohama Mazu Miao is a small but ornately decorated Chinese temple tucked
+  into a side street in Yokohama Chinatown, dedicated to Mazu, the Taoist sea
+  goddess who protects sailors and travelers. It's free to step into the
+  courtyard and peer inside, takes about 20-30 minutes to appreciate properly,
+  and is calmest in the morning — weekends get busy from noon to 5pm, so aim for
+  earlier in the day. It pairs naturally with a wander through Chinatown's food
+  stalls and Yamashita Park nearby.
 faq:
   - q: Is there an entrance fee?
-    a: No admission fee is charged to enter the courtyard and view the main hall; if you wish to light incense or make an offering, a small donation is customary.
+    a: >-
+      No admission fee is charged to enter the courtyard and view the main hall;
+      if you wish to light incense or make an offering, a small donation is
+      customary.
   - q: How long should I plan to spend here?
-    a: Most visitors spend 20-30 minutes; if you want to study the carvings and roof details closely, an hour is more comfortable.
+    a: >-
+      Most visitors spend 20-30 minutes; if you want to study the carvings and
+      roof details closely, an hour is more comfortable.
   - q: When is the quietest time to visit?
-    a: Mornings are calmest — the temple is open and quiet from 9am, on both weekdays and weekends. Weekends get busy specifically between 12pm and 5pm, so aim to arrive before noon.
+    a: >-
+      Mornings are calmest — the temple is open and quiet from 9am, on both
+      weekdays and weekends. Weekends get busy specifically between 12pm and
+      5pm, so aim to arrive before noon.
   - q: How do I get there by train?
-    a: Walk from Ishikawachō Station (JR Negishi Line) or Motomachi-Chūkagai Station (Minatomirai Line), both a few minutes from Chinatown's gates.
+    a: >-
+      Walk from Ishikawachō Station (JR Negishi Line) or Motomachi-Chūkagai
+      Station (Minatomirai Line), both a few minutes from Chinatown's gates.
   - q: Is it worth visiting during Lunar New Year?
-    a: Yes, if you don't mind crowds — Yokohama Chinatown's Lunar New Year celebrations (typically late January or February) bring lion dances and drumming right around the temple, though it's the busiest possible time to see it.
+    a: >-
+      Yes, if you don't mind crowds — Yokohama Chinatown's Lunar New Year
+      celebrations (typically late January or February) bring lion dances and
+      drumming right around the temple, though it's the busiest possible time to
+      see it.
 aiGenerated: true
+updatedDate: '2026-11-20'
 ---
 You smell the incense before you see the gate. Somewhere between the steamed-bun stalls and the souvenir shops selling plastic pandas, the street narrows and the colors shift, reds get deeper, golds get brighter, and suddenly you're standing under a towering ceremonial archway carved with dragons, phoenixes, and gilded lions that look like they've been lifted straight out of a Fujian temple courtyard and dropped into the middle of Yokohama.
 

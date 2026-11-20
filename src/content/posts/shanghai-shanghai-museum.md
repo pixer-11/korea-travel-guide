@@ -1,6 +1,10 @@
 ---
 title: 'Shanghai Museum: Travel Guide (4.3★)'
-description: Shanghai Museum, on the south side of People's Square, is a free, world-class collection of Chinese bronzes, ceramics, jade, painting and calligraphy — easily worth 2-3 hours. 4.3★ (1,301 reviews) — what visitors say, hours, and tips.
+description: >-
+  Shanghai Museum, on the south side of People's Square, is a free, world-class
+  collection of Chinese bronzes, ceramics, jade, painting and calligraphy —
+  easily worth 2-3 hours. 4.3★ (1,344 reviews) — what visitors say, hours, and
+  tips.
 country: China
 region: Shanghai
 category: attraction
@@ -9,14 +13,15 @@ gallery: []
 place:
   id: ChIJPWUSbWlwsjURbNvIw3tOTE0
   name: Shanghai Museum
-  address: 201 Ren Min Da Dao, People's Square, Huang Pu Qu, China, 200003
+  address: '201 Ren Min Da Dao, People''s Square, Huang Pu Qu, China, 200003'
   rating: 4.3
-  userRatingsTotal: 1301
-  googleMapsUrl: https://maps.google.com/?cid=5569913132623125356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1344
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5569913132623125356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 31.228330699999994
   lng: 121.47552780000001
-  phone: '+86 21 6372 3500'
+  phone: +86 21 6372 3500
   openingHours:
     - 'Monday: 9:00 AM – 5:00 PM'
     - 'Tuesday: 9:00 AM – 5:00 PM'
@@ -28,28 +33,51 @@ place:
 tags:
   - shanghai
   - museum
-quickAnswer: Shanghai Museum, on the south side of People's Square, is a free, world-class collection of Chinese bronzes, ceramics, jade, painting and calligraphy — easily worth 2-3 hours. Go on a weekday morning right at opening to beat the tour groups, and book your free ticket online in advance since walk-ins can face long queues on weekends and holidays.
+quickAnswer: >-
+  Shanghai Museum, on the south side of People's Square, is a free, world-class
+  collection of Chinese bronzes, ceramics, jade, painting and calligraphy —
+  easily worth 2-3 hours. Go on a weekday morning right at opening to beat the
+  tour groups, and book your free ticket online in advance since walk-ins can
+  face long queues on weekends and holidays.
 faq:
   - q: Is Shanghai Museum really free to enter?
-    a: Yes, general admission is free, but you typically need to reserve a timed slot online in advance through the museum's official website or WeChat account, especially for weekends and holidays.
+    a: >-
+      Yes, general admission is free, but you typically need to reserve a timed
+      slot online in advance through the museum's official website or WeChat
+      account, especially for weekends and holidays.
   - q: How do I get to Shanghai Museum by metro?
-    a: Take Metro Line 1, 2, or 8 to People's Square Station and follow signs for the exit toward Shanghai Museum; it's a couple of minutes' walk across the square.
+    a: >-
+      Take Metro Line 1, 2, or 8 to People's Square Station and follow signs for
+      the exit toward Shanghai Museum; it's a couple of minutes' walk across the
+      square.
   - q: How long should I plan to spend there?
-    a: Most visitors spend two to three hours; if you want to see painting, calligraphy, bronzes, ceramics, jade, and furniture galleries thoroughly, allow closer to half a day.
+    a: >-
+      Most visitors spend two to three hours; if you want to see painting,
+      calligraphy, bronzes, ceramics, jade, and furniture galleries thoroughly,
+      allow closer to half a day.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings shortly after opening are the calmest. Avoid Chinese national holidays like National Day week in October and May Day, when queues and gallery crowds peak.
+    a: >-
+      Weekday mornings shortly after opening are the calmest. Avoid Chinese
+      national holidays like National Day week in October and May Day, when
+      queues and gallery crowds peak.
   - q: What's nearby if I want to extend my day?
-    a: The museum sits at the edge of People's Square, within walking distance of the Shanghai Grand Theatre, the Shanghai Urban Planning Exhibition Center, and Nanjing Road's pedestrian shopping street.
+    a: >-
+      The museum sits at the edge of People's Square, within walking distance of
+      the Shanghai Grand Theatre, the Shanghai Urban Planning Exhibition Center,
+      and Nanjing Road's pedestrian shopping street.
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e6/%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_%285%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e6/%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_%285%29.jpg
   credit: 'Photo: ·˙·ChinaUli2010·.· / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_(5).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%C2%B7%CB%99%C2%B7ChinaUli2010%C2%B7.%C2%B7_Shanghai_-_panoramio_(5).jpg
   focus:
     x: 55
     'y': 35
+updatedDate: '2026-11-20'
 ---
 
 ## Why go

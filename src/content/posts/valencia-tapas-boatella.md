@@ -1,31 +1,39 @@
 ---
 title: 'Tapas Boatella: Where to Eat in Valencia'
-description: Tapas Boatella sits right on Plaça del Mercat in Ciutat Vella, wedged between the Mercado Central and the Lonja de la Seda, and it's open every day except Tuesday and Wednesday, from 8am to 11pm.
+description: >-
+  Tapas Boatella sits right on Plaça del Mercat in Ciutat Vella, wedged between
+  the Mercado Central and the Lonja de la Seda, and it's open every day except
+  Tuesday and Wednesday, from 8am to 11pm.
 country: Spain
 region: Valencia
 category: restaurant
 pubDate: '2026-08-02T09:38:08.654Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/49899066_8Cp1AM8IHLnNa9MRO3vialwIbO-w5kbNtteohkal8t4.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/49899066_8Cp1AM8IHLnNa9MRO3vialwIbO-w5kbNtteohkal8t4.jpg
   credit: 'Photo: Foursquare user content (Boatella Tapas)'
   license: foursquare
-  source: https://foursquare.com/v/4e4926f462e148603b951887
+  source: 'https://foursquare.com/v/4e4926f462e148603b951887'
   focus:
     x: 75
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Boatella_Tapas_Exterior.jpg/3840px-Boatella_Tapas_Exterior.jpg
-    credit: 'Photo: https://www.flickr.com/photos/shisho_1975/ / Wikimedia Commons (CC BY 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Boatella_Tapas_Exterior.jpg/3840px-Boatella_Tapas_Exterior.jpg
+    credit: >-
+      Photo: https://www.flickr.com/photos/shisho_1975/ / Wikimedia Commons (CC
+      BY 2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Boatella_Tapas_Exterior.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Boatella_Tapas_Exterior.jpg'
 place:
   id: ChIJb9INuU1PYA0R5rGbF1Nc1-M
   name: Tapas Boatella
-  address: Pl. del Mercat, 34, Ciutat Vella, 46001 València, Valencia, Spain
+  address: 'Pl. del Mercat, 34, Ciutat Vella, 46001 València, Valencia, Spain'
   rating: 4.2
-  userRatingsTotal: 4176
+  userRatingsTotal: 4304
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=16417692478550553062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16417692478550553062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.4740375
   lng: -0.37822639999999996
@@ -64,20 +72,41 @@ place:
 tags:
   - valencia
   - street food
-quickAnswer: Tapas Boatella sits right on Plaça del Mercat in Ciutat Vella, wedged between the Mercado Central and the Lonja de la Seda, and it's open every day except Tuesday and Wednesday, from 8am to 11pm. Go for market-fresh seafood tapas, a plate of paella, and outdoor seats facing the market's tiled facade — but arrive by 9am on a weekend if you want a table without a wait, since the terrace fills fast from 11am onward.
+quickAnswer: >-
+  Tapas Boatella sits right on Plaça del Mercat in Ciutat Vella, wedged between
+  the Mercado Central and the Lonja de la Seda, and it's open every day except
+  Tuesday and Wednesday, from 8am to 11pm. Go for market-fresh seafood tapas, a
+  plate of paella, and outdoor seats facing the market's tiled facade — but
+  arrive by 9am on a weekend if you want a table without a wait, since the
+  terrace fills fast from 11am onward.
 faq:
   - q: What are the opening hours for Tapas Boatella?
-    a: 8am to 11pm on Monday, Thursday, Friday, Saturday, and Sunday. It's closed all day Tuesday and Wednesday, so plan around those two days.
+    a: >-
+      8am to 11pm on Monday, Thursday, Friday, Saturday, and Sunday. It's closed
+      all day Tuesday and Wednesday, so plan around those two days.
   - q: When is the quietest time to visit?
-    a: Weekend mornings between 8am and 9am are the calmest window. From 11am onward on Saturday and Sunday it gets busy and stays busy right through to closing at 11pm.
+    a: >-
+      Weekend mornings between 8am and 9am are the calmest window. From 11am
+      onward on Saturday and Sunday it gets busy and stays busy right through to
+      closing at 11pm.
   - q: How do I get to Tapas Boatella?
-    a: It's on Plaça del Mercat in Ciutat Vella, directly facing the Mercado Central. The nearest metro stop is Xàtiva (Lines 3, 5, 7, 9), about a 10-minute walk, or you can simply walk over from the cathedral or Llotja de la Seda.
+    a: >-
+      It's on Plaça del Mercat in Ciutat Vella, directly facing the Mercado
+      Central. The nearest metro stop is Xàtiva (Lines 3, 5, 7, 9), about a
+      10-minute walk, or you can simply walk over from the cathedral or Llotja
+      de la Seda.
   - q: How much should I expect to spend?
-    a: It's on the budget-friendly end for a tapas bar in this location — order several small plates per person to share rather than full-sized dishes each.
+    a: >-
+      It's on the budget-friendly end for a tapas bar in this location — order
+      several small plates per person to share rather than full-sized dishes
+      each.
   - q: How long should I plan to stay?
-    a: An hour to 90 minutes is typical for a few rounds of tapas; it also works well as a quicker breakfast or coffee stop given the early 8am opening.
+    a: >-
+      An hour to 90 minutes is typical for a few rounds of tapas; it also works
+      well as a quicker breakfast or coffee stop given the early 8am opening.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 
 ## Why go

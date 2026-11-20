@@ -1,28 +1,35 @@
 ---
 title: 'The Pink Door: Where to Eat in Seattle'
-description: The Pink Door is the unmarked Italian trattoria hidden down Post Alley in Pike Place Market, known for its Elliott Bay-view terrace, red-sauce classics, and nightly cabaret and trapeze acts over the dining room.
+description: >-
+  The Pink Door is the unmarked Italian trattoria hidden down Post Alley in Pike
+  Place Market, known for its Elliott Bay-view terrace, red-sauce classics, and
+  nightly cabaret and trapeze acts over the dining room.
 country: United States
 region: Seattle
 category: restaurant
 pubDate: '2026-07-30T10:06:17.792Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg
   credit: 'Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_01.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Seattle_-_The_Pink_Door_interior.jpg/1920px-Seattle_-_The_Pink_Door_interior.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Seattle_-_The_Pink_Door_interior.jpg/1920px-Seattle_-_The_Pink_Door_interior.jpg
     credit: 'Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_interior.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_interior.jpg
 place:
   id: ChIJ91YOzrJqkFQRKmSW0B1qrbo
   name: The Pink Door
-  address: 1919 Post Alley, Seattle, WA 98101, USA
+  address: '1919 Post Alley, Seattle, WA 98101, USA'
   rating: 4.6
-  userRatingsTotal: 7227
+  userRatingsTotal: 7546
   priceLevel: 3
-  googleMapsUrl: https://maps.google.com/?cid=13451524338311652394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13451524338311652394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 47.6103652
   lng: -122.34256040000001
@@ -54,20 +61,41 @@ place:
 tags:
   - seattle
   - local restaurant
-quickAnswer: The Pink Door is the unmarked Italian trattoria hidden down Post Alley in Pike Place Market, known for its Elliott Bay-view terrace, red-sauce classics, and nightly cabaret and trapeze acts over the dining room. It's closed Sunday and Monday, so plan for Tuesday–Saturday (11:30am–11:30pm), and since it's genuinely busy all weekend (11:30am–9pm on Saturdays especially), book ahead or arrive right at opening for a walk-in shot.
+quickAnswer: >-
+  The Pink Door is the unmarked Italian trattoria hidden down Post Alley in Pike
+  Place Market, known for its Elliott Bay-view terrace, red-sauce classics, and
+  nightly cabaret and trapeze acts over the dining room. It's closed Sunday and
+  Monday, so plan for Tuesday–Saturday (11:30am–11:30pm), and since it's
+  genuinely busy all weekend (11:30am–9pm on Saturdays especially), book ahead
+  or arrive right at opening for a walk-in shot.
 faq:
   - q: Do I need a reservation at The Pink Door?
-    a: It's strongly recommended, especially for Friday and Saturday dinner when the cabaret show runs and tables turn slowly. Walk-ins are possible at the bar or terrace but not guaranteed.
+    a: >-
+      It's strongly recommended, especially for Friday and Saturday dinner when
+      the cabaret show runs and tables turn slowly. Walk-ins are possible at the
+      bar or terrace but not guaranteed.
   - q: What days is The Pink Door open?
-    a: Tuesday through Saturday, 11:30am to 11:30pm. It's closed both Sunday and Monday, so don't plan a visit around those days.
+    a: >-
+      Tuesday through Saturday, 11:30am to 11:30pm. It's closed both Sunday and
+      Monday, so don't plan a visit around those days.
   - q: How do I find it if there's no sign?
-    a: Look for a faded pink handprint on an unmarked door in Post Alley, the narrow lane behind Pike Place Market's main arcade, near the Gum Wall and Pike Place Fish Market.
+    a: >-
+      Look for a faded pink handprint on an unmarked door in Post Alley, the
+      narrow lane behind Pike Place Market's main arcade, near the Gum Wall and
+      Pike Place Fish Market.
   - q: When is it least crowded?
-    a: Weekends stay busy roughly 11:30am to 9pm, so aim for right at the 11:30am opening or the mid-afternoon lull between lunch and dinner, around 2–4:30pm, for the best shot at a quiet table.
+    a: >-
+      Weekends stay busy roughly 11:30am to 9pm, so aim for right at the 11:30am
+      opening or the mid-afternoon lull between lunch and dinner, around
+      2–4:30pm, for the best shot at a quiet table.
   - q: Is it worth it just for the view or the show?
-    a: Yes — the back terrace overlooks Elliott Bay and is a destination in itself, and the nightly cabaret/trapeze acts over the dining room are part of what makes this place distinct from a typical Italian restaurant.
+    a: >-
+      Yes — the back terrace overlooks Elliott Bay and is a destination in
+      itself, and the nightly cabaret/trapeze acts over the dining room are part
+      of what makes this place distinct from a typical Italian restaurant.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-20'
 ---
 You almost walk past it. That's the point. There's no sign on the door, just a faded pink handprint on an unmarked entrance in Post Alley, the narrow cobblestone lane that runs behind Pike Place Market's main arcade. Locals and regulars know to look for the small awning and the queue of people checking their phones for the address. Everyone else just stumbles on it, drawn in by candlelight through the windows and the sound of an accordion or a jazz trio drifting out into the alley.
 
