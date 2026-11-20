@@ -41,6 +41,7 @@ faq:
     a: Yes — many visitors pair it with the Aiguille du Midi cable car or a walk around Chamonix's town center, and hikers often add a trail around Les Praz or Argentière for a ground-level glacier view.
 aiGenerated: true
 updatedDate: '2026-08-30'
+draft: true
 ---
 
 ## Why go
