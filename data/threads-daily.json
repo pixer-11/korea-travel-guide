@@ -121,27 +121,28 @@
     "fukuoka-manly",
     "istanbul-nancy-ajram-concert",
     "naoshima-benesse-house-museum",
-    "milan-max-pezzali-unipol-dome-milan"
+    "milan-max-pezzali-unipol-dome-milan",
+    "taipei-khalid-concert-taipei"
   ],
-  "lastSentDay": "2026-11-20",
+  "lastSentDay": "2026-11-21",
   "material": {
-    "day": "2026-11-20",
-    "slug": "milan-max-pezzali-unipol-dome-milan",
-    "title": "Max Pezzali - Unipol Dome Milan: Dates, Tickets & Venue (Milan)",
+    "day": "2026-11-21",
+    "slug": "taipei-khalid-concert-taipei",
+    "title": "Khalid Concert - Taipei: Dates, Tickets & Venue (Taipei)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-20-milan-max-pezzali-unipol-dome-milan-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-20-milan-max-pezzali-unipol-dome-milan-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-21-taipei-khalid-concert-taipei-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-21-taipei-khalid-concert-taipei-2.jpg"
     ],
-    "igCaption": "Max Pezzali brings his 883-era anthems to Milan's brand-new Unipol Dome on January 4, 2027 — built for the Winter Olympics, now ready for ten thousand voices singing every word. Easy to reach via Rogoredo station, and timed right in the middle of Italy's Epiphany holiday week.\n\n#Milan #Italy #events #travel #wanderatlas #TravelItaly #UnipolDome #MaxPezzali #SantaGiulia #ConcertTravel\n📷 Photo: daviderudy93 / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "Which 883 song do you think the crowd sings loudest — \"Gli anni,\" the nostalgic closer, or the 1992 breakthrough \"Hanno ucciso l'Uomo Ragno\"?",
-    "link": "https://wanderatlasguides.com/posts/milan-max-pezzali-unipol-dome-milan/"
+    "igCaption": "Khalid brings his soft R&B to Taipei's TICC on December 7, 2026, right beside the glowing Taipei 101. Ride the red line in, grab dumplings at Din Tai Fung before doors, then wander Xinyi's night markets after the encore.\n\n#Taipei #Taiwan #events #travel #wanderatlas #Khalid #Xinyi #Taipei101 #ConcertTravel\n📷 Photo: Thesavagenorwegian / Wikimedia Commons (CC BY 4.0) (edited)",
+    "thOption": "Khalid's Taipei show sits in a fixed-seat hall with no pit, no rail rush — just numbered seats close to the stage. Would you trade pit chaos for guaranteed sightlines?",
+    "link": "https://wanderatlasguides.com/posts/taipei-khalid-concert-taipei/"
   },
   "social": {
-    "thDay": "2026-11-20",
-    "thId": "18649947373011692",
+    "thDay": "2026-11-21",
+    "thId": "18083088218435193",
     "igDay": "2026-11-20",
     "igId": "18433422982144504",
-    "thSlug": "milan-max-pezzali-unipol-dome-milan",
+    "thSlug": "taipei-khalid-concert-taipei",
     "igSlug": "milan-max-pezzali-unipol-dome-milan",
     "history": [
       {
@@ -807,7 +808,17 @@
       {
         "day": "2026-11-14",
         "slug": "new-york-strand-bookstore",
-        "thId": "17914961238513687"
+        "thId": "17914961238513687",
+        "insights": {
+          "at": "2026-11-21",
+          "th": {
+            "views": 20,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-15",
@@ -841,6 +852,11 @@
         "slug": "milan-max-pezzali-unipol-dome-milan",
         "thId": "18649947373011692",
         "igId": "18433422982144504"
+      },
+      {
+        "day": "2026-11-21",
+        "slug": "taipei-khalid-concert-taipei",
+        "thId": "18083088218435193"
       }
     ]
   }
