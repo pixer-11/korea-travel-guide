@@ -7505,8 +7505,8 @@
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": {
   "slug": "chamonix-grotte-de-glace",
   "verdict": "MATCH",
-  "reason": "patrol replace: Ice cave with glowing light installations, Chamonix",
-  "at": "2026-11-18T19:36:05.315Z"
+  "reason": "patrol replace: Ice cave with colored LED lighting, Chamonix",
+  "at": "2026-11-20T19:36:29.163Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG": {
   "slug": "chamonix-grotte-de-glace",
@@ -22399,6 +22399,12 @@
   "reason": "Chocolatería San Ginés storefront in Madrid",
   "reasonKo": "마드리드 산 히네스 초콜라테리아 외관",
   "at": "2026-08-04T12:22:53.135Z"
+ },
+ "madrid-el-campero\u0001https://fastly.4sqi.net/img/general/original/31673230_AHXnvr38pIUYSAjq7bUD5LkWwdrdyX3IvIL_5tjtlAo.jpg": {
+  "slug": "madrid-el-campero",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Dish plated in real restaurant setting with interior visible",
+  "at": "2026-11-20T19:37:30.584Z"
  },
  "madrid-el-campero\u0001https://fastly.4sqi.net/img/general/original/31673230_GB2WuP7LnPIYfuAl4cGGAcnk6MaREX_N3Hh6PwkCyx8.jpg": {
   "slug": "madrid-el-campero",

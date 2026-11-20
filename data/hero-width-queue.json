@@ -3801,7 +3801,8 @@
   "istanbul-candlelight-concerts-istanbul-coldplay-imagine-dragons-tribute\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Istanbul-skyline-night-view-with-TV-tower.jpg/3840px-Istanbul-skyline-night-view-with-TV-tower.jpg": 3840,
   "nuremberg-kunstvilla-nurnberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kunstvilla_N%C3%BCrnberg.jpg/3840px-Kunstvilla_N%C3%BCrnberg.jpg": 3840,
   "thanh-hoa-vietnam-jungle-marathon-pu-luong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg/3840px-C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg": 3840,
-  "victoria-munro-s-books\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/Interior_of_Munro%27s_Books.jpg": 3072
+  "victoria-munro-s-books\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/Interior_of_Munro%27s_Books.jpg": 3072,
+  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3883,8 +3884,8 @@
   },
   "cameron-highlands-sam-poh-temple": {
    "width": 674,
-   "attempts": 13,
-   "nextTry": "2026-11-20",
+   "attempts": 14,
+   "nextTry": "2026-11-27",
    "flaggedAt": "2026-08-20",
    "lastResult": "no-wider"
   },
@@ -3897,22 +3898,15 @@
   },
   "hong-kong-montana": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-11-20",
+   "attempts": 13,
+   "nextTry": "2026-11-27",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "lyon-ayla": {
    "width": 1008,
-   "attempts": 12,
-   "nextTry": "2026-11-20",
-   "flaggedAt": "2026-08-28",
-   "lastResult": "no-wider"
-  },
-  "madrid-el-campero": {
-   "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-11-20",
+   "attempts": 13,
+   "nextTry": "2026-11-27",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
@@ -3953,8 +3947,8 @@
   },
   "jakarta-erre-urrechu": {
    "width": 1080,
-   "attempts": 11,
-   "nextTry": "2026-11-20",
+   "attempts": 12,
+   "nextTry": "2026-11-27",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -4321,5 +4315,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-20T16:27:27.726Z"
+ "updated": "2026-11-20T19:37:31.862Z"
 }

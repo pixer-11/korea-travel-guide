@@ -22,13 +22,13 @@ faq:
     a: Salamanca is close to Retiro Park and Madrid's main shopping streets, making it easy to pair a meal here with an afternoon of walking and browsing.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/31673230_GB2WuP7LnPIYfuAl4cGGAcnk6MaREX_N3Hh6PwkCyx8.jpg
+  url: https://fastly.4sqi.net/img/general/original/31673230_AHXnvr38pIUYSAjq7bUD5LkWwdrdyX3IvIL_5tjtlAo.jpg
   credit: 'Photo: Foursquare user content (El Campero)'
   license: foursquare
   source: https://foursquare.com/v/69bf14e2e22df815835d6130
   focus:
     x: 50
-    'y': 65
+    'y': 80
 ---
 
 ## Why El Campero matters
