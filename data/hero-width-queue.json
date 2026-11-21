@@ -3806,7 +3806,8 @@
   "glasgow-gallery-of-modern-art\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Gallery_of_Modern_Art%2C_Glasgow%2C_front_view%2C_2018-06-27.jpg": 3456,
   "madrid-el-campero\u0001https://fastly.4sqi.net/img/general/original/31673230_AHXnvr38pIUYSAjq7bUD5LkWwdrdyX3IvIL_5tjtlAo.jpg": 1440,
   "victoria-art-gallery-of-greater-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Art_Gallery_of_Greater_Victoria_01_%2820479023876%29.jpg/1920px-Art_Gallery_of_Greater_Victoria_01_%2820479023876%29.jpg": 1920,
-  "victoria-split-rock-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg/3840px-View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg": 3840
+  "victoria-split-rock-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg/3840px-View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg": 3840,
+  "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/58890857_qyQo-u369dfwzjMI11XVnom4SM5xHZx9IpB71USocHs.jpg": 1440
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4035,8 +4036,8 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 8,
-   "nextTry": "2026-11-21",
+   "attempts": 9,
+   "nextTry": "2026-11-28",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -4049,8 +4050,8 @@
   },
   "bali-sana-uluwatu": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-11-21",
+   "attempts": 8,
+   "nextTry": "2026-11-28",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -4319,5 +4320,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-21T15:38:43.954Z"
+ "updated": "2026-11-21T19:37:28.744Z"
 }
