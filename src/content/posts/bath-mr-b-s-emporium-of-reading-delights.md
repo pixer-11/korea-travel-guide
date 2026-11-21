@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/47900463_UruNy7h5tPE3WggOfj_ZyQoVZlAxXoSg_wMqa7u6r40.jpg"
+    credit: "Photo: Foursquare user content (Mr B's Emporium of Reading Delights)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b741a06f964a520f0c72de3"
 place:
   id: "ChIJxziBgBSBcUgRtj_oYMGSaOE"
   name: "Mr B's Emporium of Reading Delights"
@@ -50,6 +54,7 @@ faq:
     a: "Queen Square, Milsom Street, the Jane Austen Centre on Gay Street, the Assembly Rooms, and the Circus and Royal Crescent are all within about ten minutes on foot."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-21'
 ---
 
 ## Two shopfronts, one long browse

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 70
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/35381665_klLGyo34dG0ZLEH4eWfy2gU0s2WZ941fVbDE65tncdQ.jpg"
+    credit: "Photo: Foursquare user content (Munro's Books)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b75a6ddf964a5203b1a2ee3"
 place:
   id: "ChIJYzbywZp0j1QRj65Aukvbk48"
   name: "Munro's Books"
@@ -51,6 +55,7 @@ faq:
     a: "It's a well-known stop, and summer afternoons draw the most visitors along Government Street. Coming right at the 9:30am opening, or on a Thursday or Friday evening before the 7:30pm close, usually gives you more space."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-21'
 ---
 
 ## A bank vault turned into a reading room

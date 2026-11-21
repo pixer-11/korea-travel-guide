@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Category_Is_Books_%28Queer_Bookshop%29%2C_Glasgow%2C_Scotland_09.jpg/3840px-Category_Is_Books_%28Queer_Bookshop%29%2C_Glasgow%2C_Scotland_09.jpg"
+    credit: "Photo: Michal Klajban / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Category_Is_Books_(Queer_Bookshop),_Glasgow,_Scotland_09.jpg"
 place:
   id: "ChIJR88t6c9HiEgR798g_SRVhY8"
   name: "Category Is Books"
@@ -50,6 +54,7 @@ faq:
     a: "Queen's Park and its hilltop view of the city, Govanhill Baths on Calder Street, the food shops and cafés of Allison Street and Victoria Road, and Shawlands a little further west."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-21'
 ---
 
 ## Four days a week on Allison Street

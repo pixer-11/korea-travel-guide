@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/87802_MjWNEFjbMXeRA-ky3U3a1hqaU2NdXSvGIeXy36Dc-lA.jpg"
+    credit: "Photo: Foursquare user content (Mount Castle)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e038aaca809d5cf4528b0c9"
 place:
   id: "ChIJfSa2U79w2EcRjKAmiYwAPL0"
   name: "Castle Mound"
@@ -70,6 +74,7 @@ faq:
     a: "Kettle's Yard is on Castle Street, and the Museum of Cambridge is at the bottom of the hill. Magdalene Bridge and Quayside, where punts set off, are a short walk downhill."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-21'
 ---
 
 ## The highest ground in a flat city

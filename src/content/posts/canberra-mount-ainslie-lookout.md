@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/9636032_27dmfD4xO19S5hG-J4MCIQcM8UutPijsFAub3h5GmFY.jpg"
+    credit: "Photo: Foursquare user content (Mount Ainslie)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b7f9bfaf964a520873630e3"
 place:
   id: "ChIJyVCSt3tSFmsRuisG4DhEWuo"
   name: "Mount Ainslie Lookout"
@@ -50,6 +54,7 @@ faq:
     a: "The Australian War Memorial sits at the foot of the walking track. Anzac Parade, Lake Burley Griffin and the parliamentary triangle are all a short drive away."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-21'
 ---
 
 ## The line the city was drawn on

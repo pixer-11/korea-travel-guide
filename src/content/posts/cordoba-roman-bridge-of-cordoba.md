@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/43562200_8nJziE6S8WaX8ed-CvKbsC6mlia448j6k1bW3N0ergw.jpg"
+    credit: "Photo: Foursquare user content (Roman Bridge (Puente Romano))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c2746bb3703d13a1fb4a636"
 place:
   id: "ChIJZRKDoZwgbQ0RcdJtzzN6cNY"
   name: "Roman Bridge of Córdoba"
@@ -73,6 +77,7 @@ faq:
     a: "Go to the south bank near the Torre de la Calahorra and look back north. From there the full run of arches lines up with the Mezquita-Catedral behind."
 aiGenerated: true
 draft: false
+galleryAddedOn: '2026-11-21'
 ---
 
 ## Sixteen arches across the Guadalquivir
