@@ -1009,7 +1009,6 @@
   "kep-wat-sampov-pram\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/05-Wat_Sampov_Pram-nX-9.jpg/3840px-05-Wat_Sampov_Pram-nX-9.jpg": 3840,
   "los-angeles-mish-delicatessen\u0001https://fastly.4sqi.net/img/general/original/463594059_TvN37_rzM-72eIAi_NGRbay3rPwJi31AVFHUw4gMgpg.jpg": 1340,
   "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": 1008,
-  "madrid-el-campero\u0001https://fastly.4sqi.net/img/general/original/31673230_GB2WuP7LnPIYfuAl4cGGAcnk6MaREX_N3Hh6PwkCyx8.jpg": 1080,
   "hanoi-bigbang-2026-2027-world-tour-in-hanoi\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/BIGBANG_Concert_0.TO.10_in_Seoul_-_6.jpg": 760,
   "marseille-au-bout-du-quai\u0001https://fastly.4sqi.net/img/general/original/1358503917_i22wmtoB5BP3SZpghHN5h-VblHumjIEsQbKt75IzWLA.jpg": 1920,
   "phnom-penh-sora-sky-bar\u0001https://fastly.4sqi.net/img/general/original/53396075_ku9FgJPaS17IK_AflrRfZfDEB7-DsHPbEBnJ3DY0neo.jpg": 1920,
@@ -3802,7 +3801,13 @@
   "nuremberg-kunstvilla-nurnberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kunstvilla_N%C3%BCrnberg.jpg/3840px-Kunstvilla_N%C3%BCrnberg.jpg": 3840,
   "thanh-hoa-vietnam-jungle-marathon-pu-luong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg/3840px-C%E1%BB%95ng_tam_quan_Th%C3%A1nh_th%E1%BA%A5t_An_H%C3%B2a_-_09.2016.jpg": 3840,
   "victoria-munro-s-books\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/Interior_of_Munro%27s_Books.jpg": 3072,
-  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536
+  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536,
+  "canberra-national-gallery-of-australia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/National_Gallery_at_dusk%2C_Canberra_ACT.jpg/3840px-National_Gallery_at_dusk%2C_Canberra_ACT.jpg": 3840,
+  "canberra-mount-ainslie-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Canberra_from_Mount_Ainslie_Lookout.jpg": 2560,
+  "glasgow-gallery-of-modern-art\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Gallery_of_Modern_Art%2C_Glasgow%2C_front_view%2C_2018-06-27.jpg": 3456,
+  "madrid-el-campero\u0001https://fastly.4sqi.net/img/general/original/31673230_AHXnvr38pIUYSAjq7bUD5LkWwdrdyX3IvIL_5tjtlAo.jpg": 1440,
+  "victoria-art-gallery-of-greater-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Art_Gallery_of_Greater_Victoria_01_%2820479023876%29.jpg/1920px-Art_Gallery_of_Greater_Victoria_01_%2820479023876%29.jpg": 1920,
+  "victoria-split-rock-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg/3840px-View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4315,5 +4320,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-20T19:37:31.862Z"
+ "updated": "2026-11-21T08:14:05.605Z"
 }
