@@ -46,7 +46,7 @@ Chennai has staged professional tennis for decades, mostly in one concrete bowl 
 
 The tournament is a professional women's event on the WTA calendar, drawing international players along with Indian fans, and the most famous names are not always the reason to go. A week like this puts spectators much closer to tour-level tennis than the big Slam venues usually do.
 
-The city has a long record with the sport. The men's ATP Chennai Open was held here every year from 1997 to 2017, then moved to Pune. The women's event arrived later. Earlier editions in 2022 and 2025 were played in the WTA 250 tier, the level where rising players and seasoned regulars often meet in the same draw.
+The city has a long record with the sport. The men's ATP Chennai Open was held here every year from 1997 to 2017, then moved to Pune. The women's event arrived later, typically played at the WTA 250 tier, the level where rising players and seasoned regulars often meet in the same draw.
 
 ## Dates: November 2-8, 2026
 

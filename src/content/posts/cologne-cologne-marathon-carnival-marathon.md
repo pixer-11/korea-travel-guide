@@ -85,7 +85,7 @@ Carnival in Cologne has its own rules. A few of them come up all the time:
 - **A "Bützchen",** a quick peck on the cheek, is a carnival custom. A polite no is fine.
 - **Costumes are normal for adults.** Wearing one makes a visitor part of the day rather than an observer.
 
-Runners usually keep the Kölsch for after the finish. Brewery pubs around the Altstadt, such as Früh am Dom near the Cathedral, are usually packed on 11.11. Runners often celebrate in their own neighbourhood instead.
+Runners usually keep the Kölsch for after the finish. Brewery pubs around the Altstadt, such as Früh am Dom, get busy during carnival. Runners often celebrate in their own neighbourhood instead.
 
 ## After the finish line
 

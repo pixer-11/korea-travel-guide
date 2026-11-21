@@ -30,10 +30,9 @@ heroImage:
     x: 55
     'y': 65
 ---
-
 ## Why Isabel Mayfair Matters Here
 
-Abu Dhabi's dining scene has spent the last few years importing global names, but this one arrives with real pedigree. Isabel Mayfair, the glamorous London original, opened its first international outpost at The Galleria on Al Maryah Island in April 2026.
+Abu Dhabi's dining scene has spent the last few years importing global names, but this one arrives with real pedigree. Isabel Mayfair, the glamorous London original, has opened its first international outpost in Abu Dhabi.
 
 That timing matters. It signals the capital's push to sit alongside Dubai as a genuine fine-dining destination, not just a stopover. For visitors, it means a taste of Mayfair's velvet-and-marble energy without the flight to London.
 
@@ -74,4 +73,3 @@ Payment across upscale Abu Dhabi restaurants is almost always card or contactles
 Locals and residents treat a spot like this as an occasion restaurant (a birthday, an anniversary, a client dinner) rather than a casual weeknight stop. Come with that mindset: linger over courses, order to share, and let the evening stretch rather than rushing through a set menu.
 
 The most common mistake visitors make with any brand-new opening is assuming online details are locked in. Menus, hours, and even the exact reservation system may shift in the months after launch, so always verify directly with the restaurant on the day you plan to go.
-

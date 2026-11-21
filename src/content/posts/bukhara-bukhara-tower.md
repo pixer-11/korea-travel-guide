@@ -66,7 +66,6 @@ faq:
     a: Panoramic views over Bukhara's old city, including the Kalyan Minaret, the Ark Fortress, and the desert horizon beyond the rooftops.
 aiGenerated: true
 ---
-
 ## Why go
 
 Bukhara's old city is flat-roofed and low-slung, all the same sun-baked ochre color, so the view from above is genuinely disorienting in a good way. Bukhara Tower gives you that view without a minaret climb. From the top you get the whole spread: domes, minarets, and the pale scrub of desert beyond the last rooftops.
@@ -98,7 +97,7 @@ There's no metro or tram system in Bukhara, so taxis, rideshare apps, or your ow
 
 The tower is open every day, 8am to 10pm, so there's no awkward closed-Monday surprise to plan around.
 
-On weekends, the calmest window is 8–9am, right after opening. Crowds build quickly and peak between 9am and 11am, with another busy stretch from 4pm to 5pm, so if you're visiting on a Saturday or Sunday, don't roll in at midday expecting empty platforms.
+On weekends, the calmest window is 8–9am, right after opening. Crowds build quickly, peaking between 9am and 11am, with another busy stretch from 4pm to 5pm, so if you're visiting on a Saturday or Sunday, don't roll in at midday expecting empty platforms.
 
 On weekdays the forecast flags no standout quiet hour, and 7–8pm is busiest, so arriving close to opening is a safe bet.
 
@@ -124,4 +123,3 @@ Treat the tower as a quick, functional stop rather than a destination to linger 
 - **Etiquette**: keep the platform moving. It's a shared, sometimes narrow viewing space, so let others get their photo and step aside rather than camping in one spot.
 - **Common mistake**: tourists often skip it entirely because it's not "historic," then regret not having an aerial reference point for the rest of their walk through the old city. Go first, then explore, the view helps you map out where everything else sits.
 - **Dress**: Bukhara gets intensely hot midday from late spring through early autumn, so an early visit beats the heat as much as the crowds.
-

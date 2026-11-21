@@ -39,7 +39,6 @@ heroImage:
     top: 10
     bottom: 22
 ---
-
 ## Eight days of paddles in Fuzhou
 
 China's strongest players spend a week playing each other. The 2026 China National Table Tennis Championships hold their singles and team finals in Fuzhou, the capital of Fujian, from December 16 to 23, 2026.
@@ -58,7 +57,7 @@ At the nationals, players turn out for their provinces and clubs rather than for
 
 The Chinese Table Tennis Association is the governing body behind the championships. This guide does not name a hall, session times or prices. Those details belong to the organiser and its ticketing partner, and anything printed here would be a guess.
 
-Here is how buying usually works in China:
+A few things hold true across most major sporting events in China, ticketing included:
 
 - **Real-name tickets:** major sporting events usually tie each seat to an ID document. Foreign visitors register with a passport number.
 - **Same passport at the gate:** fans carry the passport they registered with, because staff can match it at entry.

@@ -138,7 +138,7 @@ If your schedule allows any flexibility, aim for a Wednesday or Thursday morning
 
 Genoa's museum-goers treat Palazzo Reale as a considered stop, not a five-minute photo dash, and the building rewards that pace.
 
-Buy your ticket at the door rather than worrying about advance booking. This isn't the Uffizi, and lines are rarely long outside weekend peak hours. Payment is standard card or cash at the counter.
+Buy your ticket at the door rather than worrying about advance booking. This isn't the Uffizi, and lines are rarely long outside weekend peak hours.
 
 A few practical notes:
 

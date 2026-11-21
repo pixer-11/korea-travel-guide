@@ -99,7 +99,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-11-10'
 ---
-
 ## A fortress built to watch for Crusaders
 
 Two pencil-thin Ottoman minarets mark the spot. You can see them from half of Cairo, rising from a limestone ridge at the city's eastern edge. Below them is a wall of honey-coloured stone that Salah al-Din, known in the West as Saladin, began in the 1170s to defend the city against the Crusaders.
@@ -150,7 +149,7 @@ At the moment the site opens 8am–5pm every day of the week. Hours at Egyptian 
 - Cover your shoulders and knees. Women should bring a scarf for their hair, although loaners are sometimes handed out at the entrance.
 - Keep your voice low, and don't walk in front of anyone who is praying.
 
-**Tickets and guides.** Buy at the official ticket office only, where the current prices are posted, or check them online first. Men near the gate offering to be your guide are unofficial. A polite, firm "la, shukran" (no, thank you) is enough.
+**Tickets and guides.** Buy at the official ticket office only, where the current prices are posted, or check them online first. Men near the gate offering to be your guide are unofficial. A polite, firm "no, thank you" is enough.
 
 **Bring:** a hat, water and sunscreen. Very little of the site is shaded.
 

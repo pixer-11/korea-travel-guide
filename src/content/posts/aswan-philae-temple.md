@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-11-09'
 ---
-
 ## An island that was moved stone by stone
 
 The boat ride is part of the visit. From the landing at Shellal, south of Aswan city near the Old Aswan Dam, small motorboats cross a stretch of reservoir among granite outcrops. Then the pylons of the Temple of Isis come up from the water.
@@ -116,7 +115,7 @@ Look for Coptic crosses cut into the older reliefs, and for chiselled-out faces.
 
 ## Timing the boat and the crowds
 
-The temple currently opens 6am–5pm every day this week. Hours can change with the season, so check the official Egyptian antiquities site before you go. On weekends it is usually quietest between 7am and 9am, and again from 1pm to 5pm. Late-morning arrivals tend to land at the same time as the tour groups.
+The temple currently opens 6am–5pm every day this week. Hours can change with the season, so check the official Egyptian antiquities site before you go. Mornings tend to be quietest, before the tour groups arrive. Late-morning arrivals tend to land at the same time as the tour groups.
 
 Early starts suit Aswan because the stone courts hold the heat from midday. Give the island 1.5–2 hours. The crossing takes only a few minutes, but a taxi from central Aswan to Shellal adds more time. The evening sound and light show is a separate ticketed event outside these daytime hours, so book it on its own.
 

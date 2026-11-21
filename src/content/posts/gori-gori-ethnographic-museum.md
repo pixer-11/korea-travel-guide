@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A quieter door in Stalin's town
 
 Most visitors come to Gori for one man. Coaches pull up at the Stalin Museum, groups file through the railway carriage, and then most of them leave for Uplistsikhe or straight back to Tbilisi. Very few of them find their way to Kirion II Street.
@@ -95,7 +94,7 @@ Small Georgian museums run on personal contact. These habits make the visit easi
 
 - **Greet the attendant first.** "Gamarjoba" (hello) works, and "madloba" (thank you) on the way out is always noticed.
 - **Language:** older staff may speak more Georgian or Russian than English. A translation app with downloaded Georgian makes questions possible.
-- **Paying:** buy your ticket at the desk. Small regional museums don't always take cards, so carry some lari in cash. The current price is posted at the entrance.
+- **Paying:** buy your ticket at the desk. Small regional museums don't always take cards, so carry some lari in cash. Check the ticket price when you arrive.
 - **Photography:** ask before you take pictures. Some rooms or pieces may be off limits, and asking tends to start a conversation.
 - **Lights and doors:** in quieter museums, rooms are sometimes unlocked or lit only when a visitor arrives. Wait a moment instead of wandering ahead.
 
@@ -103,7 +102,7 @@ If the staff offer to guide you and you accept, a small thank-you is welcome but
 
 ## Building a Gori day around it
 
-The museum works best as one part of a full day. Here is a sensible order for a day trip.
+The museum works best as one part of a full day. One sequence that works well for a single day:
 
 1. **Morning:** start at the Stalin Museum on Stalin Avenue before the tour groups arrive. Inside are the dictator's birth house and his armoured railway carriage.
 2. **Late morning:** walk up to **Gori Fortress**, the medieval citadel on the hill above town. From the top you can see the whole Mtkvari valley.

@@ -108,7 +108,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-11-10'
 ---
-
 Cairo is short on open green space, and from the top lawns of Al-Azhar Park you can see why. On one side the city spreads out in tan concrete and satellite dishes. On the other the Citadel and the pencil minarets of the Muhammad Ali Mosque stand along the skyline. Between them run clipped grass, water channels and palms, set on a hill in the middle of medieval Cairo.
 
 ## A park built on centuries of rubbish
@@ -121,7 +120,7 @@ The Aga Khan Trust for Culture cleared and landscaped the site, and the park ope
 
 Enter from Salah Salem Street and the layout soon makes sense. A central promenade runs along the spine of the hill, lined with water channels and shaded seating. Lawns slope away on both sides.
 
-Here is what you'll find along the way:
+Along the main axis and its surroundings you'll come across:
 
 - **Fountains and runnels** on the formal axis, the park's most photographed stretch
 - **Cafés and restaurants**, several placed to look out over the city

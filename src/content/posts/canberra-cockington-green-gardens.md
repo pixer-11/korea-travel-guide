@@ -110,7 +110,7 @@ A few habits pay off here:
 
 ## Beating the weekend rush
 
-The crowd data here is easy to act on. On weekdays the park is quiet all day, from 9:30am to 5pm, so any weekday visit gets you room at the fences and clear photos.
+The crowd data here is easy to act on. On weekdays the park is quiet all day, so any weekday visit gets you room at the fences and clear photos.
 
 Weekends are different. Try to visit before 10am or after 4pm on a Saturday or Sunday. That's the busy window, with families packing the paths, a queue at the train and people crowding the most photographed models.
 

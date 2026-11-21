@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Punjabi countdown on Yas Island
 
 Diljit Dosanjh plays Etihad Live, Yas Island, on December 31, 2026, so his set carries the crowd into the new year. He is the Punjabi singer and actor who played Coachella in 2023, the first Punjabi artist on that bill. His Dil-Luminati Tour then filled stadiums from North America to India.
@@ -63,7 +62,7 @@ The same district also holds Ferrari World, Warner Bros. World and Yas Waterworl
 
 Etihad Live is a dedicated live-entertainment venue on Yas Island. It is separate from Etihad Arena on Yas Bay, which is a common mix-up when people book taxis. Tickets come from the official channels of the venue and the concert promoter. Seating tiers, door times and prices are listed on those channels, not here.
 
-Resale listings outside the official chain carry the usual risk of duplicate or invalid barcodes. That risk is higher on a holiday night that sells this strongly. Tickets are typically scanned on a phone at the gate, so attendees keep the ticket app or email ready.
+Resale listings outside the official chain carry the usual risk of duplicate or invalid barcodes. That risk is higher on a holiday night that sells this strongly. Attendees should keep their ticket confirmation ready in whatever form the official channel issues it, so entry at the gate goes smoothly.
 
 ## How the night works in Abu Dhabi
 

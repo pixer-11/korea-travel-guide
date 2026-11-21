@@ -36,7 +36,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Eight days, one trophy
 
 The only sound in the room is clocks being pressed. The 17th Chennai Open International Grandmaster Chess Tournament runs from January 2 to 9, 2027. Players compete for the Sakthi Group Dr. N. Mahalingam Trophy.
@@ -71,7 +70,7 @@ At a rated tournament, spectators follow the same quiet rules as the players. Th
 - **Photos at the start only.** Many events allow photos in the first minutes of a round, then ask cameras away.
 - **Leave quietly.** People who step out usually wait until no nearby game is in a time scramble.
 
-Most Chennai shops, cafés and autos take UPI payments by phone, so visitors rarely need much cash for the day.
+Most Chennai shops and cafés take UPI payments by phone, though autos are often cash-only, so visitors should carry some cash for the day.
 
 ## Getting there and staying nearby
 

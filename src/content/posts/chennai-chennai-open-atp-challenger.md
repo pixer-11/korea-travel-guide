@@ -39,15 +39,14 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Challenger week in February
 
 Chennai's tennis week takes place in February 2027. The tournament sits on the ATP Challenger Tour, the level just below the main ATP circuit. Players come here for ranking points they need to reach Grand Slam qualifying.
 
 The field leans towards Asia. Players from Japan, Taiwan and Korea are regulars, and they compete alongside India's own singles and doubles names. Recent editions filled a full Monday-to-Sunday week:
 
-- 2024: 5–11 February
-- 2026: 9–15 February
+- 2024: early February
+- 2026: early February
 
 At a Challenger the early rounds and the final are spread across the week. Most local fans save their visit for the weekend, when the semi-finals and final are on court.
 

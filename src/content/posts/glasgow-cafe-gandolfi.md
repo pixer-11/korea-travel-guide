@@ -95,7 +95,7 @@ The hours shape the visit more than anything else does:
 - **Monday**: 8am–4pm, so daytime only
 - **Sunday**: 9am–4pm, which suits brunch but not dinner
 
-That means no evening meal on Sundays or Mondays. Weekend crowds are the other thing to plan around. Try not to turn up between 2pm and 10pm on a weekend, because that's when the room is fullest and walk-ins wait longest.
+That means no evening meal on Sundays or Mondays. Weekend crowds are the other thing to plan around. Try not to turn up during the early-afternoon peak on a weekend, because that's when the room is fullest and walk-ins wait longest.
 
 On a Saturday the forecast flags no standout quiet hour, so arriving in the morning, well before the 2pm busy stretch, is the easiest way to get a table without planning ahead. Sunday is busiest from 2pm until the 4pm close, so go earlier on Sundays too.
 

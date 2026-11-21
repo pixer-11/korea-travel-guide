@@ -79,7 +79,7 @@ Things worth looking for:
 
 Plaza Dorrego is where the fair gets busiest. On Sundays the square fills with antique dealers' tables, and tango dancers and street musicians often perform for whoever stops to watch. Leave something in the hat if you stay for a song.
 
-A couple of blocks away, the Mercado de San Telmo opened in 1897. It is a covered market under an iron-and-glass roof, with entrances on Defensa and the surrounding streets. It mixes produce stalls and antique dealers with food counters. It is the easiest place to sit down and eat without leaving the fair.
+A couple of blocks away is the Mercado de San Telmo. It is a covered market under an iron-and-glass roof, with entrances on Defensa and the surrounding streets. It mixes produce stalls and antique dealers with food counters. It is the easiest place to sit down and eat without leaving the fair.
 
 ## Getting down to Defensa
 

@@ -90,7 +90,7 @@ If you're coming from Dempsey Hill, factor in the crosstown trip: a taxi or ride
 
 Listed hours show the building itself open 24 hours, but that refers to the structure and some access points, not the stalls.
 
-Realistically, the wet market and most food stalls operate from early morning through early afternoon. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed.
+Realistically, the wet market and most food stalls keep daytime hours and wind down well before evening. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed.
 
 Go on a weekday morning if you want the market at its most functional and least crowded. Weekends, especially during the Ramadan bazaar season when Geylang Serai hosts one of Singapore's largest Hari Raya markets nearby, bring far heavier foot traffic.
 

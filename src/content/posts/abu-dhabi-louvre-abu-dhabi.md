@@ -135,7 +135,7 @@ Outside, the museum is genuinely surrounded by water, the Gulf laps right up aga
 
 The museum is closed all day Monday, so don't plan around it. Tuesday through Thursday it runs 10am–6:30pm; Friday through Sunday it stays open later, until 8:30pm, which is worth using if you want to see the dome lit at dusk.
 
-Weekends get busy fast, with crowds building from the moment the doors open. If you want to miss the crowds, come after 7pm, or visit on a weekday after 5pm instead.
+Weekends get busy fast, with crowds building from the moment the doors open. If you want to miss the crowds, come after 7pm on a weekend, or visit on a weekday after 5pm instead.
 
 ## What to eat
 

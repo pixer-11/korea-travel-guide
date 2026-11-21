@@ -39,10 +39,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Five days of tour golf in late November
 
-The 2026 edition runs from Thursday 26 to Monday 30 November. The tournament is part of the DP World Tour. Its Australasian swing brings European-tour fields to Australian courses at the start of the southern summer.
+The 2026 edition runs across five days in late November. The tournament is part of the DP World Tour. Its Australasian swing brings European-tour fields to Australian courses at the start of the southern summer.
 
 The championship goes back to 1905, which makes it one of the country's oldest professional titles. Adam Scott won it on the Gold Coast in 2013, at RACV Royal Pines Resort in Benowa. That course hosted a long run of editions through the 2010s.
 

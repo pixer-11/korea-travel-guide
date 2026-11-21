@@ -75,7 +75,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## An island you reach under sail
 
 There's no bridge to this garden. The whole island is planted, and the only way on is across the water. The boat ride is part of the outing, not a chore before it.
@@ -139,7 +138,7 @@ Plenty of people treat the garden as a place to rest rather than a list of sight
 
 The garden sits among several of Aswan's best river sights, so one boat can link a few of them:
 
-- **Elephantine Island**, right next door, has Nubian villages and the ruins of ancient Abu
+- **Elephantine Island**, right next door, has Nubian villages and ancient ruins
 - **Tombs of the Nobles (Qubbet el-Hawa)** are cut into the west-bank cliff, with views back over the garden
 - **Aga Khan Mausoleum** stands on the west-bank hillside to the south
 - **Monastery of St Simeon** is reached by a walk or a camel ride up from the west bank

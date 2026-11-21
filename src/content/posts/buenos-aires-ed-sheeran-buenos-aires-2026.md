@@ -46,12 +46,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## One man, one loop pedal, one old palace
 
 The date is Tuesday, December 1, 2026. Ed Sheeran brings a stadium show to Estadio Huracán in Buenos Aires, and FINNEAS opens as the guest act. That is everything known about the night, and it's enough to plan around.
 
-If you have never seen Sheeran live, the format is the surprise. For most of his career he has played stadiums more or less alone, building songs layer by layer on a loop pedal: a guitar slap for the beat, a hummed harmony, then the chorus over the top. Seventy thousand people waiting on one man to stamp a pedal is a strange and very good kind of tension.
+If you have never seen Sheeran live, the format is the surprise. For most of his career he has played stadiums more or less alone, building songs layer by layer on a loop pedal: a guitar slap for the beat, a hummed harmony, then the chorus over the top. A stadium crowd waiting on one man to stamp a pedal is a strange and very good kind of tension.
 
 FINNEAS comes at it from the other side. He is best known as the producer and co-writer behind his sister Billie Eilish's records, and on his own he plays piano-led songs with a quieter, bedroom-studio feel. The pairing works because both are songwriters first.
 

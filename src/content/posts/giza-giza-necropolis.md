@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Where the city stops and the plateau starts
 
 Giza does not fade out gently. Apartment blocks, satellite dishes and traffic on Pyramids Road (Shari' al-Haram) run right up to a wall of tan limestone. Above that wall stand the oldest of the ancient Seven Wonders and the only one still standing.
@@ -109,7 +108,7 @@ The terrace gets crowded quickly, and most people take the same head-on photo. W
 
 Arriving early matters more here than almost anywhere in Cairo. The site currently opens at 8am every day and closes at 4pm. Hours at Egyptian antiquities sites shift through the year, so check the official site for this month's times.
 
-Crowd forecasts show the quietest time is 8am–9am on weekdays. At weekends the calm lasts a little longer, from 8am to 10am. Try not to arrive between 10am and 2pm at the weekend. That is when tour coaches fill the car parks and the Sphinx terrace gets packed.
+Crowd forecasts show the quietest time is 8am–9am on weekdays. At weekends the calm lasts a little longer, from 8am to 10am. Try to avoid arriving between 10am and 2pm at weekends. That is when tour coaches fill the car parks and the Sphinx terrace gets packed.
 
 Early mornings bring other advantages too:
 

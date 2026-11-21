@@ -44,7 +44,7 @@ draft: false
 ---
 ## Twenty years, one stadium night
 
-The tour title carries a number. "XX" is the Roman numeral for twenty, and BIGBANG debuted in 2006, two decades before this tour. The group was set to bring the 2026-2027 World Tour [XX : COSMOS] to Rajamangala National Stadium, Thailand's national stadium, on November 7, 2026.
+The tour title carries a number. "XX" is the Roman numeral for twenty, and BIGBANG debuted in 2006, two decades before this tour. The group was set to bring the World Tour [XX : COSMOS] to Rajamangala National Stadium, Thailand's national stadium, on November 7, 2026.
 
 This was a stadium show, not an arena date. Bangkok's K-pop crowds usually fill indoor halls like Impact Arena in Muang Thong Thani. Booking Rajamangala instead signalled how large BIGBANG's Thai following is. The fandom is called VIP, and those fans have sung "Fantastic Baby", "Bang Bang Bang" and "Haru Haru" for most of their adult lives.
 

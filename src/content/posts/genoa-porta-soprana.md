@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two towers, one surviving gate
 
 Porta Soprana is what's left of Genoa's 12th-century defensive walls: a pair of tall brick towers flanking a stone archway on Via di Porta Soprana. It was built around 1155, part of a ring of fortifications thrown up when the maritime republic needed to protect its landward flank. The current look, crenellations and all, comes from a 19th- and 20th-century restoration rather than untouched medieval stonework, so what you see is a careful reconstruction layered over genuine foundations.
@@ -84,7 +83,7 @@ None of these charge admission, and all three sit within a two-minute walk of ea
 
 ## When to come
 
-Porta Soprana has no gate hours because it's an open monument, not a ticketed one: you can walk through at 7am or midnight and find it unlocked and unstaffed. Weekend evenings between 5pm and 11pm are the busiest stretch, when the area fills with people heading to nearby bars and the Sant'Andrea steps become a informal hangout spot. If you want the towers to yourself for photos, aim for a weekday morning instead, before the aperitivo crowd arrives.
+Porta Soprana has no gate hours because it's an open monument, not a ticketed one: you can walk through at 7am or midnight and find it unlocked and unstaffed. Weekend evenings between 5pm and 11pm are the busiest stretch, when the area fills with people heading to nearby bars and the Sant'Andrea steps become an informal hangout spot. If you want the towers to yourself for photos, aim for a weekday morning instead, before the aperitivo crowd arrives.
 
 There's no ticket booth and no queue system: this is a public street monument, so you simply walk under the arch like any local commuter.
 

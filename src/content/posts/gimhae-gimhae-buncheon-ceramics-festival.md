@@ -38,7 +38,7 @@ draft: false
 ---
 Picture a tea bowl the colour of wet slate, brushed over with white slip so fast that you can still count the bristle marks. That bowl is buncheong. Gimhae has made this kind of pottery for centuries, and its November festival puts the city's working potters and their tables out in the open.
 
-The Korean name is 김해분청도자기축제 (Gimhae Buncheong Dojagi Chukje). The title says "Buncheon" and Korean signage says "Buncheong", but they mean the same festival.
+The Korean name is 김해분청도자기축제 (Gimhae Buncheong Dojagi Chukje). The English name is sometimes spelled "Buncheon" and sometimes "Buncheong" — both refer to the same festival.
 
 ## Grey clay, white slip: what buncheong means
 

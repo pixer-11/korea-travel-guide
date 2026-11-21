@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A course laid out around Khufu
 
 This course crosses ground that has held a building site for 4,500 years. The Giza Plateau is a raised shelf of limestone at the edge of the Western Desert. The stone for the Great Pyramid of Khufu was quarried from this same rock, and you run across it with the pyramid in view.
@@ -48,7 +47,7 @@ Few road races anywhere put this much ancient architecture beside the route. For
 
 ## Dates and distances for 2026
 
-The eighth edition runs over two days inside the Giza Pyramids complex:
+The race runs over two days inside the Giza Pyramids complex:
 
 - **Friday 11 December 2026:** the 5K
 - **Saturday 12 December 2026:** the 10K and the half marathon (21.1km)

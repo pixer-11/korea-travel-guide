@@ -36,10 +36,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A race that starts when the traffic stops
 
-Bengaluru's roads are usually jammed, which is what makes a night race here unusual. The Bengaluru Midnight Marathon is an annual night road race in Karnataka's capital, and the 2026 edition takes place in early December. Distances range from a 5K to the full 42.2km marathon.
+Bengaluru's roads are usually jammed, which is what makes a night race here unusual. The Bengaluru Midnight Marathon is an annual night road race in Karnataka's capital. Distances range from a 5K to the full 42.2km marathon.
 
 That range shapes the start area. People running their first 5K share the streets with marathoners chasing a time. Running at night means the course gets streets that are usually packed with cars and two-wheelers by day.
 
@@ -47,7 +46,7 @@ That range shapes the start area. People running their first 5K share the street
 
 The basics for this edition:
 
-- **When:** early December 2026, overnight
+- **When:** dates vary by edition, overnight
 - **Distances:** from 5K up to the full marathon
 - **Where it happens:** on Bengaluru's city roads, with the start venue and route set for each edition
 - **Registration and fees:** on the event's official registration page

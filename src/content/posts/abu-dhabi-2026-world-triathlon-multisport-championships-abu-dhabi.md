@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Ten days of racing on one island
 
 The championships take ten days, from November 13 to 22, 2026. For the first time, the World Triathlon Multisport Championships come to the Middle East. More than 4,000 athletes enter across six disciplines.
@@ -68,7 +67,7 @@ Visitors who want to stay close usually pick hotels in Al Bateen, along the Corn
 Seasoned triathlon spectators move around rather than staying in one spot. The transition area is where races are won and lost. The run course gives the longest look at each athlete, because most formats use repeated laps that pass the same stretch several times.
 
 - **Payment:** cards and phone wallets work almost everywhere in Abu Dhabi, including taxis. Tipping is not expected, but people often round up.
-- **Dress:** swimwear is normal on the beach. Elsewhere on the island, spectators usually cover their shoulders and knees.
+- **Dress:** swimwear is normal on the beach. Elsewhere on the island, modest dress covering shoulders and knees is generally expected.
 - **Hydration:** experienced fans carry refillable bottles and wear hats, because the course has little shade.
 - **Alcohol:** drinking is limited to licensed venues, never on the street or along the course.
 

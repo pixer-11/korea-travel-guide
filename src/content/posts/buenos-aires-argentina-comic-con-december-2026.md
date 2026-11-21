@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Three days on the Costanera
 
 Argentina Comic Con December 2026 runs from December 4 to 6. It is held at Centro Costa Salguero, a large exhibition complex on the Avenida Costanera Rafael Obligado, with the brown water of the Río de la Plata on one side and the planes of Aeroparque Jorge Newbery dropping in nearby.
@@ -77,7 +76,7 @@ Each day works best when you treat it as a long day out rather than a quick visi
 - **Tickets and wristbands.** Ticket types, single-day or multi-day passes, are sold through the convention's official channels, and that's where attendees buy them. Most fans keep their QR code ready on their phone at the entry gates.
 - **Paying.** Plenty of stands take cards, and Argentines widely use Mercado Pago and other QR transfers. Small artists often prefer cash in pesos or a transfer, so many buyers carry both.
 - **Artist commissions.** Illustrators usually take commissions on the first day and deliver them later in the weekend. Fans who want one typically stop by that stand first.
-- **Cosplay etiquette.** Ask before photographing someone ("¿Te puedo sacar una foto?") and step aside from walkways to pose. Touching costumes or props is off-limits.
+- **Cosplay etiquette.** Ask before photographing someone and step aside from walkways to pose. Touching costumes or props is off-limits.
 - **Queues.** Panels with popular guests and autograph lines fill up first. Fans who care about a specific talk often camp near that stage rather than wandering the floor.
 
 The Spanish basics help: *entrada* for ticket, *fila* for queue, *firma* for autograph.
@@ -86,4 +85,4 @@ The Spanish basics help: *entrada* for ticket, *fila* for queue, *firma* for aut
 
 Costa Salguero's location gives you options when your feet give out. The Palermo green belt of Parque Tres de Febrero, with its lakes and the Rosedal rose garden, lies just inland. The Jardín Japonés, one of the largest Japanese gardens outside Japan, is close by and suits a convention that is heavy on anime fans.
 
-The Costanera itself is lined with parrillas and food carts. A choripán by the river is the classic Buenos Aires way to end a day there. Evenings in summer start late in this city, and dinner in Palermo Soho or Palermo Hollywood rarely gets going before 9pm.
+The Costanera itself is lined with parrillas and food carts. A choripán by the river is the classic Buenos Aires way to end a day there. Evenings in summer start late in this city, and dinner in Palermo tends to start later than visitors from other countries might expect.

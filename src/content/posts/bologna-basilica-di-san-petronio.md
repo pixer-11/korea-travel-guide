@@ -117,7 +117,7 @@ Down the centre of the floor runs the Meridian Line, a long sundial once used to
 Open every day, 10am to 6pm, no exceptions by day of week. It's consistently one of Bologna's most-visited sights, so the nave fills fast on weekends.
 
 - Quietest: 2pm–3pm, both weekdays and weekends
-- Busiest: weekends, all day
+- Busiest: weekends, outside that 2pm–3pm window
 - Best plan: arrive right at 10am opening, or return in the 2pm lull
 
 Give the interior 30 minutes minimum; add 20–30 more if you're doing the terraces or a slow lap of the chapels.

@@ -115,7 +115,7 @@ If you're walking, the Kennet and Avon Canal towpath runs along the valley floor
 
 ## Making the most of a day at Claverton
 
-The museum keeps a season. It is not open all year, and its opening dates vary from year to year, with a separate programme around Christmas. Currently it opens 10am–5pm, but the official website has this month's dates. Check it before you plan a trip around a visit.
+The museum keeps a season rather than opening all year, and its opening dates vary from year to year, with a separate programme around Christmas. Currently it opens 10am–5pm, but the official website has this month's dates. Check it before you plan a trip around a visit.
 
 A few things make the day go better:
 

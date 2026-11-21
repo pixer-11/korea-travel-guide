@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Two houses, one wall
 
 You get in through a plain door in the stone flank of the Mosque of Ibn Tulun. Behind it are two merchant houses joined by a bridge at upper-floor level. The older one dates from 1540. The second is the 17th-century Bayt al-Kritliyya, the "House of the Cretan Woman", and it gives the museum its other name.
@@ -89,4 +88,4 @@ Buy your ticket at the window by the entrance. The current price is posted there
 
 Custodians often guide you through rooms you might miss. They unlock a door, point out the view through a mashrabiya, then expect a small tip. Carry low-denomination Egyptian pound notes, because change is scarce. If you'd rather explore on your own, a polite "la, shukran" (no, thank you) is fine.
 
-Plan the day in order: Ibn Tulun first, then this museum, then the mosques at Salah al-Din. Morning light is softest on the mosque courtyard and the stone is cooler underfoot. Dress for a mosque visit, with shoulders and knees covered and a scarf for women, so you don't need to change between stops. Remember the 5pm close here applies to this week only.
+Plan the day in order: Ibn Tulun first, then this museum, then the mosques at Salah al-Din. Morning light is softest on the mosque courtyard and the stone is cooler underfoot. Dress for a mosque visit, with shoulders and knees covered and a scarf for women, so you don't need to change between stops. Check the posted closing time before you set out, as hours can vary.

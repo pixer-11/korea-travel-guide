@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A trio from Toronto, a roof in Villa Crespo
 
 Rush play Movistar Arena in Buenos Aires on January 15, 2027. It's an indoor show in the middle of an Argentine summer. Inside, the arena is a closed bowl. Seating rises steeply on every side of the floor, so even the upper rows look down onto the stage rather than across a field.
@@ -60,7 +59,7 @@ Their best-known songs make it easy to see why South American audiences took to 
 - **"Tom Sawyer"**, the radio staple from *Moving Pictures*
 - **"YYZ"**, an instrumental named after Toronto airport's code
 - **"The Spirit of Radio"** and **"Limelight"**, both crowd sing-alongs
-- **"2112"**, the side-long suite that made their name in 1976
+- **"2112"**, the side-long suite released in 1976
 
 The set for this date isn't part of what we know, so treat this list as the band's history, not a setlist.
 

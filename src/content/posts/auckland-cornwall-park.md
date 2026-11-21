@@ -114,7 +114,7 @@ Remember that the animals are livestock, not a petting zoo. Visitors here tend t
 
 ## Beating the crowds on One Tree Hill
 
-Timing makes a big difference here. On weekdays it is quietest between 7am and 9am, and again from 6pm to 8pm. At weekends those calm windows shrink further, so mornings and evenings get busy sooner.
+Timing makes a big difference here. On weekdays it is quietest between 7am and 9am, and again from 6pm to 8pm. At weekends the park tends to fill up earlier in the day, so those same quiet windows are harder to count on.
 
 Try not to arrive on a Saturday or Sunday between 8am and 5pm. That is when parking bays fill, the summit gets crowded and the café queue grows. An early weekday start gets you the cone with mostly runners and sheep for company.
 

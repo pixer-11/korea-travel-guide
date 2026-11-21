@@ -107,7 +107,7 @@ The stone steps get wet and slick near the water, especially after rain, so watc
 
 The temple opens early (4am to 8pm, every day of the week), so you have far more flexibility than the crowds suggest.
 
-Weekends turn busy between 9am and 6pm, with tour buses arriving in waves. If you can, aim for a weekday, or arrive right at opening.
+Weekends turn busy around midday, with tour buses arriving in waves. If you can, aim for a weekday, or arrive right at opening.
 
 The quietest window, weekday or weekend, is early morning before 9am or evening after 6pm, outside that weekend midday surge, early morning light on the water is also simply the best time for photos, before the haze sets in.
 

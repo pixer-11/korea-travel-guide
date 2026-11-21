@@ -53,7 +53,7 @@ The ground slopes gently toward the stage, so even the back rows get a view. Abo
 
 The format has hardly changed in years. It is a long concert of Christmas songs and popular hits, built for families. Previous editions have finished with fireworks over the Domain. The organiser publishes the lineup, running order and site map on its official site. This guide doesn't list performers or set times.
 
-The show has always been made for television as well as for the lawn, so expect big staging and screens. That suits a crowd of this size. Anyone halfway up the slope watches the screens as much as the stage, and it still feels like a shared event.
+The show has always been made for television as well as for the lawn, so expect big staging and screens. That suits a large crowd. Anyone halfway up the slope watches the screens as much as the stage, and it still feels like a shared event.
 
 ## Tickets, entry and what to carry
 

@@ -65,7 +65,7 @@ The cathedral is a few steps away, and the nave is free to enter outside service
 
 Glühwein comes in a ceramic mug, and you pay a deposit (*Pfand*) on top of the drink. Return the mug to get the deposit back, as is standard practice at German Christmas markets. Or you can keep the mug: each market prints its own design, and many people take one home as a souvenir.
 
-Cash still moves fastest at the smaller huts, although plenty of stalls take cards. Order in German if you like: *"Einen Glühwein, bitte."*
+Cash still moves fastest at the smaller huts, although plenty of stalls take cards. Order in German if you like: *Ein Glühwein, bitte.*
 
 The location makes it one of Cologne's busiest markets. The main station empties straight onto the cathedral plaza, so weekend evenings and the Saturdays before Christmas are the most crowded. Weekday afternoons are usually easier, and the lanes thin out again late in the evening. Pickpockets work crowded markets like this one, so locals keep bags zipped and closed in front of them.
 

@@ -44,11 +44,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two were billed together on one stage for a night built around singing along.
+Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two share one stage for a night built around singing along.
 
 ## What to expect from the show
 
-Both artists built their careers on emotional Arabic pop, the kind where a slow verse builds into a chorus the whole room shouts back. The bill paired Hosny's upbeat, danceable hits with Ashour's more introspective ballads.
+Both artists built their careers on emotional Arabic pop, the kind where a slow verse builds into a chorus the whole room shouts back. The bill pairs Hosny's upbeat, danceable hits with Ashour's more introspective ballads.
 
 Concerts like this rarely come with a setlist in advance. Prices, seating charts and start times typically vary by platform and section.
 
@@ -64,7 +64,7 @@ Etihad Arena sits on Yas Island, part of the same waterfront cluster as Yas Mall
 
 Concerts at Etihad Arena typically sell through the venue's own site and major regional ticketing platforms. Seating is usually split into floor standing, lower tier and upper tier categories. For pairings like this one, the floor and lower-tier sections closest to the stage tend to sell fastest, given the crossover between Hosny's and Ashour's audiences.
 
-- Tickets for this show were sold through the official Etihad Arena site and authorised ticketing partners.
+- Tickets for shows like this are typically sold through the official Etihad Arena site and authorised ticketing partners.
 - Sightlines from the upper levels are solid in this venue, just farther from the stage.
 - Entry is by digital or printed ticket, and arena box offices can have long queues on show night.
 
@@ -82,6 +82,6 @@ Roads and parking around Yas Island get busy in the hour before a big concert, a
 
 ## Practical notes
 
-The venue and organisers set details like exact doors time, support acts, specific seating maps and any age or entry restrictions. These are not usually fixed far in advance. Ticket categories for this show were sold through the Etihad Arena site and the authorised ticketing platform.
+The venue and organisers set details like exact doors time, support acts, specific seating maps and any age or entry restrictions. These are not usually fixed far in advance. Seating categories are typically sold through the Etihad Arena site and other authorised ticketing platforms.
 
 Hotels on or near Yas Island sit within easy reach of the arena, which cuts down on concert-night travel. Ticket confirmations on a phone are standard for entry at arena shows.

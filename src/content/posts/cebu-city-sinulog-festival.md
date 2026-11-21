@@ -63,7 +63,7 @@ The Sunday is the longest day by far. Contingents dance the parade route for hou
 
 ## Venue, tickets and getting in
 
-Downtown is the festival's anchor. The basilica sits next to Magellan's Cross, a short walk from Colon Street and Plaza Independencia. The parade route links that core with the competition venue, and the exact venue has varied between editions.
+Downtown is the festival's anchor. The basilica sits next to Magellan's Cross, a short walk from Colon Street and Plaza Independencia. The parade route links that core with the competition venue, which changes from year to year.
 
 Standing along the parade route costs nothing. Grandstand seats at the competition venue are ticketed through the Sinulog Foundation, the event's organiser, which also sets the route and venue each year.
 

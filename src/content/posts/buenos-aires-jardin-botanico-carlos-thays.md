@@ -99,12 +99,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-27'
 ---
-
 ## Seven hectares wedged into Plaza Italia
 
 Traffic surrounds this garden on all sides. The grounds form a triangle between Avenida Santa Fe, Avenida Las Heras and Calle República Árabe Siria. Buses and taxis circle Plaza Italia just past the railings. Once you're through the gate, gravel paths and tall canopy replace all of that within a few steps.
 
-French-born landscape architect Carlos Thays laid the garden out and opened it in 1898, and it still carries his name. It covers 7 hectares, so you can see it in an unhurried morning. It's also one of the most-reviewed green spaces in the city, so you won't have it to yourself.
+French-born landscape architect Carlos Thays laid the garden out and opened it in 1898, and it still carries his name. It covers 7 hectares, small enough to see in an unhurried morning. It's also one of the most-reviewed green spaces in the city, so you won't have it to yourself.
 
 ## What you walk through
 

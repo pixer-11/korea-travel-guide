@@ -55,7 +55,7 @@ The bridge is a long, exposed out-and-back with gentle rises over the shipping c
 
 ## Getting to Bukit Mertajam
 
-Bukit Mertajam sits inland in Seberang Perai Tengah, on the mainland side of the Penang Strait. Here is how out-of-town runners usually get there:
+Bukit Mertajam sits inland in Seberang Perai Tengah, on the mainland side of the Penang Strait. Options for getting there include:
 
 - **By rail:** Bukit Mertajam station is on the KTM network and is served by ETS intercity trains and KTM Komuter.
 - **By air:** Penang International Airport is at Bayan Lepas on the island. From there you cross one of the two bridges by road.

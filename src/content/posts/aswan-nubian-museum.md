@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A building that looks like it grew out of the rock
 
 The museum keeps a low profile on purpose. Its sandstone and granite walls step down the slope in the colours of the Aswan cliffs. The style draws on Nubian village building, so from the street you see terraces and blocky volumes, with no grand column front.
@@ -108,7 +107,7 @@ Two hours covers the galleries and the garden at an easy pace. History readers c
 
 ## Doing the museum the Aswan way
 
-The museum sits up the hill from the Corniche, on the stretch near the Old Cataract Hotel. From the riverfront it's a walkable but steep climb. In the heat most people take a taxi or a ride-hailing car and walk back down afterwards. Ask the driver for "el-Matḥaf en-Nūbī".
+The museum sits up the hill from the Corniche, on the stretch near the Old Cataract Hotel. From the riverfront it's a walkable but steep climb. In the heat most people take a taxi or a ride-hailing car and walk back down afterwards. Ask the driver for 'el-Matḥaf en-Nūbī'.
 
 - **Tickets**: buy them at the window by the entrance. The current price is posted there and on the official antiquities site. Ticket offices at Egyptian sites have been moving toward card payment, so carry a card as well as some cash.
 - **Photography**: rules for phones and cameras can change, so ask at the ticket desk rather than assume.

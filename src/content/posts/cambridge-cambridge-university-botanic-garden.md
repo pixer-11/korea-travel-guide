@@ -108,7 +108,7 @@ The Systematic Beds are the part of the garden that belongs to Cambridge alone. 
 
 It sounds dry, but in summer it is one of the most colourful parts of the garden. It also gets you comparing things you would never put side by side: a poppy relative next to a cabbage relative, say. Students still use the beds for teaching.
 
-Look out too for the tree grown from Isaac Newton's famous apple tree, near the Brookside side of the garden. In July 2019 the garden's weather station recorded 38.7°C. For a while that stood as the highest temperature ever measured in the UK.
+Look out too for the tree grown from Isaac Newton's famous apple tree, near the Brookside side of the garden.
 
 ## A garden built for the grey months
 

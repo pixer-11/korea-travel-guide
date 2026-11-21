@@ -36,7 +36,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Three days of Khmer arts on the Sangker
 
 The Chumnor Arts Festival runs from December 15 to 17, 2026. It is an annual community and arts festival in Battambang, and its focus is Khmer culture. It's three days long, in a provincial city that already takes its art seriously.
@@ -65,7 +64,7 @@ Festival visitors usually stay in the old town between the river and Psar Nat. G
 
 ## Moving around between performances
 
-Battambang runs on two currencies. Here is how a festival day usually works:
+Battambang runs on two currencies. A few practical points are worth knowing before heading out to the festival:
 
 - **Paying:** US dollars and Cambodian riel circulate together. Change below a dollar comes back in riel, and street stalls deal mostly in cash.
 - **Tuk-tuks:** riders agree the fare before setting off. Many drivers wait outside guesthouses and will do a half-day loop.

@@ -43,11 +43,11 @@ heroImage:
     top: 2
     bottom: 28
 ---
-Amr Diab does not need much of an introduction across the Arab world, and Dubai has long been one of his most reliable stops outside Cairo. On November 7, 2026, he was set to bring a full-scale production to Coca-Cola Arena, mixing the newer singles that keep him on regional radio with the decades-old tracks that made him a household name from the Gulf to the Maghreb.
+Amr Diab does not need much of an introduction across the Arab world, and Dubai has long been one of his most reliable stops outside Cairo. On November 7, 2026, he brings a full-scale production to Coca-Cola Arena, mixing the newer singles that keep him on regional radio with the decades-old tracks that made him a household name from the Gulf to the Maghreb.
 
 ## What kind of show to expect
 
-The show was billed as a stadium-grade pop concert, not an intimate acoustic set. Diab tours with a live band, backing vocalists, choreographed lighting and a setlist built to move between eras, with stretches of newer uptempo material bridged by the ballads and dance tracks that have carried his career since the 1990s.
+The show is billed as a stadium-grade pop concert, not an intimate acoustic set. Diab tours with a live band, backing vocalists, choreographed lighting and a setlist built to move between eras, with stretches of newer uptempo material bridged by the ballads and dance tracks that have carried his career since the 1990s.
 
 Shows built for an artist at his level in this venue typically last around two hours, sometimes longer with an opening act or extended encore. Arabic pop audiences in Dubai tend to sing along loudly and constantly, so seats further from the floor suit anyone after a quieter view.
 

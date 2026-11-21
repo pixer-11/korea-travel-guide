@@ -100,7 +100,7 @@ updatedDate: '2026-10-22'
 
 From Hereford Street you see the whole idea at once. A tall A-frame of giant cardboard tubes leans together under a translucent roof, and a triangular wall of coloured glass fills the front. Nothing is hidden. The structure is the building.
 
-Japanese architect Shigeru Ban designed it after the February 2011 earthquake damaged ChristChurch Cathedral in Cathedral Square. It opened in 2013 as a transitional cathedral for the Anglican diocese. "Interim" was always the plan, and the city's main cathedral is still being reinstated.
+Japanese architect Shigeru Ban designed it after the February 2011 earthquake damaged Christchurch Cathedral in Cathedral Square. It opened in 2013 as a transitional cathedral for the Anglican diocese. "Interim" was always the plan, and the city's main cathedral is still being reinstated.
 
 ## Inside the tubes
 
@@ -145,7 +145,7 @@ The Bus Interchange on Lichfield Street is about a fifteen-minute walk. Most cen
 The cathedral pairs naturally with other sites from the rebuild. Together they take a half day at a steady pace.
 
 - **Latimer Square**: the open green right beside you, used as an emergency staging area in 2011.
-- **ChristChurch Cathedral, Cathedral Square**: the original Gothic Revival building, still under restoration.
+- **Christchurch Cathedral, Cathedral Square**: the original Gothic Revival building, still under restoration.
 - **Canterbury Earthquake National Memorial**: a long marble wall of names along the Ōtākaro Avon River, beside Oxford Terrace.
 - **Quake City**: Canterbury Museum's earthquake exhibition, with recovered objects and survivor stories.
 

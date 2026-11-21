@@ -101,7 +101,7 @@ updatedDate: '2026-09-02'
 
 Porto Antico is where Genoa turned its back on centuries of gritty shipping industry and faced the sea again. Renzo Piano, the architect behind the Pompidou Centre, redesigned this harbor for the 1992 Columbus anniversary, and the result still feels current: glass, steel, and water working together instead of fighting each other.
 
-You come here for the Acquario di Genova, the biggest aquarium in Italy and one of the largest in Europe. But the real pleasure is slower than that, walking the boardwalk at dusk, watching the Bigo's rotating panoramic lift catch the last light, hearing halyards clink against masts in the marina.
+You come here for the Acquario di Genova, one of the largest aquariums in Europe. But the real pleasure is slower than that, walking the boardwalk at dusk, watching the Bigo's rotating panoramic lift catch the last light, hearing halyards clink against masts in the marina.
 
 ## Getting there
 

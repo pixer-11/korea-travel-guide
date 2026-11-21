@@ -99,7 +99,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-11-06'
 ---
-
 ## Four storeys of rust-red stone
 
 One wall of a tower stands against the sky. It rises in four tiers of laterite, the porous red-brown stone that went into almost everything the Portuguese built in Old Goa. At 46 metres it is still the tallest thing on Holy Hill, and it is all that is left above head height of the Church of St. Augustine.
@@ -112,7 +111,7 @@ The Augustinian friars finished the complex in 1602. It was one of the largest c
 
 The vault fell in 1842. The facade and much of the tower came down in the 1930s, leaving the single tier-stacked shell you see now. The great bell went to the Church of Our Lady of the Immaculate Conception in Panaji, where it still hangs above the whitewashed steps.
 
-The ruins are part of the UNESCO World Heritage listing for the Churches and Convents of Goa. Archaeologists excavating here also identified remains linked to St. Ketevan, a Georgian queen martyred in Persia. That is why some visitors come from Georgia specifically.
+The ruins are part of the UNESCO World Heritage listing for the Churches and Convents of Goa. Archaeologists excavating here also identified remains linked to St. Ketevan, a Georgian queen martyred in Persia. That connection draws some interest from Georgian visitors.
 
 ## Getting up Holy Hill
 

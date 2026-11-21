@@ -47,7 +47,7 @@ Champions is one of the top tiers of the World Table Tennis circuit, below the G
 
 ## Sessions, tables and tickets
 
-World Table Tennis organises the event, and its official site is worldtabletennis.com. The announced details for this edition did not name the arena.
+World Table Tennis organises the event, and its official site is worldtabletennis.com. The specific arena for this edition was not named in the available details.
 
 WTT events usually follow the same pattern across the week:
 

@@ -1,4 +1,19 @@
 {
+ "abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi": {
+  "steps": [
+   {
+    "from": "ae38957f5212",
+    "to": "03177ab28630",
+    "at": "2026-11-21T18:45:24.679Z",
+    "removed": [
+     "- **Payment:** cards and phone wallets work almost everywhere in Abu Dhabi, including taxis. Tipping is not expected, but people often round up.\n- **Dress:** swimwear is normal on the beach. Elsewhere on the island, spectators usually cover their shoulders and knees.\n- **Hydration:** experienced fans carry refillable bottles and wear hats, because the course has little shade.\n- **Alcohol:** drinking is limited to licensed venues, never on the street or along the course."
+    ],
+    "added": [
+     "- **Payment:** cards and phone wallets work almost everywhere in Abu Dhabi, including taxis. Tipping is not expected, but people often round up.\n- **Dress:** swimwear is normal on the beach. Elsewhere on the island, modest dress covering shoulders and knees is generally expected.\n- **Hydration:** experienced fans carry refillable bottles and wear hats, because the course has little shade.\n- **Alcohol:** drinking is limited to licensed venues, never on the street or along the course."
+    ]
+   }
+  ]
+ },
  "abu-dhabi-andrea-bocelli-yasalam-classics": {
   "steps": [
    {
@@ -73,6 +88,21 @@
    }
   ]
  },
+ "abu-dhabi-diljit-dosanjh-new-year-s-eve-concert": {
+  "steps": [
+   {
+    "from": "b351c27a9f9c",
+    "to": "36cd022ebb2e",
+    "at": "2026-11-21T18:45:24.680Z",
+    "removed": [
+     "Resale listings outside the official chain carry the usual risk of duplicate or invalid barcodes. That risk is higher on a holiday night that sells this strongly. Tickets are typically scanned on a phone at the gate, so attendees keep the ticket app or email ready."
+    ],
+    "added": [
+     "Resale listings outside the official chain carry the usual risk of duplicate or invalid barcodes. That risk is higher on a holiday night that sells this strongly. Attendees should keep their ticket confirmation ready in whatever form the official channel issues it, so entry at the gate goes smoothly."
+    ]
+   }
+  ]
+ },
  "abu-dhabi-hans-zimmer-live-abu-dhabi-festival": {
   "steps": [
    {
@@ -120,6 +150,21 @@
      "Zimmer is the composer behind *The Lion King*, *Gladiator*, *Inception*, *Interstellar* and the *Dune* films. His earlier Live tours put a band, an orchestra and soloists on stage together, with the big themes stretched out well past their screen length. The festival announced no programme for this night; the billing was a Zimmer show rather than a particular track list.",
      "Most people come by taxi or ride-hailing; Careem and Uber both cover the island. Drivers also use the parking at Yas Bay. When a full arena empties, the queues for cars build fast, so many people stay on the waterfront for a drink or a late meal and leave after the rush.",
      "- **Paying:** cards and phone payments are standard everywhere on Yas Bay, from restaurants to taxis.\n- **Dress:** smart-casual is the norm. The UAE expects shoulders and knees to be covered in public places, and arena air-conditioning runs cold, so many people carry a layer.\n- **Tipping:** around 10% in restaurants is common when service isn't already on the bill. Rounding up the taxi fare is appreciated.\n- **Bags and security:** there is airport-style screening at the arena doors. Fans with small bags get through fastest.\n- **Staying over:** visitors from Dubai or the city centre often book a Yas Island hotel and skip the late drive home."
+    ]
+   }
+  ]
+ },
+ "abu-dhabi-isabel-mayfair": {
+  "steps": [
+   {
+    "from": "0d0fa75d50c0",
+    "to": "66a6821964b7",
+    "at": "2026-11-21T18:45:24.681Z",
+    "removed": [
+     "Abu Dhabi's dining scene has spent the last few years importing global names, but this one arrives with real pedigree. Isabel Mayfair, the glamorous London original, opened its first international outpost at The Galleria on Al Maryah Island in April 2026."
+    ],
+    "added": [
+     "Abu Dhabi's dining scene has spent the last few years importing global names, but this one arrives with real pedigree. Isabel Mayfair, the glamorous London original, has opened its first international outpost in Abu Dhabi."
     ]
    }
   ]
@@ -339,6 +384,17 @@
      "Weekends get busy fast, with crowds building from the moment the doors open. If you want to miss the crowds, come after 7pm, or visit on a weekday after 5pm instead.",
      "Louvre Abu Dhabi is one of the most-visited attractions in the UAE, so treat it like a busy museum, not a quiet find. The way to beat the crowds is timing: go after 7pm on a weekend, or after 5pm on a weekday, rather than in the busy hours that start at the 10am opening."
     ]
+   },
+   {
+    "from": "233a778d345b",
+    "to": "5f7905b1e7c7",
+    "at": "2026-11-21T18:45:24.682Z",
+    "removed": [
+     "Weekends get busy fast, with crowds building from the moment the doors open. If you want to miss the crowds, come after 7pm, or visit on a weekday after 5pm instead."
+    ],
+    "added": [
+     "Weekends get busy fast, with crowds building from the moment the doors open. If you want to miss the crowds, come after 7pm on a weekend, or visit on a weekday after 5pm instead."
+    ]
    }
   ]
  },
@@ -365,14 +421,14 @@
   "steps": [
    {
     "from": "b4a7beebf4e3",
-    "to": "30d8782bfab0",
-    "at": "2026-11-14T18:43:29.570Z",
+    "to": "0374865c7dc6",
+    "at": "2026-11-21T18:45:24.684Z",
     "removed": [
      "Hall assignments and daily opening hours were set by the organizers for the weekend.",
      "Seasoned attendees pace themselves across all three days rather than chasing every panel on day one. The biggest mistake first-timers make is a single marathon day, which misses the quieter pockets, like weekday mornings, when panels and photo ops feel far less rushed."
     ],
     "added": [
-     "As with past editions, specific hall assignments and daily opening hours are typically published by organizers closer to the event.",
+     "Specific hall assignments and daily opening hours are typically published closer to the event.",
      "Seasoned attendees pace themselves across all three days rather than chasing every panel on day one. The biggest mistake first-timers make is a single marathon day, which misses the quieter pockets, like early mornings, when panels and photo ops feel far less rushed."
     ]
    }
@@ -469,6 +525,23 @@
     "added": [
      "Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two were billed together on one stage for a night built around singing along."
     ]
+   },
+   {
+    "from": "039edfe58946",
+    "to": "ae641b51b786",
+    "at": "2026-11-21T18:45:24.685Z",
+    "removed": [
+     "Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two were billed together on one stage for a night built around singing along.",
+     "Both artists built their careers on emotional Arabic pop, the kind where a slow verse builds into a chorus the whole room shouts back. The bill paired Hosny's upbeat, danceable hits with Ashour's more introspective ballads.",
+     "- Tickets for this show were sold through the official Etihad Arena site and authorised ticketing partners.\n- Sightlines from the upper levels are solid in this venue, just farther from the stage.\n- Entry is by digital or printed ticket, and arena box offices can have long queues on show night.",
+     "The venue and organisers set details like exact doors time, support acts, specific seating maps and any age or entry restrictions. These are not usually fixed far in advance. Ticket categories for this show were sold through the Etihad Arena site and the authorised ticketing platform."
+    ],
+    "added": [
+     "Etihad Arena has hosted plenty of Arabic-language megastars since it opened. A joint bill of Tamer Hosny and Tamer Ashour is the kind of pairing that draws people who know every lyric before the first note lands. Hosny brings the pop-star wattage and decades of chart-topping singles. Ashour is the newer generation's favourite for aching, piano-led ballads. The two share one stage for a night built around singing along.",
+     "Both artists built their careers on emotional Arabic pop, the kind where a slow verse builds into a chorus the whole room shouts back. The bill pairs Hosny's upbeat, danceable hits with Ashour's more introspective ballads.",
+     "- Tickets for shows like this are typically sold through the official Etihad Arena site and authorised ticketing partners.\n- Sightlines from the upper levels are solid in this venue, just farther from the stage.\n- Entry is by digital or printed ticket, and arena box offices can have long queues on show night.",
+     "The venue and organisers set details like exact doors time, support acts, specific seating maps and any age or entry restrictions. These are not usually fixed far in advance. Seating categories are typically sold through the Etihad Arena site and other authorised ticketing platforms."
+    ]
    }
   ]
  },
@@ -561,6 +634,17 @@
     ],
     "added": [
      "Akbar built the palace within Agra Fort in the late 16th century. It is the largest residence in Agra Fort. Its name comes from Akbar's son and heir."
+    ]
+   },
+   {
+    "from": "1001dc738401",
+    "to": "1bb2156d83b3",
+    "at": "2026-11-21T18:45:24.686Z",
+    "removed": [
+     "Akbar built the palace within Agra Fort in the late 16th century. It is the largest residence in Agra Fort. Its name comes from Akbar's son and heir."
+    ],
+    "added": [
+     "Akbar built the palace within Agra Fort during his reign. It is the largest residence in Agra Fort. Its name comes from Jahangir, Akbar's son and heir."
     ]
    }
   ]
@@ -949,6 +1033,51 @@
    }
   ]
  },
+ "aswan-aswan-botanical-garden": {
+  "steps": [
+   {
+    "from": "8a1496eb8610",
+    "to": "5d34c4fd0be0",
+    "at": "2026-11-21T18:45:24.688Z",
+    "removed": [
+     "- **Elephantine Island**, right next door, has Nubian villages and the ruins of ancient Abu\n- **Tombs of the Nobles (Qubbet el-Hawa)** are cut into the west-bank cliff, with views back over the garden\n- **Aga Khan Mausoleum** stands on the west-bank hillside to the south\n- **Monastery of St Simeon** is reached by a walk or a camel ride up from the west bank\n- **Nubian Museum**, back on the east bank, covers the people of this stretch of the Nile"
+    ],
+    "added": [
+     "- **Elephantine Island**, right next door, has Nubian villages and ancient ruins\n- **Tombs of the Nobles (Qubbet el-Hawa)** are cut into the west-bank cliff, with views back over the garden\n- **Aga Khan Mausoleum** stands on the west-bank hillside to the south\n- **Monastery of St Simeon** is reached by a walk or a camel ride up from the west bank\n- **Nubian Museum**, back on the east bank, covers the people of this stretch of the Nile"
+    ]
+   }
+  ]
+ },
+ "aswan-nubian-museum": {
+  "steps": [
+   {
+    "from": "af77e3c8038d",
+    "to": "4d2c98a03bd8",
+    "at": "2026-11-21T18:45:24.689Z",
+    "removed": [
+     "The museum sits up the hill from the Corniche, on the stretch near the Old Cataract Hotel. From the riverfront it's a walkable but steep climb. In the heat most people take a taxi or a ride-hailing car and walk back down afterwards. Ask the driver for \"el-Matḥaf en-Nūbī\"."
+    ],
+    "added": [
+     "The museum sits up the hill from the Corniche, on the stretch near the Old Cataract Hotel. From the riverfront it's a walkable but steep climb. In the heat most people take a taxi or a ride-hailing car and walk back down afterwards. Ask the driver for 'el-Matḥaf en-Nūbī'."
+    ]
+   }
+  ]
+ },
+ "aswan-philae-temple": {
+  "steps": [
+   {
+    "from": "f27bec8bfeb1",
+    "to": "fe5a11b21ec2",
+    "at": "2026-11-21T18:45:24.690Z",
+    "removed": [
+     "The temple currently opens 6am–5pm every day this week. Hours can change with the season, so check the official Egyptian antiquities site before you go. On weekends it is usually quietest between 7am and 9am, and again from 1pm to 5pm. Late-morning arrivals tend to land at the same time as the tour groups."
+    ],
+    "added": [
+     "The temple currently opens 6am–5pm every day this week. Hours can change with the season, so check the official Egyptian antiquities site before you go. Mornings tend to be quietest, before the tour groups arrive. Late-morning arrivals tend to land at the same time as the tour groups."
+    ]
+   }
+  ]
+ },
  "auckland-asb-auckland-marathon": {
   "steps": [
    {
@@ -1092,6 +1221,17 @@
     "added": [
      "Mid-December evenings in Auckland stay light well into the night. So most of the evening happens in daylight, and the lights and fireworks arrive at the very end."
     ]
+   },
+   {
+    "from": "8dc2afd472d6",
+    "to": "9b0d0d2838ea",
+    "at": "2026-11-21T18:45:24.691Z",
+    "removed": [
+     "The show has always been made for television as well as for the lawn, so expect big staging and screens. That suits a crowd of this size. Anyone halfway up the slope watches the screens as much as the stage, and it still feels like a shared event."
+    ],
+    "added": [
+     "The show has always been made for television as well as for the lawn, so expect big staging and screens. That suits a large crowd. Anyone halfway up the slope watches the screens as much as the stage, and it still feels like a shared event."
+    ]
    }
   ]
  },
@@ -1108,6 +1248,17 @@
     "added": [
      "Most visits are a loop. The highlights to build it around:",
      "Timing makes a big difference here. On weekdays it is quietest between 7am and 9am, and again from 6pm to 8pm. At weekends those calm windows shrink further, so mornings and evenings get busy sooner."
+    ]
+   },
+   {
+    "from": "320b3af78490",
+    "to": "c51bdf52b205",
+    "at": "2026-11-21T18:45:24.692Z",
+    "removed": [
+     "Timing makes a big difference here. On weekdays it is quietest between 7am and 9am, and again from 6pm to 8pm. At weekends those calm windows shrink further, so mornings and evenings get busy sooner."
+    ],
+    "added": [
+     "Timing makes a big difference here. On weekdays it is quietest between 7am and 9am, and again from 6pm to 8pm. At weekends the park tends to fill up earlier in the day, so those same quiet windows are harder to count on."
     ]
    }
   ]
@@ -1693,6 +1844,19 @@
     "added": [
      "808 Festival has been Bangkok's reference point for electronic dance music since it first launched, with 2026 marking its 13th edition. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar."
     ]
+   },
+   {
+    "from": "9c297e3975f8",
+    "to": "ab8c46882ec4",
+    "at": "2026-11-21T18:45:24.693Z",
+    "removed": [
+     "808 Festival has been Bangkok's reference point for electronic dance music since it first launched, with 2026 marking its 13th edition. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar.",
+     "- Taxis and ride-hailing apps (Grab) work fine but get squeezed in event-exit traffic, which stretches the ride home after a late set.\n- BITEC has on-site parking, and the queue into the lot builds as doors approach.\n- The BTS runs until around midnight, so a set that overruns can finish after the last train, leaving a taxi or Grab as the way back."
+    ],
+    "added": [
+     "808 Festival has been Bangkok's reference point for electronic dance music since it first launched. Two nights, one venue, and a lineup built around headliners NGHTMRE and SLANDER, both mainstays of the North American bass and dubstep circuit who've become regular draws on Southeast Asia's festival calendar.",
+     "- Taxis and ride-hailing apps (Grab) work fine but get squeezed in event-exit traffic, which stretches the ride home after a late set.\n- BITEC has on-site parking, and the queue into the lot builds as doors approach.\n- The BTS stops running at a set time each night, so a set that overruns can finish after the last train, leaving a taxi or Grab as the way back."
+    ]
    }
   ]
  },
@@ -1887,6 +2051,17 @@
      "Tired legs pair well with slow sightseeing. A Chao Phraya Express Boat ride along the river takes in Wat Arun and the riverside temples without much walking. Lumphini Park in the centre has flat, shaded paths, and Bangkok's own runners use it daily. It suits a gentle shakeout loop the day after.",
      "A traditional Thai massage is the other ritual many runners go for on recovery day. Massage shops are everywhere in the tourist districts. Telling the therapist about the race, and pointing to the sore spots, gets a gentler session that is better for tired muscles."
     ]
+   },
+   {
+    "from": "04c6a3858455",
+    "to": "79afd5ac281d",
+    "at": "2026-11-21T18:45:24.693Z",
+    "removed": [
+     "The Bangkok Marathon 2026 was set for November 8, 2026, on a course through the city centre. It offered four categories, for nervous first-timers and seasoned marathoners alike:"
+    ],
+    "added": [
+     "The Bangkok Marathon 2026 takes place in November 2026, on a course through the city centre. It offered four categories, for nervous first-timers and seasoned marathoners alike:"
+    ]
    }
   ]
  },
@@ -1953,6 +2128,17 @@
      "Seating was sold by zone, from standing areas on the pitch to numbered seats in the stands. Zone names and stage shape vary from tour to tour. The seating plan for this show set out exactly where each zone sat.",
      "Most out-of-town fans stay somewhere with an easy rail connection rather than beside the stadium. The Airport Rail Link corridor works well: Makkasan connects to MRT Phetchaburi, and Phaya Thai connects to the BTS Sukhumvit Line. Both offer a straight line back towards Ramkhamhaeng after a show.",
      "Around the stadium, the streets by Ramkhamhaeng University are lined with cheap student eateries and night stalls. Concertgoers usually fill up there beforehand. Concert nights also bring food carts along the approach roads. Most fans take a refillable water bottle into the evening heat."
+    ]
+   },
+   {
+    "from": "b68322805a1c",
+    "to": "1ba3d81237f6",
+    "at": "2026-11-21T18:45:24.694Z",
+    "removed": [
+     "The tour title carries a number. \"XX\" is the Roman numeral for twenty, and BIGBANG debuted in 2006, two decades before this tour. The group was set to bring the 2026-2027 World Tour [XX : COSMOS] to Rajamangala National Stadium, Thailand's national stadium, on November 7, 2026."
+    ],
+    "added": [
+     "The tour title carries a number. \"XX\" is the Roman numeral for twenty, and BIGBANG debuted in 2006, two decades before this tour. The group was set to bring the World Tour [XX : COSMOS] to Rajamangala National Stadium, Thailand's national stadium, on November 7, 2026."
     ]
    }
   ]
@@ -2161,6 +2347,17 @@
     ],
     "added": [
      "Jason Mraz was set to return to Bangkok on Thursday, October 29, 2026, at BITEC Live, with a full band rather than a smaller-scale show. The tour was announced as his first in Asia in seven years, which made it a long-awaited date for Thai fans."
+    ]
+   },
+   {
+    "from": "66f6fd8e3bb7",
+    "to": "c47468c32dc7",
+    "at": "2026-11-21T18:45:24.695Z",
+    "removed": [
+     "Jason Mraz was set to return to Bangkok on Thursday, October 29, 2026, at BITEC Live, with a full band rather than a smaller-scale show. The tour was announced as his first in Asia in seven years, which made it a long-awaited date for Thai fans."
+    ],
+    "added": [
+     "Jason Mraz was set to return to Bangkok on Thursday, October 29, 2026, at BITEC Live, with a full band rather than a smaller-scale show. The tour was announced as part of his return to Asia, which made it a long-awaited date for Thai fans."
     ]
    }
   ]
@@ -2868,6 +3065,17 @@
     "added": [
      "The museum keeps a season. It is not open all year, and its opening dates vary from year to year, with a separate programme around Christmas. Currently it opens 10am–5pm, but the official website has this month's dates. Check it before you plan a trip around a visit."
     ]
+   },
+   {
+    "from": "a66a289f7603",
+    "to": "75d548aa6632",
+    "at": "2026-11-21T18:45:24.696Z",
+    "removed": [
+     "The museum keeps a season. It is not open all year, and its opening dates vary from year to year, with a separate programme around Christmas. Currently it opens 10am–5pm, but the official website has this month's dates. Check it before you plan a trip around a visit."
+    ],
+    "added": [
+     "The museum keeps a season rather than opening all year, and its opening dates vary from year to year, with a separate programme around Christmas. Currently it opens 10am–5pm, but the official website has this month's dates. Check it before you plan a trip around a visit."
+    ]
    }
   ]
  },
@@ -3018,6 +3226,21 @@
    }
   ]
  },
+ "battambang-chumnor-arts-festival": {
+  "steps": [
+   {
+    "from": "6ee1820fbb90",
+    "to": "679a94c5c7a8",
+    "at": "2026-11-21T18:45:24.697Z",
+    "removed": [
+     "Battambang runs on two currencies. Here is how a festival day usually works:"
+    ],
+    "added": [
+     "Battambang runs on two currencies. A few practical points are worth knowing before heading out to the festival:"
+    ]
+   }
+  ]
+ },
  "batumi-batumi-boulevard": {
   "steps": [
    {
@@ -3104,6 +3327,19 @@
     "added": [
      "Don't expect a big menu or an elaborate food program; % Arabica worldwide keeps things tight: espresso, lattes, little else. Seating is minimal, too. The draw here is less about variety and more about the time you spend holding a cup in that courtyard, watching light move across old brick.",
      "Don't expect a big menu or an elaborate food program; % Arabica worldwide keeps things tight: espresso, lattes, little else. Seating is minimal, too. The draw here is less about variety and more about the time you spend holding a cup in that courtyard, watching light move across old brick."
+    ]
+   },
+   {
+    "from": "2466dd0a6b29",
+    "to": "2230d829374b",
+    "at": "2026-11-21T18:45:24.697Z",
+    "removed": [
+     "Don't expect a big menu or an elaborate food program; % Arabica worldwide keeps things tight: espresso, lattes, little else. Seating is minimal, too. The draw here is less about variety and more about the time you spend holding a cup in that courtyard, watching light move across old brick.",
+     "Don't expect a big menu or an elaborate food program; % Arabica worldwide keeps things tight: espresso, lattes, little else. Seating is minimal, too. The draw here is less about variety and more about the time you spend holding a cup in that courtyard, watching light move across old brick."
+    ],
+    "added": [
+     "Don't expect a big menu; % Arabica worldwide keeps things simple, focused on espresso-based drinks like lattes. Seating is minimal, too. The draw here is less about variety and more about the time you spend holding a cup in that courtyard, watching light move across old brick.",
+     "Don't expect a big menu; % Arabica worldwide keeps things simple, focused on espresso-based drinks like lattes. Seating is minimal, too. The draw here is less about variety and more about the time you spend holding a cup in that courtyard, watching light move across old brick."
     ]
    }
   ]
@@ -3432,6 +3668,23 @@
    }
   ]
  },
+ "bengaluru-bengaluru-midnight-marathon": {
+  "steps": [
+   {
+    "from": "7aa94c2d824b",
+    "to": "7766fb91179b",
+    "at": "2026-11-21T18:45:24.698Z",
+    "removed": [
+     "Bengaluru's roads are usually jammed, which is what makes a night race here unusual. The Bengaluru Midnight Marathon is an annual night road race in Karnataka's capital, and the 2026 edition takes place in early December. Distances range from a 5K to the full 42.2km marathon.",
+     "- **When:** early December 2026, overnight\n- **Distances:** from 5K up to the full marathon\n- **Where it happens:** on Bengaluru's city roads, with the start venue and route set for each edition\n- **Registration and fees:** on the event's official registration page"
+    ],
+    "added": [
+     "Bengaluru's roads are usually jammed, which is what makes a night race here unusual. The Bengaluru Midnight Marathon is an annual night road race in Karnataka's capital. Distances range from a 5K to the full 42.2km marathon.",
+     "- **When:** dates vary by edition, overnight\n- **Distances:** from 5K up to the full marathon\n- **Where it happens:** on Bengaluru's city roads, with the start venue and route set for each edition\n- **Registration and fees:** on the event's official registration page"
+    ]
+   }
+  ]
+ },
  "bengaluru-chet-faker-a-love-for-strangers-tour": {
   "steps": [
    {
@@ -3577,6 +3830,17 @@
      "The grade shapes the field. Draws at this level usually mix rising juniors, national-team prospects and experienced players chasing points. The five standard disciplines run alongside each other:",
      "The draws narrow through the week. The 2026 schedule put the semi-finals on Saturday, November 7, and the finals on Sunday, November 8, when play typically shrinks to one show court. For BWF-sanctioned events, draws, order of play and results appear on the BWF's tournament software platform, and that is where the court-by-court schedule lives.",
      "Weekday rush hours clog the main roads in the morning and evening. The evening sessions on the 2026 schedule, November 3–6, fell within the evening rush."
+    ]
+   },
+   {
+    "from": "d3682e713199",
+    "to": "6f5039a12f48",
+    "at": "2026-11-21T18:45:24.699Z",
+    "removed": [
+     "Spectators stay seated during rallies and move only between points or at the interval. The interval comes when either player reaches 11 points in a game. Flash photography is off-limits because players are tracking a shuttle at speed. Home players usually get the loudest support, and the noise stops on the serve."
+    ],
+    "added": [
+     "Spectators stay seated during rallies and move only between points or at the interval. The interval comes when a player's score reaches 11 points in a game. Flash photography is off-limits because players are tracking a shuttle at speed. Home players usually get the loudest support, and the noise stops on the serve."
     ]
    }
   ]
@@ -4412,6 +4676,17 @@
     "added": [
      "- Main nave and chapels: free entry\n- Small fee for closer chapel access and the rooftop terraces\n- Terraces offer an elevated view over Piazza Maggiore's rooftops"
     ]
+   },
+   {
+    "from": "7a1be81197fc",
+    "to": "32ac62b004b0",
+    "at": "2026-11-21T18:45:24.700Z",
+    "removed": [
+     "- Quietest: 2pm–3pm, both weekdays and weekends\n- Busiest: weekends, all day\n- Best plan: arrive right at 10am opening, or return in the 2pm lull"
+    ],
+    "added": [
+     "- Quietest: 2pm–3pm, both weekdays and weekends\n- Busiest: weekends, outside that 2pm–3pm window\n- Best plan: arrive right at 10am opening, or return in the 2pm lull"
+    ]
    }
   ]
  },
@@ -4818,42 +5093,34 @@
    }
   ]
  },
+ "buenos-aires-argentina-comic-con-december-2026": {
+  "steps": [
+   {
+    "from": "40fc66f9f0b4",
+    "to": "a80783290871",
+    "at": "2026-11-21T18:45:24.701Z",
+    "removed": [
+     "- **Tickets and wristbands.** Ticket types, single-day or multi-day passes, are sold through the convention's official channels, and that's where attendees buy them. Most fans keep their QR code ready on their phone at the entry gates.\n- **Paying.** Plenty of stands take cards, and Argentines widely use Mercado Pago and other QR transfers. Small artists often prefer cash in pesos or a transfer, so many buyers carry both.\n- **Artist commissions.** Illustrators usually take commissions on the first day and deliver them later in the weekend. Fans who want one typically stop by that stand first.\n- **Cosplay etiquette.** Ask before photographing someone (\"¿Te puedo sacar una foto?\") and step aside from walkways to pose. Touching costumes or props is off-limits.\n- **Queues.** Panels with popular guests and autograph lines fill up first. Fans who care about a specific talk often camp near that stage rather than wandering the floor.",
+     "The Costanera itself is lined with parrillas and food carts. A choripán by the river is the classic Buenos Aires way to end a day there. Evenings in summer start late in this city, and dinner in Palermo Soho or Palermo Hollywood rarely gets going before 9pm."
+    ],
+    "added": [
+     "- **Tickets and wristbands.** Ticket types, single-day or multi-day passes, are sold through the convention's official channels, and that's where attendees buy them. Most fans keep their QR code ready on their phone at the entry gates.\n- **Paying.** Plenty of stands take cards, and Argentines widely use Mercado Pago and other QR transfers. Small artists often prefer cash in pesos or a transfer, so many buyers carry both.\n- **Artist commissions.** Illustrators usually take commissions on the first day and deliver them later in the weekend. Fans who want one typically stop by that stand first.\n- **Cosplay etiquette.** Ask before photographing someone and step aside from walkways to pose. Touching costumes or props is off-limits.\n- **Queues.** Panels with popular guests and autograph lines fill up first. Fans who care about a specific talk often camp near that stage rather than wandering the floor.",
+     "The Costanera itself is lined with parrillas and food carts. A choripán by the river is the classic Buenos Aires way to end a day there. Evenings in summer start late in this city, and dinner in Palermo tends to start later than visitors from other countries might expect."
+    ]
+   }
+  ]
+ },
  "buenos-aires-arteba-2026": {
   "steps": [
    {
-    "from": "b7d6cb42bf21",
-    "to": "a5a90b60c3ff",
-    "at": "2026-11-02T12:59:24.687Z",
-    "removed": [
-     "[DESCRIPTION] arteBA 2026, Buenos Aires's contemporary art fair, takes place at La Rural in Palermo from October 30 to November 1, 2026.",
-     "[QUICK ANSWER] arteBA 2026, Buenos Aires's contemporary art fair, takes place at La Rural in Palermo from October 30 to November 1, 2026. Fundación arteBA, the non-profit that runs the fair, sells tickets through its official website. Plaza Italia station on Subte Line D leaves you at the grounds' gate.",
-     "[FAQ 1] Q: When and where is arteBA 2026? A: It runs from October 30 to November 1, 2026, at La Rural, the exhibition grounds on Avenida Sarmiento and Avenida Santa Fe in Palermo, Buenos Aires.",
-     "[FAQ 2] Q: Where are arteBA tickets sold? A: Fundación arteBA, the non-profit that organises the fair, sells tickets through its official website, where the current prices are also posted.",
-     "arteBA 2026 runs from October 30 to November 1, 2026. It is Argentina's leading contemporary art fair, and it fills La Rural, the exhibition grounds of the Sociedad Rural Argentina in Palermo, with gallery booths and the works collectors pick out each year.",
-     "Expect a long afternoon. Pavilions at La Rural are big halls with concrete floors, and the booths are laid out in a grid of aisles. Most visitors spend three to four hours there and still take a second lap.",
-     "- **Pace:** walk every aisle once, then go back to the booths you liked.\n- **Programme:** talks and curated sections usually run alongside the commercial booths. You will find them on the fair map at the entrance.\n- **Weekend:** Saturday and Sunday bring families and students, so the aisles fill up more than on the Friday.\n- **Food:** the grounds have cafés. Bigger meals are a short walk away on Santa Fe and in Palermo Soho.",
-     "Booths are run by gallerists, and they will expect questions. Opening with \"Hola, buenas\" before asking anything is basic courtesy in Buenos Aires."
-    ],
-    "added": [
-     "[DESCRIPTION] arteBA 2026, Buenos Aires's contemporary art fair, was set for La Rural in Palermo from October 30 to November 1, 2026.",
-     "[QUICK ANSWER] arteBA 2026, Buenos Aires's contemporary art fair, was set for La Rural in Palermo from October 30 to November 1, 2026. Tickets were sold through the official website of Fundación arteBA, the non-profit that organises the fair. Plaza Italia station on Subte Line D leaves you at the grounds' gate.",
-     "[FAQ 1] Q: When and where is arteBA 2026? A: It was set for October 30 to November 1, 2026, at La Rural, the exhibition grounds on Avenida Sarmiento and Avenida Santa Fe in Palermo, Buenos Aires.",
-     "[FAQ 2] Q: Where are arteBA tickets sold? A: Tickets were sold through the official website of Fundación arteBA, the non-profit that organises the fair.",
-     "arteBA 2026 was set for October 30 to November 1, 2026. It is Argentina's leading contemporary art fair, and each edition fills La Rural, the exhibition grounds of the Sociedad Rural Argentina in Palermo, with gallery booths and the works collectors pick out each year.",
-     "A visit to the fair usually takes a long afternoon. Pavilions at La Rural are big halls with concrete floors, and the booths are laid out in a grid of aisles. Most visitors spend three to four hours there and still take a second lap.",
-     "- **Pace:** walk every aisle once, then go back to the booths you liked.\n- **Programme:** talks and curated sections are usually held alongside the commercial booths. They appear on the fair map at the entrance.\n- **Weekend:** Saturday and Sunday bring families and students, so the aisles fill up more than on a weekday.\n- **Food:** the grounds have cafés. Bigger meals are a short walk away on Santa Fe and in Palermo Soho.",
-     "Booths are run by gallerists, and they welcome questions. Opening with \"Hola, buenas\" before asking anything is basic courtesy in Buenos Aires."
-    ]
-   },
-   {
     "from": "a5a90b60c3ff",
-    "to": "b54f53b1c6b6",
-    "at": "2026-11-14T18:43:29.586Z",
+    "to": "71ebc58b8477",
+    "at": "2026-11-21T18:45:24.702Z",
     "removed": [
      "arteBA 2026 was set for October 30 to November 1, 2026. It is Argentina's leading contemporary art fair, and each edition fills La Rural, the exhibition grounds of the Sociedad Rural Argentina in Palermo, with gallery booths and the works collectors pick out each year."
     ],
     "added": [
-     "arteBA 2026 is set to take place across three days at La Rural in Buenos Aires. It is Argentina's leading contemporary art fair, and each edition fills La Rural, the exhibition grounds of the Sociedad Rural Argentina in Palermo, with gallery booths and the works collectors pick out each year."
+     "arteBA 2026 is scheduled for October 30 to November 1, 2026. It is Argentina's leading contemporary art fair, and each edition fills La Rural, the exhibition grounds of the Sociedad Rural Argentina in Palermo, with gallery booths and the works collectors pick out each year."
     ]
    }
   ]
@@ -4940,6 +5207,21 @@
    }
   ]
  },
+ "buenos-aires-ed-sheeran-buenos-aires-2026": {
+  "steps": [
+   {
+    "from": "852acb8aaee1",
+    "to": "1aba8eafa69d",
+    "at": "2026-11-21T18:45:24.702Z",
+    "removed": [
+     "If you have never seen Sheeran live, the format is the surprise. For most of his career he has played stadiums more or less alone, building songs layer by layer on a loop pedal: a guitar slap for the beat, a hummed harmony, then the chorus over the top. Seventy thousand people waiting on one man to stamp a pedal is a strange and very good kind of tension."
+    ],
+    "added": [
+     "If you have never seen Sheeran live, the format is the surprise. For most of his career he has played stadiums more or less alone, building songs layer by layer on a loop pedal: a guitar slap for the beat, a hummed harmony, then the chorus over the top. A stadium crowd waiting on one man to stamp a pedal is a strange and very good kind of tension."
+    ]
+   }
+  ]
+ },
  "buenos-aires-el-ateneo-grand-splendid": {
   "steps": [
    {
@@ -4981,6 +5263,17 @@
     ],
     "added": [
      "On weekends, aim for 10am–11am, which is the quietest window. Try not to arrive between 2pm and 6pm on Saturday or Sunday. By then families and strollers have filled the main paths and the greenhouse gets crowded. Weekday mornings after the 8am opening are a sensible bet too. They follow the city's work rhythm rather than the forecast."
+    ]
+   },
+   {
+    "from": "09836897623c",
+    "to": "f2bf7515000e",
+    "at": "2026-11-21T18:45:24.703Z",
+    "removed": [
+     "French-born landscape architect Carlos Thays laid the garden out and opened it in 1898, and it still carries his name. It covers 7 hectares, so you can see it in an unhurried morning. It's also one of the most-reviewed green spaces in the city, so you won't have it to yourself."
+    ],
+    "added": [
+     "French-born landscape architect Carlos Thays laid the garden out and opened it in 1898, and it still carries his name. It covers 7 hectares, small enough to see in an unhurried morning. It's also one of the most-reviewed green spaces in the city, so you won't have it to yourself."
     ]
    }
   ]
@@ -5030,6 +5323,21 @@
    }
   ]
  },
+ "buenos-aires-rush-movistar-arena-buenos-aires": {
+  "steps": [
+   {
+    "from": "7fad3790b8f1",
+    "to": "0d5db3fbdb1b",
+    "at": "2026-11-21T18:45:24.704Z",
+    "removed": [
+     "- **\"Tom Sawyer\"**, the radio staple from *Moving Pictures*\n- **\"YYZ\"**, an instrumental named after Toronto airport's code\n- **\"The Spirit of Radio\"** and **\"Limelight\"**, both crowd sing-alongs\n- **\"2112\"**, the side-long suite that made their name in 1976"
+    ],
+    "added": [
+     "- **\"Tom Sawyer\"**, the radio staple from *Moving Pictures*\n- **\"YYZ\"**, an instrumental named after Toronto airport's code\n- **\"The Spirit of Radio\"** and **\"Limelight\"**, both crowd sing-alongs\n- **\"2112\"**, the side-long suite released in 1976"
+    ]
+   }
+  ]
+ },
  "buenos-aires-san-telmo-fair": {
   "steps": [
    {
@@ -5041,6 +5349,17 @@
     ],
     "added": [
      "Arriving soon after opening usually means walking room. Vendors are still unpacking and the day-trippers haven't come yet. By the afternoon, the narrow pavements near Plaza Dorrego slow to a shuffle. Opening hours can change, so check before you go, and remember that the fair runs only on Sundays, with Defensa reverting to a normal street the rest of the week."
+    ]
+   },
+   {
+    "from": "32c6a1ab24fa",
+    "to": "a069e73e11a4",
+    "at": "2026-11-21T18:45:24.705Z",
+    "removed": [
+     "A couple of blocks away, the Mercado de San Telmo opened in 1897. It is a covered market under an iron-and-glass roof, with entrances on Defensa and the surrounding streets. It mixes produce stalls and antique dealers with food counters. It is the easiest place to sit down and eat without leaving the fair."
+    ],
+    "added": [
+     "A couple of blocks away is the Mercado de San Telmo. It is a covered market under an iron-and-glass roof, with entrances on Defensa and the surrounding streets. It mixes produce stalls and antique dealers with food counters. It is the easiest place to sit down and eat without leaving the fair."
     ]
    }
   ]
@@ -5262,6 +5581,17 @@
      "On weekdays the forecast flags no standout quiet hour, and 7–8pm is busiest, so arriving close to opening is a safe bet.",
      "- **Timing**: aim for 8–9am on weekends to skip the thickest crowds; the 9–11am and 4–5pm stretches are when it fills up.\n- **Payment**: bring small local currency (som) for any entry fee or on-site kiosk; card acceptance can't be counted on at smaller attractions like this.\n- **Etiquette**: keep the platform moving. It's a shared, sometimes narrow viewing space, so let others get their photo and step aside rather than camping in one spot.\n- **Common mistake**: tourists often skip it entirely because it's not \"historic,\" then regret not having an aerial reference point for the rest of their walk through the old city. Go first, then explore, the view helps you map out where everything else sits.\n- **Dress**: Bukhara gets intensely hot midday from late spring through early autumn, so an early visit beats the heat as much as the crowds."
     ]
+   },
+   {
+    "from": "f0ab72a489e6",
+    "to": "6992694caa67",
+    "at": "2026-11-21T18:45:24.705Z",
+    "removed": [
+     "On weekends, the calmest window is 8–9am, right after opening. Crowds build quickly and peak between 9am and 11am, with another busy stretch from 4pm to 5pm, so if you're visiting on a Saturday or Sunday, don't roll in at midday expecting empty platforms."
+    ],
+    "added": [
+     "On weekends, the calmest window is 8–9am, right after opening. Crowds build quickly, peaking between 9am and 11am, with another busy stretch from 4pm to 5pm, so if you're visiting on a Saturday or Sunday, don't roll in at midday expecting empty platforms."
+    ]
    }
   ]
  },
@@ -5317,6 +5647,17 @@
     ],
     "added": [
      "Bukit Mertajam sits inland in Seberang Perai Tengah, on the mainland side of the Penang Strait. Here is how out-of-town runners usually get there:"
+    ]
+   },
+   {
+    "from": "2a9e70035f4c",
+    "to": "55811d872352",
+    "at": "2026-11-21T18:45:24.707Z",
+    "removed": [
+     "Bukit Mertajam sits inland in Seberang Perai Tengah, on the mainland side of the Penang Strait. Here is how out-of-town runners usually get there:"
+    ],
+    "added": [
+     "Bukit Mertajam sits inland in Seberang Perai Tengah, on the mainland side of the Penang Strait. Options for getting there include:"
     ]
    }
   ]
@@ -5565,6 +5906,17 @@
      "The quietest window, weekday or weekend, is early morning before 9am or evening after 6pm, outside that weekend midday surge, early morning light on the water is also simply the best time for photos, before the haze sets in.",
      "- **Arrive before 9am** if you want the paths and photo spots without shoulder-to-shoulder crowds, especially on weekends.\n- **No entrance fee** is charged, though small donation boxes sit near the main halls. A few thousand won is customary if you'd like to contribute.\n- **Dress modestly**. This is an active place of worship, not just a viewpoint. Cover shoulders and avoid overly short hemlines.\n- **Stay quiet near the halls**, chanting and services happen throughout the day, and monks and worshippers are often present.\n- **Skip the shuttle bus line if you can walk**, many visitors queue for the small shuttle between the parking area and entrance, but it's a manageable 10–15 minute walk downhill if you'd rather skip the wait.\n- **Bring small cash** for the stalls near the entrance selling snacks and drinks, handy if you want a bite before or after the visit."
     ]
+   },
+   {
+    "from": "7f962b73bf8a",
+    "to": "7adad38c8970",
+    "at": "2026-11-21T18:45:24.708Z",
+    "removed": [
+     "Weekends turn busy between 9am and 6pm, with tour buses arriving in waves. If you can, aim for a weekday, or arrive right at opening."
+    ],
+    "added": [
+     "Weekends turn busy around midday, with tour buses arriving in waves. If you can, aim for a weekday, or arrive right at opening."
+    ]
    }
   ]
  },
@@ -5790,6 +6142,21 @@
    }
   ]
  },
+ "cairo-al-azhar-park": {
+  "steps": [
+   {
+    "from": "6eedb903af2f",
+    "to": "06844d2f124b",
+    "at": "2026-11-21T18:45:24.709Z",
+    "removed": [
+     "Here is what you'll find along the way:"
+    ],
+    "added": [
+     "Along the main axis and its surroundings you'll come across:"
+    ]
+   }
+  ]
+ },
  "cairo-cairo-international-art-festival": {
   "steps": [
    {
@@ -5927,6 +6294,36 @@
    }
   ]
  },
+ "cairo-gayer-anderson-museum": {
+  "steps": [
+   {
+    "from": "7f254194739a",
+    "to": "9f8008dc0fe6",
+    "at": "2026-11-21T18:45:24.710Z",
+    "removed": [
+     "Plan the day in order: Ibn Tulun first, then this museum, then the mosques at Salah al-Din. Morning light is softest on the mosque courtyard and the stone is cooler underfoot. Dress for a mosque visit, with shoulders and knees covered and a scarf for women, so you don't need to change between stops. Remember the 5pm close here applies to this week only."
+    ],
+    "added": [
+     "Plan the day in order: Ibn Tulun first, then this museum, then the mosques at Salah al-Din. Morning light is softest on the mosque courtyard and the stone is cooler underfoot. Dress for a mosque visit, with shoulders and knees covered and a scarf for women, so you don't need to change between stops. Check the posted closing time before you set out, as hours can vary."
+    ]
+   }
+  ]
+ },
+ "cairo-saladin-citadel": {
+  "steps": [
+   {
+    "from": "55df755eca13",
+    "to": "083b72a3d151",
+    "at": "2026-11-21T18:45:24.711Z",
+    "removed": [
+     "**Tickets and guides.** Buy at the official ticket office only, where the current prices are posted, or check them online first. Men near the gate offering to be your guide are unofficial. A polite, firm \"la, shukran\" (no, thank you) is enough."
+    ],
+    "added": [
+     "**Tickets and guides.** Buy at the official ticket office only, where the current prices are posted, or check them online first. Men near the gate offering to be your guide are unofficial. A polite, firm \"no, thank you\" is enough."
+    ]
+   }
+  ]
+ },
  "calgary-113th-grey-cup": {
   "steps": [
    {
@@ -6041,6 +6438,17 @@
     ],
     "added": [
      "Alternatively, follow Trumpington Road a little further to the Grantchester Meadows footpath. It's a classic Cambridge walk along the river Cam, best in long summer evenings after the garden itself has closed for the day."
+    ]
+   },
+   {
+    "from": "3927320b9e65",
+    "to": "eff2e2f70a13",
+    "at": "2026-11-21T18:45:24.712Z",
+    "removed": [
+     "Look out too for the tree grown from Isaac Newton's famous apple tree, near the Brookside side of the garden. In July 2019 the garden's weather station recorded 38.7°C. For a while that stood as the highest temperature ever measured in the UK."
+    ],
+    "added": [
+     "Look out too for the tree grown from Isaac Newton's famous apple tree, near the Brookside side of the garden."
     ]
    }
   ]
@@ -6166,6 +6574,17 @@
     ],
     "added": [
      "Weekends are different. Try to visit before 10am or after 4pm on a Saturday or Sunday. That's the busy window, with families packing the paths, a queue at the train and people crowding the most photographed models."
+    ]
+   },
+   {
+    "from": "a2d72181e242",
+    "to": "cb07fc21888a",
+    "at": "2026-11-21T18:45:24.713Z",
+    "removed": [
+     "The crowd data here is easy to act on. On weekdays the park is quiet all day, from 9:30am to 5pm, so any weekday visit gets you room at the fences and clear photos."
+    ],
+    "added": [
+     "The crowd data here is easy to act on. On weekdays the park is quiet all day, so any weekday visit gets you room at the fences and clear photos."
     ]
    }
   ]
@@ -6366,6 +6785,17 @@
     ],
     "added": [
      "Downtown is the festival's anchor. The basilica sits next to Magellan's Cross, a short walk from Colon Street and Plaza Independencia. The parade route links that core with the competition venue, and the exact venue has varied between editions."
+    ]
+   },
+   {
+    "from": "ac5c06c3af10",
+    "to": "d49f21bd4609",
+    "at": "2026-11-21T18:45:24.714Z",
+    "removed": [
+     "Downtown is the festival's anchor. The basilica sits next to Magellan's Cross, a short walk from Colon Street and Plaza Independencia. The parade route links that core with the competition venue, and the exact venue has varied between editions."
+    ],
+    "added": [
+     "Downtown is the festival's anchor. The basilica sits next to Magellan's Cross, a short walk from Colon Street and Plaza Independencia. The parade route links that core with the competition venue, which changes from year to year."
     ]
    }
   ]
@@ -6617,6 +7047,36 @@
    }
   ]
  },
+ "chennai-chennai-open-atp-challenger": {
+  "steps": [
+   {
+    "from": "4260a1334ff3",
+    "to": "5483685fb2a3",
+    "at": "2026-11-21T18:45:24.714Z",
+    "removed": [
+     "- 2024: 5–11 February\n- 2026: 9–15 February"
+    ],
+    "added": [
+     "- 2024: early February\n- 2026: early February"
+    ]
+   }
+  ]
+ },
+ "chennai-chennai-open-international-grandmaster-chess-tournament": {
+  "steps": [
+   {
+    "from": "d6636c64500a",
+    "to": "8ba65a3dfa82",
+    "at": "2026-11-21T18:45:24.715Z",
+    "removed": [
+     "Most Chennai shops, cafés and autos take UPI payments by phone, so visitors rarely need much cash for the day."
+    ],
+    "added": [
+     "Most Chennai shops and cafés take UPI payments by phone, though autos are often cash-only, so visitors should carry some cash for the day."
+    ]
+   }
+  ]
+ },
  "chennai-snow-kingdom": {
   "steps": [
    {
@@ -6697,6 +7157,17 @@
      "Outdoor hard courts cannot be played on when wet. Rain delays and reshuffled schedules are a normal part of tournament weeks here, and a session can pause, resume late or move to another day. Regulars tend to carry a compact umbrella or poncho, and they keep their evenings flexible.",
      "Between showers it's warm and humid. Light cotton clothes, a cap and a water bottle are standard in the stands. Deepavali, one of Tamil Nadu's biggest festivals, fell in the same week in 2026, and the festival usually brings busier roads, festive crowds and fireworks across the city.",
      "Tennis has its own etiquette, and Chennai's tennis crowds know it well. Spectators stay seated and quiet while a point is being played. People move only at changeovers, which come after the first game of a set and then every two games. Ushers usually hold people at the aisle entrance until the break."
+    ]
+   },
+   {
+    "from": "9626526d8da8",
+    "to": "7daf30011839",
+    "at": "2026-11-21T18:45:24.715Z",
+    "removed": [
+     "The city has a long record with the sport. The men's ATP Chennai Open was held here every year from 1997 to 2017, then moved to Pune. The women's event arrived later. Earlier editions in 2022 and 2025 were played in the WTA 250 tier, the level where rising players and seasoned regulars often meet in the same draw."
+    ],
+    "added": [
+     "The city has a long record with the sport. The men's ATP Chennai Open was held here every year from 1997 to 2017, then moved to Pune. The women's event arrived later, typically played at the WTA 250 tier, the level where rising players and seasoned regulars often meet in the same draw."
     ]
    }
   ]
@@ -7183,6 +7654,19 @@
     "added": [
      "- **Quietest:** 1pm–4pm on weekends. On Sunday that window ends at the 3pm close.\n- **Busiest:** 9am–1pm on weekends. Sunday worship falls in this window, so expect pews in use.\n- **Weekdays:** no forecast data, so arrive with time to spare."
     ]
+   },
+   {
+    "from": "ab3eb19bcd17",
+    "to": "2a307149a18a",
+    "at": "2026-11-21T18:45:24.716Z",
+    "removed": [
+     "Japanese architect Shigeru Ban designed it after the February 2011 earthquake damaged ChristChurch Cathedral in Cathedral Square. It opened in 2013 as a transitional cathedral for the Anglican diocese. \"Interim\" was always the plan, and the city's main cathedral is still being reinstated.",
+     "- **Latimer Square**: the open green right beside you, used as an emergency staging area in 2011.\n- **ChristChurch Cathedral, Cathedral Square**: the original Gothic Revival building, still under restoration.\n- **Canterbury Earthquake National Memorial**: a long marble wall of names along the Ōtākaro Avon River, beside Oxford Terrace.\n- **Quake City**: Canterbury Museum's earthquake exhibition, with recovered objects and survivor stories."
+    ],
+    "added": [
+     "Japanese architect Shigeru Ban designed it after the February 2011 earthquake damaged Christchurch Cathedral in Cathedral Square. It opened in 2013 as a transitional cathedral for the Anglican diocese. \"Interim\" was always the plan, and the city's main cathedral is still being reinstated.",
+     "- **Latimer Square**: the open green right beside you, used as an emergency staging area in 2011.\n- **Christchurch Cathedral, Cathedral Square**: the original Gothic Revival building, still under restoration.\n- **Canterbury Earthquake National Memorial**: a long marble wall of names along the Ōtākaro Avon River, beside Oxford Terrace.\n- **Quake City**: Canterbury Museum's earthquake exhibition, with recovered objects and survivor stories."
+    ]
    }
   ]
  },
@@ -7522,6 +8006,17 @@
     "added": [
      "There is a weekend crowd forecast for this park: the calmest hours tend to fall in the morning on Saturdays and Sundays. Afternoons from 2pm to 7pm draw more local traffic, mostly families, so aim for the morning window if you want the lawns to yourself."
     ]
+   },
+   {
+    "from": "6b9ea493f342",
+    "to": "f4d8e433d6f1",
+    "at": "2026-11-21T18:45:24.717Z",
+    "removed": [
+     "There is a weekend crowd forecast for this park: the calmest hours tend to fall in the morning on Saturdays and Sundays. Afternoons from 2pm to 7pm draw more local traffic, mostly families, so aim for the morning window if you want the lawns to yourself."
+    ],
+    "added": [
+     "There is a weekend crowd forecast for this park: the calmest hours tend to fall in the morning on Saturdays and Sundays. Afternoons from 2pm to 7pm draw more local visitors, mostly families, so aim for the morning window if you want the lawns to yourself."
+    ]
    }
   ]
  },
@@ -7593,6 +8088,17 @@
     "added": [
      "The doors open at 7am and close at 8pm every day of the week. On weekdays the market is generally quieter than at weekends, so you can turn up at most hours without finding it crowded."
     ]
+   },
+   {
+    "from": "ac99024dd563",
+    "to": "34d73e858dc8",
+    "at": "2026-11-21T18:45:24.718Z",
+    "removed": [
+     "The doors open at 7am and close at 8pm every day of the week. On weekdays the market is generally quieter than at weekends, so you can turn up at most hours without finding it crowded."
+    ],
+    "added": [
+     "The doors open at 7am and close at 8pm every day of the week. On weekdays the market is quieter than at weekends, making it easier to browse without crowds."
+    ]
    }
   ]
  },
@@ -7622,6 +8128,17 @@
     ],
     "added": [
      "Glühwein comes in a ceramic mug, and you pay a deposit (*Pfand*) on top of the drink. Return the mug to get the deposit back, as is standard practice at German Christmas markets. Or you can keep the mug: each market prints its own design, and many people take one home as a souvenir."
+    ]
+   },
+   {
+    "from": "c6bb36eaedc8",
+    "to": "4c00168537fd",
+    "at": "2026-11-21T18:45:24.719Z",
+    "removed": [
+     "Cash still moves fastest at the smaller huts, although plenty of stalls take cards. Order in German if you like: *\"Einen Glühwein, bitte.\"*"
+    ],
+    "added": [
+     "Cash still moves fastest at the smaller huts, although plenty of stalls take cards. Order in German if you like: *Ein Glühwein, bitte.*"
     ]
    }
   ]
@@ -7677,6 +8194,17 @@
      "Runners usually keep the Kölsch for after the finish. Brewery pubs around the Altstadt, such as Früh am Dom near the Cathedral, are usually packed on 11.11. Runners often celebrate in their own neighbourhood instead.",
      "For tired legs, the Rheinauhafen to the south is calmer. The Chocolate Museum sits there on a peninsula, a short walk along the riverside promenade. The Altstadt itself, between the Heumarkt and Alter Markt, is the place for watching carnival rather than escaping it.",
      "On this date, the city's celebration usually lasts far longer than any race, and many visitors stay out to see it."
+    ]
+   },
+   {
+    "from": "478288e74119",
+    "to": "7a1fdf273ac6",
+    "at": "2026-11-21T18:45:24.719Z",
+    "removed": [
+     "Runners usually keep the Kölsch for after the finish. Brewery pubs around the Altstadt, such as Früh am Dom near the Cathedral, are usually packed on 11.11. Runners often celebrate in their own neighbourhood instead."
+    ],
+    "added": [
+     "Runners usually keep the Kölsch for after the finish. Brewery pubs around the Altstadt, such as Früh am Dom, get busy during carnival. Runners often celebrate in their own neighbourhood instead."
     ]
    }
   ]
@@ -8176,6 +8704,17 @@
     "added": [
      "The market sits right by Paya Lebar MRT station, a short walk from Exit E or the connected Paya Lebar Quarter mall."
     ]
+   },
+   {
+    "from": "8d3ee48d7db3",
+    "to": "44ff3c9b1832",
+    "at": "2026-11-21T18:45:24.720Z",
+    "removed": [
+     "Realistically, the wet market and most food stalls operate from early morning through early afternoon. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed."
+    ],
+    "added": [
+     "Realistically, the wet market and most food stalls keep daytime hours and wind down well before evening. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed."
+    ]
    }
   ]
  },
@@ -8398,6 +8937,19 @@
      "Hotels in City Walk, Downtown Dubai and Business Bay all sit within a short drive of the arena, useful given how quickly rideshare demand spikes the moment a show lets out.",
      "Dubai in November sits in its comfortable cooler season, with mild evenings that make walking between City Walk's outdoor sections pleasant rather than sweaty. The arena's air conditioning runs cold during full-capacity shows, so a light layer is useful indoors.",
      "Security at Coca-Cola Arena follows standard arena rules: bag checks, restrictions on outside food and drink, and typical limits on professional cameras. Entry screening adds time on top of the journey to City Walk, especially around the advertised doors time."
+    ]
+   },
+   {
+    "from": "3ed4502d0c23",
+    "to": "0be251d01a4a",
+    "at": "2026-11-21T18:45:24.720Z",
+    "removed": [
+     "Amr Diab does not need much of an introduction across the Arab world, and Dubai has long been one of his most reliable stops outside Cairo. On November 7, 2026, he was set to bring a full-scale production to Coca-Cola Arena, mixing the newer singles that keep him on regional radio with the decades-old tracks that made him a household name from the Gulf to the Maghreb.",
+     "The show was billed as a stadium-grade pop concert, not an intimate acoustic set. Diab tours with a live band, backing vocalists, choreographed lighting and a setlist built to move between eras, with stretches of newer uptempo material bridged by the ballads and dance tracks that have carried his career since the 1990s."
+    ],
+    "added": [
+     "Amr Diab does not need much of an introduction across the Arab world, and Dubai has long been one of his most reliable stops outside Cairo. On November 7, 2026, he brings a full-scale production to Coca-Cola Arena, mixing the newer singles that keep him on regional radio with the decades-old tracks that made him a household name from the Gulf to the Maghreb.",
+     "The show is billed as a stadium-grade pop concert, not an intimate acoustic set. Diab tours with a live band, backing vocalists, choreographed lighting and a setlist built to move between eras, with stretches of newer uptempo material bridged by the ballads and dance tracks that have carried his career since the 1990s."
     ]
    }
   ]
@@ -9160,6 +9712,17 @@
      "Frankfurt in the first week of November is cool and often grey. It gets dark in the late afternoon, so evening sessions start after nightfall. Fans generally bring a warm layer for the walk from the transit stop to the arena.",
      "The tournament dates fell between two busy seasons. The large autumn trade fairs are mostly over by early November, and the Römerberg Christmas market usually opens in the second half of the month. The first week of November is usually calmer than the city's peak periods."
     ]
+   },
+   {
+    "from": "605b43906d23",
+    "to": "d01953a737f7",
+    "at": "2026-11-21T18:45:24.721Z",
+    "removed": [
+     "World Table Tennis organises the event, and its official site is worldtabletennis.com. The announced details for this edition did not name the arena."
+    ],
+    "added": [
+     "World Table Tennis organises the event, and its official site is worldtabletennis.com. The specific arena for this edition was not named in the available details."
+    ]
    }
   ]
  },
@@ -9376,6 +9939,21 @@
    }
   ]
  },
+ "fuzhou-china-national-table-tennis-championships-singles-team-finals": {
+  "steps": [
+   {
+    "from": "4dbc94bb9735",
+    "to": "3318b69ef07a",
+    "at": "2026-11-21T18:45:24.722Z",
+    "removed": [
+     "Here is how buying usually works in China:"
+    ],
+    "added": [
+     "A few things hold true across most major sporting events in China, ticketing included:"
+    ]
+   }
+  ]
+ },
  "gangneung-ojukheon": {
   "steps": [
    {
@@ -9443,6 +10021,21 @@
    }
   ]
  },
+ "genoa-porta-soprana": {
+  "steps": [
+   {
+    "from": "4b13aa0e1244",
+    "to": "d43224a3b9d6",
+    "at": "2026-11-21T18:45:24.722Z",
+    "removed": [
+     "Porta Soprana has no gate hours because it's an open monument, not a ticketed one: you can walk through at 7am or midnight and find it unlocked and unstaffed. Weekend evenings between 5pm and 11pm are the busiest stretch, when the area fills with people heading to nearby bars and the Sant'Andrea steps become a informal hangout spot. If you want the towers to yourself for photos, aim for a weekday morning instead, before the aperitivo crowd arrives."
+    ],
+    "added": [
+     "Porta Soprana has no gate hours because it's an open monument, not a ticketed one: you can walk through at 7am or midnight and find it unlocked and unstaffed. Weekend evenings between 5pm and 11pm are the busiest stretch, when the area fills with people heading to nearby bars and the Sant'Andrea steps become an informal hangout spot. If you want the towers to yourself for photos, aim for a weekday morning instead, before the aperitivo crowd arrives."
+    ]
+   }
+  ]
+ },
  "genoa-porto-antico": {
   "steps": [
    {
@@ -9454,6 +10047,32 @@
     ],
     "added": [
      "[FAQ 2] Q: When is the quietest time to visit? A: Weekend mornings between 7am and 9am are calmest, based on typical foot-traffic data. Avoid Saturday and Sunday afternoons from 2pm to 11pm, when crowds peak."
+    ]
+   },
+   {
+    "from": "57d6a1081deb",
+    "to": "febcc33465ad",
+    "at": "2026-11-21T18:45:24.723Z",
+    "removed": [
+     "You come here for the Acquario di Genova, the biggest aquarium in Italy and one of the largest in Europe. But the real pleasure is slower than that, walking the boardwalk at dusk, watching the Bigo's rotating panoramic lift catch the last light, hearing halyards clink against masts in the marina."
+    ],
+    "added": [
+     "You come here for the Acquario di Genova, one of the largest aquariums in Europe. But the real pleasure is slower than that, walking the boardwalk at dusk, watching the Bigo's rotating panoramic lift catch the last light, hearing halyards clink against masts in the marina."
+    ]
+   }
+  ]
+ },
+ "genoa-royal-palace-museum": {
+  "steps": [
+   {
+    "from": "e29c5a0b27e9",
+    "to": "4d7ff93e6f8a",
+    "at": "2026-11-21T18:45:24.725Z",
+    "removed": [
+     "Buy your ticket at the door rather than worrying about advance booking. This isn't the Uffizi, and lines are rarely long outside weekend peak hours. Payment is standard card or cash at the counter."
+    ],
+    "added": [
+     "Buy your ticket at the door rather than worrying about advance booking. This isn't the Uffizi, and lines are rarely long outside weekend peak hours."
     ]
    }
   ]
@@ -9530,6 +10149,47 @@
      "Gimhae was the seat of Geumgwan Gaya, one of the Gaya confederacy kingdoms. Its old centre pairs naturally with the pottery district.",
      "The Gaya pottery in the National Museum and the buncheong of Jillye together span two thousand years of local clay. Busan's coast is also close, and many visitors stay in Busan and come over to Gimhae for the day."
     ]
+   },
+   {
+    "from": "0cb058d8c48a",
+    "to": "6064e1bc3b9f",
+    "at": "2026-11-21T18:45:24.725Z",
+    "removed": [
+     "The Korean name is 김해분청도자기축제 (Gimhae Buncheong Dojagi Chukje). The title says \"Buncheon\" and Korean signage says \"Buncheong\", but they mean the same festival."
+    ],
+    "added": [
+     "The Korean name is 김해분청도자기축제 (Gimhae Buncheong Dojagi Chukje). The English name is sometimes spelled \"Buncheon\" and sometimes \"Buncheong\" — both refer to the same festival."
+    ]
+   }
+  ]
+ },
+ "giza-giza-necropolis": {
+  "steps": [
+   {
+    "from": "cf9e66294c0b",
+    "to": "9b2edaf1b932",
+    "at": "2026-11-21T18:45:24.726Z",
+    "removed": [
+     "Crowd forecasts show the quietest time is 8am–9am on weekdays. At weekends the calm lasts a little longer, from 8am to 10am. Try not to arrive between 10am and 2pm at the weekend. That is when tour coaches fill the car parks and the Sphinx terrace gets packed."
+    ],
+    "added": [
+     "Crowd forecasts show the quietest time is 8am–9am on weekdays. At weekends the calm lasts a little longer, from 8am to 10am. Try to avoid arriving between 10am and 2pm at weekends. That is when tour coaches fill the car parks and the Sphinx terrace gets packed."
+    ]
+   }
+  ]
+ },
+ "giza-marakez-pyramids-half-marathon": {
+  "steps": [
+   {
+    "from": "2291fb71061d",
+    "to": "ed868d2d94cf",
+    "at": "2026-11-21T18:45:24.727Z",
+    "removed": [
+     "The eighth edition runs over two days inside the Giza Pyramids complex:"
+    ],
+    "added": [
+     "The race runs over two days inside the Giza Pyramids complex:"
+    ]
    }
   ]
  },
@@ -9563,6 +10223,17 @@
      "[FAQ 4] Q: Do I need to book? A: For Friday or Saturday dinner and weekend lunch, yes. Breakfast is your best chance as a walk-in.",
      "On a Saturday the forecast flags no standout quiet hour, so arriving in the morning, well before the 2pm busy stretch, is the easiest way to get a table without planning ahead. Sunday is busiest from 2pm until the 4pm close, so go earlier on Sundays too.",
      "- **Book ahead** for Friday or Saturday dinner and for weekend lunch. Walking in works best at breakfast.\n- **Pay by card.** It's normal across Glasgow, and contactless is the default.\n- **Tipping:** around 10% is customary for table service in the UK. Check the bill first, because some places add a service charge and you shouldn't pay it twice.\n- **The full bar** means you don't have to order food. A drink at a Stead table before a show at the Tron is a fair use of the room."
+    ]
+   },
+   {
+    "from": "895a2d8e3c78",
+    "to": "69b55960609c",
+    "at": "2026-11-21T18:45:24.728Z",
+    "removed": [
+     "That means no evening meal on Sundays or Mondays. Weekend crowds are the other thing to plan around. Try not to turn up between 2pm and 10pm on a weekend, because that's when the room is fullest and walk-ins wait longest."
+    ],
+    "added": [
+     "That means no evening meal on Sundays or Mondays. Weekend crowds are the other thing to plan around. Try not to turn up during the early-afternoon peak on a weekend, because that's when the room is fullest and walk-ins wait longest."
     ]
    }
   ]
@@ -9638,6 +10309,51 @@
    }
   ]
  },
+ "goa-st-augustine-tower-goa": {
+  "steps": [
+   {
+    "from": "1aad1384f126",
+    "to": "caadc7f83253",
+    "at": "2026-11-21T18:45:24.728Z",
+    "removed": [
+     "The ruins are part of the UNESCO World Heritage listing for the Churches and Convents of Goa. Archaeologists excavating here also identified remains linked to St. Ketevan, a Georgian queen martyred in Persia. That is why some visitors come from Georgia specifically."
+    ],
+    "added": [
+     "The ruins are part of the UNESCO World Heritage listing for the Churches and Convents of Goa. Archaeologists excavating here also identified remains linked to St. Ketevan, a Georgian queen martyred in Persia. That connection draws some interest from Georgian visitors."
+    ]
+   }
+  ]
+ },
+ "gobi-gurvansaikhan-national-park-yolyn-am-canyon": {
+  "steps": [
+   {
+    "from": "df83cd69e3c5",
+    "to": "287442618e5a",
+    "at": "2026-11-21T18:45:33.228Z",
+    "removed": [
+     "Mongolians call the place Ёлын Ам (Yolyn Am), and drivers will know it by that name. Herders bring the horses for hire. Agree the price and the turnaround point before you mount, and carry cash in tögrög. Card readers are rare outside Dalanzadgad."
+    ],
+    "added": [
+     "Mongolians call the place Yolyn Am, and drivers will know it by that name. Herders bring the horses for hire. Agree the price and the turnaround point before you mount, and carry cash in tögrög. Card readers are rare outside Dalanzadgad."
+    ]
+   }
+  ]
+ },
+ "gold-coast-bmw-australian-pga-championship": {
+  "steps": [
+   {
+    "from": "162dd8edf637",
+    "to": "522226299330",
+    "at": "2026-11-21T18:46:05.696Z",
+    "removed": [
+     "The 2026 edition runs from Thursday 26 to Monday 30 November. The tournament is part of the DP World Tour. Its Australasian swing brings European-tour fields to Australian courses at the start of the southern summer."
+    ],
+    "added": [
+     "The 2026 edition runs across five days in late November. The tournament is part of the DP World Tour. Its Australasian swing brings European-tour fields to Australian courses at the start of the southern summer."
+    ]
+   }
+  ]
+ },
  "gold-coast-burleigh-head-national-park": {
   "steps": [
    {
@@ -9705,6 +10421,23 @@
      "Recovery days here are easy to fill. The **Göreme Open-Air Museum** is on the edge of the village. It is a cluster of rock-cut churches and refectories with Byzantine frescoes, and the Dark Church (Karanlık Kilise) is the best preserved. Entry is ticketed, and opening hours change through the year.",
      "The rock castle at **Uçhisar** has the widest view over the valleys. **Avanos**, on the Kızılırmak River, has a long tradition of pottery made from the river's red clay. The underground cities of **Derinkuyu** and **Kaymaklı** are a short drive south, and you walk through them at a gentle pace.",
      "At dinner, look for *testi kebabı*, a meat stew sealed in a clay pot and cracked open at the table. The region's local wines come from grapes grown in that same volcanic soil. Registration and course details for the Cappadocia Wildmarathon were handled by the race organiser."
+    ]
+   }
+  ]
+ },
+ "gori-gori-ethnographic-museum": {
+  "steps": [
+   {
+    "from": "3dc369896d0e",
+    "to": "66a58a530775",
+    "at": "2026-11-21T18:46:28.012Z",
+    "removed": [
+     "- **Greet the attendant first.** \"Gamarjoba\" (hello) works, and \"madloba\" (thank you) on the way out is always noticed.\n- **Language:** older staff may speak more Georgian or Russian than English. A translation app with downloaded Georgian makes questions possible.\n- **Paying:** buy your ticket at the desk. Small regional museums don't always take cards, so carry some lari in cash. The current price is posted at the entrance.\n- **Photography:** ask before you take pictures. Some rooms or pieces may be off limits, and asking tends to start a conversation.\n- **Lights and doors:** in quieter museums, rooms are sometimes unlocked or lit only when a visitor arrives. Wait a moment instead of wandering ahead.",
+     "The museum works best as one part of a full day. Here is a sensible order for a day trip."
+    ],
+    "added": [
+     "- **Greet the attendant first.** \"Gamarjoba\" (hello) works, and \"madloba\" (thank you) on the way out is always noticed.\n- **Language:** older staff may speak more Georgian or Russian than English. A translation app with downloaded Georgian makes questions possible.\n- **Paying:** buy your ticket at the desk. Small regional museums don't always take cards, so carry some lari in cash. Check the ticket price when you arrive.\n- **Photography:** ask before you take pictures. Some rooms or pieces may be off limits, and asking tends to start a conversation.\n- **Lights and doors:** in quieter museums, rooms are sometimes unlocked or lit only when a visitor arrives. Wait a moment instead of wandering ahead.",
+     "The museum works best as one part of a full day. One sequence that works well for a single day:"
     ]
    }
   ]

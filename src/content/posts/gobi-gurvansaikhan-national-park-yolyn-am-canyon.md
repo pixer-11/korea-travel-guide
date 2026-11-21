@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Out here the Gobi is gravel plain, and then the Zuun Saikhan mountains rise out of it. Yolyn Am cuts into them as a crack in grey rock. A stream runs over the valley floor and grass grows along the bottom. The walls close in until the sky above you is a thin strip.
 
 ## Ice in the desert
@@ -83,7 +82,7 @@ Horses and camels are often for hire at the trailhead if you'd rather ride the f
 
 ## Trail manners in the Gobi
 
-Mongolians call the place Ёлын Ам (Yolyn Am), and drivers will know it by that name. Herders bring the horses for hire. Agree the price and the turnaround point before you mount, and carry cash in tögrög. Card readers are rare outside Dalanzadgad.
+Mongolians call the place Yolyn Am, and drivers will know it by that name. Herders bring the horses for hire. Agree the price and the turnaround point before you mount, and carry cash in tögrög. Card readers are rare outside Dalanzadgad.
 
 Keep to the stream path and don't climb the walls, because the pika burrows break apart underfoot. If you pass an ovoo, one of the stone cairns tied with blue khadag scarves, walk around it clockwise. Locals often add a stone as they go.
 
