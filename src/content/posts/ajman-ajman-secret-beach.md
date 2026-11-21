@@ -20,7 +20,7 @@ place:
   name: Ajman Secret Beach
   address: CFH3+RP - Al Zorah - Ajman - United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 559
+  userRatingsTotal: 612
   googleMapsUrl: >-
     https://maps.google.com/?cid=6749776985501883445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -83,7 +83,7 @@ faq:
       corniche area beforehand or afterward.
 aiGenerated: true
 draft: true
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

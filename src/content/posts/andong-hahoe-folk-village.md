@@ -1,33 +1,42 @@
 ---
 title: 'Andong Hahoe Folk Village: Travel Guide'
-description: Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional tiled and thatched houses, the Hahoe Mask Museum, and (if timed right) a Hahoe Byeolsingut mask dance performance.
+description: >-
+  Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a
+  horseshoe bend of the Nakdong River, best visited for a half-day to see
+  traditional tiled and thatched houses, the Hahoe Mask Museum, and (if timed
+  right) a Hahoe Byeolsingut mask dance performance.
 region: Andong
 country: South Korea
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/27211649_vCuskuUvib4iLacsTDg0JhW52srT11fghbX8ZMBR6Is.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/27211649_vCuskuUvib4iLacsTDg0JhW52srT11fghbX8ZMBR6Is.jpg
   credit: 'Photo: Foursquare user content (Bukchon House (Andong Hahoe Village) (북촌댁))'
   license: foursquare
-  source: https://foursquare.com/v/50416ca6e4b0a10506950910
+  source: 'https://foursquare.com/v/50416ca6e4b0a10506950910'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hahoe_Folk_Village_03.jpg/1920px-Hahoe_Folk_Village_03.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hahoe_Folk_Village_03.jpg/1920px-Hahoe_Folk_Village_03.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Hahoe_Folk_Village_03.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Hahoe_Folk_Village_03.jpg'
 place:
   id: ChIJ70lL5f4iZDURou4DxhPonPA
   name: Andong Hahoe Folk Village
-  address: 186 Jeonseo-ro, Pungcheon-myeon, Andong, Gyeongsangbuk-do, South Korea
+  address: '186 Jeonseo-ro, Pungcheon-myeon, Andong, Gyeongsangbuk-do, South Korea'
   rating: 4.2
-  userRatingsTotal: 7071
-  googleMapsUrl: https://maps.google.com/?cid=17337987837093736098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 7136
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17337987837093736098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.538913099999995
   lng: 128.5181474
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 10]
+    weekdayQuiet:
+      - 9
+      - 10
     weekendBusy:
       - 11
       - 12
@@ -37,7 +46,7 @@ place:
       - 16
       - 17
     venueId: ven_41506e6f5068784434756f5255445a693466354c6c30374a496843
-  phone: '+82 54-853-0109'
+  phone: +82 54-853-0109
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'
@@ -49,20 +58,43 @@ place:
 tags:
   - andong
   - top attraction
-quickAnswer: Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a horseshoe bend of the Nakdong River, best visited for a half-day to see traditional tiled and thatched houses, the Hahoe Mask Museum, and (if timed right) a Hahoe Byeolsingut mask dance performance. Buy the combined village-and-shuttle ticket at the entrance, allow 2-3 hours, and go on a weekend from spring through autumn to catch the outdoor mask dance shows.
+quickAnswer: >-
+  Andong Hahoe Folk Village is a still-inhabited Joseon-era village on a
+  horseshoe bend of the Nakdong River, best visited for a half-day to see
+  traditional tiled and thatched houses, the Hahoe Mask Museum, and (if timed
+  right) a Hahoe Byeolsingut mask dance performance. Buy the combined
+  village-and-shuttle ticket at the entrance, allow 2-3 hours, and go on a
+  weekend from spring through autumn to catch the outdoor mask dance shows.
 faq:
   - q: How do I get to Hahoe Folk Village without a car?
-    a: Take city bus 46 from Andong Bus Terminal or Andong Station (about 40-50 minutes), or a taxi (about 30 minutes). A shuttle then carries visitors from the entrance parking area into the village itself.
+    a: >-
+      Take city bus 46 from Andong Bus Terminal or Andong Station (about 40-50
+      minutes), or a taxi (about 30 minutes). A shuttle then carries visitors
+      from the entrance parking area into the village itself.
   - q: How much time should I set aside?
-    a: Plan for 2-3 hours to walk the village and visit the Hahoe Mask Museum; add extra time if you want to cross to Buyongdae Cliff or catch a mask dance performance.
+    a: >-
+      Plan for 2-3 hours to walk the village and visit the Hahoe Mask Museum;
+      add extra time if you want to cross to Buyongdae Cliff or catch a mask
+      dance performance.
   - q: When can I see the Hahoe mask dance?
-    a: The Hahoe Byeolsingut Talnori is typically performed at an outdoor theater near the village on a seasonal schedule, mainly weekends from spring through autumn. Check the current schedule locally before visiting, as it changes with season and weather.
-  - q: Is the village still lived in, or is it a reconstruction?
-    a: It's a genuinely inhabited village — descendants of the Pungsan Ryu clan still live in many of the traditional houses, which is part of why it holds UNESCO World Heritage status.
+    a: >-
+      The Hahoe Byeolsingut Talnori is typically performed at an outdoor theater
+      near the village on a seasonal schedule, mainly weekends from spring
+      through autumn. Check the current schedule locally before visiting, as it
+      changes with season and weather.
+  - q: 'Is the village still lived in, or is it a reconstruction?'
+    a: >-
+      It's a genuinely inhabited village — descendants of the Pungsan Ryu clan
+      still live in many of the traditional houses, which is part of why it
+      holds UNESCO World Heritage status.
   - q: What else is nearby worth combining with this trip?
-    a: Bongjeongsa Temple, Andong Dam, and the Andong Folk Village Museum are all a short drive away, and downtown Andong is worth a stop for local dishes like jjimdak and heotjesatbap.
+    a: >-
+      Bongjeongsa Temple, Andong Dam, and the Andong Folk Village Museum are all
+      a short drive away, and downtown Andong is worth a stop for local dishes
+      like jjimdak and heotjesatbap.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

@@ -16,7 +16,7 @@ heroImage:
   source: 'https://foursquare.com/v/5a302df9c0cacb17234a2e15'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Ain_Oasis_%283%29.jpg/1920px-Al-Ain_Oasis_%283%29.jpg
@@ -30,7 +30,7 @@ place:
     Al Tuhaf St - Central District - Al Ain Oasis - Abu Dhabi - United Arab
     Emirates
   rating: 4.4
-  userRatingsTotal: 5130
+  userRatingsTotal: 5287
   googleMapsUrl: >-
     https://maps.google.com/?cid=7405311686925097502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -101,7 +101,7 @@ faq:
       are a short drive away.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

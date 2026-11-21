@@ -15,19 +15,19 @@ heroImage:
   source: 'https://foursquare.com/v/65c1164cb812d51dc076b778'
   focus:
     x: 65
-    y: 45
+    'y': 45
 place:
   id: ChIJzR7viUzx9T4R16XrLHCcBFw
   name: The seat cafe
   address: CJ2C+CF2 - Al Heliow - Ajman - United Arab Emirates
   rating: 4.7
-  userRatingsTotal: 876
+  userRatingsTotal: 958
   googleMapsUrl: >-
     https://maps.google.com/?cid=6630596557000123863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.4009191
   lng: 55.6210046
-  priceLevel: 1
+  priceLevel: 2
   phone: +971 50 129 1451
   openingHours:
     - 'Monday: 6:00 AM – 1:00 AM'
@@ -70,7 +70,7 @@ faq:
       The Ajman Corniche, Ajman Museum, and Ajman City Centre mall are all a
       short drive away and pair well with a café stop.
 aiGenerated: true
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

@@ -26,7 +26,7 @@ place:
   name: Ajman Museum
   address: CC7W+96Q - Al Bustan - ليوارة 1 - Ajman - United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 4060
+  userRatingsTotal: 4179
   googleMapsUrl: >-
     https://maps.google.com/?cid=6208799921047657843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -99,7 +99,7 @@ faq:
       weaponry and household life.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

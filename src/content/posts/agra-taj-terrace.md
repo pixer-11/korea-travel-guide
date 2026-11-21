@@ -21,7 +21,7 @@ place:
     Hotel taj resorts ,Eastern gate of tajmahal, near shilpgram, tajganj, Forest
     Colony, Tajganj, Agra, Uttar Pradesh 282006, India
   rating: 4.8
-  userRatingsTotal: 1143
+  userRatingsTotal: 1193
   googleMapsUrl: >-
     https://maps.google.com/?cid=3833877302551682722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -77,7 +77,7 @@ faq:
       elsewhere in Agra.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 You come out of the crush of the Eastern Gate (the ticket queues, the touts selling marble elephants, the cycle-rickshaws jostling for space), and within a few minutes' walk you're climbing a staircase into something entirely different: a rooftop lit by candles, white tablecloths catching the flicker, and somewhere off to the side, a musician working through a set of instrumental ragas on a sitar or harmonium.

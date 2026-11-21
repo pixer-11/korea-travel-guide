@@ -1,53 +1,79 @@
 ---
-title: "Unconventional Diner: Where to Eat in Washington DC (4.7★)"
-description: "Unconventional Diner sits on 9th Street NW in Shaw, serving upscale comfort food from 7am to 10pm daily. 4.7★ (8,901 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Washington DC"
-category: "restaurant"
-pubDate: "2026-08-08T08:15:20.958Z"
+title: 'Unconventional Diner: Where to Eat in Washington DC (4.7★)'
+description: >-
+  Unconventional Diner sits on 9th Street NW in Shaw, serving upscale comfort
+  food from 7am to 10pm daily. 4.7★ (9,902 reviews) — what visitors say, hours,
+  and tips.
+country: United States
+region: Washington DC
+category: restaurant
+pubDate: '2026-08-08T08:15:20.958Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/French_Toast_Unconventional_Diner_DC.jpg/3840px-French_Toast_Unconventional_Diner_DC.jpg"
-  credit: "Photo: Kurt Kaiser / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:French_Toast_Unconventional_Diner_DC.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/French_Toast_Unconventional_Diner_DC.jpg/3840px-French_Toast_Unconventional_Diner_DC.jpg
+  credit: 'Photo: Kurt Kaiser / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:French_Toast_Unconventional_Diner_DC.jpg
 gallery: []
 place:
-  id: "ChIJz3M3Se23t4kRk5q7sY9-ZUU"
-  name: "Unconventional Diner"
-  address: "1207 9th St NW, Washington, DC 20001, USA"
+  id: ChIJz3M3Se23t4kRk5q7sY9-ZUU
+  name: Unconventional Diner
+  address: '1207 9th St NW, Washington, DC 20001, USA'
   rating: 4.7
-  userRatingsTotal: 8901
+  userRatingsTotal: 9902
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=5000542116892088979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5000542116892088979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.9060506
   lng: -77.02374449999999
-  phone: "+1 202-847-0122"
+  phone: +1 202-847-0122
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 7:00 AM – 10:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
-  - "washington dc"
-  - "breakfast"
-quickAnswer: "Unconventional Diner sits on 9th Street NW in Shaw, serving upscale comfort food from 7am to 10pm daily. Go for the biscuits and bacon-fat popcorn at breakfast or the fried chicken and burger later on. Weekday mornings before 9am are your best shot at a table without a wait."
+  - washington dc
+  - breakfast
+quickAnswer: >-
+  Unconventional Diner sits on 9th Street NW in Shaw, serving upscale comfort
+  food from 7am to 10pm daily. Go for the biscuits and bacon-fat popcorn at
+  breakfast or the fried chicken and burger later on. Weekday mornings before
+  9am are your best shot at a table without a wait.
 faq:
-  - q: "Do I need a reservation at Unconventional Diner?"
-    a: "Not required, but strongly recommended for weekend brunch (11am–2pm), when walk-in waits get long. Weekday mornings and dinners are easier to walk into."
-  - q: "What's the best time to visit to avoid a crowd?"
-    a: "Weekday mornings before 9am and weeknight dinners around 5:30pm, right after the doors open for the evening, tend to be quieter than weekend brunch hours."
-  - q: "How do I get there by Metro?"
-    a: "Take the Green or Yellow line to Mt Vernon Sq/7th St–Convention Center, about a 5-minute walk. Shaw–Howard University (Green line) is roughly 10 minutes on foot."
-  - q: "What should I order?"
-    a: "Start with the bacon-fat popcorn, then go for the biscuits, the fried chicken biscuit sandwich, or shrimp and grits. Weekend brunch cocktails, including the bloody mary, are also popular."
-  - q: "What are the opening hours?"
-    a: "It's open every day from 7am to 10pm, with no midday closure, so breakfast, lunch, and dinner all run out of the same continuous service window."
+  - q: Do I need a reservation at Unconventional Diner?
+    a: >-
+      Not required, but strongly recommended for weekend brunch (11am–2pm), when
+      walk-in waits get long. Weekday mornings and dinners are easier to walk
+      into.
+  - q: What's the best time to visit to avoid a crowd?
+    a: >-
+      Weekday mornings before 9am and weeknight dinners around 5:30pm, right
+      after the doors open for the evening, tend to be quieter than weekend
+      brunch hours.
+  - q: How do I get there by Metro?
+    a: >-
+      Take the Green or Yellow line to Mt Vernon Sq/7th St–Convention Center,
+      about a 5-minute walk. Shaw–Howard University (Green line) is roughly 10
+      minutes on foot.
+  - q: What should I order?
+    a: >-
+      Start with the bacon-fat popcorn, then go for the biscuits, the fried
+      chicken biscuit sandwich, or shrimp and grits. Weekend brunch cocktails,
+      including the bloody mary, are also popular.
+  - q: What are the opening hours?
+    a: >-
+      It's open every day from 7am to 10pm, with no midday closure, so
+      breakfast, lunch, and dinner all run out of the same continuous service
+      window.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-21'
 ---
 
 ## Why this place stands out

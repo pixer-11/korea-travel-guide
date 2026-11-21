@@ -17,13 +17,15 @@ heroImage:
   source: 'https://foursquare.com/v/5c49f07a1953f3002c42337a'
   focus:
     x: 25
-    y: 20
+    'y': 20
 place:
   id: ChIJeUrze2pnXj4RzcDODWlOjcQ
   name: Flavors Grill Abu Dhabi
-  address: Mina St - ميناء زايد - المنطقة الحرة 2 - أبو ظبي - United Arab Emirates
+  address: >-
+    G9H7+4HW - Mina St - ميناء زايد - المنطقة الحرة 2 - أبو ظبي - United Arab
+    Emirates
   rating: 4.9
-  userRatingsTotal: 39583
+  userRatingsTotal: 38881
   priceLevel: 3
   googleMapsUrl: >-
     https://maps.google.com/?cid=14163062616260264141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -102,7 +104,7 @@ faq:
       chops, and kofta served with garlic sauce, hummus, and flatbread are the
       core of this style of grill house.
 aiGenerated: true
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

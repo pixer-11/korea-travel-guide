@@ -4,7 +4,7 @@ description: >-
   Valle delle Ferriere is a shaded nature reserve in the hills above Amalfi,
   reachable on foot from Amalfi town or from the village of Scala/Pontone,
   following an old paper-mill valley past waterfalls, fern-draped ruins and
-  pockets of relict subtropical vegetation. 4.7★ (710 reviews) — what visitors
+  pockets of relict subtropical vegetation. 4.7★ (732 reviews) — what visitors
   say, hours, and tips.
 country: Italy
 region: Amalfi Coast
@@ -22,7 +22,7 @@ place:
   name: Valle delle Ferriere
   address: '84010 Scala, SA, Italy'
   rating: 4.7
-  userRatingsTotal: 710
+  userRatingsTotal: 732
   googleMapsUrl: >-
     https://maps.google.com/?cid=15525233130284046544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -70,7 +70,7 @@ faq:
       local guide.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 The path starts almost accidentally, you leave the lemon-scented lanes behind Amalfi's cathedral, pass the last row of stacked houses, and the road simply narrows into a mule track. Within ten minutes the noise of the coast disappears. Sound in this valley is water: it drips off ferns, rushes through old mill channels, and eventually thunders over the waterfalls that give the reserve its reputation. The air changes too, cooling and thickening with the green, slightly mineral smell of a place that almost never dries out.
 

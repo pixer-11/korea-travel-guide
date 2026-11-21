@@ -26,7 +26,7 @@ place:
   name: Amalfi Coast
   address: '84011 Amalfi, SA, Italy'
   rating: 4.7
-  userRatingsTotal: 92720
+  userRatingsTotal: 94531
   googleMapsUrl: >-
     https://maps.google.com/?cid=5541907029663108316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -68,7 +68,7 @@ faq:
       travel time to Naples/Salerno plus onward transfers.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

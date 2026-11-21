@@ -1,6 +1,10 @@
 ---
 title: 'Biang Biang Noodles: Where to Eat in Seattle (4.5★)'
-description: Head to Biang Biang Noodles on E Pike St in Capitol Hill for hand-slapped, wide biangbiang noodles doused in chili oil, plus dumplings and baos in a loud, industrial dining room. 4.5★ (1,570 reviews) — what visitors say, hours, and tips.
+description: >-
+  Head to Biang Biang Noodles on E Pike St in Capitol Hill for hand-slapped,
+  wide biangbiang noodles doused in chili oil, plus dumplings and baos in a
+  loud, industrial dining room. 4.5★ (1,638 reviews) — what visitors say, hours,
+  and tips.
 country: United States
 region: Seattle
 category: restaurant
@@ -9,11 +13,12 @@ photoless: true
 place:
   id: ChIJYYN0DHRrkFQRbz4HEE2Zxbk
   name: Biang Biang Noodles
-  address: 601 E Pike St Unit 100, Seattle, WA 98122, USA
+  address: '601 E Pike St Unit 100, Seattle, WA 98122, USA'
   rating: 4.5
-  userRatingsTotal: 1570
+  userRatingsTotal: 1638
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=13386274023689109103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13386274023689109103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 47.613918999999996
   lng: -122.3241441
@@ -42,28 +47,47 @@ place:
 tags:
   - seattle
   - noodles
-quickAnswer: Head to Biang Biang Noodles on E Pike St in Capitol Hill for hand-slapped, wide biangbiang noodles doused in chili oil, plus dumplings and baos in a loud, industrial dining room. It's calmest on weekdays 11:30am–3pm or weekend mornings right at 11:30am opening — avoid Friday and Saturday 4–9pm, when the wait stretches long.
+quickAnswer: >-
+  Head to Biang Biang Noodles on E Pike St in Capitol Hill for hand-slapped,
+  wide biangbiang noodles doused in chili oil, plus dumplings and baos in a
+  loud, industrial dining room. It's calmest on weekdays 11:30am–3pm or weekend
+  mornings right at 11:30am opening — avoid Friday and Saturday 4–9pm, when the
+  wait stretches long.
 faq:
   - q: What are biangbiang noodles?
-    a: They're wide, hand-pulled Chinese noodles that are slapped against the counter to stretch them, then tossed with chili oil, vinegar, garlic, and toppings like scallion and peanuts.
+    a: >-
+      They're wide, hand-pulled Chinese noodles that are slapped against the
+      counter to stretch them, then tossed with chili oil, vinegar, garlic, and
+      toppings like scallion and peanuts.
   - q: When is the quietest time to visit?
-    a: Weekdays between 11:30am and 3pm are calmest, and on weekends the window right at 11:30am opening tends to be quieter than later in the day.
+    a: >-
+      Weekdays between 11:30am and 3pm are calmest, and on weekends the window
+      right at 11:30am opening tends to be quieter than later in the day.
   - q: When should I avoid going?
-    a: Skip Friday and Saturday from 4pm to 9pm if you can — that's the busiest stretch and waits get long.
+    a: >-
+      Skip Friday and Saturday from 4pm to 9pm if you can — that's the busiest
+      stretch and waits get long.
   - q: How do I get there without a car?
-    a: The Capitol Hill Link light rail station (Line 1) is about a 10-minute walk, and several bus routes along Pike and Pine stop nearby.
+    a: >-
+      The Capitol Hill Link light rail station (Line 1) is about a 10-minute
+      walk, and several bus routes along Pike and Pine stop nearby.
   - q: Is it expensive?
-    a: It's mid-range for Seattle — noodle bowls, dumplings, and baos are reasonably priced, and sharing a few dishes across the table is the way to go.
+    a: >-
+      It's mid-range for Seattle — noodle bowls, dumplings, and baos are
+      reasonably priced, and sharing a few dishes across the table is the way to
+      go.
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/46454654_RvtSqMCY9IhAcntCy1SQ3p1AhFBZ8x_f_FwpSnAke6U.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/46454654_RvtSqMCY9IhAcntCy1SQ3p1AhFBZ8x_f_FwpSnAke6U.jpg
   credit: 'Photo: Foursquare user content (Biang Biang Noodles)'
   license: foursquare
-  source: https://foursquare.com/v/5ef69d53bdbe3f000763b427
+  source: 'https://foursquare.com/v/5ef69d53bdbe3f000763b427'
   focus:
     x: 50
-    y: 25
+    'y': 25
+updatedDate: '2026-11-21'
 ---
 
 You smell the chili oil before you see the door. On E Pike St in Capitol Hill, Biang Biang Noodles sits behind a wide storefront window, steam fogging the glass even in summer.

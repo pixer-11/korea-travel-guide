@@ -18,7 +18,7 @@ heroImage:
   source: 'https://foursquare.com/v/569e5d75498e861e77d3b60c'
   focus:
     x: 15
-    y: 25
+    'y': 25
 gallery:
   - url: >-
       https://fastly.4sqi.net/img/general/original/19273269_SPVGDz7M9F807hdZ9NNuf0L6SKKebG8hglgUny_Nmn8.jpg
@@ -34,7 +34,7 @@ place:
     Souq Al Zafarana, next to Al Khabisi Wedding Hall – Al Jimi - Al Ain - Al
     Jimi - Civic Center - Abu Dhabi - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 8047
+  userRatingsTotal: 8203
   priceLevel: 2
   googleMapsUrl: >-
     https://maps.google.com/?cid=16218707635677801160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -109,7 +109,7 @@ faq:
       Ain sightseeing.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

@@ -26,7 +26,7 @@ place:
   name: Parador de Alcañiz
   address: 'Castillo Calatravos, S/N, 44600 Alcañiz, Teruel, Spain'
   rating: 4.4
-  userRatingsTotal: 3650
+  userRatingsTotal: 3746
   googleMapsUrl: >-
     https://maps.google.com/?cid=12253452869184080059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -77,7 +77,7 @@ faq:
       worth an hour or two of exploring.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 ## Why go
 

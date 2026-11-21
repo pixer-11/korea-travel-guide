@@ -1,41 +1,49 @@
 ---
-title: "Muséum de Toulouse: Travel Guide (4.5★)"
-description: "The Muséum de Toulouse is a full morning or afternoon out — a 19th-century natural history museum with a taxidermy-filled main hall, dinosaur bones, and a botanical garden (Jardin des Plantes) right next door. 4.5★ (5,032 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Toulouse"
-category: "attraction"
-pubDate: "2026-08-11T09:22:18.455Z"
+title: 'Muséum de Toulouse: Travel Guide (4.5★)'
+description: >-
+  The Muséum de Toulouse is a full morning or afternoon out — a 19th-century
+  natural history museum with a taxidermy-filled main hall, dinosaur bones, and
+  a botanical garden (Jardin des Plantes) right next door. 4.5★ (5,165 reviews)
+  — what visitors say, hours, and tips.
+country: France
+region: Toulouse
+category: attraction
+pubDate: '2026-08-11T09:22:18.455Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grand_carr%C3%A9_MHNT.jpg/1920px-Grand_carr%C3%A9_MHNT.jpg"
-  credit: "Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Grand_carr%C3%A9_MHNT.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grand_carr%C3%A9_MHNT.jpg/1920px-Grand_carr%C3%A9_MHNT.jpg
+  credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Grand_carr%C3%A9_MHNT.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/31_-_Mus%C3%A9um_de_Toulouse_-_Cadomites_deslongchampsii_-_Bayeux_Calvados_France.jpg/3840px-31_-_Mus%C3%A9um_de_Toulouse_-_Cadomites_deslongchampsii_-_Bayeux_Calvados_France.jpg"
-    credit: "Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:31_-_Mus%C3%A9um_de_Toulouse_-_Cadomites_deslongchampsii_-_Bayeux_Calvados_France.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/31_-_Mus%C3%A9um_de_Toulouse_-_Cadomites_deslongchampsii_-_Bayeux_Calvados_France.jpg/3840px-31_-_Mus%C3%A9um_de_Toulouse_-_Cadomites_deslongchampsii_-_Bayeux_Calvados_France.jpg
+    credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:31_-_Mus%C3%A9um_de_Toulouse_-_Cadomites_deslongchampsii_-_Bayeux_Calvados_France.jpg
 place:
-  id: "ChIJT3pwo4a8rhIRPGSdbax1l80"
-  name: "Muséum de Toulouse"
-  address: "35 All. Jules Guesde, 31000 Toulouse, France"
+  id: ChIJT3pwo4a8rhIRPGSdbax1l80
+  name: Muséum de Toulouse
+  address: '35 All. Jules Guesde, 31000 Toulouse, France'
   rating: 4.5
-  userRatingsTotal: 5032
-  googleMapsUrl: "https://maps.google.com/?cid=14814438882692391996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5165
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14814438882692391996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.5941
   lng: 1.4492855999999998
-  phone: "+33 5 67 73 84 84"
+  phone: +33 5 67 73 84 84
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -45,24 +53,38 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_30386c3178616264534750524968723861346f777033544a496843"
+    venueId: ven_30386c3178616264534750524968723861346f777033544a496843
 tags:
-  - "toulouse"
-  - "top attraction"
-quickAnswer: "The Muséum de Toulouse is a full morning or afternoon out — a 19th-century natural history museum with a taxidermy-filled main hall, dinosaur bones, and a botanical garden (Jardin des Plantes) right next door. It's open Tuesday to Sunday, 10am–6pm, closed Monday. Weekends run busy all day, so arrive right at opening if you want the galleries to yourself."
+  - toulouse
+  - top attraction
+quickAnswer: >-
+  The Muséum de Toulouse is a full morning or afternoon out — a 19th-century
+  natural history museum with a taxidermy-filled main hall, dinosaur bones, and
+  a botanical garden (Jardin des Plantes) right next door. It's open Tuesday to
+  Sunday, 10am–6pm, closed Monday. Weekends run busy all day, so arrive right at
+  opening if you want the galleries to yourself.
 faq:
-  - q: "How much time should I budget for the Muséum de Toulouse?"
-    a: "Plan on at least two hours for the permanent galleries; families with kids or anyone adding a temporary exhibition should allow closer to three."
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 10am to 6pm. It's closed all day Monday."
-  - q: "What's the closest metro station?"
-    a: "Palais de Justice on Line B, roughly a 10-minute walk along the Allées Jules Guesde."
-  - q: "When is it least crowded?"
-    a: "Weekends stay busy the entire 10am–6pm window with no quiet lull. A weekday morning right at opening is your best bet for smaller crowds."
-  - q: "Is the botanical garden included with the museum ticket?"
-    a: "No, the Jardin des Plantes behind the museum is a public park and free to enter on its own, separate from the museum's paid galleries."
+  - q: How much time should I budget for the Muséum de Toulouse?
+    a: >-
+      Plan on at least two hours for the permanent galleries; families with kids
+      or anyone adding a temporary exhibition should allow closer to three.
+  - q: What are the opening hours?
+    a: 'Tuesday through Sunday, 10am to 6pm. It''s closed all day Monday.'
+  - q: What's the closest metro station?
+    a: >-
+      Palais de Justice on Line B, roughly a 10-minute walk along the Allées
+      Jules Guesde.
+  - q: When is it least crowded?
+    a: >-
+      Weekends stay busy the entire 10am–6pm window with no quiet lull. A
+      weekday morning right at opening is your best bet for smaller crowds.
+  - q: Is the botanical garden included with the museum ticket?
+    a: >-
+      No, the Jardin des Plantes behind the museum is a public park and free to
+      enter on its own, separate from the museum's paid galleries.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

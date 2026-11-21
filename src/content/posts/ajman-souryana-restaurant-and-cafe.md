@@ -20,7 +20,7 @@ place:
   name: Souryana Restaurant and Cafe
   address: Souryana Restaurant and cafe - Al Nakhil 2 - Ajman - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 8017
+  userRatingsTotal: 8131
   googleMapsUrl: >-
     https://maps.google.com/?cid=13454486887521034339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -95,7 +95,7 @@ faq:
       The Ajman Corniche, Ajman Museum in the old fort, and City Centre Ajman
       mall are all a short drive away and easy to combine with a meal.
 aiGenerated: true
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

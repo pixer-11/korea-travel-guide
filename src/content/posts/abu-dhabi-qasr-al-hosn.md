@@ -24,10 +24,10 @@ place:
   id: ChIJUzieB3FmXj4RL1oI-R36QmE
   name: Qasr Al Hosn
   address: >-
-    Rashid Bin Saeed Al Maktoum St(2nd St) - Al Hisn - W3 - Abu Dhabi - United
+    Al Maktoum - Sheikh Rashid Bin Saeed St - Al Hisn - W3 - Abu Dhabi - United
     Arab Emirates
   rating: 4.6
-  userRatingsTotal: 8030
+  userRatingsTotal: 8168
   googleMapsUrl: >-
     https://maps.google.com/?cid=7008438976780982831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -80,7 +80,7 @@ faq:
       making it easy to combine into a half-day downtown itinerary.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

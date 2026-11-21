@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: yokohama-yokohama-museum-of-art
-srcHash: 'dd98863bb248'
+srcHash: '3ea53f80e845'
 title: 'Museo de Arte de Yokohama: guía de viaje (4.2★)'
-description: 'A pocos minutos a pie de las estaciones de Minatomirai y Sakuragicho, el Museo de Arte de Yokohama ocupa un llamativo edificio de Kenzo Tange en el barrio de Minatomirai y reúne una colección que va de Matisse y Picasso al arte japonés contemporáneo. 4.2★ (2,825 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A pocos minutos a pie de las estaciones de Minatomirai y Sakuragicho, el Museo de Arte de Yokohama ocupa un llamativo edificio de Kenzo Tange en el barrio de Minatomirai y reúne una colección que va de Matisse y Picasso al arte japonés contemporáneo. 4.2★ (3,277 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A pocos minutos a pie de las estaciones de Minatomirai y Sakuragicho, en pleno barrio de Minatomirai, el Museo de Arte de Yokohama combina un llamativo edificio de Kenzo Tange con una colección que abarca desde Matisse y Picasso hasta el arte japonés contemporáneo. La mayor afluencia se concentra los fines de semana entre las 11am y las 5pm. Si su agenda lo permite, vaya en la última hora antes del cierre, la franja más tranquila (5pm–6pm), para recorrerlo con calma. Reserve entre 1.5 y 2 horas para la visita. Antes de ir, compruebe el horario vigente y el precio de las entradas a las exposiciones temporales, ya que ambos cambian con cada muestra.
 faq:
   - q: ¿Cómo se llega al Museo de Arte de Yokohama?

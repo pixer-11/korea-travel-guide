@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: yilan-diu-diu-dang-forest-park
-srcHash: 'badaea93adb4'
+srcHash: '3350c3afa9cf'
 title: 'Parque Forestal Diu Diu Dang: Guía de viaje de Yilan (4.2★)'
-description: 'El Parque Forestal Diu Diu Dang es una plaza gratuita, abierta las 24 horas, situada justo al lado de la estación de tren de Yilan, construida en torno a un dosel de "árboles" de acero y un tren de juguete suspendido que rinde homenaje al ilustrador de Yilan Jimmy Liao. 4.2★ (2,342 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Forestal Diu Diu Dang es una plaza gratuita, abierta las 24 horas, situada justo al lado de la estación de tren de Yilan, construida en torno a un dosel de "árboles" de acero y un tren de juguete suspendido que rinde homenaje al ilustrador de Yilan Jimmy Liao. 4.2★ (2,365 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Forestal Diu Diu Dang es una plaza gratuita, abierta las 24 horas, situada justo al lado de la estación de tren de Yilan, construida en torno a un dosel de "árboles" de acero y un tren de juguete suspendido que rinde homenaje al ilustrador de Yilan Jimmy Liao. Basta con dedicarle 20-30 minutos al llegar o salir de la estación. Los fines de semana entre las 7:00 y las 18:00 es cuando más gente hay, así que si pasas temprano por la mañana o por la noche tendrás el lugar casi para ti solo.
 faq:
   - q: ¿Cómo se llega al Parque Forestal Diu Diu Dang?

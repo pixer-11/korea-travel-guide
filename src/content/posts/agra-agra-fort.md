@@ -26,7 +26,7 @@ place:
   name: Agra Fort
   address: 'Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003, India'
   rating: 4.5
-  userRatingsTotal: 151552
+  userRatingsTotal: 153460
   googleMapsUrl: >-
     https://maps.google.com/?cid=7208676187286181238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -67,7 +67,7 @@ faq:
       updated periodically.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

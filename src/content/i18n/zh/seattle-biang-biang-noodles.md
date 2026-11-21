@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: seattle-biang-biang-noodles
-srcHash: 'b1855c03a4ed'
+srcHash: 'c3a1058c4f73'
 title: 摔面（Biang Biang Noodles）：西雅图美食指南（4.5★）
-description: 来国会山（Capitol Hill）E Pike St 上的摔面（Biang Biang Noodles），尝尝手工摔打的宽面裹满辣椒油，再配上饺子和包子，坐在热闹的工业风餐厅里大快朵颐。4.5★（1,570条评价）——看看食客怎么说、营业时间和实用建议。
+description: 来国会山（Capitol Hill）E Pike St 上的摔面（Biang Biang Noodles），尝尝手工摔打的宽面裹满辣椒油，再配上饺子和包子，坐在热闹的工业风餐厅里大快朵颐。4.5★（1,638条评价）——看看食客怎么说、营业时间和实用建议。
 quickAnswer: 来国会山（Capitol Hill）E Pike St 上的摔面（Biang Biang Noodles），尝尝手工摔打的宽面裹满辣椒油，再配上饺子和包子，坐在热闹的工业风餐厅里大快朵颐。工作日上午11:30–下午3:00或周末刚开门的上午11:30前来最为清静——尽量避开周五、周六的下午4点–晚上9点，这段时间排队会很长。
 faq:
   - q: 什么是摔面（biangbiang noodles）？

@@ -1,37 +1,45 @@
 ---
-title: "Year of Steps at Wenwu Temple: Sun Moon Lake Travel Guide"
-description: "Wenwu Temple sits on a bluff on the north shore of Sun Moon Lake, its red-and-gold gates stacked above a long flight of steps with lake views behind you the whole climb. 4.5★ (3,510 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Sun Moon Lake"
-category: "attraction"
-pubDate: "2026-08-10T09:11:42.221Z"
+title: 'Year of Steps at Wenwu Temple: Sun Moon Lake Travel Guide'
+description: >-
+  Wenwu Temple sits on a bluff on the north shore of Sun Moon Lake, its
+  red-and-gold gates stacked above a long flight of steps with lake views behind
+  you the whole climb. 4.5★ (3,640 reviews) — what visitors say, hours, and
+  tips.
+country: Taiwan
+region: Sun Moon Lake
+category: attraction
+pubDate: '2026-08-10T09:11:42.221Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg"
-  credit: "Photo: S099001 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Year_of_Steps_at_Wenwu_Temple.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg
+  credit: 'Photo: S099001 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Year_of_Steps_at_Wenwu_Temple.jpg'
 gallery: []
 place:
-  id: "ChIJt4daGGnWaDQRPEbJeWx9KtQ"
-  name: "Year of Steps at Wenwu Temple"
-  address: "No. 63號, Zhongzheng Rd, Shuishe Village, Yuchi Township, Nantou County, Taiwan 555"
+  id: ChIJt4daGGnWaDQRPEbJeWx9KtQ
+  name: Year of Steps at Wenwu Temple
+  address: >-
+    No. 63號, Zhongzheng Rd, Shuishe Village, Yuchi Township, Nantou County,
+    Taiwan 555
   rating: 4.5
-  userRatingsTotal: 3510
-  googleMapsUrl: "https://maps.google.com/?cid=15288169789915743804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3640
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15288169789915743804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.8693982
   lng: 120.9269767
-  phone: "+886 49 285 5023"
+  phone: +886 49 285 5023
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 19
@@ -60,24 +68,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_51744b397857654a62455052514461576e4747616434744a496843"
+    venueId: ven_51744b397857654a62455052514461576e4747616434744a496843
 tags:
-  - "sun moon lake"
-  - "top attraction"
-quickAnswer: "Wenwu Temple sits on a bluff on the north shore of Sun Moon Lake, its red-and-gold gates stacked above a long flight of steps with lake views behind you the whole climb. It's open 24 hours, but for calm go on a weekday between 7am and 8am or 7pm and 11pm — weekends get busy from 9am to 6pm, quieting only after 8pm. Budget 45–60 minutes, and pair it with a bike ride or boat stop nearby."
+  - sun moon lake
+  - top attraction
+quickAnswer: >-
+  Wenwu Temple sits on a bluff on the north shore of Sun Moon Lake, its
+  red-and-gold gates stacked above a long flight of steps with lake views behind
+  you the whole climb. It's open 24 hours, but for calm go on a weekday between
+  7am and 8am or 7pm and 11pm — weekends get busy from 9am to 6pm, quieting only
+  after 8pm. Budget 45–60 minutes, and pair it with a bike ride or boat stop
+  nearby.
 faq:
-  - q: "How do I get to Wenwu Temple at Sun Moon Lake?"
-    a: "Take the round-the-lake shuttle bus or bike path to Shuishe Village, then walk or take a short local bus up Zhongzheng Road. Many visitors also arrive by boat to the nearby pier and walk up from there."
-  - q: "Is there an entrance fee?"
-    a: "No, entry is free. The temple is open 24 hours daily, and there's no ticket booth — just donation boxes if you'd like to leave an offering."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays from 7am to 8am and 7pm to 11pm are calmest. On weekends, aim for after 8pm — crowds build steadily from 9am to 6pm as day-trip groups arrive."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 45 minutes to an hour climbing the staircase and exploring the halls and terraces, longer if you're stopping often for lake views."
-  - q: "What else is nearby?"
-    a: "The temple sits right on the lake's bike loop and shuttle route, close to Shuishe Village's restaurants and the boat piers used for cross-lake trips to Xuanguang Temple and Ita Thao."
+  - q: How do I get to Wenwu Temple at Sun Moon Lake?
+    a: >-
+      Take the round-the-lake shuttle bus or bike path to Shuishe Village, then
+      walk or take a short local bus up Zhongzheng Road. Many visitors also
+      arrive by boat to the nearby pier and walk up from there.
+  - q: Is there an entrance fee?
+    a: >-
+      No, entry is free. The temple is open 24 hours daily, and there's no
+      ticket booth — just donation boxes if you'd like to leave an offering.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays from 7am to 8am and 7pm to 11pm are calmest. On weekends, aim for
+      after 8pm — crowds build steadily from 9am to 6pm as day-trip groups
+      arrive.
+  - q: How long should I plan to spend here?
+    a: >-
+      Most visitors spend 45 minutes to an hour climbing the staircase and
+      exploring the halls and terraces, longer if you're stopping often for lake
+      views.
+  - q: What else is nearby?
+    a: >-
+      The temple sits right on the lake's bike loop and shuttle route, close to
+      Shuishe Village's restaurants and the boat piers used for cross-lake trips
+      to Xuanguang Temple and Ita Thao.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-21'
 ---
 
 ## Why Wenwu Temple earns the climb

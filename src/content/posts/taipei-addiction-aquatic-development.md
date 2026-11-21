@@ -1,31 +1,41 @@
 ---
 title: 'Addiction Aquatic Development: Where to Eat in Taipei (4.0★)'
-description: Addiction Aquatic Development (地下海鮮 / 上引水產) is a sprawling seafood market-cum-restaurant in Zhongshan District, open daily 7am–10:30pm, where you grab a tray at the sushi bar, self-serve grilled seafood, or sit down for a full meal. 4.0★ (13,153 reviews) — what visitors say, hours, and tips.
+description: >-
+  Addiction Aquatic Development (地下海鮮 / 上引水產) is a sprawling seafood
+  market-cum-restaurant in Zhongshan District, open daily 7am–10:30pm, where you
+  grab a tray at the sushi bar, self-serve grilled seafood, or sit down for a
+  full meal. 4.0★ (13,492 reviews) — what visitors say, hours, and tips.
 country: Taiwan
 region: Taipei
 category: restaurant
 pubDate: '2026-08-06T10:13:20.485Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6400047_moki8Fk7EHLQzOjc53-GdMwq2ZZdk9WC1KaEkR7qW80.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/6400047_moki8Fk7EHLQzOjc53-GdMwq2ZZdk9WC1KaEkR7qW80.jpg
   credit: 'Photo: Foursquare user content (Addiction Aquatic Development (上引水產))'
   license: foursquare
-  source: https://foursquare.com/v/4f361cf6e4b0cc4ce20bac8a
+  source: 'https://foursquare.com/v/4f361cf6e4b0cc4ce20bac8a'
   focus:
     x: 25
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg/1920px-Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg/1920px-Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg
     credit: 'Photo: Oliver Propst / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Sushi_Section_At_Addiction_Aquatic_Development_(72928571).jpeg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sushi_Section_At_Addiction_Aquatic_Development_(72928571).jpeg
 place:
   id: ChIJ_3AKcP2rQjQRG-FBsLE_NWY
   name: Addiction Aquatic Development
-  address: No. 18號, Alley 2, Lane 410, Minzu E Rd, Xingxiao Village, Zhongshan District, Taipei City, Taiwan 10491
+  address: >-
+    No. 18號, Alley 2, Lane 410, Minzu E Rd, Xingxiao Village, Zhongshan
+    District, Taipei City, Taiwan 10491
   rating: 4
-  userRatingsTotal: 13153
+  userRatingsTotal: 13492
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=7364862798033183003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7364862798033183003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.066707899999997
   lng: 121.5370059
@@ -57,19 +67,42 @@ place:
 tags:
   - taipei
   - seafood
-quickAnswer: Addiction Aquatic Development (地下海鮮 / 上引水產) is a sprawling seafood market-cum-restaurant in Zhongshan District, open daily 7am–10:30pm, where you grab a tray at the sushi bar, self-serve grilled seafood, or sit down for a full meal. It's genuinely busy — weekends from 9am–3pm see the longest lines — so aim for a weekday morning or after 9pm to move through quickly. It's mid-range for the city, depending on how much fresh sashimi and seafood you pile on.
+quickAnswer: >-
+  Addiction Aquatic Development (地下海鮮 / 上引水產) is a sprawling seafood
+  market-cum-restaurant in Zhongshan District, open daily 7am–10:30pm, where you
+  grab a tray at the sushi bar, self-serve grilled seafood, or sit down for a
+  full meal. It's genuinely busy — weekends from 9am–3pm see the longest lines —
+  so aim for a weekday morning or after 9pm to move through quickly. It's
+  mid-range for the city, depending on how much fresh sashimi and seafood you
+  pile on.
 faq:
   - q: How do I get to Addiction Aquatic Development without a car?
-    a: Take the MRT to Zhongshan or Minquan W. Road station (Red or Green line), then a short taxi ride of about 10–15 minutes — the market is down a lane off Minzu E Road and isn't a direct walk from either station.
+    a: >-
+      Take the MRT to Zhongshan or Minquan W. Road station (Red or Green line),
+      then a short taxi ride of about 10–15 minutes — the market is down a lane
+      off Minzu E Road and isn't a direct walk from either station.
   - q: What's the best time to go to avoid crowds?
-    a: Weekday mornings are calmest all day. If you can only go on a weekend, aim for 9pm–10pm before the 10:30pm close — busiest weekend hours run from 9am to 3pm.
+    a: >-
+      Weekday mornings are calmest all day. If you can only go on a weekend, aim
+      for 9pm–10pm before the 10:30pm close — busiest weekend hours run from 9am
+      to 3pm.
   - q: How much does a meal cost?
-    a: 'It''s mid-range and pay-as-you-go: you buy from each counter separately, so a satisfying spread of sashimi, grilled seafood, and an oyster or two adds up per person depending on what you choose.'
+    a: >-
+      It's mid-range and pay-as-you-go: you buy from each counter separately, so
+      a satisfying spread of sashimi, grilled seafood, and an oyster or two adds
+      up per person depending on what you choose.
   - q: Do I need a reservation?
-    a: No reservations for the market counters (sushi bar, grill, oyster bar) — you queue on the spot. The sit-down restaurant section may take groups, but the counters are first-come, first-served.
+    a: >-
+      No reservations for the market counters (sushi bar, grill, oyster bar) —
+      you queue on the spot. The sit-down restaurant section may take groups,
+      but the counters are first-come, first-served.
   - q: How long should I plan to spend there?
-    a: Most visits run 45 minutes to 1.5 hours, depending on how many stations you visit and whether you sit down for a full meal versus grazing standing up.
+    a: >-
+      Most visits run 45 minutes to 1.5 hours, depending on how many stations
+      you visit and whether you sit down for a full meal versus grazing standing
+      up.
 aiGenerated: true
+updatedDate: '2026-11-21'
 ---
 
 ## Why it's unlike a normal restaurant

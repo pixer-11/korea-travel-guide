@@ -27,7 +27,7 @@ place:
   name: Ankara Castle
   address: 'Kale, 06240 Altındağ/Ankara, Türkiye'
   rating: 4.4
-  userRatingsTotal: 22958
+  userRatingsTotal: 23660
   googleMapsUrl: >-
     https://maps.google.com/?cid=8364838193171005888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -80,7 +80,7 @@ faq:
       in the same day.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 The climb starts before you notice it's begun. From Ulus, the streets tilt upward, cobbles replace asphalt, and the modern city's noise thins out until you're walking between stone houses stacked one on top of the next, laundry strung between windows, cats sunning themselves on doorsteps. This is the Kale district, and above it, blunt and weathered, rises the double ring of walls that gives Ankara Castle its silhouette from almost anywhere in the city.

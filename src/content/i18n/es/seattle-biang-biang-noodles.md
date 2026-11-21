@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: seattle-biang-biang-noodles
-srcHash: 'b1855c03a4ed'
+srcHash: 'c3a1058c4f73'
 title: 'Biang Biang Noodles: dónde comer en Seattle (4,5★)'
-description: 'En Biang Biang Noodles, en E Pike St, en Capitol Hill, sirven fideos biangbiang anchos y estirados a mano, bañados en aceite de chile, además de dumplings y baos, en un comedor industrial y ruidoso. 4,5★ (1.570 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Biang Biang Noodles, en E Pike St, en Capitol Hill, sirven fideos biangbiang anchos y estirados a mano, bañados en aceite de chile, además de dumplings y baos, en un comedor industrial y ruidoso. 4,5★ (1.638 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Biang Biang Noodles, en E Pike St, en Capitol Hill, sirven fideos biangbiang anchos y estirados a mano, bañados en aceite de chile, además de dumplings y baos, en un comedor industrial y ruidoso. El local está más tranquilo entre semana de 11:30 a 15:00 h o los fines de semana justo a la apertura, a las 11:30 h. Conviene evitar el viernes y el sábado de 16:00 a 21:00 h, cuando la espera se alarga bastante.
 faq:
   - q: ¿Qué son los fideos biangbiang?

@@ -15,7 +15,7 @@ heroImage:
   source: 'https://foursquare.com/v/639d9bff2a0b131573dfb81f'
   focus:
     x: 15
-    y: 30
+    'y': 30
 gallery:
   - url: >-
       https://fastly.4sqi.net/img/general/original/1411689224_LcEQTAcr__6nEJDB7zGzkRnY7jXghW9h8ouDcXPnEG0.jpg
@@ -29,7 +29,7 @@ place:
     6Q88+JPQ - Central District - Al Ain Oasis - Abu Dhabi - United Arab
     Emirates
   rating: 4.6
-  userRatingsTotal: 1220
+  userRatingsTotal: 1299
   googleMapsUrl: >-
     https://maps.google.com/?cid=2785779804343252296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -96,7 +96,7 @@ faq:
       single half-day outing.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-09'
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

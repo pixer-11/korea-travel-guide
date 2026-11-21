@@ -1,30 +1,43 @@
 ---
 title: 'Sacred Monkey Forest Sanctuary: Ubud Travel Guide (4.5★)'
-description: The Sacred Monkey Forest Sanctuary in central Ubud is open daily from 9am to 5pm, and it's genuinely worth a visit for its moss-covered temples and free-roaming long-tailed macaques — but go right at opening to beat both the heat and the tour bus crowds. 4.5★ (59,410 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Sacred Monkey Forest Sanctuary in central Ubud is open daily from 9am to
+  5pm, and it's genuinely worth a visit for its moss-covered temples and
+  free-roaming long-tailed macaques — but go right at opening to beat both the
+  heat and the tour bus crowds. 4.5★ (60,228 reviews) — what visitors say,
+  hours, and tips.
 country: Indonesia
 region: Ubud
 category: attraction
 pubDate: '2026-08-11T08:23:22.276Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/59770014_J1uVgnvAl8OhhqElOgYUSG1y-9R17WfHWbq5XmLBwZE.jpg
-  credit: 'Photo: Foursquare user content (Sacred Monkey Forest Sanctuary (Mandala Suci Wenara Wana))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/59770014_J1uVgnvAl8OhhqElOgYUSG1y-9R17WfHWbq5XmLBwZE.jpg
+  credit: >-
+    Photo: Foursquare user content (Sacred Monkey Forest Sanctuary (Mandala Suci
+    Wenara Wana))
   license: foursquare
-  source: https://foursquare.com/v/4c7364260e8cbfb7857509db
+  source: 'https://foursquare.com/v/4c7364260e8cbfb7857509db'
   focus:
     x: 35
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688747778%29.jpg/960px-Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688747778%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688747778%29.jpg/960px-Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688747778%29.jpg
     credit: 'Photo: William Cho / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_(2688747778).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_(2688747778).jpg
 place:
   id: ChIJZ5sY9kM90i0RVsPvSxZD7LY
   name: Sacred Monkey Forest Sanctuary
-  address: Jl. Monkey Forest, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia
+  address: >-
+    Jl. Monkey Forest, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571,
+    Indonesia
   rating: 4.5
-  userRatingsTotal: 59410
-  googleMapsUrl: https://maps.google.com/?cid=13180983972448944982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 60228
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13180983972448944982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.5193727
   lng: 115.26062990000001
@@ -40,20 +53,37 @@ place:
 tags:
   - ubud
   - top attraction
-quickAnswer: The Sacred Monkey Forest Sanctuary in central Ubud is open daily from 9am to 5pm, and it's genuinely worth a visit for its moss-covered temples and free-roaming long-tailed macaques — but go right at opening to beat both the heat and the tour bus crowds. Budget 45–90 minutes, wear closed shoes, and keep sunglasses, snacks, and dangling jewelry zipped away.
+quickAnswer: >-
+  The Sacred Monkey Forest Sanctuary in central Ubud is open daily from 9am to
+  5pm, and it's genuinely worth a visit for its moss-covered temples and
+  free-roaming long-tailed macaques — but go right at opening to beat both the
+  heat and the tour bus crowds. Budget 45–90 minutes, wear closed shoes, and
+  keep sunglasses, snacks, and dangling jewelry zipped away.
 faq:
   - q: What are the opening hours?
-    a: The sanctuary is open daily from 9:00 AM to 5:00 PM, with last entry usually about an hour before closing.
+    a: >-
+      The sanctuary is open daily from 9:00 AM to 5:00 PM, with last entry
+      usually about an hour before closing.
   - q: How much time should I budget?
-    a: Plan for 45 minutes for a quick walkthrough, or up to 90 minutes if you want to explore all three temples and watch the monkeys.
+    a: >-
+      Plan for 45 minutes for a quick walkthrough, or up to 90 minutes if you
+      want to explore all three temples and watch the monkeys.
   - q: When is it least crowded?
-    a: Right at 9am opening is calmest. Midday (11am–2pm) draws the most tour groups; things thin out again after 3:30pm.
-  - q: Is it safe to bring food, sunglasses, or a bag?
-    a: Avoid carrying visible food or dangling accessories like sunglasses and earrings — macaques will grab them. Keep phones and cameras gripped firmly or zipped away.
+    a: >-
+      Right at 9am opening is calmest. Midday (11am–2pm) draws the most tour
+      groups; things thin out again after 3:30pm.
+  - q: 'Is it safe to bring food, sunglasses, or a bag?'
+    a: >-
+      Avoid carrying visible food or dangling accessories like sunglasses and
+      earrings — macaques will grab them. Keep phones and cameras gripped firmly
+      or zipped away.
   - q: How do I get there from central Ubud?
-    a: It's about a 15–20 minute walk from Ubud Palace along Jalan Monkey Forest, or a short Grab/Gojek ride if you'd rather not walk in the heat.
+    a: >-
+      It's about a 15–20 minute walk from Ubud Palace along Jalan Monkey Forest,
+      or a short Grab/Gojek ride if you'd rather not walk in the heat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

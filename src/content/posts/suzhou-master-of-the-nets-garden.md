@@ -1,44 +1,70 @@
 ---
-title: "Master of the Nets Garden: Suzhou Travel Guide (4.6★)"
-description: "Master of the Nets Garden is a small, 12th-century classical garden in Suzhou's Gusu District, best visited in the late morning to avoid tour buses that favor the bigger gardens across town. 4.6★ (156 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Suzhou"
-category: "attraction"
-pubDate: "2026-08-07T08:43:38.157Z"
+title: 'Master of the Nets Garden: Suzhou Travel Guide (4.6★)'
+description: >-
+  Master of the Nets Garden is a small, 12th-century classical garden in
+  Suzhou's Gusu District, best visited in the late morning to avoid tour buses
+  that favor the bigger gardens across town. 4.6★ (168 reviews) — what visitors
+  say, hours, and tips.
+country: China
+region: Suzhou
+category: attraction
+pubDate: '2026-08-07T08:43:38.157Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Master_of_the_Nets_Garden_Suzhou.jpg/1920px-Master_of_the_Nets_Garden_Suzhou.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Master_of_the_Nets_Garden_Suzhou.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Master_of_the_Nets_Garden_Suzhou.jpg/1920px-Master_of_the_Nets_Garden_Suzhou.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Master_of_the_Nets_Garden_Suzhou.jpg'
 gallery: []
 place:
-  id: "ChIJmZ1wSjqnszURfTMg4MajkRQ"
-  name: "Master of the Nets Garden"
-  address: "Gusu District, Suzhou, China, 215005"
+  id: ChIJmZ1wSjqnszURfTMg4MajkRQ
+  name: Master of the Nets Garden
+  address: 'Gusu District, Suzhou, China, 215005'
   rating: 4.6
-  userRatingsTotal: 156
-  googleMapsUrl: "https://maps.google.com/?cid=1482145826940662653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 168
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1482145826940662653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.297825999999997
   lng: 120.63416799999999
-  phone: "+86 512 6529 3190"
+  phone: +86 512 6529 3190
 tags:
-  - "suzhou"
-  - "park"
-quickAnswer: "Master of the Nets Garden is a small, 12th-century classical garden in Suzhou's Gusu District, best visited in the late morning to avoid tour buses that favor the bigger gardens across town. Budget 45–75 minutes for the daytime garden, and if you can, return for the seasonal evening performance held inside the pavilions themselves. It's less crowded than Suzhou's headline gardens, so it rewards a slow, quiet look."
+  - suzhou
+  - park
+quickAnswer: >-
+  Master of the Nets Garden is a small, 12th-century classical garden in
+  Suzhou's Gusu District, best visited in the late morning to avoid tour buses
+  that favor the bigger gardens across town. Budget 45–75 minutes for the
+  daytime garden, and if you can, return for the seasonal evening performance
+  held inside the pavilions themselves. It's less crowded than Suzhou's headline
+  gardens, so it rewards a slow, quiet look.
 faq:
-  - q: "How much time should I spend at Master of the Nets Garden?"
-    a: "Plan for 45–75 minutes during the day. If you attend the evening performance, add another hour or so for that separately."
-  - q: "When is the quietest time to visit?"
-    a: "Late morning on a weekday, after tour groups head to the larger gardens like Humble Administrator's Garden, tends to be calmest."
-  - q: "How do I get there from Suzhou Railway Station?"
-    a: "It's about a 20-minute taxi or ride-hailing trip depending on traffic. Save the address in Chinese characters to show your driver, since the old-city lanes can confuse GPS."
-  - q: "Is the evening performance worth planning around?"
-    a: "Yes — it's staged inside the actual pavilions and courtyards, typically during warmer months, and is far less crowded than similar shows at bigger Suzhou sites. Confirm current dates locally before you go."
-  - q: "Can I combine it with other gardens in one day?"
-    a: "Yes, it sits in the Gusu District within reach of Suzhou's other classical gardens, making it easy to pair with a second garden visit on the same day."
+  - q: How much time should I spend at Master of the Nets Garden?
+    a: >-
+      Plan for 45–75 minutes during the day. If you attend the evening
+      performance, add another hour or so for that separately.
+  - q: When is the quietest time to visit?
+    a: >-
+      Late morning on a weekday, after tour groups head to the larger gardens
+      like Humble Administrator's Garden, tends to be calmest.
+  - q: How do I get there from Suzhou Railway Station?
+    a: >-
+      It's about a 20-minute taxi or ride-hailing trip depending on traffic.
+      Save the address in Chinese characters to show your driver, since the
+      old-city lanes can confuse GPS.
+  - q: Is the evening performance worth planning around?
+    a: >-
+      Yes — it's staged inside the actual pavilions and courtyards, typically
+      during warmer months, and is far less crowded than similar shows at bigger
+      Suzhou sites. Confirm current dates locally before you go.
+  - q: Can I combine it with other gardens in one day?
+    a: >-
+      Yes, it sits in the Gusu District within reach of Suzhou's other classical
+      gardens, making it easy to pair with a second garden visit on the same
+      day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-21'
 ---
 
 ## Why go

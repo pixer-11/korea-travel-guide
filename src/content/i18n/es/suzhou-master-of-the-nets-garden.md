@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: suzhou-master-of-the-nets-garden
-srcHash: '15d4fd69a34e'
+srcHash: 'afccd96c8812'
 title: 'Jardín del Administrador Humilde... espera, no: Jardín de la Red del Pescador (Wangshi Yuan): guía de viaje a Suzhou (4.6★)'
-description: 'El Jardín de la Red del Pescador es un pequeño jardín clásico del siglo XII situado en el distrito de Gusu, en Suzhou; conviene visitarlo a media mañana para evitar los autobuses turísticos que se concentran en los jardines más grandes de la ciudad. 4.6★ (156 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
+description: 'El Jardín de la Red del Pescador es un pequeño jardín clásico del siglo XII situado en el distrito de Gusu, en Suzhou; conviene visitarlo a media mañana para evitar los autobuses turísticos que se concentran en los jardines más grandes de la ciudad. 4.6★ (168 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
 quickAnswer: El Jardín de la Red del Pescador es un pequeño jardín clásico del siglo XII situado en el distrito de Gusu, en Suzhou; conviene visitarlo a media mañana para evitar los autobuses turísticos que se concentran en los jardines más grandes de la ciudad. Para la visita diurna, calcule entre 45 y 75 minutos, y si puede, vuelva por la noche para disfrutar de la función estacional que se representa dentro de los propios pabellones. Al recibir menos afluencia que los jardines más famosos de Suzhou, premia especialmente una visita tranquila y pausada.
 faq:
   - q: ¿Cuánto tiempo debería dedicar al Jardín de la Red del Pescador?

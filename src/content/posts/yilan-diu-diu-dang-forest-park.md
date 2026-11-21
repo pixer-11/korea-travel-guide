@@ -1,36 +1,45 @@
 ---
-title: "Diu Diu Dang Forest Park: Yilan Travel Guide (4.2★)"
-description: "Diu Diu Dang Forest Park is a free, open-24-hours plaza right by Yilan Train Station, built around a canopy of steel \"trees\" and a suspended toy train that pays tribute to Yilan-born picture-book artist Jimmy Liao. 4.2★ (2,342 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Yilan"
-category: "attraction"
-pubDate: "2026-08-11T09:24:16.787Z"
+title: 'Diu Diu Dang Forest Park: Yilan Travel Guide (4.2★)'
+description: >-
+  Diu Diu Dang Forest Park is a free, open-24-hours plaza right by Yilan Train
+  Station, built around a canopy of steel "trees" and a suspended toy train that
+  pays tribute to Yilan-born picture-book artist Jimmy Liao. 4.2★ (2,365
+  reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Yilan
+category: attraction
+pubDate: '2026-08-11T09:24:16.787Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg/3840px-Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg/3840px-Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg
 gallery: []
 place:
-  id: "ChIJgxw4utvkZzQRHagyFzFpfMY"
-  name: "Diu Diu Dang Forest Park"
-  address: "No. 236, Section 1, Yixing Rd, Daxin Village, Yilan City, Yilan County, Taiwan 260"
+  id: ChIJgxw4utvkZzQRHagyFzFpfMY
+  name: Diu Diu Dang Forest Park
+  address: >-
+    No. 236, Section 1, Yixing Rd, Daxin Village, Yilan City, Yilan County,
+    Taiwan 260
   rating: 4.2
-  userRatingsTotal: 2342
-  googleMapsUrl: "https://maps.google.com/?cid=14302422176185362461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2365
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14302422176185362461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.754636599999998
   lng: 121.75707340000001
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekendBusy:
       - 7
       - 8
@@ -43,24 +52,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_594d6670467a467967614852517a5a6b767475347778674a496843"
+    venueId: ven_594d6670467a467967614852517a5a6b767475347778674a496843
 tags:
-  - "yilan"
-  - "top attraction"
-quickAnswer: "Diu Diu Dang Forest Park is a free, open-24-hours plaza right by Yilan Train Station, built around a canopy of steel \"trees\" and a suspended toy train that pays tribute to Yilan-born picture-book artist Jimmy Liao. Give it 20-30 minutes on your way in or out of the station — it's busiest on weekends between 7am and 6pm, so an early morning or evening pass gets you the space to yourself."
+  - yilan
+  - top attraction
+quickAnswer: >-
+  Diu Diu Dang Forest Park is a free, open-24-hours plaza right by Yilan Train
+  Station, built around a canopy of steel "trees" and a suspended toy train that
+  pays tribute to Yilan-born picture-book artist Jimmy Liao. Give it 20-30
+  minutes on your way in or out of the station — it's busiest on weekends
+  between 7am and 6pm, so an early morning or evening pass gets you the space to
+  yourself.
 faq:
-  - q: "How do I get to Diu Diu Dang Forest Park?"
-    a: "It's right outside the front plaza of Yilan Train Station on Yixing Road, so if you arrive by train from Taipei (about 1.5-2 hours) you'll see it within a minute of exiting."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a free, unticketed public plaza that's open 24 hours every day."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 15-30 minutes — it's a photo stop and walkthrough rather than a full attraction, best paired with Yilan's old streets or night market nearby."
-  - q: "When is it least crowded?"
-    a: "Weekends see heavy foot traffic between 7am and 6pm as day-trippers pass through the station. A weekday visit or an evening stop after 6pm is noticeably quieter."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "Yilan's covered old street markets and night market are an easy walk from the station, making it simple to combine with the park before or after a train."
+  - q: How do I get to Diu Diu Dang Forest Park?
+    a: >-
+      It's right outside the front plaza of Yilan Train Station on Yixing Road,
+      so if you arrive by train from Taipei (about 1.5-2 hours) you'll see it
+      within a minute of exiting.
+  - q: Is there an entrance fee?
+    a: 'No, it''s a free, unticketed public plaza that''s open 24 hours every day.'
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 15-30 minutes — it's a photo stop and walkthrough
+      rather than a full attraction, best paired with Yilan's old streets or
+      night market nearby.
+  - q: When is it least crowded?
+    a: >-
+      Weekends see heavy foot traffic between 7am and 6pm as day-trippers pass
+      through the station. A weekday visit or an evening stop after 6pm is
+      noticeably quieter.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      Yilan's covered old street markets and night market are an easy walk from
+      the station, making it simple to combine with the park before or after a
+      train.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-21'
 ---
 ## Why go
 

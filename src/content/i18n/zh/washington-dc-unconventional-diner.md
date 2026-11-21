@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: washington-dc-unconventional-diner
-srcHash: '512485cca3cf'
+srcHash: '9d4083540b65'
 title: Unconventional Diner:华盛顿DC美食推荐(4.7★)
-description: Unconventional Diner位于Shaw区9th Street NW,每天早7点到晚10点供应高档美式家常菜。4.7★(8,901条评价)——游客评价、营业时间与实用建议。
+description: Unconventional Diner位于Shaw区9th Street NW,每天早7点到晚10点供应高档美式家常菜。4.7★(9,902条评价)——游客评价、营业时间与实用建议。
 quickAnswer: Unconventional Diner位于Shaw区9th Street NW,每天早7点到晚10点供应高档美式家常菜。早餐时段可以点比司吉(biscuits)和培根油爆米花，晚一些则推荐炸鸡和汉堡。工作日上午9点前是避开排队、顺利拿到座位的最佳时机。
 faq:
   - q: 在Unconventional Diner用餐需要预订吗?
