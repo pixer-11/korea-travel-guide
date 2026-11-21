@@ -21,6 +21,14 @@ place:
   lat: 51.761762499999996
   lng: -1.2534982
   phone: +44 1865 282040
+  openingHours:
+    - 'Monday: 7:45 AM – 5:00 PM'
+    - 'Tuesday: 7:45 AM – 5:00 PM'
+    - 'Wednesday: 7:45 AM – 5:00 PM'
+    - 'Thursday: 7:45 AM – 5:00 PM'
+    - 'Friday: 7:45 AM – 5:00 PM'
+    - 'Saturday: 7:45 AM – 5:00 PM'
+    - 'Sunday: 7:45 AM – 5:00 PM'
 tags:
   - oxford
   - park
