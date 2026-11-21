@@ -2566,10 +2566,20 @@
   }
  },
  "da-nang-my-son": {
-  "bodyHash": "f23ba91124e4",
+  "bodyHash": "d98e90895f60",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:03.501Z",
-  "result": null
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": {
+   "slug": "da-nang-my-son",
+   "category": "attraction",
+   "region": "Da Nang",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Pay entrance fees in Vietnamese dong cash; card acceptance at rural ticket counters is unreliable"
+    }
+   ]
+  }
  },
  "penang-kek-lok-si-temple": {
   "bodyHash": "14fa065a043b",
@@ -2593,32 +2603,23 @@
   "result": null
  },
  "austin-formula-1-united-states-grand-prix": {
-  "bodyHash": "4d56556c9ec7",
+  "bodyHash": "64854f286816",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:39.599Z",
-  "result": {
-   "slug": "austin-formula-1-united-states-grand-prix",
-   "category": "event",
-   "region": "Austin",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "For 2026, the music side featured Maroon 5 and Post Malone as headliners."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
  },
  "jordan-yat-tung-heen-eaton-hk": {
-  "bodyHash": "f26547594c23",
+  "bodyHash": "eabd2f000068",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:04.443Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
+   "slug": "jordan-yat-tung-heen-eaton-hk",
    "category": "restaurant",
    "region": "Jordan",
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "pu-erh and oolong are safe, classic choices"
+     "quote": "Take the MTR to Jordan Station (Tsuen Wan Line) and use Exit C2, which puts you almost directly outside the hotel entrance."
     },
     {
      "type": "invented-specifics",
@@ -2884,9 +2885,9 @@
   "result": null
  },
  "bohol-national-museum-of-the-philippines-bohol": {
-  "bodyHash": "8e46460b24eb",
+  "bodyHash": "c803417fd3e4",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:40.131Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
    "slug": "bohol-national-museum-of-the-philippines-bohol",
    "category": "attraction",
@@ -2894,11 +2895,11 @@
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "bring small bills just in case"
+     "quote": "Pay at the entrance"
     },
     {
      "type": "other-glaring",
-     "quote": "Pay at the entrance"
+     "quote": "Most visitors treat the museum as a half-day-morning anchor before continuing inland toward the Chocolate Hills or Loboc River in the afternoon."
     }
    ]
   }
@@ -3104,20 +3105,10 @@
   }
  },
  "bukhara-toqi-zargaron": {
-  "bodyHash": "dba4375b7695",
+  "bodyHash": "e1362daa5b97",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:10:07.352Z",
-  "result": {
-   "slug": "bukhara-toqi-zargaron",
-   "category": "hidden-gem",
-   "region": "Bukhara",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Give it 15 to 20 minutes if you're moving through the bazaar quarter"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
  },
  "austin-museum-of-the-weird": {
   "bodyHash": "91f9938516ca",
@@ -3132,24 +3123,10 @@
   "result": null
  },
  "bugis-albert-centre-market-food-centre": {
-  "bodyHash": "1d413b9be5c2",
+  "bodyHash": "459a9aa62d8f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:10:07.561Z",
-  "result": {
-   "slug": "bugis-albert-centre-market-food-centre",
-   "category": "restaurant",
-   "region": "Bugis",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "a wet market, fresh produce, fish, meat, and dried goods stalls that open early and wind down by early afternoon"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "Fishball noodles and bak chor mee (minced pork noodles)"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
  },
  "jordan-the-astor": {
   "bodyHash": "153ce93437b7",
@@ -3225,19 +3202,10 @@
   "result": null
  },
  "new-delhi-yamuna-ghat": {
-  "bodyHash": "5ec7a0c183da",
+  "bodyHash": "20c0b3835dc6",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:19.132Z",
-  "result": {
-   "category": "attraction",
-   "region": "New Delhi",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "visit later in the evening instead, when the crowds and vendors have largely cleared out"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
  },
  "kolkata-calcutta-riverside": {
   "bodyHash": "63244fed6d80",
@@ -3252,10 +3220,11 @@
   "result": null
  },
  "toulouse-basilique-saint-sernin-de-toulouse": {
-  "bodyHash": "259875acbd21",
+  "bodyHash": "3862b0b3b73d",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:18.877Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
+   "slug": "toulouse-basilique-saint-sernin-de-toulouse",
    "category": "hidden-gem",
    "region": "Toulouse",
    "prose": [
@@ -3334,9 +3303,9 @@
   }
  },
  "jaipur-the-city-palace": {
-  "bodyHash": "4cc10f37ac59",
+  "bodyHash": "58c77a9d1850",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:21.122Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": null
  },
  "guangzhou-yuexiu-park": {
@@ -3346,16 +3315,17 @@
   "result": null
  },
  "new-delhi-shri-laxmi-narayan-temple-birla-mandir": {
-  "bodyHash": "c918091442df",
+  "bodyHash": "f18f5e18d848",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:21.740Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
+   "slug": "new-delhi-shri-laxmi-narayan-temple-birla-mandir",
    "category": "attraction",
    "region": "New Delhi",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "RK Ashram Marg and Jhandewalan, both on the Blue Line"
+     "type": "other-glaring",
+     "quote": "With rating and foot traffic this high, the temple is firmly on the tourist circuit"
     }
    ]
   }
@@ -4081,9 +4051,9 @@
   "result": null
  },
  "dubai-nancy-ajram-live-in-dubai": {
-  "bodyHash": "5a19040a3073",
+  "bodyHash": "5cecf0abb56c",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:38.061Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
    "slug": "dubai-nancy-ajram-live-in-dubai",
    "category": "event",
@@ -4091,7 +4061,11 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Her concert was set for October 24, 2026"
+     "quote": "Her concert was held at Coca-Cola Arena, the emirate's main indoor venue for arena-scale concerts."
+    },
+    {
+     "type": "other-glaring",
+     "quote": "The date was billed as a seated-and-standing arena show rather than a festival"
     }
    ]
   }
@@ -4632,20 +4606,10 @@
   "result": null
  },
  "causeway-bay-east-coast-park-precinct": {
-  "bodyHash": "0b87b218d515",
+  "bodyHash": "ce7075d4b899",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:32.808Z",
-  "result": {
-   "slug": "causeway-bay-east-coast-park-precinct",
-   "category": "attraction",
-   "region": "Causeway Bay",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "it's rated under-the-radar despite its 4.4-star average across nearly 800 reviews"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
  },
  "strasbourg-parc-de-l-orangerie": {
   "bodyHash": "991ee9467953",
@@ -4806,9 +4770,9 @@
   }
  },
  "chicago-garfield-park-conservatory": {
-  "bodyHash": "e822f13e1dfb",
+  "bodyHash": "77a980663090",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:33.101Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
    "slug": "chicago-garfield-park-conservatory",
    "category": "attraction",
@@ -4816,7 +4780,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "The surrounding Garfield Park itself has 184 acres of parkland to wander through"
+     "quote": "The surrounding Garfield Park itself spans 184 acres to wander through, including a fishing lagoon, athletic fields, tennis courts and an outdoor pool, worth a look if the weather's decent and you want to extend the visit."
     }
    ]
   }
@@ -4925,9 +4889,9 @@
   }
  },
  "chiba-aobanomori-park": {
-  "bodyHash": "ace9dd0dcad4",
+  "bodyHash": "cefddf18b259",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:34.079Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
    "slug": "chiba-aobanomori-park",
    "category": "attraction",
@@ -4935,7 +4899,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "The Chiba City Kagaku-kan style natural history museum inside the park grounds"
+     "quote": "weekends from 9am to 6pm are when the park fills up"
     }
    ]
   }
@@ -5222,9 +5186,9 @@
   "result": null
  },
  "hong-kong-bigbang-xx-cosmos-world-tour": {
-  "bodyHash": "9d88f8da9c7c",
+  "bodyHash": "97934326cd73",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:58:17.266Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": null
  },
  "istanbul-liminal": {
@@ -5960,20 +5924,17 @@
   "result": null
  },
  "genoa-galata-museo-del-mare": {
-  "bodyHash": "53739b76c768",
+  "bodyHash": "585bf51cd08c",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:58:38.768Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
+   "slug": "genoa-galata-museo-del-mare",
    "category": "attraction",
    "region": "Genoa",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "That alone takes 20-30 minutes."
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "last entry usually an hour before close"
+     "type": "other-glaring",
+     "quote": "come after 6pm knowing you'll be rushed toward closing"
     }
    ]
   }
@@ -6195,24 +6156,10 @@
   "result": null
  },
  "bengaluru-museum-of-art-photography-map": {
-  "bodyHash": "e122e6fb1167",
+  "bodyHash": "88b0466f2663",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:40.630Z",
-  "result": {
-   "slug": "bengaluru-museum-of-art-photography-map",
-   "category": "attraction",
-   "region": "Bengaluru",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "any quiet weekday afternoon"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "across five levels"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
  },
  "chengdu-people-s-park": {
   "bodyHash": "5fbece98d7e5",
@@ -6221,21 +6168,17 @@
   "result": null
  },
  "bengaluru-lalbagh-botanical-garden": {
-  "bodyHash": "c86e1f9ac196",
+  "bodyHash": "bb5c4fad0dbd",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:40.872Z",
+  "at": "2026-11-21T18:43:19.718Z",
   "result": {
    "slug": "bengaluru-lalbagh-botanical-garden",
    "category": "attraction",
    "region": "Bengaluru",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "There's typically a modest entrance fee and a separate one for the Glass House during flower shows"
-    },
-    {
      "type": "other-glaring",
-     "quote": "January and August bring the biggest crowds of all, thanks to the flower shows"
+     "quote": "The mistake first-time visitors make is treating this as a quick 20-minute photo stop."
     }
    ]
   }
@@ -6274,28 +6217,10 @@
   "result": null
  },
  "bengaluru-visvesvaraya-industrial-technological-museum": {
-  "bodyHash": "4779cdb7f4bf",
+  "bodyHash": "bd070cd6fda1",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:41.373Z",
-  "result": {
-   "slug": "bengaluru-visvesvaraya-industrial-technological-museum",
-   "category": "attraction",
-   "region": "Bengaluru",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "ticket lines snake outside the entrance"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "queues move faster if you have exact change ready"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "straight from the entrance to the gift shop"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
  },
  "chengdu-chengdu-museum": {
   "bodyHash": "18a68ce187dd",
@@ -6410,16 +6335,36 @@
   "result": null
  },
  "sheung-wan-graham-street-market": {
-  "bodyHash": "c5c5f87bb02b",
+  "bodyHash": "3207bf435a63",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:31.400Z",
-  "result": null
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "sheung-wan-graham-street-market",
+   "category": "hidden-gem",
+   "region": "Central",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "On weekends, the busiest stretch is 8am to 1pm"
+    }
+   ]
+  }
  },
  "new-taipei-bopiliao-historical-block": {
-  "bodyHash": "dd2943a415dd",
+  "bodyHash": "d3b76d7c33a1",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:31.496Z",
-  "result": null
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "new-taipei-bopiliao-historical-block",
+   "category": "hidden-gem",
+   "region": "Taipei",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Budget 45 minutes for a walk-through, closer to 90 if an exhibition catches you."
+    }
+   ]
+  }
  },
  "goa-shri-nageshi-temple": {
   "bodyHash": "21260550f578",
@@ -6428,20 +6373,17 @@
   "result": null
  },
  "goa-naval-aviation-museum": {
-  "bodyHash": "5871dfa1591c",
+  "bodyHash": "6c58f0c0e67f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:32.212Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
+   "slug": "goa-naval-aviation-museum",
    "category": "attraction",
    "region": "Goa",
    "prose": [
     {
      "type": "invented-specifics",
      "quote": "entry fees are modest and typically paid in cash at the ticket counter"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "Budget the full 90 minutes"
     }
    ]
   }
@@ -6489,20 +6431,17 @@
   "result": null
  },
  "jordan-spicy-salt-hk": {
-  "bodyHash": "05bdefed0d90",
+  "bodyHash": "5f63bb6e9b48",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:33.340Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
+   "slug": "jordan-spicy-salt-hk",
    "category": "restaurant",
    "region": "Jordan",
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "The measured quiet window is 4pm–9pm on weekends, and the crowd data flags 7pm–11pm as the peak crush"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "7pm to 11pm on weekends is when it fills up"
+     "quote": "Chicken cartilage or wings, the classic late-night beer food"
     }
    ]
   }
@@ -6526,20 +6465,17 @@
   "result": null
  },
  "komodo-pink-beach": {
-  "bodyHash": "8f058f59de5c",
+  "bodyHash": "2564776b0356",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:34.401Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
+   "slug": "komodo-pink-beach",
    "category": "hidden-gem",
    "region": "Komodo",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "visibility that regularly stretches many meters on calm days"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "Spend 45 minutes to an hour and a half here"
+     "type": "other-glaring",
+     "quote": "Weekend afternoons and evenings after 1pm are the next best thing for a calmer stretch of sand."
     }
    ]
   }
@@ -6563,20 +6499,17 @@
   "result": null
  },
  "wan-chai-kam-s-roast-goose": {
-  "bodyHash": "5fb5d3d5b61a",
+  "bodyHash": "176d80579ec0",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-19T20:59:35.192Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
+   "slug": "wan-chai-kam-s-roast-goose",
    "category": "restaurant",
    "region": "Wan Chai",
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "the founder trained at Yung Kee before striking out on his own"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "On weekends, the calmest window measured runs from noon through 9pm"
+     "quote": "the calmest window in the forecast runs from noon through 9pm, steadier than the sharp lunch spike you'd expect"
     },
     {
      "type": "invented-specifics",
@@ -6631,20 +6564,10 @@
   }
  },
  "cinque-terre-sentiero-monterosso-vernazza": {
-  "bodyHash": "660ac1ec254c",
+  "bodyHash": "19da1db67ca6",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:42.011Z",
-  "result": {
-   "slug": "cinque-terre-sentiero-monterosso-vernazza",
-   "category": "hidden-gem",
-   "region": "Cinque Terre",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Weekends get busy from 7am until 11pm, with a steadier flow of hikers all day."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "koh-chang-bang-bao-pier": {
   "bodyHash": "46a184daf736",
@@ -7121,9 +7044,9 @@
   "result": null
  },
  "dubai-well-b-festival-2026": {
-  "bodyHash": "faf6ce9c1ba2",
+  "bodyHash": "f6b1351a0142",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:30:45.919Z",
+  "at": "2026-11-21T18:43:19.108Z",
   "result": null
  },
  "abu-dhabi-formula-1-etihad-airways-abu-dhabi-grand-prix-2026": {
@@ -7287,9 +7210,9 @@
   }
  },
  "paris-freya-skye-stars-align-tour": {
-  "bodyHash": "d9dc85873df6",
+  "bodyHash": "0336aec22161",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:30:56.525Z",
+  "at": "2026-11-21T18:43:21.009Z",
   "result": null
  },
  "phu-quoc-phu-quoc-summer-latin-festival": {
@@ -7355,10 +7278,20 @@
   "result": null
  },
  "sharjah-sharjah-international-book-fair-2026": {
-  "bodyHash": "18563573a99d",
+  "bodyHash": "a621de9d2efd",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-03T21:45:28.614Z",
-  "result": null
+  "at": "2026-11-21T18:43:20.933Z",
+  "result": {
+   "slug": "sharjah-sharjah-international-book-fair-2026",
+   "category": "event",
+   "region": "Sharjah",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "This was the 45th Sharjah International Book Fair"
+    }
+   ]
+  }
  },
  "naples-mercato-pignasecca": {
   "bodyHash": "f263f134a69b",
@@ -8005,9 +7938,9 @@
   "result": null
  },
  "chiayi-hinoki-village": {
-  "bodyHash": "e92b5b84bf1f",
+  "bodyHash": "fb6e2b3edb8b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T22:00:22.573Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": null
  },
  "kokand-palace-of-khudayar-khan": {
@@ -8145,9 +8078,9 @@
   }
  },
  "bursa-green-tomb": {
-  "bodyHash": "dced8ae003e7",
+  "bodyHash": "0259acc21b6f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T22:00:23.676Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": null
  },
  "putrajaya-taman-saujana-hijau-putrajaya": {
@@ -8289,17 +8222,17 @@
   "result": null
  },
  "alishan-fenqihu-old-street": {
-  "bodyHash": "0ffb8b0e703f",
+  "bodyHash": "3c5f2766890e",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:42.325Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "alishan-fenqihu-old-street",
    "category": "hidden-gem",
    "region": "Alishan",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "Weekdays are far calmer throughout the entire 8am–6pm stretch"
+     "type": "invented-specifics",
+     "quote": "sold in wooden or metal tins since the steam-train era"
     }
    ]
   }
@@ -8361,20 +8294,10 @@
   }
  },
  "sha-tin-ten-thousand-buddhas-monastery": {
-  "bodyHash": "de98f154326d",
+  "bodyHash": "e6e2c41bad94",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:31:54.619Z",
-  "result": {
-   "slug": "sha-tin-ten-thousand-buddhas-monastery",
-   "category": "hidden-gem",
-   "region": "Sha Tin",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Give yourself a full hour once you're at the top to wander the terraces properly"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "jordan-jordan-valley-park": {
   "bodyHash": "0b57f1613fe2",
@@ -8389,9 +8312,9 @@
   "result": null
  },
  "mong-kok-paradise-dynasty": {
-  "bodyHash": "a20a8cb1e0ec",
+  "bodyHash": "441f9d28a9d5",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:31:54.924Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "mong-kok-paradise-dynasty",
    "category": "restaurant",
@@ -8399,15 +8322,7 @@
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "foie gras, garlic, ginger, cheese, Szechuan spicy, black truffle, and crab roe"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "often in a spicy dan dan or beef broth style"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "Truffle fried rice, a menu regular that pairs well with the dumplings"
+     "quote": "served by the Tsuen Wan, Kwun Tong, and East Rail lines"
     }
    ]
   }
@@ -8425,20 +8340,10 @@
   "result": null
  },
  "sai-kung-sai-kung-town": {
-  "bodyHash": "e55579db094b",
+  "bodyHash": "86406578bd5b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:31:55.911Z",
-  "result": {
-   "slug": "sai-kung-sai-kung-town",
-   "category": "hidden-gem",
-   "region": "Sai Kung",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Weekday late afternoons, roughly 4–6pm, are the calmest window."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "tsim-sha-tsui-tsim-sha-tsui-promenade": {
   "bodyHash": "a28016f055e0",
@@ -8457,9 +8362,9 @@
   }
  },
  "central-central-mid-levels-escalators": {
-  "bodyHash": "fd061ac397be",
+  "bodyHash": "bf91d26b6ad7",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:42.417Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": null
  },
  "sha-tin-shing-mun-river-promenade-garden-no-1": {
@@ -8503,9 +8408,9 @@
   "result": null
  },
  "stanley-stanley-promenade": {
-  "bodyHash": "3d100a0d3331",
+  "bodyHash": "27ff261bf98a",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:31:57.451Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "stanley-stanley-promenade",
    "category": "attraction",
@@ -8513,7 +8418,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "come before 9am on a weekend"
+     "quote": "on weekends from 7am to 8am, far fewer people"
     }
    ]
   }
@@ -8547,9 +8452,9 @@
   "result": null
  },
  "wan-chai-golden-bauhinia-square": {
-  "bodyHash": "14c3f3512a00",
+  "bodyHash": "20cd12836aad",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:31:58.541Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "wan-chai-golden-bauhinia-square",
    "category": "attraction",
@@ -8557,11 +8462,7 @@
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "aim for 7am to 8am on a weekend morning"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "catching the 8am flag ceremony"
+     "quote": "If you're catching the 8am flag ceremony"
     }
    ]
   }
@@ -8767,20 +8668,10 @@
   "result": null
  },
  "chennai-snow-kingdom": {
-  "bodyHash": "e8b36e399901",
+  "bodyHash": "5740019bebbe",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:42.875Z",
-  "result": {
-   "slug": "chennai-snow-kingdom",
-   "category": "hidden-gem",
-   "region": "Chennai",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "thirty minutes of forgetting you're on the Bay of Bengal coast"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "deira-abra-dubai": {
   "bodyHash": "5924531f3fa2",
@@ -8885,9 +8776,9 @@
   "result": null
  },
  "dempsey-hill-singapore-botanic-gardens": {
-  "bodyHash": "693903ad9685",
+  "bodyHash": "0aeeb2efd2b4",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:56:05.984Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "dempsey-hill-singapore-botanic-gardens",
    "category": "attraction",
@@ -8895,7 +8786,7 @@
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "it stays calm most days between 7am and 11pm, but weekends fill up fast between 9am and 8pm"
+     "quote": "payable by card or via the SingPass-linked booking system in recent years"
     }
    ]
   }
@@ -9147,20 +9038,10 @@
   "result": null
  },
  "cinque-terre-parco-nazionale-delle-cinque-terre": {
-  "bodyHash": "3861d8bd0759",
+  "bodyHash": "b9fddfa54c2b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:43.436Z",
-  "result": {
-   "slug": "cinque-terre-parco-nazionale-delle-cinque-terre",
-   "category": "attraction",
-   "region": "Cinque Terre",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "It's the same price and funds trail upkeep."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "konya-mevlana-museum": {
   "bodyHash": "6b828377d009",
@@ -9261,9 +9142,9 @@
   "result": null
  },
  "toledo-monasterio-de-san-juan-de-los-reyes": {
-  "bodyHash": "ed6c032f3203",
+  "bodyHash": "771f585e02a0",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:32:13.659Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": null
  },
  "colmar-la-petite-venise": {
@@ -9297,24 +9178,10 @@
   "result": null
  },
  "bugis-supertree-grove": {
-  "bodyHash": "d091c3723e69",
+  "bodyHash": "20b205857ad4",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:43.857Z",
-  "result": {
-   "slug": "bugis-supertree-grove",
-   "category": "attraction",
-   "region": "Marina Bay",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Avoid arriving right at 7:30pm on weekends"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "treat the 7:45pm show as the main event"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "chennai-government-museum-chennai": {
   "bodyHash": "8c6b24f4404e",
@@ -9335,9 +9202,9 @@
   "result": null
  },
  "alishan-alishan-national-forest-recreation-area": {
-  "bodyHash": "3028fcf17a7a",
+  "bodyHash": "2ad059cb1edd",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:32:15.688Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": null
  },
  "fethiye-ancient-city-of-telmessos": {
@@ -9371,9 +9238,9 @@
   "result": null
  },
  "sun-moon-lake-year-of-steps-at-wenwu-temple": {
-  "bodyHash": "1ac85c092cb5",
+  "bodyHash": "12becf32a3d7",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-09-26T21:32:17.366Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "sun-moon-lake-year-of-steps-at-wenwu-temple",
    "category": "attraction",
@@ -9381,19 +9248,19 @@
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "Weekday mornings and evenings, roughly 7am to 11pm, are the calmest stretch"
+     "quote": "roughly 7am to 8am and 7pm to 11pm"
     },
     {
      "type": "invented-specifics",
-     "quote": "expect steady crowds from 9am until 6pm as tour buses and day-trippers cycle through"
+     "quote": "expect steady crowds from 9am until 6pm"
     }
    ]
   }
  },
  "el-nido-taraw-cliff": {
-  "bodyHash": "edf20e4dd6f6",
+  "bodyHash": "478b2c7307aa",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:56:08.119Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "el-nido-taraw-cliff",
    "category": "attraction",
@@ -9401,7 +9268,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Weekend afternoons are when this area sees the most foot traffic"
+     "quote": "Weekend evenings are when this area sees the most foot traffic"
     }
    ]
   }
@@ -9475,25 +9342,17 @@
   }
  },
  "berlin-mustafa-s-gemuse-kebap": {
-  "bodyHash": "038d8fab31ac",
+  "bodyHash": "ea7d6e62dfe9",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:20.029Z",
+  "at": "2026-11-21T18:42:39.082Z",
   "result": {
    "slug": "berlin-mustafa-s-gemuse-kebap",
    "category": "restaurant",
    "region": "Berlin",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "reviewers have rated it well over a very large number of visits"
-    },
-    {
      "type": "invented-specifics",
-     "quote": "with vegetables, sauce and cheese inside, the kebab drips"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "On Thursday and Sunday it stays open later into the evening."
+     "quote": "Thursday and Sunday hours are posted at the kiosk itself, so check before you plan around them."
     }
    ]
   }
@@ -9697,17 +9556,17 @@
   "result": null
  },
  "dresden-kunsthofpassage-dresden": {
-  "bodyHash": "8013c2a75b05",
+  "bodyHash": "8cad8e140b7d",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:20.547Z",
+  "at": "2026-11-21T18:42:39.082Z",
   "result": {
    "slug": "dresden-kunsthofpassage-dresden",
    "category": "hidden-gem",
    "region": "Dresden",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "so don't expect a secret"
+     "type": "invented-specifics",
+     "quote": "The complex opened in stages around the turn of the millennium."
     }
    ]
   }
@@ -9775,25 +9634,15 @@
   "result": null
  },
  "fussen-hohes-schloss": {
-  "bodyHash": "f5bd7aa2a289",
+  "bodyHash": "3c7bb4f82778",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:44.064Z",
-  "result": {
-   "slug": "fussen-hohes-schloss",
-   "category": "attraction",
-   "region": "Füssen",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Prince-Bishops of Augsburg had the walls of their summer residence covered"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:39.082Z",
+  "result": null
  },
  "berlin-bless-restaurant": {
-  "bodyHash": "4090ff428aaa",
+  "bodyHash": "c964a8ab8e8e",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:21.195Z",
+  "at": "2026-11-21T18:42:39.082Z",
   "result": {
    "slug": "berlin-bless-restaurant",
    "category": "restaurant",
@@ -9801,7 +9650,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "It's an Asian restaurant, consistently well rated across a large and steady volume of reviews."
+     "quote": "still (*still*)"
     }
    ]
   }
@@ -10541,28 +10390,10 @@
   "result": null
  },
  "malaga-generali-malaga-marathon": {
-  "bodyHash": "2381abbb37fb",
+  "bodyHash": "660fe817c9fb",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-03T21:44:17.750Z",
-  "result": {
-   "slug": "malaga-generali-malaga-marathon",
-   "category": "event",
-   "region": "Malaga",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "daytime temperatures on this coast usually sit in the mild mid-teens Celsius"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "The system is credited to Café Central on Plaza de la Constitución, where a tiled chart on the wall shows every ratio."
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "The trip takes roughly two and a half to three hours."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:20.254Z",
+  "result": null
  },
  "naha-naha-great-tug-of-war": {
   "bodyHash": "6410936423dc",
@@ -10678,10 +10509,20 @@
   }
  },
  "kuala-lumpur-my-chemical-romance-south-east-asia-tour": {
-  "bodyHash": "ceb6ebd306e0",
+  "bodyHash": "9421c30b6356",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-03T21:44:24.229Z",
-  "result": null
+  "at": "2026-11-21T18:43:20.170Z",
+  "result": {
+   "slug": "kuala-lumpur-my-chemical-romance-south-east-asia-tour",
+   "category": "event",
+   "region": "Kuala Lumpur",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "The band was set to return to Bukit Jalil on November 19 and 20, 2026."
+    }
+   ]
+  }
  },
  "shanghai-blossom": {
   "bodyHash": "0cd6782827c6",
@@ -11554,9 +11395,9 @@
   }
  },
  "fremantle-fremantle-prison": {
-  "bodyHash": "4a7249780fd9",
+  "bodyHash": "e94fd1e7224f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:28.446Z",
+  "at": "2026-11-21T18:43:19.108Z",
   "result": {
    "slug": "fremantle-fremantle-prison",
    "category": "hidden-gem",
@@ -11564,7 +11405,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Weekdays are quiet from 9am to 5pm."
+     "quote": "Weekends are calmer from 9am to 5pm too, outside that 11am to 4pm peak."
     }
    ]
   }
@@ -11740,9 +11581,9 @@
   }
  },
  "genoa-porta-dei-vacca": {
-  "bodyHash": "878ce676902d",
+  "bodyHash": "d555c90ffb9a",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:57.575Z",
+  "at": "2026-11-21T18:43:19.108Z",
   "result": {
    "slug": "genoa-porta-dei-vacca",
    "category": "hidden-gem",
@@ -11750,7 +11591,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "The gate's listed hours are **Sunday and Monday, 9am to 5pm**. It is listed as **closed Tuesday through Saturday**."
+     "quote": "Here is how to blend in"
     }
    ]
   }
@@ -12236,9 +12077,9 @@
   }
  },
  "lyon-jardin-des-curiosites": {
-  "bodyHash": "256ff1e12f49",
+  "bodyHash": "8ffe1ca8b300",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-03T21:45:37.376Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": null
  },
  "lyon-lyon-botanical-garden": {
@@ -12384,20 +12225,10 @@
   "result": null
  },
  "busan-yongdusan-park": {
-  "bodyHash": "3fcdf623de4d",
+  "bodyHash": "8af7258dc0c9",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:44.562Z",
-  "result": {
-   "slug": "busan-yongdusan-park",
-   "category": "attraction",
-   "region": "Busan",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "roughly 7am to 11pm"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "los-angeles-the-last-bookstore": {
   "bodyHash": "f03184395558",
@@ -12778,9 +12609,9 @@
   "result": null
  },
  "belfast-peace-wall-belfast": {
-  "bodyHash": "1eb6a2fe9752",
+  "bodyHash": "5fb6f839fefc",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:08.959Z",
+  "at": "2026-11-21T18:42:37.797Z",
   "result": {
    "slug": "belfast-peace-wall-belfast",
    "category": "attraction",
@@ -12788,7 +12619,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Treat the listed 7am to 7pm hours as the window when the area is open and active, and plan your visit inside it."
+     "quote": "Several gates in the interface network still close at night."
     }
    ]
   }
@@ -12936,20 +12767,10 @@
   "result": null
  },
  "abu-dhabi-k-pop-fever-etihad-arena": {
-  "bodyHash": "8401ab622b74",
+  "bodyHash": "42241aaf2782",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:09.011Z",
-  "result": {
-   "slug": "abu-dhabi-k-pop-fever-etihad-arena",
-   "category": "event",
-   "region": "Abu Dhabi",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "The date announced for Abu Dhabi was September 26, 2026."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.797Z",
+  "result": null
  },
  "cotai-galaxy-macau": {
   "bodyHash": "1276097983bc",
@@ -12958,20 +12779,10 @@
   "result": null
  },
  "austin-f1-united-states-grand-prix": {
-  "bodyHash": "4d082b62f561",
+  "bodyHash": "03b438b57701",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:09.257Z",
-  "result": {
-   "slug": "austin-f1-united-states-grand-prix",
-   "category": "event",
-   "region": "Austin",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Visitors who fly in for the full four days usually budget at least a week in Austin."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.797Z",
+  "result": null
  },
  "berlin-k-pop-forever-tribute-show": {
   "bodyHash": "99d43fabd7d5",
@@ -12980,20 +12791,10 @@
   "result": null
  },
  "abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
-  "bodyHash": "e0bbccc87853",
+  "bodyHash": "801354839f32",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:09.362Z",
-  "result": {
-   "slug": "abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert",
-   "category": "event",
-   "region": "Abu Dhabi",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "known as du Arena until it was renamed in 2019"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.797Z",
+  "result": null
  },
  "bangkok-babymonster-world-tour-choom": {
   "bodyHash": "a902452e495c",
@@ -13036,40 +12837,16 @@
   "result": null
  },
  "dubai-emirates-dubai-7s-rugby-sevens": {
-  "bodyHash": "78d8b1ba1021",
+  "bodyHash": "8a3cfcadf2ec",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T21:58:58.207Z",
-  "result": {
-   "slug": "dubai-emirates-dubai-7s-rugby-sevens",
-   "category": "event",
-   "region": "Dubai",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Dubai has staged a sevens tournament since 1970"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.797Z",
+  "result": null
  },
  "frankfurt-nct-127-wayv-tour": {
-  "bodyHash": "b16d2e45335e",
+  "bodyHash": "161690e19a56",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T21:58:58.517Z",
-  "result": {
-   "slug": "frankfurt-nct-127-wayv-tour",
-   "category": "event",
-   "region": "Frankfurt",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "roughly fifteen minutes"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "NCT 127 is the Seoul-based unit, named for the longitude of the city."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.797Z",
+  "result": null
  },
  "bukhara-bukhara-night-race": {
   "bodyHash": "e2c00c64d7d1",
@@ -13532,9 +13309,9 @@
   "result": null
  },
  "paris-taemin-liminal-tour": {
-  "bodyHash": "fefd473e0ca6",
+  "bodyHash": "9d750677b01a",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T21:59:09.260Z",
+  "at": "2026-11-21T18:42:37.797Z",
   "result": null
  },
  "mexico-city-day-of-the-dead-grand-parade-desfile-de-dia-de-muertos": {
@@ -13817,9 +13594,9 @@
   "result": null
  },
  "truong-yen-trang-an-marathon": {
-  "bodyHash": "1e207d359b18",
+  "bodyHash": "c491ddccfa0a",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:33.566Z",
+  "at": "2026-11-21T18:42:37.829Z",
   "result": null
  },
  "turin-nitto-atp-finals": {
@@ -14299,20 +14076,10 @@
   }
  },
  "frankfurt-bethmann-park": {
-  "bodyHash": "bcf7fb9d07ca",
+  "bodyHash": "3f6b00d3ef6a",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:34.977Z",
-  "result": {
-   "slug": "frankfurt-bethmann-park",
-   "category": "attraction",
-   "region": "Frankfurt",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Our weekend data marks 7am–9am and 10pm–11pm as the quiet spans overall"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.829Z",
+  "result": null
  },
  "guadalajara-guadalajara-s-cathedral": {
   "bodyHash": "713033fa6334",
@@ -14507,20 +14274,10 @@
   "result": null
  },
  "dusseldorf-kaiserpfalz-kaiserswerth": {
-  "bodyHash": "4a5d5bf3a32a",
+  "bodyHash": "9a227189e17d",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T21:59:24.438Z",
-  "result": {
-   "slug": "dusseldorf-kaiserpfalz-kaiserswerth",
-   "category": "attraction",
-   "region": "Düsseldorf",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "The editorial line sums it up well: castle remains, river views and countryside."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.829Z",
+  "result": null
  },
  "leipzig-clara-zetkin-park": {
   "bodyHash": "dbb993076413",
@@ -14661,10 +14418,20 @@
   "result": null
  },
  "bengaluru-guns-n-roses-india-tour": {
-  "bodyHash": "b190e2822197",
+  "bodyHash": "545fda71c053",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:14.656Z",
-  "result": null
+  "at": "2026-11-21T18:42:37.829Z",
+  "result": {
+   "slug": "bengaluru-guns-n-roses-india-tour",
+   "category": "event",
+   "region": "Bengaluru",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Recent tours have routinely run close to three hours."
+    }
+   ]
+  }
  },
  "canggu-aged-and-butchered": {
   "bodyHash": "056f81c88f03",
@@ -14673,9 +14440,9 @@
   "result": null
  },
  "brisbane-rugby-league-world-cup-2026-final": {
-  "bodyHash": "037f3d6fa2db",
+  "bodyHash": "d8d5c9e61f33",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:56.362Z",
+  "at": "2026-11-21T18:42:37.829Z",
   "result": null
  },
  "berlin-festival-of-lights-berlin": {
@@ -14773,9 +14540,9 @@
   }
  },
  "frankfurt-am-main-frankfurt-marathon": {
-  "bodyHash": "c7cc07f18173",
+  "bodyHash": "a1d8b1fd5f5b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:29.442Z",
+  "at": "2026-11-21T18:42:39.146Z",
   "result": {
    "slug": "frankfurt-am-main-frankfurt-marathon",
    "category": "event",
@@ -14783,19 +14550,11 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "The 2026 edition was set for **October 25, 2026**."
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "Frankfurt is Germany's longest-established city marathon and its second-largest by finishers."
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "S-Bahn lines S8 and S9 run to the Hauptbahnhof in about a quarter of an hour."
+     "quote": "For runners, that meant a gift: an extra hour in bed before a morning start."
     },
     {
      "type": "other-glaring",
-     "quote": "The 2026 date had a quirk."
+     "quote": "the entry fee was shown on the registration page"
     }
    ]
   }
@@ -14893,26 +14652,16 @@
   }
  },
  "kuala-lumpur-babymonster-world-tour-choom": {
-  "bodyHash": "461a858380ff",
+  "bodyHash": "0f7f733aaf7f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T21:59:32.231Z",
+  "at": "2026-11-21T18:42:38.758Z",
   "result": null
  },
  "istanbul-wtt-contender-istanbul": {
-  "bodyHash": "ce558cc56e67",
+  "bodyHash": "be671cb76904",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T21:59:32.622Z",
-  "result": {
-   "slug": "istanbul-wtt-contender-istanbul",
-   "category": "event",
-   "region": "Istanbul",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "A crossing between Eminönü and Kadıköy takes about 20 minutes."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:39.692Z",
+  "result": null
  },
  "kuching-festival-gendang-sarawak-fgs-2026": {
   "bodyHash": "7d9c1754f235",
@@ -15271,20 +15020,10 @@
   "result": null
  },
  "dusseldorf-museum-kunstpalast": {
-  "bodyHash": "a655100b0e2a",
+  "bodyHash": "3b025bc8840e",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:17.551Z",
-  "result": {
-   "slug": "dusseldorf-museum-kunstpalast",
-   "category": "attraction",
-   "region": "Düsseldorf",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "The collection was fully rehung and reopened in 2023"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:38.865Z",
+  "result": null
  },
  "stuttgart-porsche-museum": {
   "bodyHash": "9a05073d7e94",
@@ -15337,9 +15076,9 @@
   "result": null
  },
  "frankfurt-senckenberg-nature-museum": {
-  "bodyHash": "00c8ce67c005",
+  "bodyHash": "5f46dc4ddf97",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:17.963Z",
+  "at": "2026-11-21T18:42:38.865Z",
   "result": {
    "slug": "frankfurt-senckenberg-nature-museum",
    "category": "attraction",
@@ -15347,7 +15086,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "On weekdays, the typical foot traffic is quiet from 9am to 6pm."
+     "quote": "On weekdays, the typical foot traffic is light throughout the day. In practice that means the whole day the doors are open."
     }
    ]
   }
@@ -15623,20 +15362,10 @@
   }
  },
  "palermo-palermo-marathon-maratona-internazionale-di-palermo": {
-  "bodyHash": "ec2ab5b5804a",
+  "bodyHash": "31c43c3cb9a1",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T21:59:45.434Z",
-  "result": {
-   "slug": "palermo-palermo-marathon-maratona-internazionale-di-palermo",
-   "category": "event",
-   "region": "Palermo",
-   "prose": [
-    {
-     "type": "template-chatter",
-     "quote": "Here is how to fit in."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:38.893Z",
+  "result": null
  },
  "shanghai-the-dome": {
   "bodyHash": "d91ff3d0ba06",
@@ -15797,20 +15526,10 @@
   }
  },
  "tokyo-jason-mraz-asia-tour": {
-  "bodyHash": "25e131b7b073",
+  "bodyHash": "59c42e6d1b30",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-10T22:00:14.520Z",
-  "result": {
-   "slug": "tokyo-jason-mraz-asia-tour",
-   "category": "event",
-   "region": "Tokyo",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Capacity is around 8,000"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:20.200Z",
+  "result": null
  },
  "ubud-ubud-writers-readers-festival": {
   "bodyHash": "1b9f37b3b7d6",
@@ -15997,20 +15716,10 @@
   }
  },
  "frankfurt-romerberg": {
-  "bodyHash": "c5f637ab334c",
+  "bodyHash": "fa6b44428b01",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:54:51.451Z",
-  "result": {
-   "slug": "frankfurt-romerberg",
-   "category": "hidden-gem",
-   "region": "Frankfurt",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Order **Grüne Soße**, a cold sauce of seven herbs served with eggs and potatoes, or **Handkäs mit Musik**, sour-milk cheese marinated with onions."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.521Z",
+  "result": null
  },
  "alice-springs-national-road-transport-museum-and-hall-of-fame": {
   "bodyHash": "d089e66b08cd",
@@ -16231,9 +15940,9 @@
   "result": null
  },
  "frankfurt-frankfurt-christmas-market-weihnachtsmarkt": {
-  "bodyHash": "186094b265c3",
+  "bodyHash": "039b1fd98547",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:54:55.361Z",
+  "at": "2026-11-21T18:42:37.521Z",
   "result": {
    "slug": "frankfurt-frankfurt-christmas-market-weihnachtsmarkt",
    "category": "event",
@@ -16241,7 +15950,11 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Many visitors treat it as the finale and start out at the quieter edges."
+     "quote": "Friedrich-Stoltze-Platz** and **Hauptwache** and **Roßmarkt**"
+    },
+    {
+     "type": "foreign-fragment",
+     "quote": "Einen Glühwein, bitte"
     }
    ]
   }
@@ -16482,9 +16195,9 @@
   }
  },
  "magelang-borobudur-marathon": {
-  "bodyHash": "01992ff9d883",
+  "bodyHash": "0dd52521a7d6",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:54:59.106Z",
+  "at": "2026-11-21T18:42:37.521Z",
   "result": null
  },
  "klang-selangor-marathon": {
@@ -16741,20 +16454,10 @@
   "result": null
  },
  "belfast-st-george-s-market": {
-  "bodyHash": "6b1caa8adf42",
+  "bodyHash": "857afe0b8083",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:17:00.578Z",
-  "result": {
-   "slug": "belfast-st-george-s-market",
-   "category": "hidden-gem",
-   "region": "Belfast",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "a restoration finished in 1999 brought it back into use"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.521Z",
+  "result": null
  },
  "canberra-old-bus-depot-markets": {
   "bodyHash": "130a32a7e428",
@@ -17201,20 +16904,10 @@
   "result": null
  },
  "fukuoka-fukuoka-international-marathon": {
-  "bodyHash": "8afc29d112cd",
+  "bodyHash": "6148eebc30f5",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:11.978Z",
-  "result": {
-   "slug": "fukuoka-fukuoka-international-marathon",
-   "category": "event",
-   "region": "Fukuoka",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Eat afterwards at the yatai food stalls in Nakasu and Tenjin, which open in the evening."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.707Z",
+  "result": null
  },
  "guadalajara-fiestas-de-octubre-guadalajara": {
   "bodyHash": "594d24b8b0ba",
@@ -17255,9 +16948,9 @@
   "result": null
  },
  "dubai-emaar-dubai-premier-padel-p1": {
-  "bodyHash": "dd8c7078fdb5",
+  "bodyHash": "559755b422f5",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:40:14.284Z",
+  "at": "2026-11-21T18:42:38.700Z",
   "result": null
  },
  "hong-kong-janice-vidal-out-of-frame-world-tour-hong-kong": {
@@ -17368,10 +17061,20 @@
   }
  },
  "jakarta-5-seconds-of-summer-jakarta": {
-  "bodyHash": "ce3dd9a4ca1b",
+  "bodyHash": "7655c2063ef2",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:14.311Z",
-  "result": null
+  "at": "2026-11-21T18:42:37.707Z",
+  "result": {
+   "slug": "jakarta-5-seconds-of-summer-jakarta",
+   "category": "event",
+   "region": "Jakarta",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "was set to reach Jakarta"
+    }
+   ]
+  }
  },
  "kaohsiung-bigbang-20th-anniversary-world-tour": {
   "bodyHash": "be2e6c74a0e1",
@@ -17485,20 +17188,10 @@
   "result": null
  },
  "macau-cnblue-live-world-tour-3logy-encore-in-macau": {
-  "bodyHash": "9d0b195384ba",
+  "bodyHash": "8cf0142c3f96",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:16.855Z",
-  "result": {
-   "slug": "macau-cnblue-live-world-tour-3logy-encore-in-macau",
-   "category": "event",
-   "region": "Macau",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Fans usually line up at the official merchandise booth hours before doors, because popular items sell out."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.797Z",
+  "result": null
  },
  "madrid-k-pop-forever-world-tour-spain": {
   "bodyHash": "f9cbd525d9cf",
@@ -17534,9 +17227,9 @@
   "result": null
  },
  "leicester-champion-of-champions-snooker": {
-  "bodyHash": "8dc72f7593e4",
+  "bodyHash": "beb5ea4fd3cf",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:17.267Z",
+  "at": "2026-11-21T18:42:38.758Z",
   "result": null
  },
  "macau-2026-plave-world-tour-keep-it-manic-in-macao": {
@@ -17882,9 +17575,9 @@
   "result": null
  },
  "singapore-wave-to-earth-the-pisces-tour": {
-  "bodyHash": "b04c61148d16",
+  "bodyHash": "4f33d88bd482",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:22.668Z",
+  "at": "2026-11-21T18:42:37.797Z",
   "result": null
  },
  "phnom-penh-commemoration-day-of-the-king-s-father": {
@@ -18401,9 +18094,9 @@
   "result": null
  },
  "seoul-melon-music-awards-mma-2026": {
-  "bodyHash": "092e2e6211a2",
+  "bodyHash": "abe498d68f87",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-17T20:55:30.749Z",
+  "at": "2026-11-21T18:42:37.797Z",
   "result": {
    "slug": "seoul-melon-music-awards-mma-2026",
    "category": "event",
@@ -18411,7 +18104,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Guil Station (Line 1)"
+     "quote": "The 18th Melon Music Awards was set for November 14–16, 2026."
     }
    ]
   }
@@ -19093,9 +18786,9 @@
   }
  },
  "auckland-maungawhau-mount-eden": {
-  "bodyHash": "e2536f5f0c25",
+  "bodyHash": "383ff5835ca0",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:46.356Z",
+  "at": "2026-11-21T18:42:36.201Z",
   "result": {
    "slug": "auckland-maungawhau-mount-eden",
    "category": "attraction",
@@ -19103,7 +18796,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "It formed in an eruption around 28,000 years ago."
+     "quote": "Hours here run by the clock, and the clock changes."
     }
    ]
   }
@@ -19163,17 +18856,17 @@
   }
  },
  "christchurch-christchurch-tram": {
-  "bodyHash": "9b7c8124f3a6",
+  "bodyHash": "da520f96533e",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:46.635Z",
+  "at": "2026-11-21T18:42:36.201Z",
   "result": {
    "slug": "christchurch-christchurch-tram",
    "category": "attraction",
    "region": "Christchurch",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "The Worcester Street stop at number 109 is close to Cathedral Square"
+     "type": "invented-specifics",
+     "quote": "Try to avoid boarding between 10am and 5pm on weekends."
     }
    ]
   }
@@ -19657,20 +19350,10 @@
   }
  },
  "banff-banff-park-museum-national-historic-site": {
-  "bodyHash": "2908be570bb9",
+  "bodyHash": "88aca4927148",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:47.921Z",
-  "result": {
-   "slug": "banff-banff-park-museum-national-historic-site",
-   "category": "attraction",
-   "region": "Banff",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Cascade of Time Garden"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:36.201Z",
+  "result": null
  },
  "kolkata-flurys": {
   "bodyHash": "94a550198284",
@@ -19915,9 +19598,9 @@
   "result": null
  },
  "churchill-cape-merry": {
-  "bodyHash": "8f95e952d10a",
+  "bodyHash": "e211b5339011",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:48.904Z",
+  "at": "2026-11-21T18:42:36.201Z",
   "result": {
    "slug": "churchill-cape-merry",
    "category": "attraction",
@@ -19925,7 +19608,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Avoid on weekends:** 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–11pm"
+     "quote": "Avoid on weekends:** 8am–9am, 12pm–1pm, 2pm–3pm and 7pm–8pm"
     }
    ]
   }
@@ -20029,9 +19712,9 @@
   "result": null
  },
  "abu-dhabi-bredx-festival-bryson-tiller-central-cee": {
-  "bodyHash": "c6e118b51343",
+  "bodyHash": "c839b9982166",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:17.491Z",
+  "at": "2026-11-21T18:42:37.829Z",
   "result": null
  },
  "bologna-davis-cup-finals-2026": {
@@ -20378,9 +20061,9 @@
   "result": null
  },
  "seoul-seoul-cafe-show": {
-  "bodyHash": "c92d4d436463",
+  "bodyHash": "e5bd20d2864d",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:24.389Z",
+  "at": "2026-11-21T18:42:36.202Z",
   "result": {
    "slug": "seoul-seoul-cafe-show",
    "category": "event",
@@ -20388,7 +20071,7 @@
    "prose": [
     {
      "type": "template-chatter",
-     "quote": "Here is what regulars usually do:"
+     "quote": "Here is what regulars usually do"
     }
    ]
   }
@@ -20488,9 +20171,9 @@
   "result": null
  },
  "sydney-aria-music-awards-2026": {
-  "bodyHash": "8be152274612",
+  "bodyHash": "a4701eceab90",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:26.763Z",
+  "at": "2026-11-21T18:42:37.521Z",
   "result": null
  },
  "tashkent-2026-asian-table-tennis-championships": {
@@ -20541,26 +20224,21 @@
   }
  },
  "tashkent-traders-fair-2026-uzbekistan": {
-  "bodyHash": "346b6d3760f4",
+  "bodyHash": "0050688b9aaa",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:27.484Z",
+  "at": "2026-11-21T18:42:37.707Z",
   "result": {
    "slug": "tashkent-traders-fair-2026-uzbekistan",
    "category": "event",
    "region": "Tashkent",
-   "image": "NO HERO",
    "prose": [
     {
      "type": "template-chatter",
      "quote": "Here is how attendees usually get the most from a day like this"
     },
     {
-     "type": "invented-specifics",
-     "quote": "plov is the city's signature dish, cooked in huge cauldrons and traditionally served at midday"
-    },
-    {
      "type": "other-glaring",
-     "quote": "the official page names the one for this edition"
+     "quote": "For dinner, plov is the city's signature dish, cooked in huge cauldrons and traditionally served at midday."
     }
    ]
   }
@@ -20650,10 +20328,20 @@
   "result": null
  },
  "ulaanbaatar-evening-museum-let-s-travel-through-socialism": {
-  "bodyHash": "0e0218772e9a",
+  "bodyHash": "0f3a1f70c3b7",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:29.022Z",
-  "result": null
+  "at": "2026-11-21T18:42:37.797Z",
+  "result": {
+   "slug": "ulaanbaatar-evening-museum-let-s-travel-through-socialism",
+   "category": "event",
+   "region": "Ulaanbaatar",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "A simple \"Sain baina uu\" (hello) at the desk goes a long way."
+    }
+   ]
+  }
  },
  "ulaanbaatar-genghis-khan-s-birthday": {
   "bodyHash": "dd691c32ef8a",
@@ -20762,20 +20450,10 @@
   }
  },
  "christchurch-christchurch-botanic-gardens": {
-  "bodyHash": "10034bcf9b67",
+  "bodyHash": "defa8d8b21a0",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:54.865Z",
-  "result": {
-   "slug": "christchurch-christchurch-botanic-gardens",
-   "category": "attraction",
-   "region": "Christchurch",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Card payment is accepted at the café and boat sheds, as contactless is standard across New Zealand."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:42:37.078Z",
+  "result": null
  },
  "wanaka-wanaka-willow-tree": {
   "bodyHash": "b280c9f0c0be",
@@ -21171,9 +20849,9 @@
   "result": null
  },
  "byron-bay-bangalow-heritage-house-museum": {
-  "bodyHash": "b3be2d6e1807",
+  "bodyHash": "bd0c62ca56f8",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:55.634Z",
+  "at": "2026-11-21T18:42:37.078Z",
   "result": {
    "slug": "byron-bay-bangalow-heritage-house-museum",
    "category": "attraction",
@@ -21181,7 +20859,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Byron Street's shopfront rows, built with deep verandahs, trace the town's main-street history."
+     "quote": "Byron Street's shopfront rows, built with deep verandahs, still define the town's main street."
     }
    ]
   }
@@ -21370,17 +21048,17 @@
   "result": null
  },
  "bangkok-vijit-chao-phraya-2026": {
-  "bodyHash": "fb1394bf36f6",
+  "bodyHash": "aa6f9957b507",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:56.048Z",
+  "at": "2026-11-21T18:42:37.078Z",
   "result": {
    "slug": "bangkok-vijit-chao-phraya-2026",
    "category": "event",
    "region": "Bangkok",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "regulars book tables days in advance"
+     "type": "foreign-fragment",
+     "quote": "วิจิตรเจ้าพระยา"
     }
    ]
   }
@@ -21538,15 +21216,25 @@
   }
  },
  "kuala-lumpur-5-seconds-of-summer-everyone-s-a-star-tour": {
-  "bodyHash": "97d933e77997",
+  "bodyHash": "fcabf6bb461d",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:44.698Z",
-  "result": null
+  "at": "2026-11-21T18:42:37.307Z",
+  "result": {
+   "slug": "kuala-lumpur-5-seconds-of-summer-everyone-s-a-star-tour",
+   "category": "event",
+   "region": "Kuala Lumpur",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Axiata Arena before its current naming deal"
+    }
+   ]
+  }
  },
  "edinburgh-2026-scottish-open-snooker": {
-  "bodyHash": "645e739f5d30",
+  "bodyHash": "4c756ed9c574",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:44.708Z",
+  "at": "2026-11-21T18:42:39.081Z",
   "result": {
    "slug": "edinburgh-2026-scottish-open-snooker",
    "category": "event",
@@ -21554,7 +21242,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "The centre is new, built on the site of the old Meadowbank Stadium."
+     "quote": "named after Scotland's seven-time world champion"
     }
    ]
   }
@@ -21737,50 +21425,55 @@
   }
  },
  "new-york-city-league-of-legends-world-championship-finals-worlds-2026": {
-  "bodyHash": "d749898d207f",
+  "bodyHash": "ebf1e0404e64",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:47.315Z",
+  "at": "2026-11-21T18:42:37.307Z",
   "result": {
    "slug": "new-york-city-league-of-legends-world-championship-finals-worlds-2026",
    "category": "event",
    "region": "New York",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "from 20–30 minutes by subway"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "Tipping:** at bars nearby, 15–20% of the bill is the US norm"
+     "type": "other-glaring",
+     "quote": "The schedule put weeks of group and knockout play in Allen, Texas"
     }
    ]
   }
  },
  "paris-beaujolais-nouveau-festival": {
-  "bodyHash": "79127628555e",
+  "bodyHash": "3bb493aa8876",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:47.323Z",
-  "result": null
+  "at": "2026-11-21T18:42:37.307Z",
+  "result": {
+   "slug": "paris-beaujolais-nouveau-festival",
+   "category": "event",
+   "region": "Paris",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "In 2026 that was November 19."
+    }
+   ]
+  }
  },
  "paris-paris-photo": {
-  "bodyHash": "870f11f9b5b8",
+  "bodyHash": "4b1b6306daec",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:47.900Z",
+  "at": "2026-11-21T18:42:37.307Z",
   "result": null
  },
  "puerto-princesa-ironman-70-3-puerto-princesa": {
-  "bodyHash": "630e84d765a2",
+  "bodyHash": "1de07a4da169",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:48.123Z",
+  "at": "2026-11-21T18:42:38.893Z",
   "result": {
    "slug": "puerto-princesa-ironman-70-3-puerto-princesa",
    "category": "event",
    "region": "Puerto Princesa",
-   "image": "NO HERO",
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Here is what experienced supporters usually do:"
+     "quote": "Seventy point three is the number to start with. That is the race distance in miles"
     }
    ]
   }
@@ -22108,9 +21801,9 @@
   "result": null
  },
  "pasay-wave-to-earth-the-pieces-tour-manila": {
-  "bodyHash": "10b963c454c7",
+  "bodyHash": "9892d5fdd107",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-24T21:09:56.095Z",
+  "at": "2026-11-21T18:42:38.865Z",
   "result": null
  },
  "turin-club-to-club-c2c-festival": {
@@ -22430,20 +22123,10 @@
   "result": null
  },
  "bath-royal-victoria-park": {
-  "bodyHash": "2fd8a9d3d5c6",
+  "bodyHash": "b09dd7de465f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:42.204Z",
-  "result": {
-   "slug": "bath-royal-victoria-park",
-   "category": "attraction",
-   "region": "Bath",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Try not to turn up between 10am and 7pm on a Saturday or Sunday"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:55.065Z",
+  "result": null
  },
  "abu-dhabi-adnoc-abu-dhabi-marathon": {
   "bodyHash": "99bf4b3e7f07",
@@ -22498,9 +22181,9 @@
   "result": null
  },
  "batnorov-winter-horse-festival-steppe-horse-festival": {
-  "bodyHash": "bfaf58388b14",
+  "bodyHash": "fb8984077216",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:37.105Z",
+  "at": "2026-11-21T18:41:55.065Z",
   "result": {
    "slug": "batnorov-winter-horse-festival-steppe-horse-festival",
    "category": "event",
@@ -22509,9 +22192,9 @@
   }
  },
  "auckland-bnz-auckland-diwali-festival": {
-  "bodyHash": "5143e987e1e2",
+  "bodyHash": "2b615081a8c8",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:42.365Z",
+  "at": "2026-11-21T18:41:55.065Z",
   "result": {
    "slug": "auckland-bnz-auckland-diwali-festival",
    "category": "event",
@@ -22519,16 +22202,26 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Waitematā Station (Britomart)"
+     "quote": "The BNZ Auckland Diwali Festival was set for Saturday, October 31 to Sunday, November 1, 2026."
     }
    ]
   }
  },
  "barcelona-guitar-bcn-festival-2026": {
-  "bodyHash": "0f07b66654ac",
+  "bodyHash": "ebbf20718dfb",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:51.791Z",
-  "result": null
+  "at": "2026-11-21T18:41:55.065Z",
+  "result": {
+   "slug": "barcelona-guitar-bcn-festival-2026",
+   "category": "event",
+   "region": "Barcelona",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "The 2026 edition was set for November."
+    }
+   ]
+  }
  },
  "barcelona-mas-cara-world-tour-bad-gyal-barcelona": {
   "bodyHash": "7fe0b7f52346",
@@ -22537,15 +22230,10 @@
   "result": null
  },
  "belek-ironman-70-3-turkey": {
-  "bodyHash": "8af5567116c6",
+  "bodyHash": "ed8ae45cb331",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:37.472Z",
-  "result": {
-   "slug": "belek-ironman-70-3-turkey",
-   "category": "event",
-   "region": "Belek",
-   "image": "NO HERO"
-  }
+  "at": "2026-11-21T18:41:56.136Z",
+  "result": null
  },
  "bologna-cesare-cremonini-amatour": {
   "bodyHash": "fcc56c43d6eb",
@@ -22571,15 +22259,10 @@
   "result": null
  },
  "calgary-113th-grey-cup": {
-  "bodyHash": "4a632ed1463a",
+  "bodyHash": "1d715f26fae8",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:38.257Z",
-  "result": {
-   "slug": "calgary-113th-grey-cup",
-   "category": "event",
-   "region": "Calgary",
-   "image": "NO HERO"
-  }
+  "at": "2026-11-21T18:41:55.080Z",
+  "result": null
  },
  "buenos-aires-oneus-world-tour-full-moon": {
   "bodyHash": "85d9444c72e9",
@@ -22604,10 +22287,24 @@
   }
  },
  "chonburi-bangsaen42-chonburi-marathon": {
-  "bodyHash": "00510de83674",
+  "bodyHash": "03a6c5344192",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:38.680Z",
-  "result": null
+  "at": "2026-11-21T18:41:55.080Z",
+  "result": {
+   "slug": "chonburi-bangsaen42-chonburi-marathon",
+   "category": "event",
+   "region": "Chonburi",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "was set for November 15, 2026"
+    },
+    {
+     "type": "other-glaring",
+     "quote": "The Bangsaen42 was aimed at runners who wanted a complete 42.195km marathon close to Bangkok"
+    }
+   ]
+  }
  },
  "chicago-katseye-wildworld-tour": {
   "bodyHash": "509d34fb9062",
@@ -22779,20 +22476,10 @@
   }
  },
  "guadalajara-guadalajara-marathon-maraton-guadalajara-electrolit": {
-  "bodyHash": "ad5c2eabba5f",
+  "bodyHash": "763ae7868df1",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:41.949Z",
-  "result": {
-   "slug": "guadalajara-guadalajara-marathon-maraton-guadalajara-electrolit",
-   "category": "event",
-   "region": "Guadalajara",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "The race has been running since 1984."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:56.137Z",
+  "result": null
  },
  "lima-gorillaz-lima-2026": {
   "bodyHash": "5b0a5014fece",
@@ -22967,33 +22654,23 @@
   }
  },
  "nakhon-ratchasima-korat-marathon": {
-  "bodyHash": "61387be5824a",
+  "bodyHash": "20009b5645f9",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:45.714Z",
-  "result": {
-   "slug": "nakhon-ratchasima-korat-marathon",
-   "category": "event",
-   "region": "Nakhon Ratchasima",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "It predates Angkor Wat and shares its design language."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:57.280Z",
+  "result": null
  },
  "new-york-ten-us-showcase-tour": {
-  "bodyHash": "bdc9668fd2b5",
+  "bodyHash": "afbe331f01c0",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:45.751Z",
+  "at": "2026-11-21T18:41:56.504Z",
   "result": {
    "slug": "new-york-ten-us-showcase-tour",
    "category": "event",
    "region": "New York",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "The upper levels' advantage:"
+     "type": "invented-specifics",
+     "quote": "came out in 2024 with the lead single \"Nightwalker\""
     }
    ]
   }
@@ -23097,9 +22774,9 @@
   }
  },
  "queenstown-queenstown-marathon": {
-  "bodyHash": "fdcf835cee55",
+  "bodyHash": "effdfcb51efe",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:48.575Z",
+  "at": "2026-11-21T18:41:57.053Z",
   "result": null
  },
  "petaling-jaya-wave-to-earth-the-pieces-tour": {
@@ -23219,20 +22896,10 @@
   }
  },
  "tbilisi-tbilisi-book-days": {
-  "bodyHash": "4334d29b000e",
+  "bodyHash": "5aab60c40e87",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:50.594Z",
-  "result": {
-   "slug": "tbilisi-tbilisi-book-days",
-   "category": "event",
-   "region": "Tbilisi",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Friday is the working-day session. Locals with jobs tend to come at the weekend, so visitors who want room to browse the stalls often aim for the Friday."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:56.136Z",
+  "result": null
  },
  "tbilisi-tbilisi-christmas-market-new-year-village": {
   "bodyHash": "32d0c96f1341",
@@ -23264,20 +22931,10 @@
   "result": null
  },
  "toronto-the-royal-agricultural-winter-fair": {
-  "bodyHash": "5f9646e96a39",
+  "bodyHash": "64d254781df4",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:50:51.585Z",
-  "result": {
-   "slug": "toronto-the-royal-agricultural-winter-fair",
-   "category": "event",
-   "region": "Toronto",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "the exhibition halls of the Enercare Centre at Exhibition Place work like a farm"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:56.136Z",
+  "result": null
  },
  "toronto-bts-world-tour-arirang-toronto": {
   "bodyHash": "16b0d6a1715a",
@@ -24132,10 +23789,20 @@
   "result": null
  },
  "bangkok-my-chemical-romance-bangkok": {
-  "bodyHash": "66f271171487",
+  "bodyHash": "c517ebcaf588",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:07.791Z",
-  "result": null
+  "at": "2026-11-21T18:41:56.137Z",
+  "result": {
+   "slug": "bangkok-my-chemical-romance-bangkok",
+   "category": "event",
+   "region": "Bangkok",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Ticket prices were set per zone."
+    }
+   ]
+  }
  },
  "barcelona-eluveitie-concert": {
   "bodyHash": "ef8822cc0879",
@@ -24388,9 +24055,9 @@
   "result": null
  },
  "lima-the-strokes-concert": {
-  "bodyHash": "105d7321de21",
+  "bodyHash": "ef9e7164968d",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:12.947Z",
+  "at": "2026-11-21T18:41:56.631Z",
   "result": null
  },
  "london-aespa-world-tour": {
@@ -24481,9 +24148,9 @@
   }
  },
  "mexico-city-nascar-mexico-city-race-autodromo-hermanos-rodriguez": {
-  "bodyHash": "5b319a93bd3b",
+  "bodyHash": "0c66675a27aa",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:15.137Z",
+  "at": "2026-11-21T18:41:57.053Z",
   "result": {
    "slug": "mexico-city-nascar-mexico-city-race-autodromo-hermanos-rodriguez",
    "category": "event",
@@ -24491,7 +24158,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "a lot of fans go home sunburnt"
+     "quote": "The 2026 edition was set for late 2026."
     }
    ]
   }
@@ -24552,24 +24219,10 @@
   }
  },
  "new-york-triples-world-tour-andless-new-york": {
-  "bodyHash": "afec7dc8dc5e",
+  "bodyHash": "3505c63ce86f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:16.325Z",
-  "result": {
-   "slug": "new-york-triples-world-tour-andless-new-york",
-   "category": "event",
-   "region": "New York",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "roughly 3,000 seats across orchestra and balcony levels"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "roughly 40 minutes"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:57.280Z",
+  "result": null
  },
  "reggio-calabria-next-gen-atp-finals": {
   "bodyHash": "d050722fac84",
@@ -24727,17 +24380,17 @@
   }
  },
  "tbilisi-kreator-with-overkill-tbilisi-2026": {
-  "bodyHash": "6ac3ad474b98",
+  "bodyHash": "5a7084609746",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:19.488Z",
+  "at": "2026-11-21T18:42:36.200Z",
   "result": {
    "slug": "tbilisi-kreator-with-overkill-tbilisi-2026",
    "category": "event",
    "region": "Tbilisi",
    "prose": [
     {
-     "type": "template-chatter",
-     "quote": "Here is the catalogue most people in the crowd know:"
+     "type": "invented-specifics",
+     "quote": "The two bands were booked to share Space Hall in Tbilisi on November 20, 2026. Overkill had the opening slot and Kreator the headline set."
     }
    ]
   }
@@ -24886,20 +24539,10 @@
   "result": null
  },
  "gangneung-ojukheon": {
-  "bodyHash": "6fe913085425",
+  "bodyHash": "c422c6ebfaea",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:44.836Z",
-  "result": {
-   "slug": "gangneung-ojukheon",
-   "category": "attraction",
-   "region": "Gangneung",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Arrive right at 9am or after 3pm for a calmer walk through the grounds."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "chicago-medinah-temple": {
   "bodyHash": "0a288c056088",
@@ -24924,9 +24567,9 @@
   "result": null
  },
  "new-orleans-oak-alley-plantation": {
-  "bodyHash": "7b7e821a3df9",
+  "bodyHash": "4a94a23eae4c",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:45.610Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "new-orleans-oak-alley-plantation",
    "category": "hidden-gem",
@@ -24946,9 +24589,9 @@
   "result": null
  },
  "orchard-road-din-tai-fung": {
-  "bodyHash": "c827ca41d17e",
+  "bodyHash": "ea66e20750f9",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:46.593Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "orchard-road-din-tai-fung",
    "category": "restaurant",
@@ -24963,16 +24606,16 @@
      "quote": "arrive eight to a basket"
     },
     {
-     "type": "other-glaring",
-     "quote": "avoid noon to 7pm on Saturday and Sunday"
+     "type": "invented-specifics",
+     "quote": "it's a ten-minute walk up Orchard Road"
     }
    ]
   }
  },
  "bangkok-earth-house-restaurant-wine-bar": {
-  "bodyHash": "9d141820f1a4",
+  "bodyHash": "01f5d1dba45f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:46.825Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "bangkok-earth-house-restaurant-wine-bar",
    "category": "restaurant",
@@ -24980,7 +24623,11 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "the last hour before close, 10 to 11pm on weekends, is consistently the quietest window"
+     "quote": "since the forecast flags no standout quiet hour"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "neighborhood's small galleries and design shops keep similarly relaxed hours"
     }
    ]
   }
@@ -25010,9 +24657,9 @@
   }
  },
  "bordeaux-place-de-la-bourse": {
-  "bodyHash": "cf4a4acff334",
+  "bodyHash": "2607a23b5cf9",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:46.904Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "bordeaux-place-de-la-bourse",
    "category": "hidden-gem",
@@ -25020,20 +24667,30 @@
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "roughly every 15-20 minutes"
+     "quote": "crowds building steadily until around 11pm"
     },
     {
      "type": "invented-specifics",
-     "quote": "with crowds building steadily until around 11pm"
+     "quote": "7am–9am on weekdays, or 7am–10am on weekends"
     }
    ]
   }
  },
  "barcelona-the-grill-barcelona": {
-  "bodyHash": "8f79000415b7",
+  "bodyHash": "c7ddc71dc681",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:47.137Z",
-  "result": null
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "barcelona-the-grill-barcelona",
+   "category": "restaurant",
+   "region": "Barcelona",
+   "prose": [
+    {
+     "type": "symbol-in-prose",
+     "quote": "(4.8★)"
+    }
+   ]
+  }
  },
  "barcelona-placa-nova": {
   "bodyHash": "cb476b36acd8",
@@ -25104,29 +24761,21 @@
   }
  },
  "ayutthaya-bueng-phra-ram-park": {
-  "bodyHash": "1c242b5fd40f",
+  "bodyHash": "e96bc94e89b6",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:49.480Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "ayutthaya-bueng-phra-ram-park",
    "category": "attraction",
    "region": "Ayutthaya",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "the light is soft and the ruins across the water are least hazy. Late afternoon"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "the cooler air) worth avoiding"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "rushing through it in five minutes) the park rewards"
-    },
-    {
      "type": "invented-specifics",
      "quote": "that 4pm–11pm stretch is when the park is at its fullest"
+    },
+    {
+     "type": "broken-markdown",
+     "quote": "rent one from a shop near Chao Phrom Market rather than relying on tuk-tuks, since the flat, walkable island makes cycling both cheaper and more pleasant."
     }
    ]
   }
@@ -25156,65 +24805,31 @@
   }
  },
  "barcelona-museu-d-art-contemporani-de-barcelona": {
-  "bodyHash": "92acbbf4b279",
+  "bodyHash": "197ba7133ecc",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:49.949Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "barcelona-museu-d-art-contemporani-de-barcelona",
    "category": "attraction",
    "region": "Barcelona",
    "prose": [
     {
-     "type": "invented-specifics",
+     "type": "other-glaring",
      "quote": "makes an easy combined-ticket pairing"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "coming back between 3pm and 4pm, the quietest weekend slot"
-    },
-    {
-     "type": "other-glaring",
-     "quote": "the 3–4pm lull on weekends"
     }
    ]
   }
  },
  "fukuoka-tanga-market": {
-  "bodyHash": "a6ae64b0ef4c",
+  "bodyHash": "be7474c2b069",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:50.502Z",
-  "result": {
-   "slug": "fukuoka-tanga-market",
-   "category": "hidden-gem",
-   "region": "Fukuoka",
-   "prose": [
-    {
-     "type": "broken-markdown",
-     "quote": "nicknamed locally as \"Kitakyushu's kitchen.\" The corrugated awnings, the hand-painted signboards, the styrofoam crates stacked waist-high with ice and fish scales) none of it has been redesigned for Instagram."
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "which makes it an easy stop if you're moving between Fukuoka City (Hakata), and Shimonoseki or Honshu."
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "so it's worth glancing at a map before you set off, since the entrances aren't dramatic) you can walk past one without realizing it."
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "though popular food counters can form short lines around midday) that's your cue to circle back to a quieter stall and return later."
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "the move here is to graze, not to sit down for one big meal. Most stalls deal in cash"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
  },
  "barcelona-la-colmena": {
-  "bodyHash": "285b111749d7",
+  "bodyHash": "8dc50d5c3b22",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:50.570Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "barcelona-la-colmena",
    "category": "trendy",
@@ -25223,10 +24838,6 @@
     {
      "type": "foreign-fragment",
      "quote": "cent grams"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "turrón de Jijona (soft, almond-paste style), and turrón de Alicante (hard, brittle with whole almonds)"
     }
    ]
   }
@@ -25274,33 +24885,25 @@
   }
  },
  "istanbul-egyptian-bazaar": {
-  "bodyHash": "157e78840df5",
+  "bodyHash": "61028fe8c8ed",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:50.977Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "istanbul-egyptian-bazaar",
    "category": "hidden-gem",
    "region": "Istanbul",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "a polite counter-offer at 60–70% of the asking price is normal practice"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "Budget 45 minutes for a walk-through, 75 minutes if you plan to buy and chat with sellers"
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "Go right at opening on a weekday if you can (the vendors are setting up"
+     "type": "other-glaring",
+     "quote": "Go right at opening on a weekday if you can (the vendors are setting up, the smell of fresh coffee grinding drifts from the roasters, and you'll have the arched hall nearly to yourself for the first hour. Cash (Turkish lira) is still preferred at most stalls and gives you real room to negotiate; card machines exist but vendors quote friendlier prices for cash, and haggling here is expected, not rude) a polite counter-offer at 60–70% of the asking price is normal practice, not an insult."
     }
    ]
   }
  },
  "san-francisco-tartine-bakery": {
-  "bodyHash": "31a2daa10666",
+  "bodyHash": "002aa25da289",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:51.678Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "san-francisco-tartine-bakery",
    "category": "trendy",
@@ -25308,7 +24911,7 @@
    "prose": [
     {
      "type": "invented-specifics",
-     "quote": "a well-known ham-and-cheese and a rotating vegetable option"
+     "quote": "including a well-known ham-and-cheese and a rotating vegetable option"
     }
    ]
   }
@@ -25320,9 +24923,9 @@
   "result": null
  },
  "gyeongju-seongdong-market": {
-  "bodyHash": "8583ffb2d823",
+  "bodyHash": "9aa349963f1c",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:52.042Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "gyeongju-seongdong-market",
    "category": "hidden-gem",
@@ -25330,7 +24933,7 @@
    "prose": [
     {
      "type": "broken-markdown",
-     "quote": "(most stalls are cash-first, though card acceptance has grown at the larger shops; don't assume every vendor takes cards. There's no tipping at any stall, ever. Point-and-order is completely normal if your Korean is limited)"
+     "quote": "Come with small bills and coins (most stalls are cash-first, though card acceptance has grown at the larger shops; don't assume every vendor takes cards. There's no tipping at any stall, ever. Point-and-order is completely normal if your Korean is limited) vendors are used to gesturing customers"
     }
    ]
   }
@@ -25362,9 +24965,9 @@
   "result": null
  },
  "san-francisco-the-painted-ladies": {
-  "bodyHash": "52b51665dfc2",
+  "bodyHash": "478407d3c360",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:52.686Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": null
  },
  "barcelona-mercat-de-la-boqueria": {
@@ -25418,29 +25021,17 @@
   }
  },
  "amalfi-coast-valle-delle-ferriere": {
-  "bodyHash": "eea0706fc465",
+  "bodyHash": "b5e40d94205c",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:53.340Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "amalfi-coast-valle-delle-ferriere",
    "category": "attraction",
    "region": "Amalfi Coast",
    "prose": [
     {
-     "type": "broken-markdown",
-     "quote": "near the Museo della Carta (Paper Museum) (a natural first stop"
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "(it's standard trail courtesy here, not a tourist affectation."
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "arranging a guide in advance through local hiking outfits) don't expect to wing it at the gate."
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "descend into the valley instead of climbing) a good option"
+     "type": "other-glaring",
+     "quote": "so this isn't a stroll in sandals, trail runners or hiking shoes make a genuine difference here"
     }
    ]
   }
@@ -25486,9 +25077,9 @@
   }
  },
  "ayutthaya-wat-phra-si-sanphet": {
-  "bodyHash": "c3fe9679f457",
+  "bodyHash": "7e49f21d83e1",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:53.954Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "ayutthaya-wat-phra-si-sanphet",
    "category": "attraction",
@@ -25496,14 +25087,6 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "no monks ever lived here, because it was built purely as a royal chapel"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "a 16-meter standing Buddha sheathed in gold"
-    },
-    {
-     "type": "invented-specifics",
      "quote": "that entire window counts as the calmer stretch of the day according to visitor traffic patterns"
     }
    ]
@@ -25534,47 +25117,50 @@
   }
  },
  "valencia-torres-de-serranos": {
-  "bodyHash": "c033c17f2f9d",
+  "bodyHash": "caaed021801b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:54.856Z",
-  "result": null
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "valencia-torres-de-serranos",
+   "category": "attraction",
+   "region": "Valencia",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "ticket booths at Valencia's monuments often prefer contactless payment"
+    }
+   ]
+  }
  },
  "busan-museum-1": {
-  "bodyHash": "531ccb7ff5ae",
+  "bodyHash": "d2d93f6b5805",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:55.094Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "busan-museum-1",
    "category": "attraction",
    "region": "Busan",
+   "image": "NO HERO",
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "The museum runs quieter from 10am to 8pm overall, but a distinct crush builds between noon and 6pm"
+     "quote": "peak in a distinct crush between noon and 6pm"
     }
    ]
   }
  },
  "marseille-palais-longchamp": {
-  "bodyHash": "eb9ef5ded0d8",
+  "bodyHash": "21df7b692373",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:55.113Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "marseille-palais-longchamp",
    "category": "attraction",
    "region": "Marseille",
    "prose": [
     {
-     "type": "other-glaring",
-     "quote": "the calmest stretch, both Saturday–Sunday and midweek, runs from 8am to 7:30pm"
-    },
-    {
      "type": "broken-markdown",
-     "quote": "that's how Marseillais use it, cutting across the plaza on a walk or sitting on the fountain steps with a coffee. There's no booking system"
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "pay at the door in cash or card) prices are modest"
+     "quote": "that's how Marseillais use it, cutting across the plaza on a walk or sitting on the fountain steps with a coffee. There's no booking system and no line to speak of; you simply walk up. If you do want a museum, pay at the door in cash or card) prices are modest"
     }
    ]
   }
@@ -25602,9 +25188,9 @@
   "result": null
  },
  "venice-saint-mark-s-basilica": {
-  "bodyHash": "f8efdfac926b",
+  "bodyHash": "188fe5f3b7ee",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:55.337Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "venice-saint-mark-s-basilica",
    "category": "attraction",
@@ -25613,14 +25199,6 @@
     {
      "type": "broken-markdown",
      "quote": "had simply taken one) stone by stone"
-    },
-    {
-     "type": "broken-markdown",
-     "quote": "so treat any visit as a mid-morning-to-late-afternoon plan rather than a first or last stop of the day (check the current hours on the basilica's own site before you go, since they shift with the liturgical calendar. Measured foot-traffic shows the calmest window runs 9:30am to 5:15pm on weekdays and Saturdays, and from 2pm to 5:15pm on Sundays) in other words"
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "the one stretch to actively avoid is 12pm–3pm on weekends"
     }
    ]
   }
@@ -25662,9 +25240,9 @@
   }
  },
  "shanghai-shanghai-museum": {
-  "bodyHash": "e5cf8d143bdc",
+  "bodyHash": "993fd3427d6b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-10-31T21:51:56.770Z",
+  "at": "2026-11-21T18:43:19.719Z",
   "result": {
    "slug": "shanghai-shanghai-museum",
    "category": "attraction",
@@ -25672,19 +25250,19 @@
    "prose": [
     {
      "type": "broken-markdown",
-     "quote": "(they're smaller and quieter, and the intricacy of the carving rewards a slow look."
+     "quote": "they're smaller and quieter, and the intricacy of the carving rewards a slow look. The calligraphy"
     },
     {
      "type": "broken-markdown",
-     "quote": "Furniture) huanghuali wood chairs"
+     "quote": "Ming and Qing furniture) huanghuali wood chairs"
     },
     {
      "type": "broken-markdown",
-     "quote": "showing up and hoping (most Shanghai residents plan around this rather than risk being turned away."
+     "quote": "showing up and hoping (most Shanghai residents plan around this"
     },
     {
      "type": "broken-markdown",
-     "quote": "protect the paintings and textiles) follow the gallery staff's cues"
+     "quote": "to protect the paintings and textiles) follow the gallery staff's cues"
     }
    ]
   }
@@ -25752,9 +25330,9 @@
   "result": null
  },
  "franz-josef-westland-tai-poutini-national-park": {
-  "bodyHash": "34dda9454136",
+  "bodyHash": "626a25d7e301",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:38.847Z",
+  "at": "2026-11-21T18:41:13.592Z",
   "result": {
    "slug": "franz-josef-westland-tai-poutini-national-park",
    "category": "attraction",
@@ -25762,7 +25340,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "The park dates from 1960."
+     "quote": "That is when the valley car parks fill and tour coaches arrive."
     }
    ]
   }
@@ -25836,20 +25414,10 @@
   }
  },
  "bursa-muradiye-complex": {
-  "bodyHash": "0315c192777f",
+  "bodyHash": "d6d4c3e33ee1",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:40.261Z",
-  "result": {
-   "slug": "bursa-muradiye-complex",
-   "category": "hidden-gem",
-   "region": "Bursa",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "he wanted it that way"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:13.592Z",
+  "result": null
  },
  "ho-chi-minh-city-raum-brunch-cafe": {
   "bodyHash": "32e37321fdcd",
@@ -25938,20 +25506,10 @@
   }
  },
  "batumi-batumi-boulevard": {
-  "bodyHash": "bc23250775c6",
+  "bodyHash": "ba1e46aedac2",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:41.869Z",
-  "result": {
-   "slug": "batumi-batumi-boulevard",
-   "category": "hidden-gem",
-   "region": "Batumi",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Try not to arrive between 12pm and 11pm on a weekend"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:13.592Z",
+  "result": null
  },
  "montreal-mount-royal-park": {
   "bodyHash": "6e69af6e7658",
@@ -25970,20 +25528,10 @@
   }
  },
  "bohol-punta-cruz-watchtower": {
-  "bodyHash": "b869e315bc59",
+  "bodyHash": "2ccbb11d578b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:42.267Z",
-  "result": {
-   "slug": "bohol-punta-cruz-watchtower",
-   "category": "hidden-gem",
-   "region": "Bohol",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "The name comes from the cross that the townspeople, or *Punta Cruz*, raised on the point."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:13.592Z",
+  "result": null
  },
  "lima-archbishop-s-palace-of-lima": {
   "bodyHash": "5b5d82a27983",
@@ -26026,17 +25574,18 @@
   "result": null
  },
  "chiayi-taiping-old-street": {
-  "bodyHash": "08a4a0bdfab1",
+  "bodyHash": "698d37bed580",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:43.434Z",
+  "at": "2026-11-21T18:41:13.592Z",
   "result": {
    "slug": "chiayi-taiping-old-street",
    "category": "hidden-gem",
    "region": "Chiayi",
+   "image": "NO HERO",
    "prose": [
     {
      "type": "foreign-fragment",
-     "quote": "太平老街 (Tàipíng Lǎojiē)"
+     "quote": "太平老街"
     }
    ]
   }
@@ -26098,36 +25647,16 @@
   "result": null
  },
  "auckland-boyz-ii-men-new-zealand-tour": {
-  "bodyHash": "f9b0062e03e0",
+  "bodyHash": "e30b7a8383c6",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:44.502Z",
-  "result": {
-   "slug": "auckland-boyz-ii-men-new-zealand-tour",
-   "category": "event",
-   "region": "Auckland",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "Sunset falls around 8:30pm"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:13.592Z",
+  "result": null
  },
  "asan-korea-masters-bwf-badminton": {
-  "bodyHash": "8b8cbe6500ac",
+  "bodyHash": "b2acd219c92b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:44.517Z",
-  "result": {
-   "slug": "asan-korea-masters-bwf-badminton",
-   "category": "event",
-   "region": "Asan",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "Admiral Yi probably never planned to have a badminton hall named after him. It suits the town anyway."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:13.592Z",
+  "result": null
  },
  "auckland-westlife-25-the-anniversary-world-tour": {
   "bodyHash": "d3e43b53f7f2",
@@ -26166,17 +25695,17 @@
   "result": null
  },
  "avellaneda-racing-club-10k-5k-race": {
-  "bodyHash": "74964ef74951",
+  "bodyHash": "dc86dc3e5e37",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:46.803Z",
+  "at": "2026-11-21T18:41:14.647Z",
   "result": {
    "slug": "avellaneda-racing-club-10k-5k-race",
    "category": "event",
    "region": "Avellaneda",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "Cafés along Avenida Mitre are the usual meeting spot when families come to meet their runners."
+     "type": "other-glaring",
+     "quote": "The stadium got its nickname, El Cilindro, from its shape."
     }
    ]
   }
@@ -26198,9 +25727,9 @@
   }
  },
  "changhua-tianzhong-marathon-rice-heaven-marathon": {
-  "bodyHash": "0cd8c4c46599",
+  "bodyHash": "5f4166b8d1f9",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:47.225Z",
+  "at": "2026-11-21T18:41:14.584Z",
   "result": null
  },
  "incheon-monsta-x-world-tour-the-x-nexus-encore": {
@@ -26386,9 +25915,9 @@
   "result": null
  },
  "macau-yesung-tour": {
-  "bodyHash": "480d5ae735bd",
+  "bodyHash": "60365b0d2544",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:52.187Z",
+  "at": "2026-11-21T18:41:14.584Z",
   "result": null
  },
  "mexico-city-coca-cola-flow-fest-2026": {
@@ -26479,9 +26008,9 @@
   }
  },
  "singapore-lucy-island-encore": {
-  "bodyHash": "5dbd7cc8d4c2",
+  "bodyHash": "c76a04e721bc",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:54.379Z",
+  "at": "2026-11-21T18:41:14.647Z",
   "result": {
    "slug": "singapore-lucy-island-encore",
    "category": "event",
@@ -26489,7 +26018,7 @@
    "prose": [
     {
      "type": "template-chatter",
-     "quote": "Here is what to expect on stage"
+     "quote": "Here is what the band is known for on stage"
     }
    ]
   }
@@ -26619,20 +26148,10 @@
   "result": null
  },
  "christchurch-riverside-market": {
-  "bodyHash": "bf660a385bbe",
+  "bodyHash": "210a62a9d50a",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:15:56.674Z",
-  "result": {
-   "slug": "christchurch-riverside-market",
-   "category": "hidden-gem",
-   "region": "Christchurch",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "**Also quiet:** 8pm–9pm, but only on Thursday, Friday and Saturday, because it closes at 8pm on the other days."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:14.647Z",
+  "result": null
  },
  "ubud-puri-saren-agung-ubud-puri-saren-ubud": {
   "bodyHash": "3addde361c64",
@@ -26811,9 +26330,9 @@
   }
  },
  "cinque-terre-punta-mesco": {
-  "bodyHash": "ccecbd36781e",
+  "bodyHash": "bf1e56ad4b9b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:00.524Z",
+  "at": "2026-11-21T18:41:14.647Z",
   "result": {
    "slug": "cinque-terre-punta-mesco",
    "category": "hidden-gem",
@@ -26821,7 +26340,7 @@
    "prose": [
     {
      "type": "other-glaring",
-     "quote": "Here is how to make the most of it."
+     "quote": "Here is how to make the most of it:"
     }
    ]
   }
@@ -26885,10 +26404,20 @@
   "result": null
  },
  "berlin-leenalchi-concert": {
-  "bodyHash": "6e5bed4acc86",
+  "bodyHash": "0970cdd7d3ad",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:01.490Z",
-  "result": null
+  "at": "2026-11-21T18:41:15.060Z",
+  "result": {
+   "slug": "berlin-leenalchi-concert",
+   "category": "event",
+   "region": "Berlin",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Curry 36**, right by Mehringdamm station, Berlin's best-known currywurst stand"
+    }
+   ]
+  }
  },
  "buenos-aires-maria-becerra-in-concert": {
   "bodyHash": "2ace2b37e031",
@@ -26897,20 +26426,10 @@
   "result": null
  },
  "buenos-aires-creamfields-buenos-aires": {
-  "bodyHash": "bd0440924aeb",
+  "bodyHash": "48ce9eb645f6",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:02.244Z",
-  "result": {
-   "slug": "buenos-aires-creamfields-buenos-aires",
-   "category": "event",
-   "region": "Buenos Aires",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "the sun sets close to 8pm"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:15.060Z",
+  "result": null
  },
  "buenos-aires-primavera-sound-buenos-aires": {
   "bodyHash": "82734161528e",
@@ -26919,20 +26438,10 @@
   "result": null
  },
  "buenos-aires-republica-folklore": {
-  "bodyHash": "1e929ee86c51",
+  "bodyHash": "64616a8a7d85",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:02.579Z",
-  "result": {
-   "slug": "buenos-aires-republica-folklore",
-   "category": "event",
-   "region": "Buenos Aires",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "It opened in 2019 as a purpose-built covered venue for concerts."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:15.060Z",
+  "result": null
  },
  "bintan-mandiri-bintan-marathon": {
   "bodyHash": "7a774a71f745",
@@ -26968,20 +26477,10 @@
   }
  },
  "christchurch-robbie-williams-britpop-world-tour-christchurch": {
-  "bodyHash": "7521ae15b975",
+  "bodyHash": "47dfa4310ea3",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:04.473Z",
-  "result": {
-   "slug": "christchurch-robbie-williams-britpop-world-tour-christchurch",
-   "category": "event",
-   "region": "Christchurch",
-   "prose": [
-    {
-     "type": "invented-specifics",
-     "quote": "The sun sets well after 8pm"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:54.351Z",
+  "result": null
  },
  "changzhou-zhou-shen-concert": {
   "bodyHash": "668396f9e339",
@@ -27007,21 +26506,17 @@
   }
  },
  "christchurch-all-whites-v-india-international-friendly": {
-  "bodyHash": "7aebfdae8dcb",
+  "bodyHash": "74e4cb47aedd",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:05.640Z",
+  "at": "2026-11-21T18:41:55.080Z",
   "result": {
    "slug": "christchurch-all-whites-v-india-international-friendly",
    "category": "event",
    "region": "Christchurch",
    "prose": [
     {
-     "type": "template-chatter",
-     "quote": "Here is what fans usually do and expect on the day."
-    },
-    {
-     "type": "invented-specifics",
-     "quote": "opened in 2026"
+     "type": "other-glaring",
+     "quote": "the All Whites were set to host India's national team"
     }
    ]
   }
@@ -27043,20 +26538,10 @@
   }
  },
  "dumaguete-dumaguete-runfest": {
-  "bodyHash": "ec80c945b9da",
+  "bodyHash": "3d47f900a57b",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:06.135Z",
-  "result": {
-   "slug": "dumaguete-dumaguete-runfest",
-   "category": "event",
-   "region": "Dumaguete",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "This guide doesn't list them because none of them were part of the facts we were given."
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:54.609Z",
+  "result": null
  },
  "dusseldorf-till-lindemann-meine-welt-tour": {
   "bodyHash": "52b1fd03ac97",
@@ -27065,9 +26550,9 @@
   "result": null
  },
  "da-lat-vietnam-jazz-heritage-festival-2026": {
-  "bodyHash": "0c4995ab02af",
+  "bodyHash": "b25995bd0bed",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:06.575Z",
+  "at": "2026-11-21T18:41:55.465Z",
   "result": null
  },
  "fukuoka-txt-fukuoka-dome-concert": {
@@ -27487,17 +26972,21 @@
   "result": null
  },
  "ulaanbaatar-mongolian-national-wrestling-championship": {
-  "bodyHash": "30b42a049884",
+  "bodyHash": "7d2f94531f51",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-07T22:16:38.589Z",
+  "at": "2026-11-21T18:41:55.064Z",
   "result": {
    "slug": "ulaanbaatar-mongolian-national-wrestling-championship",
    "category": "event",
    "region": "Ulaanbaatar",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "city buses run on the U Money card"
+     "type": "other-glaring",
+     "quote": "The 2026 championship was set for November 2026."
+    },
+    {
+     "type": "other-glaring",
+     "quote": "The venue was the National Sports Stadium in Ulaanbaatar"
     }
    ]
   }
@@ -28135,9 +27624,9 @@
   "result": null
  },
  "hong-kong-cathay-westk-jazz-fest": {
-  "bodyHash": "a82ca52868ff",
+  "bodyHash": "bf8912ac281a",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:38:27.155Z",
+  "at": "2026-11-21T18:40:30.852Z",
   "result": {
    "slug": "hong-kong-cathay-westk-jazz-fest",
    "category": "event",
@@ -28175,9 +27664,9 @@
   }
  },
  "hong-kong-hong-kong-pride-rainbow-market": {
-  "bodyHash": "0cea1264529c",
+  "bodyHash": "116ebc53d13f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:38:27.203Z",
+  "at": "2026-11-21T18:40:30.863Z",
   "result": {
    "slug": "hong-kong-hong-kong-pride-rainbow-market",
    "category": "event",
@@ -28219,9 +27708,9 @@
   }
  },
  "newark-xg-world-tour-the-core": {
-  "bodyHash": "e6b1e5c8d27d",
+  "bodyHash": "c46ed685190f",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:38:28.065Z",
+  "at": "2026-11-21T18:40:31.377Z",
   "result": {
    "slug": "newark-xg-world-tour-the-core",
    "category": "event",
@@ -28235,9 +27724,9 @@
   }
  },
  "orleans-atp-challenger-orleans": {
-  "bodyHash": "c68bf2759f49",
+  "bodyHash": "7b14fb053279",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:38:28.065Z",
+  "at": "2026-11-21T18:40:31.377Z",
   "result": null
  },
  "osaka-treasure-osaka-concert-pulse-on": {
@@ -28275,9 +27764,9 @@
   "result": null
  },
  "pattaya-ittf-world-para-table-tennis-championships": {
-  "bodyHash": "f0b948eb2a7f",
+  "bodyHash": "da842ecd4417",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:38:38.548Z",
+  "at": "2026-11-21T18:40:32.651Z",
   "result": null
  },
  "rome-raffaella-carra-official-hologram-concert": {
@@ -28975,10 +28464,20 @@
   }
  },
  "antalya-2026-un-climate-change-conference-cop31": {
-  "bodyHash": "6b73fd47fe1f",
+  "bodyHash": "a56ff978a0ac",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:01.860Z",
-  "result": null
+  "at": "2026-11-21T18:40:32.864Z",
+  "result": {
+   "slug": "antalya-2026-un-climate-change-conference-cop31",
+   "category": "event",
+   "region": "Antalya",
+   "prose": [
+    {
+     "type": "foreign-fragment",
+     "quote": "Hesap, lütfen"
+    }
+   ]
+  }
  },
  "arezzo-arezzo-citta-del-natale": {
   "bodyHash": "02eabc4ea8b5",
@@ -29021,10 +28520,20 @@
   "result": null
  },
  "cairo-cairo-international-film-festival": {
-  "bodyHash": "f2214aac8c4f",
+  "bodyHash": "5ce6bc1f05d8",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:02.875Z",
-  "result": null
+  "at": "2026-11-21T18:41:11.673Z",
+  "result": {
+   "slug": "cairo-cairo-international-film-festival",
+   "category": "event",
+   "region": "Cairo",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "The Cairo International Film Festival was set for **November 11 to November 20, 2026**."
+    }
+   ]
+  }
  },
  "chennai-chennai-open-atp-challenger": {
   "bodyHash": "5cad5e289bd3",
@@ -29173,9 +28682,9 @@
   "result": null
  },
  "christchurch-rugby-league-world-cup-2026-knockout-stage-men-s": {
-  "bodyHash": "1daf2797fe2a",
+  "bodyHash": "e9f401ef47bc",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:05.160Z",
+  "at": "2026-11-21T18:41:13.333Z",
   "result": null
  },
  "guangzhou-jay-chou-carnival-ii-world-tour-guangzhou": {
@@ -29273,25 +28782,25 @@
   "result": null
  },
  "las-vegas-lisa-blackpink-las-vegas-residency": {
-  "bodyHash": "735b197b0e7b",
+  "bodyHash": "22c53b15b63c",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:06.956Z",
+  "at": "2026-11-21T18:41:13.166Z",
   "result": {
    "slug": "las-vegas-lisa-blackpink-las-vegas-residency",
    "category": "event",
    "region": "Las Vegas",
    "prose": [
     {
-     "type": "invented-specifics",
-     "quote": "Her solo singles \"Lalisa\" and \"Money\" both came out in 2021"
+     "type": "other-glaring",
+     "quote": "Lisa's Las Vegas residency was set to put the BLACKPINK rapper and dancer on the stage"
     }
    ]
   }
  },
  "madrid-till-lindemann-meine-welt-tour-madrid": {
-  "bodyHash": "cc0668481431",
+  "bodyHash": "db6142923c29",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:06.956Z",
+  "at": "2026-11-21T18:41:12.888Z",
   "result": {
    "slug": "madrid-till-lindemann-meine-welt-tour-madrid",
    "category": "event",
@@ -29591,10 +29100,20 @@
   }
  },
  "tashkent-silk-road-international-film-festival": {
-  "bodyHash": "68f4a0fdc4d4",
+  "bodyHash": "8140efc49290",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:30.396Z",
-  "result": null
+  "at": "2026-11-21T18:41:14.325Z",
+  "result": {
+   "slug": "tashkent-silk-road-international-film-festival",
+   "category": "event",
+   "region": "Tashkent",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "was set for seven days, from November 9 to 15, 2026"
+    }
+   ]
+  }
  },
  "tashkent-caex-build-co-2026": {
   "bodyHash": "647c0597d747",
@@ -29679,20 +29198,10 @@
   "result": null
  },
  "pasig-run-ortigas-half-marathon": {
-  "bodyHash": "2c49c2906ce9",
+  "bodyHash": "355ffe62a66e",
   "rules": "editor-v1-2026-08-17",
-  "at": "2026-11-14T18:39:51.791Z",
-  "result": {
-   "slug": "pasig-run-ortigas-half-marathon",
-   "category": "event",
-   "region": "Pasig",
-   "prose": [
-    {
-     "type": "other-glaring",
-     "quote": "puts a 21K on the streets of Ortigas East for the first time in the area's history"
-    }
-   ]
-  }
+  "at": "2026-11-21T18:41:56.631Z",
+  "result": null
  },
  "puerto-galera-puerto-galera-international-marathon": {
   "bodyHash": "9e1ad145c952",
@@ -29756,6 +29265,1751 @@
     {
      "type": "invented-specifics",
      "quote": "opened its first international outpost at The Galleria on Al Maryah Island in April 2026"
+    }
+   ]
+  }
+ },
+ "glasgow-gallery-of-modern-art": {
+  "bodyHash": "10ba504943fa",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.128Z",
+  "result": null
+ },
+ "victoria-art-gallery-of-greater-victoria": {
+  "bodyHash": "ea7cc362b876",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.128Z",
+  "result": null
+ },
+ "canberra-national-gallery-of-australia": {
+  "bodyHash": "9fa3096f3e0e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.128Z",
+  "result": null
+ },
+ "canberra-mount-ainslie-lookout": {
+  "bodyHash": "af0fb1eae988",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.128Z",
+  "result": null
+ },
+ "victoria-split-rock-lookout": {
+  "bodyHash": "f1058a63c6dd",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.128Z",
+  "result": null
+ },
+ "glasgow-category-is-books": {
+  "bodyHash": "9be622cf7476",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": null
+ },
+ "victoria-munro-s-books": {
+  "bodyHash": "2024fc49c92d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": null
+ },
+ "nuremberg-kunstvilla-nurnberg": {
+  "bodyHash": "d3f31fd4b0b7",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": {
+   "slug": "nuremberg-kunstvilla-nurnberg",
+   "category": "attraction",
+   "region": "Nuremberg",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Here is the scheduling quirk worth planning around."
+    }
+   ]
+  }
+ },
+ "canberra-paperchain-bookstore": {
+  "bodyHash": "904d3320a49d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": null
+ },
+ "cordoba-roman-bridge-of-cordoba": {
+  "bodyHash": "73a5f1918971",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": {
+   "slug": "cordoba-roman-bridge-of-cordoba",
+   "category": "attraction",
+   "region": "Cordoba",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Try not to arrive between 12pm and 10pm on weekends"
+    }
+   ]
+  }
+ },
+ "bath-mr-b-s-emporium-of-reading-delights": {
+  "bodyHash": "2c59ee342bcb",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": null
+ },
+ "fremantle-south-mole-lighthouse": {
+  "bodyHash": "8e406d71ed48",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": null
+ },
+ "cambridge-castle-mound": {
+  "bodyHash": "407b2ed47eec",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": {
+   "slug": "cambridge-castle-mound",
+   "category": "attraction",
+   "region": "Cambridge",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "weekends 7am–9am"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "weekends 11am–12pm and 1pm–10pm"
+    }
+   ]
+  }
+ },
+ "segovia-mirador-del-acueducto": {
+  "bodyHash": "da9f6a0c18fb",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": null
+ },
+ "cordoba-palacio-de-viana": {
+  "bodyHash": "dcaa7215f91e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.129Z",
+  "result": {
+   "slug": "cordoba-palacio-de-viana",
+   "category": "attraction",
+   "region": "Cordoba",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "On Saturday the quieter window is 3pm–4pm."
+    }
+   ]
+  }
+ },
+ "london-aux-pains-de-papy": {
+  "bodyHash": "7f8103a825ff",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.131Z",
+  "result": null
+ },
+ "hue-truong-tien-bridge": {
+  "bodyHash": "60254dc13b0d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.131Z",
+  "result": null
+ },
+ "london-sky-garden": {
+  "bodyHash": "aa411e2ca314",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.131Z",
+  "result": {
+   "slug": "london-sky-garden",
+   "category": "attraction",
+   "region": "London",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "quietest 8am–9am and again 9pm–11pm"
+    }
+   ]
+  }
+ },
+ "london-the-national-gallery": {
+  "bodyHash": "29b97103a86b",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.131Z",
+  "result": null
+ },
+ "london-the-view-from-the-shard": {
+  "bodyHash": "c2f4c32b03de",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.131Z",
+  "result": {
+   "slug": "london-the-view-from-the-shard",
+   "category": "attraction",
+   "region": "London",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "the editors' own line holds"
+    }
+   ]
+  }
+ },
+ "auckland-8th-continent-marathon-half-marathon-auckland": {
+  "bodyHash": "5b90c9946556",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.131Z",
+  "result": null
+ },
+ "auckland-queens-of-the-stone-age-auckland": {
+  "bodyHash": "a696b4c688fd",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.132Z",
+  "result": null
+ },
+ "baguio-panagbenga-festival-baguio-flower-festival": {
+  "bodyHash": "5bcaf458878c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.132Z",
+  "result": null
+ },
+ "bangkok-bangkok-art-biennale-2026": {
+  "bodyHash": "e2c8f012e8f0",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.132Z",
+  "result": null
+ },
+ "bangkok-westlife-25-the-anniversary-world-tour": {
+  "bodyHash": "5080ddc4014a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.133Z",
+  "result": null
+ },
+ "benidorm-xxiii-torneo-internacional-gran-hotel-bali-chess": {
+  "bodyHash": "aa2ae5c2b949",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.133Z",
+  "result": null
+ },
+ "cairo-cairo-steps-and-basem-darwisch-concert": {
+  "bodyHash": "67ece5f0ee7d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:23.133Z",
+  "result": null
+ },
+ "buenos-aires-formula-1-gran-premio-de-argentina-potential-return": {
+  "bodyHash": "c2efb7b44661",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.361Z",
+  "result": null
+ },
+ "berlin-skate-berlin-international-figure-skating": {
+  "bodyHash": "eda8ad02eed8",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.432Z",
+  "result": null
+ },
+ "denpasar-galungan-and-kuningan": {
+  "bodyHash": "eab7750f0aa3",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.432Z",
+  "result": {
+   "slug": "denpasar-galungan-and-kuningan",
+   "category": "event",
+   "region": "Denpasar",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Tuesday 12 January, Penampahan Galungan"
+    }
+   ]
+  }
+ },
+ "denpasar-sanur-bali-international-half-marathon": {
+  "bodyHash": "727a52a20aac",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.432Z",
+  "result": null
+ },
+ "dubai-gitex-global-2026": {
+  "bodyHash": "8e8b06df41a4",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.433Z",
+  "result": {
+   "slug": "dubai-gitex-global-2026",
+   "category": "event",
+   "region": "Dubai",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Expo 2020 station, the Red Line's southern terminus branch"
+    }
+   ]
+  }
+ },
+ "buenos-aires-las-guardianas-k-pop-concert": {
+  "bodyHash": "c1ed21642f0a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.661Z",
+  "result": {
+   "slug": "buenos-aires-las-guardianas-k-pop-concert",
+   "category": "event",
+   "region": "Buenos Aires",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "you pay at the register first, then hand over the ticket at the counter"
+    }
+   ]
+  }
+ },
+ "cairo-egypt-defence-expo-edex": {
+  "bodyHash": "ce4d082036a6",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.668Z",
+  "result": {
+   "slug": "cairo-egypt-defence-expo-edex",
+   "category": "event",
+   "region": "Cairo",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "The first edition was held in 2018"
+    }
+   ]
+  }
+ },
+ "gapyeong-garden-of-morning-calm-light-festival": {
+  "bodyHash": "45351b0c71af",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.668Z",
+  "result": null
+ },
+ "abu-simbel-abu-simbel-sun-festival": {
+  "bodyHash": "0230167bd55d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.783Z",
+  "result": null
+ },
+ "bangkok-white-party-bangkok-amaxon-10th-anniversary": {
+  "bodyHash": "5c5ed79443ef",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.853Z",
+  "result": {
+   "slug": "bangkok-white-party-bangkok-amaxon-10th-anniversary",
+   "category": "event",
+   "region": "Bangkok",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is what attendees usually do"
+    },
+    {
+     "type": "other-glaring",
+     "quote": "Trains stop around midnight, well before these parties end."
+    }
+   ]
+  }
+ },
+ "ho-chi-minh-city-tet-lunar-new-year-festival": {
+  "bodyHash": "20b208e0c741",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.853Z",
+  "result": null
+ },
+ "hwacheon-hwacheon-sancheoneo-ice-festival": {
+  "bodyHash": "d22e7c867c8d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:24.853Z",
+  "result": null
+ },
+ "courchevel-courchevel-alpine-ski-world-cup-women-s-slalom": {
+  "bodyHash": "85f24085e9e5",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.481Z",
+  "result": null
+ },
+ "istanbul-fide-world-rapid-and-blitz-chess-championships-2026": {
+  "bodyHash": "6f79f1c416b4",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.481Z",
+  "result": null
+ },
+ "khatgal-khovsgol-ice-festival-blue-pearl-ice-festival": {
+  "bodyHash": "8cd24d517606",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.481Z",
+  "result": null
+ },
+ "el-gouna-recap-festival-el-gouna": {
+  "bodyHash": "ebe1c041ee3c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.529Z",
+  "result": {
+   "slug": "el-gouna-recap-festival-el-gouna",
+   "category": "event",
+   "region": "El Gouna",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Daylight ends early, around 5pm"
+    }
+   ]
+  }
+ },
+ "kuala-lumpur-2027-malaysia-open-petronas-malaysia-open-badminton": {
+  "bodyHash": "bf1fb6baa284",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.529Z",
+  "result": null
+ },
+ "foshan-zhou-shen-concert-foshan": {
+  "bodyHash": "cfbc1fe0b2c4",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.712Z",
+  "result": null
+ },
+ "la-plata-tan-bionica": {
+  "bodyHash": "f09799ce1032",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.712Z",
+  "result": null
+ },
+ "lima-agua-marina-lima": {
+  "bodyHash": "112d5a3ca0af",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.712Z",
+  "result": null
+ },
+ "lima-marshmello-lima": {
+  "bodyHash": "8ba720960330",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.712Z",
+  "result": null
+ },
+ "london-enhypen-world-tour-blood-saga-in-london": {
+  "bodyHash": "12fa060cf06d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.712Z",
+  "result": null
+ },
+ "gisborne-first-light-marathon-gisborne": {
+  "bodyHash": "a50e06563c59",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:25.856Z",
+  "result": null
+ },
+ "gatineau-2026-canadian-national-figure-skating-championships": {
+  "bodyHash": "506f8c802e33",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:26.031Z",
+  "result": null
+ },
+ "istanbul-candlelight-concerts-istanbul-coldplay-imagine-dragons-tribute": {
+  "bodyHash": "ba1476dff48a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:38:26.050Z",
+  "result": null
+ },
+ "new-taipei-new-taipei-city-wan-jin-shi-marathon": {
+  "bodyHash": "242040d77fd1",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:05.566Z",
+  "result": {
+   "slug": "new-taipei-new-taipei-city-wan-jin-shi-marathon",
+   "category": "event",
+   "region": "New Taipei",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Elite international runners have won here before, including Ethiopia's Fozya Jemal."
+    }
+   ]
+  }
+ },
+ "ningbo-jackson-wang-live-ningbo": {
+  "bodyHash": "369a5229cd6e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:05.566Z",
+  "result": null
+ },
+ "singapore-queens-of-the-stone-age-you-ll-see-world-tour": {
+  "bodyHash": "a040cb97d90c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:05.879Z",
+  "result": null
+ },
+ "singapore-slowdive-live-in-singapore": {
+  "bodyHash": "bcf2e2c6e048",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:05.879Z",
+  "result": null
+ },
+ "sydney-sydney-new-year-s-eve-fireworks": {
+  "bodyHash": "c3ae2c6ced52",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.057Z",
+  "result": null
+ },
+ "tashkent-lvbel-c5-tashkent-concert": {
+  "bodyHash": "1505b87baea3",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.075Z",
+  "result": null
+ },
+ "tbilisi-erovnuli-liga-final-matchday-dinamo-tbilisi": {
+  "bodyHash": "dd6f6aaf73d6",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.075Z",
+  "result": null
+ },
+ "tbilisi-swan-lake-by-the-royal-classical-ballet-berlin": {
+  "bodyHash": "6e2af85618f3",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.075Z",
+  "result": null
+ },
+ "oberstdorf-bavarian-open-figure-skating": {
+  "bodyHash": "a9bf61d6846e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.774Z",
+  "result": null
+ },
+ "nara-nara-marathon": {
+  "bodyHash": "22851d87981a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": null
+ },
+ "toronto-cavalcade-of-lights": {
+  "bodyHash": "491498d09357",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": null
+ },
+ "val-d-isere-val-d-isere-alpine-ski-world-cup-criterium-de-la-premiere-neige": {
+  "bodyHash": "94f6c7fae246",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": null
+ },
+ "boston-brattle-book-shop": {
+  "bodyHash": "6e551ed4f16a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": {
+   "slug": "boston-brattle-book-shop",
+   "category": "hidden-gem",
+   "region": "Boston",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Crowds typically build from 10am to 5pm, which covers nearly the whole trading day."
+    }
+   ]
+  }
+ },
+ "fremantle-new-edition": {
+  "bodyHash": "a2c22b4a2369",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": null
+ },
+ "portland-powell-s-city-of-books": {
+  "bodyHash": "0f30a06002f9",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": null
+ },
+ "sunshine-coast-dulong-lookout": {
+  "bodyHash": "c6bf1d01b326",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": null
+ },
+ "london-word-on-the-water-the-london-bookbarge": {
+  "bodyHash": "d621cced2a4c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": null
+ },
+ "brighton-city-books": {
+  "bodyHash": "35ca752bb10b",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": {
+   "slug": "brighton-city-books",
+   "category": "hidden-gem",
+   "region": "Brighton",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is one way to put it together"
+    }
+   ]
+  }
+ },
+ "chinatown-city-view": {
+  "bodyHash": "8394a11e2996",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": {
+   "slug": "chinatown-city-view",
+   "category": "attraction",
+   "region": "Chinatown",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Singapura 049323"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "drinking alcohol in public places is banned from 10:30pm to 7am"
+    }
+   ]
+  }
+ },
+ "seattle-elliott-bay-book-company": {
+  "bodyHash": "e2f79a66f275",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.776Z",
+  "result": {
+   "slug": "seattle-elliott-bay-book-company",
+   "category": "hidden-gem",
+   "region": "Seattle",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "moved up the hill in 2010"
+    }
+   ]
+  }
+ },
+ "paris-shakespeare-and-company": {
+  "bodyHash": "4d5d32d1bed0",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "paris-shakespeare-and-company",
+   "category": "hidden-gem",
+   "region": "Paris",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Weekend afternoons:** busiest from 1pm to 8pm"
+    }
+   ]
+  }
+ },
+ "york-the-little-apple-bookshop": {
+  "bodyHash": "ac2f4ff018de",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "luxor-luxor-bridge": {
+  "bodyHash": "60ae611f6d82",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "chiayi-song-of-the-forest": {
+  "bodyHash": "bb9c1eb0af08",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "chiayi-song-of-the-forest",
+   "category": "attraction",
+   "region": "Chiayi",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "8am–12pm and 4pm–8pm"
+    }
+   ]
+  }
+ },
+ "vancouver-the-naam": {
+  "bodyHash": "587009868e1c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "vancouver-the-naam",
+   "category": "restaurant",
+   "region": "Vancouver",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "between Macdonald and Stephens"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "served only on Saturday and Sunday when the doors open at 9am"
+    }
+   ]
+  }
+ },
+ "christchurch-ravenscar-house-museum": {
+  "bodyHash": "ba973576ce4b",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "vancouver-cypress-lookout": {
+  "bodyHash": "627683c86d0d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "kyoto-arashiyama": {
+  "bodyHash": "a36a75047ecb",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "kyoto-arashiyama",
+   "category": "attraction",
+   "region": "Kyoto",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Eat beside the stall where you bought the food rather than strolling with it, which is considered bad manners in Kyoto's crowded lanes."
+    }
+   ]
+  }
+ },
+ "okinawa-depot-island": {
+  "bodyHash": "ef102acd27f0",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "okinawa-depot-island",
+   "category": "attraction",
+   "region": "Okinawa",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Here is how regulars tend to handle it."
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "Doors open at 10am, and arriving soon after usually beats the afternoon arrivals"
+    },
+    {
+     "type": "other-glaring",
+     "quote": "For more coastline, the seaside path continues toward Araha Beach to the south. That makes a good morning walk"
+    }
+   ]
+  }
+ },
+ "toronto-toronto-skyline-viewpoint": {
+  "bodyHash": "167ecc032103",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "niagara-falls-falls-view": {
+  "bodyHash": "13f923fb6b0a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "berlin-viktoria-park": {
+  "bodyHash": "33579cd75a82",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "luxor-valley-of-the-queens": {
+  "bodyHash": "be96914b9c5f",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "luxor-valley-of-the-queens",
+   "category": "attraction",
+   "region": "Luxor",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "At the moment it opens at 6am and closes at 5pm every day this week."
+    }
+   ]
+  }
+ },
+ "vancouver-vancouver-art-gallery": {
+  "bodyHash": "d534cef5bfda",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "vancouver-vancouver-art-gallery",
+   "category": "attraction",
+   "region": "Vancouver",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is what to look for"
+    }
+   ]
+  }
+ },
+ "kyoto-kyoto-city-kyocera-museum-of-art": {
+  "bodyHash": "483404fb1e42",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "okinawa-sakima-art-museum": {
+  "bodyHash": "340eb3e79cb5",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "okinawa-sakima-art-museum",
+   "category": "attraction",
+   "region": "Okinawa",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is how a visit usually goes"
+    }
+   ]
+  }
+ },
+ "florence-giotto-s-bell-tower": {
+  "bodyHash": "6571e29ea48f",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "abu-dhabi-mubadala-abu-dhabi-open-wta": {
+  "bodyHash": "fdb44271fa7c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": null
+ },
+ "adana-adana-half-marathon-17-adana-yar-maratonu": {
+  "bodyHash": "04b7dfb459e3",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.777Z",
+  "result": {
+   "slug": "adana-adana-half-marathon-17-adana-yar-maratonu",
+   "category": "event",
+   "region": "Adana",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is how ordering usually works"
+    }
+   ]
+  }
+ },
+ "sitges-sunway-sitges-international-chess-festival": {
+  "bodyHash": "91242249bd7f",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.857Z",
+  "result": {
+   "slug": "sitges-sunway-sitges-international-chess-festival",
+   "category": "event",
+   "region": "Sitges",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Dinner in Catalonia starts late, around 9pm, so most players eat after the evening round."
+    }
+   ]
+  }
+ },
+ "antalya-european-women-s-handball-championship-antalya-matches": {
+  "bodyHash": "ecc20bfba47a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:06.857Z",
+  "result": null
+ },
+ "sant-boi-de-llobregat-vii-elllobregat-open-chess": {
+  "bodyHash": "52383a0e32a8",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.238Z",
+  "result": {
+   "slug": "sant-boi-de-llobregat-vii-elllobregat-open-chess",
+   "category": "event",
+   "region": "Sant Boi de Llobregat",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Restaurants in Catalonia generally serve lunch from around 1:30pm and dinner after 8:30pm."
+    }
+   ]
+  }
+ },
+ "auckland-guns-n-roses-world-tour-2026": {
+  "bodyHash": "c4161b631ba7",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.238Z",
+  "result": null
+ },
+ "auckland-j-cole-the-fall-off-tour": {
+  "bodyHash": "4e98ede71c95",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.238Z",
+  "result": null
+ },
+ "beijing-isu-grand-prix-of-figure-skating-final": {
+  "bodyHash": "693e6e078162",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.238Z",
+  "result": {
+   "slug": "beijing-isu-grand-prix-of-figure-skating-final",
+   "category": "event",
+   "region": "Beijing",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "lunch in a nearby hotpot or roast duck restaurant"
+    }
+   ]
+  }
+ },
+ "buenos-aires-k4os-at-movistar-arena": {
+  "bodyHash": "8ffe346f2671",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.238Z",
+  "result": {
+   "slug": "buenos-aires-k4os-at-movistar-arena",
+   "category": "event",
+   "region": "Buenos Aires",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is what the crowd at a show like this typically does"
+    }
+   ]
+  }
+ },
+ "busan-haeundae-light-festival": {
+  "bodyHash": "28ce2a5372b9",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.238Z",
+  "result": null
+ },
+ "tbilisi-tbilisi-baroco-festival": {
+  "bodyHash": "673a1ee92d68",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.272Z",
+  "result": null
+ },
+ "tangerang-astra-half-marathon": {
+  "bodyHash": "d394d06f4d3d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.346Z",
+  "result": null
+ },
+ "chiba-countdown-japan-26-27": {
+  "bodyHash": "107041f81103",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.347Z",
+  "result": null
+ },
+ "da-nang-da-nang-new-year-countdown-da-nang-concert": {
+  "bodyHash": "b6fb05aa9081",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.347Z",
+  "result": {
+   "slug": "da-nang-da-nang-new-year-countdown-da-nang-concert",
+   "category": "event",
+   "region": "Da Nang",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Here is what shapes the trip:"
+    }
+   ]
+  }
+ },
+ "assago-cesare-cremonini-concerts-milan": {
+  "bodyHash": "36fc246ea448",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.805Z",
+  "result": {
+   "slug": "assago-cesare-cremonini-concerts-milan",
+   "category": "event",
+   "region": "Assago",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Oh Bej! Oh Bej!, is usually held in early December, so it may be over by the time these concerts start"
+    }
+   ]
+  }
+ },
+ "dubai-dubai-duty-free-tennis-championships": {
+  "bodyHash": "b2d39079539c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.805Z",
+  "result": null
+ },
+ "dubai-uae-national-day-eid-al-etihad-celebrations": {
+  "bodyHash": "a46e65192d7a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.805Z",
+  "result": null
+ },
+ "edinburgh-robbie-williams-britpop-tour-uk": {
+  "bodyHash": "b0aef12ddd97",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.805Z",
+  "result": {
+   "slug": "edinburgh-robbie-williams-britpop-tour-uk",
+   "category": "event",
+   "region": "Edinburgh",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "closes in Lima, Peru, on 12 December 2026"
+    }
+   ]
+  }
+ },
+ "thanh-hoa-vietnam-jungle-marathon-pu-luong": {
+  "bodyHash": "3a6aabdf6a22",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.837Z",
+  "result": null
+ },
+ "antalya-antalya-ultra-by-passtiming": {
+  "bodyHash": "3f218ba1c761",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.890Z",
+  "result": null
+ },
+ "giza-ghostly-kisses-mena-tour": {
+  "bodyHash": "852f085fcb96",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.890Z",
+  "result": null
+ },
+ "goyang-sbs-gayo-daejeon-2026": {
+  "bodyHash": "e360dd446c32",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.890Z",
+  "result": null
+ },
+ "hong-kong-wtt-finals": {
+  "bodyHash": "dabf2f9c43f8",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:07.890Z",
+  "result": {
+   "slug": "hong-kong-wtt-finals",
+   "category": "event",
+   "region": "Hong Kong",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "When Hong Kong hosted the 2025 edition, it was staged at the Hong Kong Coliseum in Hung Hom, Kowloon."
+    }
+   ]
+  }
+ },
+ "cairo-zamna-egypt": {
+  "bodyHash": "e1cf6022cc5c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:08.424Z",
+  "result": null
+ },
+ "indianapolis-nba-cup-championship-2026": {
+  "bodyHash": "4500f451c6f1",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:08.893Z",
+  "result": {
+   "slug": "indianapolis-nba-cup-championship-2026",
+   "category": "event",
+   "region": "Indianapolis",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is how the night usually works"
+    },
+    {
+     "type": "other-glaring",
+     "quote": "The final is on a Friday"
+    }
+   ]
+  }
+ },
+ "kohima-hornbill-festival": {
+  "bodyHash": "ff5bbdf30f01",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:08.893Z",
+  "result": null
+ },
+ "kuala-lumpur-fifty-fifty-concert-malaysia-2026": {
+  "bodyHash": "b57c73deab7c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:08.893Z",
+  "result": {
+   "slug": "kuala-lumpur-fifty-fifty-concert-malaysia-2026",
+   "category": "event",
+   "region": "Kuala Lumpur",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "the twin-version of the track has a strong following among Malaysian fans"
+    }
+   ]
+  }
+ },
+ "kuala-lumpur-thaipusam-at-batu-caves": {
+  "bodyHash": "2980fb90cfd2",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:08.893Z",
+  "result": {
+   "slug": "kuala-lumpur-thaipusam-at-batu-caves",
+   "category": "event",
+   "region": "Kuala Lumpur",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Getting to Gombak on the day"
+    }
+   ]
+  }
+ },
+ "leeds-morrissey-uk-tour": {
+  "bodyHash": "ca97b48647b4",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:08.893Z",
+  "result": {
+   "slug": "leeds-morrissey-uk-tour",
+   "category": "event",
+   "region": "Leeds",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Northern Quarter strip"
+    }
+   ]
+  }
+ },
+ "lima-suho-exo-fan-con-2026-k-pop-chronicle-live": {
+  "bodyHash": "682bdc741448",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:08.893Z",
+  "result": null
+ },
+ "macau-jeonghan-x-joshua-journey-into-dreaming-macau": {
+  "bodyHash": "88526ab42894",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.370Z",
+  "result": {
+   "slug": "macau-jeonghan-x-joshua-journey-into-dreaming-macau",
+   "category": "event",
+   "region": "Macau",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is what to expect"
+    }
+   ]
+  }
+ },
+ "macau-kara-once-again-glowstage-in-macau": {
+  "bodyHash": "df6b8e6e3c57",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.370Z",
+  "result": null
+ },
+ "macau-omega-x-asia-tour-beyond-in-macau": {
+  "bodyHash": "3c67ce32bef3",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.370Z",
+  "result": null
+ },
+ "madrid-la-oreja-de-van-gogh-concert-madrid": {
+  "bodyHash": "f517efe73f32",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.370Z",
+  "result": {
+   "slug": "madrid-la-oreja-de-van-gogh-concert-madrid",
+   "category": "event",
+   "region": "Madrid",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Metro de Madrid normally runs until around 1:30am"
+    }
+   ]
+  }
+ },
+ "madrid-muse-concert-madrid": {
+  "bodyHash": "0a6607c9685a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.370Z",
+  "result": null
+ },
+ "mazatlan-gran-maraton-pacifico-mazatlan": {
+  "bodyHash": "11c20946053e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.370Z",
+  "result": {
+   "slug": "mazatlan-gran-maraton-pacifico-mazatlan",
+   "category": "event",
+   "region": "Mazatlán",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "A seafood marathon of a dinner is something people save for after the race."
+    }
+   ]
+  }
+ },
+ "pak-kret-boynextdoor-knock-on-vol-2-bangkok": {
+  "bodyHash": "df5c15f7b2ac",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.862Z",
+  "result": null
+ },
+ "pak-kret-stray-kids-world-tour-bangkok": {
+  "bodyHash": "7b5f10502326",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:47.862Z",
+  "result": null
+ },
+ "luxor-egyptian-marathon-luxor-marathon": {
+  "bodyHash": "23f9f56b5276",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:48.580Z",
+  "result": {
+   "slug": "luxor-egyptian-marathon-luxor-marathon",
+   "category": "event",
+   "region": "Luxor",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is what visitors usually do"
+    }
+   ]
+  }
+ },
+ "quezon-city-gong-yoo-asia-fanmeeting-tour-the-long-take-in-manila": {
+  "bodyHash": "1ef544bf3a17",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:48.580Z",
+  "result": {
+   "slug": "quezon-city-gong-yoo-asia-fanmeeting-tour-the-long-take-in-manila",
+   "category": "event",
+   "region": "Manila",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Antipolo"
+    }
+   ]
+  }
+ },
+ "rome-herbie-hancock-2026-tour": {
+  "bodyHash": "e5e1cbdeb41b",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:48.580Z",
+  "result": null
+ },
+ "rome-il-volo-concert-rome": {
+  "bodyHash": "bbaa938e14e4",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:48.580Z",
+  "result": null
+ },
+ "milan-tyr-valhalla-calling-european-tour-milan": {
+  "bodyHash": "f487789f166a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:48.833Z",
+  "result": null
+ },
+ "seattle-katseye-the-wildworld-tour-seattle": {
+  "bodyHash": "7810cae1c1ed",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:48.833Z",
+  "result": null
+ },
+ "petaling-jaya-joji-solaris-asia-tour-kuala-lumpur": {
+  "bodyHash": "0de20929aef1",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:49.000Z",
+  "result": null
+ },
+ "sydney-bts-world-tour-arirang-sydney": {
+  "bodyHash": "ce2df1286ae7",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:49.000Z",
+  "result": null
+ },
+ "tashkent-2027-sabre-fencing-world-cup-tashkent": {
+  "bodyHash": "600ff4d23f2e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:49.000Z",
+  "result": {
+   "slug": "tashkent-2027-sabre-fencing-world-cup-tashkent",
+   "category": "event",
+   "region": "Tashkent",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "so it names no price or hall"
+    }
+   ]
+  }
+ },
+ "new-delhi-yonex-sunrise-india-open-bwf-badminton": {
+  "bodyHash": "98e7525dc591",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:49.302Z",
+  "result": null
+ },
+ "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila": {
+  "bodyHash": "75fb4424ad15",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:49.568Z",
+  "result": {
+   "slug": "quezon-city-doh-kyung-soo-concert-tour-day-off-in-manila",
+   "category": "event",
+   "region": "Manila",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "On a Saturday the trains stop running around midnight, so a long show can end close to the last services."
+    }
+   ]
+  }
+ },
+ "san-miguel-de-cozumel-maya-marathon-run-in-the-jungle": {
+  "bodyHash": "d296a7a3c06e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:49.766Z",
+  "result": {
+   "slug": "san-miguel-de-cozumel-maya-marathon-run-in-the-jungle",
+   "category": "event",
+   "region": "San Miguel de Cozumel",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "San Miguel de Cozumel is the town on its west shore."
+    }
+   ]
+  }
+ },
+ "tokyo-khalid-it-s-always-summer-somewhere-tour-tokyo": {
+  "bodyHash": "12827095e24a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:49.766Z",
+  "result": null
+ },
+ "sharm-el-sheikh-sharm-el-sheikh-international-half-marathon": {
+  "bodyHash": "b499399296e5",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:50.058Z",
+  "result": null
+ },
+ "seville-seville-half-marathon-medio-maraton-de-sevilla": {
+  "bodyHash": "10ef0b23f879",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:50.179Z",
+  "result": null
+ },
+ "toronto-st-lawrence-market-winter-market": {
+  "bodyHash": "c743ba4ad65b",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:50.179Z",
+  "result": null
+ },
+ "tashkent-boris-nikolaenov-concert": {
+  "bodyHash": "910f3cca41c7",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:50.186Z",
+  "result": null
+ },
+ "tashkent-lolita-tashkent-concert": {
+  "bodyHash": "e4989c75548a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:39:50.376Z",
+  "result": null
+ },
+ "kuala-lumpur-visit-malaysia-2026-christmas-celebration": {
+  "bodyHash": "6180bbdcef0f",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:31.377Z",
+  "result": {
+   "slug": "kuala-lumpur-visit-malaysia-2026-christmas-celebration",
+   "category": "event",
+   "region": "Kuala Lumpur",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Christmas menus appear in the food courts and cafés"
+    }
+   ]
+  }
+ },
+ "kuala-lumpur-siggraph-asia-2026": {
+  "bodyHash": "6c5f5cf03676",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:31.425Z",
+  "result": null
+ },
+ "lima-the-color-run-geely-10k-lima": {
+  "bodyHash": "5f427df68e63",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:31.575Z",
+  "result": null
+ },
+ "koh-kong-sea-festival-cambodia": {
+  "bodyHash": "6b1eb9d1de23",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:31.599Z",
+  "result": {
+   "slug": "koh-kong-sea-festival-cambodia",
+   "category": "event",
+   "region": "Koh Kong",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Here is what's known."
+    }
+   ]
+  }
+ },
+ "new-delhi-weverse-con-festival-india": {
+  "bodyHash": "291100e003e6",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:31.969Z",
+  "result": null
+ },
+ "paris-wta-finals": {
+  "bodyHash": "ee9bf31c2a87",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:32.546Z",
+  "result": {
+   "slug": "paris-wta-finals",
+   "category": "event",
+   "region": "Paris",
+   "prose": [
+    {
+     "type": "template-chatter",
+     "quote": "Here is what the regulars do"
+    }
+   ]
+  }
+ },
+ "parkent-sukok-kabob-festival": {
+  "bodyHash": "49f682aa88a9",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:32.608Z",
+  "result": null
+ },
+ "london-london-winter-walk-marathon-half-marathon": {
+  "bodyHash": "7a48a98433a1",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:40:32.864Z",
+  "result": null
+ },
+ "lima-la-ruta-del-pejerrey-21k": {
+  "bodyHash": "231bfb929ba5",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:41:13.592Z",
+  "result": null
+ },
+ "london-8turn-trace-world-tour-london": {
+  "bodyHash": "db76c48d3820",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:41:13.653Z",
+  "result": null
+ },
+ "macau-verivery-concert-give-me-five-keep-that-vibe-in-macau": {
+  "bodyHash": "087abfda6f96",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:41:13.846Z",
+  "result": null
+ },
+ "melbourne-wwe-australia-live-tour-melbourne": {
+  "bodyHash": "4e25c13e929d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:41:13.894Z",
+  "result": null
+ },
+ "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour": {
+  "bodyHash": "4ec7be86fe15",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:41:15.060Z",
+  "result": {
+   "slug": "mumbai-khalid-live-in-india-it-s-always-summer-somewhere-tour",
+   "category": "event",
+   "region": "Mumbai",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "The other two are in Delhi NCR and Bengaluru, all in the same December window."
+    }
+   ]
+  }
+ },
+ "kuala-lumpur-sabato-s-kimpton-naluria-kl": {
+  "bodyHash": "041e9a9386dc",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.718Z",
+  "result": null
+ },
+ "chiang-mai-wat-phra-singh-woramahawihan": {
+  "bodyHash": "9b8133cf3a0a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
+ },
+ "milan-pinacoteca-di-brera": {
+  "bodyHash": "30a5e2563bfa",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "milan-pinacoteca-di-brera",
+   "category": "attraction",
+   "region": "Milan",
+   "prose": [
+    {
+     "type": "broken-markdown",
+     "quote": "(it avoids the ticket-desk line and, on a slow morning, gets you inside within minutes. Cash and card are both accepted at the desk"
+    }
+   ]
+  }
+ },
+ "provence-musee-granet": {
+  "bodyHash": "dee24e8a211e",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "provence-musee-granet",
+   "category": "attraction",
+   "region": "Provence",
+   "prose": [
+    {
+     "type": "broken-markdown",
+     "quote": "Dress and behave as you would in any converted religious building: this was a priory, and the bones of that history) vaulted ceilings"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "a place of religious order for 200 years before it held a single painting"
+    },
+    {
+     "type": "other-glaring",
+     "quote": "Buy your ticket online in advance if you can (it saves the front-desk queue that forms once tour buses arrive, and Aix residents who visit regularly tend to do exactly this rather than risk a line."
+    }
+   ]
+  }
+ },
+ "chicago-field-museum": {
+  "bodyHash": "33036f00a8ce",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "chicago-field-museum",
+   "category": "attraction",
+   "region": "Chicago",
+   "prose": [
+    {
+     "type": "broken-markdown",
+     "quote": "is Sue (the largest, most complete T. rex skeleton ever found, 40 feet of fossil that the museum bought at auction in the 1990s and has anchored its identity around ever since. That single specimen, plus the sheer range of what's under this roof) Egyptian mummies"
+    },
+    {
+     "type": "broken-markdown",
+     "quote": "Give Sue real time (the skeleton has its own second-floor gallery now with context on how she was discovered in South Dakota and prepared for display."
+    },
+    {
+     "type": "broken-markdown",
+     "quote": "the meteorite collection reward a slower pace) cases of raw and cut stones lit like jewelry-store windows."
+    }
+   ]
+  }
+ },
+ "chiang-mai-chiang-mai-national-museum": {
+  "bodyHash": "699fff18989c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": null
+ },
+ "xi-an-xi-an-museum": {
+  "bodyHash": "4a1d099e36e7",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.719Z",
+  "result": {
+   "slug": "xi-an-xi-an-museum",
+   "category": "attraction",
+   "region": "Xi'an",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "Little Wild Goose Pagoda"
+    }
+   ]
+  }
+ },
+ "florence-galleria-dell-accademia-di-firenze": {
+  "bodyHash": "204d05855070",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": {
+   "slug": "florence-galleria-dell-accademia-di-firenze",
+   "category": "attraction",
+   "region": "Florence",
+   "prose": [
+    {
+     "type": "broken-markdown",
+     "quote": "Book your timed-entry ticket online well ahead (this is standard practice for anyone in Florence who isn't a first-time tourist, since walk-up tickets mean standing in a line that wraps around the block. Entry is ticketed by time slot, so show up at your slot rather than early; security and bag-check take a few minutes. Payment for tickets is almost entirely online or by card at the counter) cash-only queues are increasingly rare here."
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "the calm window is early, between 8:15am and 9am at opening"
+    }
+   ]
+  }
+ },
+ "jeju-jeju-national-museum": {
+  "bodyHash": "2c92d161c08a",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": null
+ },
+ "nara-nara-national-museum": {
+  "bodyHash": "1c1b1a909641",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": null
+ },
+ "chiang-rai-baan-dam-museum": {
+  "bodyHash": "bc1b691b8f84",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": {
+   "slug": "chiang-rai-baan-dam-museum",
+   "category": "attraction",
+   "region": "Chiang Rai",
+   "prose": [
+    {
+     "type": "broken-markdown",
+     "quote": "There's no need to book ahead (this isn't a timed-entry site, and the grounds are large enough to absorb visitors without ever feeling like a queue."
+    }
+   ]
+  }
+ },
+ "yokohama-yokohama-museum-of-art": {
+  "bodyHash": "01ca17fde124",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": null
+ },
+ "san-francisco-san-francisco-museum-of-modern-art": {
+  "bodyHash": "b151c8b2bbf5",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": {
+   "slug": "san-francisco-san-francisco-museum-of-modern-art",
+   "category": "attraction",
+   "region": "San Francisco",
+   "prose": [
+    {
+     "type": "broken-markdown",
+     "quote": "arriving after the tour buses and school groups have cycled through means you get the 5pm–6pm lull the crowd data confirms on both weekdays and weekends. Payment is entirely card/mobile-friendly, from ticket kiosks to the café, so there's no need to carry cash. Membership is popular among regular visitors since it includes unlimited free entry and skips the timed-ticket line entirely)"
+    }
+   ]
+  }
+ },
+ "suzhou-suzhou-museum": {
+  "bodyHash": "3b6cccb070d7",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": {
+   "slug": "suzhou-suzhou-museum",
+   "category": "attraction",
+   "region": "Suzhou",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Because the museum is free"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "Book your free timed-entry ticket online in advance"
+    }
+   ]
+  }
+ },
+ "las-vegas-the-mob-museum": {
+  "bodyHash": "59c78d29ae4b",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": null
+ },
+ "granada-parque-de-las-ciencias": {
+  "bodyHash": "b8b012e712da",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": null
+ },
+ "venice-doge-s-palace": {
+  "bodyHash": "b37a2fcd59de",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": {
+   "slug": "venice-doge-s-palace",
+   "category": "attraction",
+   "region": "Venice",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "arrive as close to 9am as you can on a weekday. According to visitor traffic patterns, weekdays stay relatively manageable across the day, while weekends get busy specifically between 11am and 5pm) that's the window to avoid"
+    }
+   ]
+  }
+ },
+ "marseille-museum-of-european-and-mediterranean-civilisations": {
+  "bodyHash": "983f8dd3d179",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": null
+ },
+ "hiroshima-hiroshima-peace-memorial-museum": {
+  "bodyHash": "518fcde5fc56",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": null
+ },
+ "valencia-museo-de-las-ciencias-principe-felipe": {
+  "bodyHash": "44a98cc32426",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": {
+   "slug": "valencia-museo-de-las-ciencias-principe-felipe",
+   "category": "attraction",
+   "region": "Valencia",
+   "prose": [
+    {
+     "type": "other-glaring",
+     "quote": "a foucault pendulum"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "between 11am and 7pm the halls fill with families and tour groups"
+    }
+   ]
+  }
+ },
+ "hangzhou-zhejiang-art-museum": {
+  "bodyHash": "e38474409698",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-11-21T18:43:19.720Z",
+  "result": {
+   "slug": "hangzhou-zhejiang-art-museum",
+   "category": "attraction",
+   "region": "Hangzhou",
+   "image": "NO HERO",
+   "prose": [
+    {
+     "type": "broken-markdown",
+     "quote": "single fixed permanent collection on constant display (so what you see depends on timing."
+    },
+    {
+     "type": "broken-markdown",
+     "quote": "right after opening if you can manage it (locals treat this stretch of Nanshan Road as an early lap around the lake before the tour groups arrive, and the museum benefits from the same lull."
     }
    ]
   }
