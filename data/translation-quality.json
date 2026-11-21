@@ -39452,11 +39452,11 @@
   "at": "2026-11-09T08:14:57.379Z"
  },
  "ko/antalya-2026-un-climate-change-conference-cop31": {
-  "hash": "e470df487d1b",
+  "hash": "7151b6757408",
   "score": 1,
   "registerBreak": false,
-  "worst": "하지만 비가 잦은 달이기도 해서, 도시 뒤편의 토로스산맥이 짙은 구름에 가려 보이지 않을 때도 있습니다.",
-  "at": "2026-11-09T08:14:58.962Z"
+  "worst": "홈이 새겨진 벽돌 첨탑인 이블리 미나레(Yivli Minare)를 이정표 삼으면 길을 잃지 않습니다.",
+  "at": "2026-11-21T15:34:28.949Z"
  },
  "ko/asan-korea-masters-bwf-badminton": {
   "hash": "4ec3156591cc",
@@ -40789,11 +40789,11 @@
   "at": "2026-11-16T17:28:39.191Z"
  },
  "ko/cairo-cairo-international-art-festival": {
-  "hash": "360e6a24cec2",
+  "hash": "45b016f14ff9",
   "score": 1,
   "registerBreak": false,
-  "worst": "하루에 두 번씩 도시를 가로지르는 사람보다 장소를 지구별로 묶어 다니는 사람이 대개 훨씬 많은 것을 봅니다.",
-  "at": "2026-11-16T17:28:40.575Z"
+  "worst": "하루에 도시를 두 번씩 가로지르는 사람보다 전시장을 지구별로 묶어 다니는 사람이 대개 훨씬 많은 것을 봅니다.",
+  "at": "2026-11-21T15:34:34.759Z"
  },
  "ko/cairo-cairo-tower": {
   "hash": "80a2f3263afe",
@@ -40817,11 +40817,11 @@
   "at": "2026-11-16T17:28:43.839Z"
  },
  "ko/cairo-cairo-international-film-festival": {
-  "hash": "5c1abcadfc07",
+  "hash": "939a881a6875",
   "score": 1,
   "registerBreak": false,
-  "worst": "해외 관객에게 다른 곳에서 가장 만나기 어려운 부문은 단연 아랍 영화의 지평입니다.",
-  "at": "2026-11-16T17:28:44.475Z"
+  "worst": "해외 방문객에게 다른 곳에서 가장 만나기 어려운 부문은 단연 아랍 영화의 지평입니다.",
+  "at": "2026-11-21T15:34:42.267Z"
  },
  "ko/cairo-mosque-of-ibn-tulun": {
   "hash": "18c6201259db",
@@ -41459,5 +41459,68 @@
   "registerBreak": false,
   "worst": "置身其中的装置作品反倒显得小巧。",
   "at": "2026-11-21T07:51:43.146Z"
+ },
+ "es/antalya-2026-un-climate-change-conference-cop31": {
+  "hash": "14583c0d5638",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Por eso los delegados s",
+  "at": "2026-11-21T15:34:20.164Z"
+ },
+ "es/cairo-cairo-international-art-festival": {
+  "hash": "7479ee789fb8",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-21T15:34:20.661Z"
+ },
+ "es/cairo-cairo-international-film-festival": {
+  "hash": "8e07248c2945",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El acceso dependía de la noche.",
+  "at": "2026-11-21T15:34:21.367Z"
+ },
+ "ja/antalya-2026-un-climate-change-conference-cop31": {
+  "hash": "2531afa30e75",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "確認されるのはゲートだけではなく、会場内のチェックポイントでもその都度提示を求められます。",
+  "at": "2026-11-21T15:34:22.207Z"
+ },
+ "ja/cairo-cairo-international-art-festival": {
+  "hash": "338aed07071e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "カイロで本当の時刻表を決めるのは交通渋滞です。",
+  "at": "2026-11-21T15:34:27.012Z"
+ },
+ "ja/cairo-cairo-international-film-festival": {
+  "hash": "f557b0fc0fb9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "海外からの来場者にとって、ほかではなかなか出会えないのが「アラブ映画の地平」部門です。",
+  "at": "2026-11-21T15:34:27.907Z"
+ },
+ "zh/antalya-2026-un-climate-change-conference-cop31": {
+  "hash": "10ce0bf0ea3b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "伊夫利宣礼塔（Yivli Minare）那座带凹槽的砖砌宣礼塔，是辨认方向的地标。",
+  "at": "2026-11-21T15:34:52.019Z"
+ },
+ "zh/cairo-cairo-international-art-festival": {
+  "hash": "03baf885e576",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "把场馆按街区归到一起看的人，通常比一天穿城两趟的人看到的多得多。",
+  "at": "2026-11-21T15:34:52.823Z"
+ },
+ "zh/cairo-cairo-international-film-festival": {
+  "hash": "017dc4cd5ce6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "对外国观众来说，“阿拉伯电影视野”是别处最难看到的单元。",
+  "at": "2026-11-21T15:34:53.584Z"
  }
 }

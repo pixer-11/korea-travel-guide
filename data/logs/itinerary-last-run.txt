@@ -1,4 +1,3 @@
-SKIP new city "Christchurch" — weekly new-city cap (2/7d) reached
 SKIP new city "Florence" — weekly new-city cap (2/7d) reached
 SKIP new city "Kyoto" — weekly new-city cap (2/7d) reached
 SKIP new city "London" — weekly new-city cap (2/7d) reached
@@ -56,6 +55,10 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 Chicago, United States — 12 qualifying post(s), variants: 3
   = Chicago 3d — unchanged, skipping
 
+Christchurch, New Zealand — 12 qualifying post(s), variants: 3
+  ⚠ Christchurch 3d — guard found 0 hours/price + 1 rain-leak issue(s) on first pass; retrying once
+NEW_ITINERARY: Christchurch 3d
+
 Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
 
@@ -98,7 +101,7 @@ Singapore, Singapore — 80 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

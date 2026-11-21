@@ -1,84 +1,84 @@
 ---
 lang: es
 slug: cairo-cairo-international-film-festival
-srcHash: '30f8eeaa2e0e'
+srcHash: '71bd4b3d7a83'
 title: 'Festival Internacional de Cine de El Cairo: fechas, entradas y sede (El Cairo)'
-description: Las fechas de la 47.ª edición del Festival Internacional de Cine de El Cairo son del 11 al 20 de noviembre de 2026. Su sede es la Ópera de El Cairo, en la isla de Gezira, en pleno centro de la ciudad.
-quickAnswer: Las fechas de la 47.ª edición del Festival Internacional de Cine de El Cairo son del 11 al 20 de noviembre de 2026. Su sede es la Ópera de El Cairo, en la isla de Gezira, en pleno centro de la ciudad. En la web oficial del festival, la organización publica la programación, la información sobre la sede y los datos de venta de entradas. La estación Opera de la línea 2 del metro se encuentra junto al recinto de la Ópera.
+description: La 47.ª edición del Festival Internacional de Cine de El Cairo tenía como fechas anunciadas del 11 al 20 de noviembre de 2026. Su sede era la Ópera de El Cairo, en la isla de Gezira, en pleno centro de la ciudad.
+quickAnswer: Las fechas anunciadas para el Festival Internacional de Cine de El Cairo 2026, que alcanzaba su 47.ª edición, eran del 11 al 20 de noviembre de 2026. La sede era la Ópera de El Cairo (Cairo Opera House), en la isla de Gezira, en el centro de la ciudad. El eje del programa era la Competición Internacional, cuyas películas optaban a la Pirámide de Oro, y la completaban las secciones Horizontes del Cine Árabe y Semana de la Crítica. La estación de Ópera, en la línea 2 del metro, queda junto al recinto de la Ópera.
 faq:
-  - q: ¿Cuáles son las fechas del Festival Internacional de Cine de El Cairo 2026?
-    a: Las fechas de la 47.ª edición son del 11 al 20 de noviembre de 2026. La organización publica en la web oficial del festival el calendario diario de proyecciones.
-  - q: ¿Dónde tiene su sede el festival?
-    a: En la Ópera de El Cairo, situada en la isla de Gezira. Esta isla del Nilo queda entre el centro de El Cairo y Zamalek. Junto al recinto se encuentra la estación Opera, de la línea 2 del metro.
-  - q: ¿Pueden asistir a las proyecciones los visitantes extranjeros?
-    a: Sí. Las proyecciones ordinarias están abiertas al público y las películas suelen ofrecerse con subtítulos. Las ceremonias de inauguración y clausura, en cambio, son actos formales con invitación. En su web oficial, el festival detalla toda la información sobre las entradas.
+  - q: ¿Cuándo era el Festival Internacional de Cine de El Cairo 2026?
+    a: La 47.ª edición estaba programada del 11 al 20 de noviembre de 2026. La organización contaba con un calendario diario de proyecciones durante esos diez días.
+  - q: ¿Dónde se celebraba el festival?
+    a: En la Ópera de El Cairo, situada en la isla de Gezira, en mitad del Nilo, entre el centro de El Cairo y Zamalek. La estación de Ópera, en la línea 2 del metro, tiene su salida junto al recinto.
+  - q: ¿Podían asistir a las proyecciones los visitantes extranjeros?
+    a: Sí. Las proyecciones ordinarias del festival estaban abiertas al público y las películas solían llevar subtítulos. Las ceremonias de inauguración y clausura, en cambio, eran actos de etiqueta con invitación.
   - q: ¿Qué es la Pirámide de Oro?
-    a: Es el máximo galardón del festival y premia a la mejor película de la Competición Internacional. Entre las demás secciones figuran Horizontes del Cine Árabe y la Semana de la Crítica.
-  - q: ¿Qué se puede hacer cerca de la Ópera entre película y película?
-    a: Dentro del recinto de la Ópera se encuentra el Museo de Arte Moderno Egipcio, y a pocos minutos a pie hacia el norte se alza la Torre de El Cairo. Los cafés y las galerías de Zamalek quedan muy cerca. Al otro lado del puente de Qasr al-Nil, en la plaza Tahrir, está el Museo Egipcio.
+    a: Es el máximo galardón del festival, con el que se premia a la mejor película de la Competición Internacional. Entre las demás secciones figuraban Horizontes del Cine Árabe y la Semana de la Crítica.
+  - q: ¿Qué había cerca de la Ópera para entre película y película?
+    a: En el propio recinto de la Ópera está el Museo de Arte Moderno Egipcio, y la Torre de El Cairo queda a un corto paseo hacia el norte. Los cafés y las galerías de Zamalek están muy cerca, y el Museo Egipcio se encuentra en la plaza Tahrir, al otro lado del puente de Qasr al-Nil.
 ---
 
 ## Diez días en la isla de Gezira
 
-Cada noviembre, durante diez días, el cine se adueña del recinto de la Ópera de El Cairo. El complejo ocupa la isla de Gezira, en mitad del Nilo. El río la rodea por ambos lados y, justo al norte, se eleva la silueta enrejada de la Torre de El Cairo.
+Durante diez días de noviembre, el cine se adueña del recinto de la Ópera de El Cairo. El complejo ocupa la isla de Gezira, en mitad del Nilo. El río la rodea por ambos lados, y justo al norte se alza la silueta enrejada de la Torre de El Cairo.
 
-El edificio de la Ópera, blanco y coronado por cúpulas, se terminó en 1988 con apoyo de Japón. Vino a sustituir a la antigua Ópera Jedivial, destruida por un incendio en 1971. Mientras dura el festival, sus patios y salas acogen proyecciones, mesas redondas y desfiles por la alfombra roja. Ante las puertas de las salas hacen cola quienes tienen entrada, y a pocos metros de la verja sigue fluyendo el tráfico del puente de Qasr al-Nil.
+La Ópera es un edificio blanco coronado por cúpulas que se terminó en 1988 con apoyo de Japón. Vino a sustituir a la antigua Ópera Jedivial, destruida por un incendio en 1971. Durante el festival, sus patios y salas acogen proyecciones, mesas redondas y desfiles por la alfombra roja. Mientras el público con entrada hace cola ante las puertas de las salas, el tráfico del puente de Qasr al-Nil sigue su curso al otro lado de la verja.
 
 ## La 47.ª edición: fechas y escenario
 
-Las fechas del Festival Internacional de Cine de El Cairo son del **11 al 20 de noviembre de 2026**, y esta es su 47.ª edición. Nacido en 1976, es el festival de cine más antiguo de Egipto y uno de los de mayor trayectoria del mundo árabe.
+Las fechas anunciadas del Festival Internacional de Cine de El Cairo eran **del 11 al 20 de noviembre de 2026**. Se trataba de su 47.ª edición. Nacido en 1976, es el festival de cine más antiguo de Egipto y uno de los más veteranos del mundo árabe.
 
-También es el de mayor prestigio de la región. La FIAPF, la federación internacional de productores cinematográficos, lo tiene acreditado como festival competitivo de largometrajes. Comparte así categoría con Cannes, Berlín y Venecia, y durante décadas fue el único festival árabe o africano con esa distinción.
+Es también el de mayor prestigio de la región. La FIAPF, la federación internacional de productores cinematográficos, lo tiene acreditado como festival competitivo de largometrajes. Esa categoría es la misma de Cannes, Berlín y Venecia, y durante décadas ningún otro festival árabe ni africano la tuvo.
 
-La sede de esta edición es la Ópera de El Cairo. En la web oficial del festival, la organización publica la programación completa, el calendario diario de proyecciones y la información sobre las entradas.
+La edición de 2026 tenía su sede en la Ópera de El Cairo, cuyas salas acogían un programa completo con proyecciones todos los días.
 
 ## La carrera por la Pirámide de Oro
 
-Todo el festival gira en torno a la Pirámide de Oro, su máximo galardón, que recibe la mejor película de la Competición Internacional. Alrededor de la sección oficial se articulan otras que dan al festival su carácter regional:
+Cada edición culmina con la Pirámide de Oro, el máximo galardón del festival, que recae en la mejor película de la Competición Internacional. En torno a esa competición principal se articulan varias secciones que dan al festival su carácter regional:
 
-- **Competición Internacional**: la selección principal, que opta a la Pirámide de Oro
+- **Competición Internacional**: la selección principal, cuyas películas optan a la Pirámide de Oro
 - **Horizontes del Cine Árabe**: largometrajes recientes de todo el mundo árabe
-- **Semana de la Crítica**: óperas primas y segundas películas, a menudo los títulos más arriesgados de la programación
-- **Cairo Film Connection**: la plataforma profesional, donde los proyectos árabes en desarrollo se dan a conocer ante productores y financiadores
+- **Semana de la Crítica**: óperas primas y segundas películas, a menudo los títulos más arriesgados del programa
+- **Cairo Film Connection**: la plataforma profesional, donde proyectos árabes en desarrollo se dan cita con productores y financiadores
 
-Para el visitante extranjero, Horizontes del Cine Árabe es la sección más difícil de encontrar en otros lugares. Muchas de estas películas tardan mucho en llegar a las pantallas de Europa o Norteamérica, cuando llegan. Las proyecciones suelen contar con subtítulos, y es habitual que los directores se queden después para un coloquio.
+Para el visitante extranjero, Horizontes del Cine Árabe es la sección más difícil de encontrar en otros lugares. Muchas de estas películas tardan mucho en llegar a las pantallas de Europa o Norteamérica, cuando llegan. Las proyecciones solían llevar subtítulos, y no era raro que los directores se quedaran después para un coloquio.
 
-## Cómo conseguir butaca en la Sala Principal
+## Un asiento en la Sala Principal
 
-El acceso varía según la noche. Las ceremonias de inauguración y clausura son actos formales con invitación, con alfombra roja y estrellas del cine egipcio en traje de gala. Las proyecciones ordinarias, tanto de día como de noche, funcionan de forma muy parecida a un cine abierto al público.
+El acceso dependía de la noche. Las ceremonias de inauguración y clausura eran actos de etiqueta con invitación, con alfombra roja y estrellas del cine egipcio vestidas de gala. Las proyecciones ordinarias, de día o de noche, funcionaban de un modo mucho más parecido a un cine abierto al público.
 
-Esto es lo que suelen hacer los asistentes habituales:
+Así solían organizarse los asistentes habituales:
 
-- **Elegir las sesiones en el calendario publicado** y sacar las entradas por los canales que indica el festival, ya que los estrenos más esperados llenan las salas grandes.
-- **Llegar a la entrada con margen.** En el acceso al recinto de la Ópera hay controles de seguridad y revisión de bolsos, y antes de los grandes estrenos se forman colas.
-- **Vestir algo más arreglado para la Sala Principal.** La Ópera es conocida por exigir una indumentaria elegante en sus funciones de gala. En las sesiones de día el ambiente es más relajado, pero no en las noches de gala.
-- **Quedarse al coloquio.** El público cairota dialoga con los cineastas mezclando árabe e inglés, y estos encuentros suelen ser lo más animado de la jornada.
+- **Elegían las sesiones en el programa diario** y compraban las entradas con antelación, porque los estrenos más esperados llenaban las salas grandes.
+- **Llegaban a la entrada con margen.** En el acceso al recinto de la Ópera había controles de seguridad y revisión de bolsos, y antes de los grandes estrenos se formaban colas.
+- **Vestían algo más arreglados para la Sala Principal.** La Ópera es conocida por exigir un código de vestimenta elegante en sus funciones de gala. En las sesiones diurnas había más soltura; en las noches de gala, no.
+- **Se quedaban al coloquio.** El público cairota conversa con los cineastas en una mezcla de árabe e inglés, y estos encuentros solían ser lo más animado de la jornada.
 
-Dentro de la sala, los teléfonos deben estar completamente en silencio, y los acomodadores lo hacen cumplir. Un sencillo «salam alaykum» o un «shukran» (gracias) dirigido al personal se agradece mucho cuando hay aglomeración en la puerta.
+Dentro de las salas, el teléfono debía estar completamente en silencio, y los acomodadores se encargaban de que así fuera. Ante una puerta concurrida, un sencillo «salam alaykum» o un «shukran» (gracias) al personal causaba muy buena impresión.
 
 ## Cómo llegar a la Ópera
 
-El metro es la opción más sencilla. La **estación Opera, de la línea 2**, se abre justo al lado del recinto de la Ópera. Está a una parada de la estación Sadat, situada bajo la plaza Tahrir, donde la línea 2 enlaza con la línea 1.
+El metro es la opción más sencilla. **La estación de Ópera, en la línea 2**, tiene la salida justo al lado del recinto de la Ópera, a una parada de la estación de Sadat, situada bajo la plaza Tahrir. En Sadat se cruzan las líneas 2 y 1.
 
-A pie desde el centro, basta con cruzar el puente de Qasr al-Nil desde la plaza Tahrir. El paseo es corto: se dejan atrás los leones de piedra del extremo oriental del puente y se avanza con el Nilo a ambos lados. Desde Zamalek, la mitad norte de la isla, se llega con un agradable paseo hacia el sur o en un trayecto rápido en taxi.
+A pie desde el centro, el puente de Qasr al-Nil parte de la plaza Tahrir. El paseo es corto: se dejan atrás los leones de piedra del extremo oriental del puente, con el Nilo a ambos lados. Desde Zamalek, la mitad norte de la isla, se llega con un agradable paseo hacia el sur o con un trayecto breve en taxi.
 
-En El Cairo se usan mucho las aplicaciones de transporte con conductor, que evitan tener que regatear la tarifa. Por la tarde y la noche el tráfico en los puentes es denso, de modo que a la hora de los estrenos el metro suele resultar más rápido.
+En El Cairo se usan mucho las aplicaciones de transporte con conductor, que evitan regatear la tarifa. Por la tarde y la noche, el tráfico sobre los puentes es denso, de modo que a la hora de los estrenos el metro suele resultar más rápido.
 
 ## Noviembre a orillas del Nilo
 
-Las fechas encajan con el escenario. A mediados de noviembre, en El Cairo los días suelen ser cálidos y secos, y las noches, mucho más frescas; tras una sesión tardía, una chaqueta ligera resulta muy útil. El calor del verano ya ha quedado atrás y apenas llueve.
+Las fechas encajan con el escenario. A mediados de noviembre, El Cairo suele tener días cálidos y secos y noches mucho más frescas, así que una chaqueta ligera se agradece al salir de una sesión tardía. El calor del verano ya ha pasado y apenas llueve.
 
-Entre película y película, merece la pena recorrer el recinto de la Ópera y sus alrededores:
+Entre película y película, el recinto de la Ópera y sus alrededores invitan a pasear:
 
-- **Museo de Arte Moderno Egipcio**: dentro del propio recinto de la Ópera, reúne pintura y escultura egipcias del siglo XX
-- **Torre de El Cairo**: a pocos minutos a pie hacia el norte, con un mirador sobre la ciudad y el río
-- **Zamalek**: calles arboladas llenas de cafés, galerías y librerías
-- **Museo Egipcio**: en la plaza Tahrir, al otro lado del puente
+- **Museo de Arte Moderno Egipcio**, dentro del recinto de la Ópera, con pintura y escultura egipcias del siglo XX
+- **Torre de El Cairo**, a un corto paseo hacia el norte, con un mirador sobre la ciudad y el río
+- **Zamalek**, con calles arboladas llenas de cafés, galerías y librerías
+- **Museo Egipcio**, en la plaza Tahrir, al otro lado del puente
 
 ## Después de la última sesión
 
-Las noches del festival suelen alargarse. Zamalek es el destino natural al terminar. Sus restaurantes y cafés siguen llenos hasta bien entrada la noche, y en El Cairo, de todos modos, se cena tarde.
+Las noches de festival solían alargarse. Zamalek era el destino natural al terminar: sus restaurantes y cafés siguen animados hasta muy tarde, y en El Cairo, de todos modos, se cena tarde.
 
-Al caer la tarde, la Corniche del Nilo, en la orilla del centro, se llena de familias y parejas. A lo largo de la ribera hay falucas amarradas, y antes o después de una proyección se puede alquilar una para navegar una hora por el río. Regatear el precio es lo normal, y los pasajeros suelen acordar la tarifa antes de subir a bordo.
+En la orilla del centro, la Corniche del Nilo se llena por la noche de familias y parejas. A lo largo de la ribera hay amarradas falucas, los veleros tradicionales, que pueden alquilarse por una hora de navegación antes o después de una proyección. Regatear el precio es lo normal, y los pasajeros suelen acordar la tarifa antes de subir a bordo.
 
-Desde los hoteles de la Corniche y de Zamalek, la Ópera queda a un paseo o a una parada de metro. Con diez días de programación, muchos visitantes reservan unos días de cine dentro de una estancia más larga. Las pirámides de Guiza y El Cairo islámico quedan a un trayecto en taxi.
+Los hoteles de la Corniche y de Zamalek quedan a un paseo o a una parada de metro de la Ópera. Con diez días de programación, muchos visitantes encajaban unas cuantas jornadas de cine en una estancia más larga. Las pirámides de Guiza y El Cairo islámico están a un trayecto en taxi.
