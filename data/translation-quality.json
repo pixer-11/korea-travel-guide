@@ -36315,13 +36315,6 @@
   "worst": "그래서 기념품이 정말 그 고장의 것이라고 느껴지는 독일 마켓은 이곳뿐이라고 말하는 독자도 많습니다.",
   "at": "2026-10-19T16:03:47.393Z"
  },
- "ko/dubai-anuv-jain-dastakhat-world-tour": {
-  "hash": "40f726d4e5a1",
-  "score": 0,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-19T16:03:47.477Z"
- },
  "ko/edinburgh-2026-scottish-open-snooker": {
   "hash": "7abfab8b3994",
   "score": 1,
@@ -41389,5 +41382,82 @@
   "registerBreak": false,
   "worst": "起止年份的选择颇有讲究：1950年，国家已全面掌控蒙古人的生活；到了1990年，这套体制已经土崩瓦解。",
   "at": "2026-11-20T16:21:01.588Z"
+ },
+ "es/canberra-mount-ainslie-lookout": {
+  "hash": "621a64f1b00a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Si llega temprano para aprovechar la luz, lo normal es que se adelante a la afluencia",
+  "at": "2026-11-21T07:50:58.485Z"
+ },
+ "es/canberra-national-gallery-of-australia": {
+  "hash": "55cdca5229fb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Resérvele más tiempo del que imagina.",
+  "at": "2026-11-21T07:51:06.116Z"
+ },
+ "es/glasgow-gallery-of-modern-art": {
+  "hash": "60b69e877854",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-21T07:53:16.816Z"
+ },
+ "ja/canberra-mount-ainslie-lookout": {
+  "hash": "4a1696925f72",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "舗装された展望デッキの下には、オーストラリア戦争記念館の銅葺きのドームからバーリー・グリフィン湖まで、アンザック・パレードがまっすぐに延びています。",
+  "at": "2026-11-21T07:51:13.577Z"
+ },
+ "ja/canberra-national-gallery-of-australia": {
+  "hash": "498383ad2ec7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "骨材が見えるまで手作業で表面を削り出しているため、近くで見ると壁は石のようにざらついた質感です。",
+  "at": "2026-11-21T07:51:14.718Z"
+ },
+ "ja/glasgow-gallery-of-modern-art": {
+  "hash": "af3d155e0412",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "格天井を円柱が支える細長い空間はあまりに堂々としていて、展示されたインスタレーションが小さく見えるほどです。",
+  "at": "2026-11-21T07:51:18.283Z"
+ },
+ "ko/canberra-mount-ainslie-lookout": {
+  "hash": "de9d2a755740",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 설계를 이만큼 또렷하게 보여 주는 곳은 다른 어디에도 없습니다.",
+  "at": "2026-11-21T07:51:22.251Z"
+ },
+ "ko/canberra-national-gallery-of-australia": {
+  "hash": "f71dd29dd4a5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "작은 배낭보다 큰 가방은 보통 물품 보관소에 맡겨야 합니다.",
+  "at": "2026-11-21T07:51:28.604Z"
+ },
+ "ko/glasgow-gallery-of-modern-art": {
+  "hash": "e6bb9db785aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "관람에는 1시간에서 90분 정도를 예상하면 됩니다.",
+  "at": "2026-11-21T07:51:32.259Z"
+ },
+ "zh/canberra-mount-ainslie-lookout": {
+  "hash": "a157200f2718",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "要看清这一设计，再没有比这里更理想的地方了。",
+  "at": "2026-11-21T07:51:33.030Z"
+ },
+ "zh/glasgow-gallery-of-modern-art": {
+  "hash": "68eb5de83ed2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "置身其中的装置作品反倒显得小巧。",
+  "at": "2026-11-21T07:51:43.146Z"
  }
 }

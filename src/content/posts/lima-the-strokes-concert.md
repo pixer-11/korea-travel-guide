@@ -1,6 +1,6 @@
 ---
 title: 'The Strokes Concert: Dates, Tickets & Venue (Lima)'
-description: The Strokes Concert in Lima takes place on Friday, November 20, 2026, at Estadio San Marcos, the university stadium in Cercado de Lima.
+description: The Strokes concert in Lima was set for Friday, November 20, 2026, at Estadio San Marcos, the university stadium in Cercado de Lima.
 country: Peru
 region: Lima
 category: event
@@ -31,35 +31,34 @@ gallery:
 tags:
   - lima
   - event
-quickAnswer: The Strokes Concert in Lima takes place on Friday, November 20, 2026, at Estadio San Marcos, the university stadium in Cercado de Lima. Tickets are sold through the promoter's official ticketing channel, and resale outside it carries a real risk of fakes. Most visitors stay in Miraflores or Barranco and take an app-booked ride across town.
+quickAnswer: The Strokes concert in Lima was set for Friday, November 20, 2026, at Estadio San Marcos, the university stadium in Cercado de Lima. Tickets were sold through the promoter's official ticketing channel, and resale from touts in Lima carries a real risk of fakes. Most visitors stay in Miraflores or Barranco and take an app-booked ride across town.
 faq:
   - q: When and where is The Strokes concert in Lima?
-    a: It takes place on Friday, November 20, 2026, at Estadio San Marcos, on the Universidad Nacional Mayor de San Marcos campus near Avenida Venezuela in Cercado de Lima.
+    a: It was set for Friday, November 20, 2026, at Estadio San Marcos, on the Universidad Nacional Mayor de San Marcos campus near Avenida Venezuela in Cercado de Lima.
   - q: Where are tickets sold?
-    a: Through the promoter's official ticketing channel, which prints the sections and entry rules. Large Lima stadium shows usually sell on Peruvian platforms such as Teleticket or Joinnus. Resale from touts (reventa) carries a real risk of fakes.
+    a: Tickets were sold through the promoter's official ticketing channel, which set out the sections and entry rules. Large Lima stadium shows usually sell on Peruvian platforms such as Teleticket or Joinnus. Resale from touts (reventa) carries a real risk of fakes.
   - q: How do people get to Estadio San Marcos?
     a: No Metro or Metropolitano line stops at the stadium, so most visitors use taxis or ride apps like Uber, Cabify or InDrive. From Miraflores the trip often takes close to an hour in Friday traffic.
   - q: Where do visitors usually stay?
-    a: Most visitors stay in Miraflores or Barranco, which have the most hotels and late-night bars. The Centro Histórico is closer to the stadium.
+    a: Most visitors stay in Miraflores or Barranco, which have the most hotels and late-night bars. The Centro Histórico is a shorter ride from the stadium.
   - q: What is the weather like in Lima in late November?
-    a: Late spring evenings are mild and mostly dry. Fans standing on the field usually bring a light jacket for the cool sea air after dark.
+    a: Late spring evenings are mild and mostly dry. A light jacket is usually enough for the cool sea air after dark on the stadium field.
 aiGenerated: true
 draft: false
 ---
-
 ## A Friday night on the San Marcos campus
 
-The Strokes play Estadio San Marcos on Friday, November 20, 2026. The stadium sits inside the campus of the Universidad Nacional Mayor de San Marcos, the oldest university in the Americas, founded in 1551. The concrete bowl opened in 1951 for the university's 400th anniversary, and it now hosts many of Lima's biggest touring shows.
+The Strokes were scheduled to play Estadio San Marcos on Friday, November 20, 2026. The stadium sits inside the campus of the Universidad Nacional Mayor de San Marcos, the oldest university in the Americas, founded in 1551. The concrete bowl opened in 1951 for the university's 400th anniversary, and it now hosts many of Lima's biggest touring shows.
 
-The band brings a catalogue that runs from *Is This It* (2001) to *The New Abnormal* (2020), which won the Grammy for Best Rock Album. The line-up is Julian Casablancas, Nick Valensi, Albert Hammond Jr., Nikolai Fraiture and Fabrizio Moretti. The setlist and support act are not part of the facts here, so this guide leaves them out.
+The band's catalogue runs from *Is This It* (2001) to *The New Abnormal* (2020), which won the Grammy for Best Rock Album. The line-up is Julian Casablancas, Nick Valensi, Albert Hammond Jr., Nikolai Fraiture and Fabrizio Moretti.
 
 ## Tickets and the reventa problem
 
-The official promoter's ticketing channel is the only source that guarantees a valid ticket. Large Lima stadium shows usually sell through Peruvian platforms such as Teleticket or Joinnus. Those platforms print the sections, price tiers and entry rules on the event page.
+The promoter's official ticketing channel was the only source that guaranteed a valid ticket. Large Lima stadium shows usually sell through Peruvian platforms such as Teleticket or Joinnus. Those platforms print the sections, price tiers and entry rules on the event page.
 
 - **Reventa** is the local word for touts and resale. Counterfeit tickets do turn up at stadium gates.
 - Tickets are commonly named or tied to ID, so fans usually carry a passport or DNI.
-- The seating plan is on the ticketing page, along with how the field (*campo*) areas compare with the stands (*tribunas*).
+- The seating plan split the show into field (*campo*) areas and the stands (*tribunas*).
 
 ## Getting to Avenida Venezuela
 
@@ -67,17 +66,17 @@ The stadium lies on the western side of central Lima, near the corner of Avenida
 
 - **From Miraflores or Barranco:** an app ride (Uber, Cabify, InDrive) through Friday traffic often takes close to an hour.
 - **From the Centro Histórico:** this is the shortest hop, usually a short ride west.
-- **After the show:** thousands of fans request rides at the same moment and surge pricing climbs. Many people walk a few blocks away from the stadium and request a ride from there, or meet a driver at a set pickup point.
+- **After stadium shows:** thousands of fans request rides at the same moment and surge pricing climbs. Many people walk a few blocks away from the stadium and request a ride from there, or meet a driver at a set pickup point.
 
 Lima evenings in late November are mild and dry, with the grey *garúa* drizzle mostly over. A light jacket is enough for standing on the field once the sea air comes in after dark.
 
 ## How a Lima stadium crowd works
 
-Peruvian rock crowds sing every word, and the field fills from the front long before the headliner comes on. Fans aiming for the barrier usually queue at the gates for hours. People seated in the stands generally arrive closer to the opening act.
+Peruvian rock crowds sing every word, and the field fills from the front long before the headliner comes on. Fans aiming for the barrier usually queue at the gates for hours. People seated in the stands generally turn up around the time of the opening act.
 
 - **Paying:** soles in cash for street vendors outside. Inside, cards are widely accepted, and Peruvians also use **Yape**, the mobile wallet.
 - **Outside the gates:** street carts sell *anticuchos* (grilled beef heart skewers), *salchipapas* and bootleg merch. They take cash only.
-- **Security:** stadium searches are thorough. Large bags, umbrellas and power banks are often refused, and the ticketing page lists the full banned items.
+- **Security:** stadium searches are thorough. Large bags, umbrellas and power banks are often refused.
 - **Language:** *entrada* is ticket, *puerta* is gate, *baños* are toilets. A simple *disculpa* gets you through a packed crowd.
 
-Most people who stay overnight base themselves in Miraflores, near the Malecón, or in Barranco, where bars around Puente de los Suspiros stay open late after the show.
+Most people who stay overnight base themselves in Miraflores, near the Malecón, or in Barranco, where bars around Puente de los Suspiros stay open late after big shows.

@@ -7095,11 +7095,23 @@
   "reason": "publish gate: Exterior view of historic homestead building, representative hero shot",
   "at": "2026-10-15T08:09:25.471Z"
  },
+ "canberra-mount-ainslie-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Canberra_from_Mount_Ainslie_Lookout.jpg": {
+  "slug": "canberra-mount-ainslie-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic view from Mount Ainslie Lookout over Canberra",
+  "at": "2026-11-21T07:43:44.003Z"
+ },
  "canberra-national-arboretum-canberra\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg/1920px-Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg": {
   "slug": "canberra-national-arboretum-canberra",
   "verdict": "MATCH",
   "reason": "publish gate: Shows arboretum building with Black Mountain Tower in Canberra",
   "at": "2026-10-01T07:51:44.463Z"
+ },
+ "canberra-national-gallery-of-australia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/National_Gallery_at_dusk%2C_Canberra_ACT.jpg/3840px-National_Gallery_at_dusk%2C_Canberra_ACT.jpg": {
+  "slug": "canberra-national-gallery-of-australia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of NGA building at dusk, representative hero",
+  "at": "2026-11-21T07:43:44.063Z"
  },
  "canberra-national-museum-of-australia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Market_in_the_National_Museum_of_Australia_foyer_November_2025.jpg/3840px-Market_in_the_National_Museum_of_Australia_foyer_November_2025.jpg": {
   "slug": "canberra-national-museum-of-australia",
@@ -11679,6 +11691,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior shopfront with books visible, matches bookshop venue",
   "at": "2026-11-20T07:50:05.958Z"
+ },
+ "glasgow-gallery-of-modern-art\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Gallery_of_Modern_Art%2C_Glasgow%2C_front_view%2C_2018-06-27.jpg": {
+  "slug": "glasgow-gallery-of-modern-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Gallery of Modern Art, Glasgow, clearly recognizable",
+  "at": "2026-11-21T07:43:44.163Z"
  },
  "glasgow-glasgow-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glasgow_Botanic_Gardens_%2851131796638%29.jpg/3840px-Glasgow_Botanic_Gardens_%2851131796638%29.jpg": {
   "slug": "glasgow-glasgow-botanic-gardens",
@@ -40352,6 +40370,12 @@
   "reason": "patrol re-check: Shows Torre dei Lamberti tower clearly with surrounding piazza buildings",
   "at": "2026-08-16T20:36:44.083Z"
  },
+ "victoria-art-gallery-of-greater-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Art_Gallery_of_Greater_Victoria_01_%2820479023876%29.jpg/1920px-Art_Gallery_of_Greater_Victoria_01_%2820479023876%29.jpg": {
+  "slug": "victoria-art-gallery-of-greater-victoria",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance with clear signage of the venue",
+  "at": "2026-11-21T07:43:44.112Z"
+ },
  "victoria-craigdarroch-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Craigdarroch_Castle_just_after_sunset_-_view_from_the_south%2C_Victoria%2C_Canada_01.jpg/1920px-Craigdarroch_Castle_just_after_sunset_-_view_from_the_south%2C_Victoria%2C_Canada_01.jpg": {
   "slug": "victoria-craigdarroch-castle",
   "verdict": "MATCH",
@@ -40399,6 +40423,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior entrance of Royal BC Museum, clearly representative",
   "at": "2026-10-21T13:29:32.667Z"
+ },
+ "victoria-split-rock-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg/3840px-View_of_Saanich_Inlet%2C_as_seen_from_Split_Rock_Lookout_20240828_2.jpg": {
+  "slug": "victoria-split-rock-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic overlook view plausible for Split Rock Lookout",
+  "at": "2026-11-21T07:43:43.929Z"
  },
  "victoria-the-butchart-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Butchart_Gardens_-_Victoria_%282633111462%29.jpg/3840px-Butchart_Gardens_-_Victoria_%282633111462%29.jpg": {
   "slug": "victoria-the-butchart-gardens",

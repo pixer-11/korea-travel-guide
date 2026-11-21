@@ -1,6 +1,6 @@
 ---
 title: '2026 UN Climate Change Conference (COP31): Dates, Tickets & Venue (Antalya)'
-description: The 2026 UN Climate Change Conference (COP31) runs from November 9 to 20, 2026, at the Antalya Expo Center in Antalya, Turkey, east of the city centre near Antalya Airport.
+description: COP31, the 2026 UN Climate Change Conference, was set for November 9 to 20, 2026, at the Antalya Expo Center in Antalya, Turkey, near Antalya Airport.
 country: Turkey
 region: Antalya
 category: event
@@ -16,12 +16,12 @@ eventFactsAsked: true
 tags:
   - antalya
   - event
-quickAnswer: The 2026 UN Climate Change Conference (COP31) runs from November 9 to 20, 2026, at the Antalya Expo Center in Antalya, Turkey, east of the city centre near Antalya Airport. COP access doesn't work through public tickets. The negotiating area is open only to people accredited through the UN climate secretariat (UNFCCC), such as party delegates, admitted observers and media.
+quickAnswer: The 2026 UN Climate Change Conference (COP31) was set for November 9 to 20, 2026, at the Antalya Expo Center in Antalya, Turkey, east of the city centre near Antalya Airport. COP access doesn't work through public tickets. The negotiating area was open only to people accredited through the UN climate secretariat (UNFCCC), such as party delegates, admitted observers and media.
 faq:
   - q: When and where is COP31 held?
-    a: COP31 runs from November 9 to 20, 2026, at the Antalya Expo Center. The grounds were built for EXPO 2016 and sit in the Aksu district, east of central Antalya near the airport.
+    a: COP31 was set for November 9 to 20, 2026, at the Antalya Expo Center. The grounds were built for EXPO 2016 and sit in the Aksu district, east of central Antalya near the airport.
   - q: Can I buy tickets to COP31?
-    a: 'No. The negotiating zone (Blue Zone) is open only to people accredited through the UNFCCC: party delegates, observers from admitted organisations, and approved media. At past COPs, the host has also run a public area that doesn''t need a UN badge.'
+    a: 'No. The negotiating zone (Blue Zone) was open only to people accredited through the UNFCCC: party delegates, observers from admitted organisations, and approved media. At past COPs, the host has also opened a public area that doesn''t need a UN badge.'
   - q: How do I get from Antalya Airport to the Expo Center?
     a: It's a short trip. The AntRay light-rail line links the city centre, the airport and the Expo area, and taxis and shuttle coaches use the same road.
   - q: Where do attendees usually stay?
@@ -39,12 +39,11 @@ heroImage:
     x: 50
     'y': 50
 ---
-
 ## Twelve days on the old Expo grounds
 
-COP31 runs from November 9 to 20, 2026. It is held at the Antalya Expo Center, the purpose-built grounds that hosted EXPO 2016. The site sits in the Aksu district, out on the flat coastal plain east of the city. It is much closer to Antalya Airport than to the harbour and old town.
+COP31 was set for November 9 to 20, 2026, at the Antalya Expo Center, the purpose-built grounds that hosted EXPO 2016. The site sits in the Aksu district, out on the flat coastal plain east of the city. It is much closer to Antalya Airport than to the harbour and old town.
 
-This is the annual summit of the United Nations Framework Convention on Climate Change. For two weeks, government negotiators, diplomats, scientists, campaigners and journalists from almost every country work through plenary halls and side rooms. The days are long, and the corridors between sessions are where much of the real conversation happens.
+A COP is the annual summit of the United Nations Framework Convention on Climate Change. For two weeks, government negotiators, diplomats, scientists, campaigners and journalists from almost every country work through plenary halls and side rooms. The days are long, and the corridors between sessions are where much of the real conversation happens.
 
 ## Badges, not tickets
 
@@ -54,35 +53,35 @@ Nobody buys a ticket to a COP. The secure negotiating zone, usually called the B
 - **Observers** from organisations the UNFCCC has formally admitted
 - **Media** approved through the secretariat's press process
 
-At earlier COPs, the host country has also run a separate public area, often called the Green Zone. It hosts exhibitions, talks and cultural events and doesn't need a UN badge. When one runs, its programme comes from the host side rather than from the UN process.
+At earlier COPs, the host country has also opened a separate public area, often called the Green Zone. It hosts exhibitions, talks and cultural events and doesn't need a UN badge. Where there is one, its programme comes from the host side rather than from the UN process.
 
 ## Getting out to Aksu
 
 Most arrivals land at Antalya Airport (AYT). It is one of Turkey's busiest airports thanks to the resort trade, and it lies a short drive from the Expo grounds. The AntRay light-rail line links central Antalya with the airport and the Expo area. Taxis and shuttle coaches cover the same road.
 
-Delegates usually stay in one of two places. Some take the big hotels along Lara, the resort strip southeast of the centre. Others base themselves in the city around Kaleiçi and Konyaaltı and commute out each morning. Lara puts you nearer the venue. The city gives you far more choice of places to eat after a late session.
+Delegates usually stay in one of two places. Some take the big hotels along Lara, the resort strip southeast of the centre. Others base themselves in the city around Kaleiçi and Konyaaltı and commute out each morning. Lara is nearer the venue. The city has far more choice of places to eat after a late session.
 
 ## Badge pickup and the security line
 
-The first days are the slowest at any COP. Accreditation pickup and airport-style screening both happen at the entrance, so new arrivals usually build extra time into the opening morning.
+The first days are the slowest at any COP. Accreditation pickup and airport-style screening both happen at the entrance, and the opening morning is usually the busiest at the gate.
 
 How the regulars handle it:
 
-- **Carry the badge visibly at all times.** Security checks it at every internal checkpoint, not just the gate.
-- **Keep a refillable water bottle and a power bank.** Plenary sessions often run past the published finish, and sockets near seating fill up first.
-- **Pay by card.** Turkish shops and restaurants take cards almost everywhere, though small cafés and dolmuş minibuses still prefer Turkish lira in cash.
-- **Tip in restaurants.** Rounding up or leaving around 5–10% is the norm. In a çay ocağı tea counter, people simply hand over coins.
-- **Learn two words.** *Teşekkürler* (thank you) and *Hesap, lütfen* (the bill, please) cover most evenings.
+- **The badge stays visible at all times.** Security checks it at every internal checkpoint, not just the gate.
+- **A refillable water bottle and a power bank are standard kit.** Plenary sessions often overrun the published finish, and sockets near seating fill up first.
+- **Cards work almost everywhere.** Turkish shops and restaurants take them widely, though small cafés and dolmuş minibuses still prefer Turkish lira in cash.
+- **Tipping is modest.** Rounding up or leaving around 5–10% is the norm in restaurants. In a çay ocağı tea counter, people simply hand over coins.
+- **Two words go a long way.** *Teşekkürler* (thank you) and *Hesap, lütfen* (the bill, please) cover most evenings.
 
 ## November on the Turkish Riviera
 
-The conference falls after the beach season ends. Antalya's November days are usually mild and pleasant for walking. It is also one of the wetter months, though, and the Taurus Mountains behind the city can disappear behind heavy cloud. Delegates tend to pack a light waterproof layer along with their suits.
+The conference dates fell after the beach season ends. Antalya's November days are usually mild and pleasant for walking. It is also one of the wetter months, though, and the Taurus Mountains behind the city can disappear behind heavy cloud. Delegates tend to pack a light waterproof layer along with their suits.
 
-The resort crowds have mostly gone by then. Some seasonal beach hotels in Lara and Kundu may run reduced services, while hotels in the city centre stay open all year.
+The resort crowds have mostly gone by then. Some seasonal beach hotels in Lara and Kundu may offer reduced services, while hotels in the city centre stay open all year.
 
 ## Between sessions: Antalya beyond the halls
 
-Kaleiçi, the walled old town, is the usual evening escape. It is a knot of narrow lanes and Ottoman timber houses running down to the Roman harbour. You walk in through Hadrian's Gate, the triple-arched marble gateway built for the emperor's visit in the 2nd century. The fluted brick minaret of Yivli Minare is the landmark you will steer by.
+Kaleiçi, the walled old town, is the usual evening escape. It is a knot of narrow lanes and Ottoman timber houses running down to the Roman harbour. The way in is through Hadrian's Gate, the triple-arched marble gateway built for the emperor's visit in the 2nd century. The fluted brick minaret of Yivli Minare is the landmark to steer by.
 
 Closer to the venue there is more to see:
 
