@@ -51,6 +51,7 @@ place:
       - 15
       - 16
     venueId: "ven_30497476384473535a665852556a576a6571394f6663624a496843"
+  phone: '+81 82-248-1518'
 tags:
   - "hiroshima"
   - "local market"
