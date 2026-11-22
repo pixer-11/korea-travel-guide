@@ -1,27 +1,35 @@
 ---
 title: 'Golden Bauhinia Square: Wan Chai Travel Guide (4.1★)'
-description: Golden Bauhinia Square sits on the Wan Chai waterfront beside the Hong Kong Convention and Exhibition Centre, open 24 hours, and it's worth 20-30 minutes for the harbour views and the gilded flower statue marking the 1997 handover. 4.1★ (1,568 reviews) — what visitors say, hours, and tips.
+description: >-
+  Golden Bauhinia Square sits on the Wan Chai waterfront beside the Hong Kong
+  Convention and Exhibition Centre, open 24 hours, and it's worth 20-30 minutes
+  for the harbour views and the gilded flower statue marking the 1997 handover.
+  4.1★ (1,649 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Wan Chai
 category: attraction
 pubDate: '2026-08-12T17:12:53.879Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/41798359_YbTSmeRY2_hdncx5pHJ9nFdy7xu30nHBEDM3a7O__5k.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/41798359_YbTSmeRY2_hdncx5pHJ9nFdy7xu30nHBEDM3a7O__5k.jpg
   credit: 'Photo: Foursquare user content (Golden Bauhinia Square (金紫荊廣場))'
   license: foursquare
-  source: https://foursquare.com/v/4b350863f964a520d32925e3
+  source: 'https://foursquare.com/v/4b350863f964a520d32925e3'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Golden_Bauhinia_Square_05-05-2021.jpg/3840px-Golden_Bauhinia_Square_05-05-2021.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Golden_Bauhinia_Square_05-05-2021.jpg/3840px-Golden_Bauhinia_Square_05-05-2021.jpg
     credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Golden_Bauhinia_Square_05-05-2021.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Golden_Bauhinia_Square_05-05-2021.jpg
 place:
   id: ChIJ7QNny1gABDQRgc47Ya61z2Q
   name: Golden Bauhinia Square
-  address: 1 Expo Dr, Wan Chai, Hong Kong
+  address: '1 Expo Dr, Wan Chai, Hong Kong Island, Hong Kong'
   rating: 4.1
-  userRatingsTotal: 1568
-  googleMapsUrl: https://maps.google.com/?cid=7264224484532145793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1649
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7264224484532145793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.284425
   lng: 114.17390089999999
@@ -63,20 +71,37 @@ place:
 tags:
   - wan chai
   - top attraction
-quickAnswer: Golden Bauhinia Square sits on the Wan Chai waterfront beside the Hong Kong Convention and Exhibition Centre, open 24 hours, and it's worth 20-30 minutes for the harbour views and the gilded flower statue marking the 1997 handover. Go early — weekends are quietest from 7am to 8am, before the crowds build steadily from 11am through to 10pm. Time it for the flag-raising ceremony at 8am if you want the full ritual.
+quickAnswer: >-
+  Golden Bauhinia Square sits on the Wan Chai waterfront beside the Hong Kong
+  Convention and Exhibition Centre, open 24 hours, and it's worth 20-30 minutes
+  for the harbour views and the gilded flower statue marking the 1997 handover.
+  Go early — weekends are quietest from 7am to 8am, before the crowds build
+  steadily from 11am through to 10pm. Time it for the flag-raising ceremony at
+  8am if you want the full ritual.
 faq:
   - q: How long should I spend at Golden Bauhinia Square?
-    a: 20-30 minutes is enough for photos and the harbour view. Longer if you time it around the 8am flag-raising ceremony.
+    a: >-
+      20-30 minutes is enough for photos and the harbour view. Longer if you
+      time it around the 8am flag-raising ceremony.
   - q: What's the nearest MTR station?
-    a: Wan Chai station on the Island line, about a 10-15 minute walk via the elevated footbridges into the Convention Centre complex.
+    a: >-
+      Wan Chai station on the Island line, about a 10-15 minute walk via the
+      elevated footbridges into the Convention Centre complex.
   - q: When is it least crowded?
-    a: On weekends, 7am-8am is the quietest window. Crowds build steadily from 11am and stay heavy until around 10pm.
+    a: >-
+      On weekends, 7am-8am is the quietest window. Crowds build steadily from
+      11am and stay heavy until around 10pm.
   - q: Is there an entry fee?
-    a: No, it's a free public square, open 24 hours every day with no ticket required.
+    a: >-
+      No, it's a free public square, open 24 hours every day with no ticket
+      required.
   - q: What else can I combine it with nearby?
-    a: The Wan Chai waterfront promenade, the Hong Kong Convention and Exhibition Centre next door, or a Star Ferry ride over to Central.
+    a: >-
+      The Wan Chai waterfront promenade, the Hong Kong Convention and Exhibition
+      Centre next door, or a Star Ferry ride over to Central.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 ## Why go
 

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: taiping-bukit-larut
-srcHash: '3b455de657fd'
+srcHash: '46486a46f70e'
 title: 武吉拉律(Bukit Larut):太平旅游指南(4.3★)
-description: 武吉拉律(Bukit Larut,旧称麦斯威尔山 Maxwell Hill)是马来西亚历史最悠久的山间避暑地，唯一的抵达方式是从太平镇出发、由政府运营的窄路陆虎(Land Rover)出租车沿山蜿蜒而上。4.3★(615条评价)——游客怎么说、开放时间与实用建议。
+description: 武吉拉律(Bukit Larut,旧称麦斯威尔山 Maxwell Hill)是马来西亚历史最悠久的山间避暑地，唯一的抵达方式是从太平镇出发、由政府运营的窄路陆虎(Land Rover)出租车沿山蜿蜒而上。4.3★(623条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 武吉拉律(Bukit Larut,旧称麦斯威尔山 Maxwell Hill)是马来西亚历史最悠久的山间避暑地，唯一的抵达方式是从太平镇出发、由政府运营的窄路陆虎(Land Rover)出租车沿山蜿蜒而上。建议选在工作日早些出发，以享受清凉薄雾和空无一人的观景点，并预留半天时间用于上山、在茶园空地周边漫步以及下山。大门开放时间为周末凌晨4点、工作日凌晨5点，傍晚5点关闭。
 faq:
   - q: 如何前往武吉拉律?

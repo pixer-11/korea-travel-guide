@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: stanley-stanley-promenade
-srcHash: 'bb9f039aba87'
+srcHash: 'aa205ab237a8'
 title: 'Paseo Marítimo de Stanley: Guía de viaje (4,3★)'
-description: 'El Paseo Marítimo de Stanley es un malecón arbolado frente al mar en Stanley, en la costa sur de Hong Kong, con cafés al aire libre, bancos y vistas de la bahía de Stanley hacia la antigua comisaría de policía y Murray House. 4,3★ (746 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Paseo Marítimo de Stanley es un malecón arbolado frente al mar en Stanley, en la costa sur de Hong Kong, con cafés al aire libre, bancos y vistas de la bahía de Stanley hacia la antigua comisaría de policía y Murray House. 4,3★ (749 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Paseo Marítimo de Stanley es un malecón arbolado frente al mar en Stanley, en la costa sur de Hong Kong, con cafés al aire libre, bancos y vistas de la bahía de Stanley hacia la antigua comisaría de policía y Murray House. Está abierto las 24 horas y nunca se siente abarrotado: los fines de semana lo más tranquilo es de 7:00 a 8:00 y de 15:00 a 17:00, antes de que lleguen las multitudes por la noche. Conviene dedicarle entre 45 minutos y una hora, idealmente combinándolo con el mercado de Stanley y Murray House, que están a pocos pasos.'
 faq:
   - q: ¿Cómo llego al Paseo Marítimo de Stanley desde el centro de Hong Kong (Central)?

@@ -1,27 +1,36 @@
 ---
 title: 'Zhangjiajie National Forest Park: Travel Guide (4.7★)'
-description: Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in "Avatar" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. 4.7★ (1,240 reviews) — what visitors say, hours, and tips.
+description: >-
+  Zhangjiajie National Forest Park is the sandstone pillar wonderland that
+  inspired the floating mountains in "Avatar" — plan a full day (or two) riding
+  the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic
+  Area. 4.7★ (1,363 reviews) — what visitors say, hours, and tips.
 country: China
 region: Zhangjiajie
 category: attraction
 pubDate: '2026-08-11T09:08:57.084Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1920px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1920px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg
   credit: 'Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zhangjiajie_National_Forest_Park.jpg/1920px-Zhangjiajie_National_Forest_Park.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zhangjiajie_National_Forest_Park.jpg/1920px-Zhangjiajie_National_Forest_Park.jpg
     credit: 'Photo: Kuruman from Tokyo, Japan / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Zhangjiajie_National_Forest_Park.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Zhangjiajie_National_Forest_Park.jpg
 place:
   id: ChIJoaxDGsqvmzYRbwukZex5gKE
   name: Zhangjiajie National Forest Park
-  address: Wulingyuan District, Zhangjiajie, Hunan, China, 427403
+  address: 'Wulingyuan District, Zhangjiajie, Hunan, China, 427403'
   rating: 4.7
-  userRatingsTotal: 1240
-  googleMapsUrl: https://maps.google.com/?cid=11637435493349854063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1363
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11637435493349854063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 29.315305
   lng: 110.434767
@@ -49,20 +58,47 @@ place:
 tags:
   - zhangjiajie
   - top attraction
-quickAnswer: Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in "Avatar" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. Go early on weekends if you can, since the park is busy 7am–9am, 10am–1pm and 10pm–11pm on Saturdays and Sundays; the calmer stretches on weekends tend to be 1pm–2pm, 3pm–5pm and 7pm–10pm. Base yourself in Zhangjiajie City or Wulingyuan town, and budget the better part of a week if you want to combine it with the separate Tianmen Mountain glass skywalk across town.
+quickAnswer: >-
+  Zhangjiajie National Forest Park is the sandstone pillar wonderland that
+  inspired the floating mountains in "Avatar" — plan a full day (or two) riding
+  the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic
+  Area. Go early on weekends if you can, since the park is busy 7am–9am,
+  10am–1pm and 10pm–11pm on Saturdays and Sundays; the calmer stretches on
+  weekends tend to be 1pm–2pm, 3pm–5pm and 7pm–10pm. Base yourself in
+  Zhangjiajie City or Wulingyuan town, and budget the better part of a week if
+  you want to combine it with the separate Tianmen Mountain glass skywalk across
+  town.
 faq:
   - q: How long should I spend at Zhangjiajie National Forest Park?
-    a: A minimum of one full day covers the highlights via cable car and elevator, but two days lets you split between Yuanjiajie/Tianzi and the quieter Yangjiajie and Golden Whip Stream areas without rushing.
+    a: >-
+      A minimum of one full day covers the highlights via cable car and
+      elevator, but two days lets you split between Yuanjiajie/Tianzi and the
+      quieter Yangjiajie and Golden Whip Stream areas without rushing.
   - q: When is it quietest?
-    a: On weekends the park is busy 7am–9am, 10am–1pm and 10pm–11pm; the calmer windows are 1pm–2pm, 3pm–5pm and 7pm–10pm. On weekdays, arriving right at gate-opening is generally your best bet for thinner crowds.
+    a: >-
+      On weekends the park is busy 7am–9am, 10am–1pm and 10pm–11pm; the calmer
+      windows are 1pm–2pm, 3pm–5pm and 7pm–10pm. On weekdays, arriving right at
+      gate-opening is generally your best bet for thinner crowds.
   - q: Is this the same place as the Tianmen Mountain glass skywalk?
-    a: No — Tianmen Mountain with its cliff-hanging walkway and glass skywalk is a separate mountain near Zhangjiajie city. Zhangjiajie National Forest Park is a different site in the Wulingyuan Scenic Area, known for its sandstone pillars.
+    a: >-
+      No — Tianmen Mountain with its cliff-hanging walkway and glass skywalk is
+      a separate mountain near Zhangjiajie city. Zhangjiajie National Forest
+      Park is a different site in the Wulingyuan Scenic Area, known for its
+      sandstone pillars.
   - q: How do I get around inside the park?
-    a: Use the internal shuttle bus network, which links the main scenic zones (Yuanjiajie, Tianzi Mountain, Yangjiajie). Cable cars and the Bailong Elevator cost extra beyond the entrance ticket and save significant walking and stairs.
+    a: >-
+      Use the internal shuttle bus network, which links the main scenic zones
+      (Yuanjiajie, Tianzi Mountain, Yangjiajie). Cable cars and the Bailong
+      Elevator cost extra beyond the entrance ticket and save significant
+      walking and stairs.
   - q: What should I wear or bring?
-    a: Sturdy hiking shoes are essential since trails involve wet stone steps and thousands of stairs on some routes. Bring a light rain layer, cash, and a mobile payment app for food stalls.
+    a: >-
+      Sturdy hiking shoes are essential since trails involve wet stone steps and
+      thousands of stairs on some routes. Bring a light rain layer, cash, and a
+      mobile payment app for food stalls.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

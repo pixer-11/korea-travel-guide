@@ -1,25 +1,30 @@
 ---
 title: 'Graham Street Market: Central Travel Guide (4.2★)'
-description: Graham Street Market is a working street market strung along Graham Street and Gage Street in Sheung Wan/Central, open daily 8am–6pm. 4.2★ (124 reviews) — what visitors say, hours, and tips.
+description: >-
+  Graham Street Market is a working street market strung along Graham Street and
+  Gage Street in Sheung Wan/Central, open daily 8am–6pm. 4.2★ (128 reviews) —
+  what visitors say, hours, and tips.
 country: Hong Kong
 region: Central
 category: hidden-gem
 pubDate: '2026-08-15T07:51:15.327Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/db/HK_Central_Butterfly_on_122_Wellington_Street_Graham_Street_name_sign_n_Fruit_stall_market_Nov-2012.JPG
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/db/HK_Central_Butterfly_on_122_Wellington_Street_Graham_Street_name_sign_n_Fruit_stall_market_Nov-2012.JPG
   credit: 'Photo: Ghitangshenho / wikimedia (BY-SA)'
   license: openverse-cc
-  source: https://commons.wikimedia.org/w/index.php?curid=22696865
+  source: 'https://commons.wikimedia.org/w/index.php?curid=22696865'
   focus:
     x: 40
     'y': 75
 place:
   id: ChIJ5ZqMJd8BBDQRhPr6e3ihHVA
   name: Graham Street Market
-  address: 14 Gage St, Central, Hong Kong
+  address: '14 Gage St, Central, Hong Kong Island, Hong Kong'
   rating: 4.2
-  userRatingsTotal: 124
-  googleMapsUrl: https://maps.google.com/?cid=5772947836207037060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 128
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5772947836207037060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.282947099999998
   lng: 114.1535569
@@ -51,20 +56,35 @@ place:
 tags:
   - central
   - local market
-quickAnswer: Graham Street Market is a working street market strung along Graham Street and Gage Street in Sheung Wan/Central, open daily 8am–6pm. Go for the produce stalls, wet-market butchers, and dried-goods shops rather than a checklist of sights — weekends are calmer at 1pm–2pm and 3pm–6pm, while 8am–1pm draws the heaviest crowds. Budget 30–45 minutes, and pair it with a wander into nearby Tai Ping Shan Street.
+quickAnswer: >-
+  Graham Street Market is a working street market strung along Graham Street and
+  Gage Street in Sheung Wan/Central, open daily 8am–6pm. Go for the produce
+  stalls, wet-market butchers, and dried-goods shops rather than a checklist of
+  sights — weekends are calmer at 1pm–2pm and 3pm–6pm, while 8am–1pm draws the
+  heaviest crowds. Budget 30–45 minutes, and pair it with a wander into nearby
+  Tai Ping Shan Street.
 faq:
   - q: How do I get to Graham Street Market?
-    a: Take MTR Sheung Wan Station, Exit A2, and walk uphill about 5 minutes, or use Central Station Exit D2 via Queen's Road Central.
+    a: >-
+      Take MTR Sheung Wan Station, Exit A2, and walk uphill about 5 minutes, or
+      use Central Station Exit D2 via Queen's Road Central.
   - q: What are the opening hours?
-    a: It's open daily from 8:00 AM to 6:00 PM, with no midday closure.
+    a: 'It''s open daily from 8:00 AM to 6:00 PM, with no midday closure.'
   - q: When is the quietest time to visit?
-    a: Weekends from 1pm to 2pm and 3pm to 6pm are noticeably calmer; try to avoid 8am–1pm on weekends, which is the busiest stretch.
+    a: >-
+      Weekends from 1pm to 2pm and 3pm to 6pm are noticeably calmer; try to
+      avoid 8am–1pm on weekends, which is the busiest stretch.
   - q: How long should I spend there?
-    a: Most visitors spend 30–45 minutes walking the stalls; longer if you stop to eat or shop for dried goods.
+    a: >-
+      Most visitors spend 30–45 minutes walking the stalls; longer if you stop
+      to eat or shop for dried goods.
   - q: What's nearby worth combining with a visit?
-    a: Tai Ping Shan Street, Hollywood Road, and Man Mo Temple are all a 5–10 minute walk away.
+    a: >-
+      Tai Ping Shan Street, Hollywood Road, and Man Mo Temple are all a 5–10
+      minute walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 ## Why go
 

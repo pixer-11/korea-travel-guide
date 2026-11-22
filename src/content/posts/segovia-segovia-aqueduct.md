@@ -1,56 +1,82 @@
 ---
-title: "Segovia Aqueduct: Travel Guide (4.9★)"
-description: "The Segovia Aqueduct stands right in Plaza del Azoguejo, the natural heart of town, and it's free and open around the clock. 4.9★ (119,047 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Segovia"
-category: "attraction"
-pubDate: "2026-08-13T08:58:47.648Z"
+title: 'Segovia Aqueduct: Travel Guide (4.9★)'
+description: >-
+  The Segovia Aqueduct stands right in Plaza del Azoguejo, the natural heart of
+  town, and it's free and open around the clock. 4.9★ (121,571 reviews) — what
+  visitors say, hours, and tips.
+country: Spain
+region: Segovia
+category: attraction
+pubDate: '2026-08-13T08:58:47.648Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aqueduct_of_Segovia_08.jpg/1920px-Aqueduct_of_Segovia_08.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_08.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aqueduct_of_Segovia_08.jpg/1920px-Aqueduct_of_Segovia_08.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_08.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Segovia_-_Aqueduct_-_2.jpg/3840px-Segovia_-_Aqueduct_-_2.jpg"
-    credit: "Photo: Benjamin Smith / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Segovia_-_Aqueduct_-_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Segovia_-_Aqueduct_-_2.jpg/3840px-Segovia_-_Aqueduct_-_2.jpg
+    credit: 'Photo: Benjamin Smith / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Segovia_-_Aqueduct_-_2.jpg'
 place:
-  id: "ChIJq_pCGt0-QQ0RLF57dcLHVBw"
-  name: "Segovia Aqueduct"
-  address: "Pl. Azoguejo, 1, 40001 Segovia, Spain"
+  id: ChIJq_pCGt0-QQ0RLF57dcLHVBw
+  name: Segovia Aqueduct
+  address: 'Pl. Azoguejo, 1, 40001 Segovia, Spain'
   rating: 4.9
-  userRatingsTotal: 119047
-  googleMapsUrl: "https://maps.google.com/?cid=2041476169114279468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 121571
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2041476169114279468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.9480584
   lng: -4.1178956
-  phone: "+34 921 46 67 20"
+  phone: +34 921 46 67 20
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "segovia"
-  - "top attraction"
-quickAnswer: "The Segovia Aqueduct stands right in Plaza del Azoguejo, the natural heart of town, and it's free and open around the clock. Come at sunrise or just after dawn to see the granite blocks glow gold with almost nobody else around. It's a well-visited landmark, so if you're there midday, expect crowds — plan on 20-30 minutes to look, longer if you climb up for the view."
+  - segovia
+  - top attraction
+quickAnswer: >-
+  The Segovia Aqueduct stands right in Plaza del Azoguejo, the natural heart of
+  town, and it's free and open around the clock. Come at sunrise or just after
+  dawn to see the granite blocks glow gold with almost nobody else around. It's
+  a well-visited landmark, so if you're there midday, expect crowds — plan on
+  20-30 minutes to look, longer if you climb up for the view.
 faq:
-  - q: "Is the Segovia Aqueduct free to visit?"
-    a: "Yes. It's a public monument in an open plaza with no entry fee and no set hours — you can walk up to it any time, day or night."
-  - q: "How long should I spend at the aqueduct?"
-    a: "Most visitors spend 20-30 minutes at the main viewpoint in Plaza del Azoguejo. Add another 20 minutes if you walk its full length toward Calle de Cervantes or climb the nearby steps for an elevated view."
-  - q: "What's the best time to avoid crowds?"
-    a: "Early morning, ideally before 9am, is quietest. This is a very popular landmark and the plaza fills with tour groups from mid-morning through early evening."
-  - q: "How do I get to the aqueduct from Madrid?"
-    a: "Take the AVE high-speed train from Madrid-Chamartín to Segovia-Guiomar (under 30 minutes), then a short bus or taxi ride into the old town, which stops close to Plaza del Azoguejo."
-  - q: "What else is nearby?"
-    a: "Segovia's Alcázar castle and Gothic cathedral are both a short walk through the old town from the aqueduct, making it easy to combine all three in one visit."
+  - q: Is the Segovia Aqueduct free to visit?
+    a: >-
+      Yes. It's a public monument in an open plaza with no entry fee and no set
+      hours — you can walk up to it any time, day or night.
+  - q: How long should I spend at the aqueduct?
+    a: >-
+      Most visitors spend 20-30 minutes at the main viewpoint in Plaza del
+      Azoguejo. Add another 20 minutes if you walk its full length toward Calle
+      de Cervantes or climb the nearby steps for an elevated view.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Early morning, ideally before 9am, is quietest. This is a very popular
+      landmark and the plaza fills with tour groups from mid-morning through
+      early evening.
+  - q: How do I get to the aqueduct from Madrid?
+    a: >-
+      Take the AVE high-speed train from Madrid-Chamartín to Segovia-Guiomar
+      (under 30 minutes), then a short bus or taxi ride into the old town, which
+      stops close to Plaza del Azoguejo.
+  - q: What else is nearby?
+    a: >-
+      Segovia's Alcázar castle and Gothic cathedral are both a short walk
+      through the old town from the aqueduct, making it easy to combine all
+      three in one visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

@@ -1,37 +1,43 @@
 ---
-title: "National Gallery Singapore: Civic District Travel Guide (4.6★)"
-description: "National Gallery Singapore, the twin restored former City Hall and Supreme Court buildings in the Civic District, opens daily 10am–7pm. 4.6★ (16,956 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Civic District"
-category: "attraction"
-pubDate: "2026-08-14T08:54:15.406Z"
+title: 'National Gallery Singapore: Civic District Travel Guide (4.6★)'
+description: >-
+  National Gallery Singapore, the twin restored former City Hall and Supreme
+  Court buildings in the Civic District, opens daily 10am–7pm. 4.6★ (17,143
+  reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Civic District
+category: attraction
+pubDate: '2026-08-14T08:54:15.406Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1920px-Interior_of_the_National_Gallery_Singapore.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interior_of_the_National_Gallery_Singapore.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1920px-Interior_of_the_National_Gallery_Singapore.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Interior_of_the_National_Gallery_Singapore.jpg
 gallery: []
 place:
-  id: "ChIJFQzeR6cZ2jERgM6--iWeY-U"
-  name: "National Gallery Singapore"
-  address: "Singapore 178957"
+  id: ChIJFQzeR6cZ2jERgM6--iWeY-U
+  name: National Gallery Singapore
+  address: Singapore 178957
   rating: 4.6
-  userRatingsTotal: 16956
-  googleMapsUrl: "https://maps.google.com/?cid=16529228943337639552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17143
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16529228943337639552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2902217
   lng: 103.85151669999999
-  phone: "+65 6271 7000"
+  phone: +65 6271 7000
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -43,24 +49,38 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_552d596557692d2d364d6752456a325a633652657a51464a496843"
+    venueId: ven_552d596557692d2d364d6752456a325a633652657a51464a496843
 tags:
-  - "civic district"
-  - "museum"
-quickAnswer: "National Gallery Singapore, the twin restored former City Hall and Supreme Court buildings in the Civic District, opens daily 10am–7pm. Go right at opening — the museum is quietest 10am–11am on both weekdays and weekends — and avoid the noon–6pm weekend crush. Budget two to three hours to see the highlights of its Southeast Asian art collection without rushing."
+  - civic district
+  - museum
+quickAnswer: >-
+  National Gallery Singapore, the twin restored former City Hall and Supreme
+  Court buildings in the Civic District, opens daily 10am–7pm. Go right at
+  opening — the museum is quietest 10am–11am on both weekdays and weekends — and
+  avoid the noon–6pm weekend crush. Budget two to three hours to see the
+  highlights of its Southeast Asian art collection without rushing.
 faq:
-  - q: "What are the opening hours?"
-    a: "10am to 7pm, every day of the week, with no variation by day."
-  - q: "When is the quietest time to visit?"
-    a: "Between 10am and 11am, on both weekdays and weekends — arrive right at opening for the shortest lines."
-  - q: "How do I get there by MRT?"
-    a: "Take City Hall MRT station (East-West Line or North-South Line) and use Exit B, which brings you out right by the entrance."
-  - q: "How long should I plan to spend inside?"
-    a: "Two to three hours is realistic given the two connected historic buildings and multiple floors of permanent collections."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "The Padang, Esplanade, and Merlion Park are all within a 10-15 minute walk, making a Civic District half-day easy to plan."
+  - q: What are the opening hours?
+    a: '10am to 7pm, every day of the week, with no variation by day.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 10am and 11am, on both weekdays and weekends — arrive right at
+      opening for the shortest lines.
+  - q: How do I get there by MRT?
+    a: >-
+      Take City Hall MRT station (East-West Line or North-South Line) and use
+      Exit B, which brings you out right by the entrance.
+  - q: How long should I plan to spend inside?
+    a: >-
+      Two to three hours is realistic given the two connected historic buildings
+      and multiple floors of permanent collections.
+  - q: What's nearby if I want to extend the visit?
+    a: >-
+      The Padang, Esplanade, and Merlion Park are all within a 10-15 minute
+      walk, making a Civic District half-day easy to plan.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

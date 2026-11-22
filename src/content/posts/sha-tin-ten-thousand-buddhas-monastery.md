@@ -1,27 +1,36 @@
 ---
 title: 'Ten Thousand Buddhas Monastery: Sha Tin Travel Guide (4.5★)'
-description: Ten Thousand Buddhas Monastery sits on a hillside above Sha Tin, reached by a steep 15–20 minute climb past hundreds of golden Buddha statues lining the path. 4.5★ (2,665 reviews) — what visitors say, hours, and tips.
+description: >-
+  Ten Thousand Buddhas Monastery sits on a hillside above Sha Tin, reached by a
+  steep 15–20 minute climb past hundreds of golden Buddha statues lining the
+  path. 4.5★ (2,694 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Sha Tin
 category: hidden-gem
 pubDate: '2026-08-12T17:31:59.909Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pagoda_view.jpg/1920px-Pagoda_view.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pagoda_view.jpg/1920px-Pagoda_view.jpg
   credit: 'Photo: Mitchan14 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Pagoda_view.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Pagoda_view.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ten_Thousand_Buddhas_Monastery_in_Sha_Tin%2C_Hong_Kong%3B_2009.jpg/1920px-Ten_Thousand_Buddhas_Monastery_in_Sha_Tin%2C_Hong_Kong%3B_2009.jpg
-    credit: 'Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ten_Thousand_Buddhas_Monastery_in_Sha_Tin%2C_Hong_Kong%3B_2009.jpg/1920px-Ten_Thousand_Buddhas_Monastery_in_Sha_Tin%2C_Hong_Kong%3B_2009.jpg
+    credit: >-
+      Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia
+      Commons (CC0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Ten_Thousand_Buddhas_Monastery_in_Sha_Tin,_Hong_Kong;_2009.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ten_Thousand_Buddhas_Monastery_in_Sha_Tin,_Hong_Kong;_2009.jpg
 place:
   id: ChIJVfMp1N8GBDQRFyObcS_orlE
   name: Ten Thousand Buddhas Monastery
-  address: 221, Sha Tin, Hong Kong
+  address: '221, Sha Tin, New Territories, Hong Kong'
   rating: 4.5
-  userRatingsTotal: 2665
-  googleMapsUrl: https://maps.google.com/?cid=5885897053486916375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2694
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5885897053486916375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.387609299999998
   lng: 114.1847775
@@ -51,20 +60,38 @@ place:
 tags:
   - sha tin
   - hidden gem
-quickAnswer: Ten Thousand Buddhas Monastery sits on a hillside above Sha Tin, reached by a steep 15–20 minute climb past hundreds of golden Buddha statues lining the path. It's open daily 9am–5pm; go on a weekday morning to have the staircase and pavilions largely to yourself. Budget about 1.5–2 hours round trip, and wear shoes with grip.
+quickAnswer: >-
+  Ten Thousand Buddhas Monastery sits on a hillside above Sha Tin, reached by a
+  steep 15–20 minute climb past hundreds of golden Buddha statues lining the
+  path. It's open daily 9am–5pm; go on a weekday morning to have the staircase
+  and pavilions largely to yourself. Budget about 1.5–2 hours round trip, and
+  wear shoes with grip.
 faq:
   - q: How long does the visit take?
-    a: Plan for about 1.5–2 hours total, including the 15–20 minute climb up, an hour exploring the halls and pagoda, and the walk back down.
+    a: >-
+      Plan for about 1.5–2 hours total, including the 15–20 minute climb up, an
+      hour exploring the halls and pagoda, and the walk back down.
   - q: What's the quietest time to visit?
-    a: Weekday mornings through afternoons (9am–5pm) are consistently calm. Weekends see steady crowds from 9am until around 4pm, so aim for a weekday if you can.
+    a: >-
+      Weekday mornings through afternoons (9am–5pm) are consistently calm.
+      Weekends see steady crowds from 9am until around 4pm, so aim for a weekday
+      if you can.
   - q: How do I get there by public transport?
-    a: Take the MTR East Rail Line to Sha Tin Station, exit via Exit B, then follow signposted paths through Pai Tau Village to the base of the staircase, about a 10-minute walk.
+    a: >-
+      Take the MTR East Rail Line to Sha Tin Station, exit via Exit B, then
+      follow signposted paths through Pai Tau Village to the base of the
+      staircase, about a 10-minute walk.
   - q: Is there an entrance fee?
-    a: Historically entry has been free or donation-based, but policies can change — check current signage or official sources before you go.
+    a: >-
+      Historically entry has been free or donation-based, but policies can
+      change — check current signage or official sources before you go.
   - q: Is the climb difficult?
-    a: The staircase is steep and uneven with no shortcut, so wear shoes with good grip and bring water, especially in warmer months.
+    a: >-
+      The staircase is steep and uneven with no shortcut, so wear shoes with
+      good grip and bring water, especially in warmer months.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

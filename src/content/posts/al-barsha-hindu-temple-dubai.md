@@ -2,7 +2,7 @@
 title: 'Hindu Temple, Dubai: Travel Guide (4.8★)'
 description: >-
   This is Dubai's newer Hindu temple complex in Jebel Ali, open daily
-  6am–8:30pm, and it draws steady crowds all day on weekends. 4.8★ (6,449
+  6am–8:30pm, and it draws steady crowds all day on weekends. 4.8★ (6,707
   reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
 region: Dubai
@@ -20,7 +20,7 @@ place:
   name: 'Hindu Temple, Dubai'
   address: Jabal Ali First - Dubai - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 6449
+  userRatingsTotal: 6707
   googleMapsUrl: >-
     https://maps.google.com/?cid=16858377202730431061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -91,7 +91,7 @@ faq:
       rituals draw larger crowds.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

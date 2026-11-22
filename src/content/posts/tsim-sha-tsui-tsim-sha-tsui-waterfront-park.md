@@ -1,27 +1,36 @@
 ---
 title: 'Tsim Sha Tsui Waterfront Park: Travel Guide (4.4★)'
-description: Tsim Sha Tsui Waterfront Park is the promenade stretch along Victoria Harbour where you get the postcard view of Hong Kong Island's skyline, especially at dusk when the Symphony of Lights kicks in around 8pm. 4.4★ (2,121 reviews) — what visitors say, hours, and tips.
+description: >-
+  Tsim Sha Tsui Waterfront Park is the promenade stretch along Victoria Harbour
+  where you get the postcard view of Hong Kong Island's skyline, especially at
+  dusk when the Symphony of Lights kicks in around 8pm. 4.4★ (2,150 reviews) —
+  what visitors say, hours, and tips.
 country: Hong Kong
 region: Tsim Sha Tsui
 category: attraction
 pubDate: '2026-08-12T17:10:28.984Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tsim_Sha_Tsui_East_Waterfront_Podium_Garden_2024.jpg/3840px-Tsim_Sha_Tsui_East_Waterfront_Podium_Garden_2024.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tsim_Sha_Tsui_East_Waterfront_Podium_Garden_2024.jpg/3840px-Tsim_Sha_Tsui_East_Waterfront_Podium_Garden_2024.jpg
   credit: 'Photo: Tombus20032000 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_East_Waterfront_Podium_Garden_2024.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_East_Waterfront_Podium_Garden_2024.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tsim_Sha_Tsui_East_Waterfront_Podium_Garden.jpg/1280px-Tsim_Sha_Tsui_East_Waterfront_Podium_Garden.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tsim_Sha_Tsui_East_Waterfront_Podium_Garden.jpg/1280px-Tsim_Sha_Tsui_East_Waterfront_Podium_Garden.jpg
     credit: 'Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_East_Waterfront_Podium_Garden.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_East_Waterfront_Podium_Garden.jpg
 place:
   id: ChIJHS523e8ABDQRvlr7Lu9bYjE
   name: Tsim Sha Tsui Waterfront Park
-  address: Tsim Sha Tsui East, Hong Kong
+  address: 'Tsim Sha Tsui East, Kowloon, Hong Kong'
   rating: 4.4
-  userRatingsTotal: 2121
-  googleMapsUrl: https://maps.google.com/?cid=3558507738419649214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2150
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3558507738419649214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.297015599999998
   lng: 114.17805969999999
@@ -60,20 +69,38 @@ place:
 tags:
   - tsim sha tsui
   - top attraction
-quickAnswer: Tsim Sha Tsui Waterfront Park is the promenade stretch along Victoria Harbour where you get the postcard view of Hong Kong Island's skyline, especially at dusk when the Symphony of Lights kicks in around 8pm. It's open 24 hours and free. Go early — 7am to 9am on weekdays, 7am to 10am on weekends — to have the railing to yourself; avoid 4pm to 11pm on weekends when it's packed.
+quickAnswer: >-
+  Tsim Sha Tsui Waterfront Park is the promenade stretch along Victoria Harbour
+  where you get the postcard view of Hong Kong Island's skyline, especially at
+  dusk when the Symphony of Lights kicks in around 8pm. It's open 24 hours and
+  free. Go early — 7am to 9am on weekdays, 7am to 10am on weekends — to have the
+  railing to yourself; avoid 4pm to 11pm on weekends when it's packed.
 faq:
   - q: Is Tsim Sha Tsui Waterfront Park free to visit?
-    a: Yes, it's a public park with no entry fee, open 24 hours every day.
+    a: 'Yes, it''s a public park with no entry fee, open 24 hours every day.'
   - q: When is the quietest time to visit?
-    a: Weekdays 7am–9am and weekends 7am–10am are the calmest windows. Avoid weekends from 4pm to 11pm, when crowds peak for sunset and the evening light show.
+    a: >-
+      Weekdays 7am–9am and weekends 7am–10am are the calmest windows. Avoid
+      weekends from 4pm to 11pm, when crowds peak for sunset and the evening
+      light show.
   - q: How do I get there by MTR?
-    a: Take the East Rail Line to Tsim Sha Tsui Station and use Exit J, then follow signs toward the harbour. It's a short walk through an underpass to the promenade.
+    a: >-
+      Take the East Rail Line to Tsim Sha Tsui Station and use Exit J, then
+      follow signs toward the harbour. It's a short walk through an underpass to
+      the promenade.
   - q: How long should I spend here?
-    a: 30–45 minutes is enough for the view and a walk along the promenade; budget closer to 1.5–2 hours if you want to time it around sunset and the 8pm Symphony of Lights.
+    a: >-
+      30–45 minutes is enough for the view and a walk along the promenade;
+      budget closer to 1.5–2 hours if you want to time it around sunset and the
+      8pm Symphony of Lights.
   - q: What's nearby worth combining with this visit?
-    a: The Avenue of Stars is a short walk west along the same promenade, and the Star Ferry Pier and K11 Musea shopping complex are both within easy walking distance.
+    a: >-
+      The Avenue of Stars is a short walk west along the same promenade, and the
+      Star Ferry Pier and K11 Musea shopping complex are both within easy
+      walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

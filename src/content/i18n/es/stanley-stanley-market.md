@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: stanley-stanley-market
-srcHash: '8972d7c75536'
+srcHash: '615d1e3e45e2'
 title: 'Mercado de Stanley: Guía de Viaje (4,0★)'
-description: 'El mercado de Stanley es un laberinto de callejones estrechos y techados en el sur de la isla de Hong Kong, repleto de puestos que venden ropa, seda, souvenirs y imitaciones de marcas de diseñador. 4,0★ (8.698 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado de Stanley es un laberinto de callejones estrechos y techados en el sur de la isla de Hong Kong, repleto de puestos que venden ropa, seda, souvenirs y imitaciones de marcas de diseñador. 4,0★ (8.795 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Stanley es un laberinto de callejones estrechos y techados en el sur de la isla de Hong Kong, repleto de puestos que venden ropa, seda, souvenirs y imitaciones de marcas de diseñador. Tanto entre semana como los fines de semana, el tramo más tranquilo va de las 10:00 a las 19:00; basta con evitar la aglomeración del fin de semana entre las 12:00 y las 17:00. Dedícale una hora o dos y luego baja paseando hasta el paseo marítimo de Stanley, que es donde realmente vale la pena.
 faq:
   - q: ¿Cómo se llega al mercado de Stanley desde Central?

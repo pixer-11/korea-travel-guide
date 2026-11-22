@@ -1,40 +1,48 @@
 ---
-title: "Stanley Promenade: Travel Guide (4.3★)"
-description: "Stanley Promenade is a tree-shaded waterfront boardwalk in Stanley, on Hong Kong's southern coast, lined with al fresco cafés, benches, and views across Stanley Bay to the old police station and Murray House. 4.3★ (746 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Stanley"
-category: "attraction"
-pubDate: "2026-08-12T17:17:28.572Z"
+title: 'Stanley Promenade: Travel Guide (4.3★)'
+description: >-
+  Stanley Promenade is a tree-shaded waterfront boardwalk in Stanley, on Hong
+  Kong's southern coast, lined with al fresco cafés, benches, and views across
+  Stanley Bay to the old police station and Murray House. 4.3★ (749 reviews) —
+  what visitors say, hours, and tips.
+country: Hong Kong
+region: Stanley
+category: attraction
+pubDate: '2026-08-12T17:17:28.572Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Stanley_Promenade_%E8%B5%A4%E6%9F%B1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A_-_panoramio.jpg/3840px-Stanley_Promenade_%E8%B5%A4%E6%9F%B1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A_-_panoramio.jpg"
-  credit: "Photo: Bohao Zhao / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Stanley_Promenade_%E8%B5%A4%E6%9F%B1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Stanley_Promenade_%E8%B5%A4%E6%9F%B1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A_-_panoramio.jpg/3840px-Stanley_Promenade_%E8%B5%A4%E6%9F%B1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A_-_panoramio.jpg
+  credit: 'Photo: Bohao Zhao / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Stanley_Promenade_%E8%B5%A4%E6%9F%B1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A_-_panoramio.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/East_of_Stanley_Promenade.jpg/3840px-East_of_Stanley_Promenade.jpg"
-    credit: "Photo: Prosperity Horizons / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:East_of_Stanley_Promenade.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/East_of_Stanley_Promenade.jpg/3840px-East_of_Stanley_Promenade.jpg
+    credit: 'Photo: Prosperity Horizons / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:East_of_Stanley_Promenade.jpg'
 place:
-  id: "ChIJOep7kGuqBjQRwNwHvCelto8"
-  name: "Stanley Promenade"
-  address: "13 Stanley Main St, Stanley, Hong Kong"
+  id: ChIJOep7kGuqBjQRwNwHvCelto8
+  name: Stanley Promenade
+  address: '13 Stanley Main St, Stanley, Hong Kong Island, Hong Kong'
   rating: 4.3
-  userRatingsTotal: 746
-  googleMapsUrl: "https://maps.google.com/?cid=10355645983261973696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 749
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10355645983261973696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2183857
   lng: 114.2114716
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 19
       - 20
@@ -49,24 +57,46 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_386f746c65437648774e7752516a427175476b3770654f4a496843"
+    venueId: ven_386f746c65437648774e7752516a427175476b3770654f4a496843
 tags:
-  - "stanley"
-  - "top attraction"
-quickAnswer: "Stanley Promenade is a tree-shaded waterfront boardwalk in Stanley, on Hong Kong's southern coast, lined with al fresco cafés, benches, and views across Stanley Bay to the old police station and Murray House. It's open 24 hours and never feels overrun — weekends are calmest from 7am to 8am and 3pm to 5pm, before evening crowds build. Give it 45 minutes to an hour, ideally paired with Stanley Market and Murray House just steps away."
+  - stanley
+  - top attraction
+quickAnswer: >-
+  Stanley Promenade is a tree-shaded waterfront boardwalk in Stanley, on Hong
+  Kong's southern coast, lined with al fresco cafés, benches, and views across
+  Stanley Bay to the old police station and Murray House. It's open 24 hours and
+  never feels overrun — weekends are calmest from 7am to 8am and 3pm to 5pm,
+  before evening crowds build. Give it 45 minutes to an hour, ideally paired
+  with Stanley Market and Murray House just steps away.
 faq:
-  - q: "How do I get to Stanley Promenade from Central Hong Kong?"
-    a: "Take bus 6, 6X, or 260 from Central's Exchange Square bus terminus; the ride takes 30–40 minutes depending on traffic. Get off at the Stanley terminus and walk downhill about five minutes to the waterfront."
-  - q: "Is there an entrance fee?"
-    a: "No, Stanley Promenade is a free public waterfront walkway, open 24 hours every day. There's no ticket or booking required."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends it's calmest between 7am and 8am and between 3pm and 5pm. After that, crowds build steadily and the busiest stretch runs from 6pm to 11pm as day-trippers and evening diners arrive, with another busy hour from 8am to 9am."
-  - q: "How long should I spend at the promenade?"
-    a: "Plan for 45 minutes to an hour to walk the full stretch and sit at a café, plus extra time if you're continuing into Stanley Market or Murray House nearby."
-  - q: "What else is near the promenade worth combining with a visit?"
-    a: "Murray House, Stanley Market, Stanley Beach, and Tin Hau Temple are all within a five-to-ten-minute walk, making Stanley an easy half-day trip from Central or Causeway Bay."
+  - q: How do I get to Stanley Promenade from Central Hong Kong?
+    a: >-
+      Take bus 6, 6X, or 260 from Central's Exchange Square bus terminus; the
+      ride takes 30–40 minutes depending on traffic. Get off at the Stanley
+      terminus and walk downhill about five minutes to the waterfront.
+  - q: Is there an entrance fee?
+    a: >-
+      No, Stanley Promenade is a free public waterfront walkway, open 24 hours
+      every day. There's no ticket or booking required.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends it's calmest between 7am and 8am and between 3pm and 5pm.
+      After that, crowds build steadily and the busiest stretch runs from 6pm to
+      11pm as day-trippers and evening diners arrive, with another busy hour
+      from 8am to 9am.
+  - q: How long should I spend at the promenade?
+    a: >-
+      Plan for 45 minutes to an hour to walk the full stretch and sit at a café,
+      plus extra time if you're continuing into Stanley Market or Murray House
+      nearby.
+  - q: What else is near the promenade worth combining with a visit?
+    a: >-
+      Murray House, Stanley Market, Stanley Beach, and Tin Hau Temple are all
+      within a five-to-ten-minute walk, making Stanley an easy half-day trip
+      from Central or Causeway Bay.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 ## Why go
 

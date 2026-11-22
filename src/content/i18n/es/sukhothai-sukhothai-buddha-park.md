@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sukhothai-sukhothai-buddha-park
-srcHash: '6833d9c5398e'
+srcHash: '5f0e6f9fec57'
 title: 'Parque de Buda de Sukhothai: guía de viaje (4.5★)'
-description: 'En Soi Si Sukho, el Parque de Buda de Sukhothai es un recinto tranquilo y algo invadido por la vegetación donde se reúnen estatuas de Buda; abre todos los días de 6:00 a 18:00 y suele combinarse con un paseo en bicicleta por el cercano Parque Histórico de Sukhothai. 4.5★ (165 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'En Soi Si Sukho, el Parque de Buda de Sukhothai es un recinto tranquilo y algo invadido por la vegetación donde se reúnen estatuas de Buda; abre todos los días de 6:00 a 18:00 y suele combinarse con un paseo en bicicleta por el cercano Parque Histórico de Sukhothai. 4.5★ (167 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: En Soi Si Sukho, el Parque de Buda de Sukhothai es un recinto tranquilo y algo invadido por la vegetación donde se reúnen estatuas de Buda; abre todos los días de 6:00 a 18:00 y la mayoría de los visitantes lo combina con un paseo en bicicleta por el cercano Parque Histórico de Sukhothai. Para encontrarlo casi vacío, conviene ir un día de semana entre las 11:00 y las 15:00, o el fin de semana después de las 14:00, ya que las mañanas del sábado y el domingo antes del mediodía son las de más afluencia. Basta con calcular entre 45 minutos y una hora para la visita, y conviene llevar agua, porque hay poca sombra.
 faq:
   - q: ¿Cómo se llega al Parque de Buda de Sukhothai?

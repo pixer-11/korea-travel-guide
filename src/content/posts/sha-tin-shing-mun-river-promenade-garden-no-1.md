@@ -1,41 +1,49 @@
 ---
-title: "Shing Mun River Promenade Garden No. 1: Sha Tin Travel Guide"
-description: "Shing Mun River Promenade Garden No. 1 is a stretch of riverside park on Tai Chung Kiu Road in Sha Tin, open around the clock, with no entry fee. 4.1★ (192 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sha Tin"
-category: "attraction"
-pubDate: "2026-08-12T17:23:11.994Z"
+title: 'Shing Mun River Promenade Garden No. 1: Sha Tin Travel Guide'
+description: >-
+  Shing Mun River Promenade Garden No. 1 is a stretch of riverside park on Tai
+  Chung Kiu Road in Sha Tin, open around the clock, with no entry fee. 4.1★ (194
+  reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Sha Tin
+category: attraction
+pubDate: '2026-08-12T17:23:11.994Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Shing_Mun_River_Promenade_Garden_No._1_2023.jpg/3840px-Shing_Mun_River_Promenade_Garden_No._1_2023.jpg"
-  credit: "Photo: Tombus20032000 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shing_Mun_River_Promenade_Garden_No._1_2023.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Shing_Mun_River_Promenade_Garden_No._1_2023.jpg/3840px-Shing_Mun_River_Promenade_Garden_No._1_2023.jpg
+  credit: 'Photo: Tombus20032000 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Shing_Mun_River_Promenade_Garden_No._1_2023.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shing_Mun_River_near_Sha_Tin_Park_towards_South.jpg/3840px-Shing_Mun_River_near_Sha_Tin_Park_towards_South.jpg"
-    credit: "Photo: Ceeseven / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Shing_Mun_River_near_Sha_Tin_Park_towards_South.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shing_Mun_River_near_Sha_Tin_Park_towards_South.jpg/3840px-Shing_Mun_River_near_Sha_Tin_Park_towards_South.jpg
+    credit: 'Photo: Ceeseven / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Shing_Mun_River_near_Sha_Tin_Park_towards_South.jpg
 place:
-  id: "ChIJ5R1vQasHBDQR9GB7i2s5ID8"
-  name: "Shing Mun River Promenade Garden No. 1"
-  address: "17 Tai Chung Kiu Rd, Sha Tin, Hong Kong"
+  id: ChIJ5R1vQasHBDQR9GB7i2s5ID8
+  name: Shing Mun River Promenade Garden No. 1
+  address: '17 Tai Chung Kiu Rd, Sha Tin, New Territories, Hong Kong'
   rating: 4.1
-  userRatingsTotal: 192
-  googleMapsUrl: "https://maps.google.com/?cid=4548698757708603636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 194
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4548698757708603636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3770018
   lng: 114.18995939999999
-  phone: "+852 2634 0111"
+  phone: +852 2634 0111
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 8
       - 9
@@ -58,24 +66,42 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_38444935733269374247395251444248736151763152354a496843"
+    venueId: ven_38444935733269374247395251444248736151763152354a496843
 tags:
-  - "sha tin"
-  - "top attraction"
-quickAnswer: "Shing Mun River Promenade Garden No. 1 is a stretch of riverside park on Tai Chung Kiu Road in Sha Tin, open around the clock, with no entry fee. It's best used as a leg-stretch between Sha Tin's malls and the river cycle track rather than a headline destination — allow 20-40 minutes. Weekends between 9am and 9pm draw the most joggers, cyclists and families, so early morning or after dark is calmer."
+  - sha tin
+  - top attraction
+quickAnswer: >-
+  Shing Mun River Promenade Garden No. 1 is a stretch of riverside park on Tai
+  Chung Kiu Road in Sha Tin, open around the clock, with no entry fee. It's best
+  used as a leg-stretch between Sha Tin's malls and the river cycle track rather
+  than a headline destination — allow 20-40 minutes. Weekends between 9am and
+  9pm draw the most joggers, cyclists and families, so early morning or after
+  dark is calmer.
 faq:
-  - q: "How do I get to Shing Mun River Promenade Garden No. 1?"
-    a: "Walk about 8-10 minutes east from Sha Tin MTR station along Tai Chung Kiu Road, or access it directly from the riverside cycle track that runs through Sha Tin."
-  - q: "Is there an entry fee?"
-    a: "No. It's a free public park and promenade, open 24 hours every day."
-  - q: "When is it least crowded?"
-    a: "Weekends from 9am to 9pm are the busiest, with joggers, cyclists and families out along the river. Weekday mornings and evenings after dark are noticeably quieter."
-  - q: "How long should I plan to spend here?"
-    a: "Around 20-40 minutes is typical — enough for a riverside walk, a sit on a bench, or a short stretch of the cycle track."
-  - q: "What else is nearby?"
-    a: "New Town Plaza shopping mall is a short walk back toward Sha Tin station, and the promenade connects to the wider Sha Tin river cycle track for a longer ride."
+  - q: How do I get to Shing Mun River Promenade Garden No. 1?
+    a: >-
+      Walk about 8-10 minutes east from Sha Tin MTR station along Tai Chung Kiu
+      Road, or access it directly from the riverside cycle track that runs
+      through Sha Tin.
+  - q: Is there an entry fee?
+    a: 'No. It''s a free public park and promenade, open 24 hours every day.'
+  - q: When is it least crowded?
+    a: >-
+      Weekends from 9am to 9pm are the busiest, with joggers, cyclists and
+      families out along the river. Weekday mornings and evenings after dark are
+      noticeably quieter.
+  - q: How long should I plan to spend here?
+    a: >-
+      Around 20-40 minutes is typical — enough for a riverside walk, a sit on a
+      bench, or a short stretch of the cycle track.
+  - q: What else is nearby?
+    a: >-
+      New Town Plaza shopping mall is a short walk back toward Sha Tin station,
+      and the promenade connects to the wider Sha Tin river cycle track for a
+      longer ride.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 ## Why go
 

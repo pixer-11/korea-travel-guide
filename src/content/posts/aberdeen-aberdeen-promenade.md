@@ -1,27 +1,33 @@
 ---
-title: "Aberdeen Promenade: Travel Guide (4.0★)"
-description: "Aberdeen Promenade is a tree-lined boardwalk along Aberdeen Praya Road on Hong Kong Island's south side, good for an easy hour watching the floating fishing village and harbour traffic. 4.0★ (2,765 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Aberdeen"
-category: "hidden-gem"
-pubDate: "2026-08-12T17:30:15.339Z"
+title: 'Aberdeen Promenade: Travel Guide (4.0★)'
+description: >-
+  Aberdeen Promenade is a tree-lined boardwalk along Aberdeen Praya Road on Hong
+  Kong Island's south side, good for an easy hour watching the floating fishing
+  village and harbour traffic. 4.0★ (2,770 reviews) — what visitors say, hours,
+  and tips.
+country: Hong Kong
+region: Aberdeen
+category: hidden-gem
+pubDate: '2026-08-12T17:30:15.339Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Aberdeen_Promenade_201508.jpg/1920px-Aberdeen_Promenade_201508.jpg"
-  credit: "Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aberdeen_Promenade_201508.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Aberdeen_Promenade_201508.jpg/1920px-Aberdeen_Promenade_201508.jpg
+  credit: 'Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Aberdeen_Promenade_201508.jpg'
 gallery: []
 place:
-  id: "ChIJv81dAgMABDQRIMc9D2xaK3s"
-  name: "Aberdeen Promenade"
-  address: "Aberdeen Praya Rd, Aberdeen, Hong Kong"
+  id: ChIJv81dAgMABDQRIMc9D2xaK3s
+  name: Aberdeen Promenade
+  address: 'Aberdeen Praya Rd, Aberdeen, Hong Kong Island, Hong Kong'
   rating: 4
-  userRatingsTotal: 2765
-  googleMapsUrl: "https://maps.google.com/?cid=8875286910822369056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2770
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8875286910822369056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.247002
   lng: 114.1551459
-  phone: '+852 2555 0103'
+  phone: +852 2555 0103
   openingHours:
     - 'Monday: 7:00 AM – 11:00 PM'
     - 'Tuesday: 7:00 AM – 11:00 PM'
@@ -31,22 +37,39 @@ place:
     - 'Saturday: 7:00 AM – 11:00 PM'
     - 'Sunday: 7:00 AM – 11:00 PM'
 tags:
-  - "aberdeen"
-  - "hidden gem"
-quickAnswer: "Aberdeen Promenade is a tree-lined boardwalk along Aberdeen Praya Road on Hong Kong Island's south side, good for an easy hour watching the floating fishing village and harbour traffic. It's calmest in the early morning before the heat sets in, or right at sunset when the sampans head back in. No ticket, no set hours — it's an open waterfront park, so just walk down and see what's happening on the water."
+  - aberdeen
+  - hidden gem
+quickAnswer: >-
+  Aberdeen Promenade is a tree-lined boardwalk along Aberdeen Praya Road on Hong
+  Kong Island's south side, good for an easy hour watching the floating fishing
+  village and harbour traffic. It's calmest in the early morning before the heat
+  sets in, or right at sunset when the sampans head back in. No ticket, no set
+  hours — it's an open waterfront park, so just walk down and see what's
+  happening on the water.
 faq:
-  - q: "How long should I spend at Aberdeen Promenade?"
-    a: "About an hour is enough for the walk itself; add more time if you take a sampan ride or continue to Ap Lei Chau or Ocean Park."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a free public waterfront park with no gate or set hours — just walk in anytime."
-  - q: "What's the best time to avoid crowds and heat?"
-    a: "Early morning before 9am or late afternoon near sunset; midday gets hot with little shade, especially in summer."
-  - q: "How do I get to Aberdeen Promenade from Central?"
-    a: "Take a direct bus from Exchange Square (about 20-30 minutes) or a taxi (15-20 minutes); there's no MTR station right in Aberdeen."
-  - q: "Can I take a boat ride while I'm there?"
-    a: "Yes, sampans ferry passengers across the harbour to Ap Lei Chau for a small cash fare, a good way to see the fishing boats up close."
+  - q: How long should I spend at Aberdeen Promenade?
+    a: >-
+      About an hour is enough for the walk itself; add more time if you take a
+      sampan ride or continue to Ap Lei Chau or Ocean Park.
+  - q: Is there an entrance fee?
+    a: >-
+      No, it's a free public waterfront park with no gate or set hours — just
+      walk in anytime.
+  - q: What's the best time to avoid crowds and heat?
+    a: >-
+      Early morning before 9am or late afternoon near sunset; midday gets hot
+      with little shade, especially in summer.
+  - q: How do I get to Aberdeen Promenade from Central?
+    a: >-
+      Take a direct bus from Exchange Square (about 20-30 minutes) or a taxi
+      (15-20 minutes); there's no MTR station right in Aberdeen.
+  - q: Can I take a boat ride while I'm there?
+    a: >-
+      Yes, sampans ferry passengers across the harbour to Ap Lei Chau for a
+      small cash fare, a good way to see the fishing boats up close.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

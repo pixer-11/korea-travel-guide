@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sheung-wan-graham-street-market
-srcHash: 'cce2450f558b'
+srcHash: 'd30407b436ac'
 title: 'Mercado de Graham Street: guía de Central (4,2★)'
-description: 'El mercado de Graham Street es un mercado callejero en pleno funcionamiento que se extiende por Graham Street y Gage Street, en Sheung Wan/Central, abierto todos los días de 8:00 a 18:00. 4,2★ (124 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado de Graham Street es un mercado callejero en pleno funcionamiento que se extiende por Graham Street y Gage Street, en Sheung Wan/Central, abierto todos los días de 8:00 a 18:00. 4,2★ (128 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Graham Street es un mercado callejero en pleno funcionamiento que se extiende por Graham Street y Gage Street, en Sheung Wan/Central, abierto todos los días de 8:00 a 18:00. Vale la pena ir por los puestos de fruta y verdura, los carniceros de mercado húmedo y las tiendas de productos secos, más que por una lista de atracciones que marcar. Los fines de semana están más tranquilos de 13:00 a 14:00 y de 15:00 a 18:00, mientras que de 8:00 a 13:00 se concentra la mayor afluencia. Calcule entre 30 y 45 minutos, y aprovéchelo para pasear después por la cercana Tai Ping Shan Street.
 faq:
   - q: ¿Cómo se llega al mercado de Graham Street?

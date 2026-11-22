@@ -1,37 +1,43 @@
 ---
-title: "The Temple of Artemis: Selcuk Travel Guide (4.2★)"
-description: "The Temple of Artemis site in Selçuk is a free, open-air field with a single reconstructed column standing where one of the Seven Wonders of the Ancient World once stood. 4.2★ (6,299 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Selcuk"
-category: "attraction"
-pubDate: "2026-08-12T09:35:52.888Z"
+title: 'The Temple of Artemis: Selcuk Travel Guide (4.2★)'
+description: >-
+  The Temple of Artemis site in Selçuk is a free, open-air field with a single
+  reconstructed column standing where one of the Seven Wonders of the Ancient
+  World once stood. 4.2★ (6,633 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Selcuk
+category: attraction
+pubDate: '2026-08-12T09:35:52.888Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg/3840px-TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg"
-  credit: "Photo: Roy Egloff / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg/3840px-TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg
+  credit: 'Photo: Roy Egloff / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg
 gallery: []
 place:
-  id: "ChIJgXKl_FZNuRQRJEV_YFnjpvo"
-  name: "The Temple of Artemis"
-  address: "Atatürk, Park İçi Yolu No:12, 35920 Selçuk/İzmir, Türkiye"
+  id: ChIJgXKl_FZNuRQRJEV_YFnjpvo
+  name: The Temple of Artemis
+  address: 'Atatürk, Park İçi Yolu No:12, 35920 Selçuk/İzmir, Türkiye'
   rating: 4.2
-  userRatingsTotal: 6299
-  googleMapsUrl: "https://maps.google.com/?cid=18061373328626500900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6633
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18061373328626500900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.9495785
   lng: 27.363912499999998
-  phone: "+90 232 892 60 10"
+  phone: +90 232 892 60 10
   openingHours:
-    - "Monday: 8:00 AM – 7:00 PM"
-    - "Tuesday: 8:00 AM – 7:00 PM"
-    - "Wednesday: 8:00 AM – 7:00 PM"
-    - "Thursday: 8:00 AM – 7:00 PM"
-    - "Friday: 8:00 AM – 7:00 PM"
-    - "Saturday: 8:00 AM – 7:00 PM"
-    - "Sunday: 8:00 AM – 7:00 PM"
+    - 'Monday: 8:00 AM – 7:00 PM'
+    - 'Tuesday: 8:00 AM – 7:00 PM'
+    - 'Wednesday: 8:00 AM – 7:00 PM'
+    - 'Thursday: 8:00 AM – 7:00 PM'
+    - 'Friday: 8:00 AM – 7:00 PM'
+    - 'Saturday: 8:00 AM – 7:00 PM'
+    - 'Sunday: 8:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -51,24 +57,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6f76706a6e46595f56454a525152754e5a465f6c4b58674a496843"
+    venueId: ven_6f76706a6e46595f56454a525152754e5a465f6c4b58674a496843
 tags:
-  - "selcuk"
-  - "top attraction"
-quickAnswer: "The Temple of Artemis site in Selçuk is a free, open-air field with a single reconstructed column standing where one of the Seven Wonders of the Ancient World once stood. It's open daily 8am–7pm, and the calmest visit is any weekday morning, well before the 2pm–6pm weekend crush. Budget 20–30 minutes — this is a quick, humbling stop, not a half-day ruin."
+  - selcuk
+  - top attraction
+quickAnswer: >-
+  The Temple of Artemis site in Selçuk is a free, open-air field with a single
+  reconstructed column standing where one of the Seven Wonders of the Ancient
+  World once stood. It's open daily 8am–7pm, and the calmest visit is any
+  weekday morning, well before the 2pm–6pm weekend crush. Budget 20–30 minutes —
+  this is a quick, humbling stop, not a half-day ruin.
 faq:
-  - q: "Is there an entrance fee for the Temple of Artemis in Selçuk?"
-    a: "No, the site is free and open-air with no ticket booth — you can walk in anytime during opening hours."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 20–30 minutes, since only one reconstructed column and scattered fragments remain."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm 8am–10am and 6pm–7pm, and weekends stay quiet too from 8am–11am and 6pm–7pm, but are busy between 2pm and 6pm, when tour groups peak."
-  - q: "How do I get there from central Selçuk or Ephesus?"
-    a: "It's about a 20-minute walk from central Selçuk's train station, or roughly 3km (a short taxi/dolmuş ride) from the Ephesus archaeological site."
-  - q: "What else can I see nearby?"
-    a: "The Basilica of St. John and Ayasuluk Hill are both within easy walking distance and pair well with the Temple in one visit."
+  - q: Is there an entrance fee for the Temple of Artemis in Selçuk?
+    a: >-
+      No, the site is free and open-air with no ticket booth — you can walk in
+      anytime during opening hours.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 20–30 minutes, since only one reconstructed column and
+      scattered fragments remain.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calm 8am–10am and 6pm–7pm, and weekends stay quiet too from
+      8am–11am and 6pm–7pm, but are busy between 2pm and 6pm, when tour groups
+      peak.
+  - q: How do I get there from central Selçuk or Ephesus?
+    a: >-
+      It's about a 20-minute walk from central Selçuk's train station, or
+      roughly 3km (a short taxi/dolmuş ride) from the Ephesus archaeological
+      site.
+  - q: What else can I see nearby?
+    a: >-
+      The Basilica of St. John and Ayasuluk Hill are both within easy walking
+      distance and pair well with the Temple in one visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 You come around a bend on Park İçi Yolu, past a row of tea gardens and a stork's nest balanced on a pole, and there it is: a marsh-fringed field with one lonely column rising out of the grass. That's the Temple of Artemis. Or what's left of it.

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: segovia-segovia-aqueduct
-srcHash: 'fccc12f8a56c'
+srcHash: '65d1944376a0'
 title: 'Acueducto de Segovia: Guía de viaje (4.9★)'
-description: 'El Acueducto de Segovia se alza justo en la Plaza del Azoguejo, el corazón natural de la ciudad, y es gratuito y de acceso libre las 24 horas. 4.9★ (119.047 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Acueducto de Segovia se alza justo en la Plaza del Azoguejo, el corazón natural de la ciudad, y es gratuito y de acceso libre las 24 horas. 4.9★ (121.571 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Acueducto de Segovia se alza justo en la Plaza del Azoguejo, el corazón natural de la ciudad, y es gratuito y de acceso libre las 24 horas. Ve al amanecer o justo después para ver cómo los bloques de granito brillan en tonos dorados casi sin nadie alrededor. Es un lugar muy visitado, así que si vas al mediodía, espera encontrar aglomeraciones: calcula entre 20 y 30 minutos para verlo, más si subes a disfrutar de las vistas.'
 faq:
   - q: ¿Es gratis visitar el Acueducto de Segovia?

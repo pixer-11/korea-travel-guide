@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: taroko-gorge-silks-place-taroko
-srcHash: '38cc625d6439'
-title: 'Silks Place Taroko: Guía de viaje del Cañón de Taroko (4.7★)'
-description: Silks Place Taroko es el único hotel de servicio completo dentro del Parque Nacional de Taroko, ubicado en Tianxiang, en lo profundo del cañón junto a la Carretera Transversal Central. 4.7★ (9,318 reseñas) — lo que dicen los visitantes, horarios y consejos.
+srcHash: 'a3712a4cb907'
+title: 'Silks Place Taroko: Guía de viaje del Cañón de Taroko (4.8★)'
+description: Silks Place Taroko es el único hotel de servicio completo dentro del Parque Nacional de Taroko, ubicado en Tianxiang, en lo profundo del cañón junto a la Carretera Transversal Central. 4.8★ (9,847 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Silks Place Taroko es el único hotel de servicio completo dentro del Parque Nacional de Taroko, ubicado en Tianxiang, en lo profundo del cañón junto a la Carretera Transversal Central. Es muy visitado y tiene una calificación alta (4.7 estrellas con más de 9,000 reseñas) por su piscina en la azotea, su spa y sus vistas al cañón de mármol. Reserva con bastante anticipación, especialmente para fines de semana y festivos taiwaneses, ya que las habitaciones son limitadas y la demanda es alta.
 faq:
   - q: ¿Cómo llego a Silks Place Taroko sin auto?

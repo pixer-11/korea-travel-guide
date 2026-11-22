@@ -1,62 +1,89 @@
 ---
-title: "Kam's Roast Goose: Where to Eat in Wan Chai (4.1★)"
-description: "Kam's Roast Goose on Hennessy Road is the Wan Chai address for Michelin-honored roast goose — the skin blistered and mahogany-dark, the meat still juicy underneath. 4.1★ (6,260 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Wan Chai"
-category: "restaurant"
-pubDate: "2026-08-14T09:34:23.793Z"
+title: 'Kam''s Roast Goose: Where to Eat in Wan Chai (4.1★)'
+description: >-
+  Kam's Roast Goose on Hennessy Road is the Wan Chai address for
+  Michelin-honored roast goose — the skin blistered and mahogany-dark, the meat
+  still juicy underneath. 4.1★ (6,459 reviews) — what visitors say, hours, and
+  tips.
+country: Hong Kong
+region: Wan Chai
+category: restaurant
+pubDate: '2026-08-14T09:34:23.793Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg/3840px-Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg/3840px-Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg
 gallery: []
 place:
-  id: "ChIJe8ujoVsABDQRBTU75bVWQ5U"
-  name: "Kam's Roast Goose"
-  address: "226號 Hennessy Rd, Wan Chai, Hong Kong"
+  id: ChIJe8ujoVsABDQRBTU75bVWQ5U
+  name: Kam's Roast Goose
+  address: '226號 Hennessy Rd, Wan Chai, Hong Kong Island, Hong Kong'
   rating: 4.1
-  userRatingsTotal: 6260
+  userRatingsTotal: 6459
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=10755535674325808389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10755535674325808389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.277642
   lng: 114.175305
-  phone: "+852 2520 1110"
+  phone: +852 2520 1110
   openingHours:
-    - "Monday: 11:30 AM – 9:30 PM"
-    - "Tuesday: 11:30 AM – 9:30 PM"
-    - "Wednesday: 11:30 AM – 9:30 PM"
-    - "Thursday: 11:30 AM – 9:30 PM"
-    - "Friday: 11:30 AM – 9:30 PM"
-    - "Saturday: 11:30 AM – 9:30 PM"
-    - "Sunday: 11:30 AM – 9:30 PM"
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
     weekendQuiet:
       - 12
       - 20
-    venueId: "ven_5535515756623537555442525144424173566f6a7538654a496843"
+    venueId: ven_5535515756623537555442525144424173566f6a7538654a496843
 tags:
-  - "wan chai"
-  - "street food"
-quickAnswer: "Kam's Roast Goose on Hennessy Road is the Wan Chai address for Michelin-honored roast goose — the skin blistered and mahogany-dark, the meat still juicy underneath. Go right at 11:30am opening or after 2pm to dodge the lunch rush; on weekends the whole afternoon from noon to 9pm runs steadier than most Cantonese roast shops. Expect a mid-range bill, a fast turnover of tables, and a queue that moves quicker than it looks."
+  - wan chai
+  - street food
+quickAnswer: >-
+  Kam's Roast Goose on Hennessy Road is the Wan Chai address for
+  Michelin-honored roast goose — the skin blistered and mahogany-dark, the meat
+  still juicy underneath. Go right at 11:30am opening or after 2pm to dodge the
+  lunch rush; on weekends the whole afternoon from noon to 9pm runs steadier
+  than most Cantonese roast shops. Expect a mid-range bill, a fast turnover of
+  tables, and a queue that moves quicker than it looks.
 faq:
-  - q: "How do I get to Kam's Roast Goose?"
-    a: "It's on Hennessy Road in Wan Chai, about a 5-minute walk from Wan Chai MTR Station (Island Line), Exit A3. It's also walkable from Causeway Bay."
-  - q: "What's the best thing to order?"
-    a: "The roast goose is the signature dish, sold by portion (quarter, half, or whole). For a solo meal, order the roast goose noodles or rice; the char siu (BBQ pork) is also excellent."
-  - q: "When is it quietest?"
-    a: "On weekends, the calmest stretch runs from noon to 9pm rather than a sharp lunch-only rush. On any day, arriving right at 11:30am opening or after 2:30pm tends to mean shorter waits."
-  - q: "How much does it cost?"
-    a: "It's mid-range for Hong Kong dining — not cheap street food, but far less than a formal sit-down restaurant. A half goose portion with rice or noodles comfortably feeds two."
-  - q: "Do I need a reservation?"
-    a: "Kam's operates on a walk-in, queue-based system typical of Cantonese roast shops. Turnover is fast, so even a visible line usually moves quickly."
+  - q: How do I get to Kam's Roast Goose?
+    a: >-
+      It's on Hennessy Road in Wan Chai, about a 5-minute walk from Wan Chai MTR
+      Station (Island Line), Exit A3. It's also walkable from Causeway Bay.
+  - q: What's the best thing to order?
+    a: >-
+      The roast goose is the signature dish, sold by portion (quarter, half, or
+      whole). For a solo meal, order the roast goose noodles or rice; the char
+      siu (BBQ pork) is also excellent.
+  - q: When is it quietest?
+    a: >-
+      On weekends, the calmest stretch runs from noon to 9pm rather than a sharp
+      lunch-only rush. On any day, arriving right at 11:30am opening or after
+      2:30pm tends to mean shorter waits.
+  - q: How much does it cost?
+    a: >-
+      It's mid-range for Hong Kong dining — not cheap street food, but far less
+      than a formal sit-down restaurant. A half goose portion with rice or
+      noodles comfortably feeds two.
+  - q: Do I need a reservation?
+    a: >-
+      Kam's operates on a walk-in, queue-based system typical of Cantonese roast
+      shops. Turnover is fast, so even a visible line usually moves quickly.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why this goose has a following

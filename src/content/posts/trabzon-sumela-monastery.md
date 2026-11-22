@@ -1,36 +1,41 @@
 ---
-title: "Sümela Monastery: Trabzon Travel Guide (4.2★)"
-description: "Sümela Monastery clings to a sheer cliff in Altındere Valley National Park, about a 45-minute drive south of Trabzon. 4.2★ (22,597 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Trabzon"
-category: "hidden-gem"
-pubDate: "2026-08-12T09:43:25.023Z"
+title: 'Sümela Monastery: Trabzon Travel Guide (4.2★)'
+description: >-
+  Sümela Monastery clings to a sheer cliff in Altındere Valley National Park,
+  about a 45-minute drive south of Trabzon. 4.2★ (24,206 reviews) — what
+  visitors say, hours, and tips.
+country: Turkey
+region: Trabzon
+category: hidden-gem
+pubDate: '2026-08-12T09:43:25.023Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sumela_From_Across_Valley.JPG/1920px-Sumela_From_Across_Valley.JPG"
-  credit: "Photo: Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sumela_From_Across_Valley.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sumela_From_Across_Valley.JPG/1920px-Sumela_From_Across_Valley.JPG
+  credit: 'Photo: Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sumela_From_Across_Valley.JPG'
 gallery: []
 place:
-  id: "ChIJi1a_zZhUZEARB00b4pkinzk"
-  name: "Sümela Monastery"
-  address: "Altindere Valley National Park, Altındere, 61750 Maçka/Trabzon, Türkiye"
+  id: ChIJi1a_zZhUZEARB00b4pkinzk
+  name: Sümela Monastery
+  address: 'Altindere Valley National Park, Altındere, 61750 Maçka/Trabzon, Türkiye'
   rating: 4.2
-  userRatingsTotal: 22597
-  googleMapsUrl: "https://maps.google.com/?cid=4152075425777667335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 24206
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4152075425777667335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.690122599999995
   lng: 39.6583949
   openingHours:
-    - "Monday: 8:00 AM – 6:30 PM"
-    - "Tuesday: 8:00 AM – 6:30 PM"
-    - "Wednesday: 8:00 AM – 6:30 PM"
-    - "Thursday: 8:00 AM – 6:30 PM"
-    - "Friday: 8:00 AM – 6:30 PM"
-    - "Saturday: 8:00 AM – 6:30 PM"
-    - "Sunday: 8:00 AM – 6:30 PM"
+    - 'Monday: 8:00 AM – 6:30 PM'
+    - 'Tuesday: 8:00 AM – 6:30 PM'
+    - 'Wednesday: 8:00 AM – 6:30 PM'
+    - 'Thursday: 8:00 AM – 6:30 PM'
+    - 'Friday: 8:00 AM – 6:30 PM'
+    - 'Saturday: 8:00 AM – 6:30 PM'
+    - 'Sunday: 8:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -45,24 +50,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6b7a6e696b7034623030425241455a55685a7a5f6131694a496843"
+    venueId: ven_6b7a6e696b7034623030425241455a55685a7a5f6131694a496843
 tags:
-  - "trabzon"
-  - "hidden gem"
-quickAnswer: "Sümela Monastery clings to a sheer cliff in Altındere Valley National Park, about a 45-minute drive south of Trabzon. It's open daily 8am–6:30pm; go right at opening, since weekend crowds build fast between 10am and 5pm. Budget 1.5–2 hours, plus time for the shuttle and the walk up."
+  - trabzon
+  - hidden gem
+quickAnswer: >-
+  Sümela Monastery clings to a sheer cliff in Altındere Valley National Park,
+  about a 45-minute drive south of Trabzon. It's open daily 8am–6:30pm; go right
+  at opening, since weekend crowds build fast between 10am and 5pm. Budget 1.5–2
+  hours, plus time for the shuttle and the walk up.
 faq:
-  - q: "How do I get to Sümela Monastery from Trabzon?"
-    a: "It's about 45km / 45 minutes by car or taxi from Trabzon city to Altındere Valley National Park. Seasonal dolmuş minibuses run from Trabzon's otogar to Maçka, with a connection toward the park, but a taxi or organized tour is far more reliable."
-  - q: "What are the opening hours?"
-    a: "Sümela is open daily from 8:00am to 6:30pm, with no variation across the week. Confirm hours before visiting in winter, when weather can affect access to the valley."
-  - q: "When is it quietest?"
-    a: "Weekdays stay calm throughout the day. On weekends, go between 8am and 9am — crowds build fast after that and peak between 10am and 5pm."
-  - q: "How much time should I set aside?"
-    a: "Plan for 1.5–2 hours inside the monastery itself, plus travel time, the shuttle ride, and a climbing path — so realistically a half-day from Trabzon."
-  - q: "Is there an entrance fee?"
-    a: "Yes, there's a separate ticket for the national park and for the monastery itself. Prices change periodically, so check current rates before you go."
+  - q: How do I get to Sümela Monastery from Trabzon?
+    a: >-
+      It's about 45km / 45 minutes by car or taxi from Trabzon city to Altındere
+      Valley National Park. Seasonal dolmuş minibuses run from Trabzon's otogar
+      to Maçka, with a connection toward the park, but a taxi or organized tour
+      is far more reliable.
+  - q: What are the opening hours?
+    a: >-
+      Sümela is open daily from 8:00am to 6:30pm, with no variation across the
+      week. Confirm hours before visiting in winter, when weather can affect
+      access to the valley.
+  - q: When is it quietest?
+    a: >-
+      Weekdays stay calm throughout the day. On weekends, go between 8am and 9am
+      — crowds build fast after that and peak between 10am and 5pm.
+  - q: How much time should I set aside?
+    a: >-
+      Plan for 1.5–2 hours inside the monastery itself, plus travel time, the
+      shuttle ride, and a climbing path — so realistically a half-day from
+      Trabzon.
+  - q: Is there an entrance fee?
+    a: >-
+      Yes, there's a separate ticket for the national park and for the monastery
+      itself. Prices change periodically, so check current rates before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

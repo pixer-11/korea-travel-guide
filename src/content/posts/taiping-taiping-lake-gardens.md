@@ -1,52 +1,79 @@
 ---
-title: "Taiping Lake Gardens: Travel Guide (4.6★)"
-description: "Taiping Lake Gardens is Malaysia's oldest public park, a former tin-mining pit turned into rolling lawns, rain trees and eight linked lakes, open daily from 8am to 10pm. 4.6★ (10,342 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Taiping"
-category: "attraction"
-pubDate: "2026-08-12T08:57:38.762Z"
+title: 'Taiping Lake Gardens: Travel Guide (4.6★)'
+description: >-
+  Taiping Lake Gardens is Malaysia's oldest public park, a former tin-mining pit
+  turned into rolling lawns, rain trees and eight linked lakes, open daily from
+  8am to 10pm. 4.6★ (10,425 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Taiping
+category: attraction
+pubDate: '2026-08-12T08:57:38.762Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Taiping_Lake_Gardens_1.jpg/3840px-Taiping_Lake_Gardens_1.jpg"
-  credit: "Photo: Slleong / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taiping_Lake_Gardens_1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Taiping_Lake_Gardens_1.jpg/3840px-Taiping_Lake_Gardens_1.jpg
+  credit: 'Photo: Slleong / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Taiping_Lake_Gardens_1.jpg'
 gallery: []
 place:
-  id: "ChIJoWZRRfiuyjERbfWNdXK5PuI"
-  name: "Taiping Lake Gardens"
-  address: "VP3W+QW, Jalan Pekeliling, Taman Tasik Taiping, 34000 Taiping, Perak, Malaysia"
+  id: ChIJoWZRRfiuyjERbfWNdXK5PuI
+  name: Taiping Lake Gardens
+  address: >-
+    VP3W+QW, Jalan Pekeliling, Taman Tasik Taiping, 34000 Taiping, Perak,
+    Malaysia
   rating: 4.6
-  userRatingsTotal: 10342
-  googleMapsUrl: "https://maps.google.com/?cid=16302671602377422189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10425
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16302671602377422189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 4.8524883
   lng: 100.74951449999999
-  phone: "+60 17-546 0464"
+  phone: +60 17-546 0464
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 8:00 AM – 10:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
-  - "taiping"
-  - "top attraction"
-quickAnswer: "Taiping Lake Gardens is Malaysia's oldest public park, a former tin-mining pit turned into rolling lawns, rain trees and eight linked lakes, open daily from 8am to 10pm. Give it two to three hours — walk or cycle the perimeter road, visit the Perak Museum and old war cemetery next door, and go early morning for the mist over the water and the cooler air. Weekends after 4pm draw the biggest crowds, so aim for a weekday visit if you can."
+  - taiping
+  - top attraction
+quickAnswer: >-
+  Taiping Lake Gardens is Malaysia's oldest public park, a former tin-mining pit
+  turned into rolling lawns, rain trees and eight linked lakes, open daily from
+  8am to 10pm. Give it two to three hours — walk or cycle the perimeter road,
+  visit the Perak Museum and old war cemetery next door, and go early morning
+  for the mist over the water and the cooler air. Weekends after 4pm draw the
+  biggest crowds, so aim for a weekday visit if you can.
 faq:
-  - q: "How long should I spend at Taiping Lake Gardens?"
-    a: "Two to three hours is enough for a relaxed loop of the lakes plus a stop at the Perak Museum or war cemetery nearby. Add more time if you want to cycle or rent a paddle boat."
-  - q: "Is there an entrance fee?"
-    a: "No, the park is free to enter and open daily from 8am to 10pm. You'll only pay for extras like paddle boat rental or snacks from vendors."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 8am opening are calmest. Weekends, especially from mid-afternoon onward, draw the largest local crowds."
-  - q: "How do I get to Taiping Lake Gardens without a car?"
-    a: "Taiping doesn't have a rail or metro link to the park, so most visitors arrive by bus into Taiping town followed by a short tuk-tuk or taxi ride, or on foot if staying in the old town."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "The Perak Museum, All Saints' Church, the Commonwealth war cemetery, and Taiping Zoo all sit at the edge of the gardens and can be combined into one half-day outing."
+  - q: How long should I spend at Taiping Lake Gardens?
+    a: >-
+      Two to three hours is enough for a relaxed loop of the lakes plus a stop
+      at the Perak Museum or war cemetery nearby. Add more time if you want to
+      cycle or rent a paddle boat.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the park is free to enter and open daily from 8am to 10pm. You'll only
+      pay for extras like paddle boat rental or snacks from vendors.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 8am opening are calmest. Weekends,
+      especially from mid-afternoon onward, draw the largest local crowds.
+  - q: How do I get to Taiping Lake Gardens without a car?
+    a: >-
+      Taiping doesn't have a rail or metro link to the park, so most visitors
+      arrive by bus into Taiping town followed by a short tuk-tuk or taxi ride,
+      or on foot if staying in the old town.
+  - q: What else is nearby worth combining with the visit?
+    a: >-
+      The Perak Museum, All Saints' Church, the Commonwealth war cemetery, and
+      Taiping Zoo all sit at the edge of the gardens and can be combined into
+      one half-day outing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

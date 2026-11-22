@@ -1,40 +1,48 @@
 ---
-title: "Campuhan Ridge Walk: Ubud Travel Guide (4.3★)"
-description: "Campuhan Ridge Walk is a free, open-24-hours ridge trail in central Ubud, about a 10-minute walk from Ubud Palace. 4.3★ (17,992 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Ubud"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:36:49.530Z"
+title: 'Campuhan Ridge Walk: Ubud Travel Guide (4.3★)'
+description: >-
+  Campuhan Ridge Walk is a free, open-24-hours ridge trail in central Ubud,
+  about a 10-minute walk from Ubud Palace. 4.3★ (18,475 reviews) — what visitors
+  say, hours, and tips.
+country: Indonesia
+region: Ubud
+category: hidden-gem
+pubDate: '2026-08-13T09:36:49.530Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Aerial_picture_of_Campuhan_Ridge_Walk_%2C_Scenic_Green_Valley_in_Ubud_Bali._Drone_photo._%2846112155712%29.jpg/3840px-Aerial_picture_of_Campuhan_Ridge_Walk_%2C_Scenic_Green_Valley_in_Ubud_Bali._Drone_photo._%2846112155712%29.jpg"
-  credit: "Photo: Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aerial_picture_of_Campuhan_Ridge_Walk_,_Scenic_Green_Valley_in_Ubud_Bali._Drone_photo._(46112155712).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Aerial_picture_of_Campuhan_Ridge_Walk_%2C_Scenic_Green_Valley_in_Ubud_Bali._Drone_photo._%2846112155712%29.jpg/3840px-Aerial_picture_of_Campuhan_Ridge_Walk_%2C_Scenic_Green_Valley_in_Ubud_Bali._Drone_photo._%2846112155712%29.jpg
+  credit: 'Photo: Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Aerial_picture_of_Campuhan_Ridge_Walk_,_Scenic_Green_Valley_in_Ubud_Bali._Drone_photo._(46112155712).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Campuhan_ridge_walk_Ubud_Bali_20120827b.jpg/3840px-Campuhan_ridge_walk_Ubud_Bali_20120827b.jpg"
-    credit: "Photo: Tigerente / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Campuhan_ridge_walk_Ubud_Bali_20120827b.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Campuhan_ridge_walk_Ubud_Bali_20120827b.jpg/3840px-Campuhan_ridge_walk_Ubud_Bali_20120827b.jpg
+    credit: 'Photo: Tigerente / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Campuhan_ridge_walk_Ubud_Bali_20120827b.jpg
 place:
-  id: "ChIJ9XP0yms90i0Rn8QbqnT9E3w"
-  name: "Campuhan Ridge Walk"
-  address: "Jl. Raya Ubud, Kelusa, Kec. Payangan, Kabupaten Gianyar, Bali, Indonesia"
+  id: ChIJ9XP0yms90i0Rn8QbqnT9E3w
+  name: Campuhan Ridge Walk
+  address: 'Jl. Raya Ubud, Kelusa, Kec. Payangan, Kabupaten Gianyar, Bali, Indonesia'
   rating: 4.3
-  userRatingsTotal: 17992
-  googleMapsUrl: "https://maps.google.com/?cid=8940768362772546719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18475
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8940768362772546719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.5035806
   lng: 115.25475789999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -57,24 +65,43 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_77334539546e716251386e5230693039736d79305058394a496843"
+    venueId: ven_77334539546e716251386e5230693039736d79305058394a496843
 tags:
-  - "ubud"
-  - "hidden gem"
-quickAnswer: "Campuhan Ridge Walk is a free, open-24-hours ridge trail in central Ubud, about a 10-minute walk from Ubud Palace. Go between 7am and 8am on a weekday to catch it near-empty; weekends stay busy from 8am until evening, so plan around that. The out-and-back walk to Karsa Kafe and back takes roughly 1–1.5 hours."
+  - ubud
+  - hidden gem
+quickAnswer: >-
+  Campuhan Ridge Walk is a free, open-24-hours ridge trail in central Ubud,
+  about a 10-minute walk from Ubud Palace. Go between 7am and 8am on a weekday
+  to catch it near-empty; weekends stay busy from 8am until evening, so plan
+  around that. The out-and-back walk to Karsa Kafe and back takes roughly 1–1.5
+  hours.
 faq:
-  - q: "How do I get to Campuhan Ridge Walk?"
-    a: "Head to the north end of Jalan Raya Ubud, near Pura Gunung Lebah temple and the Warwick Ibah Bridge. It's about a 10-15 minute walk from Ubud Palace, or a short Grab/scooter ride."
-  - q: "Is there an entrance fee?"
-    a: "No, the trail is free and open to the public 24 hours a day. You'll only spend money if you stop at the warungs or Karsa Kafe along the way."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 8am are calmest, based on typical foot traffic. Weekends stay busy from 8am until around 8pm, so avoid that window if you want breathing room."
-  - q: "How long does the walk take?"
-    a: "Plan for 1 to 1.5 hours round-trip to walk the roughly 2km trail out to Karsa Kafe and back at a relaxed pace with stops for photos."
-  - q: "What should I bring?"
-    a: "Water and sun protection are essential since there's almost no shade along most of the ridge. Cash is useful for the small warungs and Karsa Kafe at the trail's end."
+  - q: How do I get to Campuhan Ridge Walk?
+    a: >-
+      Head to the north end of Jalan Raya Ubud, near Pura Gunung Lebah temple
+      and the Warwick Ibah Bridge. It's about a 10-15 minute walk from Ubud
+      Palace, or a short Grab/scooter ride.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the trail is free and open to the public 24 hours a day. You'll only
+      spend money if you stop at the warungs or Karsa Kafe along the way.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 8am are calmest, based on typical foot traffic.
+      Weekends stay busy from 8am until around 8pm, so avoid that window if you
+      want breathing room.
+  - q: How long does the walk take?
+    a: >-
+      Plan for 1 to 1.5 hours round-trip to walk the roughly 2km trail out to
+      Karsa Kafe and back at a relaxed pace with stops for photos.
+  - q: What should I bring?
+    a: >-
+      Water and sun protection are essential since there's almost no shade along
+      most of the ridge. Cash is useful for the small warungs and Karsa Kafe at
+      the trail's end.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why go

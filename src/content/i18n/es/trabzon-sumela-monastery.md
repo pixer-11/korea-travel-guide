@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: trabzon-sumela-monastery
-srcHash: '3b4f0845f19d'
+srcHash: 'cb09b52c3485'
 title: 'Monasterio de Sümela: Guía de viaje de Trabzon (4,2★)'
-description: 'El monasterio de Sümela se aferra a un acantilado escarpado en el Parque Nacional del Valle de Altındere, a unos 45 minutos en coche al sur de Trabzon. 4,2★ (22.597 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El monasterio de Sümela se aferra a un acantilado escarpado en el Parque Nacional del Valle de Altındere, a unos 45 minutos en coche al sur de Trabzon. 4,2★ (24.206 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El monasterio de Sümela se aferra a un acantilado escarpado en el Parque Nacional del Valle de Altındere, a unos 45 minutos en coche al sur de Trabzon. Abre todos los días de 8:00 a 18:30; conviene ir justo al abrir, ya que las multitudes de fin de semana aumentan rápido entre las 10:00 y las 17:00. Reserva entre 1,5 y 2 horas, además del tiempo para el shuttle y la subida a pie.
 faq:
   - q: ¿Cómo llego al monasterio de Sümela desde Trabzon?

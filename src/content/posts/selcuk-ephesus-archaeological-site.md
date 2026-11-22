@@ -1,56 +1,87 @@
 ---
-title: "Ephesus Archaeological Site: Selcuk Travel Guide (4.8★)"
-description: "Ephesus is one of the best-preserved ancient cities in the Mediterranean, and with 4.8 stars from nearly 15,000 reviews, it's not a secret — go right at 8am opening or after 4pm to beat the tour-bus crush."
-country: "Turkey"
-region: "Selcuk"
-category: "hidden-gem"
-pubDate: "2026-08-14T09:37:42.203Z"
+title: 'Ephesus Archaeological Site: Selcuk Travel Guide (4.8★)'
+description: >-
+  Ephesus is one of the best-preserved ancient cities in the Mediterranean, and
+  with 4.8 stars from nearly 15,000 reviews, it's not a secret — go right at 8am
+  opening or after 4pm to beat the tour-bus crush.
+country: Turkey
+region: Selcuk
+category: hidden-gem
+pubDate: '2026-08-14T09:37:42.203Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526286023%29.jpg/3840px-Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526286023%29.jpg"
-  credit: "Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ephesus_Prytaneion,_Ephesus_Archaeological_Site,_Selcuk,_Turkiye_(53526286023).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526286023%29.jpg/3840px-Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526286023%29.jpg
+  credit: >-
+    Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons (CC
+    BY-SA 2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ephesus_Prytaneion,_Ephesus_Archaeological_Site,_Selcuk,_Turkiye_(53526286023).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526424729%29.jpg/3840px-Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526424729%29.jpg"
-    credit: "Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ephesus_Prytaneion,_Ephesus_Archaeological_Site,_Selcuk,_Turkiye_(53526424729).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526424729%29.jpg/3840px-Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526424729%29.jpg
+    credit: >-
+      Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons
+      (CC BY-SA 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ephesus_Prytaneion,_Ephesus_Archaeological_Site,_Selcuk,_Turkiye_(53526424729).jpg
 place:
-  id: "ChIJ3ctA4hetvhQRvFJ0p_FO1Xk"
-  name: "Ephesus Archaeological Site"
-  address: "Atatürk, Efes Harabeleri, 35920 Selçuk/İzmir, Türkiye"
+  id: ChIJ3ctA4hetvhQRvFJ0p_FO1Xk
+  name: Ephesus Archaeological Site
+  address: 'Atatürk, Efes Harabeleri, 35920 Selçuk/İzmir, Türkiye'
   rating: 4.8
-  userRatingsTotal: 14779
-  googleMapsUrl: "https://maps.google.com/?cid=8779009848432153276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15758
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8779009848432153276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.9355433
   lng: 27.3461091
-  phone: "+90 232 892 60 10"
+  phone: +90 232 892 60 10
   openingHours:
-    - "Monday: 8:00 AM – 6:45 PM"
-    - "Tuesday: 8:00 AM – 6:45 PM"
-    - "Wednesday: 8:00 AM – 6:45 PM"
-    - "Thursday: 8:00 AM – 6:45 PM"
-    - "Friday: 8:00 AM – 6:45 PM"
-    - "Saturday: 8:00 AM – 6:45 PM"
-    - "Sunday: 8:00 AM – 6:45 PM"
+    - 'Monday: 8:00 AM – 6:45 PM'
+    - 'Tuesday: 8:00 AM – 6:45 PM'
+    - 'Wednesday: 8:00 AM – 6:45 PM'
+    - 'Thursday: 8:00 AM – 6:45 PM'
+    - 'Friday: 8:00 AM – 6:45 PM'
+    - 'Saturday: 8:00 AM – 6:45 PM'
+    - 'Sunday: 8:00 AM – 6:45 PM'
 tags:
-  - "selcuk"
-  - "hidden gem"
-quickAnswer: "Ephesus is one of the best-preserved ancient cities in the Mediterranean, and with 4.8 stars from nearly 15,000 reviews, it's not a secret — go right at 8am opening or after 4pm to beat the tour-bus crush. Plan on two to three hours minimum, enter via the upper (Magnesia) gate and walk downhill to the Library of Celsus and Great Theatre. Wear real shoes; the marble streets are slick and there's almost no shade."
+  - selcuk
+  - hidden gem
+quickAnswer: >-
+  Ephesus is one of the best-preserved ancient cities in the Mediterranean, and
+  with 4.8 stars from nearly 15,000 reviews, it's not a secret — go right at 8am
+  opening or after 4pm to beat the tour-bus crush. Plan on two to three hours
+  minimum, enter via the upper (Magnesia) gate and walk downhill to the Library
+  of Celsus and Great Theatre. Wear real shoes; the marble streets are slick and
+  there's almost no shade.
 faq:
-  - q: "How long does it take to visit Ephesus?"
-    a: "Budget two hours for the main route from Upper Gate to Lower Gate, or three hours if you add the separately-ticketed Terrace Houses."
-  - q: "Which entrance should I use?"
-    a: "Enter at the Upper Gate (near Magnesia) and walk downhill to the Lower Gate — it's an easier walk and puts the Library of Celsus and Great Theatre near the end of your visit."
-  - q: "How do I get to Ephesus from Selçuk without a tour?"
-    a: "Take a taxi (about 10 minutes) or a seasonal dolmuş minibus from the Selçuk otogar directly to the site's Upper or Lower Gate."
-  - q: "When is Ephesus least crowded?"
-    a: "Right at 8:00 AM opening or after 4:00 PM, before and after the main wave of cruise-ship and tour-bus groups from Kuşadası arrive."
-  - q: "Is the Temple of Artemis worth visiting too?"
-    a: "It's a quick stop — only a single reconstructed column remains in a field near town — but many visitors combine it with the Ephesus Archaeological Museum in Selçuk, which holds artifacts from the original temple."
+  - q: How long does it take to visit Ephesus?
+    a: >-
+      Budget two hours for the main route from Upper Gate to Lower Gate, or
+      three hours if you add the separately-ticketed Terrace Houses.
+  - q: Which entrance should I use?
+    a: >-
+      Enter at the Upper Gate (near Magnesia) and walk downhill to the Lower
+      Gate — it's an easier walk and puts the Library of Celsus and Great
+      Theatre near the end of your visit.
+  - q: How do I get to Ephesus from Selçuk without a tour?
+    a: >-
+      Take a taxi (about 10 minutes) or a seasonal dolmuş minibus from the
+      Selçuk otogar directly to the site's Upper or Lower Gate.
+  - q: When is Ephesus least crowded?
+    a: >-
+      Right at 8:00 AM opening or after 4:00 PM, before and after the main wave
+      of cruise-ship and tour-bus groups from Kuşadası arrive.
+  - q: Is the Temple of Artemis worth visiting too?
+    a: >-
+      It's a quick stop — only a single reconstructed column remains in a field
+      near town — but many visitors combine it with the Ephesus Archaeological
+      Museum in Selçuk, which holds artifacts from the original temple.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-22'
 ---
 
 ## Why Ephesus still stops people cold

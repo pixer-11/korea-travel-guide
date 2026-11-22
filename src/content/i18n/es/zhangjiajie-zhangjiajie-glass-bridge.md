@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: zhangjiajie-zhangjiajie-glass-bridge
-srcHash: '412bda8279ea'
+srcHash: '261e3804c2eb'
 title: 'Puente de Cristal de Zhangjiajie: Guía de viaje (4.6★)'
-description: El Puente de Cristal de Zhangjiajie (Zhangjiajie Glass Bridge) atraviesa el Gran Cañón de Zhangjiajie en el distrito de Wulingyuan, suspendido a unos 300 metros sobre el fondo del cañón con una pasarela transparente de cristal. 4.6★ (2.965 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Puente de Cristal de Zhangjiajie (Zhangjiajie Glass Bridge) atraviesa el Gran Cañón de Zhangjiajie en el distrito de Wulingyuan, suspendido a unos 300 metros sobre el fondo del cañón con una pasarela transparente de cristal. 4.6★ (3.178 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Puente de Cristal de Zhangjiajie (Zhangjiajie Glass Bridge) atraviesa el Gran Cañón de Zhangjiajie en el distrito de Wulingyuan, suspendido a unos 300 metros sobre el fondo del cañón con una pasarela transparente de cristal. Planifica una visita de medio día combinando el puente con los senderos del cañón que hay debajo, y reserva tu entrada con horario fijo por internet con antelación, ya que el número de visitantes diarios está limitado. Ve un día de semana por la mañana para evitar lo peor de las aglomeraciones que se forman en esta conocida atracción.
 faq:
   - q: ¿Cómo consigo entradas para el Puente de Cristal de Zhangjiajie?
