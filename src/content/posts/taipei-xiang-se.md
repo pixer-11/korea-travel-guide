@@ -5,7 +5,6 @@ country: Taiwan
 region: Taipei
 category: hidden-gem
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - taipei
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get there by public transport?
     a: Several MRT lines serve Zhongzheng District, with stops near Chiang Kai-shek Memorial Hall being the most convenient. From the station, plan on a short walk through residential lanes rather than a direct arrival at a main road.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/4988430_0vMo4rPbqRINq6OsZroKzyI5eq_AAb8oI56sN22CzbM.jpg
+  credit: 'Photo: Foursquare user content (湘8老 xiang. ba. lao)'
+  license: foursquare
+  source: https://foursquare.com/v/5256905c498e0483c7b80a9e
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Zhongzheng District doesn't announce itself the way Ximending or Da'an do. It's the administrative heart of Taipei, home to Chiang Kai-shek Memorial Hall and a grid of residential lanes that empty out once government offices close for the day. Xiang Se sits on one of those quiet streets, the kind of address you'd walk past without a second look if you didn't already know it was there.

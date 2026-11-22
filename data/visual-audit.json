@@ -7532,6 +7532,12 @@
   "reason": "patrol reject: Wide glacier terrain view, not ice cave entrance",
   "at": "2026-11-14T19:37:48.754Z"
  },
+ "chamonix-grotte-de-glace\u0001https://live.staticflickr.com/65535/48366576241_c7c27f7b45_b.jpg": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows glacier exterior, not ice cave interior attraction",
+  "at": "2026-11-22T19:36:53.373Z"
+ },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": {
   "slug": "chamonix-grotte-de-glace",
   "verdict": "MATCH",
@@ -7543,6 +7549,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up fragment of ice texture, not representative view",
   "at": "2026-11-14T19:37:50.651Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Mer_de_Glace_grotte_4.JPG": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Ice cave interior with blue lighting, Chamonix",
+  "at": "2026-11-22T19:36:56.239Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg/3840px-Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg": {
   "slug": "chamonix-grotte-de-glace",
@@ -25089,6 +25101,18 @@
   "reason": "release check: Bandra-Worli Sea Link bridge, unrelated to a trendy venue",
   "at": "2026-08-11T04:13:25.087Z"
  },
+ "mumbai-sweeney\u0001https://fastly.4sqi.net/img/general/original/20356139_1EL9VcetRHsf0IiPWuqoxCVpCmwfg2b3llVH6cDRVCk.jpg": {
+  "slug": "mumbai-sweeney",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Plated dish photo, no venue context visible",
+  "at": "2026-11-22T19:37:12.836Z"
+ },
+ "mumbai-sweeney\u0001https://fastly.4sqi.net/img/general/original/20356139_K_Pw6tTgWXXX6_ZFP3OqHqJkSdviHcDj7XTNho79xgY.jpg": {
+  "slug": "mumbai-sweeney",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Only shows name sign on wall, not venue interior/exterior",
+  "at": "2026-11-22T19:37:14.885Z"
+ },
  "mumbai-tata-mumbai-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Runners_during_Tata_Mumbai_Marathon%2C_2023_at_Worli_Sea_Link.jpg/1920px-Runners_during_Tata_Mumbai_Marathon%2C_2023_at_Worli_Sea_Link.jpg": {
   "slug": "mumbai-tata-mumbai-marathon",
   "verdict": "MATCH",
@@ -36980,6 +37004,18 @@
   "verdict": "CITY-TIER",
   "reason": "third tier (owner rule 2026-09-11): 파일명이 행사장(Taipei Arena)을 가리킨다",
   "at": "2026-09-13T16:21:51.573Z"
+ },
+ "taipei-xiang-se\u0001https://fastly.4sqi.net/img/general/original/4492675_wxtsVmW2PBb7SUFUPOKUrBx-FlvtTRi1kB_TJKXPPg0.jpg": {
+  "slug": "taipei-xiang-se",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up plated dish, no venue context visible",
+  "at": "2026-11-22T19:37:54.423Z"
+ },
+ "taipei-xiang-se\u0001https://fastly.4sqi.net/img/general/original/4988430_0vMo4rPbqRINq6OsZroKzyI5eq_AAb8oI56sN22CzbM.jpg": {
+  "slug": "taipei-xiang-se",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Authentic Taiwanese braised meat noodle soup dish",
+  "at": "2026-11-22T19:37:57.014Z"
  },
  "taipei-xingtian-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Xingtian_Temple_07.23.jpg/1920px-Xingtian_Temple_07.23.jpg": {
   "slug": "taipei-xingtian-temple",
