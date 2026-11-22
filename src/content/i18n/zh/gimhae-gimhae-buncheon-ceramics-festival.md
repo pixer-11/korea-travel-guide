@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: gimhae-gimhae-buncheon-ceramics-festival
-srcHash: '0cb058d8c48a'
+srcHash: '6064e1bc3b9f'
 title: 金海粉青陶瓷节：日期、门票与场地（金海）
 description: 金海粉青陶瓷节的活动时间为2026年11月6日至10日，地点在韩国金海。这场为期五天的节庆以施白化妆土的粉青沙器为主题。
 quickAnswer: 金海粉青陶瓷节的活动时间为2026年11月6日至10日，地点在韩国金海。粉青沙器是韩国传统的施白化妆土炻器，这场节庆围绕它连办五天。往届活动都以金海西部的陶艺聚集区进礼面（Jillye-myeon）为中心。Clayarch金海美术馆也位于进礼。
@@ -20,7 +20,7 @@ faq:
 
 想象一只茶碗：通体是雨后石板般的灰色，外面匆匆刷过一层白色化妆土，刷毛的痕迹至今还能一道道数出来。这就是粉青沙器。金海烧制这类陶器已有几百年历史，每年11月的陶瓷节上，当地在一线做陶的匠人会把作品摆到户外，摊位一张张排开。
 
-这个节庆的韩文名称是김해분청도자기축제（Gimhae Buncheong Dojagi Chukje）。英文标题写作“Buncheon”，韩文标识对应的则是“Buncheong”，其实说的是同一个节庆。
+这个节庆的韩文名称是김해분청도자기축제（Gimhae Buncheong Dojagi Chukje）。英文名称有时写作“Buncheon”，有时写作“Buncheong”，指的都是同一个节庆。
 
 ## 灰胎白土：粉青沙器是什么
 

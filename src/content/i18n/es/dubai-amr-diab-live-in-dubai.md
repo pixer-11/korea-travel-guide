@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-amr-diab-live-in-dubai
-srcHash: '3ed4502d0c23'
+srcHash: '0be251d01a4a'
 title: 'Amr Diab en concierto en Dubái: fecha, entradas y recinto (Dubái)'
 description: El concierto de Amr Diab en Dubái se anunció para el 7 de noviembre de 2026 en el Coca-Cola Arena de City Walk, con temas nuevos y los grandes éxitos de toda su carrera.
 quickAnswer: La fecha anunciada para el concierto de Amr Diab en Dubái era el 7 de noviembre de 2026, en el Coca-Cola Arena. La superestrella egipcia ofrecería un concierto completo que combinaría temas nuevos con los éxitos de toda su carrera. El recinto se encuentra dentro de City Walk, adonde se llega cómodamente en metro o en taxi desde la mayoría de los hoteles de Dubái. Con un artista de esta magnitud, las puertas suelen abrirse bastante antes de que salga al escenario.
@@ -18,11 +18,11 @@ faq:
     a: City Walk cuenta con una amplia oferta gastronómica, desde mostradores informales hasta restaurantes con servicio de mesa, más tranquilos antes del concierto que después. Para pasar la noche, los hoteles de Downtown Dubai y Business Bay quedan a pocos minutos en coche.
 ---
 
-En el mundo árabe, Amr Diab apenas necesita presentación, y desde hace años Dubái figura entre sus plazas más fieles fuera de El Cairo. Para el 7 de noviembre de 2026 se anunció su llegada al Coca-Cola Arena con una gran producción. En el repertorio convivirían los sencillos recientes que lo mantienen en las radios de la región y las canciones de hace décadas que lo convirtieron en un nombre familiar desde el Golfo hasta el Magreb.
+En el mundo árabe, Amr Diab apenas necesita presentación, y desde hace años Dubái figura entre sus plazas más fieles fuera de El Cairo. El 7 de noviembre de 2026 llega al Coca-Cola Arena con una gran producción. En el repertorio conviven los sencillos recientes que lo mantienen en las radios de la región y las canciones de hace décadas que lo convirtieron en un nombre familiar desde el Golfo hasta el Magreb.
 
 ## Qué tipo de espectáculo cabía esperar
 
-Lejos de un recital acústico e íntimo, el espectáculo se presentó como un concierto pop de gran formato. Diab sale de gira con banda en directo, coristas e iluminación coreografiada. Su repertorio está pensado para recorrer distintas épocas: los bloques de temas nuevos y rítmicos se enlazan con las baladas y las canciones bailables que sostienen su carrera desde los años noventa.
+Lejos de un recital acústico e íntimo, el espectáculo se presenta como un concierto pop de gran formato. Diab sale de gira con banda en directo, coristas e iluminación coreografiada. Su repertorio está pensado para recorrer distintas épocas: los bloques de temas nuevos y rítmicos se enlazan con las baladas y las canciones bailables que sostienen su carrera desde los años noventa.
 
 En este recinto, los conciertos de un artista de su categoría suelen durar unas dos horas, y a veces más si hay telonero o un bis prolongado. En Dubái, el público del pop árabe acostumbra a cantar a pleno pulmón de principio a fin, de modo que quien prefiera ver el concierto con más tranquilidad estará mejor en las localidades alejadas de la pista.
 

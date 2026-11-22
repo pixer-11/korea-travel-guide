@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fuzhou-china-national-table-tennis-championships-singles-team-finals
-srcHash: '4dbc94bb9735'
+srcHash: '3318b69ef07a'
 title: 'Campeonato Nacional de Tenis de Mesa de China (finales individuales y por equipos): fechas, entradas y sede (Fuzhou)'
 description: Las finales individuales y por equipos del Campeonato Nacional de Tenis de Mesa de China tienen como sede Fuzhou, en la provincia de Fujian. Las fechas de la edición de 2026 son del 16 al 23 de diciembre de 2026.
 quickAnswer: Las finales individuales y por equipos del Campeonato Nacional de Tenis de Mesa de China tienen como sede Fuzhou, en la provincia de Fujian. Las fechas de la edición de 2026 son del 16 al 23 de diciembre de 2026. Entre los participantes figuran los mejores jugadores del país, como Ma Long y Wang Chuqin. El organizador vende las entradas a su nombre a través de su socio de venta. Como en China rige la norma del nombre real, los aficionados extranjeros suelen comprarlas con los datos de su pasaporte.
@@ -36,7 +36,7 @@ En el campeonato nacional, los jugadores no compiten con la selección china, si
 
 Detrás del campeonato está la Asociación China de Tenis de Mesa, el organismo rector de este deporte. Esta guía no indica pabellón, horarios de las sesiones ni precios. Esos datos corresponden al organizador y a su socio de venta de entradas, y cualquier cifra publicada aquí no pasaría de ser una conjetura.
 
-Así suele funcionar la compra en China:
+Hay algunas cosas que se cumplen en la mayoría de los grandes eventos deportivos de China, incluida la venta de entradas:
 
 - **Entradas nominativas:** en los grandes eventos deportivos, cada localidad suele ir vinculada a un documento de identidad. Los visitantes extranjeros se registran con su número de pasaporte.
 - **El mismo pasaporte en el acceso:** los aficionados llevan el pasaporte con el que se registraron, ya que el personal puede cotejarlo en la entrada.

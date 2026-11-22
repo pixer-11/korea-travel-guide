@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chennai-chennai-open-international-grandmaster-chess-tournament
-srcHash: 'd6636c64500a'
+srcHash: '8ba65a3dfa82'
 title: 'Torneo Internacional de Ajedrez Gran Maestro Chennai Open: fechas, entradas y sede (Chennai)'
 description: Las fechas de la 17.ª edición del Torneo Internacional de Ajedrez Gran Maestro Chennai Open son del 2 al 9 de enero de 2027, en Chennai (Tamil Nadu). El premio en juego es el Trofeo Sakthi Group Dr. N. Mahalingam.
 quickAnswer: Las fechas de la 17.ª edición del Torneo Internacional de Ajedrez Gran Maestro Chennai Open son del 2 al 9 de enero de 2027, en Chennai (Tamil Nadu). El premio en juego es el Trofeo Sakthi Group Dr. N. Mahalingam. Al tratarse de un abierto válido para el elo FIDE, grandes maestros y aficionados compiten en la misma sala. El público que acude a verlo se encuentra con un silencio absoluto y debe llevar el teléfono apagado.
@@ -52,7 +52,7 @@ En un torneo válido para el elo, el público se rige por las mismas normas de s
 - **Fotos, solo al principio.** Muchos torneos permiten hacer fotos durante los primeros minutos de cada ronda y después piden guardar las cámaras.
 - **Salir sin hacer ruido.** Quien abandona la sala suele esperar a que ninguna partida cercana esté en apuros de tiempo.
 
-En Chennai, la mayoría de las tiendas, cafeterías y mototaxis aceptan pagos por UPI con el móvil, así que los visitantes rara vez necesitan mucho efectivo durante el día.
+En Chennai, la mayoría de las tiendas y cafeterías aceptan pagos por UPI con el móvil, aunque los mototaxis a menudo solo admiten efectivo, así que conviene que los visitantes lleven algo de efectivo durante el día.
 
 ## Cómo llegar y dónde alojarse
 

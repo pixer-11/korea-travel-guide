@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: battambang-chumnor-arts-festival
-srcHash: '6ee1820fbb90'
+srcHash: '679a94c5c7a8'
 title: 'Festival de las Artes Chumnor: fechas, entradas y sede (Battambang)'
 description: Las fechas de la edición de 2026 del Festival de las Artes Chumnor, en Battambang (Camboya), son del 15 al 17 de diciembre. Se trata de un festival anual de carácter comunitario y artístico dedicado a la cultura jemer.
 quickAnswer: Las fechas de la edición de 2026 del Festival de las Artes Chumnor, en Battambang (Camboya), son del 15 al 17 de diciembre. Este festival anual de carácter comunitario y artístico está dedicado a la cultura jemer. Los organizadores se encargan de la sede, del programa y de la información sobre las entradas. La mayoría de los visitantes se aloja en el casco antiguo, a orillas del río y cerca de Psar Nat.
@@ -46,7 +46,7 @@ Quienes acuden al festival suelen alojarse en el casco antiguo, entre el río y 
 
 ## Desplazarse entre actuación y actuación
 
-En Battambang conviven dos monedas. Así suele transcurrir una jornada de festival:
+En Battambang conviven dos monedas. Antes de salir hacia el festival, conviene tener en cuenta algunas cuestiones prácticas:
 
 - **Pagos:** el dólar estadounidense y el riel camboyano circulan a la par. El cambio inferior a un dólar se devuelve en rieles, y en los puestos callejeros se paga sobre todo en efectivo.
 - **Tuk-tuks:** el precio se acuerda con el conductor antes de salir. Muchos conductores esperan a la puerta de las casas de huéspedes y ofrecen recorridos de media jornada.

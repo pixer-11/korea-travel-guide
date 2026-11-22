@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bath-american-museum-gardens
-srcHash: 'a66a289f7603'
+srcHash: '75d548aa6632'
 title: 'American Museum & Gardens: guía de viaje de Bath (4.5★)'
 description: En Claverton Manor, sobre el valle de Limpley Stoke y a unas 2.5 millas al sureste del centro de Bath, se encuentra el American Museum & Gardens. Con una valoración de 4.5★ (1,343 reseñas), aquí encontrará la opinión de los visitantes, el horario y consejos prácticos.
 quickAnswer: El American Museum & Gardens ocupa Claverton Manor, en Claverton Down. Está a unas 2.5 millas al sureste del centro de Bath y domina desde lo alto el valle de Limpley Stoke. Actualmente abre de 10am–5pm, aunque la temporada y el horario cambian a lo largo del año, por lo que conviene consultar la web oficial antes de ir. Reserve media jornada para recorrer las salas de época, la colección de colchas y los jardines.

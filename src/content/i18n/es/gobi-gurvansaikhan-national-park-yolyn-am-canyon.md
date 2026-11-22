@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gobi-gurvansaikhan-national-park-yolyn-am-canyon
-srcHash: 'df83cd69e3c5'
+srcHash: '287442618e5a'
 title: 'Cañón de Yolyn Am: guía de viaje del Parque Nacional Gobi Gurvansaikhan'
 description: El cañón de Yolyn Am es un estrecho desfiladero de la cordillera de Zuun Saikhan, en el Parque Nacional Gobi Gurvansaikhan, a una hora en coche al oeste de Dalanzadgad, en la provincia mongola de Ömnögovi.
 quickAnswer: El cañón de Yolyn Am es un estrecho desfiladero de la cordillera de Zuun Saikhan, en el Parque Nacional Gobi Gurvansaikhan, a una hora en coche al oeste de Dalanzadgad, en la provincia mongola de Ömnögovi. La mayoría de los visitantes recorre a pie el sendero llano de unos 2 km que separa el aparcamiento, al final de la carretera, de la parte más angosta del cañón, y regresa por el mismo camino; la excursión completa lleva entre 2 y 3 horas. Si quiere tener más posibilidades de ver hielo en el desfiladero, vaya a finales de la primavera o a principios del verano.
@@ -53,7 +53,7 @@ Si prefiere hacer a caballo el primer tramo, en el inicio del sendero suele habe
 
 ## Normas de cortesía en el Gobi
 
-Los mongoles llaman a este lugar Ёлын Ам (Yolyn Am), y así lo conocen los conductores. Los caballos de alquiler los traen pastores de la zona. Antes de montar, acuerde el precio y el punto en el que darán la vuelta, y lleve efectivo en tugriks (tögrög), porque fuera de Dalanzadgad apenas hay datáfonos.
+Los mongoles llaman a este lugar Yolyn Am, y así lo conocen los conductores. Los caballos de alquiler los traen pastores de la zona. Antes de montar, acuerde el precio y el punto en el que darán la vuelta, y lleve efectivo en tugriks (tögrög), porque fuera de Dalanzadgad apenas hay datáfonos.
 
 No se salga del camino junto al arroyo ni trepe por las paredes: las madrigueras de las picas se desmoronan al pisarlas. Si se cruza con un ovoo, uno de esos montículos de piedras adornados con pañuelos khadag azules, rodéelo en el sentido de las agujas del reloj. Los lugareños suelen añadir una piedra al pasar.
 

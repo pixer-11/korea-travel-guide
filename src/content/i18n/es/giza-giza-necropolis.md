@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: giza-giza-necropolis
-srcHash: 'cf9e66294c0b'
+srcHash: '9b2edaf1b932'
 title: 'Necrópolis de Guiza: guía de viaje (4.6★)'
 description: La Necrópolis de Guiza ocupa la meseta desértica que domina Al Haram, el barrio de Guiza situado al final de la calle de las Pirámides, a unos 15–20 km al suroeste del centro de El Cairo. Con 4.6★ (112,984 reseñas), recogemos las opiniones de los visitantes, el horario y varios consejos prácticos.
 quickAnswer: La Necrópolis de Guiza ocupa la meseta desértica que domina Al Haram, el barrio de Guiza situado al final de la calle de las Pirámides, a unos 15–20 km al suroeste del centro de El Cairo. Su horario actual es de 8am–4pm. Entre semana, la franja más tranquila va de 8am–9am; los fines de semana, de 8am–10am. El sábado y el domingo conviene no llegar entre las 10am y las 2pm, cuando se concentra el mayor número de visitantes.

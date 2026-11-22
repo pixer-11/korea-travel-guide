@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: aswan-aswan-botanical-garden
-srcHash: '8a1496eb8610'
+srcHash: '5d34c4fd0be0'
 title: 'Jardín Botánico de Asuán: guía de viaje (4.4★)'
 description: 'El Jardín Botánico de Asuán ocupa toda la isla Kitchener, en pleno Nilo y justo al oeste de la isla Elefantina. 4.4★ (2,436 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Jardín Botánico de Asuán ocupa toda la isla Kitchener, situada en el Nilo justo al oeste de la isla Elefantina. Solo se llega en barco: en faluca o en lancha desde la Corniche, o con un breve trayecto desde Elefantina. Actualmente abre de 8am a 5pm. Los momentos más tranquilos son de 8am a 11am entre semana y de 8am a 9am los fines de semana, así que conviene salir temprano.'
@@ -81,7 +81,7 @@ Muchos visitantes no buscan aquí una lista de lugares que ver, sino un sitio do
 
 El jardín se encuentra rodeado de algunos de los mejores puntos de interés fluviales de Asuán, de modo que un mismo barco puede enlazar varios:
 
-- **Isla Elefantina**, justo al lado, con aldeas nubias y las ruinas de la antigua Abu
+- **Isla Elefantina**, justo al lado, con aldeas nubias y ruinas antiguas
 - **Tumbas de los Nobles (Qubbet el-Hawa)**, excavadas en el acantilado de la orilla occidental, con vistas sobre el jardín
 - **Mausoleo del Aga Khan**, en la ladera de la orilla occidental, hacia el sur
 - **Monasterio de San Simeón**, al que se sube a pie o en camello desde la orilla occidental

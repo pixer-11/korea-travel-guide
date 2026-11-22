@@ -34719,13 +34719,6 @@
   "worst": "이곳이 자리한 동쪽 둑에는 네덜란드 동인도회사 시절에 지은 사무용 건물과 창고가 늘어서 있습니다.",
   "at": "2026-10-12T11:43:25.727Z"
  },
- "ko/jakarta-guns-n-roses-jakarta-concert": {
-  "hash": "bb251d1c5b90",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "자카르타를 찾은 대형 스타디움 투어마다 이 타원형 경기장은 관객으로 가득 찼습니다.",
-  "at": "2026-10-12T11:43:26.548Z"
- },
  "ko/jakarta-lee-hi-808-hi-recordings-world-tour-2026": {
   "hash": "9c085daffafc",
   "score": 1,
@@ -36014,13 +36007,6 @@
   "worst": "根据谷歌目前的信息，公园全天开放。",
   "at": "2026-10-19T08:57:53.510Z"
  },
- "ko/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
-  "hash": "c2ade49ec446",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "헤드라이너들은 많은 사람이 듣고 자란 노래를 가진 가수들입니다.",
-  "at": "2026-10-25T07:52:46.306Z"
- },
  "ko/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
   "hash": "5682bbbf2a1f",
   "score": 1,
@@ -36104,13 +36090,6 @@
   "registerBreak": false,
   "worst": "실내에서는 바와 도움닫기 주로, 착지 매트가 아래쪽 관중석 바로 앞에 놓입니다.",
   "at": "2026-10-19T08:59:59.965Z"
- },
- "ko/bhubaneswar-hockey-india-senior-men-s-national-championships": {
-  "hash": "f8ef113cf8e9",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "오디샤 주정부는 오랫동안 인도 하키를 아낌없이 후원해 왔고, 이 도시가 하키를 대하는 태도도 남다르게 진지합니다.",
-  "at": "2026-10-19T09:00:03.455Z"
  },
  "ko/boulogne-billancourt-k-pop-forever-paris": {
   "hash": "4356783bf0a4",
@@ -37218,33 +37197,12 @@
   "worst": "官方简介说它是一座\"历经多次战火的城堡\"，这种说法实在低估了它血腥的过往。",
   "at": "2026-10-24T16:15:19.205Z"
  },
- "es/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
-  "hash": "fd1d27f0ee67",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "Su discografía, y no ningún repertorio anunciado, es la mejor guía de lo que aporta cada uno",
-  "at": "2026-10-25T07:52:12.047Z"
- },
- "ja/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
-  "hash": "3af731c757d4",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "スタジアムの照明に照らされた夜のあとには、プールサイドでもう1時間過ごすよりも、こちらのほうがきっと心に響きます。",
-  "at": "2026-10-25T07:52:36.496Z"
- },
  "zh/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
   "hash": "c22d22a6dedd",
   "score": 1,
   "registerBreak": false,
   "worst": "MEFCC通常会在展会开幕前公布嘉宾名单、座谈会日程以及门票价位档次。",
   "at": "2026-10-25T07:52:48.726Z"
- },
- "zh/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
-  "hash": "1e83f4404591",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "演出顺序和各自时长以主办方公布为准，本文不作任何推测。",
-  "at": "2026-10-25T07:52:49.695Z"
  },
  "es/dubai-nancy-ajram-live-in-dubai": {
   "hash": "600b28e783fa",
@@ -37420,13 +37378,6 @@
   "registerBreak": false,
   "worst": "그녀에게 이번 공연은 아부다비 데뷔 무대가 아닙니다. 다시 찾는 무대입니다.",
   "at": "2026-10-26T08:17:10.315Z"
- },
- "ko/ahmedabad-diljit-dosanjh-rupay-aura-india-tour-2026-ahmedabad": {
-  "hash": "79dc4d422e27",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "위층 스탠드는 무대에서 워낙 멀어서, 경기장 반대편 끝에 불 켜진 문 하나가 서 있는 것처럼 보일 정도입니다.",
-  "at": "2026-11-02T08:10:58.970Z"
  },
  "ko/auckland-asb-auckland-marathon": {
   "hash": "cad717c38b91",
@@ -39424,18 +39375,18 @@
   "at": "2026-11-09T08:14:50.447Z"
  },
  "ko/abu-dhabi-isabel-mayfair": {
-  "hash": "3cca7ac98052",
+  "hash": "216c4be7f9e1",
   "score": 1,
   "registerBreak": false,
-  "worst": "모든 표면이 은은하게 빛을 머금은 듯한 공간을 떠올려 보시기 바랍니다.",
-  "at": "2026-11-09T08:14:50.539Z"
+  "worst": "남들의 시선을 즐기며 자신을 드러내고 싶어 하는 이들이 오래전부터 모여들었습니다",
+  "at": "2026-11-22T07:50:30.223Z"
  },
  "ko/abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi": {
-  "hash": "1b49d3b8fda5",
+  "hash": "6fae7c76056c",
   "score": 1,
   "registerBreak": false,
-  "worst": "승부가 갈리는 곳은 바꿈터입니다. 선수 한 명 한 명을 가장 오래 지켜볼 수 있는 곳은 달리기 코스입니다.",
-  "at": "2026-11-09T08:14:50.749Z"
+  "worst": "여러 나라에서 온 연령별 부문 선수들도 각 종목에 출전하기 때문에, 대회 기간 대부분은 실력이 천차만별인 선수들로 코스가 붐빕니다.",
+  "at": "2026-11-22T07:50:17.077Z"
  },
  "ko/abu-simbel-abu-simbel-temples": {
   "hash": "e68176cf99ad",
@@ -40474,11 +40425,11 @@
   "at": "2026-11-16T07:46:36.931Z"
  },
  "ko/abu-dhabi-diljit-dosanjh-new-year-s-eve-concert": {
-  "hash": "5fc8e8424862",
+  "hash": "dc1bc7f73ca6",
   "score": 1,
   "registerBreak": false,
-  "worst": "다만 휴대전화를 높이 들고 한 곡 내내 촬영하면 뒷사람의 시야를 가리게 됩니다.",
-  "at": "2026-11-16T07:46:37.095Z"
+  "worst": "관객이 그의 무대와 함께 새해를 맞는 공연입니다.",
+  "at": "2026-11-22T07:50:24.079Z"
  },
  "ko/abu-dhabi-bredx-festival-bryson-tiller-central-cee": {
   "hash": "ec0cc1d75f08",
@@ -41522,5 +41473,68 @@
   "registerBreak": false,
   "worst": "对外国观众来说，“阿拉伯电影视野”是别处最难看到的单元。",
   "at": "2026-11-21T15:34:53.584Z"
+ },
+ "es/abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi": {
+  "hash": "9664a393588b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El tramo de carrera a pie es el que permite ver durante más tiempo a cada deportista",
+  "at": "2026-11-22T07:49:56.510Z"
+ },
+ "es/abu-dhabi-diljit-dosanjh-new-year-s-eve-concert": {
+  "hash": "1c41f40f83da",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-22T07:49:57.609Z"
+ },
+ "es/abu-dhabi-isabel-mayfair": {
+  "hash": "53aa24c8d3a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "La capital emiratí aspira a convertirse, al igual que Dubái, en un auténtico destino de alta cocina",
+  "at": "2026-11-22T07:50:03.409Z"
+ },
+ "ja/abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi": {
+  "hash": "260e367408c5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "政府がスポーツとレジャーの地区として開発した島で、その造りこそがマルチスポーツの大会に向いている理由です。",
+  "at": "2026-11-22T07:50:08.892Z"
+ },
+ "ja/abu-dhabi-diljit-dosanjh-new-year-s-eve-concert": {
+  "hash": "1cc5a192a1ad",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "同じエリアにはフェラーリ・ワールド、ワーナー・ブラザース・ワールド、ヤス・ウォーターワールドもあり、公演前に丸一日遊んで過ごす人も多くいます。",
+  "at": "2026-11-22T07:50:10.338Z"
+ },
+ "ja/abu-dhabi-isabel-mayfair": {
+  "hash": "88dcd7aa6513",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "どこを見ても光がきらめくような空間を思い浮かべてみてください。",
+  "at": "2026-11-22T07:50:15.814Z"
+ },
+ "zh/abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi": {
+  "hash": "47848db7a6de",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "世界铁人三项多项运动锦标赛这是第一次来到中东。",
+  "at": "2026-11-22T07:50:35.077Z"
+ },
+ "zh/abu-dhabi-diljit-dosanjh-new-year-s-eve-concert": {
+  "hash": "4bcbfe70b0dd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "无论官方渠道以何种形式发放，都要准备妥当，以便在入口顺利入场。",
+  "at": "2026-11-22T07:50:38.946Z"
+ },
+ "zh/abu-dhabi-isabel-mayfair": {
+  "hash": "feb45c4b840a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "开业时机颇有深意。这座首都城市正努力与迪拜比肩，要成为名副其实的高级餐饮目的地，而不只是旅途中的一站。",
+  "at": "2026-11-22T07:50:39.964Z"
  }
 }

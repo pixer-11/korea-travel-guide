@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-infosys-foundation-india-international-challenge-badminton
-srcHash: 'd3682e713199'
+srcHash: '6f5039a12f48'
 title: 'Infosys Foundation India International Challenge (bádminton): fechas, entradas y sede en Bengaluru'
 description: Las fechas anunciadas para el Infosys Foundation India International Challenge de bádminton eran del martes 3 al domingo 8 de noviembre de 2026, en Bengaluru (India).
 quickAnswer: Las fechas anunciadas para el Infosys Foundation India International Challenge de bádminton eran del martes 3 al domingo 8 de noviembre de 2026, en Bengaluru (India). Era un torneo de categoría International Challenge de la BWF. Se disputaban las cinco modalidades y había puntos del ranking mundial en juego. Según el calendario, las primeras rondas ocupaban los días iniciales, mientras que las semifinales y las finales quedaban para el fin de semana.

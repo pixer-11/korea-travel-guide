@@ -1,6 +1,6 @@
 ---
 title: 'Dermot Kennedy – Melbourne: Dates, Tickets & Venue (Melbourne)'
-description: Dermot Kennedy – Melbourne takes place on Saturday 21 November 2026 at Rod Laver Arena in Melbourne Park, the tennis-and-concert precinct on the edge of Melbourne's CBD.
+description: Dermot Kennedy was set to play Rod Laver Arena in Melbourne Park on Saturday 21 November 2026, beside the Yarra on the edge of Melbourne's CBD.
 country: Australia
 region: Melbourne
 category: event
@@ -27,27 +27,26 @@ gallery: []
 tags:
   - melbourne
   - event
-quickAnswer: Dermot Kennedy – Melbourne takes place on Saturday 21 November 2026 at Rod Laver Arena in Melbourne Park, the tennis-and-concert precinct on the edge of Melbourne's CBD. The arena is a short walk from Richmond and Jolimont train stations and from Flinders Street Station along the Yarra. Most concertgoers come by train or tram rather than by car.
+quickAnswer: Dermot Kennedy – Melbourne was set for Saturday 21 November 2026 at Rod Laver Arena in Melbourne Park, the tennis-and-concert precinct on the edge of Melbourne's CBD. The arena is a short walk from Richmond and Jolimont train stations and from Flinders Street Station along the Yarra. Most concertgoers come by train or tram rather than by car.
 faq:
   - q: When and where does Dermot Kennedy play in Melbourne?
-    a: He plays Rod Laver Arena in Melbourne Park on Saturday 21 November 2026. The arena sits on Olympic Boulevard, just east of the CBD beside the Yarra River.
+    a: He was scheduled to play Rod Laver Arena in Melbourne Park on Saturday 21 November 2026. The arena sits on Olympic Boulevard, just east of the CBD beside the Yarra River.
   - q: What is the easiest way to get to Rod Laver Arena?
     a: Most people come by train. Richmond Station is about a ten-minute walk away, and Jolimont Station is also close. Flinders Street Station is a 15–20 minute walk along the river through Birrarung Marr, and tram route 70 stops right by the arena. Event parking nearby is limited.
   - q: Where are tickets and door times published?
-    a: Melbourne & Olympic Parks, which runs Rod Laver Arena, lists arena events and their authorised ticket seller on its website. Door times, ticket categories and current prices sit on that event listing.
+    a: Melbourne & Olympic Parks, which runs Rod Laver Arena, names an authorised ticket seller for each arena event. Door times, ticket categories and prices are set separately for each show.
   - q: What can I bring into the arena?
-    a: Melbourne & Olympic Parks sets bag size limits and a list of prohibited items on its website. A small bag clears security fastest. Photo ID is routinely requested at the bars, and overseas visitors usually carry a passport.
+    a: Melbourne & Olympic Parks sets bag size limits and a list of prohibited items. A small bag clears security fastest. Photo ID is routinely requested at the bars, and overseas visitors usually carry a passport.
   - q: Where can I go after the concert?
     a: Federation Square and Southbank's riverside bars are a short walk west along the Yarra. Flinders Lane and Hosier Lane are just north of Federation Square, and Swan Street in Richmond has pubs to the east.
 aiGenerated: true
 draft: false
 ---
-
 ## Saturday night at Melbourne Park
 
-The date is Saturday 21 November 2026. Irish singer-songwriter Dermot Kennedy plays Rod Laver Arena, the main bowl of Melbourne Park. It is the same court where the Australian Open finals are decided every January.
+The concert was set for Saturday 21 November 2026, with Irish singer-songwriter Dermot Kennedy at Rod Laver Arena, the main bowl of Melbourne Park. It is the same court where the Australian Open finals are decided every January.
 
-Late November is early summer in Melbourne, with daylight saving in force. That means the walk in usually happens in daylight, because the sun sets after 8pm at this time of year. The walk out happens under the city lights. Melbourne weather swings fast in spring, so a light layer earns its place in a bag.
+Late November is early summer in Melbourne, with daylight saving in force. The sun sets after 8pm at this time of year, so the walk in to an evening show usually happens in daylight. The walk out happens under the city lights. Melbourne weather swings fast in spring, and a light layer is standard.
 
 ## The voice from Grafton Street
 
@@ -61,7 +60,7 @@ His sound pairs a hoarse, full-throated vocal with piano, acoustic guitar and hi
 - "Better Days"
 - "Kiss Me"
 
-These are a guide to his catalogue, not a setlist. The running order on the night belongs to the artist.
+These are a guide to his catalogue, not a setlist. The running order of any show belongs to the artist.
 
 ## Inside the arena
 
@@ -69,7 +68,7 @@ Rod Laver Arena opened in 1988 as the National Tennis Centre's centre court. It 
 
 For concerts the stage usually sits at one end of the bowl. A floor area covers what is normally the court. Tiered seating rises steeply on three sides, so even the upper levels look down onto the stage instead of across at it.
 
-Melbourne & Olympic Parks runs the precinct. Its website carries venue information, the bag and entry rules, accessibility details and the authorised ticket seller for arena events. Ticket categories, the floor layout and door times for a specific show belong to that event's listing. This guide does not repeat them, and no prices are printed here.
+Melbourne & Olympic Parks runs the precinct. Its website carries venue information, the bag and entry rules, accessibility details and the authorised ticket seller for arena events. Ticket categories, the floor layout and door times are set show by show.
 
 ## Getting to Rod Laver Arena
 
@@ -82,7 +81,7 @@ The main routes:
 - **Flinders Street Station**: the city's hub. The walk along the river through Birrarung Marr takes about 15–20 minutes.
 - **Tram route 70**: runs along Batman Avenue and Olympic Boulevard, with a stop named for the arena.
 
-Visitors who are staying in the CBD or Southbank often skip transit and walk the riverbank. It is flat, well lit, and full of other fans heading the same way.
+Visitors staying in the CBD or Southbank often skip transit and walk the riverbank. It is flat, well lit, and on concert nights full of fans heading the same way.
 
 ## The river walk after the encore
 
@@ -90,13 +89,13 @@ Melbourne Park empties all at once when the house lights come up. Thousands of p
 
 Many locals take the slower option. They turn west along the Yarra, past the sports fields and through Birrarung Marr, toward Federation Square. Flinders Street Station's domed clock building appears at the end of the path. The station has far more platforms to spread the crowd than Richmond does.
 
-On a Saturday the city stays awake after the show. Southbank's riverside bars sit just across Princes Bridge. Hosier Lane's painted walls and the late kitchens of Flinders Lane are a few minutes north of Federation Square. Going east instead, Swan Street in Richmond has pubs that fill up after events at the precinct.
+On a Saturday the city stays awake late. Southbank's riverside bars sit just across Princes Bridge. Hosier Lane's painted walls and the late kitchens of Flinders Lane are a few minutes north of Federation Square. Going east instead, Swan Street in Richmond has pubs that fill up after events at the precinct.
 
 ## Arena manners: drinks, bags and the floor
 
-A few habits make the night easier at Melbourne Park.
+A few habits make a night at Melbourne Park easier.
 
-**Paying.** Card and phone payment is the norm at the arena's bars and food counters. Tipping is not expected in Australia for counter service like this.
+**Paying.** Card and phone payment is the norm at the arena's bars and food counters. Tipping is not customary in Australia for counter service like this.
 
 **Bags.** Melbourne & Olympic Parks sets size limits for bags and a list of prohibited items. Fans who carry only a small bag or nothing at all tend to clear security fastest. Large backpacks are the item most often turned away at the gate.
 
@@ -108,7 +107,7 @@ A few habits make the night easier at Melbourne Park.
 
 ## Making a weekend of it
 
-People who travel in for the show often stay in the CBD or Southbank, both within walking distance of Melbourne Park. Richmond is the other easy base, with its own station and plenty of places to eat along Swan Street and Bridge Road.
+People who travel in for arena shows often stay in the CBD or Southbank, both within walking distance of Melbourne Park. Richmond is the other easy base, with its own station and plenty of places to eat along Swan Street and Bridge Road.
 
 The precinct's neighbours are worth a daytime look:
 
@@ -117,4 +116,4 @@ The precinct's neighbours are worth a daytime look:
 - **The National Gallery of Victoria**: on St Kilda Road, a short walk past Federation Square.
 - **ACMI**: the screen-culture museum inside Federation Square.
 
-A Sunday morning coffee in the laneways around Degraves Street is how plenty of out-of-towners round off the trip before heading home.
+A Sunday morning coffee in the laneways around Degraves Street is how plenty of out-of-towners round off a concert weekend before heading home.

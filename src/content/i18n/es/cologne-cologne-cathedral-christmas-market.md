@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cologne-cologne-cathedral-christmas-market
-srcHash: 'c6bb36eaedc8'
+srcHash: '4c00168537fd'
 title: 'Mercado navideño de la catedral de Colonia: fechas, entradas y ubicación'
 description: El mercado navideño de la catedral de Colonia abre en 2026 del 16 de noviembre al 23 de diciembre en la Roncalliplatz, la plaza situada a los pies de la catedral. El domingo 22 de noviembre, Totensonntag, permanece cerrado.
 quickAnswer: En 2026, el mercado navideño de la catedral de Colonia abre del 16 de noviembre al 23 de diciembre en la Roncalliplatz, la plaza que se extiende a los pies de la catedral. Cierra únicamente el 22 de noviembre, Totensonntag. El acceso a la plaza es libre y no requiere entrada. La comida, la bebida y los regalos se pagan en cada puesto. Como la estación central de Colonia (Köln Hauptbahnhof) queda a pocos minutos a pie, la mayoría de los visitantes llega en tren.
@@ -43,7 +43,7 @@ La catedral queda a unos pasos y, fuera del horario de los oficios, la entrada a
 
 El Glühwein se sirve en taza de cerámica, y al precio de la bebida se suma una fianza (*Pfand*). Para recuperarla, basta con devolver la taza, como es habitual en los mercados navideños alemanes. También existe la opción de quedársela: cada mercado tiene su propio diseño, y muchos visitantes se llevan una a casa como recuerdo.
 
-Aunque bastantes puestos aceptan tarjeta, en las casetas más pequeñas el efectivo sigue siendo lo más rápido. A quien le apetezca pedir en alemán le bastará con decir: *"Einen Glühwein, bitte."*
+Aunque bastantes puestos aceptan tarjeta, en las casetas más pequeñas el efectivo sigue siendo lo más rápido. A quien le apetezca pedir en alemán le bastará con decir: *Ein Glühwein, bitte.*
 
 Su ubicación lo convierte en uno de los mercados más concurridos de Colonia. La estación central desemboca directamente en la explanada de la catedral, por lo que las noches de fin de semana y los sábados previos a Navidad son los momentos de mayor afluencia. Las tardes entre semana suelen ser más tranquilas, y a última hora de la noche los pasillos vuelven a despejarse. En mercados tan llenos como este actúan carteristas; por eso, los vecinos de la ciudad llevan el bolso bien cerrado y por delante.
 

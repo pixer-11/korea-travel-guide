@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: bangkok-bigbang-world-tour-xx-cosmos-in-bangkok
-srcHash: 'b68322805a1c'
+srcHash: '1ba3d81237f6'
 title: 'BIGBANG World Tour [XX : COSMOS] in Bangkok：日程・チケット・会場ガイド（バンコク）'
 description: 'BIGBANG World Tour [XX : COSMOS]のバンコク公演は、2026年11月7日にバンコク・フアマーク地区のラジャマンガラ国立競技場で行われる予定でした。'
 quickAnswer: 'BIGBANG World Tour [XX : COSMOS]のバンコク公演は、2026年11月7日にバンコク・フアマーク（Hua Mak）地区のラジャマンガラ国立競技場（Rajamangala National Stadium）で行われる予定でした。2026-2027年ワールドツアーのタイ公演にあたり、チケットと座席表は主催するプロモーターから出ていました。競技場の目の前に停まる鉄道路線はないため、多くのファンはエアポート・レイル・リンクに乗り、最後は短い距離をタクシーやグラブ（Grab）で移動しています。'
@@ -20,7 +20,7 @@ faq:
 
 ## 20年目の、スタジアムでの一夜
 
-ツアータイトルには数字が隠れています。「XX」はローマ数字の20を表し、BIGBANGがデビューしたのはこのツアーのちょうど20年前、2006年のことです。2026-2027年ワールドツアー［XX : COSMOS］は、タイの国立競技場であるラジャマンガラ国立競技場（Rajamangala National Stadium）で、2026年11月7日に公演を行う予定でした。
+ツアータイトルには数字が隠れています。「XX」はローマ数字の20を表し、BIGBANGがデビューしたのはこのツアーのちょうど20年前、2006年のことです。ワールドツアー［XX : COSMOS］は、タイの国立競技場であるラジャマンガラ国立競技場（Rajamangala National Stadium）で、2026年11月7日に公演を行う予定でした。
 
 アリーナではなく、スタジアムでの公演です。バンコクのK-POP公演といえば、ムアントンタニ（Muang Thong Thani）のインパクト・アリーナ（Impact Arena）のような屋内会場を埋めるのが普通です。あえてラジャマンガラを押さえたことは、タイにおけるBIGBANGの人気の大きさを物語っていました。ファンダムの名前はVIPです。彼らは大人になってからのほとんどの時間を、「Fantastic Baby」や「Bang Bang Bang」、「Haru Haru」とともに歌ってきました。
 

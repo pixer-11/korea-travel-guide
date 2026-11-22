@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-jardin-botanico-carlos-thays
-srcHash: '09836897623c'
+srcHash: 'f2bf7515000e'
 title: 'Jardín Botánico Carlos Thays: guía de viaje de Buenos Aires'
 description: 'El Jardín Botánico Carlos Thays está en Av. Santa Fe 3957, en Palermo (Buenos Aires), a pasos de la estación Plaza Italia de la línea D del Subte. Los fines de semana, la franja más tranquila va de 10am a 11am y la de mayor afluencia, de 2pm a 6pm. 4.6★ (67,059 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico Carlos Thays está en Av. Santa Fe 3957, en Palermo (Buenos Aires), a pasos de la estación Plaza Italia de la línea D del Subte. Los fines de semana, la franja más tranquila va de 10am a 11am y la de mayor afluencia, de 2pm a 6pm. Cierra los lunes. Actualmente abre a las 8am de martes a viernes y a las 9:30am los sábados y domingos.
@@ -22,7 +22,7 @@ faq:
 
 El tránsito rodea este jardín por todos sus lados. El predio dibuja un triángulo entre la Avenida Santa Fe, la Avenida Las Heras y la calle República Árabe Siria, y al otro lado de las rejas los colectivos y los taxis giran sin pausa alrededor de Plaza Italia. Sin embargo, basta cruzar la entrada y dar unos pocos pasos para que todo ese movimiento quede atrás, sustituido por senderos de grava y una alta bóveda de copas.
 
-El jardín lleva el nombre de su creador, el paisajista de origen francés Carlos Thays, que lo diseñó y lo inauguró en 1898. Con sus 7 hectáreas, puede recorrerse sin prisas en una mañana. Conviene saber, eso sí, que figura entre los espacios verdes con más reseñas de la ciudad: no espere tenerlo para usted solo.
+El jardín lleva el nombre de su creador, el paisajista de origen francés Carlos Thays, que lo diseñó y lo inauguró en 1898. Sus 7 hectáreas lo hacen lo bastante pequeño como para recorrerlo sin prisas en una mañana. Conviene saber, eso sí, que figura entre los espacios verdes con más reseñas de la ciudad: no espere tenerlo para usted solo.
 
 ## Qué encontrará en el recorrido
 

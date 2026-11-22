@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cologne-cologne-marathon-carnival-marathon
-srcHash: '478288e74119'
+srcHash: '7a1fdf273ac6'
 title: 'Maratón de Colonia (Maratón de Carnaval): fechas, entradas y sede (Colonia)'
 description: El Maratón de Colonia (Maratón de Carnaval) estaba previsto para el miércoles 11 de noviembre de 2026 en Colonia, el mismo día en que la ciudad inaugura su temporada de carnaval a las 11:11.
 quickAnswer: El Maratón de Colonia (Maratón de Carnaval) estaba previsto para el miércoles 11 de noviembre de 2026 en Colonia (Alemania). Coincidía con el día en que la ciudad abre su temporada de carnaval, a las 11:11. De las inscripciones, las entradas y la zona de salida se encargaba la organización de la carrera. Cada 11.11, las calles del casco antiguo (Altstadt) y de la Zülpicher Straße se llenan de gente disfrazada, y los trenes que llegan a Köln Hauptbahnhof suelen ir abarrotados.
@@ -66,7 +66,7 @@ El carnaval de Colonia tiene sus propias reglas, y algunas salen a relucir const
 - **El «Bützchen»,** un besito rápido en la mejilla, es una costumbre del carnaval. Rechazarlo con amabilidad no ofende a nadie.
 - **Que los adultos se disfracen es lo normal.** Con disfraz, el visitante pasa de observar el día a formar parte de él.
 
-Los corredores suelen dejar la kölsch para después de cruzar la meta. Las cervecerías del casco antiguo, como Früh am Dom, junto a la catedral, acostumbran a estar abarrotadas cada 11.11, así que muchos corredores prefieren celebrarlo en su propio barrio.
+Los corredores suelen dejar la kölsch para después de cruzar la meta. Las cervecerías del casco antiguo, como Früh am Dom, se llenan durante el carnaval, así que muchos corredores prefieren celebrarlo en su propio barrio.
 
 ## Después de la meta
 

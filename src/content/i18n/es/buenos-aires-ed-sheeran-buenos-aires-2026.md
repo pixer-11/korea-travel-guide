@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-ed-sheeran-buenos-aires-2026
-srcHash: '852acb8aaee1'
+srcHash: '1aba8eafa69d'
 title: 'Ed Sheeran en Buenos Aires 2026: fechas, entradas y estadio'
 description: Ed Sheeran ofrece un concierto de estadio en Buenos Aires el martes 1 de diciembre de 2026. El escenario es el Estadio Huracán, en el barrio de Parque Patricios, y FINNEAS es el artista invitado.
 quickAnswer: El concierto de Ed Sheeran en Buenos Aires 2026 es el martes 1 de diciembre de 2026. Se trata de un espectáculo de estadio en el Estadio Huracán, en el barrio de Parque Patricios, con FINNEAS como artista invitado. Las estaciones de Subte más cercanas pertenecen a la línea H. En el sitio web oficial de Ed Sheeran figuran las fechas de su gira y los enlaces autorizados para comprar entradas.
@@ -22,7 +22,7 @@ faq:
 
 La cita es el martes 1 de diciembre de 2026. Ed Sheeran lleva su espectáculo de estadio al Estadio Huracán de Buenos Aires, y la apertura corre a cargo de FINNEAS como artista invitado. Eso es todo lo que se sabe de la noche, y basta para organizarse.
 
-Para quien nunca ha visto a Sheeran en directo, lo sorprendente es el formato. Durante casi toda su carrera ha llenado estadios prácticamente en solitario. Construye cada canción capa a capa con un pedal de loop: primero un golpe en la guitarra que marca el ritmo, después una armonía tarareada y, por encima de todo, el estribillo. Ver a setenta mil personas pendientes de que un solo hombre pise un pedal produce una tensión extraña y magnífica.
+Para quien nunca ha visto a Sheeran en directo, lo sorprendente es el formato. Durante casi toda su carrera ha llenado estadios prácticamente en solitario. Construye cada canción capa a capa con un pedal de loop: primero un golpe en la guitarra que marca el ritmo, después una armonía tarareada y, por encima de todo, el estribillo. Ver a todo un estadio pendiente de que un solo hombre pise un pedal produce una tensión extraña y magnífica.
 
 FINNEAS llega desde el extremo opuesto. Se le conoce sobre todo como productor y coautor de los discos de su hermana, Billie Eilish. En solitario interpreta canciones más íntimas, guiadas por el piano y con aire de estudio casero. La combinación funciona porque ambos son, ante todo, compositores.
 

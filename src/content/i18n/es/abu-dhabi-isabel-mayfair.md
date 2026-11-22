@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-isabel-mayfair
-srcHash: '0d0fa75d50c0'
+srcHash: '66a6821964b7'
 title: 'Isabel Mayfair en Abu Dabi: guía para visitarlo'
 description: Isabel Mayfair, en Abu Dabi (Emiratos Árabes Unidos), es uno de los locales nuevos de los que más se habla. Le contamos qué es, dónde se encuentra y cómo visitarlo.
 quickAnswer: El famoso restaurante londinense abrió en abril de 2026 su primera sede fuera del Reino Unido. Isabel Mayfair Abu Dabi se encuentra en The Galleria, en la isla de Al Maryah. Es conocido por su alta cocina mediterránea y por sus interiores de terciopelo mullido. Su público suele vestir con elegancia y acude para celebrar ocasiones especiales, así que conviene reservar con antelación y confirmar el horario directamente con el restaurante antes de ir. Las noches de jueves y viernes son las más concurridas. Si busca una mesa más tranquila, lo mejor es cenar temprano entre semana.
@@ -20,7 +20,7 @@ faq:
 
 ## Por qué Isabel Mayfair es importante aquí
 
-En los últimos años, Abu Dabi ha ido sumando a su oferta gastronómica nombres de prestigio internacional, pero pocos llegan con un linaje tan sólido como este. En abril de 2026, el glamuroso Isabel Mayfair de Londres inauguró en The Galleria, en la isla de Al Maryah, su primera sede fuera del Reino Unido.
+En los últimos años, Abu Dabi ha ido sumando a su oferta gastronómica nombres de prestigio internacional, pero pocos llegan con un linaje tan sólido como este. El glamuroso Isabel Mayfair de Londres ha inaugurado en Abu Dabi su primera sede fuera del Reino Unido.
 
 El momento de la apertura dice mucho. La capital emiratí aspira a convertirse, al igual que Dubái, en un auténtico destino de alta cocina y no en una simple escala. Para el viajero, esto supone disfrutar del ambiente de terciopelo y mármol de Mayfair sin necesidad de volar a Londres.
 

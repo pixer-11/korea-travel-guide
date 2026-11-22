@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: giza-marakez-pyramids-half-marathon
-srcHash: '2291fb71061d'
+srcHash: 'ed868d2d94cf'
 title: 'Media Maratón de las Pirámides Marakez: fechas, inscripciones y recorrido (Guiza)'
 description: Las fechas de la Media Maratón de las Pirámides Marakez (Marakez Pyramids Half Marathon) son el 11 y el 12 de diciembre de 2026, dentro del recinto de las pirámides de Guiza, junto a El Cairo.
 quickAnswer: Las fechas de la Media Maratón de las Pirámides Marakez (Marakez Pyramids Half Marathon) son el 11 y el 12 de diciembre de 2026, y su escenario es el recinto de las pirámides de Guiza, a las puertas de El Cairo. El viernes 11 de diciembre se corre el 5K. El sábado 12 de diciembre les toca a los 10K y a la media maratón. En la web oficial de la prueba, el organizador publica la inscripción, los enlaces de venta y toda la información del día de carrera.
@@ -28,7 +28,7 @@ Pocas carreras en ruta del mundo ofrecen tanta arquitectura antigua junto al tra
 
 ## Fechas y distancias de 2026
 
-La octava edición ocupa dos jornadas dentro del recinto de las pirámides de Guiza:
+La carrera ocupa dos jornadas dentro del recinto de las pirámides de Guiza:
 
 - **Viernes 11 de diciembre de 2026:** el 5K
 - **Sábado 12 de diciembre de 2026:** los 10K y la media maratón (21,1 km)

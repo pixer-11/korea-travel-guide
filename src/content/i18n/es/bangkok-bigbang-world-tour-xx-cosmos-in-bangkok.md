@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-bigbang-world-tour-xx-cosmos-in-bangkok
-srcHash: 'b68322805a1c'
+srcHash: '1ba3d81237f6'
 title: 'BIGBANG World Tour [XX : COSMOS] en Bangkok: fechas, entradas y recinto (Bangkok)'
 description: 'La fecha anunciada para el BIGBANG World Tour [XX : COSMOS] en Bangkok era el 7 de noviembre de 2026, en el Estadio Nacional Rajamangala (Rajamangala National Stadium), situado en la zona de Hua Mak.'
 quickAnswer: 'La fecha anunciada para el BIGBANG World Tour [XX : COSMOS] en Bangkok era el 7 de noviembre de 2026, en el Estadio Nacional Rajamangala (Rajamangala National Stadium), en la zona de Hua Mak. Se trataba de la parada tailandesa de la gira mundial 2026-2027 del grupo, y tanto las entradas como los planos de asientos dependían del promotor del espectáculo. Como ninguna línea ferroviaria llega hasta las puertas del estadio, la mayoría de los fans toma el Airport Rail Link y completa el trayecto con un breve viaje en taxi o en Grab.'
@@ -20,7 +20,7 @@ faq:
 
 ## Veinte años y una noche de estadio
 
-El título de la gira esconde una cifra: «XX» es el número veinte en romanos, y BIGBANG debutó en 2006, dos décadas antes de esta gira. El grupo anunció que llevaría su 2026-2027 World Tour [XX : COSMOS] al Estadio Nacional Rajamangala, el estadio nacional de Tailandia. La fecha anunciada era el 7 de noviembre de 2026.
+El título de la gira esconde una cifra: «XX» es el número veinte en romanos, y BIGBANG debutó en 2006, dos décadas antes de esta gira. El grupo anunció que llevaría su World Tour [XX : COSMOS] al Estadio Nacional Rajamangala, el estadio nacional de Tailandia. La fecha anunciada era el 7 de noviembre de 2026.
 
 No se trataba de un concierto en pabellón, sino en estadio. El público del K-pop en Bangkok suele llenar recintos cubiertos como el Impact Arena de Muang Thong Thani, de modo que la elección del Rajamangala daba una idea de la magnitud de los seguidores tailandeses de BIGBANG. Al fandom se le conoce como VIP, y buena parte de esos fans lleva casi toda su vida adulta cantando «Fantastic Baby», «Bang Bang Bang» y «Haru Haru».
 

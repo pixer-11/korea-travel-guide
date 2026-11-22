@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: aswan-nubian-museum
-srcHash: 'af77e3c8038d'
+srcHash: '4d2c98a03bd8'
 title: 'Museo Nubio de Asuán: guía de viaje (4.6★)'
 description: En una ladera sobre la Corniche de Asuán, a poca distancia del hotel Old Cataract, se alza el Museo Nubio. Con 4.6★ (4,276 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos.
 quickAnswer: En una ladera sobre la Corniche de Asuán, a poca distancia del hotel Old Cataract, se alza el Museo Nubio. Su recorrido narra la historia de Nubia desde la prehistoria hasta las aldeas que quedaron sumergidas bajo el lago Nasser. El momento más tranquilo suele ser entre las 9am y las 10am. Conviene evitar las tardes de fin de semana, de 2pm a 5pm, y reservar unas dos horas para la visita.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: glasgow-cafe-gandolfi
-srcHash: '895a2d8e3c78'
+srcHash: '69b55960609c'
 title: 'Cafe Gandolfi: guía de viaje de Glasgow (4.6★)'
 description: En el 64 de Albion Street, en la Merchant City de Glasgow, se encuentra Cafe Gandolfi, un bistró de larga fama. Con 4.6★ (1,785 reseñas), aquí encontrará la opinión de los visitantes, el horario y algunos consejos.
 quickAnswer: En el 64 de Albion Street, en plena Merchant City de Glasgow, se encuentra Cafe Gandolfi, un bistró de larga fama. De martes a sábado sirve desde el desayuno hasta la cena tardía. Los lunes y los domingos cierra a las 4pm. Si va en fin de semana, tenga en cuenta que la previsión no marca ninguna franja tranquila y que conviene evitar el tramo de 2pm a 10pm.
@@ -42,7 +42,7 @@ Nada condiciona tanto la visita como el horario:
 - **Lunes**: de 8am a 4pm, solo durante el día
 - **Domingo**: de 9am a 4pm, ideal para un brunch pero no para cenar
 
-Es decir, los domingos y los lunes no se sirven cenas. La afluencia del fin de semana es el otro factor que hay que tener en cuenta. Procure no presentarse entre las 2pm y las 10pm un sábado o un domingo, porque a esas horas la sala está más llena y quien llega sin reserva espera más.
+Es decir, los domingos y los lunes no se sirven cenas. La afluencia del fin de semana es el otro factor que hay que tener en cuenta. Procure no presentarse en el momento de más afluencia, a primera hora de la tarde, un sábado o un domingo, porque a esas horas la sala está más llena y quien llega sin reserva espera más.
 
 El sábado, la previsión no marca ninguna franja tranquila, así que llegar por la mañana, mucho antes del tramo de más afluencia que empieza a las 2pm, es la forma más fácil de conseguir mesa sin haberla planeado. El domingo la mayor afluencia va de las 2pm hasta el cierre de las 4pm, así que ese día vaya también más temprano.
 

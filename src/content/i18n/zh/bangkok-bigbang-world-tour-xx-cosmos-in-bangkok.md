@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-bigbang-world-tour-xx-cosmos-in-bangkok
-srcHash: 'b68322805a1c'
+srcHash: '1ba3d81237f6'
 title: 'BIGBANG世界巡演[XX : COSMOS]曼谷站：日期、门票与场馆（曼谷）'
 description: 'BIGBANG世界巡演[XX : COSMOS]曼谷站的日程为2026年11月7日，地点是曼谷华目（Hua Mak）一带的拉加曼加拉国家体育场。'
 quickAnswer: 'BIGBANG世界巡演[XX : COSMOS]曼谷站的日程为2026年11月7日，地点是曼谷华目（Hua Mak）一带的拉加曼加拉国家体育场（Rajamangala National Stadium）。这是该组合2026-2027世界巡演的泰国站，门票与座位图均由演出主办方发布。体育场门口没有轨道交通站点，所以大多数歌迷都是先坐机场快线，再换乘出租车或Grab走完最后一小段路。'
@@ -20,7 +20,7 @@ faq:
 
 ## 出道二十年，体育场里的一夜
 
-这次巡演的名字里藏着一个数字。“XX”是罗马数字里的二十，而BIGBANG正是在2006年出道，到这轮巡演恰好二十年。2026-2027世界巡演[XX : COSMOS]的曼谷站日期为2026年11月7日，场地是泰国国家体育场：拉加曼加拉国家体育场。
+这次巡演的名字里藏着一个数字。“XX”是罗马数字里的二十，而BIGBANG正是在2006年出道，到这轮巡演恰好二十年。世界巡演[XX : COSMOS]的曼谷站日期为2026年11月7日，场地是泰国国家体育场：拉加曼加拉国家体育场。
 
 这一站放在体育场，而不是一般的室内馆。曼谷的K-pop演出通常在蒙通他尼（Muang Thong Thani）的Impact Arena这类室内场馆举行，这次改订拉加曼加拉，足见BIGBANG在泰国的人气有多高。他们的粉丝名叫VIP，这些歌迷从青春期一路唱着《Fantastic Baby》《Bang Bang Bang》和《Haru Haru》走到了成年。
 

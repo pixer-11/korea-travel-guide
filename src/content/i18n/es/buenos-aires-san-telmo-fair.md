@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-san-telmo-fair
-srcHash: '32c6a1ab24fa'
+srcHash: 'a069e73e11a4'
 title: 'Feria de San Telmo: guía de viaje de Buenos Aires (4.5★)'
 description: Cada domingo, la Feria de San Telmo ocupa la calle Defensa, en el barrio porteño de San Telmo. Sus puestos de antigüedades, artesanías, ropa vintage y objetos curiosos se extienden desde las inmediaciones de la Plaza de Mayo hasta la Plaza Dorrego y más allá. Con una valoración de 4.5★ (5,496 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La Feria de San Telmo es un mercado callejero que solo abre los domingos. Ocupa la calle Defensa, en el barrio de San Telmo, y sus puestos de antigüedades, artesanías, ropa vintage y objetos curiosos van desde las cercanías de la Plaza de Mayo hasta la Plaza Dorrego y más allá. En la actualidad funciona los domingos de 9:00 AM a 6:30 PM y permanece cerrada el resto de la semana. Reserve entre tres y cuatro horas para recorrerla y empiece por el extremo de la Plaza de Mayo para avanzar hacia el sur.
@@ -40,7 +40,7 @@ Algunos objetos que vale la pena buscar:
 
 La mayor afluencia de público se concentra en la Plaza Dorrego. Cada domingo la plaza se llena de mesas de anticuarios, y no es raro ver a bailarines de tango y músicos callejeros actuando ante quien se detenga a mirarlos. Si se queda a escuchar alguna canción, deje unas monedas en el sombrero.
 
-A un par de cuadras se encuentra el Mercado de San Telmo, inaugurado en 1897. Este mercado cubierto, bajo un techo de hierro y vidrio, tiene accesos por Defensa y por las calles vecinas. En su interior conviven puestos de frutas y verduras, anticuarios y barras de comida. Es el lugar más cómodo para sentarse a comer sin alejarse de la feria.
+A un par de cuadras se encuentra el Mercado de San Telmo. Este mercado cubierto, bajo un techo de hierro y vidrio, tiene accesos por Defensa y por las calles vecinas. En su interior conviven puestos de frutas y verduras, anticuarios y barras de comida. Es el lugar más cómodo para sentarse a comer sin alejarse de la feria.
 
 ## Cómo llegar a Defensa
 

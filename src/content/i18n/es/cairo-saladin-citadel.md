@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cairo-saladin-citadel
-srcHash: '55df755eca13'
+srcHash: '083b72a3d151'
 title: 'Ciudadela de Saladino: guía de viaje de El Cairo (4.6★)'
 description: En el distrito cairota de El Khalifa, sobre un espolón de las colinas de Mokattam (Muqattam), la Ciudadela de Saladino domina El Cairo islámico. Su horario actual es de 8am–5pm. Con 4.6★ y 37,076 reseñas, aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el distrito cairota de El Khalifa, sobre un espolón de las colinas de Mokattam (Muqattam), la Ciudadela de Saladino domina El Cairo islámico. Su horario actual es de 8am–5pm. Lo más tranquilo suele ser la franja de 8am–9am y la de 4pm–5pm. Conviene evitar los fines de semana entre las 10am y las 3pm. Para recorrer la Mezquita de Muhammad Ali, las mezquitas más antiguas y las murallas occidentales, calcule unas 2–3 horas.
@@ -68,7 +68,7 @@ Actualmente el recinto abre de 8am–5pm todos los días de la semana. Los horar
 - Lleve hombros y rodillas cubiertos. Las mujeres deben traer un pañuelo para el cabello, aunque a veces se prestan en la entrada.
 - Hable en voz baja y no pase por delante de quien esté rezando.
 
-**Entradas y guías.** Compre las entradas únicamente en la taquilla oficial, donde se exponen los precios vigentes, o consúltelos antes en internet. Los hombres que se ofrecen como guías cerca de la puerta no son oficiales. Basta con un «la, shukran» («no, gracias») educado pero firme.
+**Entradas y guías.** Compre las entradas únicamente en la taquilla oficial, donde se exponen los precios vigentes, o consúltelos antes en internet. Los hombres que se ofrecen como guías cerca de la puerta no son oficiales. Basta con un «no, gracias» educado pero firme.
 
 **Qué llevar:** sombrero, agua y protector solar, porque apenas hay sombra en todo el recinto.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cairo-gayer-anderson-museum
-srcHash: '7f254194739a'
+srcHash: '9f8008dc0fe6'
 title: 'Museo Gayer-Anderson: guía de viaje de El Cairo (4.6★)'
 description: En el barrio cairota de Sayeda Zeinab, adosadas al muro exterior de la Mezquita de Ibn Tulun, se alzan las dos casas otomanas unidas que forman el Museo Gayer-Anderson. Con una valoración de 4.6★ (1,970 reseñas), le contamos qué opinan los visitantes, su horario y algunos consejos.
 quickAnswer: El Museo Gayer-Anderson ocupa dos casas de época otomana unidas entre sí en Sayeda Zeinab (El Cairo), levantadas contra el muro exterior de la Mezquita de Ibn Tulun. Por ahora abre todos los días de la semana de 9am–5pm, pero como el horario de los museos varía, conviene confirmarlo en la entrada o en la web oficial. Calcule alrededor de una hora y aproveche para visitar también la vecina Ibn Tulun.
@@ -51,4 +51,4 @@ La entrada se compra en la taquilla situada junto al acceso, donde figura el pre
 
 Es frecuente que los vigilantes le guíen por salas que quizá pasaría por alto: abren una puerta, le señalan la vista a través de una mashrabiya y luego esperan una pequeña propina. Como escasea el cambio, lleve billetes de libra egipcia de poco valor. Si prefiere explorar por su cuenta, basta con un cortés «la, shukran» («no, gracias»).
 
-Organice el día por orden: primero Ibn Tulun, después este museo y, por último, las mezquitas de Salah al-Din. Por la mañana la luz cae más suave sobre el patio de la mezquita y la piedra está más fresca bajo los pies. Vístase ya pensando en entrar en una mezquita, con hombros y rodillas cubiertos y, en el caso de las mujeres, un pañuelo, para no tener que cambiarse entre una parada y otra. Tenga en cuenta que el cierre a las 5pm solo rige durante esta semana.
+Organice el día por orden: primero Ibn Tulun, después este museo y, por último, las mezquitas de Salah al-Din. Por la mañana la luz cae más suave sobre el patio de la mezquita y la piedra está más fresca bajo los pies. Vístase ya pensando en entrar en una mezquita, con hombros y rodillas cubiertos y, en el caso de las mujeres, un pañuelo, para no tener que cambiarse entre una parada y otra. Antes de salir, compruebe la hora de cierre publicada, ya que el horario puede variar.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-808-festival-2026
-srcHash: '9c297e3975f8'
+srcHash: 'ab8c46882ec4'
 title: '808 Festival 2026: fechas, entradas y recinto (Bangkok)'
 description: El 808 Festival 2026 tenía como fechas el 2 y el 3 de octubre de 2026 en el BITEC de Bangkok, y NGHTMRE y SLANDER encabezaban el cartel de su 13.ª edición.
 quickAnswer: Las fechas anunciadas del 808 Festival 2026 eran el 2 y el 3 de octubre de 2026, en el BITEC de Bangkok. Era la 13.ª edición del mayor festival de música electrónica de baile de Tailandia, con NGHTMRE y SLANDER como cabezas de cartel. La organización lo concibió como un programa de dos noches, y las entradas se vendían en la web oficial del 808 Festival y a través de su socio de venta de entradas.
@@ -18,7 +18,7 @@ faq:
     a: Las estaciones céntricas de la zona de Sukhumvit, como On Nut, Ekkamai o Phrom Phong, ofrecen muchas más opciones de hotel y de comida, y aun así quedan a solo 15-25 minutos del BITEC en BTS.
 ---
 
-Desde su primera edición, el 808 Festival es el gran referente de la música electrónica de baile en Bangkok, y la de 2026 era ya su 13.ª edición. Ofrecía dos noches en un único recinto y un cartel articulado en torno a NGHTMRE y SLANDER, dos nombres fijos del circuito norteamericano de bass y dubstep que se han convertido en un reclamo habitual del calendario festivalero del Sudeste Asiático.
+Desde su primera edición, el 808 Festival es el gran referente de la música electrónica de baile en Bangkok. Ofrecía dos noches en un único recinto y un cartel articulado en torno a NGHTMRE y SLANDER, dos nombres fijos del circuito norteamericano de bass y dubstep que se han convertido en un reclamo habitual del calendario festivalero del Sudeste Asiático.
 
 ## Cuándo y dónde
 
@@ -46,7 +46,7 @@ El BITEC está junto a la estación de Bang Na, en la línea Sukhumvit del BTS, 
 
 - Los taxis y las aplicaciones de transporte como Grab funcionan bien, pero quedan atrapados en el tráfico de salida del evento, lo que alarga la vuelta tras una actuación tardía.
 - El BITEC dispone de aparcamiento propio, y la cola para entrar en él crece a medida que se acerca la apertura de puertas.
-- El BTS funciona hasta alrededor de la medianoche; si una actuación se alarga, puede terminar después del último tren, y entonces la única forma de volver es en taxi o con Grab.
+- El BTS deja de circular cada noche a una hora fija; si una actuación se alarga, puede terminar después del último tren, y entonces la única forma de volver es en taxi o con Grab.
 
 ## Dos noches, dos ambientes: cómo elegir
 

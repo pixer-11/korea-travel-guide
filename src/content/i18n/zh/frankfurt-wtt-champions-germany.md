@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: frankfurt-wtt-champions-germany
-srcHash: '605b43906d23'
+srcHash: 'd01953a737f7'
 title: WTT德国冠军赛：日期、门票与场馆（法兰克福）
 description: WTT德国冠军赛在法兰克福举办，日程为2026年11月3日至8日（周二至周日）。这是一项WTT冠军赛级别的乒乓球赛事，汇聚了国际顶尖选手。
 quickAnswer: WTT德国冠军赛的举办城市为法兰克福，日程为2026年11月3日至8日（周二至周日）。这是WTT冠军赛系列中的一站，参赛者均为国际顶尖职业选手。赛事由世界乒乓球职业大联盟（World Table Tennis）主办，官网为worldtabletennis.com。观看WTT赛事时，大多数球迷会挑一到两个场次，周末场次通常是后几轮的比赛。
@@ -9,7 +9,7 @@ faq:
   - q: WTT德国冠军赛在什么时候举行？
     a: 赛事日程为2026年11月3日（周二）至11月8日（周日），地点在法兰克福。前几轮比赛安排在工作日，后几轮和决赛则在周末进行。
   - q: 场馆和门票信息在哪里查看？
-    a: 赛事由世界乒乓球职业大联盟（World Table Tennis）主办，官网为worldtabletennis.com。本届赛事公布的信息中并未写明具体场馆。
+    a: 赛事由世界乒乓球职业大联盟（World Table Tennis）主办，官网为worldtabletennis.com。现有信息中并未写明本届赛事的具体场馆。
   - q: 看比赛需要安排多长时间？
     a: 观看WTT赛事时，大多数球迷会去一到两个场次。工作日的场次多张球台同时开赛，能看到的选手最多；周末场次则集中在唯一的中心球台上，进行后几轮的较量。
   - q: 怎样前往法兰克福观赛？
@@ -26,7 +26,7 @@ faq:
 
 ## 场次、球台与门票
 
-赛事由世界乒乓球职业大联盟（World Table Tennis）主办，官网为worldtabletennis.com。本届赛事公布的信息中并未写明具体场馆。
+赛事由世界乒乓球职业大联盟（World Table Tennis）主办，官网为worldtabletennis.com。现有信息中并未写明本届赛事的具体场馆。
 
 WTT赛事一周的赛程通常遵循相同的模式：
 

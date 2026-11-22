@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: cambridge-cambridge-university-botanic-garden
-srcHash: '3927320b9e65'
+srcHash: 'eff2e2f70a13'
 title: 'Jardín Botánico de la Universidad de Cambridge: guía de viaje (4.7★)'
 description: En Brookside, al sur de Cambridge, el Jardín Botánico de la Universidad se extiende por 40 acres. Con una valoración de 4.7★ (7,745 reseñas), reunimos aquí las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Jardín Botánico de la Universidad de Cambridge (Cambridge University Botanic Garden) ocupa 40 acres en Brookside, al sur de la ciudad. Desde la estación de tren de Cambridge se llega a pie en unos 10–15 minutos. En su interior hay invernaderos, un lago y una cafetería. Su horario actual es de 10am–5pm. Los días laborables, entre las 10am y las 11am, se disfruta de la mayor tranquilidad, mientras que conviene evitar las tardes del fin de semana, de 11am a 5pm.
@@ -42,7 +42,7 @@ Los parterres sistemáticos (Systematic Beds) constituyen la parte del jardín q
 
 Puede sonar árido, pero en verano es una de las zonas más coloridas del jardín. Invita también a comparar especies que nadie pondría juntas, como un pariente de la amapola junto a uno de la col. Los estudiantes siguen recibiendo clases en estos parterres.
 
-No deje de buscar, cerca del lado de Brookside, el árbol que desciende del célebre manzano de Isaac Newton. En julio de 2019, la estación meteorológica del jardín registró 38.7°C, que durante un tiempo fue la temperatura más alta jamás medida en el Reino Unido.
+No deje de buscar, cerca del lado de Brookside, el árbol que desciende del célebre manzano de Isaac Newton.
 
 ## Un jardín pensado para los meses grises
 

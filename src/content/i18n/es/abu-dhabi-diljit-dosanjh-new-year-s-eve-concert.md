@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-diljit-dosanjh-new-year-s-eve-concert
-srcHash: 'b351c27a9f9c'
+srcHash: '36cd022ebb2e'
 title: 'Concierto de Nochevieja de Diljit Dosanjh: fechas, entradas y recinto (Abu Dabi)'
 description: Diljit Dosanjh despide el año con un concierto en Etihad Live, en la isla de Yas (Abu Dabi), el 31 de diciembre de 2026.
 quickAnswer: Diljit Dosanjh despide el año con un concierto en Etihad Live, en la isla de Yas (Abu Dabi), el 31 de diciembre de 2026. La isla de Yas está en el extremo nororiental de la ciudad, muy cerca del aeropuerto. Para llegar, la mayoría de los asistentes recurre al taxi o a las aplicaciones de transporte con conductor. Otros prefieren alojarse en alguno de los hoteles de Yas y así librarse del tráfico de Nochevieja.
@@ -38,7 +38,7 @@ En esa misma zona se encuentran Ferrari World, Warner Bros. World y Yas Waterwor
 
 Etihad Live es un recinto de la isla de Yas dedicado a los espectáculos en directo. No debe confundirse con el Etihad Arena, situado en la bahía de Yas: es un error frecuente al pedir un taxi. Las entradas se venden a través de los canales oficiales del recinto y del promotor del concierto. Allí figuran las distintas zonas, el horario de apertura de puertas y los precios, que no se recogen en esta guía.
 
-Las entradas de reventa fuera de los canales oficiales conllevan el riesgo habitual de códigos de barras duplicados o no válidos, un riesgo que aumenta en una noche festiva con tanta demanda. En la entrada suelen escanearse desde el móvil, por lo que los asistentes llevan a mano la aplicación o el correo electrónico con la entrada.
+Las entradas de reventa fuera de los canales oficiales conllevan el riesgo habitual de códigos de barras duplicados o no válidos, un riesgo que aumenta en una noche festiva con tanta demanda. Conviene que los asistentes lleven a mano la confirmación de su entrada en el formato que emita el canal oficial, para que el acceso al recinto sea fluido.
 
 ## Cómo transcurre la noche en Abu Dabi
 

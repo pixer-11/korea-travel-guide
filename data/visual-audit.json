@@ -6768,6 +6768,12 @@
   "reason": "publish gate: Rainforest creek with rocks matches Crystal Cascades scenery",
   "at": "2026-09-28T16:50:40.928Z"
  },
+ "cairns-henry-ross-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/6/67/Henry_Ross_Lookout%2C_2015_%2801%29.JPG": {
+  "slug": "cairns-henry-ross-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic overlook view, consistent with lookout attraction",
+  "at": "2026-11-22T07:43:51.955Z"
+ },
  "cairns-rusty-s-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rusty%27s_Markets%2C_Cairns%2C_Australia_in_May_02.jpg/3840px-Rusty%27s_Markets%2C_Cairns%2C_Australia_in_May_02.jpg": {
   "slug": "cairns-rusty-s-markets",
   "verdict": "MATCH",
@@ -7137,6 +7143,12 @@
   "reason": "publish gate: Representative bookstore interior with shelves and displays",
   "at": "2026-11-20T07:50:05.812Z"
  },
+ "canberra-red-hill-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Red_Hill_Saturday.jpeg/3840px-Red_Hill_Saturday.jpeg": {
+  "slug": "canberra-red-hill-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic view from lookout, matching Red Hill vista",
+  "at": "2026-11-22T07:43:51.800Z"
+ },
  "canberra-the-mandalay-bus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mandalay_bus_September_2020.jpg/3840px-Mandalay_bus_September_2020.jpg": {
   "slug": "canberra-the-mandalay-bus",
   "verdict": "MATCH",
@@ -7483,6 +7495,12 @@
   "reason": "Tai Kwun courtyard with brick buildings and stairs",
   "reasonKo": "타이쿤의 벽돌 건물과 계단",
   "at": "2026-08-18T13:26:45.232Z"
+ },
+ "central-the-peak-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Peak_Tower_201108.jpg/1920px-The_Peak_Tower_201108.jpg": {
+  "slug": "central-the-peak-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Peak Tower's distinctive architecture, representative hero image",
+  "at": "2026-11-22T07:43:51.887Z"
  },
  "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/36857714_j5cf7TBpPuKjQnTe9zVMofmcdvm-v_HfFXJ93MWJdlM.jpg": {
   "slug": "chamonix-grotte-de-glace",
@@ -35699,6 +35717,12 @@
   "reason": "publish gate: Waterfall and pool consistent with Kondalilla National Park scenery",
   "at": "2026-10-19T08:17:41.160Z"
  },
+ "sunshine-coast-laguna-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/7/7c/Laguna_Lookout%2C_Noosa_National_Park%2C_Noosa_Heads%2C_Queensland.jpg": {
+  "slug": "sunshine-coast-laguna-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic overlook view matching Laguna Lookout, Sunshine Coast",
+  "at": "2026-11-22T07:43:51.922Z"
+ },
  "sunshine-coast-sea-life-sunshine-coast-aquarium\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sea_Life_Sunshine_Coast%2C_January_2026_02.jpg/3840px-Sea_Life_Sunshine_Coast%2C_January_2026_02.jpg": {
   "slug": "sunshine-coast-sea-life-sunshine-coast-aquarium",
   "verdict": "MATCH",
@@ -40417,6 +40441,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Wooded forest scene plausible for Mystic Vale nature trail",
   "at": "2026-10-25T07:47:57.443Z"
+ },
+ "victoria-ogden-point\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ogden_Point_Breakwater_in_Victoria_at_dawn-01.jpg/1920px-Ogden_Point_Breakwater_in_Victoria_at_dawn-01.jpg": {
+  "slug": "victoria-ogden-point",
+  "verdict": "MATCH",
+  "reason": "publish gate: Breakwater pier with lighthouse, matches Ogden Point",
+  "at": "2026-11-22T07:43:51.853Z"
  },
  "victoria-royal-bc-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg/1920px-Main_entrance_to_Royal_British_Columbia_Museum%2C_Victoria%2C_British_Columbia_02.jpg": {
   "slug": "victoria-royal-bc-museum",

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chennai-wta-chennai-open
-srcHash: '9626526d8da8'
+srcHash: '7daf30011839'
 title: 'WTA Chennai Open: fechas, entradas y sede (Chennai)'
 description: Las fechas anunciadas del WTA Chennai Open eran del 2 al 8 de noviembre de 2026, en Chennai (India). Las ediciones anteriores se jugaron en el SDAT Tennis Stadium, en el barrio de Nungambakkam.
 quickAnswer: Las fechas anunciadas del WTA Chennai Open eran del 2 al 8 de noviembre de 2026, en Chennai (India). Las ediciones anteriores se jugaron en el SDAT Tennis Stadium de Nungambakkam, sede habitual del tenis profesional en la ciudad desde hace muchos años. A comienzos de noviembre Chennai está en pleno monzón del nordeste, y en esa época la lluvia suele retrasar los partidos al aire libre.
@@ -24,7 +24,7 @@ Desde hace décadas, el tenis profesional tiene su casa en Chennai, casi siempre
 
 Se trata de un torneo profesional femenino del calendario de la WTA que reúne a jugadoras internacionales y a la afición india. Los grandes nombres no son siempre el principal atractivo: una semana así acerca al espectador al tenis de primer nivel mucho más de lo que suelen permitir las grandes sedes de Grand Slam.
 
-La relación de la ciudad con este deporte viene de lejos. El calendario del ATP Chennai Open masculino situó aquí el torneo cada año de 1997 a 2017, hasta su paso a Pune. La prueba femenina llegó más tarde. Sus ediciones anteriores, de 2022 y 2025, pertenecían a la categoría WTA 250, en la que a menudo coinciden en un mismo cuadro jóvenes promesas y veteranas del circuito.
+La relación de la ciudad con este deporte viene de lejos. El calendario del ATP Chennai Open masculino situó aquí el torneo cada año de 1997 a 2017, hasta su paso a Pune. La prueba femenina llegó más tarde y suele disputarse en la categoría WTA 250, en la que a menudo coinciden en un mismo cuadro jóvenes promesas y veteranas del circuito.
 
 ## Fechas: del 2 al 8 de noviembre de 2026
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-haedong-yonggungsa-temple
-srcHash: '7f962b73bf8a'
+srcHash: '7adad38c8970'
 title: 'Templo Haedong Yonggungsa: Guía de viaje de Busan (4.5★)'
 description: 'A diferencia de la mayoría de los templos coreanos, escondidos entre montañas, Haedong Yonggungsa es un templo budista construido sobre roca volcánica en plena costa noreste de Busan, justo encima del oleaje. Calificación 4.5★ (27,557 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A diferencia de la mayoría de los templos coreanos, escondidos entre montañas, Haedong Yonggungsa es un templo budista construido sobre roca volcánica en plena costa noreste de Busan, justo encima del oleaje. Abre todos los días de 4am a 8pm y la entrada es gratuita. Los días de semana hay menos gente entre las 7am y las 8pm; los fines de semana se llena entre las 9am y las 6pm, así que conviene llegar temprano.
@@ -50,7 +50,7 @@ Cerca del agua, los escalones de piedra se mojan y se vuelven resbaladizos, sobr
 
 El templo abre temprano, de 4am a 8pm todos los días de la semana, así que hay mucha más flexibilidad de la que las multitudes podrían sugerir.
 
-Los fines de semana se llena entre las 9am y las 6pm, con autobuses turísticos que llegan uno tras otro. Si es posible, conviene ir un día de semana o llegar justo a la hora de apertura.
+Los fines de semana se llena hacia el mediodía, con autobuses turísticos que llegan uno tras otro. Si es posible, conviene ir un día de semana o llegar justo a la hora de apertura.
 
 El momento más tranquilo, tanto en días de semana como en fines de semana, es temprano por la mañana, antes de las 9am, o por la tarde, después de las 6pm, fuera de ese pico del mediodía en fin de semana. Además, la luz de la mañana temprano sobre el agua es, sencillamente, la mejor para tomar fotos, antes de que aparezca la neblina.
 

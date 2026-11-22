@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gori-gori-ethnographic-museum
-srcHash: '3dc369896d0e'
+srcHash: '66a58a530775'
 title: 'Museo Etnográfico de Gori: guía de viaje (4.9★)'
 description: En pleno centro de Gori (Georgia), en el número 12 de la calle Kirion II, se encuentra el Museo Etnográfico, un pequeño museo de tradiciones populares muy bien valorado por sus visitantes.
 quickAnswer: En pleno centro de Gori (Georgia), en el número 12 de la calle Kirion II, se encuentra el Museo Etnográfico, un pequeño museo de tradiciones populares muy bien valorado por sus visitantes. Encaja sin esfuerzo en una visita que incluya el Museo de Stalin y la fortaleza de Gori. Hoy por hoy cierra los lunes; los martes abre a las 10am y de miércoles a domingo, a las 9:30am, y todos los días cierra a las 5:30pm. Como el horario varía según la temporada, conviene confirmarlo antes de ir.
@@ -60,7 +60,7 @@ Los pequeños museos georgianos funcionan a base de trato personal. Algunas cost
 
 - **Salude primero a quien le atienda.** Basta con un «gamarjoba» (hola), y un «madloba» (gracias) al salir nunca pasa desapercibido.
 - **Idioma:** es posible que el personal de más edad hable mejor georgiano o ruso que inglés. Con una aplicación de traducción que tenga el georgiano descargado podrá hacer sus preguntas.
-- **Pago:** la entrada se compra en el mostrador. Los museos regionales pequeños no siempre aceptan tarjeta, de modo que lleve algunos laris en efectivo. El precio vigente figura en la entrada.
+- **Pago:** la entrada se compra en el mostrador. Los museos regionales pequeños no siempre aceptan tarjeta, de modo que lleve algunos laris en efectivo. Consulte el precio de la entrada al llegar.
 - **Fotografía:** pida permiso antes de hacer fotos. Puede que algunas salas o piezas no se puedan fotografiar, y preguntar suele dar pie a una conversación.
 - **Luces y puertas:** en los museos menos concurridos, a veces las salas solo se abren o se iluminan cuando llega un visitante. Espere un momento en lugar de adelantarse por su cuenta.
 

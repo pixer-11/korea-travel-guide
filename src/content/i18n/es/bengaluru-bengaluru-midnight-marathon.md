@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bengaluru-bengaluru-midnight-marathon
-srcHash: '7aa94c2d824b'
+srcHash: '7766fb91179b'
 title: 'Maratón de Medianoche de Bengaluru: fechas, inscripciones y lugar de salida (Bengaluru)'
 description: El Maratón de Medianoche de Bengaluru es a principios de diciembre de 2026. Todas sus distancias, desde los 5K hasta el maratón completo, se corren de noche.
 quickAnswer: La edición de 2026 del Maratón de Medianoche de Bengaluru (Bengaluru Midnight Marathon) es a principios de diciembre. Todas sus distancias se corren de noche y van desde los 5K hasta el maratón completo. El organizador publica en la web oficial del evento las inscripciones, el lugar de salida y el mapa del recorrido.
@@ -20,7 +20,7 @@ faq:
 
 ## Una carrera que empieza cuando el tráfico se detiene
 
-Las calles de Bengaluru suelen estar colapsadas, y precisamente por eso una carrera nocturna resulta aquí tan singular. El Maratón de Medianoche de Bengaluru (Bengaluru Midnight Marathon) es una prueba anual de asfalto que se corre de noche en la capital de Karnataka. La edición de 2026 es a principios de diciembre, con distancias que van desde los 5K hasta el maratón completo de 42.2 km.
+Las calles de Bengaluru suelen estar colapsadas, y precisamente por eso una carrera nocturna resulta aquí tan singular. El Maratón de Medianoche de Bengaluru (Bengaluru Midnight Marathon) es una prueba anual de asfalto que se corre de noche en la capital de Karnataka. Las distancias van desde los 5K hasta el maratón completo de 42.2 km.
 
 Esa variedad marca el ambiente de la zona de salida. Quienes se estrenan en un 5K comparten calzada con maratonianos que persiguen una marca. Al correrse de noche, el recorrido ocupa calles que de día están repletas de coches y motos.
 
@@ -28,7 +28,7 @@ Esa variedad marca el ambiente de la zona de salida. Quienes se estrenan en un 5
 
 Lo esencial de esta edición:
 
-- **Cuándo:** a principios de diciembre de 2026, durante la noche
+- **Cuándo:** las fechas varían según la edición; se corre durante la noche
 - **Distancias:** desde los 5K hasta el maratón completo
 - **Dónde:** por las calles de Bengaluru; el lugar de salida y el recorrido se fijan en cada edición
 - **Inscripción y cuotas:** en la página oficial de inscripción del evento

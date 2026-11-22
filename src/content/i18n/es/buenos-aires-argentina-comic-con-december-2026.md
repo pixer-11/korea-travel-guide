@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-argentina-comic-con-december-2026
-srcHash: '40fc66f9f0b4'
+srcHash: 'a80783290871'
 title: 'Argentina Comic Con diciembre 2026: fechas, entradas y sede (Buenos Aires)'
 description: Las fechas de Argentina Comic Con de diciembre de 2026 son del 4 al 6 de diciembre de 2026, con sede en el Centro Costa Salguero, el gran predio ferial que se asoma al río desde la Costanera Norte de Buenos Aires.
 quickAnswer: Las fechas de Argentina Comic Con de diciembre de 2026 son del 4 al 6 de diciembre de 2026, y su sede es el Centro Costa Salguero, el predio ferial situado junto al río en la Costanera Norte de Buenos Aires. Durante tres días, esta convención de cultura pop reúne cómics, anime, videojuegos y cosplay. Las modalidades de entrada y el programa los publica el organizador en los canales oficiales de la convención.
@@ -57,7 +57,7 @@ Cada jornada se disfruta más si se plantea como un día entero de salida y no c
 - **Entradas y pulseras.** Los distintos tipos de entrada, ya sean pases de un día o de varias jornadas, se venden en los canales oficiales de la convención, y es allí donde los compran los asistentes. En los accesos, la mayoría de los aficionados lleva el código QR preparado en el móvil.
 - **Pagos.** Muchos stands aceptan tarjeta, y en Argentina está muy extendido el uso de Mercado Pago y de otras transferencias por QR. Los artistas pequeños, en cambio, suelen preferir efectivo en pesos o transferencia, por lo que muchos compradores llevan ambas opciones.
 - **Encargos a artistas.** Lo habitual es que los ilustradores acepten encargos el primer día y los entreguen más adelante, durante el fin de semana. Quienes desean uno suelen pasar primero por ese stand.
-- **Normas de cortesía con el cosplay.** Antes de fotografiar a alguien, se le pide permiso («¿Te puedo sacar una foto?»), y para posar conviene apartarse de las zonas de paso. Tocar los trajes o los accesorios está fuera de lugar.
+- **Normas de cortesía con el cosplay.** Antes de fotografiar a alguien, se le pide permiso, y para posar conviene apartarse de las zonas de paso. Tocar los trajes o los accesorios está fuera de lugar.
 - **Filas.** Los paneles con invitados populares y las filas de firmas son lo primero que se llena. Los aficionados interesados en una charla concreta suelen instalarse cerca de ese escenario en lugar de pasear por los pabellones.
 
 Conviene manejar algunas palabras clave: *entrada*, *fila* y *firma*.
@@ -66,4 +66,4 @@ Conviene manejar algunas palabras clave: *entrada*, *fila* y *firma*.
 
 Gracias a su ubicación, Costa Salguero ofrece alternativas cuando los pies ya no dan más. Hacia el interior se extiende el pulmón verde de Palermo, el Parque Tres de Febrero, con sus lagos y el Rosedal. Muy cerca está también el Jardín Japonés, uno de los mayores jardines japoneses fuera de Japón y un complemento ideal para una convención con tantos aficionados al anime.
 
-La propia Costanera está flanqueada por parrillas y carritos de comida. Comerse un choripán junto al río es la manera clásica, muy porteña, de cerrar allí la jornada. En verano, las noches empiezan tarde en esta ciudad, y en Palermo Soho o Palermo Hollywood la cena rara vez arranca antes de las 21:00.
+La propia Costanera está flanqueada por parrillas y carritos de comida. Comerse un choripán junto al río es la manera clásica, muy porteña, de cerrar allí la jornada. En verano, las noches empiezan tarde en esta ciudad, y en Palermo la cena suele empezar más tarde de lo que esperan los visitantes de otros países.

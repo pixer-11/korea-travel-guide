@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-2026-world-triathlon-multisport-championships-abu-dhabi
-srcHash: 'ae38957f5212'
+srcHash: '03177ab28630'
 title: 'Campeonato Mundial de Multideporte de World Triathlon 2026 en Abu Dabi: fechas, entradas y sede'
 description: Las fechas del Campeonato Mundial de Multideporte de World Triathlon 2026 en Abu Dabi son del 13 al 22 de noviembre de 2026, en la isla de Hudayriyat. World Triathlon publica la información sobre entradas y público en la web oficial del campeonato.
 quickAnswer: Las fechas del Campeonato Mundial de Multideporte de World Triathlon 2026 en Abu Dabi son del 13 al 22 de noviembre de 2026, y la sede es la isla de Hudayriyat (Hudayriyat Island). World Triathlon publica la información sobre entradas y público en la web oficial del campeonato. Es la primera edición del campeonato en Oriente Medio y reúne a más de 4000 deportistas en seis disciplinas, entre ellas las pruebas WTCS Elite y los títulos mundiales de acuatlón y de triatlón cross.
@@ -46,7 +46,7 @@ Quienes prefieren alojarse cerca suelen elegir hoteles en Al Bateen, en la Corni
 Los aficionados veteranos al triatlón no se quedan quietos en un mismo sitio, sino que van cambiando de lugar. En la zona de transición es donde se ganan y se pierden las carreras. El tramo de carrera a pie es el que permite ver durante más tiempo a cada deportista, ya que la mayoría de los formatos consiste en varias vueltas que pasan una y otra vez por el mismo punto.
 
 - **Pago:** en Abu Dabi se aceptan tarjetas y monederos móviles casi en todas partes, también en los taxis. La propina no es obligatoria, aunque es habitual redondear.
-- **Vestimenta:** en la playa, el bañador es lo normal. En el resto de la isla, el público suele llevar hombros y rodillas cubiertos.
+- **Vestimenta:** en la playa, el bañador es lo normal. En el resto de la isla, por lo general se espera una vestimenta discreta que cubra hombros y rodillas.
 - **Hidratación:** como el recorrido apenas tiene sombra, los aficionados con experiencia llevan botellas rellenables y gorra.
 - **Alcohol:** solo puede consumirse en locales con licencia, nunca en la calle ni a lo largo del recorrido.
 

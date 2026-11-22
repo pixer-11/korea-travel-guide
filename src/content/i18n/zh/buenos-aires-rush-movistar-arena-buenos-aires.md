@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: buenos-aires-rush-movistar-arena-buenos-aires
-srcHash: '7fad3790b8f1'
+srcHash: '0d5db3fbdb1b'
 title: Rush乐队布宜诺斯艾利斯Movistar Arena演唱会：日期、门票与场馆（布宜诺斯艾利斯）
 description: 加拿大摇滚乐队Rush的布宜诺斯艾利斯演唱会日期为2027年1月15日，场地是维拉克雷斯波（Villa Crespo）洪堡街（Humboldt）上的室内场馆Movistar Arena。
 quickAnswer: 加拿大摇滚乐队Rush的布宜诺斯艾利斯演唱会日期为2027年1月15日，场地是维拉克雷斯波（Villa Crespo）洪堡街（Humboldt）上的室内场馆Movistar Arena。场馆官网公布演出日期和购票链接。大多数乐迷搭乘地铁B线到多雷戈站（Dorrego），再步行几个街区即可到达。
@@ -33,7 +33,7 @@ Rush于1968年在多伦多成立，核心成员是担任贝斯、键盘和主唱
 - **《Tom Sawyer》**：专辑《Moving Pictures》中的电台常青曲
 - **《YYZ》**：一首器乐曲，歌名取自多伦多机场代码
 - **《The Spirit of Radio》**和**《Limelight》**：两首都是全场大合唱的曲目
-- **《2112》**：占满唱片一整面的组曲，1976年让乐队一举成名
+- **《2112》**：占满唱片一整面的组曲，发行于1976年
 
 这场演出的曲目尚未公开，以上只是乐队的经典回顾，并非演出曲目单。
 

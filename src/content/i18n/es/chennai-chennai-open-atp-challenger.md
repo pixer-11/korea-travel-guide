@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chennai-chennai-open-atp-challenger
-srcHash: '4260a1334ff3'
+srcHash: '5483685fb2a3'
 title: 'Chennai Open (ATP Challenger): fechas, entradas y sede (Chennai)'
 description: El Chennai Open (ATP Challenger) es la semana anual de tenis profesional de Chennai, y la edición de 2027 corresponde a febrero de 2027.
 quickAnswer: 'El Chennai Open (ATP Challenger) es la semana anual de tenis profesional de Chennai, y la edición de 2027 corresponde a febrero de 2027. En los últimos años, su sede ha sido el estadio de tenis SDAT (SDAT Tennis Stadium), en el barrio de Nungambakkam. Es el organizador, la Asociación de Tenis de Tamil Nadu (Tamil Nadu Tennis Association), quien da a conocer las fechas, la sede y la información sobre entradas. Las ediciones recientes ocuparon una semana completa de lunes a domingo a principios de febrero: del 5 al 11 de febrero de 2024 y del 9 al 15 de febrero de 2026.'
@@ -24,8 +24,8 @@ La edición de 2027 de la semana de tenis de Chennai corresponde a febrero de 20
 
 El cuadro tiene un marcado acento asiático. Los jugadores de Japón, Taiwán y Corea son habituales y se miden con los nombres propios de la India en individuales y dobles. En las ediciones recientes, el torneo ocupó una semana completa de lunes a domingo:
 
-- 2024: del 5 al 11 de febrero
-- 2026: del 9 al 15 de febrero
+- 2024: a principios de febrero
+- 2026: a principios de febrero
 
 En un Challenger, las primeras rondas y la final se reparten a lo largo de toda la semana. La mayoría de los aficionados locales reservan su visita para el fin de semana, cuando se disputan las semifinales y la final.
 

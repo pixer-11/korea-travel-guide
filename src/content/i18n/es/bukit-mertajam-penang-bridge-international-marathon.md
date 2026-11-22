@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bukit-mertajam-penang-bridge-international-marathon
-srcHash: '2a9e70035f4c'
+srcHash: '55811d872352'
 title: 'Maratón Internacional del Puente de Penang: fechas, inscripciones y sede (Bukit Mertajam)'
 description: El 13 de diciembre de 2026, Bukit Mertajam, en la parte continental de Penang, acoge el Penang Bridge International Marathon, con pruebas de 10km, media maratón y maratón completa.
 quickAnswer: 'El 13 de diciembre de 2026 se celebra en Bukit Mertajam, en la parte continental de Penang, el Penang Bridge International Marathon, con pruebas de 10km, media maratón y maratón completa. Aquí no se compran entradas: para participar hay que inscribirse en la carrera. Los enlaces de inscripción y toda la información del día de la prueba aparecen en la web oficial de la organización.'
@@ -36,7 +36,7 @@ El trazado sobre el puente es un largo tramo de ida y vuelta, muy expuesto, con 
 
 ## Cómo llegar a Bukit Mertajam
 
-Bukit Mertajam se encuentra en el interior de Seberang Perai Tengah, en la orilla continental del estrecho de Penang. Los corredores que vienen de fuera suelen llegar de una de estas formas:
+Bukit Mertajam se encuentra en el interior de Seberang Perai Tengah, en la orilla continental del estrecho de Penang. Para llegar hay varias opciones:
 
 - **En tren:** la estación de Bukit Mertajam pertenece a la red de KTM y tiene servicio de trenes interurbanos ETS y de cercanías KTM Komuter.
 - **En avión:** el Aeropuerto Internacional de Penang está en Bayan Lepas, en la isla. Desde allí hay que cruzar por carretera alguno de los dos puentes.

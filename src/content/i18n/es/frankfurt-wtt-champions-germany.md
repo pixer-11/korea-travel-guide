@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: frankfurt-wtt-champions-germany
-srcHash: '605b43906d23'
+srcHash: 'd01953a737f7'
 title: 'WTT Champions Germany: fechas, entradas y sede (Fráncfort)'
 description: Del 3 al 8 de noviembre de 2026, de martes a domingo, Fráncfort tenía previsto acoger WTT Champions Germany, torneo de tenis de mesa del circuito WTT Champions con figuras de primer nivel mundial.
 quickAnswer: Del 3 al 8 de noviembre de 2026, de martes a domingo, Fráncfort tenía previsto acoger WTT Champions Germany. Este torneo de tenis de mesa de la serie WTT Champions reunía a jugadores profesionales de la élite internacional. Lo organizaba World Table Tennis, cuya web oficial es worldtabletennis.com. En los torneos WTT, la mayoría de los aficionados asiste a una o dos sesiones, y las del fin de semana suelen corresponder a las rondas finales.
@@ -9,7 +9,7 @@ faq:
   - q: ¿En qué fechas estaba programado WTT Champions Germany?
     a: Las fechas anunciadas iban del martes 3 al domingo 8 de noviembre de 2026, en Fráncfort. Las primeras rondas caían entre semana, mientras que las rondas decisivas y las finales se disputaban el fin de semana.
   - q: ¿Dónde se encontraba la información sobre la sede y las entradas?
-    a: El organizador era World Table Tennis, cuya web oficial es worldtabletennis.com. La información anunciada para esta edición no mencionaba el pabellón.
+    a: El organizador era World Table Tennis, cuya web oficial es worldtabletennis.com. La información disponible no indicaba el pabellón concreto de esta edición.
   - q: ¿Cuánto tiempo convenía dedicar al torneo?
     a: En los torneos WTT, la mayoría de los aficionados asiste a una o dos sesiones. Entre semana, con varias mesas en juego a la vez, se puede ver a más jugadores. Las sesiones del fin de semana, en cambio, corresponden a las rondas finales en la única pista central.
   - q: ¿Cómo se llegaba a Fráncfort para el torneo?
@@ -26,7 +26,7 @@ La categoría Champions figura entre los escalones más altos del circuito World
 
 ## Sesiones, mesas y entradas
 
-El evento lo organizaba World Table Tennis, cuya web oficial es worldtabletennis.com. La información anunciada para esta edición no mencionaba el pabellón.
+El evento lo organizaba World Table Tennis, cuya web oficial es worldtabletennis.com. La información disponible no indicaba el pabellón concreto de esta edición.
 
 A lo largo de la semana, los torneos WTT suelen seguir el mismo esquema:
 

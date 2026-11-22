@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genoa-porta-soprana
-srcHash: '4b13aa0e1244'
+srcHash: 'd43224a3b9d6'
 title: 'Porta Soprana: Guía de Viaje de Génova (4.6★)'
 description: 'Porta Soprana es la puerta medieval de dos torres que se alza en el límite del casco antiguo de Génova, a cinco minutos cuesta arriba desde la Piazza De Ferrari. 4.6★ (1.280 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Porta Soprana es la puerta medieval de dos torres que se alza en el límite del casco antiguo de Génova, a cinco minutos cuesta arriba desde la Piazza De Ferrari. Permanece abierta todo el día y el paso es gratuito, así que cualquier momento es bueno para visitarla, aunque los fines de semana por la tarde-noche, entre las 17:00 y las 23:00, es cuando se concentra más gente. Basta con dedicarle entre 15 y 20 minutos, a los que conviene sumar una vuelta por la cercana Casa di Colombo y el claustro de Sant'Andrea.

@@ -1,6 +1,6 @@
 ---
 title: 'Genghis Khan Birthday Commemoration: Dates, Tickets & Venue (Ulaanbaatar)'
-description: The Genghis Khan Birthday Commemoration in Ulaanbaatar takes place on November 21, 2026, at Sukhbaatar Square and the National Museum of Mongolia.
+description: The Genghis Khan Birthday Commemoration in Ulaanbaatar was set for November 21, 2026, at Sukhbaatar Square and the National Museum of Mongolia.
 country: Mongolia
 region: Ulaanbaatar
 category: event
@@ -25,14 +25,14 @@ gallery: []
 tags:
   - ulaanbaatar
   - event
-quickAnswer: The Genghis Khan Birthday Commemoration in Ulaanbaatar takes place on November 21, 2026, at Sukhbaatar Square and the National Museum of Mongolia. You get cultural performances on the square and exhibitions of medieval Mongolian artefacts at the museum. The square is public open space, so no ticket is needed for it, and the museum posts its admission at its own desk.
+quickAnswer: The Genghis Khan Birthday Commemoration in Ulaanbaatar was set for November 21, 2026, at Sukhbaatar Square and the National Museum of Mongolia. The programme announced cultural performances on the square and exhibitions of medieval Mongolian artefacts at the museum. The square is public open space, so no ticket was needed for it, and the museum posts its admission at its own desk.
 faq:
   - q: When is the Genghis Khan Birthday Commemoration in 2026?
-    a: 'It takes place on November 21, 2026. The date follows the traditional lunar calendar: the first day of the first winter month. That''s why the Gregorian date changes every year.'
+    a: 'It was set for November 21, 2026. The date follows the traditional lunar calendar: the first day of the first winter month. That''s why the Gregorian date changes every year.'
   - q: Where is it held in Ulaanbaatar?
-    a: At Sukhbaatar Square, where the cultural performances take place, and at the National Museum of Mongolia, just off the square's northwest corner, which shows medieval Mongolian artefacts. The large seated Chinggis Khaan statue sits in front of the Government Palace on the north side of the square.
+    a: The cultural performances were programmed for Sukhbaatar Square. The exhibitions of medieval Mongolian artefacts were announced for the National Museum of Mongolia, just off the square's northwest corner. The large seated Chinggis Khaan statue sits in front of the Government Palace on the north side of the square.
   - q: Do I need tickets?
-    a: Sukhbaatar Square is public open space, so the outdoor programme has no ticket gate. The National Museum of Mongolia charges its usual admission, which is posted at its entrance desk.
+    a: Sukhbaatar Square is public open space, so the outdoor programme had no ticket gate. The National Museum of Mongolia charges its usual admission, which is posted at its entrance desk.
   - q: How cold is it in late November, and what should I wear?
     a: Ulaanbaatar is the world's coldest capital, and late-November days usually stay well below freezing. Watching performances outside means standing still on stone, so people wear thermal layers, a windproof hooded coat, thick-soled boots, a hat and mittens.
   - q: What else is near Sukhbaatar Square?
@@ -40,36 +40,35 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Where the city stands in front of its founder
 
-The north side of Sukhbaatar Square is all stone colonnade. Inside it sits Chinggis Khaan, as Mongolians spell and say his name: a huge seated bronze in front of the Government Palace. His son Ögedei and grandson Kublai sit on either side of him. This is where Mongolia marks his birthday, the state commemoration that takes place on **November 21, 2026**.
+The north side of Sukhbaatar Square is all stone colonnade. Inside it sits Chinggis Khaan, as Mongolians spell and say his name: a huge seated bronze in front of the Government Palace. His son Ögedei and grandson Kublai sit on either side of him. This is where Mongolia marks his birthday, and the 2026 state commemoration was set for **November 21, 2026**.
 
-The day is spread across two sites. Cultural performances fill the square itself. A short walk away, the National Museum of Mongolia puts medieval Mongolian artefacts on show. Seen together, they make a compact day out, and both sit in the oldest part of central Ulaanbaatar.
+The 2026 programme was split across two sites. Organisers announced cultural performances on the square itself and exhibitions of medieval Mongolian artefacts at the National Museum of Mongolia, a short walk away. Together the two make a compact day out, and both sit in the oldest part of central Ulaanbaatar.
 
 ## A birthday that moves with the moon
 
-The date is different every year. Mongolia celebrates the birthday on the first day of the first winter month of the traditional lunar calendar. That lands somewhere in November or early December on a Western calendar, so an old article's date is no help for this year.
+The date is different every year. Mongolia celebrates the birthday on the first day of the first winter month of the traditional lunar calendar. That lands somewhere in November or early December on a Western calendar, so the date shifts from one year to the next.
 
 The day has been a public holiday since 2012. In 2019 it was given a second name, National Pride Day (*Ündesnii Bakharkhlyn Ödör*). Because of the holiday, many offices and government services close, while the centre fills with families. Plenty of people wear the *deel*, the long wrap-over Mongolian robe, padded thick for winter.
 
 ## The square on the day
 
-Sukhbaatar Square is a wide paved plaza. In the middle stands Damdin Sükhbaatar on horseback, the 1921 revolutionary the square is named for. From 2013 to 2016 it was officially Chinggis Square, and some older maps still call it that. On commemoration day the performances happen out in this open space, with the Government Palace and the statue behind them.
+Sukhbaatar Square is a wide paved plaza. In the middle stands Damdin Sükhbaatar on horseback, the 1921 revolutionary the square is named for. From 2013 to 2016 it was officially Chinggis Square, and some older maps still call it that. The 2026 performances were programmed for this open space, with the Government Palace and the statue behind them.
 
-Look around the edges of the square:
+Around the edges of the square:
 
 - **East side:** the salmon-pink State Academic Theatre of Opera and Ballet, and the Central Cultural Palace
 - **South side:** Peace Avenue (*Enkh Taivny Örgön Chölöö*), the city's main east–west road
 - **North side:** the Government Palace colonnade with the Chinggis Khaan statue
 
-No ticketing platform is named for the square programme. The square is public space, so people simply walk in from Peace Avenue or the side streets.
+No ticketing platform was named for the square programme. The square is public space, so people simply walk in from Peace Avenue or the side streets.
 
 ## Inside the National Museum of Mongolia
 
-The museum stands just off the northwest corner of the square. Its exhibitions cover everything from Stone Age finds to the twentieth century. During the commemoration, medieval Mongolian artefacts are the focus, which fits the story of the empire Chinggis Khaan founded in 1206.
+The museum stands just off the northwest corner of the square. Its exhibitions cover everything from Stone Age finds to the twentieth century. For the commemoration, the announced focus was medieval Mongolian artefacts, which fits the story of the empire Chinggis Khaan founded in 1206.
 
-Its permanent galleries also cover traditional dress and headdresses from Mongolia's many ethnic groups, which you rarely see together anywhere else. Give it one to two hours. Admission is posted at the museum's entrance desk. Indoors is a welcome break after standing out in the cold.
+Its permanent galleries also cover traditional dress and headdresses from Mongolia's many ethnic groups, which are rarely seen together anywhere else. A visit usually takes one to two hours. Admission is posted at the museum's entrance desk. Indoors is a welcome break after standing out in the cold.
 
 ## Dressing for the coldest capital
 
@@ -87,14 +86,14 @@ Winter also brings coal smoke from the ger districts. On still days the air over
 
 ## Joining in at the statue
 
-Treat this as a national day of respect, not a street party. Mongolians hold Chinggis Khaan in genuine reverence. Officials often lay tributes at the Government Palace statue, and people around you will be quiet and dressed for the occasion. Don't climb the statues or the colonnade steps for photos. People in a deel are usually happy to be photographed if you ask first with a gesture.
+This is a national day of respect, not a street party. Mongolians hold Chinggis Khaan in genuine reverence. Officials often lay tributes at the Government Palace statue, and people around the square are usually quiet and dressed for the occasion. Climbing the statues or the colonnade steps for photos is frowned upon. People in a deel are usually happy to be photographed if asked first with a gesture.
 
 A few useful habits:
 
 - Greet people with *sain baina uu* ("hello")
 - Accept anything handed to you, including tea, with your right hand or both hands
-- If you see a blue silk *khadag* scarf being offered, it's a sign of respect: watch, don't touch
-- Pay by card or with the QPay mobile app around the centre, and keep some tögrög for small kiosks
+- A blue silk *khadag* scarf being offered is a sign of respect: watch, don't touch
+- Cards and the QPay mobile app work around the centre, and some tögrög helps at small kiosks
 
 Tipping isn't expected in most places, though rounding up in a sit-down restaurant is appreciated.
 
@@ -108,4 +107,4 @@ Nearby places that fit into the same day:
 - **Zanabazar Museum of Fine Arts**, a short walk west, for Buddhist sculpture by Mongolia's great seventeenth-century artist
 - **Gandan Monastery**, about two kilometres west, the country's main working monastery
 
-The hotels around Peace Avenue and the streets just south of the square put you a few minutes' walk from the performances and the museum. That matters when the wind picks up after dark.
+The hotels around Peace Avenue and the streets just south of the square are a few minutes' walk from the square and the museum. That matters when the wind picks up after dark.

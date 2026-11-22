@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gimhae-gimhae-buncheon-ceramics-festival
-srcHash: '0cb058d8c48a'
+srcHash: '6064e1bc3b9f'
 title: 'Festival de Cerámica Buncheon de Gimhae: fechas, entradas y sede (Gimhae)'
 description: Las fechas anunciadas del Festival de Cerámica Buncheon de Gimhae eran del 6 al 10 de noviembre de 2026. Fueron cinco días en Gimhae (Corea del Sur) dedicados al buncheong, el gres recubierto de engobe blanco.
 quickAnswer: Las fechas anunciadas del Festival de Cerámica Buncheon de Gimhae eran del 6 al 10 de noviembre de 2026. Durante cinco días, la ciudad surcoreana de Gimhae celebraba el buncheong, el gres tradicional coreano recubierto de engobe. Las ediciones anteriores tuvieron su centro en Jillye-myeon, el distrito alfarero del oeste de Gimhae. En ese mismo distrito se encuentra también el Museo de Arte Clayarch Gimhae.
@@ -20,7 +20,7 @@ faq:
 
 Imagine un cuenco de té del color de la pizarra mojada. Lo cubre un engobe blanco aplicado con tanta rapidez que aún pueden contarse las huellas de las cerdas del pincel. Eso es el buncheong. Gimhae lleva siglos produciendo este tipo de cerámica, y en su festival de noviembre los alfareros de la ciudad sacan sus mesas a la calle.
 
-En coreano, el festival se llama 김해분청도자기축제 (Gimhae Buncheong Dojagi Chukje). El título dice «Buncheon» y la señalización coreana, «Buncheong», pero ambos nombres designan el mismo festival.
+En coreano, el festival se llama 김해분청도자기축제 (Gimhae Buncheong Dojagi Chukje). En inglés, el nombre se escribe unas veces «Buncheon» y otras «Buncheong», pero ambas formas designan el mismo festival.
 
 ## Arcilla gris y engobe blanco: qué es el buncheong
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gold-coast-bmw-australian-pga-championship
-srcHash: '162dd8edf637'
+srcHash: '522226299330'
 title: 'BMW Australian PGA Championship: fechas, entradas y sede (Gold Coast)'
 description: Las fechas del BMW Australian PGA Championship en 2026 son del 26 al 30 de noviembre, en la Gold Coast (Queensland). Es una de las citas australasiáticas del DP World Tour.
 quickAnswer: Las fechas del BMW Australian PGA Championship en 2026 son del 26 al 30 de noviembre, en la Gold Coast (Queensland). El torneo forma parte de la gira australasiática del DP World Tour. En su web oficial, la PGA of Australia publica el campo, el programa de cada jornada y los enlaces para comprar entradas. El público suele enfrentarse al calor de comienzos del verano austral y a una jornada entera caminando sobre hierba, además de respetar el estricto silencio que se exige en cualquier torneo profesional.
@@ -20,7 +20,7 @@ faq:
 
 ## Cinco días de golf profesional a finales de noviembre
 
-La edición de 2026 va del jueves 26 al lunes 30 de noviembre. El torneo pertenece al DP World Tour, cuya gira australasiática lleva a los jugadores del circuito europeo a los campos australianos justo cuando empieza el verano austral.
+La edición de 2026 se desarrolla a lo largo de cinco días a finales de noviembre. El torneo pertenece al DP World Tour, cuya gira australasiática lleva a los jugadores del circuito europeo a los campos australianos justo cuando empieza el verano austral.
 
 Sus orígenes se remontan a 1905, por lo que figura entre los títulos profesionales más antiguos del país. En 2013, Adam Scott lo ganó en la Gold Coast, en el RACV Royal Pines Resort de Benowa, un campo que acogió muchas ediciones seguidas a lo largo de la década de 2010.
 

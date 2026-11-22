@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: cologne-cologne-cathedral-christmas-market
-srcHash: 'c6bb36eaedc8'
+srcHash: '4c00168537fd'
 title: ケルン大聖堂クリスマスマーケット：日程・チケット・会場ガイド（ケルン）
 description: 2026年のケルン大聖堂クリスマスマーケットは、会期が11月16日〜12月23日、会場は大聖堂のすぐ下に広がるロンカリ広場（Roncalliplatz）です。11月22日の死者の日曜日（Totensonntag）は休業日です。
 quickAnswer: 2026年のケルン大聖堂クリスマスマーケットは、会期が11月16日〜12月23日で、会場は大聖堂のふもとにあるロンカリ広場（Roncalliplatz）です。11月22日の死者の日曜日（Totensonntag）はお休みです。広場には誰でも自由に入れるので、チケットは要りません。料理や飲み物、おみやげはそれぞれの屋台で支払います。ケルン中央駅（Köln Hauptbahnhof）から歩いて数分なので、ほとんどの人は電車で訪れます。

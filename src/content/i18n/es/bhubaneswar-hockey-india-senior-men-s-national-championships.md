@@ -1,74 +1,74 @@
 ---
 lang: es
 slug: bhubaneswar-hockey-india-senior-men-s-national-championships
-srcHash: 'f115eaa81764'
-title: 'Campeonato Nacional Masculino Absoluto de Hockey India: fechas, entradas y sede (Bhubaneswar)'
-description: Del 10 al 21 de noviembre de 2026, Bhubaneswar (Odisha) acoge el 16.º Campeonato Nacional Masculino Absoluto de Hockey India, en el que los mejores equipos masculinos del país se disputan el título nacional.
-quickAnswer: Del 10 al 21 de noviembre de 2026, Bhubaneswar (Odisha) acoge el 16.º Campeonato Nacional Masculino Absoluto de Hockey India, en el que los mejores equipos masculinos del país se disputan el título nacional. La sede, el calendario de partidos y la información sobre entradas se publican en la web oficial de Hockey India. El gran escenario del hockey en la ciudad es el Kalinga Stadium, que ya ha organizado dos Mundiales.
+srcHash: '100b73fa8230'
+title: 'Campeonato Nacional Sénior Masculino de Hockey India: fechas, entradas y sede (Bhubaneswar)'
+description: La 16.ª edición del Campeonato Nacional Sénior Masculino de Hockey India tenía como sede Bhubaneswar (Odisha), con fechas anunciadas del 10 al 21 de noviembre de 2026.
+quickAnswer: Bhubaneswar, en el estado de Odisha, era la sede anunciada de la 16.ª edición del Campeonato Nacional Sénior Masculino de Hockey India, programada del 10 al 21 de noviembre de 2026. En ella, los mejores equipos masculinos del país se disputaban el título nacional. El anuncio mencionaba la ciudad, pero no un estadio concreto. El principal recinto de hockey de Bhubaneswar es el estadio Kalinga (Kalinga Stadium), que ha acogido dos Copas del Mundo.
 faq:
-  - q: ¿Cuándo se celebra el Campeonato Nacional Masculino Absoluto de Hockey India 2026?
-    a: La 16.ª edición tendrá lugar en Bhubaneswar (Odisha) entre el 10 y el 21 de noviembre de 2026.
-  - q: ¿En qué lugar de Bhubaneswar se juegan los partidos?
-    a: Hockey India da a conocer la sede y el calendario en su web oficial. El principal estadio de hockey de la ciudad es el Kalinga Stadium, situado en Nayapalli, donde se disputaron los Mundiales masculinos de la FIH de 2018 y 2023.
-  - q: ¿Cómo se llega a Bhubaneswar para asistir al campeonato?
-    a: Puede volar al Aeropuerto Internacional Biju Patnaik (BBI) o viajar en tren hasta la estación de Bhubaneswar (BBS), en la línea Howrah–Chennai. Ya en la ciudad, lo habitual es desplazarse al estadio en Uber, Ola, Rapido o mototaxi (autorickshaw).
-  - q: ¿Cuántos días conviene quedarse?
-    a: Muchos aficionados sin equipo propio acuden dos o tres días durante la fase de grupos, o bien a las eliminatorias que cierran el torneo. Entre una sesión y otra hay tiempo de sobra para dedicar una jornada a los templos de la Ciudad Vieja y a las cuevas de Udayagiri y Khandagiri.
-  - q: ¿Qué más se puede hacer cerca de la sede?
-    a: A poca distancia se encuentran los templos de Lingaraj y Mukteswara, el Museo Estatal de Odisha y el mercado de Ekamra Haat. Puri y el Templo del Sol de Konark, ambos a unos 60 km, son excursiones de un día muy populares.
+  - q: ¿Cuándo era el Campeonato Nacional Sénior Masculino de Hockey India 2026?
+    a: Las fechas anunciadas para la 16.ª edición eran del 10 al 21 de noviembre de 2026, en Bhubaneswar (Odisha).
+  - q: ¿En qué lugar de Bhubaneswar se jugaban los partidos?
+    a: El anuncio citaba Bhubaneswar sin precisar el estadio. El principal recinto de hockey de la ciudad es el estadio Kalinga (Kalinga Stadium), en el barrio de Nayapalli, que fue sede de las Copas del Mundo masculinas de la FIH de 2018 y 2023.
+  - q: ¿Cómo se llegaba a Bhubaneswar para el campeonato?
+    a: La ciudad cuenta con el Aeropuerto Internacional Biju Patnaik (BBI), y la estación de Bhubaneswar (BBS) se encuentra en la línea Howrah–Chennai. Ya en la ciudad, lo habitual para llegar al estadio era recurrir a Uber, Ola, Rapido o a los autorrickshaws.
+  - q: ¿Cuántos días convenía quedarse?
+    a: El campeonato duraba doce días. En torneos de este tipo, muchos aficionados neutrales acuden dos o tres días a la fase de grupos, o bien a las eliminatorias del final. Entre sesión y sesión cabía sin problema una jornada dedicada a los templos del casco antiguo y a las cuevas de Udayagiri y Khandagiri.
+  - q: ¿Qué más había para ver cerca de la sede?
+    a: A poca distancia en coche se encuentran los templos de Lingaraj y Mukteswara, el Museo Estatal de Odisha y el mercado de Ekamra Haat. Puri y el Templo del Sol de Konark, ambos a unos 60 km, son excursiones de un día muy populares.
 ---
 
 ## Doce días de hockey entre estados
 
-Al tratarse del título nacional, las rivalidades vienen de lejos. El 16.º Campeonato Nacional Masculino Absoluto de Hockey India se disputará en Bhubaneswar del 10 al 21 de noviembre de 2026. Participan las unidades afiliadas a Hockey India, en su mayoría federaciones estatales, de modo que no se enfrentan clubes, sino Punjab contra Haryana u Odisha contra Karnataka.
+Se trata del título nacional, y las rivalidades vienen de lejos. Las fechas anunciadas para la 16.ª edición del Campeonato Nacional Sénior Masculino de Hockey India eran del 10 al 21 de noviembre de 2026, en Bhubaneswar. Compiten las unidades afiliadas a Hockey India, en su mayoría federaciones estatales. Por eso los cruces no enfrentan a clubes, sino a Punyab contra Haryana o a Odisha contra Karnataka.
 
-Los internacionales indios suelen jugar con su estado de origen, y eso brinda una ocasión poco habitual de ver a los jugadores de la selección repartidos en una docena de camisetas distintas. En las últimas ediciones, a una fase de grupos le han seguido rondas eliminatorias. En cada jornada se encadenan varios partidos seguidos, y el calendario se va apretando a medida que se acerca la final.
+Los internacionales indios suelen jugar con su estado de origen, lo que brinda la rara ocasión de ver a los jugadores de la selección repartidos entre una docena de camisetas. En las últimas ediciones, a una fase de grupos le seguían las eliminatorias. Cada jornada encadena varios partidos seguidos, y el calendario se va apretando hasta la final del último día.
 
-## El Kalinga Stadium y la incógnita de la sede
+## El estadio Kalinga y la cuestión de la sede
 
-Sabemos en qué ciudad se juega, pero no en qué estadio. La sede y el calendario completo se publican en la web oficial y en las redes sociales de Hockey India. En Bhubaneswar, la casa por excelencia de este deporte es el Kalinga Stadium, en la zona de Nayapalli, que albergó partidos de los Mundiales masculinos de hockey de la FIH de 2018 y 2023.
+El anuncio de esta edición mencionaba la ciudad, no el estadio. En Bhubaneswar, el hogar tradicional de este deporte es el estadio Kalinga (Kalinga Stadium), en la zona de Nayapalli, que acogió partidos de las Copas del Mundo masculinas de hockey de la FIH de 2018 y 2023.
 
-El estadio forma parte de un gran complejo polideportivo situado en Kalinga Stadium Road, cerca del cruce de Jaydev Vihar. Desde hace años, el gobierno de Odisha apuesta con fuerza por el hockey indio, y la ciudad se toma este deporte con una seriedad poco común. Una final nacional disputada aquí hereda algo de aquel ambiente mundialista.
+El estadio forma parte de un complejo polideportivo más amplio situado en Kalinga Stadium Road, cerca del cruce de Jaydev Vihar. Desde hace años, el gobierno de Odisha apoya con fuerza al hockey indio, y la ciudad se toma este deporte con una seriedad poco común. Una final nacional disputada aquí hereda algo del ambiente de aquellos mundiales.
 
-## Entradas y desarrollo de las jornadas
+## Entradas y funcionamiento de las jornadas
 
-La información sobre entradas del campeonato se encuentra en la web oficial y en las cuentas de Hockey India en redes sociales. En esta página no figuran precios porque no nos los han facilitado, y cualquier cifra que diéramos sería pura especulación.
+El campeonato lo organizaba Hockey India, y junto con las fechas y la ciudad no se anunciaron precios de las entradas.
 
-Por lo general, los campeonatos nacionales atraen menos público que los partidos del Mundial o de la Pro League. Los seguidores de Odisha, el equipo local, suelen acudir en mayor número, al igual que los de los estados con más tradición hockeística. Como una sola entrada suele dar acceso a toda una sesión, es habitual que los espectadores se queden a ver dos o tres partidos seguidos.
+Por lo general, los campeonatos nacionales atraen menos público que los mundiales o la Pro League. Los seguidores del equipo local, Odisha, suelen acudir en mayor número, al igual que los de los estados con más tradición en este deporte. Es habitual que los espectadores se queden a ver dos o tres partidos seguidos, ya que a menudo una sola entrada da acceso a toda la sesión.
 
-## Cómo llegar y moverse por Bhubaneswar
+## Cómo llegar a Bhubaneswar y moverse por la ciudad
 
-Llegar a Bhubaneswar es sencillo. El Aeropuerto Internacional Biju Patnaik (BBI) recibe vuelos nacionales desde Delhi, Bombay, Bangalore, Calcuta y Hyderabad, además de algunas rutas internacionales. La estación de ferrocarril de Bhubaneswar (BBS) se encuentra en la línea principal Howrah–Chennai y tiene trenes directos desde Calcuta y Nueva Delhi.
+Llegar a Bhubaneswar resulta sencillo. Desde Delhi, Bombay, Bangalore, Calcuta e Hyderabad hay vuelos nacionales al Aeropuerto Internacional Biju Patnaik (BBI), que además opera algunas rutas internacionales. La estación de ferrocarril de Bhubaneswar (BBS) se encuentra en la línea principal Howrah–Chennai, con trenes directos desde Calcuta y Nueva Delhi.
 
 Para desplazarse por la ciudad, la mayoría de los visitantes recurre a:
 
-- **Taxis por aplicación**: aquí funcionan Uber, Ola y Rapido.
-- **Mototaxis (autorickshaws)**: abundan en las avenidas principales; si no llevan taxímetro, pacte la tarifa antes de subir.
-- **Mo Bus**: la red municipal de autobuses, que cubre los ejes principales.
+- **Taxis por aplicación**: aquí operan Uber, Ola y Rapido.
+- **Autorrickshaws**: abundan en las avenidas principales; cuando no se usa el taxímetro, la tarifa suele pactarse antes de arrancar.
+- **Mo Bus**: la red pública de autobuses de la ciudad, que cubre los ejes principales.
 
-Los visitantes suelen alojarse en Jaydev Vihar, Saheed Nagar o Nayapalli, tres barrios a poca distancia tanto del aeropuerto como del Kalinga Stadium.
+Los visitantes suelen alojarse en Jaydev Vihar, Saheed Nagar o Nayapalli. Desde cualquiera de estos tres barrios, tanto el aeropuerto como el estadio Kalinga quedan a un breve trayecto.
 
 ## Costumbres en las gradas del Kalinga
 
-El público indio de hockey es ruidoso, apasionado con los suyos y gran conocedor del juego. Un penalti córner arranca más gritos que la mayoría de los goles. Los aficionados que vienen de fuera suelen animar a su propio estado, y a nadie le molesta que un espectador neutral elija bando.
+El público indio de hockey es ruidoso y apasionado, y conoce bien el juego. Un penalti córner arranca más ovaciones que la mayoría de los goles. Los aficionados visitantes animan por lo general a su propio estado, y a nadie le molesta que un espectador neutral tome partido.
 
-Esto es lo que suelen hacer los asistentes:
+Esto es lo que suele hacer el público:
 
-- **Pagar con UPI**: en toda Odisha, los puestos de comida y los vendedores aceptan con total normalidad pagos mediante código QR. Quienes no tienen cuenta bancaria en la India suelen llevar también billetes pequeños.
-- **Ir ligeros de equipaje**: en los grandes estadios indios se registran las bolsas en la entrada, por lo que los aficionados suelen dejar en el hotel las mochilas grandes, la comida y cualquier objeto punzante.
-- **Saludar con «Namaskar»**: funciona en toda Odisha, y unas pocas palabras en oriya ayudan mucho con el personal del estadio.
-- **Seguir el calendario en internet**: casi todos los espectadores siguen las jornadas más cargadas de los distintos grupos con las actualizaciones y los marcadores en directo de Hockey India.
+- **Pagar con UPI**: en los puestos de comida y entre los vendedores de toda Odisha, el pago con código QR es lo más normal. Quienes no tienen cuenta en un banco indio suelen llevar también billetes pequeños.
+- **Ir ligero de equipaje**: en los grandes estadios de la India se registran los bolsos en la entrada, de modo que los aficionados acostumbran a dejar en el hotel las bolsas grandes, la comida de fuera y cualquier objeto punzante.
+- **Saludar con un «Namaskar»**: funciona en toda Odisha, y unas pocas palabras en oriya se agradecen mucho entre el personal del estadio.
+- **Seguir el calendario en internet**: la mayoría de los espectadores sigue las actualizaciones en directo y los resultados de Hockey India para no perderse nada en una jornada intensa con varios grupos.
 
-Noviembre es uno de los mejores meses para ir al estadio en esta ciudad. Una vez pasado el monzón, las tardes son cálidas pero no sofocantes, y las noches, templadas.
+Noviembre es uno de los mejores meses para ir al estadio en esta ciudad. Ya ha pasado el monzón, así que las tardes son cálidas sin llegar a ser sofocantes, y las noches, templadas.
 
 ## Entre partido y partido: templos, cuevas y chhena poda
 
-Merece la pena aprovechar los ratos libres entre sesiones. Bhubaneswar es conocida como la Ciudad de los Templos, y en la Ciudad Vieja, en torno al estanque de Bindu Sagar, se conservan todavía cientos de santuarios de arenisca.
+Los ratos libres entre sesiones dan para mucho. A Bhubaneswar se la conoce como la Ciudad de los Templos, y el casco antiguo que rodea el estanque de Bindu Sagar conserva todavía cientos de santuarios de arenisca.
 
-- **Templo de Lingaraj**: la joya del conjunto, del siglo XI. Los no hindúes no pueden entrar, pero junto a la muralla hay un mirador desde el que se contemplan sus torres.
-- **Templo de Mukteswara**: pequeño y profusamente labrado, célebre por su arco de entrada de piedra.
-- **Cuevas de Udayagiri y Khandagiri**: celdas jainistas excavadas en la roca hacia el siglo II a. C., repartidas entre dos colinas del extremo occidental de la ciudad.
-- **Museo Estatal de Odisha**: manuscritos en hoja de palma y escultura, a poca distancia de la Ciudad Vieja.
-- **Ekamra Haat**: mercado de artesanía donde se venden apliques de Pipli, filigrana de plata y tejidos de Sambalpur.
+- **Templo de Lingaraj**: la joya del conjunto, del siglo XI. Los no hindúes tienen prohibida la entrada, pero desde un mirador junto a la muralla se contemplan sus torres.
+- **Templo de Mukteswara**: pequeño y profusamente labrado, con un célebre arco de piedra en la entrada.
+- **Cuevas de Udayagiri y Khandagiri**: celdas jainistas excavadas en la roca hacia el siglo II a. C., repartidas entre dos colinas en el extremo occidental de la ciudad.
+- **Museo Estatal de Odisha**: manuscritos en hoja de palma y escultura, a poca distancia del casco antiguo.
+- **Ekamra Haat**: mercado de artesanía donde se venden apliques de Pipli, filigrana de plata y tejidos sambalpuri.
 
-En la mesa, no deje de probar el dalma (lentejas guisadas con verduras), un thali en un restaurante de cocina oriya y el chhena poda, un postre de requesón horneado con costra caramelizada. Los aficionados que disponen de un día libre suelen ir a Puri y al Templo del Sol de Konark, ambos a unos 60 km.
+Entre los platos típicos figuran el dalma, a base de lentejas guisadas con verduras, el thali de cualquier restaurante oriya y el chhena poda, un postre de requesón horneado con costra caramelizada. Los aficionados que disponen de un día libre suelen escaparse a Puri y al Templo del Sol de Konark, ambos a unos 60 km.

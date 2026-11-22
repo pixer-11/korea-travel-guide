@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: buenos-aires-rush-movistar-arena-buenos-aires
-srcHash: '7fad3790b8f1'
+srcHash: '0d5db3fbdb1b'
 title: 'Rush en el Movistar Arena de Buenos Aires: fechas, entradas y recinto'
 description: El concierto de la banda canadiense de rock Rush en Buenos Aires es el 15 de enero de 2027, en el Movistar Arena, un recinto cubierto de la calle Humboldt, en Villa Crespo.
 quickAnswer: El concierto de la banda canadiense de rock Rush en Buenos Aires es el 15 de enero de 2027, en el Movistar Arena, un recinto cubierto de la calle Humboldt, en Villa Crespo. Las fechas de sus espectáculos y los enlaces de venta de entradas figuran en el sitio oficial del estadio. La mayoría del público llega en la línea B del subte hasta la estación Dorrego y desde allí camina unas pocas cuadras.
@@ -33,7 +33,7 @@ Basta repasar sus canciones más conocidas para entender por qué el público su
 - **"Tom Sawyer"**, clásico de la radio incluido en *Moving Pictures*
 - **"YYZ"**, un tema instrumental cuyo título es el código del aeropuerto de Toronto
 - **"The Spirit of Radio"** y **"Limelight"**, que el público corea de principio a fin
-- **"2112"**, la suite que ocupaba toda una cara del disco y que los dio a conocer en 1976
+- **"2112"**, la suite que ocupaba toda una cara del disco y que se publicó en 1976
 
 No se conoce el repertorio de esta fecha, así que esta lista resume la trayectoria de la banda y no anticipa lo que sonará esa noche.
 

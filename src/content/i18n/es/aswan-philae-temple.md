@@ -1,15 +1,15 @@
 ---
 lang: es
 slug: aswan-philae-temple
-srcHash: 'f27bec8bfeb1'
+srcHash: 'fe5a11b21ec2'
 title: 'Templo de Filae: guía de viaje de Asuán (4.8★)'
 description: El templo de Filae se alza en la isla de Agilkia, al sur de Asuán y cerca de la Antigua Presa, y se llega en lancha motora desde el embarcadero de Shellal. Con 4.8★ (15,046 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
-quickAnswer: El templo de Filae se alza en la isla de Agilkia, al sur de Asuán y cerca de la Antigua Presa de Asuán. Se llega en lancha motora desde el embarcadero de Shellal. Actualmente abre de 6am–5pm. Los fines de semana suele haber más calma de 7am–9am y de 1pm–5pm. Calcule unas dos horas en la isla, a las que hay que sumar el trayecto en barca.
+quickAnswer: El templo de Filae se alza en la isla de Agilkia, al sur de Asuán y cerca de la Antigua Presa de Asuán. Se llega en lancha motora desde el embarcadero de Shellal. Actualmente abre de 6am–5pm. Por la mañana suele haber más calma, antes de que lleguen los grupos organizados. Calcule unas dos horas en la isla, a las que hay que sumar el trayecto en barca.
 faq:
   - q: ¿Cómo se llega al templo de Filae?
     a: Hay que ir en taxi o con una excursión organizada hasta el embarcadero de Shellal, situado al sur de Asuán, cerca de la Antigua Presa. Allí, en la taquilla oficial, se compra la entrada al templo, y después se cruza en lancha motora hasta la isla de Agilkia. Antes de zarpar, pacte con el barquero el precio del trayecto y la vuelta.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Los fines de semana suele haber más calma de 7am a 9am y de 1pm a 5pm. Actualmente el templo abre de 6am–5pm, pero conviene consultar la web oficial, ya que el horario puede variar según la temporada.
+    a: Por la mañana suele haber más calma, antes de que lleguen los grupos organizados. Actualmente el templo abre de 6am–5pm, pero conviene consultar la web oficial, ya que el horario puede variar según la temporada.
   - q: ¿Cuánto tiempo hay que dedicar a Filae?
     a: Reserve entre 1.5 y 2 horas para recorrer la isla. A eso se suman la travesía en barca y el trayecto en coche desde el centro de Asuán hasta Shellal.
   - q: ¿Merece la pena el espectáculo de luz y sonido?
@@ -39,7 +39,7 @@ Fíjese en las cruces coptas grabadas sobre los relieves más antiguos y en los 
 
 ## Cómo organizar la barca y evitar las aglomeraciones
 
-Esta semana el templo abre todos los días de 6am–5pm. Como el horario puede cambiar según la temporada, consulte antes de ir la web oficial de antigüedades de Egipto. Los fines de semana, los momentos más tranquilos suelen ser de 7am a 9am y, de nuevo, de 1pm a 5pm. Quien llega a media mañana suele coincidir con los grupos organizados.
+Esta semana el templo abre todos los días de 6am–5pm. Como el horario puede cambiar según la temporada, consulte antes de ir la web oficial de antigüedades de Egipto. Las mañanas suelen ser el momento más tranquilo, antes de que lleguen los grupos organizados. Quien llega a media mañana suele coincidir con los grupos organizados.
 
 En Asuán conviene madrugar, porque a partir del mediodía los patios de piedra acumulan el calor. Dedique a la isla entre 1.5 y 2 horas. La travesía apenas dura unos minutos, pero el taxi desde el centro de Asuán hasta Shellal alarga el tiempo total. El espectáculo nocturno de luz y sonido es un evento aparte, con entrada propia y fuera de este horario diurno, por lo que debe reservarse por separado.
 
