@@ -3050,5 +3050,200 @@
         "delta": -13
       }
     ]
+  },
+  {
+    "week": "2026-11-22",
+    "pageviews": 4174,
+    "visits": 3913,
+    "top": [
+      {
+        "path": "/ko/",
+        "views": 200
+      },
+      {
+        "path": "/zh/posts/bugis-bugis-street/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/seattle-elliott-bay-book-company/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/pattaya-mini-siam/",
+        "views": 100
+      },
+      {
+        "path": "/ja/posts/auckland-robbie-williams-britpop-world-tour-auckland/",
+        "views": 100
+      },
+      {
+        "path": "/ja/posts/lake-tekapo-the-church-of-the-good-shepherd/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/paris-sainte-chapelle/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/paris-jardin-du-luxembourg/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/central-hong-kong-zoological-and-botanical-gardens/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/jasper-jasper-national-park/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/phu-quoc-grand-world-phu-quoc/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/naoshima-benesse-house-museum/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/bolzano-bolzano-christmas-market-mercatino-di-natale-di-bolzano/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/luxor-colossi-of-memnon/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/tsim-sha-tsui-tsim-sha-tsui-promenade/",
+        "views": 100
+      },
+      {
+        "path": "/posts/quebec-city-joan-of-arc-garden/",
+        "views": 100
+      },
+      {
+        "path": "/zh/regions/hong-kong/hidden-gems/",
+        "views": 100
+      },
+      {
+        "path": "/ja/regions/darwin/",
+        "views": 100
+      },
+      {
+        "path": "/posts/bangkok-chatuchak-weekend-market/",
+        "views": 100
+      },
+      {
+        "path": "/ja/posts/macau-73rd-macau-grand-prix/",
+        "views": 100
+      },
+      {
+        "path": "/zh/essentials/india/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/selcuk-library-of-celsus/",
+        "views": 100
+      },
+      {
+        "path": "/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/hurghada-downtown-el-gouna/",
+        "views": 100
+      },
+      {
+        "path": "/zh/regions/katong/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/hong-kong-victoria-harbour/",
+        "views": 100
+      },
+      {
+        "path": "/zh/regions/seattle/",
+        "views": 100
+      },
+      {
+        "path": "/zh/posts/nagoya-osu-kannon/",
+        "views": 100
+      },
+      {
+        "path": "/ja/posts/jakarta-djakarta-warehouse-project-dwp/",
+        "views": 100
+      },
+      {
+        "path": "/posts/central-pottinger-street/",
+        "views": 100
+      }
+    ],
+    "risers": [
+      {
+        "path": "/ko/",
+        "delta": 183
+      },
+      {
+        "path": "/zh/posts/bugis-bugis-street/",
+        "delta": 100
+      },
+      {
+        "path": "/zh/posts/seattle-elliott-bay-book-company/",
+        "delta": 100
+      },
+      {
+        "path": "/zh/posts/pattaya-mini-siam/",
+        "delta": 100
+      },
+      {
+        "path": "/ja/posts/auckland-robbie-williams-britpop-world-tour-auckland/",
+        "delta": 100
+      },
+      {
+        "path": "/ja/posts/lake-tekapo-the-church-of-the-good-shepherd/",
+        "delta": 100
+      },
+      {
+        "path": "/zh/posts/paris-sainte-chapelle/",
+        "delta": 100
+      },
+      {
+        "path": "/zh/posts/paris-jardin-du-luxembourg/",
+        "delta": 100
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/zh/posts/new-york-city-league-of-legends-world-championship-finals-worlds-2026/",
+        "delta": -71
+      },
+      {
+        "path": "/zh/posts/hangzhou-bwf-world-tour-finals/",
+        "delta": -26
+      },
+      {
+        "path": "/ja/regions/adelaide/",
+        "delta": -25
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "delta": -21
+      },
+      {
+        "path": "/ja/posts/bangkok-vijit-chao-phraya-2026/",
+        "delta": -20
+      },
+      {
+        "path": "/ja/posts/lima-larco-museum/",
+        "delta": -19
+      },
+      {
+        "path": "/zh/posts/frankfurt-wtt-champions-germany/",
+        "delta": -16
+      },
+      {
+        "path": "/posts/manila-5sos-everyone-s-a-star-world-tour/",
+        "delta": -16
+      }
+    ]
   }
 ]
