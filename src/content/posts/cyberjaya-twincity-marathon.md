@@ -9,6 +9,14 @@ eventStartDate: '2027-01-24'
 eventEndDate: '2027-01-24'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landscape_at_Cyberjaya_Lake_Gardens.jpg/1280px-Landscape_at_Cyberjaya_Lake_Gardens.jpg'
+  credit: 'Photo: 白布飘扬 (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Landscape at Cyberjaya Lake Gardens.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - cyberjaya

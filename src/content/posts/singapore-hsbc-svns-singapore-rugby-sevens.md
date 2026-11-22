@@ -13,7 +13,6 @@ eventOrganizer:
   name: World Rugby
   url: https://www.world.rugby
 eventFactsAsked: true
-gallery: []
 tags:
   - singapore
   - event
@@ -31,6 +30,14 @@ faq:
     a: It's hot and humid, and the northeast monsoon can bring afternoon showers. The National Stadium's retractable dome roof gives some cover, and fans usually dress light and carry water.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4f/National_stadium_kallang_sg_z.JPG
+  credit: 'Photo: Chensiyuan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:National_stadium_kallang_sg_z.JPG
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Two days, dozens of short matches

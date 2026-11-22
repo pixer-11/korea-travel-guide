@@ -8446,5 +8446,109 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cebu_IT_Park%2C_Cebu_Business_Park_skyline_Beverly_Hills_%28Cebu_City%3B_01-23-2024%29.jpg": {
+  "w": 3552,
+  "h": 2664,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landscape_at_Cyberjaya_Lake_Gardens.jpg/1280px-Landscape_at_Cyberjaya_Lake_Gardens.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grand_Egyptian_Museum_2025.jpg/3840px-Grand_Egyptian_Museum_2025.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Skyline_s%C3%B4ng_C%E1%BA%A5m_H%E1%BA%A3i_Ph%C3%B2ng_th%C3%A1ng_12_n%C4%83m_2023.jpg/1280px-Skyline_s%C3%B4ng_C%E1%BA%A5m_H%E1%BA%A3i_Ph%C3%B2ng_th%C3%A1ng_12_n%C4%83m_2023.jpg": {
+  "w": 1280,
+  "h": 762,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ho_Chi_Minh_City_Skyline_%28night%29.jpg": {
+  "w": 3304,
+  "h": 1815,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Modern_Istanbul_skyline.jpg/3840px-Modern_Istanbul_skyline.jpg": {
+  "w": 3840,
+  "h": 1973,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/2/21/Skyline_of_Lima_city.jpg": {
+  "w": 2048,
+  "h": 1536,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Macau_skyline_%2830815821552%29.jpg/3840px-Macau_skyline_%2830815821552%29.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/9/94/A-Ma_Temple_%28Macau%29_01.JPG": {
+  "w": 2048,
+  "h": 1536,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Quiapo_Church%2C_Manila%2C_Feb_2025_%281%29.jpg/3840px-Quiapo_Church%2C_Manila%2C_Feb_2025_%281%29.jpg": {
+  "w": 3840,
+  "h": 2891,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg/3840px-Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/5/54/Al-Sahaba_Mosque_in_Sharm_El-Sheikh_%281%29.jpg": {
+  "w": 2160,
+  "h": 1620,
+  "focus": {
+   "x": 50,
+   "y": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/a/a8/Georgia%2C_Imereti%2C_Tskaltubo_-_%D0%A1%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B9_%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D1%83%D1%80%D0%B3_%28%D0%A6%D1%85%D0%B0%D0%BB%D1%82%D1%83%D0%B1%D0%BE%29_WMID7140664.jpg": {
+  "w": 2106,
+  "h": 1400,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

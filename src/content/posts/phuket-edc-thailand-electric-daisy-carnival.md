@@ -13,6 +13,14 @@ eventOrganizer:
   name: Insomniac
   url: https://www.insomniac.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg/3840px-Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Phuket_Thailand_Big-Buddha-of-Phuket-05.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - phuket

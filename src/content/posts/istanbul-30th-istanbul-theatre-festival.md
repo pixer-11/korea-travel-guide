@@ -12,6 +12,14 @@ eventOrganizer:
   name: Istanbul Foundation for Culture and Arts (İKSV)
   url: https://www.iksv.org/en
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Modern_Istanbul_skyline.jpg/3840px-Modern_Istanbul_skyline.jpg'
+  credit: 'Photo: Ben Morlok / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Modern_Istanbul_skyline.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - istanbul

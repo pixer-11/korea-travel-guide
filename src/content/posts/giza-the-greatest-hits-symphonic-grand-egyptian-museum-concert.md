@@ -10,6 +10,14 @@ eventEndDate: '2026-12-11'
 eventRecurring: false
 eventVenue: Grand Egyptian Museum
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grand_Egyptian_Museum_2025.jpg/3840px-Grand_Egyptian_Museum_2025.jpg'
+  credit: 'Photo: Amr F.Nagy / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2025.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - giza

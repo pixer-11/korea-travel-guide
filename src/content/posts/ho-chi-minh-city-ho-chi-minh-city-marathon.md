@@ -10,6 +10,14 @@ eventEndDate: '2027-01-17'
 eventRecurring: true
 eventVenue: Independence Palace, Ben Thanh
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Ho_Chi_Minh_City_Skyline_%28night%29.jpg'
+  credit: 'Photo: Jim 陳 / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_Skyline_(night).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - ho chi minh city

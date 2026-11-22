@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://www.galaxymacau.com/ticketing/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Macau_skyline_%2830815821552%29.jpg/3840px-Macau_skyline_%2830815821552%29.jpg'
+  credit: 'Photo: Joybot / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Macau_skyline_(30815821552).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - macau

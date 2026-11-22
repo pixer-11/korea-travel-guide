@@ -3855,7 +3855,12 @@
   "singapore-super-junior-super-show-10-20th-anniversary-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/260726_2026-27_Super_Junior-83z_Fancon_Tour_%281983%29.jpg": 3095,
   "tbilisi-georgian-chess-championship-85th-women-s-championship-83rd\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Biltmore_Tbilisi_Hotel%2C_Georgia_%2850502667298%29.jpg/3840px-The_Biltmore_Tbilisi_Hotel%2C_Georgia_%2850502667298%29.jpg": 3840,
   "tokyo-hatsu-basho-january-grand-sumo-tournament\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kisenosato_vs._Kakury%C5%AB_2014_Hatsu_basho_Tokyo.jpg/3840px-Kisenosato_vs._Kakury%C5%AB_2014_Hatsu_basho_Tokyo.jpg": 3840,
-  "sydney-sydney-to-hobart-yacht-race\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Tom_Slingsby_aboard_Perpetual_Loyal_for_2014_Sydney_Hobart_Race.jpg": 2236
+  "sydney-sydney-to-hobart-yacht-race\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Tom_Slingsby_aboard_Perpetual_Loyal_for_2014_Sydney_Hobart_Race.jpg": 2236,
+  "callao-tour-del-miedo-nocturno-fortaleza-real-felipe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fortaleza_Real_Felipe_Callao_3.jpg/3840px-Fortaleza_Real_Felipe_Callao_3.jpg": 3840,
+  "cairo-fide-world-u7-u17-rapid-and-blitz-chess-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/FIDE_World_FR_Chess_Championship_2019_-_Carlsen_v_Caruana.jpg": 3000,
+  "hong-kong-boynextdoor-knock-on-vol-2-world-tour-in-hong-kong\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_04.png": 2560,
+  "maromme-french-snooker-championship-u18-u21-maromme\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Snooker_World_Championship_Final.jpg/3840px-Snooker_World_Championship_Final.jpg": 3840,
+  "singapore-hsbc-svns-singapore-rugby-sevens\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/National_stadium_kallang_sg_z.JPG": 3264
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4158,8 +4163,8 @@
   },
   "paris-hando-champs-elysees": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-11-22",
+   "attempts": 4,
+   "nextTry": "2026-11-29",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -4368,5 +4373,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-22T21:06:33.433Z"
+ "updated": "2026-11-22T21:12:52.457Z"
 }

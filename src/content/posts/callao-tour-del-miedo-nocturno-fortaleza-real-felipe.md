@@ -10,7 +10,6 @@ eventEndDate: '2027-01-30'
 eventRecurring: true
 eventVenue: Fortaleza Real Felipe
 eventFactsAsked: true
-gallery: []
 tags:
   - callao
   - event
@@ -28,6 +27,14 @@ faq:
     a: By day, the Museo del Ejército is inside the fortress itself. The La Punta seafront promenade and the street-art blocks of Callao Monumental are a short ride away.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fortaleza_Real_Felipe_Callao_3.jpg/3840px-Fortaleza_Real_Felipe_Callao_3.jpg
+  credit: 'Photo: Ibrehaut / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Fortaleza_Real_Felipe_Callao_3.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Ramparts after dark

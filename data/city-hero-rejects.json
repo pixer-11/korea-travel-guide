@@ -590,5 +590,25 @@
  "El Gouna\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/El_Gouna_Mosque_R05.jpg": {
   "reason": "Interior ceiling chandelier shot, not a city view",
   "at": "2026-11-19T19:40:44.244Z"
+ },
+ "Ho Chi Minh City\u0001https://upload.wikimedia.org/wikipedia/commons/6/65/Dinh_thong_Nhat%2C_quan_01%2C_phuong_ben_thanh%2C_Thanh_Pho_Ho_Chi_minh%2C_Vietnam_-_panoramio.jpg": {
+  "reason": "Unidentified illuminated building, not clearly Ho Chi Minh City landmark",
+  "at": "2026-11-22T21:14:10.583Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Spices_on_Spice_Bazaar_in_Istanbul_04.jpg/3840px-Spices_on_Spice_Bazaar_in_Istanbul_04.jpg": {
+  "reason": "Close-up of spices, not a city view",
+  "at": "2026-11-22T21:14:17.967Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sweets_on_Spice_Bazaar_in_Istanbul_09.jpg/3840px-Sweets_on_Spice_Bazaar_in_Istanbul_09.jpg": {
+  "reason": "Close-up food shot, not a city view",
+  "at": "2026-11-22T21:14:19.303Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sweets_on_Spice_Bazaar_in_Istanbul_06.jpg/3840px-Sweets_on_Spice_Bazaar_in_Istanbul_06.jpg": {
+  "reason": "Close-up food tray, not a view of Istanbul",
+  "at": "2026-11-22T21:14:20.631Z"
+ },
+ "Istanbul\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Spices_on_Spice_Bazaar_in_Istanbul_03.jpg/3840px-Spices_on_Spice_Bazaar_in_Istanbul_03.jpg": {
+  "reason": "Close-up spice market product shot, not a city view",
+  "at": "2026-11-22T21:14:21.983Z"
  }
 }

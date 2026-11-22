@@ -9,6 +9,14 @@ eventStartDate: '2026-12-20'
 eventEndDate: '2026-12-20'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Skyline_of_Lima_city.jpg'
+  credit: 'Photo: Evans.uno / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Skyline_of_Lima_city.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - lima

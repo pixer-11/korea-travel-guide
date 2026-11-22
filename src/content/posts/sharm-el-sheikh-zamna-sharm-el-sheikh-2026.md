@@ -9,6 +9,14 @@ eventStartDate: '2026-12-01'
 eventEndDate: '2026-12-31'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/54/Al-Sahaba_Mosque_in_Sharm_El-Sheikh_%281%29.jpg'
+  credit: 'Photo: Шухрат Саъдиев / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Al-Sahaba_Mosque_in_Sharm_El-Sheikh_(1).jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - sharm el sheikh

@@ -12,6 +12,14 @@ eventOrganizer:
   name: VnExpress
   url: https://vm.vnexpress.net/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Skyline_s%C3%B4ng_C%E1%BA%A5m_H%E1%BA%A3i_Ph%C3%B2ng_th%C3%A1ng_12_n%C4%83m_2023.jpg/1280px-Skyline_s%C3%B4ng_C%E1%BA%A5m_H%E1%BA%A3i_Ph%C3%B2ng_th%C3%A1ng_12_n%C4%83m_2023.jpg'
+  credit: 'Photo: HP1992 (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Skyline sông Cấm Hải Phòng tháng 12 năm 2023.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - hai phong

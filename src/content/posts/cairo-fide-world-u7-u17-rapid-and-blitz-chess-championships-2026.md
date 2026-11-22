@@ -14,7 +14,6 @@ eventOrganizer:
 eventOffers:
   url: https://www.fide.com/fide-world-u7-u17-rapid-and-blitz-championships-2026-egypt-registration-now-open/
 eventFactsAsked: true
-gallery: []
 tags:
   - cairo
   - event
@@ -32,6 +31,16 @@ faq:
     a: The Pyramids of Giza and the Sphinx, the Grand Egyptian Museum beside the Giza plateau, and the Egyptian Museum on Tahrir Square. Khan el-Khalili bazaar, Al-Azhar Park and a felucca ride on the Nile are also popular.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b3/FIDE_World_FR_Chess_Championship_2019_-_Carlsen_v_Caruana.jpg
+  credit: 'Photo: Lennart Ootes / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:FIDE_World_FR_Chess_Championship_2019_-_Carlsen_v_Caruana.jpg
+  focus:
+    x: 63
+    'y': 24
+    top: 18
+    bottom: 30
 ---
 
 ## A week framed by two travel days

@@ -9,7 +9,6 @@ eventStartDate: '2027-01-16'
 eventEndDate: '2027-01-17'
 eventRecurring: true
 eventFactsAsked: true
-gallery: []
 tags:
   - maromme
   - event
@@ -27,6 +26,14 @@ faq:
     a: Central Rouen is a few kilometres away. It has the Cathédrale Notre-Dame, the Gros-Horloge clock and Place du Vieux-Marché with the Joan of Arc church, all within walking distance of each other.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Snooker_World_Championship_Final.jpg/3840px-Snooker_World_Championship_Final.jpg
+  credit: 'Photo: Bvayb / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Snooker_World_Championship_Final.jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Two days, two age groups

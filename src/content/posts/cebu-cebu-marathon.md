@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://www.cebumarathon.com.ph/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Cebu_IT_Park%2C_Cebu_Business_Park_skyline_Beverly_Hills_%28Cebu_City%3B_01-23-2024%29.jpg'
+  credit: 'Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cebu_IT_Park,_Cebu_Business_Park_skyline_Beverly_Hills_(Cebu_City;_01-23-2024).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - cebu

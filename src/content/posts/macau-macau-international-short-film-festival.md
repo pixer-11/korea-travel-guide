@@ -13,6 +13,14 @@ eventOrganizer:
   name: Macau International Short Film Festival Committee
   url: https://filmfreeway.com/MacauInternationalShortFilmFestival
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/94/A-Ma_Temple_%28Macau%29_01.JPG'
+  credit: 'Photo: Abasaa / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:A-Ma_Temple_(Macau)_01.JPG'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - macau

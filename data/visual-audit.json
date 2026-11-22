@@ -6936,6 +6936,18 @@
   "reason": "patrol reject: Ribbon-cutting ceremony with people, not venue or event imagery",
   "at": "2026-11-18T21:49:27.643Z"
  },
+ "cairo-fide-world-u7-u17-rapid-and-blitz-chess-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/54/FIDE_World_FR_Chess_Championship_2019_-_Ole_Rolfsrud_%28NRK%29.jpg": {
+  "slug": "cairo-fide-world-u7-u17-rapid-and-blitz-chess-championships-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Social gathering photo, unrelated to chess championship event",
+  "at": "2026-11-22T21:07:52.848Z"
+ },
+ "cairo-fide-world-u7-u17-rapid-and-blitz-chess-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/FIDE_World_FR_Chess_Championship_2019_-_Carlsen_v_Caruana.jpg": {
+  "slug": "cairo-fide-world-u7-u17-rapid-and-blitz-chess-championships-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Chess competition event with players and venue setup",
+  "at": "2026-11-22T21:07:59.675Z"
+ },
  "cairo-gayer-anderson-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kairo_Gayer_Anderson_Museum_BW_3.jpg/1920px-Kairo_Gayer_Anderson_Museum_BW_3.jpg": {
   "slug": "cairo-gayer-anderson-museum",
   "verdict": "MATCH",
@@ -7019,6 +7031,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Wonderland wire-mesh head sculpture in Calgary plaza",
   "at": "2026-10-25T07:47:57.504Z"
+ },
+ "callao-tour-del-miedo-nocturno-fortaleza-real-felipe\u0001https://upload.wikimedia.org/wikipedia/commons/f/fd/Cuevas_del_Miedo.JPG": {
+  "slug": "callao-tour-del-miedo-nocturno-fortaleza-real-felipe",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Cave stalactites, not the fortress venue",
+  "at": "2026-11-22T21:08:06.978Z"
+ },
+ "callao-tour-del-miedo-nocturno-fortaleza-real-felipe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fortaleza_Real_Felipe_Callao_3.jpg/3840px-Fortaleza_Real_Felipe_Callao_3.jpg": {
+  "slug": "callao-tour-del-miedo-nocturno-fortaleza-real-felipe",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Colonial stone fortress facade, Peru architectural style",
+  "at": "2026-11-22T21:08:09.409Z"
  },
  "cambridge-anglesey-abbey\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Anglesey_Abbey%2C_Lode%2C_Cambridgeshire.jpg": {
   "slug": "cambridge-anglesey-abbey",
@@ -7436,6 +7460,12 @@
   "reason": "Historic house with traditional architecture, Cebu setting",
   "reasonKo": "세부의 전통 건축 양식 역사 가옥",
   "at": "2026-08-19T13:28:17.203Z"
+ },
+ "cebu-cebu-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marathon_-_windmill.jpg/3840px-Marathon_-_windmill.jpg": {
+  "slug": "cebu-cebu-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural windmill scene, unrelated to Cebu Marathon event",
+  "at": "2026-11-22T21:08:15.709Z"
  },
  "cebu-city-sinulog-festival\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/Sinulog_2026_2026-01-16_001.jpg": {
   "slug": "cebu-city-sinulog-festival",
@@ -14095,6 +14125,12 @@
   "reason": "event publish gate: Shows AsiaWorld-Expo venue interior with directional signage",
   "at": "2026-11-02T00:02:49.838Z"
  },
+ "hong-kong-boynextdoor-knock-on-vol-2-world-tour-in-hong-kong\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_04.png": {
+  "slug": "hong-kong-boynextdoor-knock-on-vol-2-world-tour-in-hong-kong",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Band at event venue backdrop, plausible act photo",
+  "at": "2026-11-22T21:09:41.146Z"
+ },
  "hong-kong-brunch-club\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/HK_Central_%E4%B8%AD%E7%92%B0_%E5%8D%91%E5%88%A9%E8%A1%97_70_Peel_Street_Brunch_Club_cafe_Nov-2010.jpg": {
   "slug": "hong-kong-brunch-club",
   "verdict": "MATCH",
@@ -15702,6 +15738,24 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Casa de Fierro's iron facade in Iquitos, Peru",
   "at": "2026-10-22T14:51:37.065Z"
+ },
+ "istanbul-30th-istanbul-theatre-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Theatre%2C_Kadikoey%2C_Istanbul_%28P1100155%29.jpg/3840px-Theatre%2C_Kadikoey%2C_Istanbul_%28P1100155%29.jpg": {
+  "slug": "istanbul-30th-istanbul-theatre-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene, not theatre festival or performance",
+  "at": "2026-11-22T21:09:46.953Z"
+ },
+ "istanbul-30th-istanbul-theatre-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_state_theatre_2.JPG/3840px-Istanbul_state_theatre_2.JPG": {
+  "slug": "istanbul-30th-istanbul-theatre-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Building facade, unrelated to theatre festival event",
+  "at": "2026-11-22T21:09:50.676Z"
+ },
+ "istanbul-30th-istanbul-theatre-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Istanbul_state_theatre.JPG/3840px-Istanbul_state_theatre.JPG": {
+  "slug": "istanbul-30th-istanbul-theatre-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene unrelated to theatre festival event",
+  "at": "2026-11-22T21:09:51.895Z"
  },
  "istanbul-akbank-jazz-festival\u0001https://upload.wikimedia.org/wikipedia/commons/c/c3/Akbank_Caz_Festivali_Kolaj.jpg": {
   "slug": "istanbul-akbank-jazz-festival",
@@ -20493,6 +20547,30 @@
   "reason": "publish gate: Full facade of Archbishop's Palace of Lima, representative hero shot",
   "at": "2026-11-05T07:49:41.833Z"
  },
+ "lima-ava-la-vuelta-8k-4k-miraflores\u0001https://upload.wikimedia.org/wikipedia/commons/9/9a/Ava_2018-01-05_1021Z.jpg": {
+  "slug": "lima-ava-la-vuelta-8k-4k-miraflores",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Satellite image of cyclone, unrelated to running race event",
+  "at": "2026-11-22T21:10:15.944Z"
+ },
+ "lima-ava-la-vuelta-8k-4k-miraflores\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Vue_d%27une_de_la_mairie_de_S%C3%B4-Ava_au_B%C3%A9nin.jpg": {
+  "slug": "lima-ava-la-vuelta-8k-4k-miraflores",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated waterfront scene, not a running event",
+  "at": "2026-11-22T21:10:14.224Z"
+ },
+ "lima-ava-la-vuelta-8k-4k-miraflores\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gasolinera_Ava_Av._Alfredo_Benavides%2C_Miraflores.jpg/3840px-Gasolinera_Ava_Av._Alfredo_Benavides%2C_Miraflores.jpg": {
+  "slug": "lima-ava-la-vuelta-8k-4k-miraflores",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Gas station, unrelated to running race event",
+  "at": "2026-11-22T21:10:18.385Z"
+ },
+ "lima-ava-la-vuelta-8k-4k-miraflores\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Gasolinera_AVA%2C_Surquillo_20260616.jpg/3840px-Gasolinera_AVA%2C_Surquillo_20260616.jpg": {
+  "slug": "lima-ava-la-vuelta-8k-4k-miraflores",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Gas station photo, unrelated to race event",
+  "at": "2026-11-22T21:10:21.166Z"
+ },
  "lima-babymetal-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/Babymetal_-_US_Tour_2019_01.jpg": {
   "slug": "lima-babymetal-world-tour-2026",
   "verdict": "MATCH",
@@ -23442,6 +23520,24 @@
   "verdict": "MATCH",
   "reason": "Infinity pool overlooking Marina Bay skyline",
   "at": "2026-07-25T02:46:33.959Z"
+ },
+ "maromme-french-snooker-championship-u18-u21-maromme\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/Snooker_Nations_2018-19.png": {
+  "slug": "maromme-french-snooker-championship-u18-u21-maromme",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: World map diagram, not a snooker event photo",
+  "at": "2026-11-22T21:10:48.738Z"
+ },
+ "maromme-french-snooker-championship-u18-u21-maromme\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Snooker_tournaments_2020.png": {
+  "slug": "maromme-french-snooker-championship-u18-u21-maromme",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: World map, not snooker championship photo",
+  "at": "2026-11-22T21:10:49.986Z"
+ },
+ "maromme-french-snooker-championship-u18-u21-maromme\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Snooker_World_Championship_Final.jpg/3840px-Snooker_World_Championship_Final.jpg": {
+  "slug": "maromme-french-snooker-championship-u18-u21-maromme",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Professional snooker match venue with green table",
+  "at": "2026-11-22T21:10:53.016Z"
  },
  "maromme-french-snooker-masters-tn2\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Snooker_900_match_arena.jpg/1920px-Snooker_900_match_arena.jpg": {
   "slug": "maromme-french-snooker-masters-tn2",
@@ -30008,6 +30104,30 @@
   "reason": "Beach setting generic, no clear restaurant/dining visible",
   "at": "2026-07-25T02:48:09.386Z"
  },
+ "phuket-edc-thailand-electric-daisy-carnival\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/A6-EDC_Emirates_Airbus_A380-861_ILA_2012_02.jpg": {
+  "slug": "phuket-edc-thailand-electric-daisy-carnival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane on tarmac, unrelated to music festival event",
+  "at": "2026-11-22T21:11:03.578Z"
+ },
+ "phuket-edc-thailand-electric-daisy-carnival\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/A6-EDC_Airbus_A380_Emirates_%287602114414%29.jpg": {
+  "slug": "phuket-edc-thailand-electric-daisy-carnival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane photo unrelated to EDC Thailand music festival",
+  "at": "2026-11-22T21:11:05.935Z"
+ },
+ "phuket-edc-thailand-electric-daisy-carnival\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/SP-EDC_%288568285172%29.jpg": {
+  "slug": "phuket-edc-thailand-electric-daisy-carnival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane photo unrelated to EDC Thailand music festival",
+  "at": "2026-11-22T21:11:01.784Z"
+ },
+ "phuket-edc-thailand-electric-daisy-carnival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A6-EDC_Emirates_Airbus_A380-861_ILA_2012_panorama.jpg/3840px-A6-EDC_Emirates_Airbus_A380-861_ILA_2012_panorama.jpg": {
+  "slug": "phuket-edc-thailand-electric-daisy-carnival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane unrelated to music festival event",
+  "at": "2026-11-22T21:11:04.613Z"
+ },
  "phuket-green-elephant-sanctuary-park\u0001https://fastly.4sqi.net/img/general/original/1412765494_6bWm6VGici9cAKOfrh2qZjTwJte-w1TdCFUIOCxlKCg.jpg": {
   "slug": "phuket-green-elephant-sanctuary-park",
   "verdict": "MATCH",
@@ -34980,6 +35100,18 @@
   "reason": "Historic Chinese mansion with traditional architecture.",
   "reasonKo": "전통 중국식 저택의 역사적 건축물",
   "at": "2026-09-03T16:39:26.267Z"
+ },
+ "singapore-hsbc-svns-singapore-rugby-sevens\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/National_stadium_kallang_sg_z.JPG": {
+  "slug": "singapore-hsbc-svns-singapore-rugby-sevens",
+  "verdict": "MATCH",
+  "reason": "patrol replace: National Stadium Kallang exterior, correct venue",
+  "at": "2026-11-22T21:11:43.926Z"
+ },
+ "singapore-hsbc-svns-singapore-rugby-sevens\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/HSBC_SVNS_2_2026.jpg": {
+  "slug": "singapore-hsbc-svns-singapore-rugby-sevens",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a map diagram, not a photo",
+  "at": "2026-11-22T21:11:41.109Z"
  },
  "singapore-itzy-3rd-world-tour-tunnel-vision\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20240501_ITZY_Amsterdam_concert_06.jpg/1920px-20240501_ITZY_Amsterdam_concert_06.jpg": {
   "slug": "singapore-itzy-3rd-world-tour-tunnel-vision",
