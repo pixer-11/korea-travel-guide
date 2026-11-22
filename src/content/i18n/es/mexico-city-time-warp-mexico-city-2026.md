@@ -1,60 +1,60 @@
 ---
 lang: es
 slug: mexico-city-time-warp-mexico-city-2026
-srcHash: '9f8c57e890d4'
-title: 'Time Warp Mexico City 2026: fechas, entradas y recinto (Ciudad de México)'
-description: Las fechas de Time Warp Mexico City 2026 son el 20 y el 21 de noviembre de 2026, en Expo Santa Fe, el centro de convenciones del distrito financiero de Santa Fe, en el extremo poniente de la Ciudad de México.
-quickAnswer: Las fechas de Time Warp Mexico City 2026 son el 20 y el 21 de noviembre de 2026. El recinto es Expo Santa Fe, el centro de convenciones del distrito financiero de Santa Fe, en el extremo poniente de la Ciudad de México. Hay varios niveles de precio para las entradas, y el organizador publica los enlaces de venta en su sitio oficial. Como ninguna línea del Metro llega a Santa Fe, la mayoría de los asistentes va y vuelve en coche con alguna aplicación de transporte.
+srcHash: '11a48556b148'
+title: 'Time Warp Ciudad de México 2026: fechas, entradas y recinto (Ciudad de México)'
+description: Las fechas anunciadas para Time Warp Ciudad de México 2026 eran el 20 y el 21 de noviembre de 2026, en Expo Santa Fe, el centro de convenciones del distrito financiero de Santa Fe.
+quickAnswer: Las fechas anunciadas para Time Warp Ciudad de México 2026 eran el 20 y el 21 de noviembre de 2026. La sede era Expo Santa Fe, el centro de convenciones del distrito financiero de Santa Fe, en el extremo poniente de la capital. Las entradas se vendían en varios tramos de precio. Como ninguna línea del Metro llega a Santa Fe, lo habitual para ir y volver eran las aplicaciones de transporte.
 faq:
-  - q: ¿Cuándo y dónde es Time Warp Mexico City 2026?
-    a: Las fechas son el 20 y el 21 de noviembre de 2026, en Expo Santa Fe, el centro de convenciones del distrito financiero de Santa Fe, en el extremo poniente de la Ciudad de México.
-  - q: ¿Cómo se llega a Expo Santa Fe?
-    a: Ninguna línea del Metro llega a Santa Fe, de modo que la mayoría de los asistentes recurre a Uber, a DiDi o a un taxi reservado con antelación. Con el tráfico de la tarde, el trayecto desde la Roma, la Condesa o Polanco puede durar una hora o más.
-  - q: ¿Dónde se venden las entradas?
-    a: Existen varios niveles de precio. En su sitio oficial, el organizador publica los enlaces de venta y el precio vigente de cada nivel.
-  - q: ¿Qué tiempo hace en la Ciudad de México en noviembre?
-    a: Noviembre corresponde a la temporada seca. Durante el día suele hacer un tiempo templado, pero en las lomas de Santa Fe las noches son frías, así que muchos asistentes llevan una chaqueta ligera para el regreso.
-  - q: ¿Dónde conviene alojarse para Time Warp Mexico City?
-    a: Con un hotel de negocios en Santa Fe, el regreso es corto. Aun así, muchos visitantes prefieren la Roma, la Condesa o Polanco por sus restaurantes y sus calles agradables para caminar, y van al recinto en coche de aplicación.
+  - q: ¿Cuándo y dónde estaba programado Time Warp Ciudad de México 2026?
+    a: Las fechas anunciadas eran el 20 y el 21 de noviembre de 2026, en Expo Santa Fe, el centro de convenciones del distrito financiero de Santa Fe, en el extremo poniente de Ciudad de México.
+  - q: ¿Cómo se llegaba a Expo Santa Fe?
+    a: Ninguna línea del Metro llega a Santa Fe, de modo que la mayoría del público se desplazaba en Uber, en DiDi o en un taxi reservado con antelación. Con el tráfico de la tarde-noche, el trayecto desde la Roma, la Condesa o Polanco podía durar una hora o más.
+  - q: ¿Dónde se vendían las entradas?
+    a: Para la edición de 2026, las entradas se ofrecían en varios tramos de precio.
+  - q: ¿Qué tiempo hace en Ciudad de México en noviembre?
+    a: Noviembre corresponde a la temporada seca. Los días suelen ser templados, pero en los cerros de Santa Fe las noches son frías; por eso muchos asistentes llevaban una chaqueta ligera para el regreso.
+  - q: ¿Dónde convenía alojarse para Time Warp Ciudad de México?
+    a: Los hoteles de negocios de Santa Fe acortaban el regreso. Muchos visitantes, sin embargo, preferían la Roma, la Condesa o Polanco por sus restaurantes y sus calles para pasear, y llegaban al recinto en coche de aplicación.
 ---
 
-## Dos noches de techno alemán en el poniente
+## Dos noches de techno alemán en el poniente de la ciudad
 
-Time Warp es un festival de techno alemán nacido en Mannheim. Desde hace décadas, la marca reúne a miles de bailarines en naves oscuras bajo enormes estructuras de luces, y con los años ha llevado ese formato a varias ciudades de Sudamérica y a Nueva York. En la Ciudad de México, la edición de 2026 es bajo techo y consta de dos noches: el 20 y el 21 de noviembre de 2026.
+Time Warp nació en Mannheim como festival de techno alemán. Durante décadas, la marca ha reunido a miles de bailarines en naves oscuras bajo enormes estructuras de luces, y con los años ha llevado ese formato a varias ciudades de Sudamérica y a Nueva York. Para la edición de Ciudad de México se anunciaron dos noches bajo techo: el 20 y el 21 de noviembre de 2026.
 
-Su gran atractivo siempre ha sido tanto la producción como el cartel. En lugar de un único escenario al fondo de un descampado, cada pista gira en torno a grandes estructuras de iluminación y láseres. Aquí una noche significa sets largos, poca luz y un público que viene a bailar, no a mirar.
+Su atractivo siempre ha residido tanto en la producción como en el cartel. En lugar de un único escenario al fondo de una explanada, cada pista se organiza en torno a grandes estructuras de iluminación y láseres. Una noche de Time Warp significa sesiones largas, poca luz y un público que acude a bailar, no a mirar.
 
 ## Expo Santa Fe y el trayecto hasta allí
 
-Quien solo conoce el Centro Histórico suele sorprenderse con Santa Fe. Este distrito, situado en las lomas del extremo poniente de la ciudad, es un conjunto de torres de oficinas acristaladas, sedes corporativas y barrancas empinadas. Expo Santa Fe es su centro de convenciones: un complejo de grandes salas de exposición junto al centro comercial Centro Santa Fe.
+Quien solo conoce el centro histórico suele llevarse una sorpresa en Santa Fe. Se trata de un distrito de torres de oficinas acristaladas, sedes corporativas y barrancas pronunciadas, encaramado en los cerros del extremo poniente de la ciudad. Su centro de convenciones es Expo Santa Fe, un conjunto de grandes salas de exposición junto al centro comercial Centro Santa Fe.
 
-El Metro no llega tan al poniente. La mayoría de los asistentes viaja en Uber, en DiDi o en un taxi reservado con antelación. Desde la Roma, la Condesa o Polanco, el recorrido atraviesa buena parte de la ciudad, y con el tráfico de salida de un viernes por la tarde puede alargarse fácilmente a una hora o más.
+El Metro no llega tan al poniente. La mayoría de la gente se desplaza en Uber, en DiDi o en un taxi reservado con antelación. Desde la Roma, la Condesa o Polanco, el recorrido atraviesa buena parte de la ciudad, y el tráfico de salida de un viernes por la tarde puede alargarlo fácilmente a una hora o más.
 
-## Entradas y niveles de precio
+## Entradas y tramos de precio
 
-Las entradas se venden en varios niveles de precio. En su sitio oficial, el organizador publica las fechas, la información del recinto y los enlaces de venta. Ahí figura también el precio vigente de cada nivel, por lo que esta guía no incluye cifras.
+Para la edición de 2026, las entradas se vendían en varios tramos de precio. El importe cambiaba de un tramo a otro, y las opciones más económicas ocupaban la parte baja de la escala.
 
-En los festivales de dos noches como este, lo habitual es que la entrada para una sola noche y el abono de fin de semana se vendan por separado. Para quien viaja a la Ciudad de México expresamente para el evento, el abono suele salir más a cuenta.
+En los festivales de dos noches como este, la entrada para una sola noche y el abono para todo el fin de semana suelen venderse por separado. Para quien viaja a Ciudad de México expresamente para el evento, el abono de fin de semana resulta por lo general más barato por noche.
 
-## Traslados, pesos y la larga noche en Santa Fe
+## Coches, pesos y la larga noche de Santa Fe
 
-Para los capitalinos, salir de noche en Santa Fe es, sobre todo, una cuestión de logística.
+Salir de noche en Santa Fe es, para los locales, sobre todo una cuestión de logística.
 
-- **Mejor una aplicación que un taxi de la calle.** Los chilangos (los habitantes de la Ciudad de México) suelen pedir el coche por aplicación o acudir a un *sitio* de taxis oficial en vez de parar un taxi en la calle. Así es como se vuelve normalmente a casa al final de la noche.
-- **Caminar antes de pedir el coche.** A la hora del cierre, miles de teléfonos solicitan un vehículo a la vez y las tarifas se disparan. Mucha gente se aleja unas cuadras de la salida principal antes de pedirlo, o espera a que pase la primera oleada.
-- **Compartir el viaje.** Los grupos suelen volver juntos en un solo coche: así se reparte la tarifa y hay menos gente esperando en la calle a las 5am.
-- **Pago combinado.** Dentro de los recintos son habituales las tarjetas y el pago sin contacto. Fuera, en el puesto de tacos o en la tienda de la esquina, muchas veces solo aceptan pesos.
-- **Propinas.** En restaurantes y bares lo normal es dejar entre un 10–15%. En los coches de aplicación, la propina se da a través de la propia aplicación.
-- **Idioma.** En la barra, unas pocas palabras en español ayudan mucho: con *una agua, por favor* se consigue agua.
+- **Aplicaciones antes que taxis de la calle.** Los chilangos (los habitantes de Ciudad de México) suelen pedir un coche por aplicación o acudir a un *sitio* de taxis oficial en lugar de parar uno en la calle. Así se vuelve normalmente a casa al final de la noche.
+- **Caminar antes de pedir el coche.** Cuando termina un gran evento, miles de teléfonos solicitan un vehículo a la vez y las tarifas se disparan. Mucha gente camina unas cuadras desde la salida principal antes de pedirlo, o deja pasar la primera oleada.
+- **Compartir el viaje.** Los grupos suelen volver juntos en un mismo coche: así se divide la tarifa y hay menos gente esperando en la calle a las 5 de la mañana.
+- **Pago combinado.** Dentro de los recintos son habituales las tarjetas y el pago sin contacto. Fuera, el puesto de tacos y la tienda de la esquina a menudo solo aceptan pesos.
+- **Propinas.** En restaurantes y bares lo normal ronda el 10–15%. En los viajes por aplicación, la propina se da a través de la propia aplicación.
+- **Idioma.** Unas pocas palabras en español ayudan mucho en la barra: con *una agua, por favor* se consigue agua.
 
-## La altitud y el aire de noviembre
+## Altitud y clima de noviembre
 
-La Ciudad de México se encuentra a unos 2,240 metros sobre el nivel del mar, y Santa Fe está a mayor altura que el centro. Con el aire enrarecido, varias horas de baile cansan más que a nivel del mar, y el alcohol también se nota antes. Los habituales intercalan mucha agua entre copa y copa, sobre todo la primera noche.
+Ciudad de México se encuentra a unos 2,240 metros sobre el nivel del mar, y Santa Fe está más alto que el centro. Con el aire enrarecido, varias horas de baile cansan más que al nivel del mar, y el alcohol también se nota antes. Los asiduos beben bastante agua entre copa y copa, sobre todo la primera noche.
 
-Noviembre corresponde a la temporada seca. Los días suelen ser templados y soleados, pero en las lomas del poniente las noches se vuelven francamente frías. Dentro de una sala abarrotada da igual; en la banqueta, al amanecer, no tanto. Por eso muchos asistentes llevan una chaqueta ligera que puedan atarse a la cintura.
+Noviembre corresponde a la temporada seca. Los días suelen ser templados y soleados, pero en los cerros del poniente las noches se vuelven francamente frías. Dentro de una sala abarrotada eso apenas importa; en la banqueta al amanecer, en cambio, sí. Por eso muchos asistentes llevaban una chaqueta ligera que pudieran atarse a la cintura.
 
 ## Dónde se aloja la gente
 
-En el propio Santa Fe predominan los hoteles de negocios, junto a las torres de oficinas. Con ellos el regreso es corto, aunque de día hay poco que hacer en los alrededores. Por eso muchos visitantes optan por la Roma, la Condesa o Polanco: a cambio de un trayecto más largo, disfrutan de calles agradables para caminar, cafeterías y los restaurantes de la ciudad.
+En el propio Santa Fe predominan los hoteles de negocios, situados junto a las torres de oficinas. Con ellos el regreso es corto, pero de día hay poco que hacer en los alrededores. Por eso muchos visitantes se alojan en la Roma, la Condesa o Polanco: a cambio de un trayecto más largo, disfrutan de calles para pasear, cafés y los restaurantes de la ciudad.
 
-Polanco, situado en el lado poniente de la ciudad, acorta un poco el viaje. La Roma y la Condesa resultan más convenientes para quien quiera pasar los días entre una noche y otra en taquerías y en el Parque México. Algunos visitantes reparten su estancia: se alojan en la zona central de la Ciudad de México durante la mayor parte del viaje y pasan una noche en Santa Fe para el festival.
+Polanco está en el lado poniente de la ciudad, lo que acorta un poco el recorrido. La Roma y la Condesa convienen a quienes pasan los días entre una noche y otra en taquerías y en el Parque México. Algunos visitantes reparten su estancia: se alojan en el centro de Ciudad de México durante el viaje y reservan una noche en Santa Fe para el festival.

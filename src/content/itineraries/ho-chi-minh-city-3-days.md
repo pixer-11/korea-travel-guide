@@ -6,7 +6,7 @@ title: 'Ho Chi Minh City in 3 Days: Museums, Markets, and Rooftop Views'
 description: A 3-day Ho Chi Minh City itinerary moving from war history and palace grounds through local drinking spots and garden calm to skyline views and market streets.
 quickAnswer: 'This is a 3-day Ho Chi Minh City itinerary: day one covers war history, a park, and a palace around Quận 3 and Bến Thành; day two moves from a local drinking spot in Bình Thạnh to garden calm and rooftop views; day three covers skyline views, market streets, and museum halls around the Sài Gòn area.'
 pubDate: '2026-10-20T17:05:27.932Z'
-stopsHash: bebbf0eb6a22515862ee73d11a84397220d30565
+stopsHash: ef65ea6bcbe3594280a9751824fc90b0c28afd25
 packedAvailable: true
 faq:
   - q: How much walking does this itinerary involve?
@@ -52,13 +52,13 @@ itinerary:
         why: The 1960s presidential palace is a central historic site in Ben Thanh, worth the time it takes to walk through its rooms and grounds.
         dwellMin: 105
         walkToNext:
-          km: 0.5
-          minutes: 7
+          km: 0.8
+          minutes: 11
           transit: false
-      - slug: ho-chi-minh-city-tonkin-specialty-coffee
+      - slug: ho-chi-minh-city-social-club-rooftop-bar
         slot: evening
-        why: A compact, design-forward café serving single-origin Vietnamese pour-over makes a quiet, caffeinated close to the day.
-        dwellMin: 38
+        why: A 24th-floor rooftop bar with a pool and wide city view, best after dark and a short ride from the main District 1 sights, making it a natural last stop.
+        dwellMin: 90
         walkToNext: null
     rainSwapSlug: ho-chi-minh-city-hai-s-restaurant
   - label: Local drinks to garden calm and rooftop views
@@ -69,21 +69,21 @@ itinerary:
         why: A neighborhood drinking spot beside the railway tracks, with trains rolling past and cheap, tasty snacks for an evening-style start.
         dwellMin: 90
         walkToNext:
-          km: 5.5
+          km: 5
           minutes: null
           transit: true
-      - slug: ho-chi-minh-city-saigon-zoo-and-botanical-gardens
+      - slug: ho-chi-minh-city-gem-cafe
         slot: afternoon
+        why: A recommended trendy stop on this route.
+        dwellMin: 90
+        walkToNext:
+          km: 0.9
+          minutes: 12
+          transit: false
+      - slug: ho-chi-minh-city-saigon-zoo-and-botanical-gardens
+        slot: evening
         why: An old zoo and botanical garden with a wide mix of animals like elephants and giraffes, set among big shade trees for an unhurried visit.
         dwellMin: 150
-        walkToNext:
-          km: 1.6
-          minutes: 21
-          transit: false
-      - slug: ho-chi-minh-city-social-club-rooftop-bar
-        slot: evening
-        why: A 24th-floor rooftop bar with a pool and wide city view, best after dark and a short ride from the main District 1 sights, making it a natural last stop.
-        dwellMin: 90
         walkToNext: null
     rainSwapSlug: ho-chi-minh-city-ippudo-le-thanh-ton
   - label: Skyline views to market streets and museum halls
@@ -121,6 +121,6 @@ itinerary:
     rainSwapSlug: ho-chi-minh-city-com-tam-nguyen-van-cu
 aiGenerated: true
 draft: false
-updatedDate: '2026-11-09T09:12:21.349Z'
+updatedDate: '2026-11-22T15:45:38.688Z'
 ---
 

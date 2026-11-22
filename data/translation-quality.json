@@ -38521,11 +38521,11 @@
   "at": "2026-11-02T08:11:00.252Z"
  },
  "ko/assago-korn-milan-assago-2026": {
-  "hash": "6979348a95f1",
+  "hash": "2bbb082a2689",
   "score": 1,
   "registerBreak": false,
-  "worst": "대형 공연이 끝나면 밖에 택시가 대기하지만 줄이 깁니다.",
-  "at": "2026-11-09T08:14:59.689Z"
+  "worst": "또 밀라노는 유럽의 다른 여러 도시보다 앱으로 부르는 차량 서비스의 선택지가 적은 편입니다.",
+  "at": "2026-11-22T15:45:18.988Z"
  },
  "ko/auckland-bnz-auckland-diwali-festival": {
   "hash": "21d67391a196",
@@ -41536,5 +41536,82 @@
   "registerBreak": false,
   "worst": "开业时机颇有深意。这座首都城市正努力与迪拜比肩，要成为名副其实的高级餐饮目的地，而不只是旅途中的一站。",
   "at": "2026-11-22T07:50:39.964Z"
+ },
+ "es/assago-korn-milan-assago-2026": {
+  "hash": "699fab4d01f8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es la gran peculiaridad horaria de cualquier concierto que termina tarde en Assago.",
+  "at": "2026-11-22T15:45:13.124Z"
+ },
+ "es/dusseldorf-till-lindemann-meine-welt-tour": {
+  "hash": "b0c30d7d5b62",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-22T15:45:13.753Z"
+ },
+ "es/jakarta-guns-n-roses-jakarta-concert": {
+  "hash": "fb0b9cf80eea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Guns N' Roses tenía contratada aquí una actuación el 21 de noviembre de 2026.",
+  "at": "2026-11-22T15:45:14.911Z"
+ },
+ "ja/assago-korn-milan-assago-2026": {
+  "hash": "26216bce57b9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "客席の照明がつくと同時に、何千人もの人が小さな同じ駅へ一斉に向かうのです。",
+  "at": "2026-11-22T15:45:16.287Z"
+ },
+ "ja/dusseldorf-till-lindemann-meine-welt-tour": {
+  "hash": "c016040d952b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "SバーンとトラムがあるのでI帰りも楽です。",
+  "at": "2026-11-22T15:45:17.140Z"
+ },
+ "ja/lima-marshmello-lima": {
+  "hash": "54c0248381ad",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この公演のチケット購入リンク、座席表、入場規約は主催者から発表されていました。",
+  "at": "2026-11-22T15:45:17.981Z"
+ },
+ "ko/dusseldorf-till-lindemann-meine-welt-tour": {
+  "hash": "289ddbe1e3df",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "자신만의 목소리와 도발을 즐기는 취향을 중심으로 쌓아 온 솔로 커리어에 잘 어울리는 이름입니다.",
+  "at": "2026-11-22T15:45:24.903Z"
+ },
+ "ko/lima-marshmello-lima": {
+  "hash": "608ec2b9ea0b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 공연이 그려 보인 풍경입니다.",
+  "at": "2026-11-22T15:45:26.152Z"
+ },
+ "zh/assago-korn-milan-assago-2026": {
+  "hash": "3e45b3291b75",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "大型演出散场后，门外有出租车候客，但排队的人很多。与欧洲许多城市相比，米兰的网约车选择比较有限。",
+  "at": "2026-11-22T15:45:27.379Z"
+ },
+ "zh/dusseldorf-till-lindemann-meine-welt-tour": {
+  "hash": "c593b0b268b6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "他的个人事业正是围绕自己的嗓音和对挑衅的偏好展开，这个名字可谓恰如其分。",
+  "at": "2026-11-22T15:45:28.403Z"
+ },
+ "zh/lima-marshmello-lima": {
+  "hash": "c78f175e7d5e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "体育场是露天碗形结构，无论草坪区还是看台，都直接感受得到城市的空气。",
+  "at": "2026-11-22T15:45:35.191Z"
  }
 }
