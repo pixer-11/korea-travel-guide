@@ -1,6 +1,6 @@
 ---
 title: 'Roy Kim "R:O:Y" Concert: Dates, Tickets & Venue (Seoul)'
-description: The Roy Kim "R:O:Y" Concert takes place at KSPO Dome in Olympic Park, Songpa-gu, Seoul on November 22, 2026.
+description: The Roy Kim "R:O:Y" Concert was set for November 22, 2026 at KSPO Dome in Olympic Park, Songpa-gu, Seoul.
 country: South Korea
 region: Seoul
 category: event
@@ -22,21 +22,21 @@ heroImage:
     x: 40
     'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KCON_JEJU_2015_Convention_stage%2C_Roy_Kim_2.jpg/3840px-KCON_JEJU_2015_Convention_stage%2C_Roy_Kim_2.jpg"
-    credit: "Photo: Bonnielou2013 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:KCON_JEJU_2015_Convention_stage,_Roy_Kim_2.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KCON_JEJU_2015_Convention_stage%2C_Roy_Kim_2.jpg/3840px-KCON_JEJU_2015_Convention_stage%2C_Roy_Kim_2.jpg
+    credit: 'Photo: Bonnielou2013 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:KCON_JEJU_2015_Convention_stage,_Roy_Kim_2.jpg
 tags:
   - seoul
   - event
-quickAnswer: The Roy Kim "R:O:Y" Concert takes place at KSPO Dome in Olympic Park, Songpa-gu, Seoul on November 22, 2026. The venue is a short walk from Olympic Park Station (Line 5, Exit 3). Ticketing for the show is handled by the organiser; the date and venue are the confirmed details.
+quickAnswer: The Roy Kim "R:O:Y" Concert was set for November 22, 2026 at KSPO Dome in Olympic Park, Songpa-gu, Seoul. The venue is a short walk from Olympic Park Station (Line 5, Exit 3). Ticketing for the show was handled by the organiser, and the date and venue were the announced details.
 faq:
   - q: When and where is the Roy Kim "R:O:Y" concert?
-    a: It takes place on November 22, 2026 at KSPO Dome, inside Olympic Park in Songpa-gu, Seoul.
+    a: The concert was set for November 22, 2026 at KSPO Dome, inside Olympic Park in Songpa-gu, Seoul.
   - q: What is the nearest subway station to KSPO Dome?
-    a: Olympic Park Station on Line 5. Exit 3 is the usual exit, and from there it is a few minutes' walk into the park. Mongchontoseong (Line 8) and Hanseong Baekje (Line 9) are farther-off options on the park's western side.
+    a: Olympic Park Station on Line 5 is the nearest. Exit 3 is the usual exit, and from there it is a few minutes' walk into the park. Mongchontoseong (Line 8) and Hanseong Baekje (Line 9) are farther-off options on the park's western side.
   - q: Can foreigners buy tickets for Korean concerts?
-    a: Major Seoul concerts usually sell through Korean platforms such as NOL Ticket (formerly Interpark) or Melon Ticket, and some have global pages for buyers with foreign phone numbers. At the gate, staff often check photo ID against the ticket name, so international visitors usually carry their passport.
+    a: Yes. Major Seoul concerts usually sell through Korean platforms such as NOL Ticket (formerly Interpark) or Melon Ticket, and some have global pages for buyers with foreign phone numbers. At the gate, staff often check photo ID against the ticket name, so international visitors usually carry their passport.
   - q: What is there to do near the venue before the show?
     a: Olympic Park has the World Peace Gate, the Mongchontoseong earthen fortress with its lone Nahollo Namu tree, and SOMA Museum of Art. Bangi-dong, just south of the park, and Jamsil, one stop away, are where most fans go to eat.
   - q: What is the weather like in Seoul in late November?
@@ -44,12 +44,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A songwriter's show under a domed roof
 
-Roy Kim's "R:O:Y" concert comes to KSPO Dome on November 22, 2026. For a singer best known for an acoustic guitar and a soft voice, this is a big room. That contrast is the reason to go.
+Roy Kim's "R:O:Y" concert was set for KSPO Dome on November 22, 2026. For a singer best known for an acoustic guitar and a soft voice, this was a big room. The booking put an intimate songwriter on one of Seoul's largest indoor stages.
 
-Roy Kim, born Kim Sang-woo, broke through by winning the audition show *Superstar K4* in 2012. He has built a career on songs he writes himself. "Bom Bom Bom" is the spring song every Korean listener knows. "Only Then" (그때 헤어지면 돼) is the ballad that tends to turn a crowd quiet. The setlist, staging and guests for "R:O:Y" are not part of what we know, so expect the show itself to be the surprise.
+Roy Kim, born Kim Sang-woo, broke through by winning the audition show *Superstar K4* in 2012. He has built a career on songs he writes himself. "Bom Bom Bom" is the spring song every Korean listener knows. "Only Then" (그때 헤어지면 돼) is the ballad that tends to turn a crowd quiet. The setlist, staging and guests for "R:O:Y" were not announced.
 
 ## Inside KSPO Dome
 
@@ -69,7 +68,7 @@ Taxis gather near the park gates after big shows, and the queue for them builds 
 
 ## Ticketing and entry the Korean way
 
-Korean concert ticketing has its own habits. It helps to know them going in.
+Korean concert ticketing has its own habits, and they shape how most big shows sell.
 
 Major Seoul concerts usually sell through domestic platforms such as NOL Ticket (formerly Interpark) or Melon Ticket. Some of these run separate global pages for buyers with foreign phone numbers. Big shows often sell out within minutes, and fans commonly log in with several devices at once.
 
@@ -86,10 +85,10 @@ Other things that usually happen at KSPO Dome shows:
 
 By November 22, Seoul's autumn is ending. Evenings are cold and can drop close to freezing, so concertgoers dress for the walk through the park as much as for the hall. The ginkgo and maple trees in Olympic Park are usually past their peak by then, though some colour often lingers.
 
-Olympic Park rewards a few hours before the show. The **World Peace Gate** stands near the main entrance. **Mongchontoseong**, a Baekje-era earthen fortification, rings a grassy hill that is good for walking. The lone tree on its lawn, known as *Nahollo Namu*, is one of the most photographed spots in the park. **SOMA Museum of Art** sits inside the park grounds too.
+Olympic Park has plenty to fill a few hours before a show. The **World Peace Gate** stands near the main entrance. **Mongchontoseong**, a Baekje-era earthen fortification, rings a grassy hill that is good for walking. The lone tree on its lawn, known as *Nahollo Namu*, is one of the most photographed spots in the park. **SOMA Museum of Art** sits inside the park grounds too.
 
 ## Eating and staying nearby
 
-Most fans eat before or after the show in **Bangi-dong**, just south of the park. Its lanes are full of barbecue, chicken and late-night pub restaurants. **Jamsil** is one stop away. There you will find Lotte World Tower, Lotte World Mall and Seokchon Lake, which give you plenty of dining and a skyline view after dark.
+Most fans eat before or after shows in **Bangi-dong**, just south of the park. Its lanes are full of barbecue, chicken and late-night pub restaurants. **Jamsil** is one stop away. There you will find Lotte World Tower, Lotte World Mall and Seokchon Lake, with plenty of dining and a skyline view after dark.
 
-Visitors from abroad often stay in Jamsil for the short trip home after the encore. Others base themselves in Gangnam or along Line 5 and Line 9 for a direct ride. Either way, the subway home is crowded the moment the house lights come up. A slow walk through the park lets most of that crowd clear first.
+Visitors from abroad often stay in Jamsil for the short trip back after the encore. Others base themselves in Gangnam or along Line 5 and Line 9 for a direct ride. Either way, the subway is crowded the moment the house lights come up. A slow walk through the park lets most of that crowd clear first.

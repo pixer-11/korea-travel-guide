@@ -14602,18 +14602,18 @@
   "at": "2026-08-15T03:13:17.096Z"
  },
  "ko/aberdeen-aberdeen-promenade": {
-  "hash": "3d384a0272cb",
+  "hash": "dd62beeee898",
   "score": 1,
   "registerBreak": false,
-  "worst": "쇼핑몰처럼 세련되게 다듬어지지 않은 실제로 살아 움직이는 항구의 모습을 그대로 볼 수 있습니다.",
-  "at": "2026-09-14T08:02:33.511Z"
+  "worst": "애버딘 바로 앞에는 MTR 역이 없는데, 바로 이런 점 때문에 지하철망과 가까운 다른 해안 지역들보다 덜 붐비는 편입니다.",
+  "at": "2026-11-23T07:44:01.000Z"
  },
  "ko/aberdeen-ocean-park": {
-  "hash": "9080194cfd6d",
+  "hash": "fd935947dc9a",
   "score": 1,
   "registerBreak": false,
-  "worst": "워터 라이드는 계절에 따라 운영되므로 선선한 시기에 방문한다면 어떤 물놀이 시설이 가동 중인지 미리 확인한 뒤 일정을 짜는 것이 좋습니다.",
-  "at": "2026-10-04T07:56:38.831Z"
+  "worst": "머리 위로는 케이블카가 소리 없이 산비탈을 타고 올라가며, 저 멀리 홍콩의 스카이라인이 눈에 들어옵니다.",
+  "at": "2026-11-23T07:44:00.892Z"
  },
  "ko/aberdeen-tin-hau-temple-aberdeen": {
   "hash": "b0eda12a34f2",
@@ -14665,11 +14665,11 @@
   "at": "2026-11-02T17:39:40.327Z"
  },
  "ko/abu-dhabi-louvre-abu-dhabi": {
-  "hash": "ea77216be8c8",
-  "score": 1,
+  "hash": "61e3d8c2f5e6",
+  "score": 0,
   "registerBreak": false,
-  "worst": "인간의 창조성이란 각 나라별로 나뉜 이야기가 아니라 하나로 이어진 이야기라는 것을, 이 미술관은 온몸으로 증명해 보입니다.",
-  "at": "2026-11-09T08:14:50.727Z"
+  "worst": "",
+  "at": "2026-11-23T07:44:00.391Z"
  },
  "ko/abu-dhabi-qasr-al-hosn": {
   "hash": "c3af7ef86546",
@@ -14819,11 +14819,11 @@
   "at": "2026-09-14T08:02:47.588Z"
  },
  "ko/al-barsha-hindu-temple-dubai": {
-  "hash": "c1ceaa1be275",
+  "hash": "9c85f6909f29",
   "score": 1,
   "registerBreak": false,
   "worst": "여유롭게 둘러보고 싶다면 방문객 데이터가 일관되게 보여주는 답이 있습니다.",
-  "at": "2026-11-02T17:39:46.059Z"
+  "at": "2026-11-23T07:44:07.863Z"
  },
  "ko/alanya-alanya-archaeological-museum": {
   "hash": "ece4bde80e10",
@@ -14917,18 +14917,18 @@
   "at": "2026-09-14T08:02:54.630Z"
  },
  "ko/amalfi-coast-valle-delle-ferriere": {
-  "hash": "d87cb4e9b801",
+  "hash": "628bdfcc6e10",
   "score": 1,
   "registerBreak": false,
-  "worst": "좀처럼 마르지 않는 이곳 특유의 초록빛과 은은한 광물 냄새를 머금은 채, 서늘하고 짙어집니다.",
-  "at": "2026-11-09T08:14:55.108Z"
+  "worst": "이는 관광객다운 허세가 아니라 이 트레일에서 흔히 지켜지는 예의입니다.",
+  "at": "2026-11-23T07:44:03.157Z"
  },
  "ko/amalfi-coast-villa-rufolo": {
-  "hash": "43d4b8562563",
+  "hash": "2a8e8f4bc3a3",
   "score": 1,
   "registerBreak": false,
-  "worst": "이것이 이 장소가 지닌 매력의 일부입니다.",
-  "at": "2026-11-09T08:14:55.934Z"
+  "worst": "이들은 북아프리카와 레반트 지역까지 무역망을 뻗친 부유한 상인 가문으로, 그 영향으로 저택의 안뜰과 아치에는...",
+  "at": "2026-11-23T07:44:03.227Z"
  },
  "ko/amritsar-jallianwala-bagh": {
   "hash": "00ff6f9a063b",
@@ -15862,11 +15862,11 @@
   "at": "2026-09-21T03:37:10.021Z"
  },
  "ko/bologna-basilica-di-san-petronio": {
-  "hash": "937c2ca55f0e",
+  "hash": "36044b58589e",
   "score": 1,
   "registerBreak": false,
   "worst": "이슬람 예언자를 지옥에 그려 넣은 이탈리아 최초의 작품 중 하나로, 2002년에는 이로 인해 미수에 그친 테러 계획이 있었고",
-  "at": "2026-11-02T08:11:42.900Z"
+  "at": "2026-11-23T07:44:25.728Z"
  },
  "ko/bologna-basilica-of-san-domenico": {
   "hash": "38d8d14f07be",
@@ -16058,11 +16058,11 @@
   "at": "2026-10-19T09:00:11.252Z"
  },
  "ko/bukhara-bukhara-tower": {
-  "hash": "cbc08fc0d09a",
+  "hash": "846a0add854e",
   "score": 1,
   "registerBreak": false,
-  "worst": "현지인들 사이에서는 화려하지 않지만 제 역할을 확실히 해내는 현대식 구조물로서 4.1점이라는 무난하고 솔직한 평가를 받고 있습니다.",
-  "at": "2026-11-09T18:04:30.696Z"
+  "worst": "구조물 자체는 가까이서 보면 특별할 게 없습니다. 강철과 유리로 지어졌고, 구조에 따라 엘리베이터나 계단이 있습니다.",
+  "at": "2026-11-23T07:44:32.609Z"
  },
  "ko/bukhara-chor-minor-monument": {
   "hash": "eab7ab4ff13a",
@@ -16184,11 +16184,11 @@
   "at": "2026-09-21T04:20:55.742Z"
  },
  "ko/busan-haedong-yonggungsa-temple": {
-  "hash": "119f9c9ba227",
+  "hash": "cf830a8ca0b1",
   "score": 1,
   "registerBreak": false,
-  "worst": "뿌옇게 흐려지기 전 아침 햇살이 물 위에 비치는 이른 시간이 사진 찍기에도 가장 좋습니다.",
-  "at": "2026-10-26T17:55:34.950Z"
+  "worst": "물가 근처 돌계단은 특히 비가 온 뒤 미끄러워질 수 있으니 하단 전망대에서는 발걸음에 주의하세요.",
+  "at": "2026-11-23T07:44:34.773Z"
  },
  "ko/busan-haeundae": {
   "hash": "c25418e829a3",
@@ -29526,11 +29526,11 @@
   "at": "2026-11-09T08:15:01.791Z"
  },
  "ko/agra-jahangir-palace": {
-  "hash": "b15934a22199",
+  "hash": "7c7cada0952f",
   "score": 1,
   "registerBreak": false,
-  "worst": "궁전은 가장 먼저 만나는 큰 건물 가운데 하나입니다.",
-  "at": "2026-11-08T07:53:51.290Z"
+  "worst": "다음 몇 가지만 기억하면 관람이 한결 수월해집니다.",
+  "at": "2026-11-23T07:44:02.258Z"
  },
  "ko/bangkok-post-malone-the-big-ass-stadium-world-tour": {
   "hash": "a102af9a309d",
@@ -29944,13 +29944,6 @@
   "registerBreak": false,
   "worst": "평일 저녁 시간대 역시 비교적 한산한 편인데, 운영시간이 길어 퇴근·하교 후 방문객들이 정오에 몰리지 않고 분산되기 때문입니다.",
   "at": "2026-09-28T17:14:42.432Z"
- },
- "ko/fukuoka-kyushu-basho-fukuoka-grand-sumo-tournament": {
-  "hash": "c32480c5b9db",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "영어 안내 표지판은 제한적이므로, 자리에 앉은 뒤에는 가이드북보다 번역 앱이나 일본스모협회 영문 홈페이지가 더 유용합니다.",
-  "at": "2026-09-28T17:14:45.121Z"
  },
  "ko/fukuoka-kushida-shrine": {
   "hash": "4005f782a8c1",
@@ -32368,11 +32361,11 @@
   "at": "2026-11-02T08:11:31.783Z"
  },
  "ko/beijing-arabica-baitasi-store": {
-  "hash": "a0a64c7bec25",
+  "hash": "b43b3329cada",
   "score": 1,
   "registerBreak": false,
-  "worst": "브랜드 공식 채널이나 지도 앱에서 두 가지 모두 확인하시기 바랍니다.",
-  "at": "2026-11-09T08:15:25.951Z"
+  "worst": "이곳을 찾는 이유는 다양한 메뉴가 아닙니다. 중정에서 컵을 손에 쥔 채 오래된 벽돌 위로 햇살이 옮겨 가는 모습을 바라보는",
+  "at": "2026-11-23T07:44:22.543Z"
  },
  "ko/berlin-artms-berlin-2026": {
   "hash": "cf7651128937",
@@ -33514,13 +33507,6 @@
   "registerBreak": false,
   "worst": "이 선택에서 최근 몇 년 사이 초대형 K팝 투어를 치르는 공연장 지형이 얼마나 달라졌는지 엿볼 수 있습니다.",
   "at": "2026-10-12T07:11:40.464Z"
- },
- "ko/ha-long-halong-bay-heritage-marathon": {
-  "hash": "4848a49aeed7",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "기록을 노리는 주자라면 AIMS 가맹 여부에 주목하셔야 합니다.",
-  "at": "2026-10-12T07:11:41.166Z"
  },
  "ko/gyeongju-yangdong-folk-village": {
   "hash": "94ba9e06d8df",
@@ -34733,13 +34719,6 @@
   "worst": "공연 날짜는 15 October 2026 목요일입니다.",
   "at": "2026-10-12T11:43:28.954Z"
  },
- "ko/jakarta-my-chemical-romance-the-black-parade-hammersonic-festival": {
-  "hash": "ff8b5f1cb9f4",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이날 저녁은 인파와 더위에 얼마나 잘 대처하느냐에 달려 있다고 해도 과언이 아닙니다.",
-  "at": "2026-10-12T11:43:29.829Z"
- },
  "ko/jakarta-national-museum-of-indonesia": {
   "hash": "8f3aa13685ef",
   "score": 1,
@@ -35076,13 +35055,6 @@
   "worst": "이 역사의 우연 덕분에 이 거리는 거의 원형 그대로 남아있을 수 있었습니다.",
   "at": "2026-10-12T16:51:55.710Z"
  },
- "ko/kaohsiung-bigbang-20th-anniversary-world-tour": {
-  "hash": "b36cbb7b946c",
-  "score": 0,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-12T16:51:57.569Z"
- },
  "ko/kanazawa-omicho-market": {
   "hash": "099f04e0aa44",
   "score": 1,
@@ -35131,13 +35103,6 @@
   "registerBreak": false,
   "worst": "촬영과 녹화 규정은 주변 팬들이 아니라 티켓 약관과 공연장이 정합니다.",
   "at": "2026-10-12T16:52:03.202Z"
- },
- "ko/kaohsiung-bts-world-tour-arirang-in-kaohsiung": {
-  "hash": "b7a004dffd5d",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "공항역(R4)에서 R17역까지 레드 라인 한 번으로 갈아타지 않고 갈 수 있습니다.",
-  "at": "2026-10-12T16:52:04.705Z"
  },
  "ko/kaohsiung-shoushan-love-lookout": {
   "hash": "1a1318ad93a0",
@@ -36008,11 +35973,11 @@
   "at": "2026-10-19T08:57:53.510Z"
  },
  "ko/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
-  "hash": "5682bbbf2a1f",
+  "hash": "8947f73cb25f",
   "score": 1,
   "registerBreak": false,
   "worst": "타메르 호스니와 타메르 아슈르의 합동 무대는 첫 소절이 나오기도 전에 가사를 전부 외우고 있는 관객들이 모여드는 조합입니다.",
-  "at": "2026-11-02T08:11:01.966Z"
+  "at": "2026-11-23T07:44:00.894Z"
  },
  "ko/abu-dhabi-mariah-carey-s-christmastime": {
   "hash": "bec9397576cd",
@@ -36251,13 +36216,6 @@
   "registerBreak": false,
   "worst": "전시실을 혼자 차지하고 둘러보는 일도 흔합니다.",
   "at": "2026-11-16T17:28:43.889Z"
- },
- "ko/busan-g-star-2026": {
-  "hash": "a4093760fa4f",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "한때 세계 최대 백화점으로 공인받았던 신세계 센텀시티가 있습니다.",
-  "at": "2026-10-19T16:03:25.863Z"
  },
  "ko/canberra-old-bus-depot-markets": {
   "hash": "254cc9df41e9",
@@ -36617,11 +36575,11 @@
   "at": "2026-10-21T07:54:19.245Z"
  },
  "ko/auckland-cornwall-park": {
-  "hash": "55977c5b3ff3",
-  "score": 1,
+  "hash": "16f779857307",
+  "score": 0,
   "registerBreak": false,
-  "worst": "콘월 파크는 지금도 실제로 운영되는 목장이어서 양과 소가 있는 방목지가 마웅아키에키에 / 원트리힐 비탈 위까지 이어집니다.",
-  "at": "2026-11-09T08:15:00.842Z"
+  "worst": "",
+  "at": "2026-11-23T07:44:07.273Z"
  },
  "zh/auckland-auckland-art-gallery": {
   "hash": "acf660a144f5",
@@ -37415,11 +37373,11 @@
   "at": "2026-11-02T08:11:01.506Z"
  },
  "ko/auckland-christmas-in-the-park-auckland": {
-  "hash": "09df24658288",
+  "hash": "ae5d3fc00da7",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳은 이때가 초여름이라 눈밭이 아니라 따뜻한 잔디 위에 앉게 됩니다.",
-  "at": "2026-11-09T08:15:00.597Z"
+  "worst": "25만 명이 내던 소리가 등 뒤에서 서서히 잦아드는 것을 느끼게 됩니다.",
+  "at": "2026-11-23T07:44:06.029Z"
  },
  "ko/banff-bow-falls": {
   "hash": "77b3c9e2fed1",
@@ -37471,11 +37429,11 @@
   "at": "2026-11-02T08:11:36.145Z"
  },
  "ko/bengaluru-infosys-foundation-india-international-challenge-badminton": {
-  "hash": "340b6bafe6c7",
+  "hash": "6b3d5590dae2",
   "score": 1,
   "registerBreak": false,
   "worst": "공기가 움직이면 셔틀콕이 궤적을 벗어나기 때문에 선풍기와 냉방을 대개 약하게 틀어 둡니다.",
-  "at": "2026-11-09T18:03:58.544Z"
+  "at": "2026-11-23T07:44:20.747Z"
  },
  "ko/bologna-davis-cup-finals-2026": {
   "hash": "9da913c622cf",
@@ -37660,11 +37618,11 @@
   "at": "2026-11-02T17:40:14.592Z"
  },
  "ko/bukit-mertajam-penang-bridge-international-marathon": {
-  "hash": "4e8bd3b96fac",
+  "hash": "64d6b2e91bfc",
   "score": 1,
   "registerBreak": false,
-  "worst": "이름만 아닐 뿐 사실상 야간 레이스라고 보셔도 됩니다.",
-  "at": "2026-11-09T18:04:31.084Z"
+  "worst": "대회 당일에는 차량 통행이 막힌 고속도로를 따라 탁 트인 바다 위를 달릴 수 있습니다.",
+  "at": "2026-11-23T07:44:33.725Z"
  },
  "ko/buleleng-pemuteran-bay-festival": {
   "hash": "84f7ba18e188",
@@ -37842,11 +37800,11 @@
   "at": "2026-10-27T08:00:00.577Z"
  },
  "ko/buenos-aires-jardin-botanico-carlos-thays": {
-  "hash": "562ac547eb09",
+  "hash": "96b4248b5b8e",
   "score": 1,
   "registerBreak": false,
-  "worst": "다만 시내 녹지 가운데 리뷰가 손꼽히게 많은 곳이라 한적함을 독차지하기는 어렵습니다.",
-  "at": "2026-11-09T18:04:29.717Z"
+  "worst": "다만 이는 인파 예측 자료가 아니라 도시의 출퇴근 흐름에 따른 예상입니다.",
+  "at": "2026-11-23T07:44:33.334Z"
  },
  "ko/buenos-aires-plaza-de-mayo": {
   "hash": "7e77f19fbedc",
@@ -38003,11 +37961,11 @@
   "at": "2026-11-08T07:53:59.313Z"
  },
  "ko/bath-american-museum-gardens": {
-  "hash": "ccdf7924da99",
+  "hash": "adf0f12bbfb0",
   "score": 1,
   "registerBreak": false,
-  "worst": "미국 장식 미술을 다루는 박물관이 미국 밖에서 개관한 것은 이곳이 처음이었습니다.",
-  "at": "2026-11-09T08:15:21.924Z"
+  "worst": "박물관이 직접 안내하는 편의 시설이 바로 이 두 가지입니다.",
+  "at": "2026-11-23T07:44:20.544Z"
  },
  "ko/hamburg-fischmarkt": {
   "hash": "4cb77432be72",
@@ -38556,11 +38514,11 @@
   "at": "2026-11-02T08:11:08.499Z"
  },
  "ko/bangkok-jason-mraz-bangkok-2026": {
-  "hash": "b71e5928b2f0",
+  "hash": "4acc4c6f3c54",
   "score": 1,
   "registerBreak": false,
-  "worst": "자리를 차지하는 것보다 예의가 더 중요해서, 조용히 \"코톳\"(실례합니다) 한마디만 건네면 인파 사이를 지나갈 수 있습니다.",
-  "at": "2026-11-09T08:15:10.530Z"
+  "worst": "방콕의 대형 콘서트에서 가짜 전자 티켓이 주로 나도는 곳은 소셜 미디어의 재판매 게시물입니다.",
+  "at": "2026-11-23T07:44:19.635Z"
  },
  "ko/barcelona-jesse-joy-barcelona": {
   "hash": "61b169ca32a2",
@@ -38682,11 +38640,11 @@
   "at": "2026-11-16T07:47:19.687Z"
  },
  "ko/buenos-aires-san-telmo-fair": {
-  "hash": "e3fd87e8031f",
-  "score": 1,
+  "hash": "acfede85cb7d",
+  "score": 0,
   "registerBreak": false,
-  "worst": "차가 다니던 길은 몇 걸음마다 멈춰 서며 천천히 구경하는 사람들 차지가 됩니다.",
-  "at": "2026-11-09T18:04:27.586Z"
+  "worst": "",
+  "at": "2026-11-23T07:44:31.328Z"
  },
  "ko/buenos-aires-primavera-sound-buenos-aires": {
   "hash": "0eff3f139174",
@@ -39445,11 +39403,11 @@
   "at": "2026-11-09T08:15:06.047Z"
  },
  "ko/bangkok-bigbang-world-tour-xx-cosmos-in-bangkok": {
-  "hash": "f41212fcf2fe",
+  "hash": "f03667ba85a3",
   "score": 1,
   "registerBreak": false,
   "worst": "위층 관람석에서는 무대만큼이나 스크린이 중요해서, 그쪽 자리의 팬들은 쌍안경을 챙겨 오는 경우가 많습니다.",
-  "at": "2026-11-09T08:15:09.325Z"
+  "at": "2026-11-23T07:44:15.012Z"
  },
  "ko/barcelona-barcelona-half-marathon": {
   "hash": "812dfd075199",
@@ -39457,13 +39415,6 @@
   "registerBreak": false,
   "worst": "",
   "at": "2026-11-09T08:15:14.537Z"
- },
- "ko/bangkok-808-festival-2026": {
-  "hash": "9f2869bb24fe",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "실내 홀, 문 앞의 BTS역, 그리고 베이스가 묵직한 라인업.",
-  "at": "2026-11-09T08:15:16.244Z"
  },
  "es/kuala-lumpur-mandowave-festival": {
   "hash": "fd53017736a0",
@@ -39494,11 +39445,11 @@
   "at": "2026-11-09T18:02:09.311Z"
  },
  "ko/aswan-nubian-museum": {
-  "hash": "b4cb02440032",
+  "hash": "193b1fd6aec4",
   "score": 1,
   "registerBreak": false,
-  "worst": "다음 전시물은 꼭 눈여겨보시기 바랍니다.",
-  "at": "2026-11-09T18:03:51.902Z"
+  "worst": "애초에 박물관이 세워진 이유가 1960년대에 나세르 호 아래로 잠긴 바로 그 마을들이기 때문입니다.",
+  "at": "2026-11-23T07:44:09.540Z"
  },
  "ko/alexandria-bibliotheca-alexandrina": {
   "hash": "9f2e735ef5c3",
@@ -39529,11 +39480,11 @@
   "at": "2026-11-09T18:03:52.293Z"
  },
  "ko/aswan-philae-temple": {
-  "hash": "d4f0309bf02e",
+  "hash": "beb8daab2776",
   "score": 1,
   "registerBreak": false,
   "worst": "이번 주 신전 운영 시간은 매일 오전 6시~오후 5시입니다.",
-  "at": "2026-11-16T07:46:45.768Z"
+  "at": "2026-11-23T07:44:03.938Z"
  },
  "ko/barcelona-mas-cara-world-tour-bad-gyal-barcelona": {
   "hash": "400fa3613df0",
@@ -39592,11 +39543,11 @@
   "at": "2026-11-09T18:04:17.446Z"
  },
  "ko/buenos-aires-argentina-comic-con-december-2026": {
-  "hash": "3a2c75f28458",
+  "hash": "0265f5033afa",
   "score": 1,
   "registerBreak": false,
   "worst": "일본 밖에 있는 일본 정원 가운데 손꼽히게 큰 일본 정원(Jardín Japonés)도 가까워서",
-  "at": "2026-11-09T18:04:20.975Z"
+  "at": "2026-11-23T07:44:30.719Z"
  },
  "ko/buenos-aires-yves-2026-tour-buenos-aires": {
   "hash": "ad6bd0afd717",
@@ -39606,11 +39557,11 @@
   "at": "2026-11-09T18:04:29.441Z"
  },
  "ko/buenos-aires-rush-movistar-arena-buenos-aires": {
-  "hash": "67d5a3583aee",
+  "hash": "209710572422",
   "score": 1,
   "registerBreak": false,
-  "worst": "위층 좌석에서도 멀리 떨어진 운동장 너머가 아니라 바로 아래로 무대를 내려다보게 됩니다.",
-  "at": "2026-11-09T18:04:30.482Z"
+  "worst": "이런 연주는 지붕 없는 축구 경기장보다 지붕 아래에서 훨씬 또렷하게 들립니다.",
+  "at": "2026-11-23T07:44:37.462Z"
  },
  "ko/bukhara-toqi-zargaron": {
   "hash": "5ab05f914428",
@@ -39683,11 +39634,11 @@
   "at": "2026-11-16T07:46:38.443Z"
  },
  "ko/cairo-al-azhar-park": {
-  "hash": "5748bd797baf",
+  "hash": "828f8095574b",
   "score": 1,
   "registerBreak": false,
-  "worst": "그 사이로 중세 카이로 한복판의 언덕을 따라 잘 다듬은 잔디밭과 수로, 야자수가 펼쳐집니다.",
-  "at": "2026-11-16T17:28:49.573Z"
+  "worst": "줄을 쳐 둔 잔디에는 들어가지 마시기 바랍니다.",
+  "at": "2026-11-23T07:44:35.633Z"
  },
  "zh/alexandria-alexandria-national-museum": {
   "hash": "f378378a4164",
@@ -40474,11 +40425,11 @@
   "at": "2026-11-16T07:46:44.412Z"
  },
  "ko/aswan-aswan-botanical-garden": {
-  "hash": "98481cd5e740",
-  "score": 1,
+  "hash": "894e086ef7c9",
+  "score": 0,
   "registerBreak": false,
   "worst": "",
-  "at": "2026-11-16T07:46:44.681Z"
+  "at": "2026-11-23T07:44:02.988Z"
  },
  "ko/assago-il-volo-concert": {
   "hash": "4bbf2bb3d62a",
@@ -40565,11 +40516,11 @@
   "at": "2026-11-16T07:46:58.951Z"
  },
  "ko/battambang-chumnor-arts-festival": {
-  "hash": "8c32784d6d82",
+  "hash": "6a5d23f812ac",
   "score": 1,
   "registerBreak": false,
-  "worst": "비어 있는 아침과 저녁 시간도 어렵지 않게 채울 수 있습니다.",
-  "at": "2026-11-16T07:46:59.013Z"
+  "worst": "이 페이지에서는 확실하지 않은 내용을 옮겨 적지 않습니다.",
+  "at": "2026-11-23T07:44:22.419Z"
  },
  "ko/beijing-isu-grand-prix-of-figure-skating-final": {
   "hash": "5edca4f35e5d",
@@ -40593,11 +40544,11 @@
   "at": "2026-11-16T07:47:05.951Z"
  },
  "ko/bengaluru-bengaluru-midnight-marathon": {
-  "hash": "697838e74a56",
+  "hash": "b4ddc4434cb0",
   "score": 1,
   "registerBreak": false,
-  "worst": "레이스가 끝나는 시각에는 택시 수요가 급증하기 때문에, 오가는 길 모두 차 한 대를 함께 타는 그룹이 많습니다.",
-  "at": "2026-11-16T07:47:07.734Z"
+  "worst": "종목 폭이 이렇게 넓다 보니 출발 구역의 풍경도 독특합니다.",
+  "at": "2026-11-23T07:44:23.055Z"
  },
  "ko/berlin-viktoria-park": {
   "hash": "9df8e4a43bfe",
@@ -40621,11 +40572,11 @@
   "at": "2026-11-16T07:47:11.027Z"
  },
  "ko/buenos-aires-ed-sheeran-buenos-aires-2026": {
-  "hash": "d79497a4d236",
+  "hash": "675df2b19078",
   "score": 1,
   "registerBreak": false,
-  "worst": "7만 명이 한 사람이 페달을 밟는 순간만 기다리는 장면에는 묘하고도 아주 멋진 긴장감이 흐릅니다.",
-  "at": "2026-11-16T07:47:12.105Z"
+  "worst": "스타디움을 가득 메운 관객이 한 사람이 페달을 밟는 순간만 기다리는 장면에는 묘하고도 아주 멋진 긴장감이 흐릅니다.",
+  "at": "2026-11-23T07:44:29.069Z"
  },
  "ko/bhubaneswar-lingaraj-temple": {
   "hash": "d845cf0057cb",
@@ -41613,5 +41564,292 @@
   "registerBreak": false,
   "worst": "体育场是露天碗形结构，无论草坪区还是看台，都直接感受得到城市的空气。",
   "at": "2026-11-22T15:45:35.191Z"
+ },
+ "es/adelaide-art-gallery-of-south-australia": {
+  "hash": "1201f37a3c09",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Ajustar el viaje al calendario de la propia galería puede cambiar lo que llegue a ver.",
+  "at": "2026-11-23T07:43:27.175Z"
+ },
+ "es/avignon-belvedere-panoramique-du-rhone": {
+  "hash": "07774c8a53f7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El dato es revelador: no se trata de un edificio, sino de un punto panorámico.",
+  "at": "2026-11-23T07:43:28.079Z"
+ },
+ "es/cinque-terre-manarola-viewpoint": {
+  "hash": "b2964567988c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Google indica actualmente que el lugar está abierto las 24 horas, algo lógico",
+  "at": "2026-11-23T07:43:34.746Z"
+ },
+ "ja/adelaide-art-gallery-of-south-australia": {
+  "hash": "d91a46ec8fa5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "美術館だけを見て帰るのは、せっかくの立地を生かしきれずもったいない話です。",
+  "at": "2026-11-23T07:43:35.697Z"
+ },
+ "ja/avignon-belvedere-panoramique-du-rhone": {
+  "hash": "e462f7496008",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現地に着いてから探そうとするのはおすすめしません。",
+  "at": "2026-11-23T07:43:36.504Z"
+ },
+ "ja/cinque-terre-manarola-viewpoint": {
+  "hash": "bbc1522ae881",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "BestTimeの予測では、平日・週末を問わず、比較的すいているのは午前7時〜午前9時と午後9時〜午後11時です。",
+  "at": "2026-11-23T07:43:37.508Z"
+ },
+ "ko/adelaide-art-gallery-of-south-australia": {
+  "hash": "2a933fac6030",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "목동들이 물웅덩이로 내달리는 양 떼를 놓치는 장면을 흙먼지와 함께 격렬하게 그려 낸 작품으로",
+  "at": "2026-11-23T07:43:43.113Z"
+ },
+ "ko/avignon-belvedere-panoramique-du-rhone": {
+  "hash": "c5a1b1eee28d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방투산 능선: 맑은 날, 전망 방향이 동쪽을 향한다면 저 멀리 모습을 드러냅니다.",
+  "at": "2026-11-23T07:43:49.495Z"
+ },
+ "ko/cinque-terre-manarola-viewpoint": {
+  "hash": "dea307c6ab57",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "성수기에는 일찍 차 버립니다.",
+  "at": "2026-11-23T07:43:50.194Z"
+ },
+ "zh/adelaide-art-gallery-of-south-australia": {
+  "hash": "a68b09167208",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里有汤姆·罗伯茨1891年的名作《脱群！》（*A break away!*）：尘土飞扬之中，赶羊人眼看着羊群冲向水塘、失去控制，场面躁动不安。",
+  "at": "2026-11-23T07:43:51.503Z"
+ },
+ "zh/avignon-belvedere-panoramique-du-rhone": {
+  "hash": "2a90d9108abb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "找到这里的人对它评价颇高，只是目前来过的人还不多。",
+  "at": "2026-11-23T07:43:56.480Z"
+ },
+ "zh/cinque-terre-manarola-viewpoint": {
+  "hash": "1ec2802de597",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "谷歌目前显示这里24小时开放，毕竟是公共步道，这也合情合理。",
+  "at": "2026-11-23T07:43:57.438Z"
+ },
+ "ko/abu-simbel-abu-simbel-sun-festival": {
+  "hash": "767b3e9a1db2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "프타만 그늘에 남는데, 흔히 이를 의도된 설계로 해석합니다.",
+  "at": "2026-11-23T07:44:01.233Z"
+ },
+ "ko/ahmedabad-diljit-dosanjh-rupay-aura-india-tour-2026-ahmedabad": {
+  "hash": "ddaba3915ba3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그래서 그라운드 저편 끝의 무대가 불 켜진 문 하나처럼 보일 정도입니다.",
+  "at": "2026-11-23T07:44:01.894Z"
+ },
+ "ko/auckland-8th-continent-marathon-half-marathon-auckland": {
+  "hash": "092b118f9d18",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "도메인은 대부분 탁 트인 잔디밭이고, 오래된 나무들이 군데군데 무리 지어 서 있습니다.",
+  "at": "2026-11-23T07:44:04.997Z"
+ },
+ "ko/auckland-pasifika-festival": {
+  "hash": "535be3136d6f",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-23T07:44:08.629Z"
+ },
+ "ko/auckland-queens-of-the-stone-age-auckland": {
+  "hash": "e0e311606efb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그래서 앞마당에 서서 바라보면 도시 풍경 대신 크레인이 눈에 들어옵니다.",
+  "at": "2026-11-23T07:44:09.493Z"
+ },
+ "ko/ate-el-fieston-de-ano-nuevo-2027": {
+  "hash": "fc994c4a31e3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "자정은 거대한 콘크리트 경기장 안에서 맞이합니다.",
+  "at": "2026-11-23T07:44:10.692Z"
+ },
+ "ko/abu-dhabi-offlimits-music-festival-shakira-jonas-brothers": {
+  "hash": "53deeeb3c07f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대부분 가사 한 줄 한 줄을 다 외우고 있는 사람이 많은 곡들입니다.",
+  "at": "2026-11-23T07:44:11.772Z"
+ },
+ "ko/bangkok-bangkok-art-biennale-2026": {
+  "hash": "44f2a1b51ce9",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-23T07:44:12.526Z"
+ },
+ "ko/badung-pandawa-beach-festival": {
+  "hash": "bdcfb8d4dae6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "참고한 자료 어디에도 해당 정보가 없기 때문입니다.",
+  "at": "2026-11-23T07:44:13.863Z"
+ },
+ "ko/auckland-joji-live": {
+  "hash": "a11000fdd457",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "인터넷에서 손꼽힐 만큼 독특한 길을 걸어온 아티스트를 오클랜드 최대 규모의 실내 공연장에 세우는 무대였습니다.",
+  "at": "2026-11-23T07:44:13.950Z"
+ },
+ "ko/baguio-panagbenga-festival-baguio-flower-festival": {
+  "hash": "a94adad23a1f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "2027년 축제의 일정은 2027년 2월 한 달 내내입니다.",
+  "at": "2026-11-23T07:44:14.195Z"
+ },
+ "ko/bangkok-bangkok-design-week": {
+  "hash": "b5b83444c45f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "목소리를 낮추고 스쿠터가 지나가면 길을 비켜 주는 방문객이라면 자연스럽게 어우러질 수 있습니다.",
+  "at": "2026-11-23T07:44:14.295Z"
+ },
+ "ko/bangkok-thailand-masters-bwf-badminton": {
+  "hash": "a1affe780f23",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "태국의 배드민턴 대회는 세션별 또는 일별 티켓을 판매하고 결승일 가격은 따로 책정한 경우가 많았습니다.",
+  "at": "2026-11-23T07:44:15.335Z"
+ },
+ "ko/bangkok-my-chemical-romance-bangkok": {
+  "hash": "dafdd5525916",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대형 투어 대부분이 주말에 들르는 방콕에서 화요일 공연이라면, 공연장까지 가는 길부터 귀갓길까지 공연 날 밤의 모든 것이 달라집니다.",
+  "at": "2026-11-23T07:44:15.373Z"
+ },
+ "ko/bangkok-westlife-25-the-anniversary-world-tour": {
+  "hash": "14d66a76eaea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "동남아시아는 수십 년째 웨스트라이프를 꾸준히 사랑해 온 지역입니다.",
+  "at": "2026-11-23T07:44:15.987Z"
+ },
+ "ko/bangkok-white-party-bangkok-amaxon-10th-anniversary": {
+  "hash": "7472876f0b23",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "전체 일정 한가운데에 12월 31일이 끼어 있습니다.",
+  "at": "2026-11-23T07:44:16.511Z"
+ },
+ "ko/berlin-aespa-synk-compl-xity-world-tour-berlin": {
+  "hash": "d92643ede95a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이벤트 일정과 좌석 배치도, 티켓 링크는 아레나 공식 웹사이트에 올라와 있으며, 티켓 가격도 이 글이 아니라 그곳에서 확인할 수 있습니다.",
+  "at": "2026-11-23T07:44:21.987Z"
+ },
+ "ko/benidorm-xxiii-torneo-internacional-gran-hotel-bali-chess": {
+  "hash": "f9330c4528df",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "국면을 보고 반응하면 눈썹을 살짝 치켜올리는 것만으로도 관람객이 퇴장당할 수 있습니다.",
+  "at": "2026-11-23T07:44:24.593Z"
+ },
+ "ko/berlin-skate-berlin-international-figure-skating": {
+  "hash": "3cffe97d6862",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "선수들이 선수권 시즌을 앞두고 프로그램을 마무리하는 한겨울에 자리합니다.",
+  "at": "2026-11-23T07:44:25.893Z"
+ },
+ "ko/berlin-taemin-berlin-2026": {
+  "hash": "4ba182c19b23",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "태민만 한 위상의 K팝 솔로 가수에게는 작은 편입니다.",
+  "at": "2026-11-23T07:44:27.716Z"
+ },
+ "ko/bhubaneswar-hockey-india-senior-men-s-national-championships": {
+  "hash": "41d33b236c9f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "제16회 하키 인디아 시니어 남자 전국선수권대회는 2026년 11월 10~21일 일정에 부바네스와르가 개최지였습니다.",
+  "at": "2026-11-23T07:44:28.073Z"
+ },
+ "ko/buenos-aires-formula-1-gran-premio-de-argentina-potential-return": {
+  "hash": "23eb391d96a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "서킷 근처는 밤에 즐길 거리가 없어 그곳에 묵는 사람은 없습니다.",
+  "at": "2026-11-23T07:44:28.984Z"
+ },
+ "ko/buenos-aires-daniel-caesar": {
+  "hash": "43845864c5e3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그의 목소리를 생각하면 이 점이 꽤 중요합니다.",
+  "at": "2026-11-23T07:44:29.499Z"
+ },
+ "ko/buenos-aires-las-guardianas-k-pop-concert": {
+  "hash": "a90cc9cc633e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "장식 없이 하얗고 간결한 모더니즘 양식의 정면은 화려하게 꾸민 주변 극장들과 확연히 달랐습니다.",
+  "at": "2026-11-23T07:44:30.233Z"
+ },
+ "ko/buenos-aires-anuel-aa": {
+  "hash": "b6fca55e4e77",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "어려운 것은 돌아가는 길입니다.",
+  "at": "2026-11-23T07:44:30.790Z"
+ },
+ "ko/buenos-aires-mana-vivir-sin-aire-tour": {
+  "hash": "839f3041f5b3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "마나의 에스타디오 마스 모누멘탈 공연 일정은 2026년 12월 10일입니다.",
+  "at": "2026-11-23T07:44:34.673Z"
+ },
+ "ko/cairns-henry-ross-lookout": {
+  "hash": "bded24b52841",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "구글에는 24시간 개방으로 나와 있는데, 하이웨이 옆 정차 공간이니 당연한 일입니다.",
+  "at": "2026-11-23T07:44:35.670Z"
+ },
+ "ko/buenos-aires-tarja-the-spirit-of-christmas": {
+  "hash": "f59c9cef5521",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "눈을 노래하는 타르야의 곡들이 따뜻한 도시를 찾아옵니다.",
+  "at": "2026-11-23T07:44:37.062Z"
+ },
+ "ko/busan-akmu-paradise-of-rumors-tour": {
+  "hash": "8011e08d4c46",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "야외 대기 줄의 팬들은 보통 옷을 겹쳐 입고 목도리를 두르며 손을 따뜻하게 할 것을 챙깁니다",
+  "at": "2026-11-23T07:44:48.523Z"
  }
 }

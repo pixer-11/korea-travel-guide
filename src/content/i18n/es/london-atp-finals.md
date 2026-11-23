@@ -1,56 +1,56 @@
 ---
 lang: es
 slug: london-atp-finals
-srcHash: 'c4ac142b3f60'
-title: 'ATP Finals: fechas, entradas y sede (Londres)'
-description: Las ATP Finals se disputan del 15 al 22 de noviembre de 2026. Si busca fechas y entradas en Londres, tenga en cuenta que el torneo abandonó el O2 Arena londinense después de 2020.
-quickAnswer: Las ATP Finals se disputan del 15 al 22 de noviembre de 2026. Si busca fechas y entradas en Londres, conviene saber que el torneo dejó el O2 Arena después de 2020. Desde 2021 se celebra en Turín (Italia), en el pabellón cubierto conocido como Pala Alpitour, hoy llamado Inalpi Arena. El calendario y los enlaces para comprar entradas los publica la ATP en la web oficial del torneo.
+srcHash: '150873eab83e'
+title: 'Finales ATP: fechas, entradas y sede (Londres)'
+description: Las Finales ATP de 2026 tenían como fechas del 15 al 22 de noviembre, en el Inalpi Arena de Turín. El torneo dejó el O2 Arena de Londres después de 2020.
+quickAnswer: Las fechas anunciadas para las Finales ATP de 2026 eran del 15 al 22 de noviembre de 2026, y la sede era Turín, no Londres. El torneo abandonó el O2 Arena londinense después de 2020. Desde 2021 se disputa en la ciudad italiana de Turín, en el pabellón cubierto conocido como Pala Alpitour, que hoy se llama Inalpi Arena. La ATP vendía las entradas por sesiones.
 faq:
-  - q: ¿Se celebran las ATP Finals en Londres?
-    a: Ya no. El O2 Arena de Londres las acogió entre 2009 y 2020. Desde 2021 el torneo se disputa en Turín (Italia), donde tendrá lugar la edición del 15 al 22 de noviembre de 2026.
-  - q: ¿Cuándo se juegan las ATP Finals en 2026?
-    a: Del 15 al 22 de noviembre de 2026. La fase de grupos se juega en los primeros días de la semana, y las semifinales y la final cierran el torneo el domingo.
-  - q: ¿Dónde se venden las entradas para las ATP Finals?
-    a: La ATP publica los enlaces de venta en la web oficial del torneo. Cada entrada es válida para una sola sesión, de tarde o de noche, y no para la jornada completa.
-  - q: ¿Cómo se llega de Londres a las ATP Finals?
-    a: Hay vuelos directos entre Londres y el aeropuerto de Turín-Caselle. Otra opción es tomar el Eurostar hasta París y, desde allí, el tren de alta velocidad hasta Turín Porta Susa. El pabellón está en el barrio de Santa Rita, junto al Stadio Olimpico Grande Torino.
+  - q: ¿Se celebran las Finales ATP en Londres?
+    a: Ya no. El O2 Arena de Londres las acogió entre 2009 y 2020. En 2021 la sede pasó a Turín (Italia), y allí se fijó también la edición del 15 al 22 de noviembre de 2026.
+  - q: ¿Cuándo eran las Finales ATP de 2026?
+    a: Estaban programadas del 15 al 22 de noviembre de 2026. Según el formato, los partidos de la fase de grupos se jugaban al principio de la semana, y las semifinales y la final llegaban el domingo de cierre.
+  - q: ¿Dónde se vendían las entradas de las Finales ATP?
+    a: Las entradas se vendían a través de la ATP. Cada una daba acceso a una sola sesión, de tarde o de noche, y no a la jornada completa.
+  - q: ¿Cómo se llegaba desde Londres a las Finales ATP?
+    a: Había vuelos directos entre Londres y el aeropuerto de Turín-Caselle. En tren, el Eurostar llegaba hasta París y desde allí un tren de alta velocidad continuaba hasta la estación de Torino Porta Susa. El pabellón se encuentra en el barrio de Santa Rita, junto al Stadio Olimpico Grande Torino.
   - q: ¿Se puede visitar todavía la antigua sede de Londres?
-    a: Sí. The O2, en la península de Greenwich, está justo al lado de la estación de North Greenwich, en la línea Jubilee. Allí paran también el barco fluvial y el teleférico que cruza el Támesis.
+    a: Sí. El O2, en la península de Greenwich, está justo al lado de la estación de North Greenwich, en la línea Jubilee. El barco fluvial y el teleférico que cruza el Támesis también tienen parada allí.
 ---
 
 ## Londres fue la sede hasta 2020
 
-Muchos aficionados siguen asociando este torneo con Londres. Entre 2009 y 2020, el broche final de la temporada se jugó en The O2, en la península de Greenwich: una pista cubierta en penumbra, rodeada de gradas escalonadas e iluminada como un escenario. Durante esas doce ediciones se consolidó como uno de los torneos de tenis bajo techo con mayor asistencia del mundo.
+Muchos aficionados siguen asociando este torneo con Londres. Entre 2009 y 2020, el cierre de la temporada se disputó en The O2, en la península de Greenwich: una pista cubierta en penumbra, rodeada de gradas escalonadas e iluminada como un escenario. En esas doce ediciones llegó a ser uno de los torneos de tenis bajo techo con más público del mundo.
 
-La de 2020 fue la última edición londinense. En 2021 el evento se trasladó a Turín, ciudad que acoge también la edición de 2026, del 15 al 22 de noviembre. Por tanto, quien busque entradas para esa semana en Londres acabará encontrando Italia.
+La edición de 2020 fue la última en Londres. A partir de 2021 el torneo se trasladó a Turín, y allí se fijó la edición de 2026, del 15 al 22 de noviembre. Quien buscaba entradas en Londres para esa semana terminaba, en realidad, mirando hacia Italia.
 
-Para quien quiera conocer el escenario de aquellos años, llegar a The O2 sigue siendo sencillo:
+Para quien quiera conocer el lugar donde se vivió todo aquello, llegar a The O2 sigue siendo sencillo:
 
 - **Metro:** estación de North Greenwich, línea Jubilee
-- **Por el río:** Uber Boat by Thames Clippers hasta el muelle de North Greenwich (North Greenwich Pier)
+- **Río:** Uber Boat by Thames Clippers hasta el muelle de North Greenwich (North Greenwich Pier)
 - **Teleférico:** el IFS Cloud Cable Car cruza el Támesis desde Royal Victoria
 
-## Cómo funciona la semana de los ocho jugadores
+## Una semana con ocho jugadores: así funciona el formato
 
-El formato concentra mucho tenis en ocho días. Los ocho mejores tenistas individuales del año se reparten en dos grupos de cuatro que se juegan por el sistema de todos contra todos. Cada jugador se enfrenta a los otros tres de su grupo, y los dos primeros de cada uno pasan a semifinales; los vencedores disputan la final del domingo.
+En solo ocho días cabe muchísimo tenis. Los ocho mejores individualistas del año se reparten en dos grupos de cuatro que se juegan por el sistema de todos contra todos. Cada jugador se enfrenta a los otros tres de su grupo, y los dos primeros de cada grupo pasan a las semifinales y, después, a la final del domingo.
 
-Paralelamente al cuadro individual, ocho parejas de dobles compiten con la misma estructura. Casi todos los días hay dos sesiones, una de tarde y otra de noche, y en cada una suelen jugarse un partido de dobles y otro individual. Las jornadas de la fase de grupos son las que ofrecen más tenis por entrada, mientras que las sesiones más codiciadas por el público son las de semifinales y la final.
+Junto al cuadro individual, ocho parejas de dobles compiten con la misma estructura. Casi todas las jornadas tienen dos sesiones, una de tarde y otra de noche, y en cada una suele jugarse un partido de dobles y otro individual. Los días de la fase de grupos son los que ofrecen más tenis por entrada, mientras que las sesiones de semifinales y final son las más disputadas entre los aficionados.
 
-## Cómo llegar de Londres a Turín
+## De Londres a Turín
 
-Para los aficionados que residen en Londres, Turín queda muy a mano. Hay vuelos directos desde los aeropuertos londinenses hasta el aeropuerto de Turín-Caselle, situado al norte de la ciudad. Quienes prefieren el tren suelen tomar el Eurostar hasta París y, desde allí, el tren de alta velocidad que atraviesa los Alpes hasta Turín Porta Susa.
+Turín está a un paso de Londres. Varios aeropuertos londinenses tienen vuelos directos al aeropuerto de Turín-Caselle, situado al norte de la ciudad. Por tren, la ruta combina el Eurostar hasta París con el servicio de alta velocidad que atraviesa los Alpes hasta Torino Porta Susa.
 
-El pabellón se encuentra en el barrio de Santa Rita, junto al Stadio Olimpico Grande Torino, remodelado con motivo de los Juegos Olímpicos de Invierno de 2006. Lo habitual es alojarse cerca de las estaciones de Porta Nuova o Porta Susa y desplazarse hacia el sur en tranvía, autobús o taxi. A mediados de noviembre las noches turinesas son frías y a menudo húmedas, así que llevar una prenda de abrigo se agradece durante la espera en la cola.
+El pabellón se alza en el barrio de Santa Rita, al lado del Stadio Olimpico Grande Torino, remodelado para los Juegos Olímpicos de Invierno de 2006. Los visitantes suelen alojarse cerca de las estaciones de Porta Nuova o Porta Susa y desde allí bajan hacia el sur en tranvía, autobús o taxi. A mediados de noviembre, las noches turinesas son frías y a menudo húmedas, y antes de cada sesión suelen formarse colas a las puertas del pabellón.
 
 ## Entradas por sesión y normas en la grada
 
-Las entradas se venden por sesión, no por jornada completa, de modo que una localidad de tarde no da acceso a la sesión de noche. La ATP publica los enlaces de venta en la web oficial del torneo; comprar por ese canal evita las ofertas de reventa que proliferan en torno al fin de semana de la final.
+Las entradas de 2026 se vendían por sesión y no por jornada completa, de modo que un asiento de tarde no daba acceso a la sesión de noche. La venta se hacía a través de la ATP, y las ofertas de reventa suelen multiplicarse en torno al fin de semana final.
 
 Dentro del recinto, el tenis bajo techo tiene sus propias reglas:
 
-- **Acceso a los asientos:** durante el juego, los acomodadores retienen al público en los vomitorios y solo le dejan pasar en los cambios de lado, normalmente tras cada juego impar.
+- **Acceso a los asientos:** durante el juego, los acomodadores retienen al público en los accesos y solo lo dejan pasar en los cambios de lado, normalmente tras cada juego impar.
 - **Ruido:** silencio durante los puntos y aplausos al terminar. Quien grita en mitad de un intercambio se gana una mirada del juez de silla.
 - **Bolsos:** en la entrada se registran los bolsos, por lo que los aficionados suelen ir con poco equipaje.
-- **Idioma:** el personal y la señalización están en italiano, aunque en un torneo tan internacional el inglés se usa de forma generalizada.
+- **Idioma:** el personal y la señalización están en italiano, aunque en un torneo tan internacional el inglés se usa ampliamente.
 
-La semana atrae a numerosos aficionados desplazados, entre ellos un nutrido grupo procedente de Asia oriental. Quienes tienen entrada para la sesión de noche suelen pasar la tarde en los cafés de los soportales de la Via Roma y se dirigen al pabellón cuando termina la sesión anterior.
+El torneo atrae a numerosos aficionados de fuera, entre ellos un nutrido grupo procedente de Asia oriental. Quienes tienen entrada para la sesión de noche suelen pasar la tarde en los cafés bajo los soportales de la Via Roma y se dirigen al pabellón cuando termina la sesión anterior.

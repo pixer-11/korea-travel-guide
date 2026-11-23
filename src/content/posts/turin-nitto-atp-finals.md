@@ -1,6 +1,6 @@
 ---
 title: 'Nitto ATP Finals: Dates, Tickets & Venue (Turin)'
-description: The Nitto ATP Finals 2026 take place at the Inalpi Arena in Turin, Italy, from 15 to 22 November 2026.
+description: The 2026 Nitto ATP Finals were set for 15 to 22 November 2026 at the Inalpi Arena in Turin, Italy.
 country: Italy
 region: Turin
 category: event
@@ -29,10 +29,10 @@ gallery: []
 tags:
   - turin
   - event
-quickAnswer: The Nitto ATP Finals 2026 take place at the Inalpi Arena in Turin, Italy, from 15 to 22 November 2026. The event brings the season's top eight men's singles players and top eight doubles teams to one indoor court. The ATP publishes the dates, session schedule and ticket links on the official tournament site, nittoatpfinals.com.
+quickAnswer: The Nitto ATP Finals 2026 were set for 15 to 22 November 2026 at the Inalpi Arena in Turin, Italy. The event brings the season's top eight men's singles players and top eight doubles teams to one indoor court. The official tournament site is nittoatpfinals.com.
 faq:
   - q: When are the 2026 Nitto ATP Finals?
-    a: The 2026 edition runs from 15 to 22 November 2026 in Turin, Italy. The tournament is split into afternoon and evening sessions, and the official tournament site, nittoatpfinals.com, publishes the order of play.
+    a: The 2026 edition was scheduled for 15 to 22 November 2026 in Turin, Italy. The tournament is split into afternoon and evening sessions. The official tournament site is nittoatpfinals.com.
   - q: Where is the Inalpi Arena and how do people get there?
     a: The Inalpi Arena is in Turin's Santa Rita district, southwest of the centre, beside the Stadio Olimpico Grande Torino. Most visitors stay near Porta Nuova or Via Po and travel out by tram, bus or taxi. Milan is about an hour away by high-speed train.
   - q: What does one ticket get you?
@@ -44,12 +44,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Eight players, one court, one week
 
 The season ends here. The Nitto ATP Finals is the year-end championship for the top eight men's singles players, decided by the year's ranking race rather than by invitation. Alongside them come the eight best doubles teams.
 
-The 2026 edition runs from 15 to 22 November at the Inalpi Arena. Turin has hosted the tournament since 2021, after decades in which it moved between cities including London, Shanghai and New York. The field arrives at the end of a long season, so the tennis sometimes swings between exhausted and ferocious within a single set.
+The 2026 edition was set for 15 to 22 November at the Inalpi Arena. Turin has hosted the tournament since 2021, after decades in which it moved between cities including London, Shanghai and New York. The field arrives at the end of a long season, so the tennis sometimes swings between exhausted and ferocious within a single set.
 
 ## The format that makes every match count
 
@@ -59,7 +58,7 @@ That structure changes how the tournament feels from the stands:
 
 - **A loss is not the end.** A player can drop a match and still qualify, so early sessions carry tactical tension.
 - **The last group day decides everything.** Permutations about sets and games won often hang over the final round-robin matches.
-- **Doubles runs on the same format,** with its own groups, semi-finals and final.
+- **Doubles uses the same format,** with its own groups, semi-finals and final.
 
 ## Inside the Inalpi Arena
 
@@ -75,13 +74,13 @@ A ticket buys a session, not a day. The Finals are typically split into an after
 
 This rhythm shapes a Turin day for most visitors. Afternoon ticket holders tend to spend the morning in the centre and head out after lunch. Evening holders often fit in the Egyptian Museum or the Mole Antonelliana first, then eat late after play, which suits a city where dinner rarely starts before eight.
 
-The full order of play, including which session hosts which match, appears on nittoatpfinals.com. Knockout-day schedules depend on group results, so semi-final pairings emerge only after the round robin ends.
+The order of play sets which session hosts which match. Knockout-day schedules depend on group results, so semi-final pairings emerge only after the round robin ends.
 
 ## Getting out to Santa Rita
 
 The arena is a ride from the historic core, not a stroll. Most visitors base themselves near Torino Porta Nuova station or the arcaded streets around Via Po and Piazza Castello, then travel out by tram, bus or taxi. The journey across the grid of long, straight avenues is short by big-city standards.
 
-Arriving from further afield, Turin's two main rail stations are Porta Nuova and Porta Susa, both served by high-speed trains from Milan, which is about an hour away. Turin Airport at Caselle handles European flights. Fans flying long-haul, including the many who follow the tournament from Asia, often land in Milan and continue by train.
+From further afield, Turin's two main rail stations are Porta Nuova and Porta Susa, both served by high-speed trains from Milan, which is about an hour away. Turin Airport at Caselle handles European flights. Fans flying long-haul, including the many who follow the tournament from Asia, often land in Milan and continue by train.
 
 Taxis cluster around the arena after the evening session ends, and the queue for them is long. Plenty of fans walk a few blocks away from the square before hailing one or using public transport.
 
@@ -96,7 +95,7 @@ For a slower afternoon, these are the fixtures fans usually work around:
 - **Mole Antonelliana:** the city's spire-topped landmark, housing the National Cinema Museum and a glass lift to a viewing deck.
 - **Quadrilatero Romano:** the old Roman street grid, now dense with small restaurants and wine bars.
 
-The tournament also falls in white truffle season in nearby Alba. Menus across Piedmont lean on tajarin, the region's thin egg pasta, and on agnolotti del plin, small pinched ravioli.
+The tournament falls in white truffle season in nearby Alba. Menus across Piedmont lean on tajarin, the region's thin egg pasta, and on agnolotti del plin, small pinched ravioli.
 
 ## Courtside manners at the Inalpi
 
@@ -109,4 +108,4 @@ A few habits separate seasoned fans from first-timers:
 - **Stay seated during rallies.** Getting up mid-point blocks the view of the rows behind.
 - **Coffee is a standing affair.** At bars around the city, Italians drink espresso at the counter, quickly; table service usually costs more.
 
-Cards and contactless payment are widely accepted in Turin, at the arena and in most bars. Ticket categories and their current prices are listed on the official tournament site.
+Cards and contactless payment are widely accepted in Turin, at the arena and in most bars. Tickets were sold by category through the official tournament site.

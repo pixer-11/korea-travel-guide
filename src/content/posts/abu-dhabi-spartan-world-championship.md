@@ -1,6 +1,6 @@
 ---
 title: 'Spartan World Championship: Dates, Tickets & Venue (Abu Dhabi)'
-description: The Spartan World Championship runs from November 19 to 22, 2026, in the Al Wathba Desert near Abu Dhabi, United Arab Emirates.
+description: The Spartan World Championship was set for November 19 to 22, 2026, in the Al Wathba Desert near Abu Dhabi, United Arab Emirates.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -11,38 +11,37 @@ eventRecurring: true
 eventVenue: Al Wathba Desert
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg/3840px-Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg/3840px-Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi%2C_U.A.E.jpg
   credit: 'Photo: N.Perera / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi,_U.A.E.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Naturally_formed_sand_fossil_dunes_at_Al_Wathba_region_in_Abu_Dhabi,_U.A.E.jpg
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery: []
 tags:
   - abu dhabi
   - event
-quickAnswer: The Spartan World Championship runs from November 19 to 22, 2026, in the Al Wathba Desert near Abu Dhabi, United Arab Emirates. It brings international endurance athletes to an obstacle course built on desert terrain about a 45-minute drive southeast of the city. Spartan publishes race formats, start waves and ticket or registration links on its official site.
+quickAnswer: The Spartan World Championship was set for November 19 to 22, 2026, in the Al Wathba Desert near Abu Dhabi, United Arab Emirates. The event brought international endurance athletes to an obstacle course built on desert terrain, about a 45-minute drive southeast of the city. Spartan, as organiser, set the race formats, start waves and registration.
 faq:
   - q: When is the Spartan World Championship in Abu Dhabi?
-    a: It runs from November 19 to 22, 2026, in the Al Wathba Desert near Abu Dhabi.
+    a: The 2026 edition was scheduled for November 19 to 22, 2026, in the Al Wathba Desert near Abu Dhabi.
   - q: How do I get to the Al Wathba Desert venue?
-    a: Al Wathba is off the E22 Abu Dhabi–Al Ain road, roughly 45 minutes by car from central Abu Dhabi and about 90 minutes from Dubai. There is no metro, so attendees use cars, taxis or ride-hail apps.
+    a: Al Wathba is off the E22 Abu Dhabi–Al Ain road, roughly 45 minutes by car from central Abu Dhabi and about 90 minutes from Dubai. There is no metro, so people get there by car, taxi or ride-hail app.
   - q: What is the weather like for racing in November?
     a: November is one of the milder months in the UAE. Daytime highs usually sit in the high twenties to around 30°C, mornings are cooler, and there is very little shade on the dunes. Strong sun and soft sand are the main challenges.
   - q: Where are race formats, wave times and registration published?
-    a: Spartan publishes race formats, wave schedules, registration and spectator information on its official website.
+    a: Spartan, as the organiser, set the race formats, wave schedules, registration and spectator arrangements for the 2026 World Championship.
   - q: What else is there to do near Al Wathba?
     a: Al Wathba Wetland Reserve, known for its flamingos, is nearby, and its hours change through the year. The Sheikh Zayed Grand Mosque is on the way back into the city, and Saadiyat Island has Louvre Abu Dhabi and a public beach.
 aiGenerated: true
 draft: false
 ---
-
 ## Four days of sand and burpees
 
 Obstacles feel different on soft sand. On packed dirt in the mountains, a Spartan course tests grip and lungs. In the Al Wathba Desert, every step between obstacles also costs you, because your feet sink and slide back on each climb.
 
-The Spartan World Championship takes place here from November 19 to 22, 2026. Over those four days the dunes southeast of Abu Dhabi fill with bib-wearing racers from across the world. It is the top event on the Spartan calendar, so the start corrals are full of athletes who qualified or trained for this race all season.
+The Spartan World Championship was set for November 19 to 22, 2026, on the dunes southeast of Abu Dhabi. It is the top event on the Spartan calendar, and its start corrals are built for international racers who qualified or trained for this race all season.
 
 Any Spartan course uses a set of standard obstacles that racers learn to recognise:
 
@@ -56,9 +55,9 @@ Fail an obstacle and you owe a burpee penalty before you move on.
 
 ## Getting out to Al Wathba
 
-Al Wathba sits off the E22, the Abu Dhabi–Al Ain road, roughly 45 minutes by car from central Abu Dhabi. Abu Dhabi has no metro, so racers and spectators get there by car, taxi or ride-hail. Zayed International Airport is on the same side of the city, which shortens the transfer for anyone flying in.
+Al Wathba sits off the E22, the Abu Dhabi–Al Ain road, roughly 45 minutes by car from central Abu Dhabi. Abu Dhabi has no metro, so racers and spectators get there by car, taxi or ride-hail. Zayed International Airport is on the same side of the city, which shortens the transfer from the airport.
 
-Visitors usually stay either downtown or in the mainland districts near the airport, such as Khalifa City. The mainland option cuts the morning drive. From Dubai it is closer to a 90-minute run down the motorway. Groups often share one car, since parking at desert venues fills with team vans and support crews.
+Visitors usually stay either downtown or in the mainland districts near the airport, such as Khalifa City. The mainland option cuts the morning drive. From Dubai it is about a 90-minute run down the motorway. Groups often share one car, since parking at desert venues fills with team vans and support crews.
 
 ## What the desert does to a race
 
@@ -75,7 +74,7 @@ Downhill dune sections are fast and fun. The climbs back up are where races are 
 
 ## Burpees, bibs and the start line
 
-Spartan has its own etiquette, and newcomers stand out when they don't know it. Burpee penalties are on the honour system in age-group waves. Volunteers count in elite waves, but everyone is expected to do the full set, chest to the ground. Racers who skip them get noticed.
+Spartan has its own etiquette, and newcomers stand out when they don't know it. Burpee penalties are on the honour system in age-group waves. Volunteers count in elite waves, but everyone owes the full set, chest to the ground. Racers who skip them get noticed.
 
 Some habits that experienced racers keep to:
 
@@ -88,12 +87,12 @@ Off the course, normal UAE manners apply. Racers usually change into a T-shirt a
 
 ## Around Al Wathba between race days
 
-With a four-day schedule, many visitors have free time. Al Wathba Wetland Reserve is the nearest stop and one of the few places in the region where greater flamingos gather in numbers. The cooler months are its main season. Environment Agency Abu Dhabi runs the reserve, and its opening times change through the year.
+A four-day schedule leaves visitors with free time. Al Wathba Wetland Reserve is the nearest stop and one of the few places in the region where greater flamingos gather in numbers. The cooler months are its main season. Environment Agency Abu Dhabi runs the reserve, and its opening times change through the year.
 
 Back in the city, the Sheikh Zayed Grand Mosque is on the way in from Al Wathba. It has a dress code and covered areas for visitors. Saadiyat Island has Louvre Abu Dhabi and a long public beach, which works well for loosening up sore legs after a Beast-length day in the sand.
 
 ## Where the details live
 
-Spartan publishes the race formats, wave times and registration links on its official website. Spectator access, kit pickup and venue logistics for the World Championship are listed there too.
+Spartan, as organiser, set the race formats, wave times and registration for the World Championship, along with spectator access, kit pickup and venue logistics.
 
-The verified basics are simple. The event runs from November 19 to 22, 2026, and it is held in the Al Wathba Desert near Abu Dhabi. Everything else, from which distances run on which day to how elite qualification works, comes from Spartan itself.
+The basics were simple. The event was scheduled for November 19 to 22, 2026, in the Al Wathba Desert near Abu Dhabi. Everything else, from which distances fell on which day to how elite qualification worked, came from Spartan itself.

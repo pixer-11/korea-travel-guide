@@ -14,16 +14,16 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 170,
-   "hits": 38
+   "attempts": 173,
+   "hits": 41
   },
   "art gallery": {
-   "attempts": 121,
-   "hits": 26
+   "attempts": 123,
+   "hits": 27
   },
   "night view": {
-   "attempts": 111,
-   "hits": 27
+   "attempts": 113,
+   "hits": 28
   },
   "waterfront": {
    "attempts": 63,
@@ -46,11 +46,11 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 141,
+   "attempts": 145,
    "hits": 23
   },
   "seafood": {
-   "attempts": 98,
+   "attempts": 99,
    "hits": 4
   },
   "hidden gem": {
@@ -90,7 +90,7 @@
    "hits": 133
   },
   "grill": {
-   "attempts": 60,
+   "attempts": 61,
    "hits": 0
   },
   "design shop": {
@@ -1410,5 +1410,5 @@
    "hits": 0
   }
  },
- "updated": "2026-11-22T07:43:51.972Z"
+ "updated": "2026-11-23T07:40:51.866Z"
 }

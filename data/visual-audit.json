@@ -663,6 +663,12 @@
   "reason": "patrol reject: Generic beach sunset, not restaurant venue",
   "at": "2026-10-01T23:21:30.335Z"
  },
+ "adelaide-art-gallery-of-south-australia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Main_entrance_of_the_Art_Gallery_of_South_Australia_%28028A5161%29.jpg/1920px-Main_entrance_of_the_Art_Gallery_of_South_Australia_%28028A5161%29.jpg": {
+  "slug": "adelaide-art-gallery-of-south-australia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade clearly showing the gallery's name and entrance",
+  "at": "2026-11-23T07:40:51.690Z"
+ },
  "adelaide-botanic-park\u0001https://fastly.4sqi.net/img/general/original/357879_pJk8aj1Rd8fVVm_Irh0fTPc56vXL4tj7eJpBh38bMT4.jpg": {
   "slug": "adelaide-botanic-park",
   "verdict": "MATCH",
@@ -2044,6 +2050,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Outdoor market tents under pavilion, representative venue scene",
   "at": "2026-09-25T07:37:46.347Z"
+ },
+ "avignon-belvedere-panoramique-du-rhone\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Avignon_-_Jardin_des_Doms_%28Rocher_des_Doms%29_-_Belv%C3%A9d%C3%A8re_Panoramique_du_Rh%C3%B4ne_-_Panorama_View_over_Rh%C3%B4ne_valley_02.jpg/3840px-Avignon_-_Jardin_des_Doms_%28Rocher_des_Doms%29_-_Belv%C3%A9d%C3%A8re_Panoramique_du_Rh%C3%B4ne_-_Panorama_View_over_Rh%C3%B4ne_valley_02.jpg": {
+  "slug": "avignon-belvedere-panoramique-du-rhone",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic river panorama from viewpoint railing matches venue type",
+  "at": "2026-11-23T07:40:51.792Z"
  },
  "avignon-jardin-des-doms\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg/3840px-Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg": {
   "slug": "avignon-jardin-des-doms",
@@ -8847,6 +8859,12 @@
   "reason": "publish gate: Shows castle exterior with identifying banner, representative of venue",
   "at": "2026-09-11T07:47:55.636Z"
  },
+ "cinque-terre-manarola-viewpoint\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Manarola_Viewpoint.jpg/3840px-Manarola_Viewpoint.jpg": {
+  "slug": "cinque-terre-manarola-viewpoint",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative panoramic view of Manarola village and coastline",
+  "at": "2026-11-23T07:40:51.836Z"
+ },
  "cinque-terre-parco-naturale-regionale-di-porto-venere\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Parco_naturale_regionale_di_Porto_Venere_04.jpg/3840px-Parco_naturale_regionale_di_Porto_Venere_04.jpg": {
   "slug": "cinque-terre-parco-naturale-regionale-di-porto-venere",
   "verdict": "MATCH",
@@ -9638,6 +9656,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of museum building with banner, plausible hero shot",
   "at": "2026-09-30T14:22:37.146Z"
+ },
+ "darwin-stokes-hill-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Darwin%27s_Stokes_Hill_Wharf_February_2010.jpg/1920px-Darwin%27s_Stokes_Hill_Wharf_February_2010.jpg": {
+  "slug": "darwin-stokes-hill-wharf",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Stokes Hill Wharf pier, building, and harbor boat",
+  "at": "2026-11-23T07:40:51.738Z"
  },
  "davao-malagos-garden-resort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malagos_Garden_Resort_Aviary_%2849483553792%29.jpg/1920px-Malagos_Garden_Resort_Aviary_%2849483553792%29.jpg": {
   "slug": "davao-malagos-garden-resort",
@@ -11934,6 +11958,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Narrow rocky canyon with ice, matches Yolyn Am",
   "at": "2026-10-11T14:24:51.865Z"
+ },
+ "gold-coast-best-of-all-lookout\u0001https://upload.wikimedia.org/wikipedia/commons/0/00/Best_Of_All_Lookout_Springbrook_National_Park.JPG": {
+  "slug": "gold-coast-best-of-all-lookout",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic view from lookout, matches attraction type",
+  "at": "2026-11-23T07:40:51.624Z"
  },
  "gold-coast-bmw-australian-pga-championship\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/BMW_APGAC_Primary_Stacked.jpg": {
   "slug": "gold-coast-bmw-australian-pga-championship",

@@ -1,6 +1,6 @@
 ---
 title: 'Summarecon Bandung Run Fest: Dates, Tickets & Venue (Bandung)'
-description: Summarecon Bandung Run Fest takes place on November 22, 2026, with every race starting at Summarecon Bandung, the township in the Gedebage area on Bandung's eastern edge.
+description: Summarecon Bandung Run Fest was set for November 22, 2026 at Summarecon Bandung, the township in the Gedebage area on Bandung's eastern edge.
 country: Indonesia
 region: Bandung
 category: event
@@ -14,51 +14,50 @@ eventOrganizer:
   url: https://www.summarecon.com/
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Patenggang_Lake_panorama%2C_Bandung_Regency%2C_2014-08-21.jpg/3840px-Patenggang_Lake_panorama%2C_Bandung_Regency%2C_2014-08-21.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Patenggang_Lake_panorama%2C_Bandung_Regency%2C_2014-08-21.jpg/3840px-Patenggang_Lake_panorama%2C_Bandung_Regency%2C_2014-08-21.jpg
   credit: 'Photo: Crisco 1492 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Patenggang_Lake_panorama,_Bandung_Regency,_2014-08-21.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Patenggang_Lake_panorama,_Bandung_Regency,_2014-08-21.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 tags:
   - bandung
   - event
-quickAnswer: 'Summarecon Bandung Run Fest takes place on November 22, 2026, with every race starting at Summarecon Bandung, the township in the Gedebage area on Bandung''s eastern edge. There are four categories: a Kid Dash for children, a 10K, a half marathon and a full marathon. Runners coming from central Bandung or Jakarta usually stay near the east side of the city, because the start is a long way from the old downtown.'
+quickAnswer: 'Summarecon Bandung Run Fest was set for November 22, 2026, with every race starting at Summarecon Bandung, the township in the Gedebage area on Bandung''s eastern edge. The festival had four categories: a Kid Dash for children, a 10K, a half marathon and a full marathon. Runners coming from central Bandung or Jakarta usually stay near the east side of the city, because the start is a long way from the old downtown.'
 faq:
   - q: When and where is Summarecon Bandung Run Fest 2026?
-    a: It takes place on November 22, 2026. All races start at Summarecon Bandung, the township in the Gedebage area on Bandung's eastern edge, close to the Gedebage exit of the Purbaleunyi toll road.
+    a: It was set for November 22, 2026, with the start for all races at Summarecon Bandung, the township in the Gedebage area on Bandung's eastern edge. The township sits close to the Gedebage exit of the Purbaleunyi toll road.
   - q: What race categories are there?
-    a: 'There are four: a Kid Dash for children, a 10K, a half marathon (21.1 km) and a full marathon (42.195 km). The organiser sets the start waves and cut-off times for each one.'
+    a: 'The festival had four: a Kid Dash for children, a 10K, a half marathon (21.1 km) and a full marathon (42.195 km). The organiser set the start waves and cut-off times for each one.'
   - q: How do I get to the start from Jakarta?
-    a: By car, take the toll road to the Gedebage exit, which is close to the township. By rail, the high-speed line's Tegalluar station is near Gedebage. Conventional trains like the Argo Parahyangan arrive at Bandung Station, which is a ride across the city. Most visitors finish the trip with Grab or Gojek.
+    a: By car, the toll road leads to the Gedebage exit, which is close to the township. By rail, the high-speed line's Tegalluar station is near Gedebage. Conventional trains like the Argo Parahyangan arrive at Bandung Station, which is a ride across the city. Most visitors finish the trip with Grab or Gojek.
   - q: What is the weather like in Bandung in November?
     a: November is in the rainy season. Downpours usually come in the afternoon and evening, and mornings tend to be cool and drier. At around 700 metres altitude, Bandung's early mornings are fresher than Jakarta's, but roads can be wet from rain the night before.
   - q: Where do runners usually stay?
-    a: Many stay in hotels on Bandung's eastern side to cut the pre-dawn trip to Gedebage. Others stay in central Bandung near Jalan Braga and Asia Afrika, which puts them closer to restaurants and sightseeing after the race.
+    a: Many stay in hotels on Bandung's eastern side to cut the pre-dawn trip to Gedebage. Others stay in central Bandung near Jalan Braga and Asia Afrika, which puts them closer to restaurants and sightseeing after a race.
 aiGenerated: true
 draft: false
 ---
-
 ## A start line on the eastern edge
 
-Bandung's old centre sits around Jalan Asia Afrika and the Alun-Alun. This race begins well away from it. Summarecon Bandung Run Fest takes place on November 22, 2026, and starts at Summarecon Bandung. That's a planned township in Gedebage, where the city spreads out east towards the flat rice-growing plain.
+Bandung's old centre sits around Jalan Asia Afrika and the Alun-Alun. This race's start was well away from it. Summarecon Bandung Run Fest was set for November 22, 2026, with the start at Summarecon Bandung. That's a planned township in Gedebage, where the city spreads out east towards the flat rice-growing plain.
 
-The setting gives the event its character. You get wide, newly laid roads and landscaped boulevards, not the steep, crowded streets of north Bandung around Dago. The mountains that ring the Bandung basin stand on the horizon on clear mornings. Tangkuban Perahu lies to the north and the southern ranges sit behind the city.
+The setting is what makes this course different. It has wide, newly laid roads and landscaped boulevards, not the steep, crowded streets of north Bandung around Dago. The mountains that ring the Bandung basin stand on the horizon on clear mornings. Tangkuban Perahu lies to the north and the southern ranges sit behind the city.
 
 ## Four distances, one gathering point
 
-The festival puts very different runners at one start area. It has four categories:
+The festival was planned around a single start area for very different runners. It had four categories:
 
 - **Kid Dash**: a short children's race, the one families come for
 - **10K**: the entry point for most club and casual runners
 - **Half marathon**: 21.1 km
 - **Full marathon**: the standard 42.195 km
 
-Courses, cut-off times and start waves are set by the organiser. We won't guess at them here. In Indonesia the longer distances usually start in the dark or at first light, and the shorter races follow. Organisers do this to get ahead of the heat and the city's traffic.
+The organiser set the courses, cut-off times and start waves. In Indonesia the longer distances usually start in the dark or at first light, and the shorter races follow. Organisers do this to get ahead of the heat and the city's traffic.
 
-Expect a race village to take shape around the start. At Indonesian running festivals that usually means sponsor tents, a baggage area and space for families to wait. It's a full morning out, so the Kid Dash suits parents who are also racing.
+Indonesian running festivals usually build a race village around the start. That typically means sponsor tents, a baggage area and space for families to wait. A festival morning is a long one, so a Kid Dash suits parents who are also racing.
 
 ## Getting to Gedebage
 
@@ -67,9 +66,9 @@ The location helps runners from out of town. Gedebage sits beside the Purbaleuny
 Two rail routes connect Bandung to the capital:
 
 - **Argo Parahyangan and other conventional trains** run into Bandung Station, near the centre. From there it's a ride east across the city.
-- **The Jakarta–Bandung high-speed line** stops at Tegalluar station, east of Gedebage. That's much closer to the start than Bandung Station.
+- **The Jakarta–Bandung high-speed line** stops at Tegalluar station, east of Gedebage. That's much closer to the township than Bandung Station.
 
-Within the city, most visitors use ride-hailing apps like Grab and Gojek. They're cheaper and easier than negotiating with a taxi. For the start, many runners stay in hotels on the eastern side of the city. Others share a ride in before dawn so they aren't stuck in crowds at the drop-off.
+Within the city, most visitors use ride-hailing apps like Grab and Gojek. They're cheaper and easier than negotiating with a taxi. For early starts in Gedebage, many runners stay in hotels on the eastern side of the city. Others share a ride in before dawn so they aren't stuck in crowds at the drop-off.
 
 Nearby landmarks help with directions. The Gelora Bandung Lautan Api football stadium and the Al Jabbar Grand Mosque, with its broad tiered roof above a lake, are both in the Gedebage area. Drivers know them both.
 
@@ -79,7 +78,7 @@ The calendar matters here. November falls in Bandung's rainy season. Rain in the
 
 The city sits at roughly 700 metres above sea level. That makes it noticeably cooler than Jakarta, especially before sunrise. Runners who live at sea level often find the early kilometres pleasant. The humidity rises fast once the sun is up.
 
-After a night of rain, the roads can still be wet and puddled when the race starts. That's why experienced local runners tend to bring:
+After a night of rain, the roads can still be wet and puddled at the start of a race. That's why experienced local runners tend to bring:
 
 - a cheap poncho or bin bag for the wait in the start pen
 - dry clothes in their checked bag
@@ -90,15 +89,15 @@ After a night of rain, the roads can still be wet and puddled when the race star
 
 Bandung is the main city of the Sundanese people, and everyday courtesy matters. A "terima kasih" in Indonesian, or "hatur nuhun" in Sundanese, goes a long way with volunteers handing out water. People notice it.
 
-Paying is mostly cashless now. Many stalls and cafés accept QRIS, the national QR code system, and you can scan it with Indonesian e-wallets like GoPay, OVO and DANA. Street vendors outside an event area may still want small rupiah notes. Tipping isn't expected at food stalls. Rounding up for a ride-hailing driver is a kind gesture.
+Paying is mostly cashless now. Many stalls and cafés accept QRIS, the national QR code system, which works with Indonesian e-wallets like GoPay, OVO and DANA. Street vendors outside an event area may still want small rupiah notes. Tipping isn't expected at food stalls. Rounding up for a ride-hailing driver is a kind gesture.
 
-On the course, cheering from residents is part of the experience. Families often come out to the roadside in residential areas. Runners usually wave back.
+On Bandung race courses, cheering from residents is part of the experience. Families often come out to the roadside in residential areas. Runners usually wave back.
 
-Dress modestly away from the race village. A finisher's shirt over running shorts is fine. If you visit the Al Jabbar mosque afterwards, cover your shoulders and knees, and take your shoes off where others do.
+Modest dress is the norm away from race areas. A finisher's shirt over running shorts is fine. Visitors to the Al Jabbar mosque cover their shoulders and knees, and take their shoes off where others do.
 
 ## Refuelling the Bandung way
 
-Bandung is famous across Indonesia for snacks and Sundanese food. A post-race appetite is the best reason to try them. Look for these:
+Bandung is famous across Indonesia for snacks and Sundanese food. A post-race appetite is the best reason to try them. Local favourites include:
 
 - **Batagor**: fried fish-and-tofu dumplings under peanut sauce, a Bandung original
 - **Siomay**: the steamed version, with cabbage, potato and egg
@@ -110,10 +109,10 @@ Townships like Summarecon usually have shophouse strips and food courts. The sta
 
 ## Making a weekend of it
 
-Few people travel to Bandung for just one race morning. The city has plenty more for the rest of the weekend:
+Few people travel to Bandung for just one race morning. The city has plenty more for the rest of a weekend:
 
 - **Jalan Braga**: art deco buildings and cafés from the colonial era
 - **Gedung Sate**: the governor's office, named for the skewer-shaped ornament on its roof
 - **Asia Afrika Museum**: on the street where the 1955 Bandung Conference took place
 
-Recovering legs might prefer the cooler hills. Lembang, to the north, is the usual escape for strawberry farms and views of the volcano. Tangkuban Perahu's crater can be reached in half a day. Rainy-season afternoons point most visitors back indoors by mid-afternoon, which suits tired runners fine.
+The cooler hills suit recovering legs. Lembang, to the north, is the usual escape for strawberry farms and views of the volcano. Tangkuban Perahu's crater is a half-day trip. Rainy-season afternoons send most visitors back indoors by mid-afternoon, which suits tired runners fine.

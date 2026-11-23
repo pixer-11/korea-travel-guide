@@ -1,28 +1,28 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-open-badminton
-srcHash: '49a86fbb5e07'
+srcHash: '5fc6833c6028'
 title: 'Abierto de Hong Kong de bádminton: fechas, entradas y sede (Hong Kong)'
-description: El Abierto de Hong Kong de bádminton 2026, cuyo nombre oficial es LI-NING Hong Kong Open, se celebra del martes 17 al domingo 22 de noviembre de 2026 en el Kai Tak Arena, en Kowloon (Hong Kong).
-quickAnswer: El Abierto de Hong Kong de bádminton 2026, cuyo nombre oficial es LI-NING Hong Kong Open, se disputa del martes 17 al domingo 22 de noviembre de 2026 en el Kai Tak Arena, en Kowloon (Hong Kong). Pertenece a la categoría Super 500 del BWF World Tour y reúne a grandes figuras de China, Japón, Corea y Taiwán. La información sobre las entradas corresponde a los canales oficiales del organizador, por lo que aquí no se indican precios.
+description: El LI-NING Hong Kong Open 2026, torneo de bádminton de categoría BWF Super 500, tenía como fechas anunciadas del 17 al 22 de noviembre de 2026 en el Kai Tak Arena, en Kowloon (Hong Kong).
+quickAnswer: Las fechas anunciadas para el Abierto de Hong Kong de bádminton 2026, cuyo nombre oficial era LI-NING Hong Kong Open, eran del martes 17 al domingo 22 de noviembre de 2026. La sede era el Kai Tak Arena, en Kowloon (Hong Kong). Se trata de un torneo Super 500 del BWF World Tour que reúne a los mejores jugadores de China, Japón, Corea y Taiwán. Las entradas se vendieron a través del organizador y de su socio de venta de entradas.
 faq:
-  - q: ¿Cuándo se celebra el Abierto de Hong Kong de bádminton 2026?
-    a: El LI-NING Hong Kong Open 2026 se disputa del martes 17 al domingo 22 de noviembre de 2026. Las finales se juegan el último día.
-  - q: ¿Dónde tiene lugar el Abierto de Hong Kong 2026?
-    a: En el Kai Tak Arena, el pabellón cubierto del complejo Kai Tak Sports Park, situado en el distrito de Kowloon City. Las ediciones anteriores se celebraron en el Coliseo de Hong Kong (Hong Kong Coliseum), en Hung Hom.
-  - q: ¿Cómo se llega al Kai Tak Arena en metro (MTR)?
-    a: La parada más cercana es la estación de Kai Tak, en la línea Tuen Ma (Tuen Ma Line). Otra opción es la estación de Sung Wong Toi, en la misma línea. Desde la isla de Hong Kong hay que hacer transbordo a la línea Tuen Ma en Admiralty o en Hung Hom.
-  - q: ¿Qué categoría tiene el Abierto de Hong Kong?
-    a: Es un torneo Super 500 del BWF World Tour en el que se disputan las modalidades de individual masculino y femenino, dobles masculino y femenino, y dobles mixto. La mayor parte de los participantes procede de China, Japón, Corea y Taiwán.
+  - q: ¿Qué fechas tenía el Abierto de Hong Kong de bádminton 2026?
+    a: Las fechas anunciadas para el LI-NING Hong Kong Open 2026 eran del martes 17 al domingo 22 de noviembre de 2026. Las finales estaban programadas para el último día.
+  - q: ¿Dónde se iba a disputar el Abierto de Hong Kong 2026?
+    a: La sede anunciada para la edición de 2026 era el Kai Tak Arena, el pabellón cubierto del Kai Tak Sports Park, en el distrito de Kowloon City. Las ediciones anteriores se jugaron en el Hong Kong Coliseum, en Hung Hom.
+  - q: ¿Cómo se llegaba en MTR al Kai Tak Arena?
+    a: La parada más cercana es la estación de Kai Tak, en la línea Tuen Ma. La de Sung Wong Toi, en esa misma línea, es una alternativa. Desde la isla de Hong Kong, el transbordo a la línea Tuen Ma se hace en Admiralty o en Hung Hom.
+  - q: ¿De qué categoría es el Abierto de Hong Kong?
+    a: Es un torneo Super 500 del BWF World Tour, con individual masculino y femenino, dobles masculino y femenino, y dobles mixto. La mayor parte de los participantes procede de China, Japón, Corea y Taiwán.
   - q: ¿Cuánto dura un partido de bádminton?
-    a: Los partidos se juegan al mejor de tres juegos de 21 puntos. Los de individual suelen durar desde unos 40 minutos hasta más de una hora, mientras que los de dobles a menudo son más cortos.
+    a: Los partidos se juegan al mejor de tres juegos de 21 puntos. Un partido individual suele durar desde unos 40 minutos hasta más de una hora, y los de dobles acostumbran a ser más cortos.
 ---
 
-## Seis días, cinco cuadros y un solo pabellón
+## Seis días, cinco cuadros y un único pabellón
 
-A lo largo de seis días, el Abierto de Hong Kong va ganando intensidad hasta llegar a las finales. La edición de 2026, que lleva el nombre comercial de LI-NING Hong Kong Open, se celebra del martes 17 al domingo 22 de noviembre. Dentro del BWF World Tour ocupa el nivel Super 500, el escalón intermedio del circuito. Eso se traduce en puntos de clasificación de peso y en cuadros que suelen contar con jugadores del top 20 mundial.
+El Abierto de Hong Kong se extiende a lo largo de seis días que culminan en las finales. Para la edición de 2026, bajo el nombre comercial LI-NING Hong Kong Open, las fechas anunciadas eran del martes 17 al domingo 22 de noviembre. El torneo pertenece a la categoría Super 500 del BWF World Tour, el escalón intermedio del circuito. Eso supone una cantidad considerable de puntos para la clasificación y, por lo general, cuadros con jugadores del top 20 mundial.
 
-En las pistas se disputan cinco modalidades:
+Cinco modalidades comparten las pistas:
 
 - Individual masculino
 - Individual femenino
@@ -30,19 +30,19 @@ En las pistas se disputan cinco modalidades:
 - Dobles femenino
 - Dobles mixto
 
-Durante las primeras rondas se juega en varias pistas a la vez y hay partidos durante toda la jornada. A medida que avanza el cuadro, la competición se concentra en menos pistas, hasta que el último día los cinco títulos se deciden en una única pista central.
+En las primeras rondas suele haber partidos en varias pistas a la vez durante toda la jornada. A medida que el cuadro se reduce, el juego se concentra en menos pistas, y el último día los cinco títulos se disputan normalmente en una sola pista central.
 
-## En el Kai Tak Arena, no en el Coliseo
+## Kai Tak Arena, no el Coliseum
 
-La sede es más reciente de lo que muchos creen. Las ediciones anteriores se jugaron en el Coliseo de Hong Kong (Hong Kong Coliseum), en Hung Hom. El torneo de 2026, en cambio, tiene lugar en el Kai Tak Arena, el pabellón cubierto del complejo Kai Tak Sports Park, levantado sobre los terrenos del antiguo aeropuerto de Kai Tak, en el distrito de Kowloon City.
+La sede es más reciente de lo que muchos creen. Las ediciones anteriores se jugaron en el Hong Kong Coliseum, en Hung Hom. Para el torneo de 2026, la sede anunciada era el Kai Tak Arena, el pabellón cubierto del Kai Tak Sports Park, levantado en el terreno que ocupaba el antiguo aeropuerto de Kai Tak, en el distrito de Kowloon City.
 
-La parada de metro (MTR) más cercana es la estación de Kai Tak, en la línea Tuen Ma (Tuen Ma Line). Como alternativa, a una parada de distancia se encuentra la estación de Sung Wong Toi. Quienes llegan desde la isla de Hong Kong suelen hacer transbordo a la línea Tuen Ma en Hung Hom o en Admiralty. Para entrar y salir por los tornos, lo habitual es usar la tarjeta Octopus o una tarjeta bancaria sin contacto.
+La parada de MTR más cercana es la estación de Kai Tak, en la línea Tuen Ma; como alternativa está la de Sung Wong Toi, una parada más allá. Desde la isla de Hong Kong, la mayoría de los visitantes hace transbordo a la línea Tuen Ma en Hung Hom o en Admiralty. Para pasar los tornos, lo habitual es usar la tarjeta Octopus o una tarjeta bancaria sin contacto.
 
 ## Quién llena las pistas
 
-El grueso de los participantes procede de China, Japón, Corea y Taiwán, de modo que la mayoría de los cabezas de serie saldrá previsiblemente de esos cuatro países. Esa circunstancia también define al público. Los aficionados taiwaneses y los de China continental, sobre todo, se desplazan expresamente para este torneo, y en una misma fila de gradas pueden verse banderas de varios países.
+China, Japón, Corea y Taiwán aportan el núcleo de los participantes, y la mayoría de los cabezas de serie suele proceder de esos cuatro países. Eso también marca el ambiente en las gradas. Son sobre todo los aficionados taiwaneses y los de China continental quienes viajan para este torneo, y no es raro ver banderas de varias naciones en una misma fila.
 
-Como el organizador no ha publicado la lista de inscritos, aquí no se mencionan nombres. Lo que sí está fijado por el reglamento de la BWF es el formato de cada partido:
+El reglamento de la BWF fija la estructura de cada partido:
 
 - Al mejor de tres juegos de 21 puntos
 - Una pausa de 60 segundos cuando quien va por delante llega a 11
@@ -50,13 +50,13 @@ Como el organizador no ha publicado la lista de inscritos, aquí no se mencionan
 
 Un partido individual dura desde unos 40 minutos hasta bastante más de una hora. Los de dobles suelen ser más rápidos.
 
-## Cómo disfrutar a pie de pista sin molestar a nadie
+## Junto a la pista sin molestar a nadie
 
-Durante los peloteos, el público de bádminton guarda silencio. El volante pesa muy poco y cualquier corriente de aire influye en su trayectoria, así que en el pabellón reina la quietud mientras está en juego. Los espectadores permanecen sentados durante cada punto y aprovechan la pausa de los 11 puntos o el descanso entre juegos para buscar asiento o ir a comer algo.
+El público del bádminton guarda silencio durante los peloteos. Como el volante es ligero y cualquier corriente de aire influye en su trayectoria, el recinto permanece en calma mientras está en juego. Los espectadores no se levantan durante un punto y aprovechan la pausa al llegar a 11 o el descanso entre juegos para buscar asiento o ir a comer algo.
 
-- **Ruido:** aplaudir y corear entre punto y punto es lo normal; gritar durante el saque, no.
-- **Fotos:** en los torneos de la BWF el flash suele estar prohibido, ya que distrae a los jugadores en la línea de servicio.
-- **Cambiar de pista:** en las primeras rondas es frecuente que los aficionados sigan a su favorito de una pista a otra, aunque solo se desplazan entre juegos.
-- **Volver a casa:** al terminar la sesión de la tarde, la gente suele caminar en grupo hasta la estación de Kai Tak. Muchos evitan esa aglomeración cenando antes en Kowloon City, donde los restaurantes tailandeses se suceden a lo largo de South Wall Road, a pocos minutos a pie.
+- **Ruido:** aplaudir y corear entre puntos es lo normal; gritar durante el saque, no.
+- **Fotos:** en los torneos de la BWF el flash suele estar prohibido, ya que distrae a los jugadores en la línea de saque.
+- **Cambiar de pista:** en las primeras rondas, muchos aficionados siguen a su favorito de una pista a otra, pero solo se desplazan entre juegos.
+- **Vuelta a casa:** tras una sesión nocturna, el público suele ir a pie en grupo hasta la estación de Kai Tak. Muchos evitan esa aglomeración cenando antes en Kowloon City, donde South Wall Road, a poca distancia, está repleta de restaurantes tailandeses.
 
-Las entradas y los horarios de cada sesión se publican en los canales oficiales del organizador y de su socio de venta de entradas, que es también donde figuran los precios. Para quienes quieren ver muchos partidos, los abonos de día completo de las primeras rondas suelen ser la mejor opción. Las semifinales y las finales del fin de semana son las sesiones que atraen a la mayoría del público.
+Las entradas para la edición de 2026 se vendieron a través del organizador y de su socio de venta de entradas. Para quienes buscan ver muchos partidos, los pases de jornada completa de las primeras rondas suelen ser la mejor opción. Las semifinales y las finales del fin de semana son las sesiones que atraen a la mayor parte del público.

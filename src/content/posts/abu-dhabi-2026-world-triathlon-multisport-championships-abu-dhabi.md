@@ -1,6 +1,6 @@
 ---
 title: '2026 World Triathlon Multisport Championships Abu Dhabi: Dates, Tickets & Venue (Abu Dhabi)'
-description: The 2026 World Triathlon Multisport Championships Abu Dhabi runs from November 13-22, 2026, on Hudayriyat Island, with ticket and spectator information published by World Triathlon on its official championship site.
+description: The 2026 World Triathlon Multisport Championships Abu Dhabi was set for November 13–22, 2026, on Hudayriyat Island, the first Middle East edition.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -14,26 +14,26 @@ eventOrganizer:
   url: https://triathlon.org
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hudayriyat_Island.jpg/3840px-Hudayriyat_Island.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hudayriyat_Island.jpg/3840px-Hudayriyat_Island.jpg
   credit: 'Photo: Slywire / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Hudayriyat_Island.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Hudayriyat_Island.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 tags:
   - abu dhabi
   - event
-quickAnswer: The 2026 World Triathlon Multisport Championships Abu Dhabi runs from November 13-22, 2026, on Hudayriyat Island, with ticket and spectator information published by World Triathlon on its official championship site. It is the first Middle East edition of the championships and brings together more than 4,000 athletes across six disciplines, including WTCS Elite races and the Aquathlon and Cross Triathlon world titles.
+quickAnswer: The 2026 World Triathlon Multisport Championships Abu Dhabi was set for November 13–22, 2026, on Hudayriyat Island. It was billed as the first Middle East edition of the championships. Organisers announced more than 4,000 athletes across six disciplines, including WTCS Elite races and the Aquathlon and Cross Triathlon world titles.
 faq:
   - q: When and where are the 2026 World Triathlon Multisport Championships held?
-    a: They run from November 13 to 22, 2026, on Hudayriyat Island in Abu Dhabi. This is the first time the championships have been held in the Middle East.
+    a: They were set for November 13 to 22, 2026, on Hudayriyat Island in Abu Dhabi. It was billed as the first edition of the championships in the Middle East.
   - q: Which races are included?
-    a: There are six disciplines, including WTCS Elite races and the Aquathlon and Cross Triathlon world championships. More than 4,000 athletes take part over the ten days.
+    a: The programme listed six disciplines, including WTCS Elite races and the Aquathlon and Cross Triathlon world championships. Organisers announced more than 4,000 athletes over the ten days.
   - q: How do spectators get to Hudayriyat Island?
     a: Most people take a taxi or use the Careem or Uber apps, because Abu Dhabi has no metro. The island is joined by bridge to the Al Bateen side of the main island. The drive takes about 15–20 minutes from downtown and around 40 minutes from Zayed International Airport.
   - q: Where is ticket and schedule information published?
-    a: World Triathlon publishes the race schedule, start lists and any ticket or hospitality options on its official championship site.
+    a: World Triathlon, the organiser, was responsible for the race schedule, start lists and any ticket or hospitality options for the championships.
   - q: What is the weather like in mid-November?
     a: Daytime highs are typically around 30°C and the sea is warm. Races usually start in the morning, and spectators tend to bring hats and water because the course has little shade.
 aiGenerated: true
@@ -41,9 +41,9 @@ draft: false
 ---
 ## Ten days of racing on one island
 
-The championships take ten days, from November 13 to 22, 2026. For the first time, the World Triathlon Multisport Championships come to the Middle East. More than 4,000 athletes enter across six disciplines.
+The championships were scheduled over ten days, from November 13 to 22, 2026. They were billed as the first World Triathlon Multisport Championships in the Middle East. Organisers announced more than 4,000 athletes across six disciplines.
 
-The schedule covers more than standard triathlon. Professional WTCS Elite races share the week with world titles in Aquathlon (swim and run) and Cross Triathlon (open water, mountain bike and trail run). Age-group racers from many countries also compete across the formats, so on most days the course is busy with competitors at very different levels.
+The programme covered more than standard triathlon. Professional WTCS Elite races shared the week with world titles in Aquathlon (swim and run) and Cross Triathlon (open water, mountain bike and trail run). Age-group categories for racers from many countries were included across the formats, putting competitors of very different levels on the same course.
 
 ## Hudayriyat Island as a race venue
 
@@ -54,7 +54,7 @@ Hudayriyat Island sits just off the southwest edge of Abu Dhabi island. A short 
 - **Desert-edge terrain and bike park trails** for the cross formats
 - **Beach clubs and food outlets** along the Marsana waterfront
 
-You can see the skyline of the main island across the channel, and the island is flat. Spectators can usually walk between the transition zone and points along the course without much effort.
+The skyline of the main island is visible across the channel, and the island is flat. Spectators can usually walk between the transition zone and points along the course without much effort.
 
 ## Getting there and the November climate
 
@@ -66,9 +66,9 @@ Visitors who want to stay close usually pick hotels in Al Bateen, along the Corn
 
 Seasoned triathlon spectators move around rather than staying in one spot. The transition area is where races are won and lost. The run course gives the longest look at each athlete, because most formats use repeated laps that pass the same stretch several times.
 
-- **Payment:** cards and phone wallets work almost everywhere in Abu Dhabi, including taxis. Tipping is not expected, but people often round up.
-- **Dress:** swimwear is normal on the beach. Elsewhere on the island, modest dress covering shoulders and knees is generally expected.
+- **Payment:** cards and phone wallets work almost everywhere in Abu Dhabi, including taxis. Tipping is not customary, but people often round up.
+- **Dress:** swimwear is normal on the beach. Elsewhere on the island, modest dress covering shoulders and knees is the norm.
 - **Hydration:** experienced fans carry refillable bottles and wear hats, because the course has little shade.
 - **Alcohol:** drinking is limited to licensed venues, never on the street or along the course.
 
-World Triathlon publishes the race-by-race schedule, start lists and ticket or hospitality options on its official championship site. Spectators use the start lists to work out which day their national team or favourite elite athlete is racing.
+World Triathlon was responsible for the race-by-race schedule, start lists and ticket or hospitality options. At multisport championships, spectators typically use the start lists to work out which day their national team or favourite elite athlete races.

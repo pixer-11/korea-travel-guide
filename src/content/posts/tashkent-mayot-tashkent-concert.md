@@ -25,7 +25,7 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:Mustaqillik_maydoni,_Tashkent,_Uzbekistan._(6136468825).jpg
   focus:
     x: 25
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - tashkent
@@ -47,7 +47,7 @@ draft: false
 ---
 ## One November night in Yunusabad
 
-The concert was set for November 12, 2026, in Yunusabad, the broad northern district of Tashkent, where wide avenues run between tall residential blocks and newer commercial buildings. The date fell on a Thursday, so for many fans it was a weeknight show, after a working day and with a late trip home afterwards.
+The concert was set for November 12, 2026, in Yunusabad, the broad northern district of Tashkent, where wide avenues run between tall residential blocks and newer commercial buildings. The date fell on a Thursday, which made it a weeknight show, after a working day and with a late trip home afterwards.
 
 November in Tashkent is coat weather once the sun goes down. Evenings are cold and dry, and the gap between a heated hall and the street outside is real. Concertgoers usually bring a jacket they can tie around their waist or leave at a cloakroom, if the venue has one, rather than shiver in the exit queue.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Indonesia International Challenge II (BWF): Dates, Tickets & Venue (Jakarta)'
-description: The Indonesia International Challenge II (BWF) takes place in Jakarta from November 17-22, 2026, and is a mid-level stop on the BWF badminton circuit.
+description: The Indonesia International Challenge II (BWF) was set for Jakarta on November 17–22, 2026, a mid-level stop on the BWF badminton circuit.
 country: Indonesia
 region: Jakarta
 category: event
@@ -13,40 +13,39 @@ eventOrganizer:
   url: https://pbsi.id
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%281%29.jpg/1280px-View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%281%29.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%281%29.jpg/1280px-View_of_Jakarta_skyline_seen_from_Jalan_Kendal%2C_Thamrin_%281%29.jpg
   credit: 'Photo: Sam Hidayat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:View_of_Jakarta_skyline_seen_from_Jalan_Kendal,_Thamrin_(1).jpg'
+  source: https://commons.wikimedia.org/wiki/File:View_of_Jakarta_skyline_seen_from_Jalan_Kendal,_Thamrin_(1).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: The Indonesia International Challenge II (BWF) takes place in Jakarta from November 17-22, 2026, and is a mid-level stop on the BWF badminton circuit. Venue and ticket details sit with the host federation rather than a big commercial ticketing platform. The week runs from early rounds to finals across six days.
+quickAnswer: The Indonesia International Challenge II (BWF) was set for Jakarta from November 17-22, 2026, as a mid-level stop on the BWF badminton circuit. Venue and ticket details sat with the host federation rather than a big commercial ticketing platform. The announced programme went from early rounds to finals across six days.
 faq:
   - q: When is the Indonesia International Challenge II (BWF) 2026?
-    a: It runs from November 17 to 22, 2026, in Jakarta. Early rounds come first and the finals are on the last day.
+    a: It was set for November 17 to 22, 2026, in Jakarta. The schedule put the early rounds first and the finals on the last day.
   - q: What level of tournament is it?
-    a: It is a BWF International Challenge, the tier just below the World Tour. Rising juniors and squad players compete there for ranking points.
+    a: It is a BWF International Challenge, the tier just below the World Tour. Rising juniors and squad players compete at this level for ranking points.
   - q: Who organises it and where do venue and ticket details come from?
-    a: BWF sanctions the event. PBSI, Indonesia's national badminton federation, hosts it and handles the venue and admission.
+    a: BWF sanctioned the event. PBSI, Indonesia's national badminton federation, was the host and was responsible for the venue and admission.
   - q: How do I get around Jakarta for the tournament?
     a: The MRT north–south line, TransJakarta buses, and the Grab and Gojek apps cover most of the city. November is rainy season, so afternoon traffic can be slow.
   - q: What events are played?
-    a: Men's and women's singles, men's and women's doubles, and mixed doubles.
+    a: The programme listed men's and women's singles, men's and women's doubles, and mixed doubles.
 aiGenerated: true
 draft: false
 ---
-
 ## Six days of shuttles in Jakarta
 
-The Indonesia International Challenge II runs from November 17 to 22, 2026. It is an International Challenge, the grade just below the BWF World Tour. Players come for ranking points that can lift them into World Tour draws.
+The Indonesia International Challenge II was set for November 17 to 22, 2026. International Challenge is the grade just below the BWF World Tour. Players come for ranking points that can lift them into World Tour draws.
 
-That shapes what you see on court. The draws are full of emerging juniors, national-squad reserves and players coming back from injury. In Indonesia, a strong home squad usually fills a large share of the draw.
+That shapes the play at this level. The draws are usually full of emerging juniors, national-squad reserves and players coming back from injury. In Indonesia, a strong home squad usually fills a large share of the draw.
 
-The "II" separates this edition from another Indonesia International Challenge on the same year's calendar. The country hosts more than one tournament at this level.
+The "II" separated this edition from another Indonesia International Challenge on the same year's calendar. The country hosts more than one tournament at this level.
 
 ## Draws, sessions and the venue
 
