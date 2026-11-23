@@ -36,6 +36,7 @@ place:
     - "Friday: 10:00 AM – 6:00 PM"
     - "Saturday: 10:00 AM – 6:00 PM"
     - "Sunday: 10:00 AM – 6:00 PM"
+  phone: '+852 3666 0606'
 tags:
   - "lantau island"
   - "local market"
