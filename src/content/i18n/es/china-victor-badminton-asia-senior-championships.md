@@ -1,74 +1,74 @@
 ---
 lang: es
 slug: china-victor-badminton-asia-senior-championships
-srcHash: 'de8c9bbb0db5'
+srcHash: '5bbfd59283d1'
 title: 'Campeonato Asiático Sénior de Bádminton VICTOR: fechas, entradas y sede (China)'
-description: Las fechas de la edición de 2026 del Campeonato Asiático Sénior de Bádminton VICTOR son del 16 al 22 de noviembre, en China, con organización de Badminton Asia.
-quickAnswer: Las fechas de la edición de 2026 del Campeonato Asiático Sénior de Bádminton VICTOR son del 16 al 22 de noviembre, en China, y su organización corre a cargo de Badminton Asia. Se trata del campeonato continental para jugadores veteranos, cuyos cuadros se dividen por grupos de edad. En su web oficial, Badminton Asia publica la ciudad anfitriona, la sede y la información sobre entradas.
+description: Las fechas anunciadas del Campeonato Asiático Sénior de Bádminton VICTOR eran del 16 al 22 de noviembre de 2026, en China. Los cuadros de veteranos se dividían por categorías de edad.
+quickAnswer: Las fechas anunciadas del Campeonato Asiático Sénior de Bádminton VICTOR (VICTOR Badminton Asia Senior Championships) eran del 16 al 22 de noviembre de 2026, en China. La organización corría a cargo de Badminton Asia. Es el campeonato continental para jugadores veteranos y sus cuadros se dividen por categorías de edad. El patrocinador principal era VICTOR, el fabricante taiwanés de raquetas y calzado.
 faq:
-  - q: ¿Cuáles son las fechas del Campeonato Asiático Sénior de Bádminton VICTOR 2026?
-    a: El campeonato va del 16 al 22 de noviembre de 2026, en China. Los partidos por las medallas suelen disputarse en las últimas jornadas, el 21–22 de noviembre.
-  - q: ¿Dónde está la sede y dónde se publican las entradas?
-    a: Badminton Asia, entidad organizadora del torneo, publica en su web oficial la ciudad anfitriona, la sede y la información sobre entradas para el público.
+  - q: ¿Cuándo era el Campeonato Asiático Sénior de Bádminton VICTOR 2026?
+    a: Las fechas anunciadas eran del 16 al 22 de noviembre de 2026, en China. Los partidos por las medallas suelen disputarse en las últimas jornadas. En 2026 esas jornadas eran el 21–22 de noviembre.
+  - q: ¿Dónde estaba la sede y dónde se publicaban las entradas?
+    a: La edición de 2026 en China la organizaba Badminton Asia, el organismo rector del bádminton en el continente. Como organizadora, le correspondían la elección de la ciudad anfitriona y de la sede, así como las entradas para el público.
   - q: ¿Quién puede competir?
-    a: Compiten jugadores veteranos, repartidos en grupos de edad que suelen empezar en 35+ y avanzan en tramos de cinco años. Las inscripciones se tramitan a través de la federación nacional de bádminton de cada país, miembro de Badminton Asia. No es posible inscribirse a título individual.
-  - q: ¿Cuánto tiempo conviene dedicar a ver partidos?
-    a: En las primeras rondas se juega en muchas pistas a la vez, de modo que en dos o tres horas da tiempo a ver varios encuentros. A quien solo le interesen las finales, le bastará con el último fin de semana del torneo, que es cuando se disputan.
+    a: Los jugadores veteranos compiten por categorías de edad. Por lo general, la primera es la de +35 y las siguientes avanzan en tramos de cinco años. Las inscripciones se tramitan a través de la federación nacional de bádminton de cada país, que es miembro de Badminton Asia. No se admiten inscripciones individuales directas.
+  - q: ¿Cuánto tiempo conviene dedicar a ver los partidos?
+    a: En las primeras rondas se juega en muchas pistas a la vez, de modo que en dos o tres horas se pueden ver varios partidos. Las finales se disputan el último fin de semana del torneo, que en 2026 era el 21–22 de noviembre.
   - q: ¿Cómo se paga la comida y el transporte en los alrededores de la sede?
-    a: En China, Alipay y WeChat Pay se aceptan prácticamente en todas partes. Ambas aplicaciones permiten a los visitantes extranjeros vincular una tarjeta bancaria internacional. Los billetes de tren se venden en 12306, la plataforma ferroviaria nacional, y van asociados al pasaporte del viajero.
+    a: En China se puede pagar con Alipay y WeChat Pay prácticamente en todas partes. Ambas aplicaciones permiten a los visitantes extranjeros vincular una tarjeta bancaria internacional. Los billetes de tren se venden en 12306, la plataforma nacional de ferrocarriles, y van asociados al pasaporte del viajero.
 ---
 
 ## Siete días de bádminton para jugadores veteranos
 
-Quienes compiten aquí nunca dejaron de jugar. El Campeonato Asiático Sénior de Bádminton VICTOR (VICTOR Badminton Asia Senior Championships) es el torneo continental con el que Badminton Asia corona a los mejores jugadores máster. Los cuadros se organizan por grupos de edad, que suelen arrancar en 35+ y avanzan en tramos de cinco años.
+Quienes compiten aquí nunca dejaron de jugar. El Campeonato Asiático Sénior de Bádminton VICTOR (VICTOR Badminton Asia Senior Championships) es la competición continental de Badminton Asia para jugadores máster. Sus cuadros se dividen por categorías de edad. Por lo general, la primera es la de +35 y las demás avanzan de cinco en cinco años.
 
-Las fechas de la edición de 2026 son del 16 al 22 de noviembre, en China. El patrocinador principal es VICTOR, fabricante taiwanés de raquetas y calzado. En cada categoría es habitual que antiguos internacionales se crucen en el cuadro con jugadores de club que llevan años preparándose para esta semana.
+Las fechas anunciadas de la edición de 2026 eran del 16 al 22 de noviembre, en China. El patrocinador principal era VICTOR, el fabricante taiwanés de raquetas y calzado. En cada categoría suelen enfrentarse antiguos jugadores internacionales y jugadores de club que llevan años preparándose para esta semana.
 
-El ritmo de juego sorprende a más de uno. Con la edad, el remate en salto pierde algo de velocidad, pero la elección de golpes se vuelve más afinada. Una pareja de dobles de 50+ con buena lectura de la pista es capaz de mantener a rivales más jóvenes atrapados en las esquinas del fondo durante peloteos enteros.
+El ritmo de juego sorprende. Con la edad, el remate en salto pierde algo de velocidad, pero la elección de los golpes se vuelve más precisa. Una pareja de dobles de +50 que lea bien la pista puede tener a rivales más jóvenes encerrados en las esquinas del fondo durante peloteos enteros.
 
 ## Cómo es una jornada en el pabellón
 
-En el pabellón se juega en muchas pistas al mismo tiempo. En los campeonatos sénior, cada grupo de edad incluye individual masculino y femenino, dobles masculino y femenino y dobles mixto, lo que supone un número enorme de partidos.
+En el pabellón se juega en muchas pistas a la vez. En los campeonatos sénior, cada categoría de edad cuenta con individual masculino y femenino, dobles masculino y femenino y dobles mixto. El resultado es un número muy elevado de partidos.
 
-Las primeras jornadas son las de mayor actividad. Filas enteras de pistas sobre tapiz sintético se disputan a la vez, cada una con su silla de árbitro al lado y las sillas de los entrenadores detrás de la línea de fondo. El público suele ir recorriendo las gradas para ver un partido y luego el siguiente.
+Las primeras jornadas son las de mayor actividad. Se juega a la vez en hileras enteras de pistas sobre tapiz sintético. Cada una tiene al lado una silla de árbitro y, detrás de la línea de fondo, las sillas de los entrenadores. El público suele recorrer las gradas para seguir primero un partido y después otro.
 
-Conforme avanza la semana, se usan menos pistas y los encuentros se igualan. Las finales suelen concentrarse en los últimos días, de modo que los partidos por las medallas se juegan el último fin de semana del torneo, el 21–22 de noviembre.
+Con el paso de los días se usan menos pistas y los partidos son cada vez más reñidos. Las finales suelen concentrarse en las últimas jornadas. En 2026, los partidos por las medallas estaban programados para el último fin de semana, el 21–22 de noviembre.
 
-La puntuación sigue el sistema habitual de punto por jugada:
+La puntuación sigue el sistema habitual, en el que cada jugada suma un punto:
 
-- Partidos al mejor de tres juegos a 21 puntos
-- Una pausa breve cuando quien va por delante llega a 11
-- Un descanso más largo entre juegos
+- Partidos al mejor de tres juegos de 21 puntos
+- Un breve descanso cuando quien va por delante llega a 11
+- Una pausa más larga entre juegos
 
 ## Entradas, sede e inscripciones
 
-Toda la información oficial procede de una sola entidad. Badminton Asia, el órgano rector continental, publica en su web oficial la ciudad anfitriona, la sede y la información para el público de sus campeonatos. Los precios de las entradas, si los hay, figuran allí o en la propia sede; esta guía no los recoge.
+Detrás del campeonato había una sola organización. Badminton Asia, el organismo rector del bádminton en el continente, era la organizadora de la edición de 2026. A ella le correspondía decidir la ciudad anfitriona, la sede y las condiciones de acceso del público.
 
-Los jugadores no se inscriben como particulares. En los campeonatos de Badminton Asia, las inscripciones llegan a través de las federaciones nacionales miembros. Un veterano que quiera competir debe solicitarlo a la federación de bádminton de su país, que se ocupa de las nominaciones y del papeleo.
+El público no puede inscribirse para jugar. Los campeonatos de Badminton Asia admiten inscripciones a través de sus federaciones nacionales miembro. Un veterano que quiera competir tiene que solicitarlo a la federación de bádminton de su país, que se ocupa de las nominaciones y del papeleo.
 
-El público de los campeonatos sénior suele estar formado por los propios jugadores, sus parejas, sus familias y los delegados de los equipos. Muchos de los que ocupan las gradas ya han jugado ese mismo día o esperan su turno.
+En los campeonatos sénior, el público suele estar formado por los propios competidores, sus compañeros y familiares y los delegados de los equipos. Muchos de los que ocupan la grada ya han jugado ese mismo día o esperan su turno.
 
-## Normas de cortesía junto a la pista en un pabellón chino
+## Normas de cortesía en un pabellón chino
 
-El bádminton es uno de los deportes más practicados en China. Gente de todas las edades reserva pista en los polideportivos de barrio al salir del trabajo, así que el público suele conocer bien las normas de cortesía. Esto es lo que acostumbran a hacer los habituales:
+El bádminton es uno de los deportes más practicados de China. Al salir del trabajo, personas de todas las edades reservan pista en los polideportivos de barrio, así que el público suele conocer bien las normas de comportamiento. Los aficionados habituales suelen seguir estas costumbres:
 
-- **Quedarse quieto durante los peloteos.** Los espectadores solo se dirigen a su asiento o se mueven por las gradas entre punto y punto, o en la pausa de los 11 puntos.
-- **Prescindir del flash.** Puede distraer a los jugadores mientras siguen un volante a gran velocidad, por lo que en los pabellones las fotos con el móvil suelen hacerse sin él.
-- **Aplaudir a ambos lados.** Un peloteo largo suele recibir aplausos para los dos jugadores, sea cual sea su procedencia.
-- **Pagar con el móvil.** En China, Alipay y WeChat Pay se aceptan prácticamente en todas partes, desde los quioscos de la sede hasta los puestos callejeros. Ambas aplicaciones permiten a los visitantes extranjeros vincular una tarjeta bancaria internacional.
+- **Quietos durante los peloteos.** Para ir a su asiento o desplazarse por las gradas, los espectadores esperan a que termine el punto o al descanso de los 11 puntos.
+- **Sin flash.** El flash puede distraer a los jugadores mientras siguen un volante a gran velocidad. Por eso, en los pabellones las fotos con el móvil suelen hacerse sin él.
+- **Aplausos para los dos.** Tras un peloteo largo, el público suele aplaudir a ambos jugadores, sea cual sea su procedencia.
+- **Pago con el móvil.** En China se paga con Alipay y WeChat Pay prácticamente en todas partes, desde los quioscos del recinto hasta los puestos de comida callejera. Ambas aplicaciones permiten a los visitantes extranjeros vincular una tarjeta bancaria internacional.
 
-En chino, el bádminton se llama *yǔmáoqiú* (羽毛球), literalmente «pelota de plumas». La palabra resulta útil para pedir indicaciones a un taxista o al personal del hotel.
+En chino, el bádminton se llama *yǔmáoqiú* (羽毛球), que literalmente significa «pelota de plumas». Conviene conocer la palabra para pedir indicaciones a un taxista o al personal del hotel.
 
-## Moverse por China a finales de noviembre
+## Cómo moverse por China a finales de noviembre
 
-El tiempo varía mucho según la ciudad anfitriona. A finales de noviembre, en el norte suele hacer frío, y en ciudades como Pekín o Harbin las noches son de heladas. En el sur, en la zona de Cantón y Shenzhen, el clima sigue siendo templado. Qué llevar en la maleta depende por completo de dónde esté la sede.
+El tiempo depende mucho de la ciudad anfitriona. A finales de noviembre suele hacer frío en el norte, y en ciudades como Pekín y Harbin las noches son bajo cero. En el sur, en torno a Cantón y Shenzhen, las temperaturas siguen siendo suaves. El equipaje depende por completo de dónde esté la sede.
 
-La red de alta velocidad china conecta la mayoría de las grandes ciudades. Los billetes se venden en 12306, la plataforma ferroviaria nacional. Los visitantes extranjeros compran los billetes y cruzan los tornos de las estaciones con el pasaporte, por lo que lo llevan siempre encima los días de viaje.
+La red china de alta velocidad conecta la mayoría de las grandes ciudades. Los billetes se venden en 12306, la plataforma nacional de ferrocarriles. Los visitantes extranjeros necesitan el pasaporte tanto para comprar el billete como para cruzar los tornos de las estaciones, así que lo llevan encima los días de viaje.
 
-Dentro de las ciudades, la aplicación de VTC Didi es la alternativa habitual a parar un taxi en la calle. Su interfaz en inglés facilita llegar a un pabellón situado en las afueras. Al registrarse, los hoteles comunican a la policía local los datos del pasaporte de los huéspedes extranjeros. Es un trámite rutinario y explica por qué el personal fotocopia o escanea el pasaporte.
+Dentro de las ciudades, lo habitual en lugar de parar un taxi en la calle es pedir un coche con la aplicación Didi. Su interfaz en inglés resulta práctica para llegar a un pabellón de las afueras. Cuando un huésped extranjero se registra en un hotel, el establecimiento comunica los datos de su pasaporte a la policía local. Se trata de un trámite rutinario, y por eso el personal fotocopia o escanea el pasaporte.
 
-## A quién le saca más partido
+## Quién le saca más partido
 
-El campeonato encaja con un tipo de viajero muy concreto. Quien juegue al bádminton en un club podrá ver a jugadores de su misma franja de edad ejecutar golpes de alto nivel. Las familias de los participantes suelen alojarse cerca de la sede, ya que un mismo jugador puede tener partidos repartidos entre la sesión de mañana y la de tarde.
+El campeonato encaja con un perfil de viajero muy concreto. Los jugadores de club pueden ver a gente de su misma franja de edad ejecutar golpes de gran nivel. Las familias de los competidores suelen alojarse cerca de la sede, porque un mismo jugador puede tener partidos tanto en la sesión de mañana como en la de tarde.
 
-Para el aficionado al deporte en general que visite China a mediados de noviembre, puede ser un plan de unas cuantas horas viendo a jugadores veteranos aplicar auténtica táctica. La mayoría de los puntos se ganan con colocación, no con potencia.
+Al aficionado al deporte en general que estuviera en China a mediados de noviembre, el campeonato le ofrecía unas horas de juego táctico a cargo de jugadores con mucha experiencia. La mayoría de los peloteos se ganan más por colocación que por potencia.

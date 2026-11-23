@@ -1,96 +1,96 @@
 ---
 lang: es
 slug: bandung-summarecon-bandung-run-fest
-srcHash: '9a6435744ac4'
+srcHash: '1ba1d22b8bcd'
 title: 'Summarecon Bandung Run Fest: fechas, inscripciones y sede (Bandung)'
-description: La fecha de la edición de 2026 del Summarecon Bandung Run Fest es el 22 de noviembre de 2026. Todas las carreras salen de Summarecon Bandung, la ciudad residencial de la zona de Gedebage, en el extremo oriental de Bandung.
-quickAnswer: 'La fecha de la edición de 2026 del Summarecon Bandung Run Fest es el 22 de noviembre de 2026. Todas las pruebas salen de Summarecon Bandung, una ciudad residencial situada en la zona de Gedebage, en el extremo oriental de Bandung. El programa consta de cuatro categorías: el Kid Dash, pensado para los niños, un 10K, una media maratón y una maratón completa. Como la salida queda muy lejos del casco antiguo, quienes llegan desde el centro de Bandung o desde Yakarta suelen alojarse en el este de la ciudad.'
+description: El Summarecon Bandung Run Fest tenía fecha el 22 de noviembre de 2026 en Summarecon Bandung, la ciudad satélite del distrito de Gedebage, en el extremo oriental de Bandung.
+quickAnswer: 'La fecha anunciada del Summarecon Bandung Run Fest era el 22 de noviembre de 2026, y todas las carreras salían de Summarecon Bandung, una ciudad satélite situada en el distrito de Gedebage, en el extremo oriental de Bandung. El festival constaba de cuatro categorías: una carrera infantil (Kid Dash), un 10K, una media maratón y una maratón completa. Como la salida queda muy lejos del casco antiguo, los corredores que venían del centro de Bandung o de Yakarta solían alojarse en la zona este de la ciudad.'
 faq:
-  - q: ¿Cuándo y dónde es el Summarecon Bandung Run Fest 2026?
-    a: La fecha de la edición de 2026 es el 22 de noviembre de 2026. Todas las pruebas salen de Summarecon Bandung, la ciudad residencial de la zona de Gedebage, en el extremo oriental de Bandung, muy cerca de la salida de Gedebage de la autopista de peaje Purbaleunyi.
-  - q: ¿Qué categorías hay?
-    a: 'Son cuatro: el Kid Dash, una carrera infantil, un 10K, una media maratón (21.1 km) y una maratón completa (42.195 km). La organización fija las oleadas de salida y los tiempos de corte de cada una.'
-  - q: ¿Cómo se llega a la salida desde Yakarta?
-    a: En coche, por la autopista de peaje hasta la salida de Gedebage, muy próxima a la ciudad residencial. En tren, la estación de Tegalluar de la línea de alta velocidad queda cerca de Gedebage. Los trenes convencionales, como el Argo Parahyangan, llegan a la estación de Bandung, desde donde hay que atravesar la ciudad. La mayoría de los visitantes completa el trayecto con Grab o Gojek.
+  - q: ¿Cuándo y dónde era el Summarecon Bandung Run Fest 2026?
+    a: La fecha fijada era el 22 de noviembre de 2026, y la salida de todas las carreras estaba en Summarecon Bandung, la ciudad satélite del distrito de Gedebage, en el extremo oriental de Bandung. Este complejo se encuentra cerca de la salida de Gedebage de la autopista de peaje Purbaleunyi.
+  - q: ¿Qué categorías tenía la carrera?
+    a: 'El festival ofrecía cuatro: una carrera infantil (Kid Dash), un 10K, una media maratón (21,1 km) y una maratón completa (42,195 km). La organización establecía las oleadas de salida y los tiempos de corte de cada una.'
+  - q: ¿Cómo se llegaba a la salida desde Yakarta?
+    a: En coche, la autopista de peaje lleva hasta la salida de Gedebage, muy próxima a la ciudad satélite. En tren, la estación de Tegalluar, de la línea de alta velocidad, está cerca de Gedebage. Los trenes convencionales, como el Argo Parahyangan, terminan en la estación de Bandung, desde donde hay que cruzar toda la ciudad. La mayoría de los visitantes completaban el trayecto con Grab o Gojek.
   - q: ¿Qué tiempo hace en Bandung en noviembre?
-    a: Noviembre pertenece a la estación de lluvias. Los aguaceros suelen caer por la tarde y por la noche, mientras que las mañanas tienden a ser frescas y más secas. Al estar a unos 700 metros de altitud, Bandung amanece más fresca que Yakarta, aunque el asfalto puede seguir mojado por la lluvia de la noche anterior.
-  - q: ¿Dónde suelen alojarse los corredores?
-    a: Muchos se hospedan en hoteles del este de Bandung para acortar el trayecto a Gedebage antes del amanecer. Otros eligen el centro, cerca de Jalan Braga y Asia Afrika, para tener más a mano restaurantes y lugares de interés después de la carrera.
+    a: Noviembre pertenece a la estación de lluvias. Los aguaceros suelen caer por la tarde y por la noche, mientras que las mañanas tienden a ser frescas y más secas. Bandung está a unos 700 metros de altitud, por lo que sus madrugadas son más frescas que las de Yakarta, aunque las calzadas pueden amanecer mojadas por la lluvia de la noche anterior.
+  - q: ¿Dónde solían alojarse los corredores?
+    a: Muchos elegían hoteles de la zona este de Bandung para acortar el desplazamiento de madrugada hasta Gedebage. Otros preferían el centro, cerca de Jalan Braga y de Asia Afrika, lo que les dejaba más cerca de restaurantes y lugares de interés después de la carrera.
 ---
 
-## Una línea de salida en el extremo oriental
+## Una salida en el extremo oriental
 
-El casco antiguo de Bandung se articula en torno a la calle Jalan Asia Afrika y la plaza del Alun-Alun, pero esta carrera arranca bastante lejos de allí. La fecha de la edición de 2026 del Summarecon Bandung Run Fest es el 22 de noviembre de 2026, y la salida está en Summarecon Bandung. Se trata de una ciudad residencial planificada en Gedebage, donde la urbe se extiende hacia el este, en dirección a la llanura arrocera.
+El casco antiguo de Bandung se articula en torno a Jalan Asia Afrika y la plaza del Alun-Alun, pero la salida de esta carrera quedaba bastante lejos de allí. El Summarecon Bandung Run Fest tenía como fecha el 22 de noviembre de 2026 y como punto de partida Summarecon Bandung. Se trata de una ciudad satélite planificada en Gedebage, donde la urbe se extiende hacia el este, en dirección a la llanura de arrozales.
 
-Buena parte del carácter de la prueba se lo da el entorno. En lugar de las calles empinadas y abarrotadas del norte de Bandung, en torno a Dago, aquí el corredor encuentra avenidas anchas de asfalto reciente y bulevares ajardinados. Las mañanas despejadas dejan ver en el horizonte las montañas que rodean la cuenca de Bandung: al norte se alza el Tangkuban Perahu y detrás de la ciudad se recortan las sierras del sur.
+Es precisamente el entorno lo que distingue este recorrido. En lugar de las calles empinadas y congestionadas del norte de Bandung, en torno a Dago, aquí hay avenidas anchas de asfalto reciente y bulevares ajardinados. En las mañanas despejadas, las montañas que rodean la cuenca de Bandung se recortan en el horizonte: al norte, el Tangkuban Perahu, y detrás de la ciudad, las cordilleras del sur.
 
 ## Cuatro distancias y un único punto de encuentro
 
-El festival reúne en una misma zona de salida a corredores de perfiles muy distintos. Estas son sus cuatro categorías:
+El festival se concibió con una sola zona de salida para corredores de perfiles muy distintos. Constaba de cuatro categorías:
 
-- **Kid Dash**: una carrera corta infantil, la que atrae a las familias
+- **Carrera infantil (Kid Dash)**: un recorrido corto para niños, el que atrae a las familias
 - **10K**: la puerta de entrada para la mayoría de los corredores de club y aficionados
-- **Media maratón**: 21.1 km
-- **Maratón**: la distancia oficial de 42.195 km
+- **Media maratón**: 21,1 km
+- **Maratón completa**: los 42,195 km reglamentarios
 
-Los recorridos, los tiempos de corte y las oleadas de salida los fija la organización, así que aquí no nos aventuramos a adelantarlos. En Indonesia, las distancias más largas suelen salir de noche o con las primeras luces, y las pruebas cortas van después. Así los organizadores se adelantan al calor y al tráfico de la ciudad.
+La organización se encargaba de fijar los recorridos, los tiempos de corte y las oleadas de salida. En Indonesia, las distancias largas suelen arrancar todavía de noche o al despuntar el día, y las carreras cortas salen después. Así los organizadores se adelantan al calor y al tráfico de la ciudad.
 
-Lo habitual es que alrededor de la salida se monte una villa del corredor. En los festivales de running indonesios, eso suele traducirse en carpas de patrocinadores, una zona de guardarropa y un espacio donde las familias pueden esperar. Como la jornada ocupa toda la mañana, el Kid Dash resulta muy práctico para los padres que también corren.
+Los festivales de running indonesios acostumbran a montar una villa de corredores junto a la salida, con carpas de patrocinadores, guardarropa y un espacio donde esperan las familias. Una mañana de festival se hace larga, de modo que la carrera infantil resulta práctica para los padres que también compiten.
 
 ## Cómo llegar a Gedebage
 
-La ubicación favorece a quienes vienen de fuera. Gedebage linda con la autopista de peaje Purbaleunyi, que cuenta con una salida propia llamada Gedebage. Quien conduzca desde Yakarta puede abandonar la autopista muy cerca de la ciudad residencial y ahorrarse así el lento avance por el centro de Bandung.
+La ubicación favorece a quienes vienen de fuera. Gedebage linda con la autopista de peaje Purbaleunyi, que tiene una salida con su mismo nombre. Quien conduce desde Yakarta puede abandonar la autopista muy cerca de la ciudad satélite y ahorrarse los atascos del centro de Bandung.
 
-Bandung y la capital están unidas por dos opciones ferroviarias:
+Bandung está unida a la capital por dos vías ferroviarias:
 
-- **El Argo Parahyangan y otros trenes convencionales** terminan en la estación de Bandung, cerca del centro. Desde allí hay que cruzar la ciudad en coche hacia el este.
-- **La línea de alta velocidad Yakarta-Bandung** para en la estación de Tegalluar, al este de Gedebage, mucho más próxima a la salida que la estación de Bandung.
+- **El Argo Parahyangan y otros trenes convencionales** llegan a la estación de Bandung, cerca del centro. Desde allí queda un trayecto hacia el este atravesando la ciudad.
+- **La línea de alta velocidad Yakarta–Bandung** para en la estación de Tegalluar, al este de Gedebage, mucho más cerca de la ciudad satélite que la estación de Bandung.
 
-Para moverse por la ciudad, la mayoría de los visitantes recurre a aplicaciones de transporte como Grab y Gojek, más baratas y cómodas que regatear con un taxista. Muchos corredores se alojan en hoteles del este de la ciudad para estar cerca de la salida. Otros comparten coche antes del amanecer para no quedar atrapados entre la multitud en la zona de bajada.
+Para moverse por la ciudad, la mayoría de los visitantes recurren a aplicaciones de transporte como Grab y Gojek, más baratas y cómodas que regatear con un taxista. Debido a lo temprano de las salidas en Gedebage, muchos corredores se alojan en hoteles de la zona este. Otros comparten coche antes del amanecer para no quedar atrapados entre la multitud en el punto de bajada.
 
-Para orientarse sirven de ayuda algunos puntos de referencia cercanos. En la zona de Gedebage se encuentran tanto el estadio de fútbol Gelora Bandung Lautan Api como la Gran Mezquita Al Jabbar, cuyo amplio tejado escalonado se eleva sobre un lago. Cualquier conductor los conoce.
+Para orientarse sirven de referencia dos lugares cercanos que cualquier conductor conoce: el estadio de fútbol Gelora Bandung Lautan Api y la Gran Mezquita Al Jabbar, con su amplio tejado escalonado sobre un lago. Ambos están en la zona de Gedebage.
 
-## Correr al comienzo de la estación húmeda
+## Correr en plena estación de lluvias
 
-Aquí la fecha tiene su importancia, porque noviembre cae en plena estación de lluvias de Bandung. En la ciudad, la lluvia no suele ser una llovizna constante, sino fuertes aguaceros por la tarde y por la noche. Las mañanas acostumbran a ser el momento más seco del día, y esa es una de las razones por las que las pruebas largas salen tan temprano.
+La fecha tiene su importancia, porque noviembre cae dentro de la estación lluviosa de Bandung. En la ciudad la lluvia no suele ser una llovizna continua, sino fuertes chaparrones por la tarde y por la noche. Las mañanas son con frecuencia el momento más seco del día, y esa es una de las razones por las que las pruebas de fondo empiezan aquí tan temprano.
 
-Situada a unos 700 metros sobre el nivel del mar, la ciudad es bastante más fresca que Yakarta, sobre todo antes de que salga el sol. A los corredores que viven al nivel del mar los primeros kilómetros suelen resultarles agradables, aunque la humedad sube rápidamente en cuanto amanece.
+Situada a unos 700 metros sobre el nivel del mar, Bandung es notablemente más fresca que Yakarta, sobre todo antes del amanecer. A los corredores que viven a nivel del mar los primeros kilómetros les suelen resultar agradables, aunque la humedad sube deprisa en cuanto sale el sol.
 
-Si ha llovido por la noche, es posible que el asfalto siga mojado y con charcos a la hora de la salida. Por eso los corredores locales con experiencia suelen llevar:
+Tras una noche de lluvia, al inicio de la carrera las calzadas pueden seguir mojadas y llenas de charcos. Por eso los corredores locales con experiencia suelen llevar:
 
 - un chubasquero barato o una bolsa de basura para la espera en el cajón de salida
 - ropa seca en la bolsa del guardarropa
-- crema antirrozaduras, porque la ropa mojada roza más
-- una bolsa de plástico para proteger el teléfono y el contenido de la bolsa del corredor
+- crema antirrozaduras, ya que la ropa mojada roza más
+- una bolsa de plástico para proteger el móvil y el contenido de la bolsa del corredor
 
-## Buenos modales en una ciudad sundanesa
+## Cortesía sundanesa en la mañana de carrera
 
-Bandung es la principal ciudad del pueblo sundanés, y allí la cortesía cotidiana se valora mucho. Un «terima kasih» en indonesio o un «hatur nuhun» en sundanés dirigido a los voluntarios de los avituallamientos causa muy buena impresión, y la gente lo agradece.
+Bandung es la principal ciudad del pueblo sundanés, y la cortesía cotidiana se valora mucho. Un «terima kasih» en indonesio, o un «hatur nuhun» en sundanés, causa muy buena impresión entre los voluntarios que reparten agua, y la gente lo agradece.
 
-Hoy en día casi todo se paga sin efectivo. Muchos puestos y cafeterías aceptan QRIS, el sistema nacional de códigos QR, que se escanea con monederos electrónicos indonesios como GoPay, OVO y DANA. Fuera del recinto del evento, los vendedores ambulantes pueden seguir prefiriendo billetes pequeños de rupias. En los puestos de comida no se espera propina, aunque redondear la tarifa al conductor del vehículo es un detalle amable.
+Hoy en día casi todo se paga sin efectivo. Muchos puestos y cafeterías aceptan QRIS, el sistema nacional de códigos QR, compatible con monederos electrónicos indonesios como GoPay, OVO y DANA. Fuera del recinto del evento, los vendedores ambulantes todavía pueden pedir billetes pequeños de rupias. En los puestos de comida no se espera propina, aunque redondear la tarifa al conductor de la aplicación es un detalle amable.
 
-Durante el recorrido, los ánimos de los vecinos forman parte de la experiencia. En las zonas residenciales es frecuente que las familias salgan a la calle, y los corredores suelen devolverles el saludo con la mano.
+En los recorridos de Bandung, los ánimos de los vecinos forman parte de la experiencia. En las zonas residenciales es habitual que familias enteras salgan a la acera, y los corredores suelen devolverles el saludo.
 
-Lejos de la villa del corredor conviene vestir con recato. Basta con ponerse la camiseta de finisher sobre el pantalón corto. Si después visita la mezquita Al Jabbar, cúbrase hombros y rodillas y descálcese donde lo hagan los demás.
+Lejos de las zonas de carrera se impone la ropa discreta. Basta con la camiseta de finisher sobre el pantalón corto. Quienes visitan la mezquita Al Jabbar se cubren hombros y rodillas, y se descalzan allí donde lo hacen los demás.
 
-## Reponer fuerzas al estilo de Bandung
+## Reponer fuerzas a la manera de Bandung
 
-Bandung es famosa en toda Indonesia por sus tentempiés y su cocina sundanesa, y el apetito de después de la carrera es la mejor excusa para probarlos. Estos son algunos de los platos que merece la pena buscar:
+Bandung goza de fama en toda Indonesia por sus tentempiés y su cocina sundanesa, y el apetito que deja una carrera es la mejor excusa para probarlos. Entre los favoritos locales figuran:
 
 - **Batagor**: buñuelos fritos de pescado y tofu bañados en salsa de cacahuete, una creación de Bandung
 - **Siomay**: la versión al vapor, acompañada de col, patata y huevo
 - **Kupat tahu**: pastel de arroz y tofu con salsa de cacahuete, un desayuno clásico
-- **Surabi**: pequeñas tortitas de harina de arroz, dulces o saladas, hechas en moldes de barro
-- **Nasi timbel**: arroz envuelto en hoja de plátano, servido con pollo frito, tofu, tempeh y sambal
+- **Surabi**: pequeñas tortitas de harina de arroz cocinadas en moldes de barro, dulces o saladas
+- **Nasi timbel**: arroz envuelto en hoja de plátano con pollo frito, tofu, tempeh y sambal
 
-En ciudades residenciales como Summarecon suele haber hileras de locales comerciales y zonas de restauración. Sin embargo, los puestos que preparan estos platos se concentran sobre todo en los barrios antiguos. Muchos corredores se duchan y luego se van al centro de Bandung para comer sin prisas.
+Las ciudades satélite como Summarecon suelen contar con hileras de locales comerciales y zonas de restauración. Sin embargo, los puestos que preparan estos platos se concentran sobre todo en los barrios antiguos, así que muchos corredores se duchan y luego se dirigen al centro de Bandung para comer sin prisas.
 
-## Un fin de semana completo
+## Aprovechar el fin de semana
 
 Pocos viajan a Bandung solo por una mañana de carrera, y la ciudad ofrece mucho más para el resto del fin de semana:
 
-- **Jalan Braga**: edificios art déco y cafeterías de la época colonial
-- **Gedung Sate**: la sede del gobierno provincial, cuyo nombre se debe al remate en forma de brocheta de su tejado
-- **Museo Asia Afrika**: en la calle donde se celebró la Conferencia de Bandung de 1955
+- **Jalan Braga**: edificios art déco y cafés de la época colonial
+- **Gedung Sate**: la sede del gobierno provincial, cuyo nombre alude al ornamento en forma de brocheta de su tejado
+- **Museo Asia-África (Asia Afrika Museum)**: en la calle vinculada a la Conferencia de Bandung de 1955
 
-Si las piernas piden descanso, quizá apetezca más el frescor de las colinas. Al norte, Lembang es la escapada habitual, con sus campos de fresas y sus vistas al volcán. Al cráter del Tangkuban Perahu se puede llegar en media jornada. Como en la estación de lluvias las tardes se estropean pronto, la mayoría de los visitantes se resguarda bajo techo a media tarde, algo que a un corredor cansado le viene de maravilla.
+Las colinas, más frescas, sientan bien a unas piernas en recuperación. Al norte, Lembang es la escapada habitual por sus granjas de fresas y sus vistas al volcán. El cráter del Tangkuban Perahu da para una excursión de medio día. En la estación lluviosa, las tardes devuelven a casi todos los visitantes a cubierto a media tarde, algo que a los corredores cansados no les viene nada mal.

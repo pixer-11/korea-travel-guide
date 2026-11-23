@@ -1,78 +1,78 @@
 ---
 lang: es
 slug: dubai-dubai-run
-srcHash: '454cc139fc64'
+srcHash: 'c15fa87ed606'
 title: 'Dubai Run: fechas, entradas y lugar (Dubái)'
-description: La edición de 2026 de Dubai Run es el domingo 22 de noviembre de 2026 en Sheikh Zayed Road, en Dubái. Ofrece recorridos de 5km y 10km y forma parte del Dubai Fitness Challenge.
-quickAnswer: La edición de 2026 de Dubai Run es el domingo 22 de noviembre de 2026 en Sheikh Zayed Road, en Dubái. Ofrece recorridos de 5km y 10km y forma parte del Dubai Fitness Challenge. Se presenta como la mayor carrera popular gratuita del mundo, así que no hay entradas de pago. En la web oficial del Dubai Fitness Challenge, el organizador publica los mapas de los recorridos y la inscripción gratuita.
+description: La Dubai Run tenía fecha el domingo 22 de noviembre de 2026 en Sheikh Zayed Road, en Dubái. Dentro del Dubai Fitness Challenge, ofrecía recorridos de 5km y 10km.
+quickAnswer: La Dubai Run tenía fecha el domingo 22 de noviembre de 2026 en Sheikh Zayed Road, en Dubái. Formaba parte del Dubai Fitness Challenge y ofrecía dos recorridos, de 5km y de 10km. Se anunció como la carrera popular gratuita más grande del mundo, de modo que no había entradas de pago. La inscripción no costaba nada y la organización facilitaba los mapas del recorrido a los inscritos.
 faq:
-  - q: ¿Cuándo y dónde es Dubai Run 2026?
-    a: La edición de 2026 de Dubai Run es el domingo 22 de noviembre de 2026 en Sheikh Zayed Road. Esta autopista pasa junto a Downtown Dubai, las Emirates Towers y el Burj Khalifa.
-  - q: ¿Hace falta entrada para Dubai Run?
-    a: No hay entradas de pago. El evento se presenta como la mayor carrera popular gratuita del mundo, y la inscripción, también gratuita, se hace a través de la web oficial del Dubai Fitness Challenge, donde además se publican los mapas de los recorridos y los horarios de salida.
-  - q: ¿Qué distancia conviene elegir?
-    a: Los 5km son ideales para familias, para quienes van caminando y para quienes participan por primera vez, y en este recorrido abundan los carritos de bebé. Los 10km atraen a corredores habituales que buscan un trayecto más largo por la autopista cortada al tráfico.
+  - q: ¿Cuándo y dónde fue la Dubai Run 2026?
+    a: La fecha anunciada era el domingo 22 de noviembre de 2026, en Sheikh Zayed Road. Esta autopista pasa junto a Downtown Dubai, las Emirates Towers y el Burj Khalifa.
+  - q: ¿Hacía falta entrada para la Dubai Run?
+    a: No había entradas de pago. El evento se anunció como la carrera popular gratuita más grande del mundo, y la inscripción a través del Dubai Fitness Challenge era gratuita. La organización facilitaba a los inscritos los mapas del recorrido y los horarios de salida.
+  - q: ¿Qué distancia convenía elegir?
+    a: El recorrido de 5km era el familiar, pensado para familias, caminantes y quienes se estrenaban; en carreras populares de este tipo es habitual ver cochecitos de bebé. El de 10km se dirigía a corredores habituales con ganas de un trayecto más largo por la autopista cerrada al tráfico.
   - q: ¿Cómo se llega a la salida?
-    a: La mayoría de la gente va en la Línea Roja del metro de Dubái, que discurre en paralelo a Sheikh Zayed Road y tiene estaciones como Emirates Towers, Financial Centre, World Trade Centre y Burj Khalifa/Dubai Mall. El billete se paga con la tarjeta Nol.
-  - q: ¿Qué se puede hacer cerca después de la carrera?
-    a: El Dubai Mall, el Burj Khalifa y el Museo del Futuro están cerca del recorrido. Muchos participantes van a desayunar a las cafeterías de Downtown Dubai y DIFC al terminar.
+    a: La mayoría de la gente utiliza la línea Roja del metro de Dubái, que discurre en paralelo a Sheikh Zayed Road. Entre sus estaciones figuran Emirates Towers, Financial Centre, World Trade Centre y Burj Khalifa/Dubai Mall. Los billetes se pagan con la tarjeta Nol.
+  - q: ¿Qué hay cerca para después de la carrera?
+    a: El Dubai Mall, el Burj Khalifa y el Museo del Futuro (Museum of the Future) quedan muy cerca del recorrido. Además, los cafés de Downtown Dubai y del DIFC son lugares muy concurridos para desayunar tras una carrera matinal.
 ---
 
 ## Doce carriles sin coches
 
-Lo habitual es que Sheikh Zayed Road sea una autopista. Esta gran arteria de Dubái tiene varios carriles por sentido y está flanqueada por torres de cristal. A cualquier hora del día, el tráfico circula por ella entre la ciudad antigua y la Marina. El domingo 22 de noviembre de 2026, sin embargo, los coches ceden su sitio a las personas con motivo de Dubai Run.
+En condiciones normales, Sheikh Zayed Road es una autopista. Se trata de la gran arteria de Dubái: una vía de múltiples carriles flanqueada por torres de cristal por la que, a cualquier hora, circula el tráfico entre la ciudad antigua y la Marina. El domingo 22 de noviembre de 2026, la Dubai Run iba a cederla a los peatones.
 
-Los participantes caminan o trotan por el centro de la calzada, un lugar que ningún peatón pisa en condiciones normales. A su lado se alzan las Emirates Towers, el Museo del Futuro (Museum of the Future) y el Burj Khalifa, en pleno Downtown Dubai. Bajo las zapatillas hay asfalto de verdad, con las marcas de los carriles pintadas, y la Línea Roja del metro de Dubái discurre en paralelo sobre su viaducto.
+El trazado se dibujó por el centro de la calzada, un lugar que ningún peatón pisa habitualmente. A un lado se alzan, en Downtown Dubai, las Emirates Towers, el Museo del Futuro (Museum of the Future) y el Burj Khalifa. El firme es asfalto corriente, con las marcas de los carriles pintadas, y junto a él discurre en viaducto la línea Roja del metro de Dubái.
 
-El evento se presenta como la mayor carrera popular gratuita del mundo. Forma parte del Dubai Fitness Challenge, la iniciativa con la que la ciudad anima a sus habitantes a moverse durante un mes entero. La carrera llega casi al final de ese mes.
+El evento se anunció como la carrera popular gratuita más grande del mundo. Se enmarcaba en el Dubai Fitness Challenge, la iniciativa con la que la ciudad anima durante un mes entero a sus residentes a hacer ejercicio. La carrera estaba programada para los últimos días de ese mes.
 
-## ¿5km o 10km?
+## Entre 5km y 10km
 
-Hay dos recorridos, y cada uno atrae a un público distinto. En resumen:
+Había dos recorridos, cada uno pensado para un público distinto. El formato anunciado era sencillo:
 
-- **5km:** el recorrido familiar. Aquí abundan los carritos de bebé, los niños, los grupos que caminan y quienes participan por primera vez.
-- **10km:** el circuito más largo. Lo eligen los corredores habituales y todo aquel que quiera disfrutar más tiempo del perfil de los rascacielos.
-- **Ambos:** son gratuitos, tienen un espíritu ajeno al cronómetro y transcurren por la autopista cortada al tráfico.
+- **5km:** el recorrido familiar, ideal para cochecitos, niños, grupos de caminantes y quienes se estrenaban.
+- **10km:** el circuito largo, para corredores habituales y para quien quisiera disfrutar más del perfil de los rascacielos.
+- **Ambos:** gratuitos, con un espíritu ajeno al cronómetro y trazados sobre la autopista cerrada al tráfico.
 
-Los 5km son una carrera popular en el sentido más literal. Mucha gente los recorre andando de principio a fin con sus amigos y se detiene a hacerse fotos con el Burj Khalifa de fondo. En los 10km hay más corredores de ritmo constante, aunque nadie aspira a subir al podio.
+Los 5km eran una carrera popular en el sentido más genuino. En recorridos de este tipo, mucha gente camina de principio a fin con sus amigos y se detiene a hacerse fotos con el Burj Khalifa de fondo. Los 10km se dirigían a corredores más constantes, aunque no había podio en juego.
 
-El Dubai Fitness Challenge publica en su web oficial los mapas de los recorridos, los horarios de salida y la inscripción. Inscribirse es gratis, y por esa misma vía los participantes reciben los datos de su participación.
+La inscripción era gratuita. La organización facilitaba a los inscritos los mapas del recorrido, los horarios de salida y la información de acceso.
 
 ## Cómo llegar a Sheikh Zayed Road el día de la carrera
 
-La opción más evidente es la Línea Roja. Su viaducto elevado sigue el trazado de Sheikh Zayed Road, y varias de sus estaciones quedan cerca del recorrido:
+La opción más evidente es la línea Roja, que sigue el trazado de Sheikh Zayed Road sobre un viaducto elevado. Estas son las estaciones próximas al recorrido:
 
 - **Emirates Towers**
 - **Financial Centre**
 - **Burj Khalifa/Dubai Mall**
 - **World Trade Centre**
 
-Ir en coche tiene poco sentido cuando la principal vía de la ciudad está cerrada. La mayoría de los participantes van en metro, toman un taxi hasta el límite de la zona cortada o se acercan a pie desde los hoteles de Downtown Dubai y DIFC.
+Con la principal vía de la ciudad cortada, ir en coche tiene poco sentido. En los días de carrera, la mayoría de los participantes suele llegar en metro, en taxi hasta el límite de la zona cerrada o a pie desde los hoteles de Downtown Dubai y del DIFC.
 
-El billete de metro se paga con la tarjeta Nol, que se acerca al lector de los tornos tanto al entrar como al salir. Los visitantes suelen comprarla en las máquinas o en la taquilla de la estación. La mañana de la carrera, los vagones se llenan de gente que ya viaja con la ropa deportiva puesta.
+El metro se paga con la tarjeta Nol, que se pasa por los tornos al entrar y al salir. Los visitantes suelen comprarla en las máquinas o en la taquilla de la estación. Las mañanas de carrera, los vagones acostumbran a llenarse de gente ya vestida de deporte.
 
 ## Normas de cortesía en la salida
 
-Al tratarse de un evento popular, las costumbres reflejan ese carácter. Por lo general, los corredores más rápidos se colocan en la parte delantera de su tanda. Quienes caminan, las familias y los carritos suelen situarse hacia atrás, y así se evita que el primer kilómetro se convierta en un embudo.
+Al tratarse de un evento popular, las costumbres responden a ese espíritu. Por lo general, los corredores más rápidos se colocan en la parte delantera de su tanda. Los caminantes, las familias y los cochecitos suelen situarse al final, lo que evita que el primer kilómetro se convierta en un embudo.
 
-Los grupos que avanzan en fila suelen ceñirse a una parte de la calzada para dejar sitio a los corredores que adelantan. Si quiere detenerse para hacer una foto, apártese primero hacia el borde: detrás de usted vienen cientos de personas a paso de caminata.
+Los grupos que caminan juntos tienden a ocupar solo una parte de la calzada para dejar paso a los corredores. Quien quiere hacerse una foto suele apartarse antes hacia un lado, porque detrás avanzan al paso cientos de personas.
 
-Aquí lo normal es la ropa deportiva corriente, y la vestimenta es informal, como corresponde a un evento deportivo. Fuera del recorrido, en cambio, los centros comerciales y el metro de Dubái siguen esperando que hombros y rodillas vayan más o menos cubiertos. Por eso mucha gente lleva una prenda ligera para el trayecto de vuelta.
+Aquí lo normal es la ropa deportiva de siempre; en un evento de este tipo, no hay normas estrictas de vestimenta. Fuera del recorrido, en cambio, en los centros comerciales y el metro de Dubái se sigue esperando que hombros y rodillas vayan más o menos cubiertos. Muchos llevan una prenda ligera para el trayecto de vuelta.
 
-Para muchos residentes, la mañana es también una ocasión social: equipos de oficina, clubes de atletismo y grupos escolares acuden con camisetas a juego. También es habitual ir solo. No hace falta formar parte de ningún equipo para participar.
+Para los residentes, la mañana suele convertirse en un plan social: equipos de oficina, clubes de atletismo y grupos escolares acuden con camisetas a juego. También es frecuente ir en solitario, ya que para participar no hacía falta formar parte de ningún equipo.
 
-## Cómo es el tiempo a finales de noviembre
+## El clima a finales de noviembre
 
-En noviembre empieza la temporada agradable en Dubái. El calor abrasador del verano ya ha quedado atrás y las mañanas en la autopista despejada son suaves. Aun así, el sol pega fuerte en cuanto asoma por encima de las torres.
+Noviembre marca el comienzo de la temporada agradable en Dubái. El calor abrasador del verano ya ha quedado atrás y las mañanas en la autopista son templadas, aunque el sol aprieta en cuanto asoma por encima de las torres.
 
-Lo normal es que los participantes lleven poco encima. Con el teléfono, la tarjeta Nol y una botella de agua basta para casi todo. Las gafas de sol y una gorra se agradecen en los tramos abiertos, donde entre edificio y edificio la carretera no ofrece ninguna sombra.
+Los participantes no suelen cargar con mucho: el móvil, la tarjeta Nol y una botella de agua bastan para casi todo. En los tramos abiertos, donde la calzada no ofrece sombra entre edificio y edificio, vienen bien unas gafas de sol y una gorra.
 
-En los 5km es frecuente ver niños en carrito. Los padres suelen llevar algo de picar y una camiseta de repuesto, porque la mañana se alarga más que la propia carrera.
+En los 5km es habitual ver niños en cochecito. Los padres suelen llevar algo de comer y una camiseta de recambio, porque la mañana se alarga más que la propia carrera.
 
 ## Después de la meta
 
-El recorrido termina cerca de Downtown Dubai. El Dubai Mall y el Burj Khalifa quedan a un breve trayecto en metro, en la estación Burj Khalifa/Dubai Mall. Muchos participantes rematan la mañana desayunando allí o en las cafeterías de la zona de Boulevard y DIFC.
+La meta se situó cerca de Downtown Dubai. Desde allí, el Dubai Mall y el Burj Khalifa quedan a un paso en metro, en la estación Burj Khalifa/Dubai Mall. Desayunar en esa zona o en los cafés del bulevar (Boulevard) y del DIFC es una forma muy popular de rematar una carrera matinal.
 
-El Museo del Futuro se encuentra junto al tramo de la carretera que pasa por las Emirates Towers. Su envoltura de acero, cubierta de caligrafía árabe, merece contemplarse sin prisa y a pie cuando la multitud se haya dispersado.
+El Museo del Futuro se levanta junto al tramo de las Emirates Towers. Su estructura de acero, cubierta de caligrafía árabe, merece contemplarse con calma a pie.
 
-Dubai Run es solo una de las muchas jornadas del Dubai Fitness Challenge. A lo largo del mes hay además otras sesiones, salidas en bicicleta y clases gratuitas por toda la ciudad, y el organizador las recoge todas en la misma web oficial.
+La Dubai Run fue solo una de las muchas citas del Dubai Fitness Challenge. El programa de ese mes incluía también otras sesiones, rutas en bicicleta y clases gratuitas por toda la ciudad.

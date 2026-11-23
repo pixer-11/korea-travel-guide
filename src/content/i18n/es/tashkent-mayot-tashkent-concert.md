@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tashkent-mayot-tashkent-concert
-srcHash: '49215feedc21'
+srcHash: 'f73bda33ffe5'
 title: 'Concierto de MAYOT en Taskent: fechas, entradas y recinto (Taskent)'
 description: El concierto de MAYOT en Taskent estaba previsto para el 12 de noviembre de 2026 en Yunusabad, un distrito del norte de la ciudad.
 quickAnswer: El concierto de MAYOT en Taskent estaba previsto para el 12 de noviembre de 2026 en Yunusabad, un distrito del norte de la ciudad. La mayoría de los visitantes llega a Yunusabad en la línea Yunusobod del metro o en un taxi pedido por aplicación. Las entradas se vendían a través de la plataforma elegida por el organizador. Esa misma plataforma se encargaba de las categorías de entrada, los precios y el horario de apertura de puertas.
@@ -20,7 +20,7 @@ faq:
 
 ## Una noche de noviembre en Yunusabad
 
-El concierto tenía fecha el 12 de noviembre de 2026 en Yunusabad, el extenso distrito del norte de Taskent. Allí, grandes avenidas se abren paso entre altos bloques de viviendas y edificios comerciales de construcción más reciente. Aquel día caía en jueves. Para muchos seguidores era, por tanto, un concierto entre semana, después de la jornada laboral y con un regreso a casa a altas horas.
+El concierto tenía fecha el 12 de noviembre de 2026 en Yunusabad, el extenso distrito del norte de Taskent. Allí, grandes avenidas se abren paso entre altos bloques de viviendas y edificios comerciales de construcción más reciente. Aquel día caía en jueves. Era, por tanto, un concierto entre semana, después de la jornada laboral y con un regreso a casa a altas horas.
 
 En Taskent, noviembre pide abrigo en cuanto se pone el sol. Las noches son frías y secas, y se nota mucho el contraste entre una sala con calefacción y la calle. Por eso el público suele llevar una chaqueta que pueda atarse a la cintura o dejar en el guardarropa, si el recinto lo tiene, antes que tiritar en la cola de salida.
 

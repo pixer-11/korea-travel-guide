@@ -1,87 +1,85 @@
 ---
 lang: es
 slug: funes-the-cluster-2026
-srcHash: '902efe82a684'
+srcHash: '0cf020699463'
 title: 'The Cluster 2026: fechas, entradas y sede (Funes)'
-description: Del 19 al 22 de noviembre de 2026, The Cluster 2026 llena de música electrónica y underground Funes (Argentina). Son cuatro días en la ciudad jardín situada justo al oeste de Rosario, en la provincia de Santa Fe.
-quickAnswer: Del 19 al 22 de noviembre de 2026, The Cluster 2026 llena de música electrónica y underground Funes (Argentina). Son cuatro días en la ciudad jardín situada justo al oeste de Rosario, en la provincia de Santa Fe. El festival empieza el jueves y termina el domingo. La mayoría de los asistentes se aloja en Rosario o en el propio Funes. Para llegar, lo habitual es tomar la autopista Rosario–Córdoba o volar al aeropuerto de Rosario, que queda prácticamente a las puertas de la ciudad.
+description: Las fechas anunciadas de The Cluster 2026 eran del 19 al 22 de noviembre de 2026, en Funes (Argentina). Eran cuatro días de música electrónica y de circuito alternativo a pocos kilómetros al oeste de Rosario, en la provincia de Santa Fe.
+quickAnswer: Las fechas anunciadas de The Cluster 2026 eran del 19 al 22 de noviembre de 2026, de jueves a domingo. El festival ocupaba cuatro días de música electrónica y de circuito alternativo en Funes (Argentina), la localidad de casas con jardín que linda por el oeste con Rosario, en la provincia de Santa Fe. Quienes visitan Funes suelen alojarse en la propia localidad o en Rosario. Para llegar, lo habitual es tomar la autopista Rosario-Córdoba o volar al aeropuerto de Rosario, que está prácticamente a las puertas del pueblo.
 faq:
-  - q: ¿Cuándo se celebra The Cluster 2026?
-    a: The Cluster 2026 se celebra en Funes (Argentina) desde el jueves 19 hasta el domingo 22 de noviembre de 2026. El 20 de noviembre es feriado en Argentina por el Día de la Soberanía Nacional, y en ocasiones el Gobierno lo traslada para formar un fin de semana largo.
+  - q: ¿Cuándo era The Cluster 2026?
+    a: The Cluster 2026 estaba programado del jueves 19 al domingo 22 de noviembre de 2026, en Funes (Argentina). El 20 de noviembre es el Día de la Soberanía Nacional, feriado argentino que el Gobierno traslada en ocasiones para formar un fin de semana largo.
   - q: ¿Dónde está Funes y cómo se llega?
-    a: Funes pertenece a la provincia de Santa Fe y se encuentra justo al oeste de Rosario, junto a la Ruta Nacional 9 y la autopista Rosario–Córdoba. El Aeropuerto Internacional Islas Malvinas de Rosario está en Fisherton, pegado a Funes. Buenos Aires queda a unos 300 km, y los autobuses de larga distancia que salen de allí llegan a la terminal de ómnibus Mariano Moreno de Rosario. Desde la terminal hasta Funes hay un trayecto corto, que puede hacerse en taxi, con un vehículo de aplicación o en autobús interurbano.
+    a: Funes se encuentra en la provincia de Santa Fe, justo al oeste de Rosario, sobre la Ruta Nacional 9 y la autopista Rosario-Córdoba. El Aeropuerto Internacional Islas Malvinas de Rosario está en Fisherton, pegado a Funes. Los autobuses de larga distancia procedentes de Buenos Aires, a unos 300 km, llegan a la terminal de ómnibus Mariano Moreno de Rosario. Desde allí, un breve trayecto en taxi, en coche de aplicación o en autobús interurbano lleva hasta Funes.
   - q: ¿Qué tiempo hace a finales de noviembre?
-    a: Es el final de la primavera, aunque muchas veces el ambiente ya es veraniego. Los días son largos, de templados a calurosos, y las noches resultan agradables. En esta época del año son frecuentes las tormentas repentinas en Santa Fe. Para un evento al aire libre conviene llevar un impermeable ligero y un calzado que aguante el barro.
-  - q: ¿Dónde conviene alojarse para The Cluster?
-    a: La mayoría de los visitantes elige entre dos zonas. El centro de Rosario reúne la mayor oferta hotelera y más opciones a altas horas de la noche. En Funes y en Fisherton abundan, en cambio, las casas de alquiler con jardín y piscina, conocidas como quintas. Es habitual que los grupos alquilen una quinta para todo el fin de semana.
+    a: Es la última etapa de la primavera y el ambiente suele parecer ya veraniego, con días largos, de templados a calurosos, y noches agradables. En esta época del año son frecuentes las tormentas repentinas en Santa Fe, y el terreno al aire libre se embarra enseguida tras un aguacero. Por eso, en los eventos al aire libre de la zona son habituales una prenda impermeable ligera y un calzado resistente.
+  - q: ¿Dónde alojarse para The Cluster?
+    a: Quienes visitan Funes suelen alojarse en el centro de Rosario, que concentra la mayor oferta hotelera y más opciones a altas horas de la noche, o bien en Funes y Fisherton, donde abundan las casas de alquiler (quintas) con jardín y pileta. Los grupos suelen alquilar una quinta para todo el fin de semana.
   - q: ¿Qué más se puede hacer en los alrededores?
-    a: Rosario está a poca distancia. A orillas del río Paraná se encuentran el Monumento Histórico Nacional a la Bandera, el paseo de la Costanera y el Parque de la Independencia. La ciudad cuenta además con una escena de clubes consolidada.
+    a: Rosario queda a un corto trayecto. En su ribera se encuentran el Monumento Histórico Nacional a la Bandera, el paseo de la Costanera junto al río Paraná y el Parque de la Independencia. La ciudad cuenta, además, con una escena de clubes propia y muy consolidada.
 ---
 
 ## Cuatro días a las puertas de Rosario
 
-Funes no tiene trazas de ciudad de festivales. Es un lugar de casas bajas y jardines amplios. Allí abundan las *quintas*, las casas de fin de semana que las familias rosarinas conservan desde hace tiempo para disfrutar de la piscina en verano y del *asado* de los domingos. A finales de noviembre, esa calma arbolada se llena durante cuatro días de líneas de bajo.
+Nada en Funes recuerda a una ciudad de festivales. Es un lugar de casas bajas y jardines amplios, salpicado de *quintas*: las casas de fin de semana que las familias rosarinas conservan desde hace tiempo para disfrutar de la pileta en verano y del *asado* del domingo. La idea de The Cluster 2026 era poner ritmo de bajo a esa calma arbolada durante cuatro días de finales de noviembre.
 
-The Cluster 2026 es un festival de música electrónica y underground que se celebra en Funes del 19 al 22 de noviembre de 2026. La región tiene una larga tradición de música de baile. Rosario, a pocos minutos en coche hacia el este, posee una de las escenas de clubes más consolidadas de Argentina fuera de Buenos Aires.
+The Cluster 2026 se anunció como un festival de música electrónica y de circuito alternativo que tendría lugar en Funes del 19 al 22 de noviembre de 2026. Era, por tanto, una cita de música de baile en una región muy ligada a ella. A pocos minutos en coche hacia el este, Rosario cuenta con una de las escenas de clubes más consolidadas de Argentina fuera de Buenos Aires.
 
 ## De jueves a domingo
 
-El festival empieza el jueves 19 de noviembre y termina el domingo 22 de noviembre, de modo que en la práctica dura cuatro días y se convierte en un fin de semana largo. Muchos asistentes dedican la noche del jueves a llegar e instalarse, y el domingo a bajar el ritmo con calma.
+El festival abarcaba cuatro días: arrancaba el jueves 19 de noviembre y terminaba el domingo 22. En la práctica, eso lo convertía en un fin de semana largo. En los festivales de cuatro días, muchos asistentes dedican el jueves a llegar y reservan el domingo para bajar el ritmo con calma.
 
-En Argentina, el 20 de noviembre es feriado por el Día de la Soberanía Nacional. A veces el Gobierno traslada esta fecha para formar un fin de semana largo, lo que puede coincidir con un aumento de los desplazamientos en todo el país. En un fin de semana con feriado, los vuelos nacionales y los autobuses suelen agotarse antes que en fechas normales.
-
-Esta guía se centra en las fechas y en la ciudad. No incluye artistas, horarios de escenario ni categorías de entradas, porque no disponemos de datos sobre ninguno de esos aspectos.
+El 20 de noviembre es el Día de la Soberanía Nacional, feriado que el Gobierno argentino traslada en ocasiones para crear un fin de semana largo, de modo que la fecha puede coincidir con desplazamientos por todo el país. En torno a un fin de semana festivo, los vuelos nacionales y los autobuses de larga distancia suelen llenarse antes que en fechas normales.
 
 ## Cómo llegar a Funes
 
-Funes forma parte del Gran Rosario, en el sur de la provincia de Santa Fe. Se sitúa al oeste de la ciudad, en el corredor que forman la Ruta Nacional 9 y la autopista Rosario–Córdoba. Como la localidad se funde con los barrios del oeste de Rosario, el trayecto en coche entre ambas es corto.
+Funes forma parte del Gran Rosario, en el sur de la provincia de Santa Fe. Se encuentra al oeste de la ciudad, en el corredor de la Ruta Nacional 9 y de la autopista Rosario-Córdoba. Como la localidad y los barrios del oeste rosarino prácticamente se tocan, el trayecto entre ambos es corto.
 
-Principales formas de llegar:
+Estas son las principales vías de acceso:
 
-- **En avión:** el aeropuerto internacional de Rosario, Islas Malvinas, se encuentra en la zona de Fisherton, en el extremo oeste de la ciudad y prácticamente al lado de Funes. Ningún otro aeropuerto queda más cerca del festival.
-- **Desde Buenos Aires:** la autopista Rosario–Buenos Aires recorre unos 300 km. Numerosos autobuses de larga distancia cubren la ruta y llegan a la Terminal de Ómnibus Mariano Moreno de Rosario.
-- **Desde Córdoba:** la autopista Rosario–Córdoba pasa por Funes antes de entrar en Rosario.
-- **En la zona:** los autobuses interurbanos unen Rosario y Funes. Ese mismo trayecto corto también puede hacerse en taxi o con aplicaciones de transporte.
+- **En avión:** el aeropuerto internacional de Rosario, Islas Malvinas, está en la zona de Fisherton, en el extremo oeste de la ciudad, casi pegado a Funes. Es el aeropuerto más cercano a la localidad.
+- **Desde Buenos Aires:** la autopista Rosario-Buenos Aires recorre unos 300 km. Los autobuses de larga distancia cubren el trayecto con frecuencia y llegan a la Terminal de Ómnibus Mariano Moreno de Rosario.
+- **Desde Córdoba:** la autopista Rosario-Córdoba pasa junto a Funes antes de entrar en Rosario.
+- **En la zona:** hay autobuses interurbanos entre Rosario y Funes, y el mismo trayecto corto puede hacerse en taxi o con aplicaciones de transporte.
 
-No contamos con la ubicación exacta del recinto dentro de Funes. La ciudad se extiende por calles poco densas, así que lo habitual es moverse en coche, en taxi o con una aplicación en lugar de ir a pie desde el centro.
+Funes se extiende por calles poco densas, así que quienes acuden a sus festivales suelen moverse en coche, en taxi o con aplicaciones de transporte en lugar de ir a pie desde el centro.
 
-## Calor de noviembre y época de tormentas
+## Calor de noviembre y temporada de tormentas
 
-En la región pampeana, finales de noviembre es el final de la primavera, aunque el ambiente ya es veraniego. Los días son largos y cálidos, y el calor puede llegar a apretar de verdad. Por la noche la temperatura suele mantenerse lo bastante agradable como para ir en camiseta.
+A finales de noviembre, la región pampeana está en plena primavera tardía y el ambiente ya es casi veraniego. Los días son largos y cálidos, y a veces hace verdadero calor. Por la noche, la temperatura suele mantenerse lo bastante agradable como para seguir en camiseta.
 
-En esta época también son habituales las tormentas repentinas en toda Santa Fe. Puede caer un aguacero intenso que lo empapa todo y que en menos de una hora ya ha pasado, dejando tras de sí barro y humedad. En un evento de baile al aire libre, esto tiene consecuencias prácticas:
+En esta época también son frecuentes las tormentas repentinas en toda Santa Fe. Un aguacero intenso puede llegar de golpe, empaparlo todo y despejarse en menos de una hora, dejando tras de sí barro y humedad. En los eventos de baile al aire libre de la región, el equipo habitual incluye algunos básicos:
 
-- **Un impermeable ligero** cabe en un bolsillo y puede salvarle la noche.
-- **Unos zapatos que no le importe estropear** se adaptan mejor al césped y a la tierra que unas zapatillas nuevas.
-- **Protector solar y sombrero** son imprescindibles por la tarde, cuando el sol de la pampa pega con fuerza.
-- **Agua**, porque a lo largo de cuatro días el calor y las sesiones largas pasan factura enseguida.
+- **Una prenda impermeable ligera** que quepa doblada en un bolsillo.
+- **Calzado que no importe estropear**, más adecuado para el césped y la tierra que unas zapatillas nuevas.
+- **Protector solar y sombrero** para las horas de la tarde, cuando el sol pampeano pega fuerte.
+- **Agua**, porque el calor y las sesiones largas pasan factura enseguida a lo largo de varios días.
 
-## Horarios tardíos y formas de pago
+## Horarios tardíos y medios de pago
 
-Los argentinos son famosos por sus horarios tardíos. La cena suele empezar a las 9 o a las 10 de la noche, y los clubes no se llenan hasta pasada la medianoche. El público de los festivales de la región sigue el mismo ritmo: la afluencia crece poco a poco y alcanza su punto álgido bien entrada la madrugada.
+Argentina es célebre por sus horarios tardíos. La cena suele empezar a las 9pm o a las 10pm, y los clubes no se llenan hasta pasada la medianoche. En la región, el público de los festivales tiende a seguir ese mismo ritmo: la afluencia crece poco a poco y alcanza su punto álgido bien entrada la noche.
 
-Algunas costumbres que le facilitarán el fin de semana:
+Algunas costumbres locales:
 
-- **Pagos:** el efectivo en pesos sigue siendo importante, pero en Argentina se paga con código QR a través de Mercado Pago en todas partes, desde los quioscos hasta los taxis. Muchos visitantes dejan configurado un medio de pago por QR antes de viajar.
-- **Propinas:** en los restaurantes se acostumbra a dejar una *propina* de alrededor del 10%. En los bares hay menos rigor al respecto.
-- **Mate:** en cualquier reunión diurna en Santa Fe verá termos y mates. Lo normal es compartir la ronda. Si dice *gracias*, quien ceba entenderá que ya no quiere más.
-- **Idioma:** en el español rioplatense se usa *vos* en lugar de *tú*, y la «ll» y la «y» se pronuncian como «sh». Unas pocas frases bastan para desenvolverse fuera del centro de Rosario.
+- **Pagos:** el efectivo en pesos sigue siendo importante, pero en toda Argentina se paga con código QR a través de Mercado Pago, desde los quioscos hasta los taxis. Muchos visitantes dejan configurado un medio de pago por QR antes de viajar.
+- **Propinas:** en los restaurantes se acostumbra dejar una *propina* de alrededor del 10%. En los bares, la costumbre es más flexible.
+- **Mate:** en cualquier reunión diurna de Santa Fe aparecen el termo y el mate. Compartir una ronda es lo normal, y decir *gracias* le indica a quien ceba que uno ya no quiere más.
+- **Idioma:** el español rioplatense emplea *vos* en lugar de *tú*, y la «ll» y la «y» se pronuncian de forma parecida a «sh». Fuera del centro de Rosario, saber unas cuantas expresiones ayuda mucho.
 
 ## Rosario entre sesión y sesión
 
-Cuatro días dan para aprovechar también las horas de luz. Rosario se asienta en la orilla occidental del río Paraná, y su ribera es el gran salón de la ciudad.
+Un programa de cuatro días dejaba tiempo libre durante las horas de luz. Rosario se asienta en la orilla oeste del río Paraná, y su ribera funciona como el gran salón de la ciudad.
 
-Lugares a poca distancia de Funes:
+A poca distancia de Funes se encuentran:
 
-- **Monumento Histórico Nacional a la Bandera**, el gran memorial dedicado a la bandera que se alza junto al río. Desde su torre se contempla el Paraná con sus islas.
+- **El Monumento Histórico Nacional a la Bandera**, el gran memorial dedicado a la bandera, junto al río. Desde su torre se contempla el Paraná con sus islas.
 - **La Costanera**, el paseo ribereño donde la gente camina, va en bicicleta o se sienta en las escalinatas al atardecer.
-- **Parque de la Independencia**, el gran parque central de Rosario, con un lago y una rosaleda.
-- **Fisherton**, el barrio del oeste contiguo a Funes. Es una zona residencial y tranquila, con restaurantes en sus calles principales.
+- **El Parque de la Independencia**, el gran parque central de Rosario, con un lago y un rosedal.
+- **Fisherton**, el barrio del oeste vecino a Funes, de carácter residencial y tranquilo, con restaurantes en sus calles principales.
 
-Rosario es también conocida por ser la cuna de Lionel Messi y del Che Guevara, y el fútbol nunca tarda en aparecer en las conversaciones locales. Los fines de semana, las aficiones de Newell's Old Boys y Rosario Central dejan bien a la vista la rivalidad que divide a la ciudad.
+Rosario es además conocida como cuna de Lionel Messi y del Che Guevara, y el fútbol nunca anda lejos de las conversaciones. Los fines de semana, las hinchadas de Newell's Old Boys y de Rosario Central dejan bien a la vista la rivalidad que divide a la ciudad.
 
-## Dónde alojarse
+## Dónde se alojaba el público
 
-Quienes acuden a eventos en Funes suelen repartirse entre dos opciones. El centro de Rosario ofrece la mayor variedad de hoteles y albergues, además de comida y transporte a altas horas de la noche. En Funes hay menos hoteles, pero sí muchas casas de alquiler, a menudo con jardín y piscina.
+Quienes visitan Funes con motivo de algún evento suelen repartirse entre dos opciones. El centro de Rosario reúne la mayor oferta de hoteles y albergues, además de comida y transporte hasta altas horas de la noche. Funes, en cambio, tiene menos hoteles, pero abundan las casas de alquiler, muchas con jardín y pileta.
 
-Para un evento de cuatro días, alquilar una *quinta* para todo el fin de semana es una opción muy práctica, y los grupos recurren a ella con frecuencia. Quienes viajan solos o llegan en avión tienden a alojarse en Rosario o en Fisherton, cerca del aeropuerto. Desde cualquiera de las dos bases el trayecto a Funes es corto. Eso sí, a la salida del festival la demanda nocturna de taxis y de vehículos de aplicación se dispara.
+Los grupos suelen alquilar una *quinta* para todo el fin de semana, una fórmula que encaja bien con un evento de cuatro días. Quienes viajan solos o llegan en avión tienden a alojarse en Rosario o en Fisherton, cerca del aeropuerto. Desde cualquiera de las dos bases, el trayecto hasta Funes es corto, aunque la demanda de taxis y de coches de aplicación se dispara de madrugada, cuando termina la jornada del festival.

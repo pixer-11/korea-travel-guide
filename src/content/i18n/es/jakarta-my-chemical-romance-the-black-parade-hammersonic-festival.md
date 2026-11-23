@@ -1,64 +1,64 @@
 ---
 lang: es
 slug: jakarta-my-chemical-romance-the-black-parade-hammersonic-festival
-srcHash: '0073e93335de'
+srcHash: '5eb88de1f566'
 title: 'My Chemical Romance: The Black Parade (Hammersonic Festival): fechas, entradas y recinto (Yakarta)'
-description: El 22 de noviembre de 2026, My Chemical Romance lleva The Black Parade (Hammersonic Festival) al Jakarta International Stadium, en Yakarta Norte. Las entradas se venden a través de los canales oficiales de Hammersonic y del grupo.
-quickAnswer: El 22 de noviembre de 2026, My Chemical Romance presenta The Black Parade (Hammersonic Festival) en el Jakarta International Stadium, en Yakarta Norte. Las entradas se venden a través de los canales oficiales de Hammersonic y del grupo. La banda interpretará el disco completo, y con esta fecha cierra su gira por el sudeste asiático. Antes de reservar el viaje, consulte en la web oficial los horarios, las normas de acceso y la venta de entradas.
+description: El concierto de My Chemical Romance con The Black Parade dentro del Hammersonic Festival estaba previsto para el 22 de noviembre de 2026 en el Jakarta International Stadium, en Yakarta Norte.
+quickAnswer: El concierto de My Chemical Romance con The Black Parade dentro del Hammersonic Festival estaba previsto para el 22 de noviembre de 2026 en el Jakarta International Stadium, en Yakarta Norte. Las entradas se vendieron a través de los canales oficiales del Hammersonic y de la banda. Según el anuncio, el grupo iba a interpretar The Black Parade íntegro, y Yakarta figuraba como la última fecha de su gira por el Sudeste Asiático.
 faq:
-  - q: ¿Cuándo y dónde toca My Chemical Romance The Black Parade en Yakarta?
-    a: El 22 de noviembre de 2026, en el Jakarta International Stadium, situado en Tanjung Priok (Yakarta Norte), dentro del Hammersonic Festival. Con esta fecha el grupo cierra su gira por el sudeste asiático. Consulte los horarios en la web oficial.
-  - q: ¿Interpretarán el disco completo?
-    a: Sí. El concierto se anuncia como The Black Parade interpretado íntegramente, desde «The End.» hasta «Famous Last Words».
+  - q: ¿Cuándo y dónde se anunció el concierto de My Chemical Romance con The Black Parade en Yakarta?
+    a: La fecha anunciada era el 22 de noviembre de 2026, en el Jakarta International Stadium de Tanjung Priok (Yakarta Norte), dentro del Hammersonic Festival. Se presentó como el cierre de la gira de la banda por el Sudeste Asiático.
+  - q: ¿Estaba anunciado el álbum completo?
+    a: Sí. El cartel prometía The Black Parade de principio a fin, desde «The End.» hasta «Famous Last Words».
   - q: ¿Cómo se llega al Jakarta International Stadium?
-    a: Lo más sencillo es recurrir a Grab o Gojek, y en moto se llega antes que en coche por el tráfico. TransJakarta también ha ofrecido servicios hasta el JIS los días de evento, así que conviene consultar su aplicación. Alojarse en Kelapa Gading o Ancol acorta mucho el trayecto respecto al centro o a Yakarta Sur.
-  - q: ¿Hace falta identificación para entrar?
-    a: En los conciertos de Indonesia es frecuente que las entradas sean nominativas, y puede que se compruebe la identificación o que haya que canjear la entrada por una pulsera. Lea las condiciones de su entrada y lleve el documento con el que se hizo la reserva.
+    a: Lo más sencillo es recurrir a Grab o Gojek, y en moto se esquiva el tráfico mucho mejor que en coche. En días de evento, TransJakarta también ha ofrecido servicios hasta el JIS. Alojarse en Kelapa Gading o Ancol acorta mucho el trayecto respecto al centro o a Yakarta Sur.
+  - q: ¿Hacía falta identificación para entrar?
+    a: En los conciertos de Indonesia es habitual que las entradas sean nominativas; a veces se revisa la identificación o se pide canjear la entrada por una pulsera. Cuando el nombre debe coincidir, el documento válido es aquel con el que se hizo la compra.
   - q: ¿Qué tiempo hace en Yakarta en noviembre?
-    a: Es temporada de lluvias. Cabe esperar noches calurosas y húmedas, con posibilidad de aguaceros fuertes, de modo que conviene llevar un chubasquero por si no se permiten paraguas.
+    a: Es temporada de lluvias. Las noches son calurosas y húmedas, y los aguaceros fuertes son bastante probables. Donde no se permiten paraguas, lo habitual es llevar chubasquero tipo poncho.
 ---
 
-## Un disco ambientado en un hospital, ante un estadio de 80.000 localidades
+## Un álbum de sala de hospital en un estadio de 80.000 localidades
 
-Aquí, The Black Parade suena de principio a fin. Primero se oye el pitido continuo de un monitor cardíaco, después llega «The End.» y, tras ella, el redoble de marcha con el que arranca «Welcome to the Black Parade». El cierre corre a cargo de «Famous Last Words» y de «Blood», la pista oculta. En el Jakarta International Stadium, el disco sonará ante un público que llenará un recinto de acero y cristal pensado para decenas de miles de personas.
+Según el cartel, The Black Parade iba a sonar de principio a fin. Primero, el pitido plano de un monitor cardíaco; después, «The End.» y el redoble de tambor con el que arranca «Welcome to the Black Parade», hasta llegar a «Famous Last Words» y a la pista oculta «Blood». El escenario era el Jakarta International Stadium, un gran recinto de acero y cristal concebido para decenas de miles de personas.
 
-La cita es el 22 de noviembre de 2026. Esa noche el grupo pone fin a su gira por el sudeste asiático, de modo que habrá seguidores que vengan de verla en Singapur, Manila o Bangkok. El concierto forma parte del cartel de Hammersonic, el veterano festival indonesio de música pesada, cuyo público sabe aguantar horas en el pogo.
+Las fechas anunciadas eran el 22 de noviembre de 2026. Yakarta se presentó como la noche de cierre de la gira de la banda por el Sudeste Asiático, un final de los que atraen a seguidores llegados desde Singapur, Manila o Bangkok. El concierto formaba parte del Hammersonic, el veterano festival indonesio de música pesada, cuyo público sabe aguantar horas en el foso.
 
-## Dónde está realmente el estadio
+## Dónde está exactamente el estadio
 
-El Jakarta International Stadium (JIS) se encuentra en Papanggo, distrito de Tanjung Priok, en Yakarta Norte. Queda, por tanto, cerca del puerto y bastante al norte de la franja hotelera de Sudirman y Thamrin. Se inauguró en 2022 como estadio del Persija Jakarta, y desde las autopistas de peaje que lo rodean se distinguen su techo retráctil y sus gradas superpuestas.
+El Jakarta International Stadium (JIS) se encuentra en Papanggo, en el distrito de Tanjung Priok, en Yakarta Norte. Queda, por tanto, cerca del puerto y bastante al norte de la franja hotelera de Sudirman y Thamrin. Se inauguró en 2022 como sede del Persija Jakarta, y desde las autopistas de peaje que lo rodean se distinguen su techo retráctil y sus gradas superpuestas.
 
-La distancia pesa más de lo que parece en el mapa. Desde el centro de Yakarta, el trayecto hacia el norte puede ser rápido una tarde despejada y desesperadamente lento en hora punta. Conviene salir con mucho margen.
+La distancia pesa más de lo que sugiere el mapa. Desde el centro de Yakarta, el viaje hacia el norte puede ser rápido una noche despejada y desesperadamente lento en hora punta. Para los eventos nocturnos, aquí lo normal es contar con un amplio margen de tiempo.
 
-- **Aplicaciones de transporte:** tanto Grab como Gojek llegan al estadio. Con la moto de Gojek (GoRide) se esquiva el tráfico mucho mejor que en coche.
-- **TransJakarta:** la red de autobuses urbanos ha ofrecido servicios hasta el JIS los días de evento. Consulte las rutas de ese día en la aplicación de TransJakarta.
-- **Alojarse cerca:** los hoteles de Kelapa Gading o Ancol quedan mucho más próximos que cualquier base en Yakarta Sur.
+- **Aplicaciones de transporte:** tanto Grab como Gojek llegan hasta el estadio. La opción en moto de Gojek (GoRide) atraviesa el tráfico mucho más deprisa que un coche.
+- **TransJakarta:** en días de evento, la red de autobuses de la ciudad ha ofrecido servicios hasta el JIS, con las rutas indicadas en su aplicación.
+- **Alojamiento cercano:** los hoteles de Kelapa Gading o Ancol quedan mucho más cerca que cualquier base en Yakarta Sur.
 
-## Las entradas y los trámites que conllevan
+## Las entradas y sus trámites
 
-Compre únicamente a través de la ticketera oficial enlazada desde las webs de Hammersonic y de My Chemical Romance, donde figuran las categorías de entrada y los planos de asientos. Las capturas de reventa que circulan por las redes sociales son una estafa habitual en los grandes conciertos de Yakarta.
+La venta se hizo a través del distribuidor oficial enlazado desde las webs del Hammersonic y de My Chemical Romance, con distintas categorías y planos de asientos. En torno a los grandes conciertos de Yakarta abundan las estafas con capturas de pantalla de reventa publicadas en redes sociales.
 
-Los promotores indonesios suelen emitir entradas electrónicas nominativas. Algunos exigen canjearlas por una pulsera y otros piden la identificación en el acceso. Lea las condiciones de su entrada antes del día del concierto. Si el nombre debe coincidir, lleve el pasaporte o el KTP con el que se hizo la reserva. Consulte horarios y entradas en la web oficial.
+Los promotores indonesios suelen emitir entradas electrónicas nominativas. Algunos piden canjearlas por una pulsera y otros revisan la identificación en el acceso. Cuando el nombre debe coincidir, se comprueba el pasaporte o el KTP con el que se reservó la entrada.
 
-## Cómo cruzar los accesos esa noche
+## Cómo pasar los controles la noche del concierto
 
-Buena parte de la velada depende de cómo se gestionen la multitud y el calor. Estas son las costumbres a las que se ciñen los asistentes habituales a conciertos en Yakarta.
+Una velada en un estadio consiste, sobre todo, en lidiar con la multitud y con el calor. Estas son las costumbres que mantienen los asistentes veteranos de Yakarta.
 
-- **Pague sin efectivo.** QRIS, el sistema estándar de pago por código QR en Indonesia, está en todas partes, y la mayoría de los puestos del recinto lo aceptan junto con monederos electrónicos como GoPay y OVO. Recargue la aplicación antes de llegar.
-- **Revise las normas sobre bolsos.** En los conciertos en estadios suele limitarse el tamaño de los bolsos y se prohíbe entrar con comida, bebida y paraguas. Con una bolsa pequeña y transparente, o sin nada, pasará antes el control de seguridad.
-- **Planifique la salida, no solo la entrada.** Al terminar el concierto, la recogida de vehículos frente al JIS se convierte en un atasco total. Aléjese caminando diez o quince minutos antes de pedir el coche y marque el punto de recogida en una calle con nombre.
-- **Acuerde un punto de encuentro.** Con un estadio lleno conectado a la misma red móvil, los datos pueden ir lentos. Fije de antemano con su grupo un lugar de referencia.
+- **Pago sin efectivo.** El QRIS, el sistema estándar de pago por QR en Indonesia, está en todas partes, y la mayoría de los puestos del recinto lo aceptan junto con monederos electrónicos como GoPay y OVO. Los habituales llegan con saldo en sus aplicaciones.
+- **Normas sobre bolsos.** En los conciertos de estadio suele limitarse el tamaño de los bolsos y se prohíbe entrar con comida, bebida o paraguas. Con una bolsa pequeña y transparente, o sin ninguna, el control de seguridad se pasa antes.
+- **La salida.** Al terminar los conciertos, la zona de recogida de los vehículos de alquiler frente al JIS queda colapsada. La solución habitual consiste en alejarse diez o quince minutos a pie y fijar el punto de recogida en una calle con nombre.
+- **Puntos de encuentro.** Con un estadio lleno conectado a la misma red móvil, los datos pueden ralentizarse, así que los grupos acuerdan de antemano un lugar de referencia.
 
-Unas pocas palabras de indonesio se agradecen mucho entre el personal y los conductores. *Terima kasih* significa «gracias», y *permisi* equivale a «con permiso», útil cuando haya que abrirse paso por una fila.
+Unas pocas palabras de indonesio se agradecen mucho entre el personal y los conductores: *terima kasih* significa «gracias», y *permisi*, «con permiso», para abrirse paso por una fila.
 
 ## Qué ponerse una noche de noviembre en Yakarta
 
-Noviembre cae en plena temporada de lluvias en Yakarta. Los fuertes aguaceros de tarde y noche son lo normal, y la humedad sigue siendo alta cuando oscurece. Aunque el techo es retráctil, no dé por hecho que estará cerrado. Si los paraguas están prohibidos, lleve un chubasquero plegable.
+Noviembre cae en plena temporada de lluvias en Yakarta. Los chaparrones intensos por la tarde y por la noche son normales, y la humedad sigue alta después del anochecer. Aunque el techo es retráctil, no siempre está cerrado. Donde se prohíben los paraguas, la respuesta habitual son los ponchos plegables.
 
-Muchos seguidores acudirán con chaquetas de banda de música y la cara pintada de blanco. Llevar varias capas de disfraz con esta humedad tropical obliga a hidratarse a menudo, así que beba agua antes de ponerse a la cola. También es buena idea un calzado cerrado y cómodo, porque la pista se abarrota en cuanto suena el pitido inicial.
+La época de The Black Parade se asocia a chaquetas de banda de música y maquillaje blanco en la cara. Con la humedad tropical, los disfraces de varias capas exigen pausas para beber agua. Para la pista abarrotada de un estadio conviene un calzado cerrado y cómodo.
 
-## Cómo alargar el viaje más allá de una noche
+## Más que una sola noche
 
-Yakarta Norte ofrece suficientes atractivos cercanos para llenar el día previo al concierto. Al oeste, junto al mar, se encuentra Ancol Dreamland. Algo más allá está Kota Tua, el antiguo barrio colonial neerlandés que rodea la plaza Fatahillah y donde se halla el Museo de Historia de Yakarta (Jakarta History Museum). Más al oeste todavía, en el viejo puerto de Sunda Kelapa, siguen amarradas a lo largo del muelle las goletas de madera llamadas pinisi.
+Yakarta Norte reúne suficientes atractivos para llenar un día alrededor del concierto. Al oeste, junto al mar, está Ancol Dreamland. Un poco más allá se encuentra Kota Tua, el antiguo barrio colonial neerlandés que rodea la plaza Fatahillah y alberga el Museo de Historia de Yakarta. Aún más al oeste, en el viejo puerto de Sunda Kelapa, las goletas pinisi de madera siguen amarradas a lo largo del muelle.
 
-Al este del estadio, Kelapa Gading es una zona gastronómica conocida por sus centros comerciales y sus restaurantes chino-indonesios. Resulta ideal para cenar tarde mientras se despeja el tráfico en torno al JIS. Deje pasar al menos una hora después del bis antes de intentar volver hacia el sur.
+Al este del estadio, Kelapa Gading es una zona gastronómica conocida por sus centros comerciales y sus restaurantes chino-indonesios. Resulta ideal para una cena tardía mientras se despeja el tráfico en torno al JIS, que tras un concierto de estadio suele tardar una hora o más en aflojar.

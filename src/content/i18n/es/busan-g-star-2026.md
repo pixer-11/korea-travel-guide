@@ -1,65 +1,63 @@
 ---
 lang: es
 slug: busan-g-star-2026
-srcHash: 'c98469082cda'
+srcHash: '81185606829c'
 title: 'G-STAR 2026: fechas, entradas y sede (Busan)'
-description: Del 19 al 22 de noviembre de 2026, el BEXCO, en el distrito busanés de Centum City, acoge la edición 2026 de G-STAR.
-quickAnswer: Del 19 al 22 de noviembre de 2026, el BEXCO, situado en el distrito de Centum City (Busan), acoge G-STAR 2026. Se trata de la mayor feria internacional de videojuegos de Corea y cuenta con una zona de exposición abierta al público y otra área de negocios reservada a los profesionales del sector. Justo al lado del centro de convenciones se encuentra la estación de Centum City, en la línea 2 del metro de Busan.
+description: Las fechas anunciadas para G-STAR 2026 eran del 19 al 22 de noviembre de 2026, en BEXCO, dentro del distrito de Centum City de Busan.
+quickAnswer: Las fechas anunciadas para G-STAR 2026 eran del 19 al 22 de noviembre de 2026, en BEXCO, dentro del distrito de Centum City de Busan. Se trata de la mayor feria internacional de videojuegos de Corea, con una zona de exposición abierta al público y un área profesional para los visitantes del sector. La estación Centum City, de la línea 2 del metro de Busan, se encuentra justo al lado del centro de convenciones.
 faq:
-  - q: ¿Cuándo y dónde se celebra G-STAR 2026?
-    a: G-STAR 2026 tiene lugar del 19 al 22 de noviembre de 2026 en el BEXCO, en la zona de Centum City del distrito de Haeundae-gu, en Busan.
-  - q: ¿Cuál es la estación de metro más cercana al BEXCO?
-    a: La estación de Centum City, en la línea 2 del metro de Busan. Está señalizada también como BEXCO y se encuentra junto al centro de convenciones. A poca distancia a pie queda la estación de Centum, en la línea Donghae.
+  - q: ¿Cuándo y dónde estaba programado G-STAR 2026?
+    a: Las fechas anunciadas eran del 19 al 22 de noviembre de 2026, en BEXCO, en la zona de Centum City del distrito de Haeundae-gu, en Busan.
+  - q: ¿Cuál es la estación de metro más cercana a BEXCO?
+    a: La estación Centum City, de la línea 2 del metro de Busan. También está señalizada como BEXCO y se sitúa junto al centro de convenciones. La estación Centum, de la línea Donghae, queda a poca distancia a pie.
   - q: ¿Dónde se publican las entradas y el plano de los pabellones?
-    a: En la web oficial de G-STAR, gestionada por la organización, se encuentran las fechas, la distribución de los pabellones y los enlaces para comprar entradas.
-  - q: ¿Qué días hay más gente?
-    a: El fin de semana, el 21 y el 22 de noviembre, suele registrar la mayor afluencia, ya que estudiantes y oficinistas tienen el día libre. Quienes pueden elegir suelen ir el jueves o el viernes.
+    a: En cada edición, la venta de entradas y la distribución de los pabellones suelen correr a cargo de la organización de G-STAR.
+  - q: ¿Qué días hay más afluencia?
+    a: En G-STAR, los días de fin de semana suelen ser los más concurridos, ya que estudiantes y oficinistas tienen tiempo libre. En 2026, el fin de semana caía el 21 y el 22 de noviembre. Quienes pueden elegir suelen acudir el jueves o el viernes.
   - q: ¿Dónde suelen alojarse los visitantes?
-    a: Las bases habituales son Centum City y la playa de Haeundae. Haeundae está a dos paradas del BEXCO por la línea 2 y cuenta con numerosos hoteles en primera línea de playa.
+    a: Lo habitual es alojarse en Centum City o junto a la playa de Haeundae. Haeundae está a dos paradas de BEXCO por la línea 2, y en su paseo marítimo abundan los hoteles.
 ---
 
-## Cuatro días de videojuegos coreanos en el BEXCO
+## Cuatro días de videojuegos coreanos en BEXCO
 
-Del 19 al 22 de noviembre, G-STAR 2026 ocupa el BEXCO. Durante esos días, la mayor feria internacional de videojuegos de Corea llena el centro de convenciones de estands de editoras, demos jugables y espectáculos en escenario. Acuden tanto aficionados como profesionales del sector llegados de todo el este de Asia. En coreano se escribe 지스타, aunque la mayoría de la gente del lugar la llama sencillamente «G-STAR».
+Las fechas anunciadas para G-STAR 2026 eran del 19 al 22 de noviembre, en BEXCO. La mayor feria internacional de videojuegos de Corea llena el centro de convenciones de estands de editoras, demos jugables y actividades sobre el escenario. Entre el público hay tanto aficionados como profesionales del sector llegados de todo el este de Asia. En coreano se escribe 지스타, aunque la mayoría de la gente del lugar dice simplemente «G-STAR».
 
-La primera edición se celebró en 2005 en el KINTEX, cerca de Seúl. En 2009 la feria se trasladó a Busan y, desde entonces, el BEXCO la ha acogido casi todos los años. En ediciones anteriores, la zona para el público se mantenía separada del área de negocios, donde se reúnen desarrolladores, inversores y editoras. Quien venga a jugar encontrará lo principal en los pabellones públicos; quien venga a cerrar acuerdos, en el área profesional.
+La feria nació en 2005 en KINTEX, cerca de Seúl. En 2009 se trasladó a Busan y, desde entonces, BEXCO ha sido su sede la mayoría de los años. En ediciones anteriores, la zona destinada al público se mantenía separada del área profesional, donde desarrolladores, inversores y editoras celebran sus reuniones. Para los jugadores, lo principal son los pabellones abiertos al público; para quienes acuden a cerrar acuerdos, lo es el área profesional.
 
-En la web oficial de G-STAR, gestionada por la organización, se publican las fechas, el plano de los pabellones y los enlaces para comprar entradas.
+En cada edición, la venta de entradas y la distribución de los pabellones suelen correr a cargo de la organización de G-STAR.
 
 ## Cómo llegar a Centum City
 
-El BEXCO se encuentra en Haeundae-gu, dentro de esa cuadrícula de torres acristaladas que se conoce como Centum City. Para llegar:
+BEXCO se encuentra en Haeundae-gu, en la cuadrícula de torres de cristal conocida como Centum City. Estas son las opciones para llegar:
 
-- **Línea 2 del metro de Busan:** la estación de Centum City, que también lleva el nombre de BEXCO, tiene su salida junto a los pabellones.
-- **Línea Donghae:** la estación de Centum queda a poca distancia a pie, hacia el este.
-- **Desde el aeropuerto de Gimhae:** hay que tomar el tren ligero hasta Sasang y allí cambiar a la línea 2 en dirección este. El trayecto, que cruza toda la ciudad, es largo.
-- **Desde la estación de Busan (KTX):** se toma la línea 1 hasta Seomyeon y, desde allí, la línea 2 en dirección a Jangsan.
+- **Línea 2 del metro de Busan:** la estación Centum City, cuyo segundo nombre es BEXCO, tiene su salida junto a los pabellones.
+- **Línea Donghae:** la estación Centum queda hacia el este, a poca distancia a pie.
+- **Desde el aeropuerto de Gimhae:** el tren ligero llega hasta Sasang, donde se toma la línea 2 en dirección este. Es un trayecto largo que atraviesa toda la ciudad.
+- **Desde la estación de Busan (KTX):** línea 1 hasta Seomyeon y, desde allí, línea 2 en dirección a Jangsan.
 
-Al lado se alza Shinsegae Centum City, que en su día fue reconocido como el mayor gran almacén del mundo. Con su zona de restauración, sus cines y los baños termales de Spa Land, es el lugar al que acude la mayoría de los visitantes para comer y descansar entre una sesión y otra.
+Al lado se alza Shinsegae Centum City, que llegó a estar certificado como el mayor gran almacén del mundo. Con su zona de restauración, sus cines y el balneario Spa Land, es el lugar donde la mayoría de los asistentes comen y descansan entre una visita y otra a los pabellones.
 
-## Dentro de los pabellones, como un habitual
+## Dentro de los pabellones, como los habituales
 
-Por lo general, cada uno de los grandes estands de editoras con demos jugables gestiona su propia cola. Los habituales eligen los uno o dos títulos que más les interesan y hacen cola primero para esos. Las esperas suelen ser más largas el fin de semana, el 21 y el 22 de noviembre, ya que estudiantes y oficinistas no pueden ir ni el jueves ni el viernes. Quien tenga margen para elegir suele optar por un día laborable.
+Los grandes estands de las editoras con demos jugables suelen gestionar sus propias colas. Los asiduos eligen los uno o dos títulos que más les interesan y empiezan por hacer cola para ellos. Las esperas suelen alargarse los días de fin de semana, que en 2026 eran el 21 y el 22 de noviembre, porque estudiantes y oficinistas no pueden acudir el jueves ni el viernes. Quien puede elegir día suele ir entre semana.
 
-Algunas cosas que facilitan la jornada:
+Esto es lo que suelen llevar los habituales:
 
-- **Tarjeta T-money:** esta tarjeta sin contacto sirve en el metro, en los autobuses y en las tiendas de conveniencia, y evita tener que pasar por la máquina de billetes sencillos en cada viaje.
-- **Batería externa para el móvil:** se pasará el día fotografiando estands, escaneando códigos QR y usando la aplicación del evento.
-- **Bolsa de tela:** los estands reparten regalos y productos promocionales sin parar.
-- **Ropa por capas:** a finales de noviembre, en Busan hace fresco en la calle, mientras que en los pabellones abarrotados se pasa calor.
+- **Tarjeta T-money:** esta tarjeta sin contacto sirve en el metro, en los autobuses y en las tiendas de conveniencia, y evita pasar cada vez por la máquina de billetes sencillos.
+- **Batería externa para el móvil:** los visitantes se pasan el día fotografiando estands, escaneando códigos QR y usando la aplicación del evento.
+- **Bolsa de tela:** los estands reparten sin parar obsequios y artículos promocionales.
+- **Ropa por capas:** a finales de noviembre hace fresco en Busan, mientras que en los pabellones abarrotados sube la temperatura.
 
-En Corea, las normas para hacer cola son estrictas. Nadie guarda el sitio a los amigos que llegan más tarde, y es frecuente que el personal cierre la fila cuando una sesión está completa. Los cosplayers suelen reunirse en las explanadas exteriores, y lo normal es pedirles permiso antes de hacerles fotos de cerca.
+En Corea, las normas de las colas son estrictas. Nadie guarda sitio a los amigos que llegan más tarde, y es frecuente que el personal corte la fila en cuanto se completa una sesión. Los cosplayers suelen reunirse cerca de las plazas exteriores, y lo normal es pedirles permiso antes de hacerles fotos de cerca.
 
-## Dónde alojarse cerca de la feria
+## Alojamiento cerca de la feria
 
-Los hoteles de Centum City y de la playa de Haeundae son la base más lógica. La playa está dos paradas al este por la línea 2, en la estación de Haeundae. Muchos visitantes suelen rematar la jornada de feria con un paseo vespertino por el paseo marítimo. A finales de noviembre hace demasiado frío para bañarse, pero el tiempo resulta agradable para caminar.
+Los hoteles de Centum City y de la playa de Haeundae son la base natural. La playa está dos paradas al este por la línea 2, en la estación de Haeundae. Rematar la jornada de feria con un paseo vespertino por el paseo marítimo es una costumbre muy extendida: a finales de noviembre hace demasiado frío para bañarse, pero el tiempo acompaña para caminar. A un corto trayecto en taxi hacia el suroeste queda la playa de Gwangalli, frente a la cual se ilumina de noche el puente Gwangan.
 
-A un corto trayecto en taxi hacia el suroeste queda la playa de Gwangalli, frente a la cual el puente Gwangan se ilumina por la noche sobre el agua.
-
-Quienes disponen de un día libre suelen visitar:
+Quienes disponen de un día libre suelen visitar estos lugares:
 
 - **Haedong Yonggungsa:** un templo levantado sobre las rocas de la costa, al noreste de Haeundae.
 - **Mercado de pescado de Jagalchi:** en la antigua zona portuaria de Nampo-dong.
-- **Aldea cultural de Gamcheon:** una ladera cubierta de casas pintadas.
+- **Aldea Cultural de Gamcheon:** una ladera cubierta de casas pintadas.
 
-Al terminar la feria, los estudiantes se dirigen a Seomyeon, en el cruce de las líneas 1 y 2, para cenar tarde y salir de bares.
+Al salir de la feria, los estudiantes se dirigen a Seomyeon, en el cruce de las líneas 1 y 2, para cenar tarde y tomar algo.
