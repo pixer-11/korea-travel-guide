@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "ENDED-EVENT-PRESENT-TENSE bangkok-song-wat-week-2026.md": {
+      "since": "2026-11-23",
+      "last": "2026-11-23",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
