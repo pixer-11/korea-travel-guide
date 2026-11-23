@@ -23571,9 +23571,9 @@
  },
  "maromme-french-snooker-masters-tn2\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Snooker_900_match_arena.jpg/1920px-Snooker_900_match_arena.jpg": {
   "slug": "maromme-french-snooker-masters-tn2",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Snooker venue setup matches event type, acceptable",
-  "at": "2026-11-22T20:47:07.672Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"snooker\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-23T08:25:59.208Z"
  },
  "marseille-au-bout-du-quai\u0001https://fastly.4sqi.net/img/general/original/1358503917_i22wmtoB5BP3SZpghHN5h-VblHumjIEsQbKt75IzWLA.jpg": {
   "slug": "marseille-au-bout-du-quai",
@@ -25276,9 +25276,9 @@
  },
  "mumbai-lollapalooza-india\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lollapalooza_2015.JPG/3840px-Lollapalooza_2015.JPG": {
   "slug": "mumbai-lollapalooza-india",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Lollapalooza stage/crowd shot, valid archive event photo",
-  "at": "2026-11-22T20:49:05.271Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"lollapalooza\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-23T08:25:59.380Z"
  },
  "mumbai-mokai\u0001https://fastly.4sqi.net/img/general/original/1378677409_BIPtceEJaXTn_gF5hEHZJcKs4jBoFinwcE8NOQZvKQw.jpg": {
   "slug": "mumbai-mokai",
@@ -26483,9 +26483,9 @@
  },
  "new-plymouth-tsb-festival-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/TSB_Ouverture_Festival.jpg": {
   "slug": "new-plymouth-tsb-festival-of-lights",
-  "verdict": "MATCH",
-  "reason": "event publish gate: Concert stage with lights, fits festival of lights event",
-  "at": "2026-11-22T20:53:13.533Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"tsb\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-23T08:25:59.553Z"
  },
  "new-taipei-bitan-qiaotou-goose\u0001https://fastly.4sqi.net/img/general/original/71840748_FP88Iyk1uWSnP2-zS0CBcY59ZVoJ0hvOpRwYTVYxjtg.jpg": {
   "slug": "new-taipei-bitan-qiaotou-goose",

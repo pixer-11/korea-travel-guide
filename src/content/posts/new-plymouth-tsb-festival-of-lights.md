@@ -13,14 +13,6 @@ eventOffers:
   free: true
   currency: NZD
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/TSB_Ouverture_Festival.jpg
-  credit: 'Photo: Obi Riddim / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:TSB_Ouverture_Festival.jpg
-  focus:
-    x: 50
-    'y': 40
 gallery: []
 tags:
   - new plymouth

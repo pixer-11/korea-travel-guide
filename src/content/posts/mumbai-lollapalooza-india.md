@@ -10,14 +10,6 @@ eventEndDate: '2027-01-24'
 eventRecurring: true
 eventVenue: Mahalaxmi Race Course
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lollapalooza_2015.JPG/3840px-Lollapalooza_2015.JPG
-  credit: 'Photo: Aneil Lutchman / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lollapalooza_2015.JPG
-  focus:
-    x: 70
-    'y': 40
 gallery: []
 tags:
   - mumbai

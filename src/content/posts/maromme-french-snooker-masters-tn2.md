@@ -9,14 +9,6 @@ eventStartDate: '2026-12-12'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Snooker_900_match_arena.jpg/1920px-Snooker_900_match_arena.jpg
-  credit: 'Photo: BennyOnTheLoose / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Snooker_900_match_arena.jpg
-  focus:
-    x: 50
-    'y': 55
 gallery: []
 tags:
   - maromme
