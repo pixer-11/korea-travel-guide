@@ -1,6 +1,9 @@
 ---
 title: 'Dab-pa Modern Chinese Cuisine: Where to Eat in Sha Tin'
-description: Dab-pa Modern Chinese Cuisine sits on the first floor of New Town Plaza's Phase 1 in Sha Tin, open daily 11:30am–10pm. 4.3★ (448 reviews) — what visitors say, hours, and tips.
+description: >-
+  Dab-pa Modern Chinese Cuisine sits on the first floor of New Town Plaza's
+  Phase 1 in Sha Tin, open daily 11:30am–10pm. 4.3★ (490 reviews) — what
+  visitors say, hours, and tips.
 country: Hong Kong
 region: Sha Tin
 category: restaurant
@@ -8,11 +11,12 @@ pubDate: '2026-08-18T09:09:50.605Z'
 place:
   id: ChIJJ_dm554HBDQRxM2beQ68u-I
   name: Dab-pa Modern Chinese Cuisine
-  address: Hong Kong, Sha Tin, 新城市廣場第一期第一層112號舖
+  address: 'Hong Kong, New Territories, Sha Tin, 新城市廣場第一期第一層112號舖'
   rating: 4.3
-  userRatingsTotal: 448
+  userRatingsTotal: 490
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=16337858843572424132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16337858843572424132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.382029
   lng: 114.18954459999999
@@ -40,28 +44,49 @@ place:
 tags:
   - sha tin
   - street food
-quickAnswer: Dab-pa Modern Chinese Cuisine sits on the first floor of New Town Plaza's Phase 1 in Sha Tin, open daily 11:30am–10pm. Go on a weekday between 3pm and 5pm if you want the dining room to yourself; weekends from 1pm to 9pm get packed with shoppers. It's mid-range for a modern Chinese sit-down meal, and still flies under most tourist radars despite a strong local rating.
+quickAnswer: >-
+  Dab-pa Modern Chinese Cuisine sits on the first floor of New Town Plaza's
+  Phase 1 in Sha Tin, open daily 11:30am–10pm. Go on a weekday between 3pm and
+  5pm if you want the dining room to yourself; weekends from 1pm to 9pm get
+  packed with shoppers. It's mid-range for a modern Chinese sit-down meal, and
+  still flies under most tourist radars despite a strong local rating.
 faq:
   - q: How do I get to Dab-pa Modern Chinese Cuisine?
-    a: Take the East Rail Line to Sha Tin station, which connects directly into New Town Plaza. Head to Phase 1, Level 1, Shop 112 — the mall's older wing, not the newer towers.
+    a: >-
+      Take the East Rail Line to Sha Tin station, which connects directly into
+      New Town Plaza. Head to Phase 1, Level 1, Shop 112 — the mall's older
+      wing, not the newer towers.
   - q: When is the quietest time to visit?
-    a: Weekdays between 3pm and 5pm are the calmest window, falling between the lunch and dinner rushes. Weekends from 1pm to 9pm are the busiest, so avoid that stretch if you want a table without a wait.
+    a: >-
+      Weekdays between 3pm and 5pm are the calmest window, falling between the
+      lunch and dinner rushes. Weekends from 1pm to 9pm are the busiest, so
+      avoid that stretch if you want a table without a wait.
   - q: Do I need a reservation?
-    a: It's not essential on weekdays, but for weekend lunch or dinner it's safer to call ahead or arrive right at the 11:30am opening or just after 5pm.
+    a: >-
+      It's not essential on weekdays, but for weekend lunch or dinner it's safer
+      to call ahead or arrive right at the 11:30am opening or just after 5pm.
   - q: How much should I expect to pay?
-    a: It's mid-range for Hong Kong dining — pricier than a noodle shop but well below a formal banquet restaurant. Dishes are portioned for sharing, so cost per person drops when you dine in a group.
+    a: >-
+      It's mid-range for Hong Kong dining — pricier than a noodle shop but well
+      below a formal banquet restaurant. Dishes are portioned for sharing, so
+      cost per person drops when you dine in a group.
   - q: What else can I do nearby?
-    a: The Hong Kong Heritage Museum, the Shing Mun River promenade, and the rest of New Town Plaza's shops and cinemas are all within a short walk, making it easy to combine with a meal here.
+    a: >-
+      The Hong Kong Heritage Museum, the Shing Mun River promenade, and the rest
+      of New Town Plaza's shops and cinemas are all within a short walk, making
+      it easy to combine with a meal here.
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1719059__LufEYfhAKDY5WmMv_AoU3M_7L6da2utr10MaQKbxlQ.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1719059__LufEYfhAKDY5WmMv_AoU3M_7L6da2utr10MaQKbxlQ.jpg
   credit: 'Photo: Foursquare user content (Dab-Pa (稻成))'
   license: foursquare
-  source: https://foursquare.com/v/5fdc393355f8881f41c50fe1
+  source: 'https://foursquare.com/v/5fdc393355f8881f41c50fe1'
   focus:
     x: 60
     'y': 50
+updatedDate: '2026-11-23'
 ---
 ## Why Dab-pa is worth the detour
 

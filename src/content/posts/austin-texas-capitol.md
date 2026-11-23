@@ -1,8 +1,8 @@
 ---
-title: 'Texas Capitol: Austin Travel Guide (4.7★)'
+title: 'Texas Capitol: Austin Travel Guide (4.8★)'
 description: >-
   The Texas Capitol, at 1100 Congress Ave., is open daily (7am–8pm weekdays,
-  9am–8pm weekends) and free to enter. 4.7★ (5,096 reviews) — what visitors say,
+  9am–8pm weekends) and free to enter. 4.8★ (5,299 reviews) — what visitors say,
   hours, and tips.
 country: United States
 region: Austin
@@ -19,8 +19,8 @@ place:
   id: ChIJz42sFKC1RIYROdCVpyJXb8s
   name: Texas Capitol
   address: '1100 Congress Ave., Austin, TX 78701, USA'
-  rating: 4.7
-  userRatingsTotal: 5096
+  rating: 4.8
+  userRatingsTotal: 5299
   googleMapsUrl: >-
     https://maps.google.com/?cid=14659031118466371641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -68,7 +68,7 @@ faq:
       one of the downtown bus routes along Congress or 11th Street.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

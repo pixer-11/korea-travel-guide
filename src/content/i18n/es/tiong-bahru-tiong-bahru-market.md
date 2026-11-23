@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: tiong-bahru-tiong-bahru-market
-srcHash: '33b667f77eb7'
+srcHash: '5132958fbea5'
 title: 'Mercado de Tiong Bahru: dónde comer (4,3★)'
-description: 'El mercado de Tiong Bahru es un centro de puestos de comida (hawker centre) y mercado húmedo de dos plantas situado en 30 Seng Poh Rd, célebre por su chwee kueh, su lor mee y un legendario puesto de congee de pollo. 4,3★ (10.903 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado de Tiong Bahru es un centro de puestos de comida (hawker centre) y mercado húmedo de dos plantas situado en 30 Seng Poh Rd, célebre por su chwee kueh, su lor mee y un legendario puesto de congee de pollo. 4,3★ (11.010 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Tiong Bahru es un centro de puestos de comida y mercado húmedo de dos plantas situado en 30 Seng Poh Rd, célebre por su chwee kueh, su lor mee y un legendario puesto de congee de pollo. Conviene ir temprano (antes de las 9:00) para encontrar la comida más fresca y conseguir asiento, ya que este lugar económico está siempre lleno y muy bien valorado. Hay que reservar entre 45 y 90 minutos, más un rato adicional para curiosear por el mercado húmedo de la planta baja si le interesan los productos locales.
 faq:
   - q: ¿Cómo se llega al mercado de Tiong Bahru?

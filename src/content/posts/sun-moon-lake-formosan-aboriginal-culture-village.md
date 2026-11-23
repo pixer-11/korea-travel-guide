@@ -1,44 +1,53 @@
 ---
-title: "Formosan Aboriginal Culture Village: Sun Moon Lake Travel Guide"
-description: "Formosan Aboriginal Culture Village is a hillside theme park on Sun Moon Lake's southern shore combining a cable-car ride, indigenous dance performances, and rides. 4.4★ (32,653 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Sun Moon Lake"
-category: "attraction"
-pubDate: "2026-08-19T08:59:10.048Z"
+title: 'Formosan Aboriginal Culture Village: Sun Moon Lake Travel Guide'
+description: >-
+  Formosan Aboriginal Culture Village is a hillside theme park on Sun Moon
+  Lake's southern shore combining a cable-car ride, indigenous dance
+  performances, and rides. 4.4★ (32,860 reviews) — what visitors say, hours, and
+  tips.
+country: Taiwan
+region: Sun Moon Lake
+category: attraction
+pubDate: '2026-08-19T08:59:10.048Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Turnstile_entrance_to_the_Formosan_Aboriginal_Culture_Village.jpg/1920px-Turnstile_entrance_to_the_Formosan_Aboriginal_Culture_Village.jpg"
-  credit: "Photo: sfmine79 / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Turnstile_entrance_to_the_Formosan_Aboriginal_Culture_Village.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Turnstile_entrance_to_the_Formosan_Aboriginal_Culture_Village.jpg/1920px-Turnstile_entrance_to_the_Formosan_Aboriginal_Culture_Village.jpg
+  credit: 'Photo: sfmine79 / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Turnstile_entrance_to_the_Formosan_Aboriginal_Culture_Village.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91_Formosa_Aboriginal_Culture_Village_-_panoramio.jpg/3840px-%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91_Formosa_Aboriginal_Culture_Village_-_panoramio.jpg"
-    credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91_Formosa_Aboriginal_Culture_Village_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91_Formosa_Aboriginal_Culture_Village_-_panoramio.jpg/3840px-%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91_Formosa_Aboriginal_Culture_Village_-_panoramio.jpg
+    credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91_Formosa_Aboriginal_Culture_Village_-_panoramio.jpg
 place:
-  id: "ChIJB8caq4_WaDQRxkTmSZXEj1c"
-  name: "Formosan Aboriginal Culture Village"
-  address: "555, Taiwan, Nantou County, Yuchi Township, Dalin Village, 金天巷45號"
+  id: ChIJB8caq4_WaDQRxkTmSZXEj1c
+  name: Formosan Aboriginal Culture Village
+  address: '555, Taiwan, Nantou County, Yuchi Township, Dalin Village, 金天巷45號'
   rating: 4.4
-  userRatingsTotal: 32653
-  googleMapsUrl: "https://maps.google.com/?cid=6309477748438353094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 32860
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6309477748438353094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.865327999999998
   lng: 120.94818699999999
-  phone: "+886 49 289 5361"
+  phone: +886 49 289 5361
   openingHours:
-    - "Monday: 9:30 AM – 5:00 PM"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: 9:30 AM – 5:00 PM"
-    - "Thursday: 9:30 AM – 5:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: 9:30 AM – 5:00 PM'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: 9:30 AM – 5:00 PM'
+    - 'Thursday: 9:30 AM – 5:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 16
@@ -49,24 +58,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_63316a45585a536d546b7852514461575f3471616338424a496843"
+    venueId: ven_63316a45585a536d546b7852514461575f3471616338424a496843
 tags:
-  - "sun moon lake"
-  - "museum"
-quickAnswer: "Formosan Aboriginal Culture Village is a hillside theme park on Sun Moon Lake's southern shore combining a cable-car ride, indigenous dance performances, and rides. Give it 4-6 hours, take the Sun Moon Lake Ropeway up from the lakeside entrance, and time performances around the schedule board at the gate. Weekdays 10am-5pm run calmest; weekends after 11am get busy, so arrive at opening."
+  - sun moon lake
+  - museum
+quickAnswer: >-
+  Formosan Aboriginal Culture Village is a hillside theme park on Sun Moon
+  Lake's southern shore combining a cable-car ride, indigenous dance
+  performances, and rides. Give it 4-6 hours, take the Sun Moon Lake Ropeway up
+  from the lakeside entrance, and time performances around the schedule board at
+  the gate. Weekdays 10am-5pm run calmest; weekends after 11am get busy, so
+  arrive at opening.
 faq:
-  - q: "How do I get to Formosan Aboriginal Culture Village?"
-    a: "Take the Sun Moon Lake Ropeway from the lakeside station near Ita Thao village — it's a scenic 15-20 minute cable car ride directly into the park. You can also drive or take a shuttle bus to the road entrance."
-  - q: "How long should I plan to spend there?"
-    a: "Budget four to six hours to catch a performance, walk the indigenous village trail, ride a few attractions, and take the ropeway both ways."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 10am and 5pm are consistently calmer. Weekends get busy after 11am and stay crowded until closing, so arrive right at 9:30am opening if that's your only option."
-  - q: "What are the opening hours?"
-    a: "9:30am–5pm Monday through Friday, and 9:30am–5:30pm on Saturday and Sunday. Confirm current hours on the official site before visiting, as schedules can shift seasonally."
-  - q: "What shouldn't I miss inside the park?"
-    a: "The live indigenous dance performances and the nine replica tribal dwellings along the walking trail are the highlights — check the show schedule at the entrance so you don't miss a start time."
+  - q: How do I get to Formosan Aboriginal Culture Village?
+    a: >-
+      Take the Sun Moon Lake Ropeway from the lakeside station near Ita Thao
+      village — it's a scenic 15-20 minute cable car ride directly into the
+      park. You can also drive or take a shuttle bus to the road entrance.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget four to six hours to catch a performance, walk the indigenous
+      village trail, ride a few attractions, and take the ropeway both ways.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 10am and 5pm are consistently calmer. Weekends get busy
+      after 11am and stay crowded until closing, so arrive right at 9:30am
+      opening if that's your only option.
+  - q: What are the opening hours?
+    a: >-
+      9:30am–5pm Monday through Friday, and 9:30am–5:30pm on Saturday and
+      Sunday. Confirm current hours on the official site before visiting, as
+      schedules can shift seasonally.
+  - q: What shouldn't I miss inside the park?
+    a: >-
+      The live indigenous dance performances and the nine replica tribal
+      dwellings along the walking trail are the highlights — check the show
+      schedule at the entrance so you don't miss a start time.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

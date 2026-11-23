@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: tainan-tainan-confucius-temple
-srcHash: '52dd697e1c66'
+srcHash: '1cf9117cac51'
 title: 'Templo de Confucio de Tainan: Guía de viaje (4,4★)'
-description: 'El Templo de Confucio de Tainan, en el Distrito Centro-Oeste (West Central District), cerca de Fucheng Road y Nanmen Road, es el templo confuciano más antiguo de Taiwán, construido en 1665. 4,4★ (12.763 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Templo de Confucio de Tainan, en el Distrito Centro-Oeste (West Central District), cerca de Fucheng Road y Nanmen Road, es el templo confuciano más antiguo de Taiwán, construido en 1665. 4,4★ (12.984 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Templo de Confucio de Tainan, situado en el Distrito Centro-Oeste (West Central District) cerca de Fucheng Road y Nanmen Road, es el templo confuciano más antiguo de Taiwán, construido en 1665. Abre todos los días de 8:30 a 17:30; conviene ir justo a la apertura o entre las 9:00 y las 10:00 en días laborables para adelantarse a los grupos turísticos que llenan el patio de 10:00 a 17:00 los fines de semana. Calcule entre 45 y 60 minutos de visita y combínela con las cercanas Calles Antiguas (Old Streets) y el Jardín Wu (Wu Garden).
 faq:
   - q: ¿Cuál es el horario de apertura?

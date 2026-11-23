@@ -27,7 +27,7 @@ place:
     Barbaros, Atatürk Cd, Barbaros, Hadrian Kale Kapısı, 07100
     Muratpaşa/Antalya, Türkiye
   rating: 4.7
-  userRatingsTotal: 13847
+  userRatingsTotal: 14969
   googleMapsUrl: >-
     https://maps.google.com/?cid=12909598513418892602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -78,7 +78,7 @@ faq:
       short tram ride.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 ## Why go
 

@@ -3,7 +3,7 @@ title: 'Jallianwala Bagh: Amritsar Travel Guide (4.6★)'
 description: >-
   Jallianwala Bagh is a walled memorial garden in Amritsar's old city, a
   two-minute walk from the Golden Temple, marking the site of the 1919 massacre.
-  4.6★ (104,142 reviews) — what visitors say, hours, and tips.
+  4.6★ (105,170 reviews) — what visitors say, hours, and tips.
 country: India
 region: Amritsar
 category: attraction
@@ -22,7 +22,7 @@ place:
     Golden Temple Rd, Jallan Wala Bagh, Katra Ahluwalia, Amritsar, Amritsar
     Cantt., Punjab 143006, India
   rating: 4.6
-  userRatingsTotal: 104142
+  userRatingsTotal: 105170
   googleMapsUrl: >-
     https://maps.google.com/?cid=14628036244024375131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -49,7 +49,7 @@ place:
       - 15
       - 16
     venueId: ven_73634135596e4663653757526b54473839614b345061374a496843
-  phone: '+91 99144 04090'
+  phone: +91 99144 04090
 tags:
   - amritsar
   - top attraction
@@ -80,7 +80,7 @@ faq:
       closing day.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 
 You enter through a narrow brick passage, the same lane thousands walked through in 1919, and the noise of the bazaar behind you drops away almost instantly. That corridor is the point: it's still too tight for more than a few people abreast, and standing in it is the first thing that makes this place land differently than a typical city park.

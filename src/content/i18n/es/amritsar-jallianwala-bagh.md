@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: amritsar-jallianwala-bagh
-srcHash: 'c9dd186bf8a7'
+srcHash: 'c694e972c5f1'
 title: 'Jallianwala Bagh: guía de viaje de Amritsar (4,6★)'
-description: 'Jallianwala Bagh es un jardín conmemorativo amurallado en el casco antiguo de Amritsar, a dos minutos a pie del Templo Dorado, que señala el lugar de la masacre de 1919. 4,6★ (104.142 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Jallianwala Bagh es un jardín conmemorativo amurallado en el casco antiguo de Amritsar, a dos minutos a pie del Templo Dorado, que señala el lugar de la masacre de 1919. 4,6★ (105.170 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Jallianwala Bagh es un jardín conmemorativo amurallado en el casco antiguo de Amritsar, a dos minutos a pie del Templo Dorado, que señala el lugar de la masacre de 1919. Abre todos los días de 9:00 a 17:00, la entrada es gratuita y hace falta entre 45 y 60 minutos para recorrerlo. Conviene ir un día de semana entre las 9:00 y las 11:00 para verlo sin las aglomeraciones que se forman desde media mañana hasta la tarde.
 faq:
   - q: ¿Hay que pagar entrada para visitar Jallianwala Bagh?

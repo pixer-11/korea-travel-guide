@@ -1,40 +1,45 @@
 ---
-title: "Perak Museum: Taiping Travel Guide (4.3★)"
-description: "Perak Museum in Taiping is Malaysia's oldest museum, an 1833-style colonial building packed with natural history specimens, tribal artefacts and Perak's tin-mining history. 4.3★ (3,324 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Taiping"
-category: "attraction"
-pubDate: "2026-08-19T09:22:45.738Z"
+title: 'Perak Museum: Taiping Travel Guide (4.4★)'
+description: >-
+  Perak Museum in Taiping is Malaysia's oldest museum, an 1833-style colonial
+  building packed with natural history specimens, tribal artefacts and Perak's
+  tin-mining history. 4.4★ (3,393 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Taiping
+category: attraction
+pubDate: '2026-08-19T09:22:45.738Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Perak_Taiping.jpg/1920px-Museum_Perak_Taiping.jpg"
-  credit: "Photo: Taipingite / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_Perak_Taiping.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Perak_Taiping.jpg/1920px-Museum_Perak_Taiping.jpg
+  credit: 'Photo: Taipingite / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museum_Perak_Taiping.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJFwxaMPeuyjER1PLyYIdc6c0"
-  name: "Perak Museum"
-  address: "Jalan Taming Sari, 34000 Taiping, Perak, Malaysia"
-  rating: 4.3
-  userRatingsTotal: 3324
-  googleMapsUrl: "https://maps.google.com/?cid=14837492183865684692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJFwxaMPeuyjER1PLyYIdc6c0
+  name: Perak Museum
+  address: 'Jalan Taming Sari, 34000 Taiping, Perak, Malaysia'
+  rating: 4.4
+  userRatingsTotal: 3393
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14837492183865684692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 4.860418
   lng: 100.7453769
-  phone: "+60 5-807 2057"
+  phone: +60 5-807 2057
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 16
     weekendQuiet:
@@ -43,24 +48,43 @@ place:
     weekendBusy:
       - 12
       - 13
-    venueId: "ven_30633663644959794c503152456a797565504d617877464a496843"
+    venueId: ven_30633663644959794c503152456a797565504d617877464a496843
 tags:
-  - "taiping"
-  - "museum"
-quickAnswer: "Perak Museum in Taiping is Malaysia's oldest museum, an 1833-style colonial building packed with natural history specimens, tribal artefacts and Perak's tin-mining history. It's open daily 9am–5pm; go on a weekend early, since it's quiet 9am–10am and crowds build only 12pm–2pm. Budget 45–60 minutes, more if you linger over the taxidermy hall."
+  - taiping
+  - museum
+quickAnswer: >-
+  Perak Museum in Taiping is Malaysia's oldest museum, an 1833-style colonial
+  building packed with natural history specimens, tribal artefacts and Perak's
+  tin-mining history. It's open daily 9am–5pm; go on a weekend early, since it's
+  quiet 9am–10am and crowds build only 12pm–2pm. Budget 45–60 minutes, more if
+  you linger over the taxidermy hall.
 faq:
-  - q: "What are the opening hours for Perak Museum?"
-    a: "It's open every day of the week, including weekends, from 9:00 AM to 5:00 PM."
-  - q: "How long should I spend at the museum?"
-    a: "Plan for 45 minutes to an hour, longer if you want to read through the natural history and tin-mining exhibits in detail."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 4pm and 5pm sees the fewest visitors. On weekends, crowds stay light throughout the day, with only a small uptick between 12pm and 2pm."
-  - q: "How do I get to Perak Museum from central Taiping?"
-    a: "It's on Jalan Taming Sari, walkable from the town centre and Lake Gardens, or a short taxi/Grab ride if you're coming from further out. Taiping has no rail system, so car or taxi is the standard way to get around."
-  - q: "Is Perak Museum worth visiting?"
-    a: "Yes — it's Malaysia's oldest museum, housed in a striking 1880s colonial building, and offers a genuinely deep look at Perak's natural history, tribal culture and tin-mining past."
+  - q: What are the opening hours for Perak Museum?
+    a: >-
+      It's open every day of the week, including weekends, from 9:00 AM to 5:00
+      PM.
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan for 45 minutes to an hour, longer if you want to read through the
+      natural history and tin-mining exhibits in detail.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 4pm and 5pm sees the fewest visitors. On weekends, crowds
+      stay light throughout the day, with only a small uptick between 12pm and
+      2pm.
+  - q: How do I get to Perak Museum from central Taiping?
+    a: >-
+      It's on Jalan Taming Sari, walkable from the town centre and Lake Gardens,
+      or a short taxi/Grab ride if you're coming from further out. Taiping has
+      no rail system, so car or taxi is the standard way to get around.
+  - q: Is Perak Museum worth visiting?
+    a: >-
+      Yes — it's Malaysia's oldest museum, housed in a striking 1880s colonial
+      building, and offers a genuinely deep look at Perak's natural history,
+      tribal culture and tin-mining past.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## First impressions

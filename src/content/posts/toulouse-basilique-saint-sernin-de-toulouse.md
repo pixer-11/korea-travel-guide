@@ -1,30 +1,40 @@
 ---
 title: 'Basilique Saint-Sernin de Toulouse: Travel Guide (4.7★)'
-description: Basilique Saint-Sernin, near Toulouse's Capitole, is Europe's largest surviving Romanesque church and holds relics of 128 saints. 4.7★ (15,631 reviews) — what visitors say, hours, and tips.
+description: >-
+  Basilique Saint-Sernin, near Toulouse's Capitole, is Europe's largest
+  surviving Romanesque church and holds relics of 128 saints. 4.7★ (16,023
+  reviews) — what visitors say, hours, and tips.
 country: France
 region: Toulouse
 category: hidden-gem
 pubDate: '2026-08-17T08:25:01.735Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/1920px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/1920px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg
   credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg
   focus:
     x: 45
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/North_transepts_-_Basilique_Saint-Sernin_-_fixed_perspective_%28cropped%29.jpg/1920px-North_transepts_-_Basilique_Saint-Sernin_-_fixed_perspective_%28cropped%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/North_transepts_-_Basilique_Saint-Sernin_-_fixed_perspective_%28cropped%29.jpg/1920px-North_transepts_-_Basilique_Saint-Sernin_-_fixed_perspective_%28cropped%29.jpg
     credit: 'Photo: PierreSelim / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:North_transepts_-_Basilique_Saint-Sernin_-_fixed_perspective_(cropped).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:North_transepts_-_Basilique_Saint-Sernin_-_fixed_perspective_(cropped).jpg
 place:
   id: ChIJkRk2cWC7rhIRx3ILZbNVPNk
   name: Basilique Saint-Sernin de Toulouse
-  address: Basilique Saint-Sernin de Toulouse, 7 Pl. Saint-Sernin, 31000 Toulouse, France
+  address: >-
+    Basilique Saint-Sernin de Toulouse, 7 Pl. Saint-Sernin, 31000 Toulouse,
+    France
   rating: 4.7
-  userRatingsTotal: 15631
-  googleMapsUrl: https://maps.google.com/?cid=15653480633815757511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 16023
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15653480633815757511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.608315600000005
   lng: 1.4418039
@@ -55,20 +65,37 @@ place:
 tags:
   - toulouse
   - hidden gem
-quickAnswer: Basilique Saint-Sernin, near Toulouse's Capitole, is Europe's largest surviving Romanesque church and holds relics of 128 saints. It's open 8:30am–6pm Monday to Saturday and 10am–5:30pm Sunday. Go right at opening — 9am–10am is the quietest window every day — since crowds build fast and stay heavy from 11am to 6pm on weekends.
+quickAnswer: >-
+  Basilique Saint-Sernin, near Toulouse's Capitole, is Europe's largest
+  surviving Romanesque church and holds relics of 128 saints. It's open
+  8:30am–6pm Monday to Saturday and 10am–5:30pm Sunday. Go right at opening —
+  9am–10am is the quietest window every day — since crowds build fast and stay
+  heavy from 11am to 6pm on weekends.
 faq:
   - q: What are the opening hours for Basilique Saint-Sernin?
-    a: 8:30am–6pm Monday through Saturday, and 10am–5:30pm on Sunday. Sunday mornings can have restricted access during mass.
+    a: >-
+      8:30am–6pm Monday through Saturday, and 10am–5:30pm on Sunday. Sunday
+      mornings can have restricted access during mass.
   - q: When is the quietest time to visit?
-    a: Between 9am and 10am, both on weekdays and weekends. Weekend afternoons from 11am to 6pm get busiest, so avoid that window if you can.
+    a: >-
+      Between 9am and 10am, both on weekdays and weekends. Weekend afternoons
+      from 11am to 6pm get busiest, so avoid that window if you can.
   - q: How do I get to the basilica by metro?
-    a: Take Line A to Capitole station, then walk about 7–8 minutes north through the old town to Place Saint-Sernin.
+    a: >-
+      Take Line A to Capitole station, then walk about 7–8 minutes north through
+      the old town to Place Saint-Sernin.
   - q: How long should I plan to spend there?
-    a: Around 30–45 minutes for the nave and interior; add extra time if you visit the crypt, which usually has a small separate entry fee.
+    a: >-
+      Around 30–45 minutes for the nave and interior; add extra time if you
+      visit the crypt, which usually has a small separate entry fee.
   - q: Is there an entry fee?
-    a: The basilica itself is generally free to enter, but the crypt with its relics typically charges a modest fee — confirm current pricing at the door since it can change.
+    a: >-
+      The basilica itself is generally free to enter, but the crypt with its
+      relics typically charges a modest fee — confirm current pricing at the
+      door since it can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 ## Why go
 

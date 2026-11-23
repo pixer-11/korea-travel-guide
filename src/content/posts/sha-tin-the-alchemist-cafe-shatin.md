@@ -1,45 +1,54 @@
 ---
-title: "The Alchemist Cafe (Shatin): Sha Tin Travel Guide (4.0★)"
-description: "The Alchemist Cafe sits inside the Hong Kong Heritage Museum complex in Sha Tin (shop G6, Man Lam Road), a bright, plant-filled spot for brunch or coffee between museum galleries. 4.0★ (734 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sha Tin"
-category: "trendy"
-pubDate: "2026-08-18T08:15:53.665Z"
+title: 'The Alchemist Cafe (Shatin): Sha Tin Travel Guide (4.0★)'
+description: >-
+  The Alchemist Cafe sits inside the Hong Kong Heritage Museum complex in Sha
+  Tin (shop G6, Man Lam Road), a bright, plant-filled spot for brunch or coffee
+  between museum galleries. 4.0★ (749 reviews) — what visitors say, hours, and
+  tips.
+country: Hong Kong
+region: Sha Tin
+category: trendy
+pubDate: '2026-08-18T08:15:53.665Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg/3840px-HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg"
-  credit: "Photo: Shunfeng 2088 WEIA / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg/3840px-HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg
+  credit: 'Photo: Shunfeng 2088 WEIA / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_01.jpg/3840px-HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_01.jpg"
-    credit: "Photo: Shunfeng 2088 WEIA / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_01.jpg/3840px-HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_01.jpg
+    credit: 'Photo: Shunfeng 2088 WEIA / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_01.jpg
 place:
-  id: "ChIJtUyG1qsHBDQRmuzBGub4IwY"
-  name: "The Alchemist Cafe (Shatin)"
-  address: "Hong Kong, 沙田文林路1號香港文化博物馆G6號舖"
+  id: ChIJtUyG1qsHBDQRmuzBGub4IwY
+  name: The Alchemist Cafe (Shatin)
+  address: 'Hong Kong, 新界沙田文林路1號香港文化博物馆G6號舖'
   rating: 4
-  userRatingsTotal: 734
+  userRatingsTotal: 749
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=442470855587523738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=442470855587523738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3768793
   lng: 114.18537189999999
-  phone: "+852 2706 2267"
+  phone: +852 2706 2267
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 8:30 AM – 10:00 PM"
-    - "Sunday: 8:30 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 8:30 AM – 10:00 PM'
+    - 'Sunday: 8:30 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 21
@@ -49,24 +58,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_59774934627547427a756d5251444248737131477955744a496843"
+    venueId: ven_59774934627547427a756d5251444248737131477955744a496843
 tags:
-  - "sha tin"
-  - "trendy cafe"
-quickAnswer: "The Alchemist Cafe sits inside the Hong Kong Heritage Museum complex in Sha Tin (shop G6, Man Lam Road), a bright, plant-filled spot for brunch or coffee between museum galleries. Weekdays 10am–10pm are calmest, so go on a Tuesday morning if you can. On weekends it opens earlier at 8:30am and stays busy right through to 8pm, so aim for a late-afternoon coffee instead."
+  - sha tin
+  - trendy cafe
+quickAnswer: >-
+  The Alchemist Cafe sits inside the Hong Kong Heritage Museum complex in Sha
+  Tin (shop G6, Man Lam Road), a bright, plant-filled spot for brunch or coffee
+  between museum galleries. Weekdays 10am–10pm are calmest, so go on a Tuesday
+  morning if you can. On weekends it opens earlier at 8:30am and stays busy
+  right through to 8pm, so aim for a late-afternoon coffee instead.
 faq:
-  - q: "How do I get to The Alchemist Cafe in Sha Tin?"
-    a: "Take the MTR Ma On Shan Line to Che Kung Temple Station, Exit B, then walk about 10 minutes along the river path to the Hong Kong Heritage Museum, where the cafe is on the ground floor (Shop G6)."
-  - q: "What are the opening hours?"
-    a: "Monday to Friday it's open 10am–10pm. Saturday and Sunday it opens earlier at 8:30am, still closing at 10pm."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the full 10am–10pm window. Weekends stay busy from about 9am to 8pm, so avoid that stretch if you want a quiet table."
-  - q: "Do I need a museum ticket to eat there?"
-    a: "No — the cafe sits near the museum entrance and can be visited on its own without paying for museum admission."
-  - q: "How much does it cost and how long should I plan to stay?"
-    a: "It's mid-range pricing, enough for a proper brunch or lunch. Most visitors spend 45 minutes to an hour, often bookending a museum visit or river walk."
+  - q: How do I get to The Alchemist Cafe in Sha Tin?
+    a: >-
+      Take the MTR Ma On Shan Line to Che Kung Temple Station, Exit B, then walk
+      about 10 minutes along the river path to the Hong Kong Heritage Museum,
+      where the cafe is on the ground floor (Shop G6).
+  - q: What are the opening hours?
+    a: >-
+      Monday to Friday it's open 10am–10pm. Saturday and Sunday it opens earlier
+      at 8:30am, still closing at 10pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calm throughout the full 10am–10pm window. Weekends stay busy
+      from about 9am to 8pm, so avoid that stretch if you want a quiet table.
+  - q: Do I need a museum ticket to eat there?
+    a: >-
+      No — the cafe sits near the museum entrance and can be visited on its own
+      without paying for museum admission.
+  - q: How much does it cost and how long should I plan to stay?
+    a: >-
+      It's mid-range pricing, enough for a proper brunch or lunch. Most visitors
+      spend 45 minutes to an hour, often bookending a museum visit or river
+      walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

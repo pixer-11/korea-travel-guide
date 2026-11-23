@@ -3,7 +3,7 @@ title: 'Jardin des Doms: Avignon Travel Guide (4.5★)'
 description: >-
   Jardin des Doms is the hilltop park directly above the Palais des Papes, open
   daily 7:30am–10pm, with sweeping views over the Rhône and the Pont
-  Saint-Bénézet. 4.5★ (3,955 reviews) — what visitors say, hours, and tips.
+  Saint-Bénézet. 4.5★ (4,026 reviews) — what visitors say, hours, and tips.
 country: France
 region: Avignon
 category: attraction
@@ -27,7 +27,7 @@ place:
   name: Jardin des Doms
   address: '2 Mnt des Moulins, 84000 Avignon, France'
   rating: 4.5
-  userRatingsTotal: 3955
+  userRatingsTotal: 4026
   googleMapsUrl: >-
     https://maps.google.com/?cid=9082358154434038243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -100,7 +100,7 @@ faq:
       downhill, making the garden an easy add-on to either visit.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 ## Why go
 

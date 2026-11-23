@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: tainan-tainan-art-museum
-srcHash: '7d81873090d8'
+srcHash: '782ab3446c2f'
 title: 'Museo de Arte de Tainán: Guía de viaje (4,5★)'
-description: 'El Museo de Arte de Tainán (Edificio 2, la geométrica espiral blanca cercana al Templo de Confucio) abre de martes a domingo, de 10:00 a 18:00, con horario extendido hasta las 21:00 los sábados, y permanece cerrado los lunes. 4,5★ (24.164 reseñas): esto es lo que dicen los visitantes, los horarios y algunos consejos útiles.'
+description: 'El Museo de Arte de Tainán (Edificio 2, la geométrica espiral blanca cercana al Templo de Confucio) abre de martes a domingo, de 10:00 a 18:00, con horario extendido hasta las 21:00 los sábados, y permanece cerrado los lunes. 4,5★ (24.381 reseñas): esto es lo que dicen los visitantes, los horarios y algunos consejos útiles.'
 quickAnswer: El Museo de Arte de Tainán (Edificio 2, la geométrica espiral blanca cercana al Templo de Confucio) abre de martes a domingo, de 10:00 a 18:00, con horario extendido hasta las 21:00 los sábados, y permanece cerrado los lunes. Conviene reservar entre 90 minutos y dos horas para la visita, llegar justo a las 10:00 para evitar las aglomeraciones y aprovechar para pasear por la Zona Cultural China que lo rodea. Es, sin duda, uno de los atractivos culturales más concurridos de Tainán, así que las mañanas entre semana son el mejor momento para visitarlo.
 faq:
   - q: ¿Cuál es el horario de apertura?

@@ -1,40 +1,48 @@
 ---
-title: "Tainan Confucius Temple: Travel Guide (4.4★)"
-description: "Tainan Confucius Temple, in West Central District near Fucheng Road and Nanmen Road, is Taiwan's oldest Confucian temple, built in 1665. 4.4★ (12,763 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Tainan"
-category: "attraction"
-pubDate: "2026-08-19T08:02:56.385Z"
+title: 'Tainan Confucius Temple: Travel Guide (4.4★)'
+description: >-
+  Tainan Confucius Temple, in West Central District near Fucheng Road and Nanmen
+  Road, is Taiwan's oldest Confucian temple, built in 1665. 4.4★ (12,984
+  reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Tainan
+category: attraction
+pubDate: '2026-08-19T08:02:56.385Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Confucius_Temple_Tainan_-_Ta_Cheng_Hall_%E8%87%BA%E5%8D%97%E5%AD%94%E5%BB%9F%E5%A4%A7%E6%88%90%E6%AE%BF_%282026%29_-_img_06.jpg/1920px-Confucius_Temple_Tainan_-_Ta_Cheng_Hall_%E8%87%BA%E5%8D%97%E5%AD%94%E5%BB%9F%E5%A4%A7%E6%88%90%E6%AE%BF_%282026%29_-_img_06.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Confucius_Temple_Tainan_-_Ta_Cheng_Hall_%E8%87%BA%E5%8D%97%E5%AD%94%E5%BB%9F%E5%A4%A7%E6%88%90%E6%AE%BF_(2026)_-_img_06.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Confucius_Temple_Tainan_-_Ta_Cheng_Hall_%E8%87%BA%E5%8D%97%E5%AD%94%E5%BB%9F%E5%A4%A7%E6%88%90%E6%AE%BF_%282026%29_-_img_06.jpg/1920px-Confucius_Temple_Tainan_-_Ta_Cheng_Hall_%E8%87%BA%E5%8D%97%E5%AD%94%E5%BB%9F%E5%A4%A7%E6%88%90%E6%AE%BF_%282026%29_-_img_06.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Confucius_Temple_Tainan_-_Ta_Cheng_Hall_%E8%87%BA%E5%8D%97%E5%AD%94%E5%BB%9F%E5%A4%A7%E6%88%90%E6%AE%BF_(2026)_-_img_06.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJFbzVrGJ2bjQRkZC9jslaIgs"
-  name: "Tainan Confucius Temple"
-  address: "No. 2號, Nanmen Rd, Yonghua Village, West Central District, Tainan City, Taiwan 700"
+  id: ChIJFbzVrGJ2bjQRkZC9jslaIgs
+  name: Tainan Confucius Temple
+  address: >-
+    No. 2號, Nanmen Rd, Yonghua Village, West Central District, Tainan City,
+    Taiwan 700
   rating: 4.4
-  userRatingsTotal: 12763
-  googleMapsUrl: "https://maps.google.com/?cid=802303505355083921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12984
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=802303505355083921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.9905296
   lng: 120.2040401
-  phone: "+886 6 221 4647"
+  phone: +886 6 221 4647
   openingHours:
-    - "Monday: 8:30 AM – 5:30 PM"
-    - "Tuesday: 8:30 AM – 5:30 PM"
-    - "Wednesday: 8:30 AM – 5:30 PM"
-    - "Thursday: 8:30 AM – 5:30 PM"
-    - "Friday: 8:30 AM – 5:30 PM"
-    - "Saturday: 8:30 AM – 5:30 PM"
-    - "Sunday: 8:30 AM – 5:30 PM"
+    - 'Monday: 8:30 AM – 5:30 PM'
+    - 'Tuesday: 8:30 AM – 5:30 PM'
+    - 'Wednesday: 8:30 AM – 5:30 PM'
+    - 'Thursday: 8:30 AM – 5:30 PM'
+    - 'Friday: 8:30 AM – 5:30 PM'
+    - 'Saturday: 8:30 AM – 5:30 PM'
+    - 'Sunday: 8:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendBusy:
@@ -45,24 +53,40 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_736749616c736a39435a6b52516a62324a4772567a62464a496843"
+    venueId: ven_736749616c736a39435a6b52516a62324a4772567a62464a496843
 tags:
-  - "tainan"
-  - "historic site"
-quickAnswer: "Tainan Confucius Temple, in West Central District near Fucheng Road and Nanmen Road, is Taiwan's oldest Confucian temple, built in 1665. It's open daily 8:30am–5:30pm; go right at opening or between 9–10am on weekdays to beat the tour groups that fill the courtyard from 10am to 5pm on weekends. Budget 45–60 minutes, and pair it with the nearby Old Streets and Wu Garden."
+  - tainan
+  - historic site
+quickAnswer: >-
+  Tainan Confucius Temple, in West Central District near Fucheng Road and Nanmen
+  Road, is Taiwan's oldest Confucian temple, built in 1665. It's open daily
+  8:30am–5:30pm; go right at opening or between 9–10am on weekdays to beat the
+  tour groups that fill the courtyard from 10am to 5pm on weekends. Budget 45–60
+  minutes, and pair it with the nearby Old Streets and Wu Garden.
 faq:
-  - q: "What are the opening hours?"
-    a: "Daily, 8:30am–5:30pm, with no midday closure. These hours are consistent seven days a week, but confirm before visiting during holidays."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 10am, shortly after opening, see the fewest visitors. Weekends stay busy from 10am until closing at 5:30pm."
-  - q: "Is there an entrance fee?"
-    a: "The courtyard and main halls are generally free to enter, though some interior rooms may post small fees. Check at the gate when you arrive."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 45 minutes to an hour, longer if you want to read the calligraphy plaques and sit in the courtyard."
-  - q: "How do I get there without a car?"
-    a: "Tainan has no metro, so take a taxi, scooter rental, or the Tainan Sightseeing Bus. It's also an easy 15–20 minute walk from Chihkan Tower."
+  - q: What are the opening hours?
+    a: >-
+      Daily, 8:30am–5:30pm, with no midday closure. These hours are consistent
+      seven days a week, but confirm before visiting during holidays.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 10am, shortly after opening, see the fewest
+      visitors. Weekends stay busy from 10am until closing at 5:30pm.
+  - q: Is there an entrance fee?
+    a: >-
+      The courtyard and main halls are generally free to enter, though some
+      interior rooms may post small fees. Check at the gate when you arrive.
+  - q: How long should I plan to spend here?
+    a: >-
+      Most visitors spend 45 minutes to an hour, longer if you want to read the
+      calligraphy plaques and sit in the courtyard.
+  - q: How do I get there without a car?
+    a: >-
+      Tainan has no metro, so take a taxi, scooter rental, or the Tainan
+      Sightseeing Bus. It's also an easy 15–20 minute walk from Chihkan Tower.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

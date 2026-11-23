@@ -1,59 +1,86 @@
 ---
-title: "Sharjah Museum of Islamic Civilization: Travel Guide (4.6★)"
-description: "The Sharjah Museum of Islamic Civilization sits on the Corniche in Al Mujarrah, near the Blue Souk, and is open daily 8am–8pm (Fridays 4–8pm only). 4.6★ (6,476 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Sharjah"
-category: "attraction"
-pubDate: "2026-08-18T09:17:23.041Z"
+title: 'Sharjah Museum of Islamic Civilization: Travel Guide (4.6★)'
+description: >-
+  The Sharjah Museum of Islamic Civilization sits on the Corniche in Al
+  Mujarrah, near the Blue Souk, and is open daily 8am–8pm (Fridays 4–8pm only).
+  4.6★ (6,575 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Sharjah
+category: attraction
+pubDate: '2026-08-18T09:17:23.041Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_%2822025908913%29.jpg/1920px-Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_%2822025908913%29.jpg"
-  credit: "Photo: SHAHID SIDDIQI from Dubai, United Arab Emirates / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_(22025908913).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_%2822025908913%29.jpg/1920px-Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_%2822025908913%29.jpg
+  credit: >-
+    Photo: SHAHID SIDDIQI from Dubai, United Arab Emirates / Wikimedia Commons
+    (CC0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_(22025908913).jpg
   focus:
     x: 38
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sharjah_Museum_of_Islamic_Civilization_15.jpg/3840px-Sharjah_Museum_of_Islamic_Civilization_15.jpg"
-    credit: "Photo: EditQ / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sharjah_Museum_of_Islamic_Civilization_15.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sharjah_Museum_of_Islamic_Civilization_15.jpg/3840px-Sharjah_Museum_of_Islamic_Civilization_15.jpg
+    credit: 'Photo: EditQ / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sharjah_Museum_of_Islamic_Civilization_15.jpg
 place:
-  id: "ChIJubk2BjtaXz4RtQ94D36-B5g"
-  name: "Sharjah Museum of Islamic Civilization"
-  address: "Al Mujarrah - Hay Al Sharq - Al Nabba - Sharjah - United Arab Emirates"
+  id: ChIJubk2BjtaXz4RtQ94D36-B5g
+  name: Sharjah Museum of Islamic Civilization
+  address: Al Mujarrah - Hay Al Sharq - Al Nabba - Sharjah - United Arab Emirates
   rating: 4.6
-  userRatingsTotal: 6476
-  googleMapsUrl: "https://maps.google.com/?cid=10954934067236704181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6575
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10954934067236704181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.364805099999998
   lng: 55.389223799999996
-  phone: "+971 6 565 5455"
+  phone: +971 6 565 5455
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 4:00 – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 4:00 – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
 tags:
-  - "sharjah"
-  - "museum"
-quickAnswer: "The Sharjah Museum of Islamic Civilization sits on the Corniche in Al Mujarrah, near the Blue Souk, and is open daily 8am–8pm (Fridays 4–8pm only). Budget 1.5–2 hours to move through its two floors of manuscripts, astrolabes and ceramics under the gold dome. It's genuinely popular, so aim for a weekday morning right at opening to beat tour-bus groups."
+  - sharjah
+  - museum
+quickAnswer: >-
+  The Sharjah Museum of Islamic Civilization sits on the Corniche in Al
+  Mujarrah, near the Blue Souk, and is open daily 8am–8pm (Fridays 4–8pm only).
+  Budget 1.5–2 hours to move through its two floors of manuscripts, astrolabes
+  and ceramics under the gold dome. It's genuinely popular, so aim for a weekday
+  morning right at opening to beat tour-bus groups.
 faq:
-  - q: "How long should I spend at the Sharjah Museum of Islamic Civilization?"
-    a: "Plan on 1.5 to 2 hours to comfortably see both galleries and the central dome hall without rushing."
-  - q: "What are the opening hours?"
-    a: "It's open 8am–8pm Monday through Thursday, Saturday and Sunday. On Fridays it opens later, from 4pm to 8pm only."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings soon after the 8am opening (Sunday–Thursday) are typically calmest, before tour groups from Dubai arrive."
-  - q: "How do I get there from Dubai?"
-    a: "Taxi or rideshare takes roughly 30-45 minutes depending on traffic. Alternatively, take a bus to Sharjah's Al Jubail station and taxi the rest of the way."
-  - q: "Is there anything nearby worth combining with the visit?"
-    a: "Yes — the Blue Souk (Souk Al Markazi) and the Sharjah Corniche waterfront are both within easy walking distance."
+  - q: How long should I spend at the Sharjah Museum of Islamic Civilization?
+    a: >-
+      Plan on 1.5 to 2 hours to comfortably see both galleries and the central
+      dome hall without rushing.
+  - q: What are the opening hours?
+    a: >-
+      It's open 8am–8pm Monday through Thursday, Saturday and Sunday. On Fridays
+      it opens later, from 4pm to 8pm only.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings soon after the 8am opening (Sunday–Thursday) are
+      typically calmest, before tour groups from Dubai arrive.
+  - q: How do I get there from Dubai?
+    a: >-
+      Taxi or rideshare takes roughly 30-45 minutes depending on traffic.
+      Alternatively, take a bus to Sharjah's Al Jubail station and taxi the rest
+      of the way.
+  - q: Is there anything nearby worth combining with the visit?
+    a: >-
+      Yes — the Blue Souk (Souk Al Markazi) and the Sharjah Corniche waterfront
+      are both within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

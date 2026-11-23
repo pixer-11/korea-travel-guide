@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: taichung-taichung-lecheng-temple
-srcHash: 'c8fe373b4b55'
+srcHash: 'f06d8238df8e'
 title: 'Templo Lecheng de Taichung: Guía de viaje (4,8★)'
-description: 'El Templo Lecheng se encuentra en la calle Hanxi, en el distrito East de Taichung, abierto todos los días de 6:30 a 22:00, y merece una visita de 30 a 45 minutos para admirar sus vigas talladas, columnas de dragones y salas de culto escalonadas. 4,8★ (10.540 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Templo Lecheng se encuentra en la calle Hanxi, en el distrito East de Taichung, abierto todos los días de 6:30 a 22:00, y merece una visita de 30 a 45 minutos para admirar sus vigas talladas, columnas de dragones y salas de culto escalonadas. 4,8★ (10.949 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Templo Lecheng se encuentra en la calle Hanxi, en el distrito East de Taichung, abierto todos los días de 6:30 a 22:00, y merece una visita de 30 a 45 minutos para admirar sus vigas talladas, columnas de dragones y salas de culto escalonadas. Suele haber bastante afluencia, así que conviene llegar justo a la apertura o después de las 19:00 para evitar la aglomeración de los fines de semana entre las 9:00 y las 19:00. La entrada es gratuita; basta con llevar algo de dinero suelto para el incienso o las ofrendas si se desea participar.
 faq:
   - q: ¿Cuánto cuesta visitar el Templo Lecheng?

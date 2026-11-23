@@ -31,7 +31,7 @@ place:
     42 1, Tambon Ban Run, อำเภอ เมือง, Chang Wat Phra Nakhon Si Ayutthaya 13000,
     Thailand
   rating: 4.9
-  userRatingsTotal: 2199
+  userRatingsTotal: 2232
   googleMapsUrl: >-
     https://maps.google.com/?cid=6995551289812191083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -93,7 +93,7 @@ faq:
       With over 2,000 reviews and a 4.9 rating, it's popular locally and with
       tourists, so booking ahead or arriving early on weekends is recommended.
 aiGenerated: true
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 ## Why go
 

@@ -3,7 +3,7 @@ title: 'Fenqihu Old Street: Alishan Travel Guide (4.2★)'
 description: >-
   Fenqihu Old Street is a former logging-railway town on the Alishan Forest
   Railway, best known for its lunchbox (bento) culture and a narrow, covered
-  market lane. 4.2★ (31,926 reviews) — what visitors say, hours, and tips.
+  market lane. 4.2★ (32,562 reviews) — what visitors say, hours, and tips.
 country: Taiwan
 region: Alishan
 category: hidden-gem
@@ -21,7 +21,7 @@ place:
   name: Fenqihu Old Street
   address: 'Zhonghe Village, Zhuqi Township, Chiayi County, Taiwan 604'
   rating: 4.2
-  userRatingsTotal: 31926
+  userRatingsTotal: 32562
   googleMapsUrl: >-
     https://maps.google.com/?cid=16002146239218503680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -88,7 +88,7 @@ faq:
       cypress groves — a popular add-on for the same rail trip.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 ## Why Fenqihu, and why now
 

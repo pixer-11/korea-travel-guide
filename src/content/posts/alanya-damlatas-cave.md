@@ -1,25 +1,30 @@
 ---
 title: 'Damlataş Cave: Alanya Travel Guide (4.2★)'
-description: Damlataş Cave sits right behind Alanya's Damlataş Beach, a five-minute walk from the harbor, and is open daily 9am–7pm. 4.2★ (27,451 reviews) — what visitors say, hours, and tips.
+description: >-
+  Damlataş Cave sits right behind Alanya's Damlataş Beach, a five-minute walk
+  from the harbor, and is open daily 9am–7pm. 4.2★ (28,069 reviews) — what
+  visitors say, hours, and tips.
 country: Turkey
 region: Alanya
 category: attraction
 pubDate: '2026-08-12T08:46:45.937Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/573551664_FQomjbIWM0LWN-NVYBytHFZv0A4Vkp3j62dCtyl-sFY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/573551664_FQomjbIWM0LWN-NVYBytHFZv0A4Vkp3j62dCtyl-sFY.jpg
   credit: 'Photo: Foursquare user content (Damlataş Cave (Damlataş Mağarası))'
   license: foursquare
-  source: https://foursquare.com/v/4e6f2157a809952e23b959e0
+  source: 'https://foursquare.com/v/4e6f2157a809952e23b959e0'
   focus:
     x: 60
     'y': 40
 place:
   id: ChIJF3muFJyi3BQRjLvNQprzYas
   name: Damlataş Cave
-  address: Çarşı, Damlataş Cd. No:81, 07400 Alanya/Antalya, Türkiye
+  address: 'Çarşı, Damlataş Cd. No:81, 07400 Alanya/Antalya, Türkiye'
   rating: 4.2
-  userRatingsTotal: 27451
-  googleMapsUrl: https://maps.google.com/?cid=12349419497097902988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 28069
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12349419497097902988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.541806199999996
   lng: 31.988664399999998
@@ -35,21 +40,40 @@ place:
 tags:
   - alanya
   - top attraction
-quickAnswer: Damlataş Cave sits right behind Alanya's Damlataş Beach, a five-minute walk from the harbor, and is open daily 9am–7pm. Give it 20–30 minutes — it's one small chamber, famous for its stalactites and the humid, warm air locals swear helps asthma sufferers. It's a very popular stop, so aim for the earlier part of the morning to avoid tour-bus crowds.
+quickAnswer: >-
+  Damlataş Cave sits right behind Alanya's Damlataş Beach, a five-minute walk
+  from the harbor, and is open daily 9am–7pm. Give it 20–30 minutes — it's one
+  small chamber, famous for its stalactites and the humid, warm air locals swear
+  helps asthma sufferers. It's a very popular stop, so aim for the earlier part
+  of the morning to avoid tour-bus crowds.
 faq:
   - q: How long should I spend at Damlataş Cave?
-    a: About 20–30 minutes is enough — it's a single chamber, not a large cave system, though many visitors linger longer to sit and breathe the humid air.
+    a: >-
+      About 20–30 minutes is enough — it's a single chamber, not a large cave
+      system, though many visitors linger longer to sit and breathe the humid
+      air.
   - q: What are the opening hours?
-    a: It's open daily from 9am to 7pm, seven days a week, with no listed weekly closure.
+    a: >-
+      It's open daily from 9am to 7pm, seven days a week, with no listed weekly
+      closure.
   - q: When is the quietest time to visit?
-    a: Aim for right at opening (9am) or closer to closing around 6pm — late morning through mid-afternoon in high season draws tour groups moving between the castle and harbor.
+    a: >-
+      Aim for right at opening (9am) or closer to closing around 6pm — late
+      morning through mid-afternoon in high season draws tour groups moving
+      between the castle and harbor.
   - q: How do I get to Damlataş Cave?
-    a: It's about a 5–10 minute walk from Alanya Harbor, on Damlataş Caddesi in the Çarşı district, right next to the Alanya Archaeological Museum and behind Damlataş Beach.
+    a: >-
+      It's about a 5–10 minute walk from Alanya Harbor, on Damlataş Caddesi in
+      the Çarşı district, right next to the Alanya Archaeological Museum and
+      behind Damlataş Beach.
   - q: Is Damlataş Cave good for people with asthma?
-    a: Locals have long considered it beneficial for respiratory conditions due to its warm, highly humid microclimate, though you should treat this as traditional local wisdom rather than a medical guarantee.
+    a: >-
+      Locals have long considered it beneficial for respiratory conditions due
+      to its warm, highly humid microclimate, though you should treat this as
+      traditional local wisdom rather than a medical guarantee.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

@@ -1,59 +1,88 @@
 ---
-title: "National Taiwan Museum: Taipei Travel Guide (4.6★)"
-description: "The National Taiwan Museum sits in 228 Peace Memorial Park, a two-minute walk from NTU Hospital MRT Station (Red Line, Exit 1). 4.6★ (13,710 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Taipei"
-category: "attraction"
-pubDate: "2026-08-19T09:34:31.302Z"
+title: 'National Taiwan Museum: Taipei Travel Guide (4.6★)'
+description: >-
+  The National Taiwan Museum sits in 228 Peace Memorial Park, a two-minute walk
+  from NTU Hospital MRT Station (Red Line, Exit 1). 4.6★ (14,204 reviews) — what
+  visitors say, hours, and tips.
+country: Taiwan
+region: Taipei
+category: attraction
+pubDate: '2026-08-19T09:34:31.302Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/National_Taiwan_Museum_front_20070912.jpg/1920px-National_Taiwan_Museum_front_20070912.jpg"
-  credit: "Photo: Taiwan Junior / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_front_20070912.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/National_Taiwan_Museum_front_20070912.jpg/1920px-National_Taiwan_Museum_front_20070912.jpg
+  credit: 'Photo: Taiwan Junior / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_front_20070912.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/21087246_HK7mE-uztDG3fhJFe0w7LVu57ux_qhRosR90wvaNWtw.jpg"
-    credit: "Photo: Foursquare user content (National Taiwan Museum (國立臺灣博物館))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4d1878a5e190721e0c182221"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/21087246_HK7mE-uztDG3fhJFe0w7LVu57ux_qhRosR90wvaNWtw.jpg
+    credit: 'Photo: Foursquare user content (National Taiwan Museum (國立臺灣博物館))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4d1878a5e190721e0c182221'
 place:
-  id: "ChIJcRV3WHOpQjQRFpgzTpxZWgo"
-  name: "National Taiwan Museum"
-  address: "No. 2號, Xiangyang Rd, Liming Village, Zhongzheng District, Taipei City, Taiwan 100"
+  id: ChIJcRV3WHOpQjQRFpgzTpxZWgo
+  name: National Taiwan Museum
+  address: >-
+    No. 2號, Xiangyang Rd, Liming Village, Zhongzheng District, Taipei City,
+    Taiwan 100
   rating: 4.6
-  userRatingsTotal: 13710
-  googleMapsUrl: "https://maps.google.com/?cid=746007216145012758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14204
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=746007216145012758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0427872
   lng: 121.5151192
-  phone: "+886 2 2382 2566"
+  phone: +886 2 2382 2566
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: 9:30 AM – 5:00 PM"
-    - "Thursday: 9:30 AM – 5:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:00 PM"
-    - "Sunday: 9:30 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: 9:30 AM – 5:00 PM'
+    - 'Thursday: 9:30 AM – 5:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:00 PM'
+    - 'Sunday: 9:30 AM – 5:00 PM'
 tags:
-  - "taipei"
-  - "museum"
-quickAnswer: "The National Taiwan Museum sits in 228 Peace Memorial Park, a two-minute walk from NTU Hospital MRT Station (Red Line, Exit 1). Open Tuesday–Sunday, 9:30am–5pm, closed Monday. Budget an hour or two for the domed 1915 building and its natural history and Formosan indigenous culture displays, and go right at opening or after 3pm to dodge the tour groups."
+  - taipei
+  - museum
+quickAnswer: >-
+  The National Taiwan Museum sits in 228 Peace Memorial Park, a two-minute walk
+  from NTU Hospital MRT Station (Red Line, Exit 1). Open Tuesday–Sunday,
+  9:30am–5pm, closed Monday. Budget an hour or two for the domed 1915 building
+  and its natural history and Formosan indigenous culture displays, and go right
+  at opening or after 3pm to dodge the tour groups.
 faq:
-  - q: "How do I get to the National Taiwan Museum by MRT?"
-    a: "Take the Red Line to NTU Hospital Station and exit via Exit 1. The museum is a two-minute walk through 228 Peace Memorial Park."
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 9:30am to 5:00pm. It's closed every Monday, and last entry is typically around 4:30pm — worth confirming at the ticket counter."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend one to two hours in the main building. Add another hour if you're combining it with the nearby Land Bank Exhibition Hall's dinosaur gallery."
-  - q: "When is it least crowded?"
-    a: "Right at opening (9:30am) or after 3pm on weekdays. It's a very popular stop on the Taipei sightseeing circuit, so weekend mid-mornings and early afternoons draw the biggest tour-group crowds."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "228 Peace Memorial Park surrounds the museum, and the Land Bank Exhibition Hall and Presidential Office Building are both within easy walking distance."
+  - q: How do I get to the National Taiwan Museum by MRT?
+    a: >-
+      Take the Red Line to NTU Hospital Station and exit via Exit 1. The museum
+      is a two-minute walk through 228 Peace Memorial Park.
+  - q: What are the opening hours?
+    a: >-
+      Tuesday through Sunday, 9:30am to 5:00pm. It's closed every Monday, and
+      last entry is typically around 4:30pm — worth confirming at the ticket
+      counter.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend one to two hours in the main building. Add another
+      hour if you're combining it with the nearby Land Bank Exhibition Hall's
+      dinosaur gallery.
+  - q: When is it least crowded?
+    a: >-
+      Right at opening (9:30am) or after 3pm on weekdays. It's a very popular
+      stop on the Taipei sightseeing circuit, so weekend mid-mornings and early
+      afternoons draw the biggest tour-group crowds.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      228 Peace Memorial Park surrounds the museum, and the Land Bank Exhibition
+      Hall and Presidential Office Building are both within easy walking
+      distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

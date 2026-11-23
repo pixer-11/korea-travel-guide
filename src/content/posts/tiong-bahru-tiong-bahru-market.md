@@ -1,51 +1,79 @@
 ---
-title: "Tiong Bahru Market: Where to Eat (4.3★)"
-description: "Tiong Bahru Market is a two-storey hawker centre and wet market at 30 Seng Poh Rd, best known for chwee kueh, lor mee and a legendary chicken porridge stall. 4.3★ (10,903 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Tiong Bahru"
-category: "restaurant"
-pubDate: "2026-08-18T09:02:05.160Z"
+title: 'Tiong Bahru Market: Where to Eat (4.3★)'
+description: >-
+  Tiong Bahru Market is a two-storey hawker centre and wet market at 30 Seng Poh
+  Rd, best known for chwee kueh, lor mee and a legendary chicken porridge stall.
+  4.3★ (11,010 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Tiong Bahru
+category: restaurant
+pubDate: '2026-08-18T09:02:05.160Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tiong_Bahru_Market%2C_food_centre.jpg/3840px-Tiong_Bahru_Market%2C_food_centre.jpg"
-  credit: "Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tiong_Bahru_Market,_food_centre.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tiong_Bahru_Market%2C_food_centre.jpg/3840px-Tiong_Bahru_Market%2C_food_centre.jpg
+  credit: 'Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tiong_Bahru_Market,_food_centre.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tiong_Bahru_Market%2C_open_air_seating.jpg/3840px-Tiong_Bahru_Market%2C_open_air_seating.jpg"
-    credit: "Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tiong_Bahru_Market,_open_air_seating.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tiong_Bahru_Market%2C_open_air_seating.jpg/3840px-Tiong_Bahru_Market%2C_open_air_seating.jpg
+    credit: 'Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Tiong_Bahru_Market,_open_air_seating.jpg
 place:
-  id: "ChIJOU6y-HkZ2jERchOICIgjl0E"
-  name: "Tiong Bahru Market"
-  address: "30 Seng Poh Rd, Singapore 168898"
+  id: ChIJOU6y-HkZ2jERchOICIgjl0E
+  name: Tiong Bahru Market
+  address: '30 Seng Poh Rd, Singapore 168898'
   rating: 4.3
-  userRatingsTotal: 10903
+  userRatingsTotal: 11010
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=4726285401114284914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4726285401114284914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2850770999999999
   lng: 103.83280719999999
 tags:
-  - "tiong bahru"
-  - "street food"
-quickAnswer: "Tiong Bahru Market is a two-storey hawker centre and wet market at 30 Seng Poh Rd, best known for chwee kueh, lor mee and a legendary chicken porridge stall. Go on the earlier side (before 9am) for the freshest food and a seat, since this budget-friendly spot is consistently packed and very well reviewed. Set aside 45–90 minutes, plus time to wander the ground-floor wet market if you're curious about local produce."
+  - tiong bahru
+  - street food
+quickAnswer: >-
+  Tiong Bahru Market is a two-storey hawker centre and wet market at 30 Seng Poh
+  Rd, best known for chwee kueh, lor mee and a legendary chicken porridge stall.
+  Go on the earlier side (before 9am) for the freshest food and a seat, since
+  this budget-friendly spot is consistently packed and very well reviewed. Set
+  aside 45–90 minutes, plus time to wander the ground-floor wet market if you're
+  curious about local produce.
 faq:
-  - q: "How do I get to Tiong Bahru Market?"
-    a: "Take the East-West Line to Tiong Bahru Station, Exit A, then walk about 10 minutes through the estate. Taxis and ride-hailing can drop you directly outside on Seng Poh Road."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings around 7:30–9am have the freshest food. If you can't make breakfast, try the early-afternoon lull between roughly 2–4pm, and avoid weekend lunch peaks."
-  - q: "How much should I budget for a meal?"
-    a: "It's a budget-friendly hawker centre — most dishes cost just a few Singapore dollars each, so trying food from three or four stalls is still an inexpensive meal."
-  - q: "How long should I spend there?"
-    a: "Plan for 45–90 minutes: enough time to eat at a couple of stalls and take a quick look through the wet market downstairs."
-  - q: "Is the wet market worth visiting if I'm not cooking?"
-    a: "Yes, even a quick walk-through is worthwhile to see butchers, fishmongers and produce vendors in action — go before mid-morning while stalls are still fully stocked."
+  - q: How do I get to Tiong Bahru Market?
+    a: >-
+      Take the East-West Line to Tiong Bahru Station, Exit A, then walk about 10
+      minutes through the estate. Taxis and ride-hailing can drop you directly
+      outside on Seng Poh Road.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings around 7:30–9am have the freshest food. If you can't make
+      breakfast, try the early-afternoon lull between roughly 2–4pm, and avoid
+      weekend lunch peaks.
+  - q: How much should I budget for a meal?
+    a: >-
+      It's a budget-friendly hawker centre — most dishes cost just a few
+      Singapore dollars each, so trying food from three or four stalls is still
+      an inexpensive meal.
+  - q: How long should I spend there?
+    a: >-
+      Plan for 45–90 minutes: enough time to eat at a couple of stalls and take
+      a quick look through the wet market downstairs.
+  - q: Is the wet market worth visiting if I'm not cooking?
+    a: >-
+      Yes, even a quick walk-through is worthwhile to see butchers, fishmongers
+      and produce vendors in action — go before mid-morning while stalls are
+      still fully stocked.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why Tiong Bahru Market matters

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: udaipur-eklingji-temple
-srcHash: '99cbb2a6f40f'
+srcHash: 'd3676c04e5a7'
 title: 'Templo de Eklingji: Guía de Viaje de Udaipur (4.8★)'
-description: 'El templo de Eklingji se encuentra a unos 22 km al norte de Udaipur, en Kailashpuri, y solo abre en tres franjas horarias al día: de 5 a 9h, de 11 a 13h y de 17 a 19:30h. 4.8★ (4.802 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El templo de Eklingji se encuentra a unos 22 km al norte de Udaipur, en Kailashpuri, y solo abre en tres franjas horarias al día: de 5 a 9h, de 11 a 13h y de 17 a 19:30h. 4.8★ (5.008 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El templo de Eklingji se encuentra a unos 22 km al norte de Udaipur, en Kailashpuri, y solo abre en tres franjas horarias al día: de 5 a 9h, de 11 a 13h y de 17 a 19:30h. Conviene ir a primera hora de la mañana o al atardecer para el aarti (ceremonia de oración), cuando el santuario de mármol negro se llena de campanas, humo de incienso y luz de lámparas de aceite. Calcule entre 45 y 90 minutos, más el tiempo de desplazamiento, y vista de forma recatada, ya que se trata de un templo en activo y no de un museo.'
 faq:
   - q: ¿A qué distancia está el templo de Eklingji de la ciudad de Udaipur?

@@ -31,7 +31,7 @@ place:
     Varsak Mahallesi Düden Şelalesi Parkı içi, Şelale, 07210 Kepez/Antalya,
     Türkiye
   rating: 4.6
-  userRatingsTotal: 38734
+  userRatingsTotal: 40323
   googleMapsUrl: >-
     https://maps.google.com/?cid=8266197457979484040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -83,7 +83,7 @@ faq:
       levels, though the walkway near the cave gets damp and slightly slippery,
       so sturdy shoes are recommended, especially with children.
 aiGenerated: true
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

@@ -1,6 +1,8 @@
 ---
 title: 'Kurarie ( ): Seoul Travel Guide'
-description: 'Kurarie (쿠라리에) in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Kurarie (쿠라리에) in Seoul, South Korea — a new/trending spot: what it is, where
+  it is, and how to visit.
 country: South Korea
 region: Seoul
 category: trendy
@@ -8,34 +10,54 @@ pubDate: '2026-08-19'
 tags:
   - seoul
   - new & trending
-quickAnswer: Kurarie is a newly opened, design-forward dessert cafe on Apgujeong's Eonju-ro, run by Daewon Media, styled like a stylish American cafe with an emphasis on artistic presentation over quick coffee. It's best treated as a leisurely 1-2 hour stop rather than a grab-and-go — go on a weekday afternoon if you want to actually get a seat. Confirm hours and reservation policy before you go, since a spot this new can shift its schedule.
+quickAnswer: >-
+  Kurarie is a newly opened, design-forward dessert cafe on Apgujeong's
+  Eonju-ro, run by Daewon Media, styled like a stylish American cafe with an
+  emphasis on artistic presentation over quick coffee. It's best treated as a
+  leisurely 1-2 hour stop rather than a grab-and-go — go on a weekday afternoon
+  if you want to actually get a seat. Confirm hours and reservation policy
+  before you go, since a spot this new can shift its schedule.
 faq:
   - q: How do I get to Kurarie?
-    a: It's on Eonju-ro in Apgujeong, Gangnam. The closest subway stops are Apgujeong Station or Apgujeong Rodeo Station, both a short walk away — confirm the exact address on a map app since it's a recent opening.
+    a: >-
+      It's on Eonju-ro in Apgujeong, Gangnam. The closest subway stops are
+      Apgujeong Station or Apgujeong Rodeo Station, both a short walk away —
+      confirm the exact address on a map app since it's a recent opening.
   - q: Do I need a reservation?
-    a: Not confirmed publicly yet, but as a trending new dessert cafe it's wise to check for a booking system or expect a wait, especially on weekends.
+    a: >-
+      Not confirmed publicly yet, but as a trending new dessert cafe it's wise
+      to check for a booking system or expect a wait, especially on weekends.
   - q: What's the best time to visit?
-    a: Weekday afternoons tend to be calmer. Weekends in Apgujeong get busy with shopping and cafe-hopping crowds, so arrive earlier in the day if you can.
+    a: >-
+      Weekday afternoons tend to be calmer. Weekends in Apgujeong get busy with
+      shopping and cafe-hopping crowds, so arrive earlier in the day if you can.
   - q: How long should I plan to stay?
-    a: Budget around 1-2 hours. The dessert presentation is the main draw, so it's a sit-and-savor stop rather than a quick coffee run.
+    a: >-
+      Budget around 1-2 hours. The dessert presentation is the main draw, so
+      it's a sit-and-savor stop rather than a quick coffee run.
   - q: Is the menu and pricing confirmed?
-    a: Not yet in detail — as a newly opened spot, menu and prices may still be settling. Check current offerings directly before visiting rather than relying on older listings.
+    a: >-
+      Not yet in detail — as a newly opened spot, menu and prices may still be
+      settling. Check current offerings directly before visiting rather than
+      relying on older listings.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/9493514_Pvchc_jgqjhfsPDBeEA2SpnjanHxpnqjRk7F7dzmiXk.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/9493514_Pvchc_jgqjhfsPDBeEA2SpnjanHxpnqjRk7F7dzmiXk.jpg
   credit: 'Photo: Foursquare user content (Kurarie (쿠라리에))'
   license: foursquare
-  source: https://foursquare.com/v/69b42e03a7908c6bc824c5a7
+  source: 'https://foursquare.com/v/69b42e03a7908c6bc824c5a7'
   focus:
     x: 40
     'y': 45
 place:
   id: ChIJ44SjcCWjfDURRClfUasb4I8
   name: 쿠라리에 (KURARIE)
-  address: South Korea, Seoul, Gangnam District, Eonju-ro, 842 1층
-  rating: 4.2
+  address: 'South Korea, Seoul, Gangnam District, Eonju-ro, 842 1층'
+  rating: 4.3
   userRatingsTotal: 34
-  googleMapsUrl: https://maps.google.com/?cid=10367316764825430340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10367316764825430340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.5253431
   lng: 127.03382419999998
@@ -47,6 +69,7 @@ place:
     - 'Friday: 10:30 AM – 8:30 PM'
     - 'Saturday: 10:30 AM – 8:30 PM'
     - 'Sunday: 10:30 AM – 8:30 PM'
+updatedDate: '2026-11-23'
 ---
 
 ## Why Kurarie stands out

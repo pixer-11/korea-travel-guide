@@ -1,54 +1,81 @@
 ---
-title: "Pichola Lake: Udaipur Travel Guide (4.7★)"
-description: "Lake Pichola is Udaipur's centerpiece — an artificial lake from 1362 ringed by ghats, palaces, and the Aravalli hills, best seen at sunset from a boat or a rooftop café. 4.7★ (3,010 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Udaipur"
-category: "attraction"
-pubDate: "2026-08-17T08:18:05.897Z"
+title: 'Pichola Lake: Udaipur Travel Guide (4.7★)'
+description: >-
+  Lake Pichola is Udaipur's centerpiece — an artificial lake from 1362 ringed by
+  ghats, palaces, and the Aravalli hills, best seen at sunset from a boat or a
+  rooftop café. 4.7★ (3,315 reviews) — what visitors say, hours, and tips.
+country: India
+region: Udaipur
+category: attraction
+pubDate: '2026-08-17T08:18:05.897Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg/3840px-Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg"
-  credit: "Photo: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lake_Pichola_at_sunset,_Udaipur,_Rajasthan,_India.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg/3840px-Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg
+  credit: 'Photo: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lake_Pichola_at_sunset,_Udaipur,_Rajasthan,_India.jpg
   focus:
     x: 65
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJwU6-XCLlZzkRF9tOLAfJoHI"
-  name: "Pichola Lake, Udaipur"
-  address: "HMCM+Q98, Pichola, Udaipur, Rajasthan 313004, India"
+  id: ChIJwU6-XCLlZzkRF9tOLAfJoHI
+  name: 'Pichola Lake, Udaipur'
+  address: 'HMCM+Q98, Pichola, Udaipur, Rajasthan 313004, India'
   rating: 4.7
-  userRatingsTotal: 3010
-  googleMapsUrl: "https://maps.google.com/?cid=8259822749242809111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3315
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8259822749242809111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.5719197
   lng: 73.6834587
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "udaipur"
-  - "night view"
-quickAnswer: "Lake Pichola is Udaipur's centerpiece — an artificial lake from 1362 ringed by ghats, palaces, and the Aravalli hills, best seen at sunset from a boat or a rooftop café. Boat rides typically run within the 8am–6pm window; aim for the late-afternoon departure so you're on the water as the City Palace turns gold. Give it 2-3 hours including a boat ride and a walk along the ghats."
+  - udaipur
+  - night view
+quickAnswer: >-
+  Lake Pichola is Udaipur's centerpiece — an artificial lake from 1362 ringed by
+  ghats, palaces, and the Aravalli hills, best seen at sunset from a boat or a
+  rooftop café. Boat rides typically run within the 8am–6pm window; aim for the
+  late-afternoon departure so you're on the water as the City Palace turns gold.
+  Give it 2-3 hours including a boat ride and a walk along the ghats.
 faq:
-  - q: "How do I get to Lake Pichola from the airport or train station?"
-    a: "It's about 25 minutes by taxi or auto-rickshaw from Maharana Pratap Airport, and roughly 15 minutes from Udaipur railway station. Auto-rickshaws are the easiest way to reach the ghats directly."
-  - q: "What are the boat ride timings and cost?"
-    a: "Boats run in slots during the lake's 8am–6pm hours from jetties near the City Palace and at Rameshwar Ghat. Prices vary by route and boat type, so check current rates at the counter on the day."
-  - q: "How long should I spend at the lake?"
-    a: "Plan on 2-3 hours to fit in a boat ride and a walk along the ghats. Add extra time if you want to visit Bagore ki Haveli's evening dance show or Jagdish Temple nearby."
-  - q: "When is the best time of year to visit?"
-    a: "October to March offers cool weather and typically fuller lake levels. April to June can be very hot, and low water levels sometimes limit boat rides during dry years."
-  - q: "What's nearby that I can combine with a lake visit?"
-    a: "The City Palace, Jagdish Temple, and Bagore ki Haveli are all within easy walking distance of the ghats, making it simple to combine a boat ride with a few hours of sightseeing on foot."
+  - q: How do I get to Lake Pichola from the airport or train station?
+    a: >-
+      It's about 25 minutes by taxi or auto-rickshaw from Maharana Pratap
+      Airport, and roughly 15 minutes from Udaipur railway station.
+      Auto-rickshaws are the easiest way to reach the ghats directly.
+  - q: What are the boat ride timings and cost?
+    a: >-
+      Boats run in slots during the lake's 8am–6pm hours from jetties near the
+      City Palace and at Rameshwar Ghat. Prices vary by route and boat type, so
+      check current rates at the counter on the day.
+  - q: How long should I spend at the lake?
+    a: >-
+      Plan on 2-3 hours to fit in a boat ride and a walk along the ghats. Add
+      extra time if you want to visit Bagore ki Haveli's evening dance show or
+      Jagdish Temple nearby.
+  - q: When is the best time of year to visit?
+    a: >-
+      October to March offers cool weather and typically fuller lake levels.
+      April to June can be very hot, and low water levels sometimes limit boat
+      rides during dry years.
+  - q: What's nearby that I can combine with a lake visit?
+    a: >-
+      The City Palace, Jagdish Temple, and Bagore ki Haveli are all within easy
+      walking distance of the ghats, making it simple to combine a boat ride
+      with a few hours of sightseeing on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why Lake Pichola anchors Udaipur

@@ -1,40 +1,46 @@
 ---
-title: "Maharana Pratap Museum: Udaipur Travel Guide (4.5★)"
-description: "The Maharana Pratap Museum sits at Haldighati, about an hour's drive north of Udaipur, marking the site of the 1576 battle between Maharana Pratap and Akbar's forces. 4.5★ (19,307 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Udaipur"
-category: "attraction"
-pubDate: "2026-08-16T08:53:20.587Z"
+title: 'Maharana Pratap Museum: Udaipur Travel Guide (4.5★)'
+description: >-
+  The Maharana Pratap Museum sits at Haldighati, about an hour's drive north of
+  Udaipur, marking the site of the 1576 battle between Maharana Pratap and
+  Akbar's forces. 4.5★ (19,588 reviews) — what visitors say, hours, and tips.
+country: India
+region: Udaipur
+category: attraction
+pubDate: '2026-08-16T08:53:20.587Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Maharana_Pratap_Museum%2C_Haldi_ghati.jpg/3840px-Maharana_Pratap_Museum%2C_Haldi_ghati.jpg"
-  credit: "Photo: Rahul sadhwani / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Maharana_Pratap_Museum,_Haldi_ghati.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Maharana_Pratap_Museum%2C_Haldi_ghati.jpg/3840px-Maharana_Pratap_Museum%2C_Haldi_ghati.jpg
+  credit: 'Photo: Rahul sadhwani / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Maharana_Pratap_Museum,_Haldi_ghati.jpg
   focus:
     x: 65
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJaUvBIgUPaDkR6W9UBKtGEH8"
-  name: "Maharana Pratap Museum"
-  address: "Haldighati, Near, Nathdwara, Balicha, Rajasthan 313001, India"
+  id: ChIJaUvBIgUPaDkR6W9UBKtGEH8
+  name: Maharana Pratap Museum
+  address: 'Haldighati, Near, Nathdwara, Balicha, Rajasthan 313322, India'
   rating: 4.5
-  userRatingsTotal: 19307
-  googleMapsUrl: "https://maps.google.com/?cid=9155895742770212841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 19588
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9155895742770212841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.8843788
   lng: 73.6912193
-  phone: "+91 97990 03405"
+  phone: +91 97990 03405
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -48,24 +54,39 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_38484547744b4255395736526b446150556749427655614a496843"
+    venueId: ven_38484547744b4255395736526b446150556749427655614a496843
 tags:
-  - "udaipur"
-  - "museum"
-quickAnswer: "The Maharana Pratap Museum sits at Haldighati, about an hour's drive north of Udaipur, marking the site of the 1576 battle between Maharana Pratap and Akbar's forces. Come between 8am and 10am, when it's quietest, to see the exhibits and catch the sound-and-light show without the tour-bus crush. Plan on 1.5–2 hours, and combine it with the nearby Chetak Samadhi."
+  - udaipur
+  - museum
+quickAnswer: >-
+  The Maharana Pratap Museum sits at Haldighati, about an hour's drive north of
+  Udaipur, marking the site of the 1576 battle between Maharana Pratap and
+  Akbar's forces. Come between 8am and 10am, when it's quietest, to see the
+  exhibits and catch the sound-and-light show without the tour-bus crush. Plan
+  on 1.5–2 hours, and combine it with the nearby Chetak Samadhi.
 faq:
-  - q: "How do I get to the Maharana Pratap Museum from Udaipur?"
-    a: "It's about an hour's drive from central Udaipur, near Nathdwara and Balicha. There's no direct train or bus, so go by taxi, rental car, or a day tour."
-  - q: "How long should I spend here?"
-    a: "Plan on 1.5 to 2 hours for the exhibits and grounds. Add extra time if you're staying for the evening sound-and-light show."
-  - q: "When is the quietest time to visit?"
-    a: "Between 8am and 10am on both weekdays and weekends. Weekends from 11am to 5pm get the busiest with tour groups."
-  - q: "What are the opening hours?"
-    a: "The museum is open every day of the week from 8am to 6pm."
-  - q: "What else can I see nearby?"
-    a: "The Chetak Samadhi memorial, dedicated to Maharana Pratap's horse, is just up the road, and Nathdwara's Shrinathji temple is a popular combined stop."
+  - q: How do I get to the Maharana Pratap Museum from Udaipur?
+    a: >-
+      It's about an hour's drive from central Udaipur, near Nathdwara and
+      Balicha. There's no direct train or bus, so go by taxi, rental car, or a
+      day tour.
+  - q: How long should I spend here?
+    a: >-
+      Plan on 1.5 to 2 hours for the exhibits and grounds. Add extra time if
+      you're staying for the evening sound-and-light show.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 8am and 10am on both weekdays and weekends. Weekends from 11am to
+      5pm get the busiest with tour groups.
+  - q: What are the opening hours?
+    a: The museum is open every day of the week from 8am to 6pm.
+  - q: What else can I see nearby?
+    a: >-
+      The Chetak Samadhi memorial, dedicated to Maharana Pratap's horse, is just
+      up the road, and Nathdwara's Shrinathji temple is a popular combined stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

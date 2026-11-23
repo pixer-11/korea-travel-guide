@@ -1,59 +1,83 @@
 ---
-title: "Alcázar de Segovia: Travel Guide (4.7★)"
-description: "The Alcázar de Segovia is open daily 10am–7:30pm, and the prow-shaped castle rewards an early visit — arrive right at opening to beat the tour buses that roll in by midday. 4.7★ (65,038 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Segovia"
-category: "hidden-gem"
-pubDate: "2026-08-16T08:02:35.158Z"
+title: 'Alcázar de Segovia: Travel Guide (4.7★)'
+description: >-
+  The Alcázar de Segovia is open daily 10am–7:30pm, and the prow-shaped castle
+  rewards an early visit — arrive right at opening to beat the tour buses that
+  roll in by midday. 4.7★ (66,758 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Segovia
+category: hidden-gem
+pubDate: '2026-08-16T08:02:35.158Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg/1920px-Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg"
-  credit: "Photo: Ángel Sanz de Andrés / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg/1920px-Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg
+  credit: 'Photo: Ángel Sanz de Andrés / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg
   focus:
     x: 55
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Segovia_-_01.jpg/3840px-Segovia_-_01.jpg"
-    credit: "Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Segovia_-_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Segovia_-_01.jpg/3840px-Segovia_-_01.jpg
+    credit: 'Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Segovia_-_01.jpg'
 place:
-  id: "ChIJn8VTZcc-QQ0RM9sD_wOgKzA"
-  name: "Alcázar de Segovia"
-  address: "Pl. Reina Victoria Eugenia, s/n, 40003 Segovia, Spain"
+  id: ChIJn8VTZcc-QQ0RM9sD_wOgKzA
+  name: Alcázar de Segovia
+  address: 'Pl. Reina Victoria Eugenia, s/n, 40003 Segovia, Spain'
   rating: 4.7
-  userRatingsTotal: 65038
-  googleMapsUrl: "https://maps.google.com/?cid=3471043876842887987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 66758
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3471043876842887987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.952572499999995
   lng: -4.1325378
-  phone: "+34 921 21 05 15"
+  phone: +34 921 21 05 15
   openingHours:
-    - "Monday: 10:00 AM – 7:30 PM"
-    - "Tuesday: 10:00 AM – 7:30 PM"
-    - "Wednesday: 10:00 AM – 7:30 PM"
-    - "Thursday: 10:00 AM – 7:30 PM"
-    - "Friday: 10:00 AM – 7:30 PM"
-    - "Saturday: 10:00 AM – 7:30 PM"
-    - "Sunday: 10:00 AM – 7:30 PM"
+    - 'Monday: 10:00 AM – 7:30 PM'
+    - 'Tuesday: 10:00 AM – 7:30 PM'
+    - 'Wednesday: 10:00 AM – 7:30 PM'
+    - 'Thursday: 10:00 AM – 7:30 PM'
+    - 'Friday: 10:00 AM – 7:30 PM'
+    - 'Saturday: 10:00 AM – 7:30 PM'
+    - 'Sunday: 10:00 AM – 7:30 PM'
 tags:
-  - "segovia"
-  - "hidden gem"
-quickAnswer: "The Alcázar de Segovia is open daily 10am–7:30pm, and the prow-shaped castle rewards an early visit — arrive right at opening to beat the tour buses that roll in by midday. Budget 90 minutes to two hours for the rooms, armoury, and tower climb. It's one of Spain's most-visited castles, so this is not a quiet secret — plan around the crowds rather than expecting to avoid them."
+  - segovia
+  - hidden gem
+quickAnswer: >-
+  The Alcázar de Segovia is open daily 10am–7:30pm, and the prow-shaped castle
+  rewards an early visit — arrive right at opening to beat the tour buses that
+  roll in by midday. Budget 90 minutes to two hours for the rooms, armoury, and
+  tower climb. It's one of Spain's most-visited castles, so this is not a quiet
+  secret — plan around the crowds rather than expecting to avoid them.
 faq:
-  - q: "What are the opening hours for the Alcázar de Segovia?"
-    a: "It's open every day of the week from 10:00 AM to 7:30 PM, with no midday closure."
-  - q: "How long should I spend at the Alcázar?"
-    a: "Plan on 90 minutes to two hours, longer if you climb the Tower of John II and linger in the armoury."
-  - q: "When is the best time to avoid crowds?"
-    a: "Arrive right at the 10am opening, or come in the final two hours before the 7:30pm close — midday draws the heaviest tour-group traffic."
-  - q: "Do I need to book tickets in advance?"
-    a: "Booking online ahead of time is strongly recommended, since this is one of Spain's most-visited castles and walk-up lines can be long."
-  - q: "How do I get to the Alcázar from Segovia's city center?"
-    a: "It's a 15-20 minute walk from the Roman Aqueduct through the old town; the castle sits at the western edge of the historic center, and no metro or bus is needed within town."
+  - q: What are the opening hours for the Alcázar de Segovia?
+    a: >-
+      It's open every day of the week from 10:00 AM to 7:30 PM, with no midday
+      closure.
+  - q: How long should I spend at the Alcázar?
+    a: >-
+      Plan on 90 minutes to two hours, longer if you climb the Tower of John II
+      and linger in the armoury.
+  - q: When is the best time to avoid crowds?
+    a: >-
+      Arrive right at the 10am opening, or come in the final two hours before
+      the 7:30pm close — midday draws the heaviest tour-group traffic.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      Booking online ahead of time is strongly recommended, since this is one of
+      Spain's most-visited castles and walk-up lines can be long.
+  - q: How do I get to the Alcázar from Segovia's city center?
+    a: >-
+      It's a 15-20 minute walk from the Roman Aqueduct through the old town; the
+      castle sits at the western edge of the historic center, and no metro or
+      bus is needed within town.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

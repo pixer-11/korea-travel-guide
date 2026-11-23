@@ -1,30 +1,38 @@
 ---
 title: 'Taichung Lecheng Temple: Travel Guide (4.8★)'
-description: Lecheng Temple sits on Hanxi Street in Taichung's East District, open daily 6:30am–10pm, and it's worth 30–45 minutes to see the carved beams, dragon pillars, and layered shrine halls. 4.8★ (10,540 reviews) — what visitors say, hours, and tips.
+description: >-
+  Lecheng Temple sits on Hanxi Street in Taichung's East District, open daily
+  6:30am–10pm, and it's worth 30–45 minutes to see the carved beams, dragon
+  pillars, and layered shrine halls. 4.8★ (10,949 reviews) — what visitors say,
+  hours, and tips.
 country: Taiwan
 region: Taichung
 category: attraction
 pubDate: '2026-08-19T08:01:05.594Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg/3840px-Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg/3840px-Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg
   credit: 'Photo: 阿道 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Taichung_Le_Cheng_Matsu_Temple.JPG/960px-Taichung_Le_Cheng_Matsu_Temple.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Taichung_Le_Cheng_Matsu_Temple.JPG/960px-Taichung_Le_Cheng_Matsu_Temple.JPG
     credit: 'Photo: Fcuk1203 / Wikimedia Commons (Public domain)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Taichung_Le_Cheng_Matsu_Temple.JPG
+    source: 'https://commons.wikimedia.org/wiki/File:Taichung_Le_Cheng_Matsu_Temple.JPG'
 place:
   id: ChIJvdhTU0Y9aTQRHvQRHvobfZM
   name: Taichung Lecheng Temple
-  address: No. 48號, Hanxi St, Hanxi Village, East District, Taichung City, Taiwan 401
+  address: 'No. 48號, Hanxi St, Hanxi Village, East District, Taichung City, Taiwan 401'
   rating: 4.8
-  userRatingsTotal: 10540
-  googleMapsUrl: https://maps.google.com/?cid=10627681456724505630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 10949
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10627681456724505630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.140701699999997
   lng: 120.69801890000001
@@ -61,20 +69,39 @@ place:
 tags:
   - taichung
   - historic site
-quickAnswer: Lecheng Temple sits on Hanxi Street in Taichung's East District, open daily 6:30am–10pm, and it's worth 30–45 minutes to see the carved beams, dragon pillars, and layered shrine halls. It's genuinely busy — try to arrive right at opening or after 7pm to avoid the 9am–7pm weekend crush. No admission fee; just bring small change for incense or offerings if you want to take part.
+quickAnswer: >-
+  Lecheng Temple sits on Hanxi Street in Taichung's East District, open daily
+  6:30am–10pm, and it's worth 30–45 minutes to see the carved beams, dragon
+  pillars, and layered shrine halls. It's genuinely busy — try to arrive right
+  at opening or after 7pm to avoid the 9am–7pm weekend crush. No admission fee;
+  just bring small change for incense or offerings if you want to take part.
 faq:
   - q: How much does it cost to visit Lecheng Temple?
-    a: There's no admission fee. If you light incense or make an offering, a small optional donation is customary but not required.
+    a: >-
+      There's no admission fee. If you light incense or make an offering, a
+      small optional donation is customary but not required.
   - q: What's the quietest time to visit?
-    a: Weekdays and weekends are both calmest across the 7am–10pm window; the crowd data shows the busiest stretch is specifically 9am–7pm on weekends, so early morning or evening is your best bet.
+    a: >-
+      Weekdays and weekends are both calmest across the 7am–10pm window; the
+      crowd data shows the busiest stretch is specifically 9am–7pm on weekends,
+      so early morning or evening is your best bet.
   - q: How do I get to Lecheng Temple without a car?
-    a: There's no direct MRT station; taxis, ride-hailing apps, or a rented scooter/YouBike from central Taichung are the easiest options. Use the address on Hanxi St, East District, when searching.
+    a: >-
+      There's no direct MRT station; taxis, ride-hailing apps, or a rented
+      scooter/YouBike from central Taichung are the easiest options. Use the
+      address on Hanxi St, East District, when searching.
   - q: How long should I spend there?
-    a: Most visitors spend 30–45 minutes taking in the roof carvings, altar halls, and shrines. Add extra time if you're visiting during an active ceremony.
+    a: >-
+      Most visitors spend 30–45 minutes taking in the roof carvings, altar
+      halls, and shrines. Add extra time if you're visiting during an active
+      ceremony.
   - q: Is it okay for tourists to walk around during prayers?
-    a: Yes, but move quietly, avoid the center of the entrance threshold, and be mindful with photography around worshippers actively praying.
+    a: >-
+      Yes, but move quietly, avoid the center of the entrance threshold, and be
+      mindful with photography around worshippers actively praying.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

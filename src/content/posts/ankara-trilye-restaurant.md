@@ -28,7 +28,7 @@ place:
   name: Trilye Restaurant
   address: 'Kazım Özalp, Kuleli Sokağı No: 32, 06680 Çankaya/Ankara, Türkiye'
   rating: 4.5
-  userRatingsTotal: 3124
+  userRatingsTotal: 3227
   priceLevel: 4
   googleMapsUrl: >-
     https://maps.google.com/?cid=17976266690226732605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -81,7 +81,7 @@ faq:
       hilly with limited parking.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 ## Why Trilye matters in Ankara's dining scene
 

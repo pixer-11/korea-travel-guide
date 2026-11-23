@@ -30,7 +30,7 @@ place:
     9H45+98Q Ayutthaya Historical Park, Tambon Pratuchai, Amphoe Phra Nakhon Si
     Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand
   rating: 4.7
-  userRatingsTotal: 88
+  userRatingsTotal: 103
   googleMapsUrl: >-
     https://maps.google.com/?cid=5632699480996303352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -84,7 +84,7 @@ faq:
       before visiting.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-16'
+updatedDate: '2026-11-23'
 ---
 
 ## Why go

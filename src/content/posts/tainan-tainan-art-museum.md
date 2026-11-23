@@ -1,55 +1,81 @@
 ---
-title: "Tainan Art Museum: Travel Guide (4.5★)"
-description: "Tainan Art Museum (Building 2, the geometric white pinwheel near Confucius Temple) is open Tuesday–Sunday, 10am–6pm, with late hours until 9pm on Saturdays — closed Mondays. 4.5★ (24,164 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Tainan"
-category: "attraction"
-pubDate: "2026-08-18T09:13:33.825Z"
+title: 'Tainan Art Museum: Travel Guide (4.5★)'
+description: >-
+  Tainan Art Museum (Building 2, the geometric white pinwheel near Confucius
+  Temple) is open Tuesday–Sunday, 10am–6pm, with late hours until 9pm on
+  Saturdays — closed Mondays. 4.5★ (24,381 reviews) — what visitors say, hours,
+  and tips.
+country: Taiwan
+region: Tainan
+category: attraction
+pubDate: '2026-08-18T09:13:33.825Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Building_1_of_Tainan_Art_Museum.jpg/1920px-Building_1_of_Tainan_Art_Museum.jpg"
-  credit: "Photo: Taiwania Justo / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Building_1_of_Tainan_Art_Museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Building_1_of_Tainan_Art_Museum.jpg/1920px-Building_1_of_Tainan_Art_Museum.jpg
+  credit: 'Photo: Taiwania Justo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Building_1_of_Tainan_Art_Museum.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ7Ruxw3x2bjQRZk4MEAECIq4"
-  name: "Tainan Art Museum"
-  address: "No. 37號, Nanmen Rd, Yonghua Village, West Central District, Tainan City, Taiwan 700"
+  id: ChIJ7Ruxw3x2bjQRZk4MEAECIq4
+  name: Tainan Art Museum
+  address: >-
+    No. 37號, Nanmen Rd, Yonghua Village, West Central District, Tainan City,
+    Taiwan 700
   rating: 4.5
-  userRatingsTotal: 24164
-  googleMapsUrl: "https://maps.google.com/?cid=12547593715395087974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 24381
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12547593715395087974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.9910079
   lng: 120.20507
-  phone: "+886 6 221 8881"
+  phone: +886 6 221 8881
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "tainan"
-  - "museum"
-quickAnswer: "Tainan Art Museum (Building 2, the geometric white pinwheel near Confucius Temple) is open Tuesday–Sunday, 10am–6pm, with late hours until 9pm on Saturdays — closed Mondays. Budget 90 minutes to two hours, arrive right at 10am to beat the crowds, and pair it with a walk through the surrounding Chinese Cultural Zone. It's genuinely one of Tainan's busiest cultural draws, so weekday mornings are your best window."
+  - tainan
+  - museum
+quickAnswer: >-
+  Tainan Art Museum (Building 2, the geometric white pinwheel near Confucius
+  Temple) is open Tuesday–Sunday, 10am–6pm, with late hours until 9pm on
+  Saturdays — closed Mondays. Budget 90 minutes to two hours, arrive right at
+  10am to beat the crowds, and pair it with a walk through the surrounding
+  Chinese Cultural Zone. It's genuinely one of Tainan's busiest cultural draws,
+  so weekday mornings are your best window.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tuesday to Friday and Sunday, 10am–6pm; Saturday until 9pm; closed all day Monday."
-  - q: "How long should I spend at the museum?"
-    a: "Plan on 90 minutes to two hours for Building 2 alone; add 30–45 minutes if you also visit Building 1."
-  - q: "When is the best time to avoid crowds?"
-    a: "Weekday mornings right at the 10am opening are calmest. Weekends, especially afternoons, draw the biggest crowds given how popular the museum has become."
-  - q: "Is Tainan Art Museum near other attractions?"
-    a: "Yes — it's a 10–15 minute walk from Confucius Temple and Chihkan Tower, within Tainan's Chinese Cultural Zone."
-  - q: "Are there dining options on site?"
-    a: "There's a café and a restaurant inside Building 2, both worth a stop for coffee or a light meal before or after the galleries."
+  - q: What are the opening hours?
+    a: >-
+      Tuesday to Friday and Sunday, 10am–6pm; Saturday until 9pm; closed all day
+      Monday.
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan on 90 minutes to two hours for Building 2 alone; add 30–45 minutes if
+      you also visit Building 1.
+  - q: When is the best time to avoid crowds?
+    a: >-
+      Weekday mornings right at the 10am opening are calmest. Weekends,
+      especially afternoons, draw the biggest crowds given how popular the
+      museum has become.
+  - q: Is Tainan Art Museum near other attractions?
+    a: >-
+      Yes — it's a 10–15 minute walk from Confucius Temple and Chihkan Tower,
+      within Tainan's Chinese Cultural Zone.
+  - q: Are there dining options on site?
+    a: >-
+      There's a café and a restaurant inside Building 2, both worth a stop for
+      coffee or a light meal before or after the galleries.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-23'
 ---
 
 ## Why go
