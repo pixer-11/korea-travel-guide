@@ -8550,5 +8550,21 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Istanbul_City_skyline_at_Sunset.jpg/3840px-Istanbul_City_skyline_at_Sunset.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mumbai_03-2016_09_skyline_of_Lotus_Colony.jpg/3840px-Mumbai_03-2016_09_skyline_of_Lotus_Colony.jpg": {
+  "w": 3840,
+  "h": 2400,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
  }
 }

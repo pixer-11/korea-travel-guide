@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://visitesports.com/locations/tr
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Istanbul_City_skyline_at_Sunset.jpg/3840px-Istanbul_City_skyline_at_Sunset.jpg'
+  credit: 'Photo: Husain007 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Istanbul_City_skyline_at_Sunset.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - istanbul

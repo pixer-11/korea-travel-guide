@@ -9,7 +9,6 @@ eventStartDate: '2026-12-12'
 eventEndDate: '2026-12-13'
 eventRecurring: true
 eventFactsAsked: true
-gallery: []
 tags:
   - maromme
   - event
@@ -27,6 +26,14 @@ faq:
     a: Rouen is minutes away. In December its Christmas market usually sets up in front of Notre-Dame cathedral, near the Gros-Horloge and the Place du Vieux-Marché.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/6/64/Masters_Snooker_Final.jpg
+  credit: 'Photo: Bvayb / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Masters_Snooker_Final.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Two days of national-circuit snooker

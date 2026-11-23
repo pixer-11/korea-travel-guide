@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: NZD
 eventFactsAsked: true
-gallery: []
 tags:
   - new plymouth
   - event
@@ -31,6 +30,14 @@ faq:
     a: 'Most visitors spend two to three hours: a picnic and a performance at the Bowl of Brooklands, then a slow loop past the main lake, Poet''s Bridge and the lit gullies.'
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TSB_Mianney.jpg/3840px-TSB_Mianney.jpg
+  credit: 'Photo: Obi Riddim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:TSB_Mianney.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 The lights hang in the treetops above a steep, fern-filled gully. Below them, a path drops toward black water where a red bridge glows twice, once in the air and once in the lake. For five summer weeks, from December 19, 2026 to January 23, 2027, the TSB Festival of Lights turns Pukekura Park into New Plymouth's after-dark living room.
