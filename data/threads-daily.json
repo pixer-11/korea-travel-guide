@@ -124,27 +124,30 @@
     "milan-max-pezzali-unipol-dome-milan",
     "taipei-khalid-concert-taipei",
     "cairo-cairo-steps-and-basem-darwisch-concert",
-    "da-lat-11th-da-lat-flower-festival"
+    "da-lat-11th-da-lat-flower-festival",
+    "auckland-a-ap-rocky-don-t-be-dumb-world-tour"
   ],
-  "lastSentDay": "2026-11-23",
+  "lastSentDay": "2026-11-24",
   "material": {
-    "day": "2026-11-23",
-    "slug": "da-lat-11th-da-lat-flower-festival",
-    "title": "11th Da Lat Flower Festival: Dates, Tickets & Venue (Da Lat)",
+    "day": "2026-11-24",
+    "slug": "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
+    "title": "A$AP Rocky: Don't Be Dumb World Tour: Dates, Tickets & Venue (Auckland)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-23-da-lat-11th-da-lat-flower-festival-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-23-da-lat-11th-da-lat-flower-festival-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-4.jpg"
     ],
-    "igCaption": "Da Lat's 11th Flower Festival runs Dec 19–31, 2026, opening at Lam Vien Square with a giant glass artichoke and a sunflower-shaped dome. Expect misty mornings, cool nights, grilled rice-paper pizza, and flowers spilling across the whole plateau city.\n\n#DaLat #Vietnam #events #travel #wanderatlas #FlowerFestival #TravelVietnam #LamDong #NightMarket\n📷 Photo: Damian Vo / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "Da Lat's night market serves grilled rice-paper \"Da Lat pizza,\" hot soy milk, and artichoke tea by the bag. Which one would you try first?",
-    "link": "https://wanderatlasguides.com/posts/da-lat-11th-da-lat-flower-festival/"
+    "igCaption": "A$AP Rocky returns to New Zealand after eight years, bringing the Don't Be Dumb World Tour to Auckland's Spark Arena on Dec 12, 2026. Floor for the pit, tiers for the view — either way, it's a walk home along the harbour after.\n\n#Auckland #NewZealand #events #travel #wanderatlas #SparkArena #ASAPRocky #TravelGuide #ConcertTravel\n📷 Photo: David Hwang / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: david_hwang / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: Chris Brown / Wikimedia Commons (CC BY 2.0) (edited)",
+    "thOption": "Floor for the mosh pit chaos or tiered seats for a clean sightline on the production? Which one are you picking for A$AP Rocky at Spark Arena?",
+    "link": "https://wanderatlasguides.com/posts/auckland-a-ap-rocky-don-t-be-dumb-world-tour/"
   },
   "social": {
-    "thDay": "2026-11-23",
-    "thId": "18079960034771824",
+    "thDay": "2026-11-24",
+    "thId": "18110553140209142",
     "igDay": "2026-11-23",
     "igId": "17892981606687680",
-    "thSlug": "da-lat-11th-da-lat-flower-festival",
+    "thSlug": "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
     "igSlug": "da-lat-11th-da-lat-flower-festival",
     "history": [
       {
@@ -864,7 +867,17 @@
       {
         "day": "2026-11-17",
         "slug": "fukuoka-manly",
-        "thId": "18159665788519649"
+        "thId": "18159665788519649",
+        "insights": {
+          "at": "2026-11-24",
+          "th": {
+            "views": 12,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-18",
@@ -898,6 +911,11 @@
         "slug": "da-lat-11th-da-lat-flower-festival",
         "thId": "18079960034771824",
         "igId": "17892981606687680"
+      },
+      {
+        "day": "2026-11-24",
+        "slug": "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
+        "thId": "18110553140209142"
       }
     ]
   }
