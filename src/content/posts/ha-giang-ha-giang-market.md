@@ -45,6 +45,7 @@ place:
       - 17
       - 18
     venueId: ven_344369684b575349696e315259447a34566a52697565704a496843
+  phone: '+84 934 625 968'
 tags:
   - ha giang
   - local market

@@ -64,6 +64,7 @@ place:
       - 18
       - 19
     venueId: ven_597361485475754b6d4c3652457a704d616f696f4f5f6e4a496843
+  phone: '+84 332 763 544'
 tags:
   - phu quoc
   - historic site
