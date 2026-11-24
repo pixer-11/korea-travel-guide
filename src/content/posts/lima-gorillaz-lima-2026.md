@@ -1,6 +1,6 @@
 ---
 title: 'Gorillaz Lima 2026: Dates, Tickets & Venue (Lima)'
-description: Gorillaz Lima 2026 takes place on November 23, 2026 at Arena 1 Costa Verde, the open-air venue on Lima's coastal strip in San Miguel, and tickets for the show are reported as sold out.
+description: Gorillaz Lima 2026 was set for November 23, 2026 at Arena 1 Costa Verde, the open-air venue on Lima's coastal strip in San Miguel.
 country: Peru
 region: Lima
 category: event
@@ -31,14 +31,14 @@ gallery:
 tags:
   - lima
   - event
-quickAnswer: Gorillaz Lima 2026 takes place on November 23, 2026 at Arena 1 Costa Verde, the open-air venue on Lima's coastal strip in San Miguel, and tickets for the show are reported as sold out. Most attendees reach the venue by ride-hailing app or taxi and stay in Miraflores, San Isidro or San Miguel.
+quickAnswer: Gorillaz Lima 2026 was set for November 23, 2026 at Arena 1 Costa Verde, the open-air venue on Lima's coastal strip in San Miguel. Most concertgoers reach the venue by ride-hailing app or taxi and stay in Miraflores, San Isidro or San Miguel.
 faq:
   - q: When and where is Gorillaz Lima 2026?
-    a: Gorillaz perform on November 23, 2026 at Arena 1 Costa Verde, the open-air venue on the coastal strip in San Miguel, Lima.
+    a: Gorillaz were scheduled to perform on November 23, 2026 at Arena 1 Costa Verde, the open-air venue on the coastal strip in San Miguel, Lima.
   - q: Are tickets still available?
-    a: The show is reported as sold out. Peruvian fans mostly use the official ticketing channel's transfer system, because resale offers on social media are a common source of counterfeit tickets.
+    a: Tickets were sold through the official ticketing channel, which has its own transfer system. Peruvian fans mostly use that system, because resale offers on social media are a common source of counterfeit tickets.
   - q: How do people get to Arena 1 Costa Verde?
-    a: By road. No train or Metropolitano line reaches the Costa Verde, so most attendees use Uber, Cabify, InDrive or taxis. Traffic on the Circuito de Playas is heavy after the show ends.
+    a: By road. No train or Metropolitano line reaches the Costa Verde, so most concertgoers use Uber, Cabify, InDrive or taxis. Traffic on the Circuito de Playas is heavy after big shows.
   - q: What is the weather like in Lima in late November?
     a: It is late spring, with mild days and very little rain. Evenings by the sea are cooler than inland, so most concertgoers bring a light layer.
   - q: Where do visitors usually stay for the concert?
@@ -46,10 +46,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## One night on the Costa Verde
 
-Gorillaz play Lima on November 23, 2026. The venue is Arena 1 Costa Verde in San Miguel, an outdoor concert ground on the strip of land between the Pacific and Lima's cliffs. The show is reported as sold out.
+Gorillaz were set to play Lima on November 23, 2026. The venue is Arena 1 Costa Verde in San Miguel, an outdoor concert ground on the strip of land between the Pacific and Lima's cliffs.
 
 Gorillaz are the virtual band Damon Albarn and artist Jamie Hewlett created in 1998. On record the band is four cartoon members: 2-D, Murdoc Niccals, Noodle and Russel Hobbs. On stage it is Albarn and a large live band, with Hewlett's animation filling the screens behind them. The songs most people know are "Clint Eastwood", "Feel Good Inc.", "DARE" and "On Melancholy Hill".
 
@@ -74,6 +73,6 @@ The Circuito de Playas jams after big shows because every car leaves along the s
 The local rhythm here is easy to pick up:
 
 - **Paying:** Peru uses the sol. Cards work widely in Lima, and locals pay each other by phone with Yape and Plin, which visitors without a Peruvian bank account generally cannot use. Vendors around big events often prefer small notes.
-- **Tickets:** at a sold-out show, resale offers on social media are the classic source of fake or duplicated tickets. Peruvian fans mostly stick to the official ticketing channel and its own transfer system.
+- **Tickets:** at big shows, resale offers on social media are the classic source of fake or duplicated tickets. Peruvian fans mostly stick to the official ticketing channel and its own transfer system.
 - **Eating:** concertgoers often have ceviche or a sanguchería sandwich in Miraflores or San Miguel beforehand. Cevicherías usually serve lunch rather than dinner, so ceviche tends to be a midday meal.
 - **Language:** a little Spanish helps with drivers. "Arena 1, Costa Verde, San Miguel" is all you need for the destination.

@@ -6,7 +6,7 @@ title: 'Macau in 3 days: Barra heritage, Cotai resorts and Coloane''s coast'
 description: A 3-day Macau itinerary moving from Barra's temple and heritage lanes to Cotai's resort canals and Taipa's colonial houses, then out to Coloane's hilltop temple, pandas and Hac Sa's beach and park.
 quickAnswer: 'This is a 3-day Macau itinerary: day one covers Barra''s A-Ma Temple, Maritime Museum, Penha Hill chapel, Lilau Square and Mandarin''s House; day two moves from The Venetian Macao and a long lunch in Cotai to an evening among Taipa Village''s colonial houses; day three heads to Coloane for a hilltop temple village, giant pandas, a reservoir park and an afternoon and evening at Hac Sa Beach and Hac Sa Park.'
 pubDate: '2026-11-04T07:52:18.118Z'
-stopsHash: 8a5b9c4eea1c701125e53e7983ea60254e417985
+stopsHash: 23ac4c2c5a7230fac728ec8001e7f135a5ebe154
 packedAvailable: true
 faq:
   - q: How much walking does this 3-day Macau itinerary involve?
@@ -77,15 +77,15 @@ itinerary:
         why: Tucked inside a huge resort and easy to overlook, it's a consistently well-rated spot to settle in for a long, relaxed lunch.
         dwellMin: 300
         walkToNext:
-          km: 1.6
-          minutes: null
-          transit: true
-      - slug: taipa-village-casa-de-nostalgia
+          km: 1.7
+          minutes: 23
+          transit: false
+      - slug: cotai-taipa-grande-viewing-platform
         slot: evening
-        why: One of the mint-green colonial house-museums on Avenida da Praia, it's a compact way to end the day among Taipa Village's heritage row.
-        dwellMin: 30
+        why: An attraction rated 4.7 by visitors, included as a stop on this route.
+        dwellMin: 90
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: taipa-village-taipa-houses
   - label: Coloane hilltop to black-sand coast
     intro: Day three heads out along Estrada do Alto de Coloane and into Macao's southern reaches, starting at a hilltop temple complex, dropping to pandas and a reservoir park, then settling in for an afternoon and evening at Hac Sa's black-sand beach and its park grounds. It's the greenest, most spread-out day of the trip.
     stops:
@@ -129,5 +129,6 @@ itinerary:
     rainSwapSlug: cotai-wynn-palace
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24T07:49:38.382Z'
 ---
 

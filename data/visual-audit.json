@@ -681,6 +681,12 @@
   "reason": "publish gate: Glass Pond Sculpture in Botanic Park, Adelaide, representative view",
   "at": "2026-10-01T07:50:44.974Z"
  },
+ "adelaide-imprints-booksellers\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Imprints_Booksellers_in_Adelaide_CBD_September_2025.jpg/3840px-Imprints_Booksellers_in_Adelaide_CBD_September_2025.jpg": {
+  "slug": "adelaide-imprints-booksellers",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront with sign shows actual bookshop exterior",
+  "at": "2026-11-24T07:44:12.461Z"
+ },
  "adelaide-south-australian-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/South_Australian_Museum_on_27_February_2025.jpg/1920px-South_Australian_Museum_on_27_February_2025.jpg": {
   "slug": "adelaide-south-australian-museum",
   "verdict": "MATCH",
@@ -9191,6 +9197,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows garden park grounds with gate, representative of venue",
   "at": "2026-10-11T07:56:51.573Z"
+ },
+ "cotai-taipa-grande-viewing-platform\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Taipa_Grande_Viewing_Platform_28-01-2023.jpg/3840px-Taipa_Grande_Viewing_Platform_28-01-2023.jpg": {
+  "slug": "cotai-taipa-grande-viewing-platform",
+  "verdict": "MATCH",
+  "reason": "publish gate: Viewing platform with greenery and visitors, plausible venue view",
+  "at": "2026-11-24T07:44:12.416Z"
  },
  "cotai-the-cotai-strip\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Macau_Cotai_Strip_%2812469090953%29.jpg": {
   "slug": "cotai-the-cotai-strip",
@@ -24369,6 +24381,12 @@
   "reason": "Vintage white building, Miami architecture, restaurant store",
   "at": "2026-07-27T12:49:53.312Z"
  },
+ "miami-miami-skyline-view\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/Brickell_Miami_Florida_Skyline_31_August_2023.jpg": {
+  "slug": "miami-miami-skyline-view",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative Miami skyline view with river and bridge",
+  "at": "2026-11-24T07:44:12.368Z"
+ },
  "miami-perez-art-museum-miami\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PAMM_MRD_27.jpg/1920px-PAMM_MRD_27.jpg": {
   "slug": "miami-perez-art-museum-miami",
   "verdict": "MATCH",
@@ -29646,6 +29664,12 @@
   "reason": "publish gate: Native flower close-up, plausible for botanic garden plant collection",
   "at": "2026-10-01T07:47:03.023Z"
  },
+ "perth-lawrence-wilson-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/South_west_corner_of_lawrence_wilson_gallery_building.jpg": {
+  "slug": "perth-lawrence-wilson-art-gallery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of gallery building with name visible on wall",
+  "at": "2026-11-24T07:44:12.246Z"
+ },
  "perth-mindeerup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/South_Perth_Mindeerup_02_meerkats.jpg/3840px-South_Perth_Mindeerup_02_meerkats.jpg": {
   "slug": "perth-mindeerup",
   "verdict": "MATCH",
@@ -31335,6 +31359,12 @@
   "verdict": "MATCH",
   "reason": "width upgrade: Shows suspension bridge crowded with people, matching Ram Jhula.",
   "at": "2026-08-11T21:08:02.183Z"
+ },
+ "rishikesh-rishikesh-view-point\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Rishikesh_rafting_point.jpg": {
+  "slug": "rishikesh-rishikesh-view-point",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic river valley view matching viewpoint attraction in Rishikesh",
+  "at": "2026-11-24T07:44:12.316Z"
  },
  "rishikesh-triveni-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg/3840px-Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg": {
   "slug": "rishikesh-triveni-ghat",

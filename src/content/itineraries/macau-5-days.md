@@ -6,7 +6,7 @@ title: 'Macau in 5 days: temples, Cotai, Taipa and Coloane itinerary'
 description: A 5-day Macau itinerary moving from the historic Barra waterfront and Cotai's resort strip to Taipa Village, Guia Hill and the beaches and temples of Coloane.
 quickAnswer: 'This is a 5-day Macau itinerary: day 1 explores Barra''s temple and colonial hilltop sights, day 2 pairs Cotai''s resort strip with Taipa Village, day 3 climbs from the Red Market to Guia Hill, day 4 settles into Hac Sa Beach on Coloane, and day 5 closes with Coloane''s temples and panda pavilion.'
 pubDate: '2026-11-04T07:53:25.858Z'
-stopsHash: 1f183db479139fdf9d482b00cc6488182959ae7b
+stopsHash: 4fd30281c44ebb7a4f333871a44033ee031a90a7
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Macau itinerary?
@@ -77,15 +77,15 @@ itinerary:
         why: A consistently well-rated restaurant inside Londoner Grand that rarely fills up, it suits a long, unhurried lunch between the morning's sightseeing and the evening ahead.
         dwellMin: 300
         walkToNext:
-          km: 1.6
-          minutes: null
-          transit: true
-      - slug: taipa-village-casa-de-nostalgia
+          km: 1.7
+          minutes: 23
+          transit: false
+      - slug: cotai-taipa-grande-viewing-platform
         slot: evening
-        why: One of the mint-green house-museums on Avenida da Praia, it's a quick, atmospheric way to end the day among Taipa Village's colonial row houses and snack shops.
-        dwellMin: 30
+        why: An attraction rated 4.7 by visitors, included as a stop on this route.
+        dwellMin: 90
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: taipa-village-taipa-houses
   - label: Markets, temples and Guia Hill
     intro: This day moves from the Art Deco Red Market on the Macau peninsula to Templo de Kun Iam, then climbs toward Estr. do Eng. Trigo and the Guia Hill high point, finishing at the fortress and lighthouse for harbour views. It's a fuller day that rewards an early start.
     stops:
@@ -195,5 +195,6 @@ itinerary:
     rainSwapSlug: cotai-the-ritz-carlton-cafe
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24T07:49:38.452Z'
 ---
 
