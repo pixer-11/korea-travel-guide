@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: NZD
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/New_Zealand_Wars_Memorial_New_Plymouth.jpg/1280px-New_Zealand_Wars_Memorial_New_Plymouth.jpg'
+  credit: 'Photo: Tom Ackroyd (CC0)'
+  license: wikimedia
+  source: 'File:New Zealand Wars Memorial New Plymouth.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - new plymouth
   - event

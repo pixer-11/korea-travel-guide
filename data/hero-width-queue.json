@@ -3882,7 +3882,8 @@
   "cotai-taipa-grande-viewing-platform\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Taipa_Grande_Viewing_Platform_28-01-2023.jpg/3840px-Taipa_Grande_Viewing_Platform_28-01-2023.jpg": 3840,
   "miami-miami-skyline-view\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/Brickell_Miami_Florida_Skyline_31_August_2023.jpg": 3796,
   "perth-lawrence-wilson-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/South_west_corner_of_lawrence_wilson_gallery_building.jpg": 1600,
-  "rishikesh-rishikesh-view-point\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Rishikesh_rafting_point.jpg": 3712
+  "rishikesh-rishikesh-view-point\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Rishikesh_rafting_point.jpg": 3712,
+  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": 1536
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -3929,8 +3930,8 @@
   },
   "surabaya-blue-doors-surabaya": {
    "width": 1080,
-   "attempts": 16,
-   "nextTry": "2026-11-24",
+   "attempts": 17,
+   "nextTry": "2026-12-01",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -3943,15 +3944,15 @@
   },
   "nha-trang-la-nha": {
    "width": 1102,
-   "attempts": 15,
-   "nextTry": "2026-11-24",
+   "attempts": 16,
+   "nextTry": "2026-12-01",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
   "phuket-hug-street-food-kata-phuket": {
    "width": 1080,
-   "attempts": 15,
-   "nextTry": "2026-11-24",
+   "attempts": 16,
+   "nextTry": "2026-12-01",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
@@ -4083,8 +4084,8 @@
   },
   "tashkent-shavi-coffee-roasters": {
    "width": 1103,
-   "attempts": 9,
-   "nextTry": "2026-11-24",
+   "attempts": 10,
+   "nextTry": "2026-12-01",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -4395,5 +4396,5 @@
    "flaggedAt": "2026-11-14"
   }
  },
- "updated": "2026-11-24T19:08:22.959Z"
+ "updated": "2026-11-24T19:38:26.859Z"
 }

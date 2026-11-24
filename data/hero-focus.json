@@ -8566,5 +8566,13 @@
    "x": 50,
    "y": 40
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/New_Zealand_Wars_Memorial_New_Plymouth.jpg/1280px-New_Zealand_Wars_Memorial_New_Plymouth.jpg": {
+  "w": 1280,
+  "h": 1231,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

@@ -7655,8 +7655,8 @@
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG": {
   "slug": "chamonix-grotte-de-glace",
   "verdict": "MATCH",
-  "reason": "patrol replace: Ice cave with colored LED lighting, Chamonix",
-  "at": "2026-11-20T19:36:29.163Z"
+  "reason": "patrol replace: Ice cave with colored LED lighting installation",
+  "at": "2026-11-24T19:36:59.885Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG": {
   "slug": "chamonix-grotte-de-glace",
@@ -39240,20 +39240,20 @@
  "tokyo-the-kura\u0001https://live.staticflickr.com/44/138262874_720f18db21_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Incidental architectural fragment, not representative venue view",
-  "at": "2026-10-25T23:29:15.284Z"
+  "reason": "patrol reject: Too dark, only a window fragment visible",
+  "at": "2026-11-24T19:37:27.156Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/51/138267530_ab1a874ed4_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Incidental fragment: a wall lamp, not representative venue view",
-  "at": "2026-10-25T23:29:18.068Z"
+  "reason": "patrol reject: Incidental lamp/wall fragment, not representative venue view",
+  "at": "2026-11-24T19:37:29.676Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/55/138267469_42ed6054f3_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: audit: Traditional Japanese architecture, but appears to be a museu",
-  "at": "2026-10-25T23:29:22.055Z"
+  "reason": "patrol reject: audit: Traditional Japanese architecture, not trendy Tokyo venue",
+  "at": "2026-11-24T19:37:33.453Z"
  },
  "tokyo-the-kura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
   "slug": "tokyo-the-kura",
