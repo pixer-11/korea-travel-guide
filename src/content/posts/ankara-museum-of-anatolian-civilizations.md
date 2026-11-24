@@ -3,7 +3,7 @@ title: 'Museum of Anatolian Civilizations: Ankara Travel Guide'
 description: >-
   The Museum of Anatolian Civilizations, set in a restored 15th-century Ottoman
   bazaar in Ankara's Ulus/Kale district, holds one of the world's great
-  collections of Hittite, Phrygian and Neolithic artifacts. 4.8★ (17,595
+  collections of Hittite, Phrygian and Neolithic artifacts. 4.8★ (18,156
   reviews) — what visitors say, hours, and tips.
 country: Turkey
 region: Ankara
@@ -25,7 +25,7 @@ place:
   name: Museum of Anatolian Civilizations
   address: 'Kale, Gözcü Sk. No:2, 06240 Ulus/Altındağ/Ankara, Türkiye'
   rating: 4.8
-  userRatingsTotal: 17595
+  userRatingsTotal: 18156
   googleMapsUrl: >-
     https://maps.google.com/?cid=11209930372285753158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -76,9 +76,9 @@ faq:
       want to read the didactic labels in each room.
   - q: When is the quietest time to visit?
     a: >-
-      Weekday evenings between 7pm and 9pm are the calmest window in the forecast.
-      Weekends stay busy essentially all day, with the worst crowds between noon
-      and 6pm.
+      Weekday evenings between 7pm and 9pm are the calmest window in the
+      forecast. Weekends stay busy essentially all day, with the worst crowds
+      between noon and 6pm.
   - q: How do I get to the museum from central Ankara?
     a: >-
       Take the metro to Ulus station and walk uphill about 10–15 minutes toward
@@ -96,7 +96,7 @@ faq:
       the citadel walls.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-24'
 ---
 
 ## Why this museum matters

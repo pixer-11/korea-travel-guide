@@ -1,55 +1,77 @@
 ---
-title: "Eco Park: Tashkent Travel Guide (4.6★)"
-description: "Eco Park is Tashkent's leafy city park — bike lanes, badminton courts, a lakeside pavilion with movie nights, and a cafe for tea and shade. 4.6★ (1,037 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Tashkent"
-category: "attraction"
-pubDate: "2026-08-22T09:20:04.716Z"
+title: 'Eco Park: Tashkent Travel Guide (4.6★)'
+description: >-
+  Eco Park is Tashkent's leafy city park — bike lanes, badminton courts, a
+  lakeside pavilion with movie nights, and a cafe for tea and shade. 4.6★ (1,074
+  reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Tashkent
+category: attraction
+pubDate: '2026-08-22T09:20:04.716Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eco_Park_in_Tashkent.jpg/3840px-Eco_Park_in_Tashkent.jpg"
-  credit: "Photo: Ella's page / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Eco_Park_in_Tashkent.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eco_Park_in_Tashkent.jpg/3840px-Eco_Park_in_Tashkent.jpg
+  credit: 'Photo: Ella''s page / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Eco_Park_in_Tashkent.jpg'
   focus:
     x: 65
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJiV82kCn1rjgRV1ERfXcbMO0"
-  name: "Eco Park"
-  address: "Taraqqiyot ko'chasi 78-80, Тоshkent, Toshkent, Uzbekistan"
+  id: ChIJiV82kCn1rjgRV1ERfXcbMO0
+  name: Eco Park
+  address: 'Taraqqiyot ko''chasi 78-80, Тоshkent, Toshkent, Uzbekistan'
   rating: 4.6
-  userRatingsTotal: 1037
-  googleMapsUrl: "https://maps.google.com/?cid=17091190785884377431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1074
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17091190785884377431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.309312299999995
   lng: 69.29590720000002
-  phone: "+998 93 534 08 09"
+  phone: +998 93 534 08 09
   openingHours:
-    - "Monday: 6:00 AM – 11:00 PM"
-    - "Tuesday: 6:00 AM – 11:00 PM"
-    - "Wednesday: 6:00 AM – 11:00 PM"
-    - "Thursday: 6:00 AM – 11:00 PM"
-    - "Friday: 6:00 AM – 11:00 PM"
-    - "Saturday: 6:00 AM – 11:00 PM"
-    - "Sunday: 6:00 AM – 11:00 PM"
+    - 'Monday: 6:00 AM – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 11:00 PM'
+    - 'Thursday: 6:00 AM – 11:00 PM'
+    - 'Friday: 6:00 AM – 11:00 PM'
+    - 'Saturday: 6:00 AM – 11:00 PM'
+    - 'Sunday: 6:00 AM – 11:00 PM'
 tags:
-  - "tashkent"
-  - "park"
-quickAnswer: "Eco Park is Tashkent's leafy city park — bike lanes, badminton courts, a lakeside pavilion with movie nights, and a cafe for tea and shade. It's open daily 6am–11pm, easiest to enjoy in early morning or after sunset when the summer heat breaks. Bring or rent a bike, grab a bench by the lake, and budget an hour or two."
+  - tashkent
+  - park
+quickAnswer: >-
+  Eco Park is Tashkent's leafy city park — bike lanes, badminton courts, a
+  lakeside pavilion with movie nights, and a cafe for tea and shade. It's open
+  daily 6am–11pm, easiest to enjoy in early morning or after sunset when the
+  summer heat breaks. Bring or rent a bike, grab a bench by the lake, and budget
+  an hour or two.
 faq:
-  - q: "What are Eco Park's opening hours?"
-    a: "It's open every day from 6:00 AM to 11:00 PM, with no listed weekly closure."
-  - q: "When is the best time to visit to avoid the heat?"
-    a: "Early morning (around 6–8am) or evening after 8pm, once the day's heat has broken — midday in Tashkent regularly climbs into the high 30s °C in summer."
-  - q: "How do I get to Eco Park from central Tashkent?"
-    a: "It's on Taraqqiyot Street in Tashkent. A taxi or ride-hailing app from the centre is the simplest way there."
-  - q: "Can I rent a bike there?"
-    a: "Bike rental is commonly available at parks like this in Uzbekistan, so you don't need to bring your own to use the bike lanes."
-  - q: "How long should I plan to spend there?"
-    a: "An hour or two is enough for a walk, a badminton game, or a lakeside coffee; stay longer if there's an evening movie screening at the pavilion."
+  - q: What are Eco Park's opening hours?
+    a: >-
+      It's open every day from 6:00 AM to 11:00 PM, with no listed weekly
+      closure.
+  - q: When is the best time to visit to avoid the heat?
+    a: >-
+      Early morning (around 6–8am) or evening after 8pm, once the day's heat has
+      broken — midday in Tashkent regularly climbs into the high 30s °C in
+      summer.
+  - q: How do I get to Eco Park from central Tashkent?
+    a: >-
+      It's on Taraqqiyot Street in Tashkent. A taxi or ride-hailing app from the
+      centre is the simplest way there.
+  - q: Can I rent a bike there?
+    a: >-
+      Bike rental is commonly available at parks like this in Uzbekistan, so you
+      don't need to bring your own to use the bike lanes.
+  - q: How long should I plan to spend there?
+    a: >-
+      An hour or two is enough for a walk, a badminton game, or a lakeside
+      coffee; stay longer if there's an evening movie screening at the pavilion.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24'
 ---
 ## Why go
 

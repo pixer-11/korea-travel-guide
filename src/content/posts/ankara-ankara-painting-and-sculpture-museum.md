@@ -3,7 +3,7 @@ title: 'Ankara Painting and Sculpture Museum: Travel Guide (4.7★)'
 description: >-
   The Ankara Painting and Sculpture Museum, tucked into the Hacettepe district
   near Ulus, is Turkey's oldest state collection of modern art, open daily
-  except Monday from 9am to 5:30pm. 4.7★ (3,768 reviews) — what visitors say,
+  except Monday from 9am to 5:30pm. 4.7★ (3,896 reviews) — what visitors say,
   hours, and tips.
 country: Turkey
 region: Ankara
@@ -26,7 +26,7 @@ place:
   name: Ankara Painting and Sculpture Museum
   address: 'Hacettepe, Türkocağı Sk., 06230 Altındağ/Ankara, Türkiye'
   rating: 4.7
-  userRatingsTotal: 3768
+  userRatingsTotal: 3896
   googleMapsUrl: >-
     https://maps.google.com/?cid=4249965748614969653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -87,7 +87,7 @@ faq:
       are all within easy walking distance.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-24'
 ---
 
 ## Why go

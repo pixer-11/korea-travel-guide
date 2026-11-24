@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ankara-kugulu-park
-srcHash: '37d38ccc7718'
+srcHash: '8ea9c736fa38'
 title: 'Parque Kuğulu: Guía de Viaje de Ankara (4.5★)'
-description: 'El Parque Kuğulu es una pequeña plaza arbolada en pleno corazón de Çankaya, donde cisnes y patos se deslizan por un estanque central rodeado de senderos y jardines de té. 4.5★ (27,526 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Parque Kuğulu es una pequeña plaza arbolada en pleno corazón de Çankaya, donde cisnes y patos se deslizan por un estanque central rodeado de senderos y jardines de té. 4.5★ (28,450 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Parque Kuğulu es una pequeña plaza arbolada en pleno corazón de Çankaya, donde cisnes y patos se deslizan por un estanque central rodeado de senderos y jardines de té. Está abierto las 24 horas y la entrada es gratuita; lo mejor es visitarlo un día laborable por la mañana, entre las 7:00 y las 9:00, antes de que se llenen los bancos y los caminos. Basta con 30–45 minutos, o algo más si se demora tomando un té en alguna de las cafeterías cercanas.
 faq:
   - q: ¿Cuánto cuesta visitar el Parque Kuğulu?

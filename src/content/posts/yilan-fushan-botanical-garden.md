@@ -1,44 +1,52 @@
 ---
-title: "Fushan Botanical Garden: Yilan Travel Guide (4.7★)"
-description: "Fushan Botanical Garden is a reservation-only reserve deep in the Yuanshan Township hills, open 9am–3pm every day except Tuesday. 4.7★ (4,325 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Yilan"
-category: "attraction"
-pubDate: "2026-08-22T08:04:23.746Z"
+title: 'Fushan Botanical Garden: Yilan Travel Guide (4.7★)'
+description: >-
+  Fushan Botanical Garden is a reservation-only reserve deep in the Yuanshan
+  Township hills, open 9am–3pm every day except Tuesday. 4.7★ (4,508 reviews) —
+  what visitors say, hours, and tips.
+country: Taiwan
+region: Yilan
+category: attraction
+pubDate: '2026-08-22T08:04:23.746Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_%281%29.jpg/1920px-%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_%281%29.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_(1).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_%281%29.jpg/1920px-%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_%281%29.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_(1).jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fushan_Botanical_Garden_%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_-_panoramio_%283%29.jpg/3840px-Fushan_Botanical_Garden_%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_-_panoramio_%283%29.jpg"
-    credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Fushan_Botanical_Garden_%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_-_panoramio_(3).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fushan_Botanical_Garden_%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_-_panoramio_%283%29.jpg/3840px-Fushan_Botanical_Garden_%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_-_panoramio_%283%29.jpg
+    credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Fushan_Botanical_Garden_%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_-_panoramio_(3).jpg
 place:
-  id: "ChIJVUZau6kJaDQRy13vW2fDWaE"
-  name: "Fushan Botanical Garden"
-  address: "264, Taiwan, Yilan County, Yuanshan Township, Huxi Village, 雙埤路福山1號"
+  id: ChIJVUZau6kJaDQRy13vW2fDWaE
+  name: Fushan Botanical Garden
+  address: '264, Taiwan, Yilan County, Yuanshan Township, Huxi Village, 雙埤路福山1號'
   rating: 4.7
-  userRatingsTotal: 4325
-  googleMapsUrl: "https://maps.google.com/?cid=11626538761725107659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4508
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11626538761725107659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.7597657
   lng: 121.5854899
-  phone: "+886 3 922 8900"
+  phone: +886 3 922 8900
   openingHours:
-    - "Monday: 9:00 AM – 3:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 3:00 PM"
-    - "Thursday: 9:00 AM – 3:00 PM"
-    - "Friday: 9:00 AM – 3:00 PM"
-    - "Saturday: 9:00 AM – 3:00 PM"
-    - "Sunday: 9:00 AM – 3:00 PM"
+    - 'Monday: 9:00 AM – 3:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 3:00 PM'
+    - 'Thursday: 9:00 AM – 3:00 PM'
+    - 'Friday: 9:00 AM – 3:00 PM'
+    - 'Saturday: 9:00 AM – 3:00 PM'
+    - 'Sunday: 9:00 AM – 3:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -47,24 +55,43 @@ place:
       - 10
       - 11
       - 12
-    venueId: "ven_4561574466325776333179525144614a6b3675615a55564a496843"
+    venueId: ven_4561574466325776333179525144614a6b3675615a55564a496843
 tags:
-  - "yilan"
-  - "park"
-quickAnswer: "Fushan Botanical Garden is a reservation-only reserve deep in the Yuanshan Township hills, open 9am–3pm every day except Tuesday. You must apply for an entry permit online in advance — walk-ins aren't accepted — and numbers are capped daily, so weekends fill fast, especially 9am–1pm. Plan a full morning, wear closed-toe shoes for wet trails, and bring your permit printout plus ID."
+  - yilan
+  - park
+quickAnswer: >-
+  Fushan Botanical Garden is a reservation-only reserve deep in the Yuanshan
+  Township hills, open 9am–3pm every day except Tuesday. You must apply for an
+  entry permit online in advance — walk-ins aren't accepted — and numbers are
+  capped daily, so weekends fill fast, especially 9am–1pm. Plan a full morning,
+  wear closed-toe shoes for wet trails, and bring your permit printout plus ID.
 faq:
-  - q: "Do I need a reservation to visit Fushan Botanical Garden?"
-    a: "Yes. Entry is by online permit only, with a daily visitor cap. There is no walk-in or same-day ticketing at the gate, so book before you travel."
-  - q: "How do I get to Fushan Botanical Garden without a car?"
-    a: "There's no public bus route to the entrance. Most visitors drive or hire a taxi/private transfer from Yilan City or Luodong, about 40–60 minutes on mountain roads."
-  - q: "What are the opening hours?"
-    a: "The garden is open 9am–3pm daily except Tuesday, when it's closed. Hours are the same on weekends, but arrive early since mornings get busy."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are noticeably calmer than weekends. If you must go on a weekend, try to avoid the 9am–1pm window, which is consistently the busiest stretch."
-  - q: "How long should I plan to spend there?"
-    a: "Budget three to four hours minimum. The core lake and garden loop takes about two hours; add more time if you want to explore the extended forest trails."
+  - q: Do I need a reservation to visit Fushan Botanical Garden?
+    a: >-
+      Yes. Entry is by online permit only, with a daily visitor cap. There is no
+      walk-in or same-day ticketing at the gate, so book before you travel.
+  - q: How do I get to Fushan Botanical Garden without a car?
+    a: >-
+      There's no public bus route to the entrance. Most visitors drive or hire a
+      taxi/private transfer from Yilan City or Luodong, about 40–60 minutes on
+      mountain roads.
+  - q: What are the opening hours?
+    a: >-
+      The garden is open 9am–3pm daily except Tuesday, when it's closed. Hours
+      are the same on weekends, but arrive early since mornings get busy.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are noticeably calmer than weekends. If you must go on a weekend,
+      try to avoid the 9am–1pm window, which is consistently the busiest
+      stretch.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget three to four hours minimum. The core lake and garden loop takes
+      about two hours; add more time if you want to explore the extended forest
+      trails.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24'
 ---
 
 ## Why Fushan is worth the paperwork

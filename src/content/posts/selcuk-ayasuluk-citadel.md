@@ -1,57 +1,84 @@
 ---
-title: "Ayasuluk Citadel: Selcuk Travel Guide (4.6★)"
-description: "Ayasuluk Citadel sits on the hill above Selçuk, wrapped around the Basilica of St. John, and is open daily 9am–4:30pm. 4.6★ (1,395 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Selcuk"
-category: "attraction"
-pubDate: "2026-08-20T08:16:02.798Z"
+title: 'Ayasuluk Citadel: Selcuk Travel Guide (4.6★)'
+description: >-
+  Ayasuluk Citadel sits on the hill above Selçuk, wrapped around the Basilica of
+  St. John, and is open daily 9am–4:30pm. 4.6★ (1,456 reviews) — what visitors
+  say, hours, and tips.
+country: Turkey
+region: Selcuk
+category: attraction
+pubDate: '2026-08-20T08:16:02.798Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Isa_Bey_Mosque_and_Ayasuluk_Citadel%2C_Selcuk%2C_Turkiye_%2853521512040%29.jpg/3840px-Isa_Bey_Mosque_and_Ayasuluk_Citadel%2C_Selcuk%2C_Turkiye_%2853521512040%29.jpg"
-  credit: "Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Isa_Bey_Mosque_and_Ayasuluk_Citadel,_Selcuk,_Turkiye_(53521512040).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Isa_Bey_Mosque_and_Ayasuluk_Citadel%2C_Selcuk%2C_Turkiye_%2853521512040%29.jpg/3840px-Isa_Bey_Mosque_and_Ayasuluk_Citadel%2C_Selcuk%2C_Turkiye_%2853521512040%29.jpg
+  credit: >-
+    Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons (CC
+    BY-SA 2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Isa_Bey_Mosque_and_Ayasuluk_Citadel,_Selcuk,_Turkiye_(53521512040).jpg
   focus:
     x: 57
-    y: 27
+    'y': 27
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/406263183_b6cjPhdNF0CQqrNNkvyS1f0JV0XPtRDl9TWCNT9GmGg.jpg"
-    credit: "Photo: Foursquare user content (Selçuk (Ayasuluk) Kalesi)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/508e9cebe4b07f1e64bf6bd8"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/406263183_b6cjPhdNF0CQqrNNkvyS1f0JV0XPtRDl9TWCNT9GmGg.jpg
+    credit: 'Photo: Foursquare user content (Selçuk (Ayasuluk) Kalesi)'
+    license: foursquare
+    source: 'https://foursquare.com/v/508e9cebe4b07f1e64bf6bd8'
 place:
-  id: "ChIJgWOO3FtNuRQRmMegWTCjZmw"
-  name: "Ayasuluk Citadel"
-  address: "İsa Bey, 35920 Selçuk/İzmir, Türkiye"
+  id: ChIJgWOO3FtNuRQRmMegWTCjZmw
+  name: Ayasuluk Citadel
+  address: 'İsa Bey, 35920 Selçuk/İzmir, Türkiye'
   rating: 4.6
-  userRatingsTotal: 1395
-  googleMapsUrl: "https://maps.google.com/?cid=7811110031778170776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1456
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7811110031778170776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.955515
   lng: 27.3681101
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
 tags:
-  - "selcuk"
-  - "historic site"
-quickAnswer: "Ayasuluk Citadel sits on the hill above Selçuk, wrapped around the Basilica of St. John, and is open daily 9am–4:30pm. Budget 45–60 minutes for the walk up and around the walls. It's well-known but rarely crowded compared to nearby Ephesus, so mornings right after opening are calm and cool."
+  - selcuk
+  - historic site
+quickAnswer: >-
+  Ayasuluk Citadel sits on the hill above Selçuk, wrapped around the Basilica of
+  St. John, and is open daily 9am–4:30pm. Budget 45–60 minutes for the walk up
+  and around the walls. It's well-known but rarely crowded compared to nearby
+  Ephesus, so mornings right after opening are calm and cool.
 faq:
-  - q: "What are the opening hours for Ayasuluk Citadel?"
-    a: "It's open every day of the week from 9:00 AM to 4:30 PM, with no variation by day. Confirm locally before visiting in case of seasonal changes."
-  - q: "How long should I spend at the citadel?"
-    a: "Plan on 45–60 minutes for the walk up, a loop of the walls, and time to look over the inner keep and cisterns."
-  - q: "How do I get to Ayasuluk Citadel from central Selçuk?"
-    a: "It's a 10–15 minute uphill walk from the otogar (bus station), passing the Basilica of St. John on the way to the entrance path near the İsa Bey Mosque."
-  - q: "Is it worth visiting alongside Ephesus?"
-    a: "Yes — it's about 3km from the main Ephesus site by taxi or dolmuş, and pairs naturally with the Basilica of St. John and the Ephesus Museum for a half-day of history in Selçuk."
-  - q: "When is the best time to visit to avoid crowds and heat?"
-    a: "Go right after the 9am opening. It's rarely as crowded as Ephesus, but mornings still offer cooler temperatures and softer light for the exposed walls and paths."
+  - q: What are the opening hours for Ayasuluk Citadel?
+    a: >-
+      It's open every day of the week from 9:00 AM to 4:30 PM, with no variation
+      by day. Confirm locally before visiting in case of seasonal changes.
+  - q: How long should I spend at the citadel?
+    a: >-
+      Plan on 45–60 minutes for the walk up, a loop of the walls, and time to
+      look over the inner keep and cisterns.
+  - q: How do I get to Ayasuluk Citadel from central Selçuk?
+    a: >-
+      It's a 10–15 minute uphill walk from the otogar (bus station), passing the
+      Basilica of St. John on the way to the entrance path near the İsa Bey
+      Mosque.
+  - q: Is it worth visiting alongside Ephesus?
+    a: >-
+      Yes — it's about 3km from the main Ephesus site by taxi or dolmuş, and
+      pairs naturally with the Basilica of St. John and the Ephesus Museum for a
+      half-day of history in Selçuk.
+  - q: When is the best time to visit to avoid crowds and heat?
+    a: >-
+      Go right after the 9am opening. It's rarely as crowded as Ephesus, but
+      mornings still offer cooler temperatures and softer light for the exposed
+      walls and paths.
 aiGenerated: true
+updatedDate: '2026-11-24'
 ---
 
 You see it long before you reach it: a ring of crenellated walls crowning a bare hill above Selçuk, visible from the train platform, from the road to Ephesus, even from the storks' nests on the aqueduct downtown. That silhouette is Ayasuluk Citadel, and it's the first clue that this town's history runs deeper than its role as an Ephesus gateway.

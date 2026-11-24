@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: alanya-mustafa-kemal-ataturk-monument
-srcHash: '6c1000460875'
+srcHash: 'a5893f848cfb'
 title: 'Monumento a Mustafa Kemal Atatürk: Guía de Viaje de Alanya (4,7★)'
-description: 'El Monumento a Atatürk se encuentra en el bulevar Ahmet Tokuş, en la zona de Güller Pınarı de Alanya, justo sobre el paseo marítimo, y permanece abierto las 24 horas con acceso gratuito. 4,7★ (2.654 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Monumento a Atatürk se encuentra en el bulevar Ahmet Tokuş, en la zona de Güller Pınarı de Alanya, justo sobre el paseo marítimo, y permanece abierto las 24 horas con acceso gratuito. 4,7★ (2.735 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monumento a Atatürk se encuentra en el bulevar Ahmet Tokuş, en la zona de Güller Pınarı de Alanya, justo sobre el paseo marítimo, y permanece abierto las 24 horas con acceso gratuito. Dedícale entre 10 y 15 minutos durante un paseo costero, idealmente al atardecer o ya de noche, cuando se ilumina y las luces del puerto brillan detrás.
 faq:
   - q: ¿Hay que pagar entrada para visitar el Monumento a Atatürk en Alanya?

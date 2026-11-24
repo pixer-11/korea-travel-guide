@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sihanoukville-otres-beach
-srcHash: 'a62585b58d41'
+srcHash: '071c5179023e'
 title: 'Playa Otres: guía de viaje de Sihanoukville (4.1★)'
-description: 'Frente a la playa principal de Sihanoukville, flanqueada de casinos, Otres Beach ofrece un ambiente mucho más tranquilo: una larga franja de arena blanca a la sombra de tamarindos y casuarinas, con discretos bares de playa en lugar de rascacielos. 4.1★ (883 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Frente a la playa principal de Sihanoukville, flanqueada de casinos, Otres Beach ofrece un ambiente mucho más tranquilo: una larga franja de arena blanca a la sombra de tamarindos y casuarinas, con discretos bares de playa en lugar de rascacielos. 4.1★ (886 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Frente a la playa principal de Sihanoukville, flanqueada de casinos, Otres Beach ofrece un ambiente mucho más tranquilo: una larga franja de arena blanca a la sombra de tamarindos y casuarinas, con discretos bares de playa en lugar de rascacielos. Lo ideal es llegar para el atardecer y quedarse a cenar marisco a la parrilla. Desde el centro de Sihanoukville conviene tomar un tuk-tuk (unos 15-20 minutos) en vez de intentar ir a pie. Aunque ya no es ningún secreto, sigue estando mucho menos concurrida que Serendipity u Ochheuteal. Nuestro editor la visitó al atardecer a finales de octubre y se encontró con una playa tranquila y bien cuidada, de arena blanca, fina y limpia, y con una puesta de sol preciosa: un lugar perfecto para pasar unas horas en calma con la familia.'
 faq:
   - q: ¿Cómo se llega a Otres Beach desde Sihanoukville?

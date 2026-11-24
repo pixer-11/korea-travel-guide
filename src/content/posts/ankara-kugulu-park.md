@@ -3,7 +3,7 @@ title: 'Kuğulu Park: Ankara Travel Guide (4.5★)'
 description: >-
   Kuğulu Park is a small, leafy square in the heart of Çankaya where swans and
   ducks glide across a central pond ringed by walking paths and tea gardens.
-  4.5★ (27,526 reviews) — what visitors say, hours, and tips.
+  4.5★ (28,450 reviews) — what visitors say, hours, and tips.
 country: Turkey
 region: Ankara
 category: attraction
@@ -28,7 +28,7 @@ place:
   name: Kuğulu Park
   address: 'Çankaya, Kuğulu Park, 06690 Çankaya/Ankara, Türkiye'
   rating: 4.5
-  userRatingsTotal: 27526
+  userRatingsTotal: 28450
   googleMapsUrl: >-
     https://maps.google.com/?cid=3706884890458538621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -105,7 +105,7 @@ faq:
       swans and ducks are a draw for families.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-24'
 ---
 ## Why go
 

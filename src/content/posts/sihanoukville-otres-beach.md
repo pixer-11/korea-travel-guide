@@ -1,6 +1,10 @@
 ---
 title: 'Otres Beach: Sihanoukville Travel Guide (4.1★)'
-description: Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. 4.1★ (883 reviews) — what visitors say, hours, and tips.
+description: >-
+  Otres Beach is Sihanoukville's calmer alternative to the casino-lined main
+  beach — a long stretch of white sand shaded by tamarisk and casuarina trees,
+  backed by low-key beach bars rather than high-rises. 4.1★ (886 reviews) — what
+  visitors say, hours, and tips.
 country: Cambodia
 region: Sihanoukville
 category: attraction
@@ -9,7 +13,9 @@ heroImage:
   url: /editor-photos/sihanoukville-otres-beach-1.jpg
   credit: 'Photo: Pixer / Wander Atlas'
   license: editor
-  source: editor-original — wooden lifeguard tower under casuarina trees on Otres Beach at sunset
+  source: >-
+    editor-original — wooden lifeguard tower under casuarina trees on Otres
+    Beach at sunset
   focus:
     x: 35
     'y': 55
@@ -17,43 +23,70 @@ gallery:
   - url: /editor-photos/sihanoukville-otres-beach-2.jpg
     credit: 'Photo: Pixer / Wander Atlas'
     license: editor
-    source: editor-original — fine white sand of Otres Beach at sunset under casuarina branches, swimmers in the shallows
+    source: >-
+      editor-original — fine white sand of Otres Beach at sunset under casuarina
+      branches, swimmers in the shallows
   - url: /editor-photos/sihanoukville-otres-beach-3.jpg
     credit: 'Photo: Pixer / Wander Atlas'
     license: editor
-    source: editor-original — sunset over the sea off Otres Beach, jet skis on the water
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Otres_Beach%2C_Sihanoukville.jpg/1920px-Otres_Beach%2C_Sihanoukville.jpg
+    source: >-
+      editor-original — sunset over the sea off Otres Beach, jet skis on the
+      water
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Otres_Beach%2C_Sihanoukville.jpg/1920px-Otres_Beach%2C_Sihanoukville.jpg
     credit: 'Photo: Dmitry Makeev / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Otres_Beach,_Sihanoukville.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Otres_Beach,_Sihanoukville.jpg'
 place:
   id: ChIJg8S9u90JCDERAtHL6sQuLtg
   name: Otres Beach
-  address: Otres Beach, Cambodia
+  address: 'Otres Beach, Cambodia'
   rating: 4.1
-  userRatingsTotal: 883
-  googleMapsUrl: https://maps.google.com/?cid=15577439584408817922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 886
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15577439584408817922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 10.571655600000001
   lng: 103.5513737
 tags:
   - sihanoukville
   - Otres Beach
-quickAnswer: Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. Go for sunset, stay for the seafood grills, and rent a tuk-tuk (about 15-20 minutes from central Sihanoukville) rather than trying to walk it. It's not a secret anymore, but it's still far less packed than Serendipity or Ochheuteal beaches. Our editor visited at sunset in late October and found it peaceful, with clean, fine white sand, a beautiful sunset and a well-kept beach that suits a quiet few hours with family.
+quickAnswer: >-
+  Otres Beach is Sihanoukville's calmer alternative to the casino-lined main
+  beach — a long stretch of white sand shaded by tamarisk and casuarina trees,
+  backed by low-key beach bars rather than high-rises. Go for sunset, stay for
+  the seafood grills, and rent a tuk-tuk (about 15-20 minutes from central
+  Sihanoukville) rather than trying to walk it. It's not a secret anymore, but
+  it's still far less packed than Serendipity or Ochheuteal beaches. Our editor
+  visited at sunset in late October and found it peaceful, with clean, fine
+  white sand, a beautiful sunset and a well-kept beach that suits a quiet few
+  hours with family.
 faq:
   - q: How do I get to Otres Beach from Sihanoukville?
-    a: It's about 6-7 km southeast of the city center. A tuk-tuk takes 15-20 minutes; agree the fare beforehand or book through Grab/PassApp for a fixed price.
+    a: >-
+      It's about 6-7 km southeast of the city center. A tuk-tuk takes 15-20
+      minutes; agree the fare beforehand or book through Grab/PassApp for a
+      fixed price.
   - q: What's the difference between Otres 1 and Otres 2?
-    a: Otres 1 has more bars, guesthouses, and nightlife; Otres 2 is quieter and better for long walks or a calmer swim.
+    a: >-
+      Otres 1 has more bars, guesthouses, and nightlife; Otres 2 is quieter and
+      better for long walks or a calmer swim.
   - q: When is the best time to visit Otres Beach?
-    a: Dry season, November to April, gives the most reliable weather. For fewer crowds, go before 9am or after 4pm any day of the week.
+    a: >-
+      Dry season, November to April, gives the most reliable weather. For fewer
+      crowds, go before 9am or after 4pm any day of the week.
   - q: Is Otres Beach good for swimming?
-    a: Yes — the water is generally calm and shallow near shore for a good stretch, making it manageable for casual swimmers and families.
+    a: >-
+      Yes — the water is generally calm and shallow near shore for a good
+      stretch, making it manageable for casual swimmers and families.
   - q: Can I visit nearby islands from Otres Beach?
-    a: Yes, several operators run boat and kayak trips from Otres out to Koh Ta Kiev and other nearby islands, usually as a half-day trip.
+    a: >-
+      Yes, several operators run boat and kayak trips from Otres out to Koh Ta
+      Kiev and other nearby islands, usually as a half-day trip.
 aiGenerated: true
 draft: false
 firsthandOn: '2026-11-01'
+updatedDate: '2026-11-24'
 ---
 
 ## Why Otres Beach

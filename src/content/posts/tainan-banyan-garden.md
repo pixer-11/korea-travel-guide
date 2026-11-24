@@ -1,55 +1,79 @@
 ---
-title: "Banyan Garden: Tainan Travel Guide (4.7★)"
-description: "Banyan Garden (榕園) sits inside National Cheng Kung University's Guang-Fu Campus in East District, Tainan, and it's open 24 hours with free entry. 4.7★ (3,949 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Tainan"
-category: "attraction"
-pubDate: "2026-08-21T08:20:36.131Z"
+title: 'Banyan Garden: Tainan Travel Guide (4.7★)'
+description: >-
+  Banyan Garden (榕園) sits inside National Cheng Kung University's Guang-Fu
+  Campus in East District, Tainan, and it's open 24 hours with free entry. 4.7★
+  (3,980 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Tainan
+category: attraction
+pubDate: '2026-08-21T08:20:36.131Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Banyan_Garden_in_NCKU_01.jpg/3840px-Banyan_Garden_in_NCKU_01.jpg"
-  credit: "Photo: S099001 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Banyan_Garden_in_NCKU_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Banyan_Garden_in_NCKU_01.jpg/3840px-Banyan_Garden_in_NCKU_01.jpg
+  credit: 'Photo: S099001 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Banyan_Garden_in_NCKU_01.jpg'
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJA8Fcl_J2bjQRq2u0GBY3__U"
-  name: "Banyan Garden"
-  address: "National Cheng Kung University, 光復校區No. 1號, Dasyue Rd, Chengda Village, East District, Tainan City, Taiwan 701"
+  id: ChIJA8Fcl_J2bjQRq2u0GBY3__U
+  name: Banyan Garden
+  address: >-
+    National Cheng Kung University, 光復校區No. 1號, University Rd, Chengda Village,
+    East District, Tainan City, Taiwan 701
   rating: 4.7
-  userRatingsTotal: 3949
-  googleMapsUrl: "https://maps.google.com/?cid=17725947226396847019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3980
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17725947226396847019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.0003294
   lng: 120.21615989999998
-  phone: "+886 6 275 7575"
+  phone: +886 6 275 7575
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "tainan"
-  - "park"
-quickAnswer: "Banyan Garden (榕園) sits inside National Cheng Kung University's Guang-Fu Campus in East District, Tainan, and it's open 24 hours with free entry. Come in late afternoon when the light slants low through the aerial roots of the giant banyan, or early morning for a near-empty lawn. Bring a mat — students and families picnic here, and there's no admission fee to check."
+  - tainan
+  - park
+quickAnswer: >-
+  Banyan Garden (榕園) sits inside National Cheng Kung University's Guang-Fu
+  Campus in East District, Tainan, and it's open 24 hours with free entry. Come
+  in late afternoon when the light slants low through the aerial roots of the
+  giant banyan, or early morning for a near-empty lawn. Bring a mat — students
+  and families picnic here, and there's no admission fee to check.
 faq:
-  - q: "Is there an entry fee for Banyan Garden?"
-    a: "No — it's a free, open part of NCKU's Guang-Fu Campus with no ticket booth or gate."
-  - q: "What are the opening hours?"
-    a: "It's open 24 hours every day, since it's an open campus green space rather than a ticketed attraction."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Early morning is quietest. Weekday early afternoons during term time tend to be busiest as classes let out."
-  - q: "How do I get there?"
-    a: "It's inside National Cheng Kung University's Guang-Fu Campus at No. 1 Dasyue Road, East District, Tainan — walkable or a short bike/YouBike ride from central Tainan."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 20–40 minutes at the garden itself, or up to an hour if combining it with a walk around the rest of the historic campus."
+  - q: Is there an entry fee for Banyan Garden?
+    a: >-
+      No — it's a free, open part of NCKU's Guang-Fu Campus with no ticket booth
+      or gate.
+  - q: What are the opening hours?
+    a: >-
+      It's open 24 hours every day, since it's an open campus green space rather
+      than a ticketed attraction.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Early morning is quietest. Weekday early afternoons during term time tend
+      to be busiest as classes let out.
+  - q: How do I get there?
+    a: >-
+      It's inside National Cheng Kung University's Guang-Fu Campus at No. 1
+      Dasyue Road, East District, Tainan — walkable or a short bike/YouBike ride
+      from central Tainan.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 20–40 minutes at the garden itself, or up to an hour
+      if combining it with a walk around the rest of the historic campus.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24'
 ---
 
 ## Why go

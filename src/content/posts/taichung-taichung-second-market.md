@@ -1,44 +1,55 @@
 ---
-title: "Taichung Second Market: Travel Guide (4.2★)"
-description: "Taichung Second Market is a century-old covered market in Central District, packed with noodle stalls, meatball vendors and dry-goods shops. 4.2★ (21,968 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Taichung"
-category: "hidden-gem"
-pubDate: "2026-08-20T08:04:23.005Z"
+title: 'Taichung Second Market: Travel Guide (4.2★)'
+description: >-
+  Taichung Second Market is a century-old covered market in Central District,
+  packed with noodle stalls, meatball vendors and dry-goods shops. 4.2★ (22,187
+  reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Taichung
+category: hidden-gem
+pubDate: '2026-08-20T08:04:23.005Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_%281%29.jpg/1920px-%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_%281%29.jpg"
-  credit: "Photo: Daniel551727 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_(1).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_%281%29.jpg/1920px-%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_%281%29.jpg
+  credit: 'Photo: Daniel551727 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_(1).jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/6588982_jMSnzPg3FxGfXL5RML946Ht4lZ5imIcyir9SYmeJBiA.jpg"
-    credit: "Photo: Foursquare user content (The Second Credit Cooperative Association of Taichung (臺中市第二信用合作社 總社))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/556be0c4498e3bb54d36798b"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/6588982_jMSnzPg3FxGfXL5RML946Ht4lZ5imIcyir9SYmeJBiA.jpg
+    credit: >-
+      Photo: Foursquare user content (The Second Credit Cooperative Association
+      of Taichung (臺中市第二信用合作社 總社))
+    license: foursquare
+    source: 'https://foursquare.com/v/556be0c4498e3bb54d36798b'
 place:
-  id: "ChIJFcuTyhI9aTQRVG2bVY9qD70"
-  name: "Taichung Second Market"
-  address: "No. 87號, Section 2, Sanmin Rd, Dadun Village, Central District, Taichung City, Taiwan 400"
+  id: ChIJFcuTyhI9aTQRVG2bVY9qD70
+  name: Taichung Second Market
+  address: >-
+    No. 87號, Section 2, Sanmin Rd, Dadun Village, Central District, Taichung
+    City, Taiwan 400
   rating: 4.2
-  userRatingsTotal: 21968
-  googleMapsUrl: "https://maps.google.com/?cid=13623224561668156756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 22187
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13623224561668156756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.1424184
   lng: 120.67875699999999
-  phone: "+886 4 2225 4222"
+  phone: +886 4 2225 4222
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 7:30 AM – 3:30 PM"
-    - "Wednesday: 7:30 AM – 3:30 PM"
-    - "Thursday: 7:30 AM – 3:30 PM"
-    - "Friday: 7:30 AM – 3:30 PM"
-    - "Saturday: 7:30 AM – 3:30 PM"
-    - "Sunday: 7:30 AM – 3:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 7:30 AM – 3:30 PM'
+    - 'Wednesday: 7:30 AM – 3:30 PM'
+    - 'Thursday: 7:30 AM – 3:30 PM'
+    - 'Friday: 7:30 AM – 3:30 PM'
+    - 'Saturday: 7:30 AM – 3:30 PM'
+    - 'Sunday: 7:30 AM – 3:30 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -51,24 +62,42 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_30374471395956623247565251546139496879547563464a496843"
+    venueId: ven_30374471395956623247565251546139496879547563464a496843
 tags:
-  - "taichung"
-  - "local market"
-quickAnswer: "Taichung Second Market is a century-old covered market in Central District, packed with noodle stalls, meatball vendors and dry-goods shops. It's open every day except Monday, 7:30am–3:30pm — go right at opening on a weekday to beat the crowds, since weekends from 9am to 3pm get genuinely packed. Budget an hour, come hungry, and bring small cash."
+  - taichung
+  - local market
+quickAnswer: >-
+  Taichung Second Market is a century-old covered market in Central District,
+  packed with noodle stalls, meatball vendors and dry-goods shops. It's open
+  every day except Monday, 7:30am–3:30pm — go right at opening on a weekday to
+  beat the crowds, since weekends from 9am to 3pm get genuinely packed. Budget
+  an hour, come hungry, and bring small cash.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 7:30 AM to 3:30 PM. It's closed every Monday, so plan around that."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings right after the 7:30am opening tend to be calmest. Weekends from 9am to 3pm are the busiest stretch, so avoid that window if you want space to browse."
-  - q: "How long should I spend there?"
-    a: "An hour is usually enough to sample a few food stalls and browse the dry-goods sellers, though food lovers can easily stretch it to two."
-  - q: "How do I get there without the MRT?"
-    a: "Taichung has no metro yet, so most visitors walk (about 15–20 minutes from Taichung Station), take a local bus, or grab a taxi to Sanmin Road Section 2."
-  - q: "What should I order first?"
-    a: "Start with gawan (meatball soup), the market's signature dish, then try braised pork rice or danzai noodles from a nearby stall."
+  - q: What are the opening hours?
+    a: >-
+      Tuesday through Sunday, 7:30 AM to 3:30 PM. It's closed every Monday, so
+      plan around that.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings right after the 7:30am opening tend to be calmest.
+      Weekends from 9am to 3pm are the busiest stretch, so avoid that window if
+      you want space to browse.
+  - q: How long should I spend there?
+    a: >-
+      An hour is usually enough to sample a few food stalls and browse the
+      dry-goods sellers, though food lovers can easily stretch it to two.
+  - q: How do I get there without the MRT?
+    a: >-
+      Taichung has no metro yet, so most visitors walk (about 15–20 minutes from
+      Taichung Station), take a local bus, or grab a taxi to Sanmin Road Section
+      2.
+  - q: What should I order first?
+    a: >-
+      Start with gawan (meatball soup), the market's signature dish, then try
+      braised pork rice or danzai noodles from a nearby stall.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24'
 ---
 ## Why go
 

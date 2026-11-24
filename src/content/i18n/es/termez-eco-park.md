@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: termez-eco-park
-srcHash: '24d26994166b'
+srcHash: '0a7c83577c40'
 title: 'Eco Park: Guía de viaje de Tashkent (4,6★)'
-description: 'Eco Park es el parque urbano y frondoso de Tashkent, con carriles para bicicletas, canchas de bádminton, un pabellón junto al lago con noches de cine y una cafetería para tomar el té a la sombra. 4,6★ (1.037 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'Eco Park es el parque urbano y frondoso de Tashkent, con carriles para bicicletas, canchas de bádminton, un pabellón junto al lago con noches de cine y una cafetería para tomar el té a la sombra. 4,6★ (1.074 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Eco Park es el parque urbano y frondoso de Tashkent, con carriles para bicicletas, canchas de bádminton, un pabellón junto al lago con noches de cine y una cafetería para tomar el té a la sombra. Abre todos los días de 6:00 a 23:00, y resulta más agradable visitarlo temprano por la mañana o después del atardecer, cuando cede el calor del verano. Lleve su propia bicicleta o alquile una, busque un banco junto al lago y calcule una hora o dos para el paseo.
 faq:
   - q: ¿Cuál es el horario de Eco Park?

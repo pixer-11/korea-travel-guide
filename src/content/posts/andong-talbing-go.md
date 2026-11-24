@@ -16,7 +16,7 @@ place:
     South Korea, Gyeongsangbuk-do, Andong, Pungcheon-myeon, Hahoe-ri, 287번지,
     Hahoe Mask Museum, KR
   rating: 4.6
-  userRatingsTotal: 120
+  userRatingsTotal: 121
   priceLevel: 1
   googleMapsUrl: >-
     https://maps.google.com/?cid=12238383714808284968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -74,7 +74,7 @@ faq:
 aiGenerated: true
 draft: false
 photoless: true
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-24'
 ---
 
 ## Why Talbing-Go

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: siem-reap-old-market
-srcHash: 'b5fa0e6054f1'
+srcHash: 'c03d0c6aae39'
 title: 'Mercado Viejo: Guía de viaje de Siem Reap (4.2★)'
-description: 'Psar Chas, el Mercado Viejo, se encuentra junto al río en pleno centro de Siem Reap y abre todos los días de 7:00 a 21:00. 4.2★ (2.025 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Psar Chas, el Mercado Viejo, se encuentra junto al río en pleno centro de Siem Reap y abre todos los días de 7:00 a 21:00. 4.2★ (2.108 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Psar Chas, el Mercado Viejo, se encuentra junto al río en pleno centro de Siem Reap y abre todos los días de 7:00 a 21:00. Conviene ir entre las 7:00 y las 9:00 si se quiere curiosear entre productos frescos y textiles sin aglomeraciones; a partir de las 18:00 los pasillos se llenan de turistas que buscan cenar y el ritmo cambia por completo.
 faq:
   - q: ¿Cuál es el horario de apertura del Mercado Viejo?

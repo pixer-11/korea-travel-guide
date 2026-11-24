@@ -1,43 +1,49 @@
 ---
-title: "Old Market: Siem Reap Travel Guide (4.2★)"
-description: "Psar Chas, the Old Market, sits right by the river in central Siem Reap and runs daily from 7am to 9pm. 4.2★ (2,025 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "hidden-gem"
-pubDate: "2026-08-22T09:13:57.086Z"
+title: 'Old Market: Siem Reap Travel Guide (4.2★)'
+description: >-
+  Psar Chas, the Old Market, sits right by the river in central Siem Reap and
+  runs daily from 7am to 9pm. 4.2★ (2,108 reviews) — what visitors say, hours,
+  and tips.
+country: Cambodia
+region: Siem Reap
+category: hidden-gem
+pubDate: '2026-08-22T09:13:57.086Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Siem_Reap_old_market_%284%29.jpg/3840px-Siem_Reap_old_market_%284%29.jpg"
-  credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Siem_Reap_old_market_(4).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Siem_Reap_old_market_%284%29.jpg/3840px-Siem_Reap_old_market_%284%29.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Siem_Reap_old_market_(4).jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Siem_Reap_old_market_%285%29.jpg/3840px-Siem_Reap_old_market_%285%29.jpg"
-    credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Siem_Reap_old_market_(5).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Siem_Reap_old_market_%285%29.jpg/3840px-Siem_Reap_old_market_%285%29.jpg
+    credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Siem_Reap_old_market_(5).jpg'
 place:
-  id: "ChIJTZt2P2UXEDERHaSTLjP2DU4"
-  name: "Old Market"
-  address: "Pokambor Ave, Krong Siem Reap, Cambodia"
+  id: ChIJTZt2P2UXEDERHaSTLjP2DU4
+  name: Old Market
+  address: 'Pokambor Ave, Krong Siem Reap, Cambodia'
   rating: 4.2
-  userRatingsTotal: 2025
-  googleMapsUrl: "https://maps.google.com/?cid=5624422209340810269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2108
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5624422209340810269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.3537824
   lng: 103.85519239999999
   openingHours:
-    - "Monday: 7:00 AM – 9:00 PM"
-    - "Tuesday: 7:00 AM – 9:00 PM"
-    - "Wednesday: 7:00 AM – 9:00 PM"
-    - "Thursday: 7:00 AM – 9:00 PM"
-    - "Friday: 7:00 AM – 9:00 PM"
-    - "Saturday: 7:00 AM – 9:00 PM"
-    - "Sunday: 7:00 AM – 9:00 PM"
+    - 'Monday: 7:00 AM – 9:00 PM'
+    - 'Tuesday: 7:00 AM – 9:00 PM'
+    - 'Wednesday: 7:00 AM – 9:00 PM'
+    - 'Thursday: 7:00 AM – 9:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,24 +58,38 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_34554432506a4c54536148524544455855325032745a544a496843"
+    venueId: ven_34554432506a4c54536148524544455855325032745a544a496843
 tags:
-  - "siem reap"
-  - "Psar Chas Old Market"
-quickAnswer: "Psar Chas, the Old Market, sits right by the river in central Siem Reap and runs daily from 7am to 9pm. Go between 7am and 9am if you want to browse produce and textiles without elbow-to-elbow crowds; by 6pm the lanes fill with dinner-bound tourists and the pace changes completely."
+  - siem reap
+  - Psar Chas Old Market
+quickAnswer: >-
+  Psar Chas, the Old Market, sits right by the river in central Siem Reap and
+  runs daily from 7am to 9pm. Go between 7am and 9am if you want to browse
+  produce and textiles without elbow-to-elbow crowds; by 6pm the lanes fill with
+  dinner-bound tourists and the pace changes completely.
 faq:
-  - q: "What are the opening hours of Old Market?"
-    a: "It's open daily from 7:00 AM to 9:00 PM, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 9am, on both weekdays and weekends, before stalls fill up and tour groups arrive."
-  - q: "How do I get to Old Market from central Siem Reap?"
-    a: "It's a 5-10 minute walk from most Old Market/Pub Street area guesthouses, or a short, cheap tuk-tuk ride from hotels further out."
-  - q: "Is bargaining expected?"
-    a: "Yes, for souvenirs, textiles and jewelry — counter with roughly half the quoted price and settle in the middle. Prepared food is usually fixed-price."
-  - q: "How long should I spend there?"
-    a: "Budget at least 45 minutes to an hour to cover the produce, textile, and food sections without rushing."
+  - q: What are the opening hours of Old Market?
+    a: 'It''s open daily from 7:00 AM to 9:00 PM, with no weekly closing day.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 7am and 9am, on both weekdays and weekends, before stalls fill up
+      and tour groups arrive.
+  - q: How do I get to Old Market from central Siem Reap?
+    a: >-
+      It's a 5-10 minute walk from most Old Market/Pub Street area guesthouses,
+      or a short, cheap tuk-tuk ride from hotels further out.
+  - q: Is bargaining expected?
+    a: >-
+      Yes, for souvenirs, textiles and jewelry — counter with roughly half the
+      quoted price and settle in the middle. Prepared food is usually
+      fixed-price.
+  - q: How long should I spend there?
+    a: >-
+      Budget at least 45 minutes to an hour to cover the produce, textile, and
+      food sections without rushing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24'
 ---
 
 The corrugated roof of Psar Chas has covered this stretch of Pokambor Avenue for over a century, and it still runs on the same rhythm it always has. Locals come at dawn for fish and vegetables. Tourists drift in later for silk scarves and pepper.

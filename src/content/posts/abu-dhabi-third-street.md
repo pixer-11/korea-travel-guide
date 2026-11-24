@@ -22,7 +22,7 @@ place:
   name: Third Street
   address: 9H85+4Q9 - Mohamed Bin Zayed City - Z4 - Abu Dhabi - United Arab Emirates
   rating: 4.7
-  userRatingsTotal: 107
+  userRatingsTotal: 109
   googleMapsUrl: >-
     https://maps.google.com/?cid=12066076817536305598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -68,7 +68,7 @@ faq:
       liveliest atmosphere.
 aiGenerated: true
 draft: true
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-24'
 ---
 
 ## Why go

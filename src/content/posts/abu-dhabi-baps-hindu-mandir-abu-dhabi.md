@@ -2,7 +2,7 @@
 title: 'BAPS Hindu Mandir: Abu Dhabi Travel Guide (4.5★)'
 description: >-
   BAPS Hindu Mandir sits off Al Taf Road in Abu Mreikhah, on the Dubai–Abu Dhabi
-  highway outskirts of the capital. 4.5★ (7,831 reviews) — what visitors say,
+  highway outskirts of the capital. 4.5★ (8,083 reviews) — what visitors say,
   hours, and tips.
 country: United Arab Emirates
 region: Abu Dhabi
@@ -29,7 +29,7 @@ place:
   name: 'BAPS Hindu Mandir, Abu Dhabi'
   address: P6 Al Taf Road - E16 - Abu Mreikhah - Abu Dhabi - United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 7831
+  userRatingsTotal: 8083
   googleMapsUrl: >-
     https://maps.google.com/?cid=5039064133028245915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -94,7 +94,7 @@ faq:
       areas, and large bags or cameras may be checked at security.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-24'
 ---
 
 ## Why go

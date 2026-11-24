@@ -1,51 +1,80 @@
 ---
-title: "Angkor Wat: Siem Reap Travel Guide (4.8★)"
-description: "Angkor Wat rewards an early start: arrive before sunrise (gates open at 5am) to beat both the heat and the tour-bus crowds, and budget at least half a day inside the complex. 4.8★ (43,544 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "attraction"
-pubDate: "2026-08-22T09:04:36.246Z"
+title: 'Angkor Wat: Siem Reap Travel Guide (4.8★)'
+description: >-
+  Angkor Wat rewards an early start: arrive before sunrise (gates open at 5am)
+  to beat both the heat and the tour-bus crowds, and budget at least half a day
+  inside the complex. 4.8★ (44,238 reviews) — what visitors say, hours, and
+  tips.
+country: Cambodia
+region: Siem Reap
+category: attraction
+pubDate: '2026-08-22T09:04:36.246Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1920px-Angkor_Wat.jpg"
-  credit: "Photo: Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1920px-Angkor_Wat.jpg
+  credit: 'Photo: Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg'
   focus:
     x: 52
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg/3840px-2014-Cambodge_Angkor_Wat_%2821%29.jpg"
-    credit: "Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2014-Cambodge_Angkor_Wat_(21).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg/3840px-2014-Cambodge_Angkor_Wat_%2821%29.jpg
+    credit: 'Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:2014-Cambodge_Angkor_Wat_(21).jpg'
 place:
-  id: "ChIJLSea6ooWEDERjUGwVxGoqz4"
-  name: "Angkor Wat"
-  address: "Krong Siem Reap, Cambodia"
+  id: ChIJLSea6ooWEDERjUGwVxGoqz4
+  name: Angkor Wat
+  address: 'Krong Siem Reap, Cambodia'
   rating: 4.8
-  userRatingsTotal: 43544
-  googleMapsUrl: "https://maps.google.com/?cid=4515887843808133517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 44238
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4515887843808133517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.4124693
   lng: 103.8669857
-  phone: "+855 63 765 577"
+  phone: +855 63 765 577
 tags:
-  - "siem reap"
-  - "Angkor Wat"
-quickAnswer: "Angkor Wat rewards an early start: arrive before sunrise (gates open at 5am) to beat both the heat and the tour-bus crowds, and budget at least half a day inside the complex. A one-day pass covers just Angkor Wat plus a few nearby temples, so most visitors buy a three-day pass to also see Bayon and Ta Prohm. This is Cambodia's most visited site, so plan around the crowds rather than expecting solitude."
+  - siem reap
+  - Angkor Wat
+quickAnswer: >-
+  Angkor Wat rewards an early start: arrive before sunrise (gates open at 5am)
+  to beat both the heat and the tour-bus crowds, and budget at least half a day
+  inside the complex. A one-day pass covers just Angkor Wat plus a few nearby
+  temples, so most visitors buy a three-day pass to also see Bayon and Ta Prohm.
+  This is Cambodia's most visited site, so plan around the crowds rather than
+  expecting solitude.
 faq:
-  - q: "How much does it cost to visit Angkor Wat?"
-    a: "Tickets are sold as passes: a one-day pass, a three-day pass, or a seven-day pass, priced in USD. Prices have changed over the years, so confirm current rates at the official Angkor Enterprise ticket office before you go."
-  - q: "How long should I spend at Angkor Wat?"
-    a: "Plan at least half a day for the temple itself, longer if you also want to see Bayon and Ta Prohm the same day. Many visitors return over two or three days using a multi-day pass."
-  - q: "What's the best time of day to avoid crowds?"
-    a: "Sunrise is the most crowded window since everyone aims for the same reflecting-pool shot. Arriving mid-to-late afternoon, after 4pm, tends to be noticeably quieter."
-  - q: "How do I get from Siem Reap to Angkor Wat?"
-    a: "It's about a 15-20 minute tuk-tuk ride from central Siem Reap. Most travelers hire a driver for the full day rather than arranging one-way trips."
-  - q: "Is there a dress code?"
-    a: "Yes — shoulders and knees must be covered, especially to climb to the upper central sanctuary, and guards do enforce it at the stairs."
+  - q: How much does it cost to visit Angkor Wat?
+    a: >-
+      Tickets are sold as passes: a one-day pass, a three-day pass, or a
+      seven-day pass, priced in USD. Prices have changed over the years, so
+      confirm current rates at the official Angkor Enterprise ticket office
+      before you go.
+  - q: How long should I spend at Angkor Wat?
+    a: >-
+      Plan at least half a day for the temple itself, longer if you also want to
+      see Bayon and Ta Prohm the same day. Many visitors return over two or
+      three days using a multi-day pass.
+  - q: What's the best time of day to avoid crowds?
+    a: >-
+      Sunrise is the most crowded window since everyone aims for the same
+      reflecting-pool shot. Arriving mid-to-late afternoon, after 4pm, tends to
+      be noticeably quieter.
+  - q: How do I get from Siem Reap to Angkor Wat?
+    a: >-
+      It's about a 15-20 minute tuk-tuk ride from central Siem Reap. Most
+      travelers hire a driver for the full day rather than arranging one-way
+      trips.
+  - q: Is there a dress code?
+    a: >-
+      Yes — shoulders and knees must be covered, especially to climb to the
+      upper central sanctuary, and guards do enforce it at the stairs.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24'
 ---
 ## Why go
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: tashkent-tashkent-city-park
-srcHash: '3031d75173b5'
+srcHash: 'f74123d897d8'
 title: 'Parque Tashkent City: Guía de viaje (4,7★)'
-description: 'El Parque Tashkent City es el moderno pulmón verde de la capital, abierto todos los días de 11:00 a 23:00, y se disfruta mejor al atardecer, cuando se iluminan las fuentes y las esculturas. 4,7★ (3.266 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Tashkent City es el moderno pulmón verde de la capital, abierto todos los días de 11:00 a 23:00, y se disfruta mejor al atardecer, cuando se iluminan las fuentes y las esculturas. 4,7★ (3.454 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Tashkent City es el moderno pulmón verde de la capital, abierto todos los días de 11:00 a 23:00, y se disfruta mejor al atardecer, cuando se iluminan las fuentes y las esculturas. Se encuentra en el distrito de Shayxontoxur, cerca del complejo empresarial Tashkent City, a poca distancia a pie o en taxi desde el centro. Conviene reservar entre 1,5 y 2 horas, más si se piensa comer en alguno de los locales del parque.
 faq:
   - q: ¿Cuál es el horario de apertura?

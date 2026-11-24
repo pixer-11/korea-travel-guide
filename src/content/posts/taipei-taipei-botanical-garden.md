@@ -1,25 +1,33 @@
 ---
 title: 'Taipei Botanical Garden: Travel Guide (4.6★)'
-description: Taipei Botanical Garden is a free, open-air escape in Zhongzheng District, best entered near Xiaonanmen Station (MRT Songshan-Xindian Line) and open daily 5:30am–9pm. 4.6★ (11,991 reviews) — what visitors say, hours, and tips.
+description: >-
+  Taipei Botanical Garden is a free, open-air escape in Zhongzheng District,
+  best entered near Xiaonanmen Station (MRT Songshan-Xindian Line) and open
+  daily 5:30am–9pm. 4.6★ (12,224 reviews) — what visitors say, hours, and tips.
 country: Taiwan
 region: Taipei
 category: attraction
 pubDate: '2026-08-21T08:02:42.014Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taipei_Botanical_Garden_Lotus_20240421_06.jpg/3840px-Taipei_Botanical_Garden_Lotus_20240421_06.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taipei_Botanical_Garden_Lotus_20240421_06.jpg/3840px-Taipei_Botanical_Garden_Lotus_20240421_06.jpg
   credit: 'Photo: Yu tptw / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Taipei_Botanical_Garden_Lotus_20240421_06.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Taipei_Botanical_Garden_Lotus_20240421_06.jpg
   focus:
     x: 57
     'y': 42
 place:
   id: ChIJe1ASN0-pQjQRIeghXqXkkAg
   name: Taipei Botanical Garden
-  address: No. 53號, Nanhai Rd, Nanmen Village, Zhongzheng District, Taipei City, Taiwan 100
+  address: >-
+    No. 53號, Nanhai Rd, Nanmen Village, Zhongzheng District, Taipei City, Taiwan
+    100
   rating: 4.6
-  userRatingsTotal: 11991
-  googleMapsUrl: https://maps.google.com/?cid=617244547849775137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 12224
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=617244547849775137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.031851099999997
   lng: 121.50945929999999
@@ -56,20 +64,39 @@ place:
 tags:
   - taipei
   - park
-quickAnswer: Taipei Botanical Garden is a free, open-air escape in Zhongzheng District, best entered near Xiaonanmen Station (MRT Songshan-Xindian Line) and open daily 5:30am–9pm. Weekdays after 6pm are the calmest window; on weekends 9am–6pm stays busy, so aim for the earliest hour. Give it 45–90 minutes to loop the lotus ponds and Herb Garden before or after visiting the National Museum of History next door.
+quickAnswer: >-
+  Taipei Botanical Garden is a free, open-air escape in Zhongzheng District,
+  best entered near Xiaonanmen Station (MRT Songshan-Xindian Line) and open
+  daily 5:30am–9pm. Weekdays after 6pm are the calmest window; on weekends
+  9am–6pm stays busy, so aim for the earliest hour. Give it 45–90 minutes to
+  loop the lotus ponds and Herb Garden before or after visiting the National
+  Museum of History next door.
 faq:
   - q: How do I get to Taipei Botanical Garden?
-    a: Take the MRT to Xiaonanmen Station (Songshan–Xindian Line) and walk about 5 minutes; it's right next to the National Museum of History in Zhongzheng District.
+    a: >-
+      Take the MRT to Xiaonanmen Station (Songshan–Xindian Line) and walk about
+      5 minutes; it's right next to the National Museum of History in Zhongzheng
+      District.
   - q: Is there an entrance fee?
-    a: No, entry is free and there's no ticket booth — you walk straight in during opening hours.
+    a: >-
+      No, entry is free and there's no ticket booth — you walk straight in
+      during opening hours.
   - q: When is the quietest time to visit?
-    a: Weekdays between 6pm and 9pm are calmest. On weekends the whole day stays busy from 9am to 6pm, so arrive right at 7am if you want space to yourself.
+    a: >-
+      Weekdays between 6pm and 9pm are calmest. On weekends the whole day stays
+      busy from 9am to 6pm, so arrive right at 7am if you want space to
+      yourself.
   - q: How long should I spend there?
-    a: Most visitors spend 45 minutes to an hour and a half, enough time to loop the lotus pond, Fern Garden, and Herb Garden.
+    a: >-
+      Most visitors spend 45 minutes to an hour and a half, enough time to loop
+      the lotus pond, Fern Garden, and Herb Garden.
   - q: What's nearby?
-    a: The National Museum of History and Nanmen Park sit right next to the garden, making it easy to combine with a museum visit.
+    a: >-
+      The National Museum of History and Nanmen Park sit right next to the
+      garden, making it easy to combine with a museum visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-24'
 ---
 ## Why go
 
