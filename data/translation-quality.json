@@ -42075,5 +42075,61 @@
   "registerBreak": false,
   "worst": "如果你对殖民时期建筑的兴趣不亚于馆内展品，就更不该错过。",
   "at": "2026-11-24T07:49:33.556Z"
+ },
+ "es/lima-gorillaz-lima-2026": {
+  "hash": "26fe6b53a200",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Un concierto de estadio en Lima, como es debido",
+  "at": "2026-11-24T19:03:56.712Z"
+ },
+ "es/london-k-music-festival-2026": {
+  "hash": "98ffef2e8d4c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "En una misma noche, una sala podía escuchar primero las cuerdas pulsadas de una cítara...",
+  "at": "2026-11-24T19:04:01.766Z"
+ },
+ "ja/lima-gorillaz-lima-2026": {
+  "hash": "29d144d10ab2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "セビチェリアはたいてい夕食ではなく昼食の時間帯に営業しているため、セビーチェは昼に食べるものとされています。",
+  "at": "2026-11-24T19:04:03.050Z"
+ },
+ "ja/london-k-music-festival-2026": {
+  "hash": "93374bc726b9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "このフェスティバルは、週末1回だけで終わる規模ではありませんでした。",
+  "at": "2026-11-24T19:04:07.784Z"
+ },
+ "ko/lima-gorillaz-lima-2026": {
+  "hash": "71166967d3d4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대형 공연이 끝나면 모든 차량이 같은 해안 도로로 한꺼번에 빠져나가기 때문에 시르쿠이토 데 플라야스는 심하게 막힙니다.",
+  "at": "2026-11-24T19:04:09.214Z"
+ },
+ "ko/london-k-music-festival-2026": {
+  "hash": "ca66de483381",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "축제 공연장은 대부분 밤에도 북적이는 런던 지역에 자리하고 있어서, 공연을 긴 저녁 나들이 속에",
+  "at": "2026-11-24T19:04:24.283Z"
+ },
+ "zh/lima-gorillaz-lima-2026": {
+  "hash": "a711fe703d79",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "是一处户外演出场地，夹在太平洋与利马的海崖之间的狭长地带上。",
+  "at": "2026-11-24T19:04:28.267Z"
+ },
+ "zh/london-k-music-festival-2026": {
+  "hash": "7efb99bcd20d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "音乐会在日历上和城市里四处散布，观众可以只看一场，也可以连看好几个晚上。",
+  "at": "2026-11-24T19:04:33.532Z"
  }
 }

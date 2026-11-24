@@ -1,70 +1,70 @@
 ---
 lang: es
 slug: london-k-music-festival-2026
-srcHash: '6ae3e7e47e71'
-title: 'K-Music Festival 2026: fechas, entradas y sedes (Londres)'
-description: Las fechas del K-Music Festival 2026 en Londres van del 28 de septiembre al 23 de noviembre de 2026, con conciertos repartidos por distintas salas de la ciudad.
-quickAnswer: Las fechas del K-Music Festival 2026 en Londres van del 28 de septiembre al 23 de noviembre de 2026, con conciertos repartidos por distintas salas de la ciudad. Lo organiza el Centro Cultural Coreano del Reino Unido (Korean Cultural Centre UK), que publica en su web oficial las fechas, las sedes y los enlaces de venta de entradas. Su programa reúne música coreana contemporánea y tradicional.
+srcHash: 'cbb4872beec3'
+title: 'K-Music Festival 2026: fechas, entradas y salas (Londres)'
+description: Las fechas anunciadas del K-Music Festival 2026 en Londres eran del 28 de septiembre al 23 de noviembre de 2026, con conciertos repartidos por varias salas de la ciudad.
+quickAnswer: Las fechas anunciadas del K-Music Festival 2026 en Londres eran del 28 de septiembre al 23 de noviembre de 2026, con conciertos repartidos por varias salas de la ciudad. El Centro Cultural Coreano del Reino Unido (Korean Cultural Centre UK) organiza el festival cada año. El programa de 2026 abarcaba tanto la música coreana contemporánea como la tradicional.
 faq:
-  - q: ¿Cuándo es el K-Music Festival 2026 en Londres?
-    a: Las fechas de esta edición van del 28 de septiembre al 23 de noviembre de 2026. Los conciertos no se concentran en un solo fin de semana, sino que se reparten a lo largo de esas semanas.
-  - q: ¿Dónde son los conciertos del K-Music Festival?
-    a: El festival recurre a varias salas de Londres, y la ficha de cada concierto en la web oficial del Centro Cultural Coreano del Reino Unido indica en cuál tiene lugar. La sede del propio organizador está en Grand Buildings, 1–3 Strand, cerca de las estaciones de Charing Cross y Embankment.
-  - q: ¿Dónde se venden las entradas del K-Music Festival 2026?
-    a: El Centro Cultural Coreano del Reino Unido publica en su web oficial los enlaces de venta de cada concierto, junto con las fechas y las sedes. Como las salas son distintas, el sistema de venta puede variar de un espectáculo a otro.
-  - q: ¿Qué tipo de música incluye el programa?
-    a: Música coreana contemporánea y música tradicional (gugak). Esta puede incluir instrumentos como la cítara gayageum, el violín haegeum y el tambor janggu, además del canto narrativo pansori. El cartel completo figura en la web del organizador.
-  - q: ¿Se puede gritar durante un concierto de música tradicional coreana?
-    a: En el pansori y en otras actuaciones de gugak, sí. Forman parte de la tradición unas breves exclamaciones de ánimo llamadas chuimsae, como «eolsu!», que suelen lanzarse al terminar una frase musical.
+  - q: ¿Cuáles eran las fechas del K-Music Festival 2026 en Londres?
+    a: Del 28 de septiembre al 23 de noviembre de 2026. Los conciertos se repartían a lo largo de esas semanas en lugar de concentrarse en un solo fin de semana.
+  - q: ¿Dónde eran los conciertos del K-Music Festival?
+    a: El programa de 2026 se repartía entre varias salas de Londres, elegidas en función de cada artista. El organizador, el Korean Cultural Centre UK, tiene su sede en Grand Buildings, 1–3 Strand, cerca de las estaciones de Charing Cross y Embankment.
+  - q: ¿Dónde se vendían las entradas del K-Music Festival 2026?
+    a: Cada concierto tenía su propia venta de entradas, y el Korean Cultural Centre UK figuraba como organizador. Como las salas variaban, el sistema de venta podía ser distinto de un espectáculo a otro.
+  - q: ¿Qué tipo de música incluía el programa?
+    a: El programa combinaba la música coreana contemporánea con la música tradicional (gugak). El gugak puede incluir instrumentos como la cítara gayageum, el violín haegeum y el tambor janggu, además del pansori, un arte narrativo cantado.
+  - q: ¿Está bien gritar durante un concierto de música tradicional coreana?
+    a: En el pansori y en algunas otras interpretaciones de gugak, sí. Las breves exclamaciones de ánimo llamadas chuimsae, como «¡eolsu!», forman parte de la tradición y suelen llegar al final de una frase.
 ---
 
 ## Ocho semanas de sonido coreano
 
-Un solo fin de semana no basta para este festival. Las fechas del K-Music Festival 2026 van del 28 de septiembre al 23 de noviembre de 2026, de modo que abarcan buena parte del otoño londinense. Los conciertos se reparten por el calendario y por toda la ciudad: puede asistir a uno solo o reservar varias veladas para el festival.
+Este festival no cabía en un solo fin de semana. Las fechas anunciadas del K-Music Festival 2026 iban del 28 de septiembre al 23 de noviembre de 2026, es decir, abarcaban buena parte del otoño londinense. Los conciertos estaban repartidos tanto por el calendario como por la ciudad, de modo que el programa permitía desde asistir a una única velada hasta a varias.
 
-Lo organiza cada año el Centro Cultural Coreano del Reino Unido (Korean Cultural Centre UK). Su programa sitúa en pie de igualdad a artistas coreanos contemporáneos y a intérpretes de música tradicional. En una misma noche, una sala puede escuchar primero el punteo de una cítara, después música electrónica y, por último, una voz entrenada durante años para sonar áspera a propósito.
+El Korean Cultural Centre UK (Centro Cultural Coreano del Reino Unido) lo organiza cada año. Su programación reúne a artistas coreanos contemporáneos y a músicos tradicionales. En una misma noche, una sala podía escuchar primero las cuerdas pulsadas de una cítara, después música electrónica y, por último, una voz entrenada durante años para sonar áspera a propósito.
 
-## Qué incluye el programa
+## Qué abarca el programa
 
-El festival se articula en dos líneas, y su atractivo reside en el diálogo entre ambas. La primera es la música contemporánea, con artistas coreanos que cultivan el jazz, la experimentación, la electrónica, el folk y los estilos de fusión. La segunda es el *gugak*, término genérico con el que se designa la música tradicional coreana.
+El festival tiene dos vertientes, y su interés reside precisamente en el punto en que se encuentran. Una es la música contemporánea, con artistas coreanos que trabajan en el jazz, la música experimental, la electrónica, el folk y los estilos de fusión. La otra es el *gugak*, término genérico con el que se designa la música tradicional coreana.
 
-Entre los sonidos del gugak que el festival quiere dar a conocer figuran estos:
+Estos son algunos de los sonidos del gugak que el festival se propone dar a conocer:
 
-- **Gayageum**: cítara alargada de cuerdas de seda que se puntean y se presionan para modular las notas
-- **Haegeum**: violín de dos cuerdas que se toca en vertical, apoyado en la rodilla, y cuyo timbre nasal recuerda casi a la voz humana
-- **Janggu**: tambor en forma de reloj de arena que se golpea por ambos parches y que sostiene a la mayoría de los conjuntos
-- **Pansori**: épico relato cantado por un solo intérprete acompañado de un percusionista, que con frecuencia se prolonga largo rato sin pausa
+- **Gayageum**: cítara larga con cuerdas de seda que se pulsan y se presionan para curvar las notas
+- **Haegeum**: violín de dos cuerdas que se toca en vertical sobre la rodilla y tiene un timbre nasal, casi vocal
+- **Janggu**: tambor en forma de reloj de arena que se golpea por ambos parches; es la columna vertebral de la mayoría de los conjuntos
+- **Pansori**: épica narrativa cantada por un solo vocalista con el acompañamiento de un percusionista, que a menudo se prolonga largo rato sin pausa
 
-Muchos artistas contemporáneos se inspiran en estos instrumentos. Escuchar ambas líneas a lo largo de unas cuantas noches permite descubrir de dónde procede el sonido más reciente. El cartel completo de 2026, con las fechas de cada artista, figura en la web oficial del organizador.
+Muchos artistas contemporáneos toman elementos prestados de estos instrumentos. Al escuchar ambas vertientes a lo largo de varias noches, se descubre de dónde procede el sonido más reciente. En el cartel de 2026, cada artista tenía su propia fecha.
 
-## Salas repartidas por Londres
+## Salas por todo Londres
 
-El festival no está ligado a un único escenario. Recurre a varias salas de Londres y asigna a cada artista un espacio de la capacidad adecuada. Un recital de gayageum en solitario requiere un lugar recogido y silencioso; un gran conjunto de percusión, en cambio, necesita una auténtica sala de conciertos.
+El festival no está ligado a un único escenario. El programa de 2026 se repartía entre varias salas londinenses, y a cada artista le correspondía un espacio del tamaño adecuado. Un recital de gayageum en solitario requiere un lugar íntimo y silencioso, mientras que un gran conjunto de percusión necesita una auténtica sala de conciertos.
 
-Por eso, lo primero en lo que conviene fijarse en cada ficha es la sede. Las salas de conciertos londinenses se reparten por la zona 1 y más allá, así que dos noches del festival pueden acabar en orillas opuestas del río. La ficha de cada concierto en la web del organizador indica la sala correspondiente.
+Por eso la sala era un dato clave de cada concierto. Las salas de conciertos de Londres se reparten por la zona 1 y más allá, así que dos noches del festival podían caer en orillas opuestas del río.
 
-La sede del propio organizador se encuentra en el Strand, en Grand Buildings, 1–3 Strand. Está frente a Trafalgar Square, a pocos minutos a pie de la estación de Charing Cross (líneas Northern y Bakerloo, además de National Rail) y de la de Embankment.
+La sede del propio organizador se encuentra en el Strand, en Grand Buildings, 1–3 Strand. El edificio está frente a la plaza de Trafalgar (Trafalgar Square), a pocos minutos a pie de la estación de Charing Cross (líneas Northern y Bakerloo, además de National Rail) y de la de Embankment.
 
 ## Entradas y desplazamientos
 
-Los enlaces de venta de cada concierto están en la web oficial del Centro Cultural Coreano del Reino Unido, junto con las fechas y las sedes. Como los espectáculos tienen lugar en salas diferentes, el sistema de venta puede cambiar de un concierto a otro. Muchas salas londinenses envían entradas electrónicas que se escanean en el móvil a la entrada.
+Cada concierto tenía su propia venta de entradas. Como los espectáculos se repartían entre salas distintas, el sistema de venta podía cambiar de un concierto a otro. Muchas salas londinenses envían entradas electrónicas que se escanean en el móvil al llegar a la puerta.
 
-La mayoría del público se desplaza en metro y paga en los tornos acercando una tarjeta bancaria sin contacto o el teléfono, igual que con la tarjeta Oyster. A finales de noviembre, ya a primera hora de la tarde ha anochecido y hace frío. Los asiduos no ven el paseo desde la estación como un trámite, sino como parte de la velada.
+La mayor parte del público londinense se desplaza en metro y paga en los torniquetes acercando una tarjeta bancaria sin contacto o el móvil, igual que con una tarjeta Oyster. A finales de noviembre ya es de noche y hace frío a primera hora de la tarde. Los asiduos consideran el paseo desde la estación parte de la velada, y no una molestia.
 
 ## En la sala con el público del gugak
 
-Los conciertos de música tradicional coreana tienen su propio protocolo, que puede sorprender al público londinense. Sobre todo en el pansori, los oyentes lanzan breves gritos de ánimo durante la actuación. Esta práctica recibe el nombre de *chuimsae*, y las exclamaciones más conocidas son *«eolsu!»* y *«jota!»* («¡bien!»). Se lanzan al final de una frase o tras un momento culminante. No se trata de interrupciones: el cantante cuenta con ellas.
+Los conciertos de música tradicional coreana tienen su propio protocolo, que puede sorprender al público londinense. Sobre todo en el pansori, los oyentes lanzan breves gritos de ánimo durante la actuación. Esta costumbre se llama *chuimsae*, y las exclamaciones más conocidas son *«¡eolsu!»* y *«¡jota!»* («¡bien!»). Los gritos llegan al final de una frase o tras un momento culminante. No se trata de interrupciones: el cantante los recibe con agrado.
 
-Hay otras costumbres habituales en la mayoría de las veladas:
+Hay otras pautas que se cumplen casi todas las noches:
 
-- Es normal aplaudir entre pieza y pieza, pero el sanjo, una larga forma solista improvisada, encadena sus secciones sin detenerse. El público suele esperar al último golpe.
-- Los bares de las salas londinenses aceptan casi siempre el pago con tarjeta y sin contacto. No se espera propina en la barra.
-- Las actuaciones contemporáneas funcionan como cualquier concierto: los móviles salen un momento y vuelven enseguida al bolsillo.
+- Aplaudir entre piezas es normal, pero el sanjo (una larga forma solista improvisada) encadena sus secciones sin detenerse, y el público suele esperar al último golpe.
+- Los bares de las salas londinenses casi siempre aceptan tarjeta y pago sin contacto. No es costumbre dejar propina en la barra.
+- Los conciertos contemporáneos funcionan como cualquier otro: los móviles salen un momento y enseguida vuelven al bolsillo.
 
-Si no sabe con certeza si un pasaje admite un grito, observe a los espectadores coreanos que tenga alrededor. Por lo general, son ellos quienes marcan el ritmo.
+Cuando no está claro si un momento admite un grito, suelen ser los espectadores coreanos presentes en la sala quienes marcan la pauta.
 
-## Una velada completa
+## Una velada completa en torno al concierto
 
-La mayoría de las salas del festival se encuentran en barrios de Londres muy animados por la noche, de modo que resulta fácil incluir el concierto en una salida más larga. Desde el Strand, tanto Covent Garden como Soho quedan a un breve paseo hacia el norte. Soho reúne la mayor concentración de restaurantes coreanos de la ciudad, algo muy práctico para cenar antes del espectáculo.
+La mayoría de las salas del festival se encuentran en zonas de Londres muy animadas por la noche, así que el concierto se integra fácilmente en una salida más larga. Desde el Strand, tanto Covent Garden como Soho quedan a un corto paseo hacia el norte. Soho reúne la mayor concentración de restaurantes coreanos de la ciudad, una opción cómoda para cenar antes del espectáculo.
 
-Si el concierto es en el South Bank, una forma clásica de llegar es cruzar a pie el puente de Hungerford desde Embankment, a orillas del río. Con unas ocho semanas de programación, muchos asistentes eligen una noche de música tradicional y otra de música contemporánea. Escuchar ambas líneas una tras otra es precisamente la experiencia para la que está concebido el festival.
+Desde Embankment, cruzar a pie el puente de Hungerford junto al río es una forma clásica de llegar al South Bank. Con unas ocho semanas de programación, el calendario de 2026 facilitaba combinar una noche de música tradicional con otra de música contemporánea. Escuchar las dos vertientes de forma consecutiva es justo aquello para lo que se concibió el festival.
