@@ -125,30 +125,31 @@
     "taipei-khalid-concert-taipei",
     "cairo-cairo-steps-and-basem-darwisch-concert",
     "da-lat-11th-da-lat-flower-festival",
-    "auckland-a-ap-rocky-don-t-be-dumb-world-tour"
+    "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
+    "seoul-seoul-light-gwanghwamun"
   ],
-  "lastSentDay": "2026-11-24",
+  "lastSentDay": "2026-11-25",
   "material": {
-    "day": "2026-11-24",
-    "slug": "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
-    "title": "A$AP Rocky: Don't Be Dumb World Tour: Dates, Tickets & Venue (Auckland)",
+    "day": "2026-11-25",
+    "slug": "seoul-seoul-light-gwanghwamun",
+    "title": "Seoul Light Gwanghwamun: Dates, Tickets & Venue (Seoul)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-24-auckland-a-ap-rocky-don-t-be-dumb-world-tour-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-25-seoul-seoul-light-gwanghwamun-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-25-seoul-seoul-light-gwanghwamun-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-25-seoul-seoul-light-gwanghwamun-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-25-seoul-seoul-light-gwanghwamun-4.jpg"
     ],
-    "igCaption": "A$AP Rocky returns to New Zealand after eight years, bringing the Don't Be Dumb World Tour to Auckland's Spark Arena on Dec 12, 2026. Floor for the pit, tiers for the view — either way, it's a walk home along the harbour after.\n\n#Auckland #NewZealand #events #travel #wanderatlas #SparkArena #ASAPRocky #TravelGuide #ConcertTravel\n📷 Photo: David Hwang / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: david_hwang / Wikimedia Commons (CC BY 2.0) (edited)\n📷 Photo: Chris Brown / Wikimedia Commons (CC BY 2.0) (edited)",
-    "thOption": "Floor for the mosh pit chaos or tiered seats for a clean sightline on the production? Which one are you picking for A$AP Rocky at Spark Arena?",
-    "link": "https://wanderatlasguides.com/posts/auckland-a-ap-rocky-don-t-be-dumb-world-tour/"
+    "igCaption": "Gwanghwamun Square transforms into a glowing canvas every winter, with Gyeongbokgung's gate and Bugaksan as the backdrop. Dress warm, time your visit after sunset, and let the light and music take over the square.\n\n#Seoul #SouthKorea #events #travel #wanderatlas #SeoulLightGwanghwamun #Gwanghwamun #SeoulTravel #WinterInSeoul #GyeongbokgungPalace\n📷 Photo: Komatta / Wikimedia Commons (CC BY-SA 3.0) (edited)\n📷 Photo: Korea.net / Korean Culture and Information Service (Jeon / Wikimedia Commons (CC BY-SA 2.0) (edited)",
+    "thOption": "Weeknights at Gwanghwamun Square are usually calmer than Friday or Saturday — would you brave the weekend crowds for the lights, or play it smart on a weekday?",
+    "link": "https://wanderatlasguides.com/posts/seoul-seoul-light-gwanghwamun/"
   },
   "social": {
-    "thDay": "2026-11-24",
-    "thId": "18110553140209142",
-    "igDay": "2026-11-23",
-    "igId": "17892981606687680",
-    "thSlug": "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
-    "igSlug": "da-lat-11th-da-lat-flower-festival",
+    "thDay": "2026-11-25",
+    "thId": "17926383660225673",
+    "igDay": "2026-11-25",
+    "igId": "17869323699680487",
+    "thSlug": "seoul-seoul-light-gwanghwamun",
+    "igSlug": "seoul-seoul-light-gwanghwamun",
     "history": [
       {
         "day": "2026-10-10",
@@ -883,7 +884,25 @@
         "day": "2026-11-18",
         "slug": "istanbul-nancy-ajram-concert",
         "thId": "17909636007598466",
-        "igId": "18122877934951038"
+        "igId": "18122877934951038",
+        "insights": {
+          "at": "2026-11-25",
+          "th": {
+            "views": 7,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-19",
@@ -916,6 +935,12 @@
         "day": "2026-11-24",
         "slug": "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
         "thId": "18110553140209142"
+      },
+      {
+        "day": "2026-11-25",
+        "slug": "seoul-seoul-light-gwanghwamun",
+        "thId": "17926383660225673",
+        "igId": "17869323699680487"
       }
     ]
   }
