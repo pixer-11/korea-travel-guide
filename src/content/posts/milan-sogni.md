@@ -5,7 +5,6 @@ country: Italy
 region: Milan
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - milan
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is it easy to get a taxi home afterward?
     a: Plan on a taxi or rideshare rather than late-night public transit, since the appeal here is staying late and the street itself is quiet and dark.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1405191957_-k4eMLUrVTXlEEO0DDdhpuDcSjSo9fDZOz85b-tEMas.jpg
+  credit: 'Photo: Foursquare user content (Sogni Milano)'
+  license: foursquare
+  source: https://foursquare.com/v/651ddd7c2aed3216e73dff28
+  focus:
+    x: 50
+    'y': 55
 ---
 
 Sogni doesn't want you to find it by accident. There's no illuminated sign, just a stretch of side street that looks closed for the night until you spot the door staff and the small queue forming behind them.

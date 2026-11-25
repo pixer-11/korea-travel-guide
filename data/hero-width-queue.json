@@ -3889,7 +3889,9 @@
   "malaga-libreria-rayuela\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/M%C3%A1laga_-_Librer%C3%ADa_Rayuela.jpg": 1600,
   "mong-kok-book-punch\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Book_Punch_Interior-202107.jpg": 3472,
   "mount-bromo-king-kong-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Path_to_King_Kong_Hill_in_East_Java.jpg/3840px-Path_to_King_Kong_Hill_in_East_Java.jpg": 3840,
-  "new-plymouth-tsb-festival-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/New_Zealand_Wars_Memorial_New_Plymouth.jpg/1280px-New_Zealand_Wars_Memorial_New_Plymouth.jpg": 1280
+  "new-plymouth-tsb-festival-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/New_Zealand_Wars_Memorial_New_Plymouth.jpg/1280px-New_Zealand_Wars_Memorial_New_Plymouth.jpg": 1280,
+  "chamonix-grotte-de-glace\u0001https://fastly.4sqi.net/img/general/original/58890857_qyQo-u369dfwzjMI11XVnom4SM5xHZx9IpB71USocHs.jpg": 1440,
+  "milan-sogni\u0001https://fastly.4sqi.net/img/general/original/1405191957_-k4eMLUrVTXlEEO0DDdhpuDcSjSo9fDZOz85b-tEMas.jpg": 1080
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4020,8 +4022,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 12,
-   "nextTry": "2026-11-25",
+   "attempts": 13,
+   "nextTry": "2026-12-02",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -4097,15 +4099,15 @@
   },
   "hong-kong-fello": {
    "width": 1080,
-   "attempts": 9,
-   "nextTry": "2026-11-25",
+   "attempts": 10,
+   "nextTry": "2026-12-02",
    "flaggedAt": "2026-09-18",
    "lastResult": "no-wider"
   },
   "hiroshima-hiroshima-botanical-garden": {
    "width": 800,
-   "attempts": 9,
-   "nextTry": "2026-11-25",
+   "attempts": 10,
+   "nextTry": "2026-12-02",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -4139,8 +4141,8 @@
   },
   "barcelona-chambacu": {
    "width": 1103,
-   "attempts": 7,
-   "nextTry": "2026-11-25",
+   "attempts": 8,
+   "nextTry": "2026-12-02",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -4400,7 +4402,13 @@
    "attempts": 0,
    "nextTry": "2026-11-14",
    "flaggedAt": "2026-11-14"
+  },
+  "milan-sogni": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-11-25",
+   "flaggedAt": "2026-11-25"
   }
  },
- "updated": "2026-11-25T18:13:59.789Z"
+ "updated": "2026-11-25T19:37:13.076Z"
 }
