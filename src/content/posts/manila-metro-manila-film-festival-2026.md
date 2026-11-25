@@ -11,7 +11,6 @@ eventRecurring: true
 eventOrganizer:
   name: Metro Manila Development Authority (MMDA)
 eventFactsAsked: true
-gallery: []
 tags:
   - manila
   - event
@@ -29,6 +28,14 @@ faq:
     a: No. For the festival period, cinemas in the Philippines show only the official Filipino entries.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Metro_Manila_Film_Festival_10.jpg/3840px-Metro_Manila_Film_Festival_10.jpg
+  credit: 'Photo: SwarmCheng / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Metro_Manila_Film_Festival_10.jpg
+  focus:
+    x: 32
+    'y': 30
 ---
 
 ## Christmas Day, Filipino films only

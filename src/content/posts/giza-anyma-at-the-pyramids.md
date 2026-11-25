@@ -13,7 +13,6 @@ eventPerformer:
   name: Anyma
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - giza
   - event
@@ -31,6 +30,16 @@ faq:
     a: The Great Sphinx and the pyramids of Khafre and Menkaure share the plateau. The Grand Egyptian Museum, home to Tutankhamun's treasures, stands at its edge, and Marriott Mena House is at the foot of the pyramids.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anyma_-_Las_Vegas_Sphere%2C_2024.jpg/3840px-Anyma_-_Las_Vegas_Sphere%2C_2024.jpg
+  credit: 'Photo: ObAnyma / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Anyma_-_Las_Vegas_Sphere,_2024.jpg
+  focus:
+    x: 55
+    'y': 36
+    top: 32
+    bottom: 40
 ---
 
 ## A techno show in front of a 4,500-year-old tomb

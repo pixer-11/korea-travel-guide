@@ -8574,5 +8574,165 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bangkok_skyline_2018.jpg/3840px-Bangkok_skyline_2018.jpg": {
+  "w": 3840,
+  "h": 1867,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Palau_Sant_Jordi_Barcelona_2013.jpg/3840px-Palau_Sant_Jordi_Barcelona_2013.jpg": {
+  "w": 3840,
+  "h": 1936,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/b/bc/Arena_from_Library_of_Birmingham_2024-07-19.jpg": {
+  "w": 2792,
+  "h": 1862,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cairo_Skyline_%282347103621%29.jpg": {
+  "w": 3054,
+  "h": 2018,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20230608_Olympiaschanze_Garmisch-Partenkirchen.jpg/1280px-20230608_Olympiaschanze_Garmisch-Partenkirchen.jpg": {
+  "w": 1280,
+  "h": 854,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg": {
+  "w": 2048,
+  "h": 1093,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/5/55/Lake_Kh%C3%B6vsg%C3%B6l%2C_Mongolia.jpg": {
+  "w": 3472,
+  "h": 2128,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Zepp_Kuala_Lumpur.jpg/3840px-Zepp_Kuala_Lumpur.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kuala_Lumpur_cityscape_at_night_from_Roofino_Sky_Dining.jpg": {
+  "w": 2048,
+  "h": 1536,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lima_city_skyline_from_Chorrillos.jpg/3840px-Lima_city_skyline_from_Chorrillos.jpg": {
+  "w": 3840,
+  "h": 2160,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Teatro_alla_Scala_interior_Milan.jpg/3840px-Teatro_alla_Scala_interior_Milan.jpg": {
+  "w": 3840,
+  "h": 1624,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/6/60/Nanterre_-_Parc_des_Anciennes_Mairies_-_1.JPG": {
+  "w": 2304,
+  "h": 1260,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/9/9d/Qingdao_-_Drone_view_city_with_skyline_%28Unsplash%29.jpg": {
+  "w": 3776,
+  "h": 2520,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rome_skyline_panorama.jpg/3840px-Rome_skyline_panorama.jpg": {
+  "w": 3840,
+  "h": 1280,
+  "focus": {
+   "x": 65,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Monumento_a_la_Bandera_Argentina_y_panorama_de_Rosario_2009-11-04.jpg/1280px-Monumento_a_la_Bandera_Argentina_y_panorama_de_Rosario_2009-11-04.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/3/30/Angkor_SiemReap_Cambodia_Tha-Prom-Temple-01.jpg": {
+  "w": 3836,
+  "h": 2557,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Road_Poipet_to_Sisophon_-_panoramio.jpg/1280px-Road_Poipet_to_Sisophon_-_panoramio.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tashkent_Planetarium_at_night_2.jpg/3840px-Tashkent_Planetarium_at_night_2.jpg": {
+  "w": 3840,
+  "h": 2160,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/3/32/Rio_Lujan_-_Puerto_de_frutos_%28Localidad_de_Tigre%29_%284729504486%29.jpg": {
+  "w": 3216,
+  "h": 2136,
+  "focus": {
+   "x": 25,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg/3840px-Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg": {
+  "w": 3840,
+  "h": 1705,
+  "focus": {
+   "x": 35,
+   "y": 45
+  }
  }
 }

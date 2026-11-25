@@ -15,6 +15,14 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rome_skyline_panorama.jpg/3840px-Rome_skyline_panorama.jpg'
+  credit: 'Photo: Nicholas Hartmann / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Rome_skyline_panorama.jpg'
+  focus:
+    x: 65
+    y: 45
 gallery: []
 tags:
   - rome

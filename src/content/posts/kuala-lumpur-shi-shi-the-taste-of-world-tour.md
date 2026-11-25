@@ -13,6 +13,14 @@ eventPerformer:
   name: Shi Shi (孫盛希)
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Zepp_Kuala_Lumpur.jpg/3840px-Zepp_Kuala_Lumpur.jpg'
+  credit: 'Photo: LegendaryLim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Zepp_Kuala_Lumpur.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - kuala lumpur

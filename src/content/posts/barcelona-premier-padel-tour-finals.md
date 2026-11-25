@@ -13,6 +13,14 @@ eventOrganizer:
   name: Premier Padel
   url: https://premierpadel.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Palau_Sant_Jordi_Barcelona_2013.jpg/3840px-Palau_Sant_Jordi_Barcelona_2013.jpg'
+  credit: 'Photo: Felix König / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Palau_Sant_Jordi_Barcelona_2013.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - barcelona

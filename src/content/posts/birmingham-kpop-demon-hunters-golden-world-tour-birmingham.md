@@ -15,6 +15,14 @@ eventPerformer:
   name: KPop Demon Hunters
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Arena_from_Library_of_Birmingham_2024-07-19.jpg'
+  credit: 'Photo: The wub / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Arena_from_Library_of_Birmingham_2024-07-19.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - birmingham

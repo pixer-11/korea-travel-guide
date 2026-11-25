@@ -13,7 +13,6 @@ eventPerformer:
   name: BOYNEXTDOOR
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - taoyuan
   - event
@@ -31,6 +30,16 @@ faq:
     a: Many K-pop concerts in Taiwan use real-name ticketing. Fans typically carry the passport or ID that matches the name on their ticket.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/0/02/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_05.png
+  credit: 'Photo: 티비텐 TV10 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_05.png
+  focus:
+    x: 50
+    'y': 20
+    top: 10
+    bottom: 30
 ---
 
 ## Six members, one arena on a hill

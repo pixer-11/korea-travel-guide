@@ -13,6 +13,14 @@ eventOrganizer:
   name: Teatro alla Scala
   url: https://www.teatroallascala.org
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Teatro_alla_Scala_interior_Milan.jpg/3840px-Teatro_alla_Scala_interior_Milan.jpg'
+  credit: 'Photo: Wolfgang Moroder / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Teatro_alla_Scala_interior_Milan.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - milan

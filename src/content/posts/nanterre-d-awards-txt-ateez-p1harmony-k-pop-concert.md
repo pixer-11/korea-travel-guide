@@ -13,6 +13,14 @@ eventPerformer:
   name: TXT, ATEEZ, P1Harmony
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Nanterre_-_Parc_des_Anciennes_Mairies_-_1.JPG'
+  credit: 'Photo: Misaki Imaoka Sanson / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Nanterre_-_Parc_des_Anciennes_Mairies_-_1.JPG'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - nanterre

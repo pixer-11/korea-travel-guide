@@ -15,6 +15,14 @@ eventPerformer:
   name: EVNNE
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg/3840px-Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg'
+  credit: 'Photo: Jchmrt / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg'
+  focus:
+    x: 35
+    y: 45
 gallery: []
 tags:
   - toronto

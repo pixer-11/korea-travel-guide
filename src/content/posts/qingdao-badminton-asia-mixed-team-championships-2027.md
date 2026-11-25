@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton Asia
   url: https://badmintonasia.org/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Qingdao_-_Drone_view_city_with_skyline_%28Unsplash%29.jpg'
+  credit: 'Photo: CHO EUNSEONG being_es / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Qingdao_-_Drone_view_city_with_skyline_(Unsplash).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - qingdao

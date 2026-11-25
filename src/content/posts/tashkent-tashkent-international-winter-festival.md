@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: UZS
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tashkent_Planetarium_at_night_2.jpg/3840px-Tashkent_Planetarium_at_night_2.jpg'
+  credit: 'Photo: Mysportedit / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent_Planetarium_at_night_2.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - tashkent

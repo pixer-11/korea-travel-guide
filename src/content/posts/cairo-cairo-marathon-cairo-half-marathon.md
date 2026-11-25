@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://registration.cairorunners.com/races/23
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Cairo_Skyline_%282347103621%29.jpg'
+  credit: 'Photo: Francisco Anzola / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cairo_Skyline_(2347103621).jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - cairo

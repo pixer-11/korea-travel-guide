@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton World Federation
   url: https://bwfbadminton.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg'
+  credit: 'Photo: Quangnlnhe182394 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hanoi_skyline_with_Ba_Vi_Mountain.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hanoi

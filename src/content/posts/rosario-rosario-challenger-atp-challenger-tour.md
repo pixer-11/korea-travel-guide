@@ -12,6 +12,14 @@ eventOrganizer:
   name: ATP Challenger Tour
   url: https://www.atptour.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Monumento_a_la_Bandera_Argentina_y_panorama_de_Rosario_2009-11-04.jpg/1280px-Monumento_a_la_Bandera_Argentina_y_panorama_de_Rosario_2009-11-04.jpg'
+  credit: 'Photo: https://www.flickr.com/photos/jmage/ (CC BY 2.0)'
+  license: wikimedia
+  source: 'File:Monumento a la Bandera Argentina y panorama de Rosario 2009-11-04.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - rosario

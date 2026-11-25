@@ -3913,7 +3913,11 @@
   "taipei-mamamoo-4ward-world-tour-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mamamoo_performing_in_2023.jpg/3840px-Mamamoo_performing_in_2023.jpg": 3840,
   "singapore-wtt-singapore-smash\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Singapore_OCBC_Arena.jpg": 2560,
   "toronto-toronto-raptors-nba-games-scotiabank-arena\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NBA_basketball%2C_Raptors_in_Phoenix.jpg/3840px-NBA_basketball%2C_Raptors_in_Phoenix.jpg": 3840,
-  "taupo-greenstone-summer-concert-tour-seal-sophie-ellis-bextor-bastille\u0001https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_Hannover.jpg": 2594
+  "taupo-greenstone-summer-concert-tour-seal-sophie-ellis-bextor-bastille\u0001https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_Hannover.jpg": 2594,
+  "giza-anyma-at-the-pyramids\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anyma_-_Las_Vegas_Sphere%2C_2024.jpg/3840px-Anyma_-_Las_Vegas_Sphere%2C_2024.jpg": 3840,
+  "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": 1695,
+  "manila-metro-manila-film-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Metro_Manila_Film_Festival_10.jpg/3840px-Metro_Manila_Film_Festival_10.jpg": 3840,
+  "taoyuan-boynextdoor-taiwan-concert\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_05.png": 2560
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -4196,15 +4200,15 @@
   },
   "istanbul-araf": {
    "width": 1080,
-   "attempts": 5,
-   "nextTry": "2026-11-25",
+   "attempts": 6,
+   "nextTry": "2026-12-02",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
   "istanbul-istanbul-marathon": {
    "width": 1024,
-   "attempts": 5,
-   "nextTry": "2026-11-25",
+   "attempts": 6,
+   "nextTry": "2026-12-02",
    "flaggedAt": "2026-10-01",
    "lastResult": "no-wider"
   },
@@ -4432,5 +4436,5 @@
    "flaggedAt": "2026-11-25"
   }
  },
- "updated": "2026-11-25T21:18:18.459Z"
+ "updated": "2026-11-25T21:23:56.706Z"
 }

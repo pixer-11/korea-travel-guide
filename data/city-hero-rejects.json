@@ -614,5 +614,57 @@
  "Mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/5/57/Early_morning_walkers_and_joggers_at_the_%27Mahalaxmi_Racecourse%27_in_Mumbai..JPG": {
   "reason": "Photo focused on people jogging, not a Mumbai landmark view",
   "at": "2026-11-23T19:41:02.151Z"
+ },
+ "cover:Rosario\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Palacio_Fuentes_Rosario_2.jpg/1280px-Palacio_Fuentes_Rosario_2.jpg": {
+  "reason": "Interior ceiling shot, not a city/landmark view",
+  "at": "2026-11-25T21:24:25.039Z"
+ },
+ "Bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wat_Kanlayannamit_--_Bangkok_Scale_Model%2C_Benchakitti_Forest_Park_07.jpg/3840px-Wat_Kanlayannamit_--_Bangkok_Scale_Model%2C_Benchakitti_Forest_Park_07.jpg": {
+  "reason": "This is a scale model, not an actual city view",
+  "at": "2026-11-25T21:25:10.295Z"
+ },
+ "Bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bangkok_skyline_at_sunset%2C_Bangkok%2C_Thailand.jpg/3840px-Bangkok_skyline_at_sunset%2C_Bangkok%2C_Thailand.jpg": {
+  "reason": "Generic skyline silhouette, not identifiable as Bangkok specifically",
+  "at": "2026-11-25T21:25:12.733Z"
+ },
+ "Lima\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Lima%2C_Ohio_Skyline_%282022%29.jpg": {
+  "reason": "Generic skyline, not identifiable as Lima, Peru",
+  "at": "2026-11-25T21:25:39.512Z"
+ },
+ "Nanterre\u0001https://upload.wikimedia.org/wikipedia/commons/f/f3/Misty_Morning_Sky-Nanterre.jpg": {
+  "reason": "Foggy generic highway scene with cars, not representative view",
+  "at": "2026-11-25T21:25:45.007Z"
+ },
+ "Nanterre\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/Nanterre_-_Parc_des_Anciennes_Mairies_-_Statue.JPG": {
+  "reason": "Statue close-up, not representative park landscape view",
+  "at": "2026-11-25T21:25:48.701Z"
+ },
+ "Nanterre\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Nanterre_-_Parc_des_Anciennes_Mairies_-_Sc%C3%A8ne.JPG": {
+  "reason": "Main subject is a poster/banner, not the venue",
+  "at": "2026-11-25T21:25:50.282Z"
+ },
+ "Siem Reap\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Angkor_SiemReap_Cambodia_Banteay_Srei-Relief-01.jpg/3840px-Angkor_SiemReap_Cambodia_Banteay_Srei-Relief-01.jpg": {
+  "reason": "Close-up carving fragment, not representative city view",
+  "at": "2026-11-25T21:25:57.511Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/USSR_Container_at_Tashkent_Railway_Museum_2.jpg": {
+  "reason": "Shipping container and bricks, not a Tashkent landmark",
+  "at": "2026-11-25T21:26:15.536Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Uzbekistan_Container_at_Tashkent_Railway_Museum.jpg": {
+  "reason": "Shipping container and pipe, not a city view",
+  "at": "2026-11-25T21:26:16.821Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/Sitting_woman-Tashkent_museum_of_applied_arts-1110424.jpg": {
+  "reason": "Japanese painting, not a Tashkent view",
+  "at": "2026-11-25T21:26:18.043Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dream_Park_Tashkent_3.jpg/3840px-Dream_Park_Tashkent_3.jpg": {
+  "reason": "Main subject is a Pepsi advertisement banner, not a view",
+  "at": "2026-11-25T21:26:21.474Z"
+ },
+ "Tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dream_Park_Tashkent_4.jpg/3840px-Dream_Park_Tashkent_4.jpg": {
+  "reason": "This is a logo/sign banner, not a place photo",
+  "at": "2026-11-25T21:26:23.353Z"
  }
 }

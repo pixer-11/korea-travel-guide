@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: THB
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bangkok_skyline_2018.jpg/3840px-Bangkok_skyline_2018.jpg'
+  credit: 'Photo: srihariyv / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bangkok_skyline_2018.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - bangkok

@@ -4863,6 +4863,18 @@
   "reason": "patrol reject: Concert photo, unrelated to marathon event",
   "at": "2026-11-12T04:47:48.643Z"
  },
+ "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
+  "slug": "bengaluru-bengaluru-open-atp-125",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Professional tennis player on hard court",
+  "at": "2026-11-25T21:19:38.334Z"
+ },
+ "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
+  "slug": "bengaluru-bengaluru-open-atp-125",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-11-25T21:19:35.961Z"
+ },
  "bengaluru-bengaluru-palace\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg": {
   "slug": "bengaluru-bengaluru-palace",
   "verdict": "MATCH",
@@ -5333,6 +5345,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park lake with trees, representative of Cannon Hill Park",
   "at": "2026-10-10T07:42:43.548Z"
+ },
+ "birmingham-kpop-demon-hunters-golden-world-tour-birmingham\u0001https://upload.wikimedia.org/wikipedia/commons/6/6e/Crew_of_KPop_Demon_Hunters_on_April_1%2C_2026_01.png": {
+  "slug": "birmingham-kpop-demon-hunters-golden-world-tour-birmingham",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Korean cast photocall, not Birmingham tour event",
+  "at": "2026-11-25T21:19:49.764Z"
+ },
+ "birmingham-kpop-demon-hunters-golden-world-tour-birmingham\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/KPop_Demon_Hunters_cosplay_at_Fan_Expo_Denver_2026_01.jpg": {
+  "slug": "birmingham-kpop-demon-hunters-golden-world-tour-birmingham",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fan cosplay at FanExpo, unrelated to KPop Demon Hunters tour",
+  "at": "2026-11-25T21:19:48.352Z"
+ },
+ "birmingham-kpop-demon-hunters-golden-world-tour-birmingham\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Crew_of_KPop_Demon_Hunters_on_April_1%2C_2026_03.png": {
+  "slug": "birmingham-kpop-demon-hunters-golden-world-tour-birmingham",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Award ceremony, not KPop concert venue/performance",
+  "at": "2026-11-25T21:19:46.876Z"
+ },
+ "birmingham-kpop-demon-hunters-golden-world-tour-birmingham\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Netflix_House_KOP%2C_KPOP_Demon_Hunters_Promo_Blowup.jpg/3840px-Netflix_House_KOP%2C_KPOP_Demon_Hunters_Promo_Blowup.jpg": {
+  "slug": "birmingham-kpop-demon-hunters-golden-world-tour-birmingham",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Netflix House building, unrelated to KPop event/venue",
+  "at": "2026-11-25T21:19:44.402Z"
  },
  "birmingham-lapworth-museum-of-geology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lapworth_Museum.jpg/1920px-Lapworth_Museum.jpg": {
   "slug": "birmingham-lapworth-museum-of-geology",
@@ -6899,6 +6935,18 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Attendee at Cairo Film Festival event backdrop",
   "at": "2026-11-09T01:07:55.862Z"
+ },
+ "cairo-cairo-marathon-cairo-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/f/f1/Marathon_on_US84%2C_Cairo%2C_Georgia.jpg": {
+  "slug": "cairo-cairo-marathon-cairo-half-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random US roadside gas station, unrelated to Cairo Marathon",
+  "at": "2026-11-25T21:19:58.965Z"
+ },
+ "cairo-cairo-marathon-cairo-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marathon_-_windmill.jpg/3840px-Marathon_-_windmill.jpg": {
+  "slug": "cairo-cairo-marathon-cairo-half-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural windmill scene, unrelated to Cairo Marathon event",
+  "at": "2026-11-25T21:20:00.108Z"
  },
  "cairo-cairo-steps-and-basem-darwisch-concert\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Cairo_Steps_at_Alexandria_Opera_House.jpg": {
   "slug": "cairo-cairo-steps-and-basem-darwisch-concert",
@@ -11616,6 +11664,30 @@
   "reason": "identity audit 2026-08-14: vision approved this candidate, the photo metadata names a different venue/country — reverted before commit",
   "at": "2026-08-14T11:13:16.169Z"
  },
+ "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20230608_Ludwigstra%C3%9Fe_Garmisch-Partenkirchen_01.jpg/3840px-20230608_Ludwigstra%C3%9Fe_Garmisch-Partenkirchen_01.jpg": {
+  "slug": "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Summer street scene, no Christmas market present",
+  "at": "2026-11-25T21:20:07.889Z"
+ },
+ "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20230608_Olympiaschanze_Garmisch-Partenkirchen.jpg/3840px-20230608_Olympiaschanze_Garmisch-Partenkirchen.jpg": {
+  "slug": "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ski jump venue, not Christmas market",
+  "at": "2026-11-25T21:20:10.287Z"
+ },
+ "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/20230608_Ludwigstra%C3%9Fe_Garmisch-Partenkirchen_02.jpg/3840px-20230608_Ludwigstra%C3%9Fe_Garmisch-Partenkirchen_02.jpg": {
+  "slug": "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene, no Christmas market visible, wrong season",
+  "at": "2026-11-25T21:20:09.076Z"
+ },
+ "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20230608_Barn_Garmisch-Partenkirchen.jpg/3840px-20230608_Barn_Garmisch-Partenkirchen.jpg": {
+  "slug": "garmisch-partenkirchen-garmisch-partenkirchen-christmas-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural barn scene, unrelated to Christmas market venue",
+  "at": "2026-11-25T21:20:11.956Z"
+ },
  "gatineau-2026-canadian-national-figure-skating-championships\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Green_Bay_July_2024_023_%28Canadian_National_freight_train%29.jpg/3840px-Green_Bay_July_2024_023_%28Canadian_National_freight_train%29.jpg": {
   "slug": "gatineau-2026-canadian-national-figure-skating-championships",
   "verdict": "MISMATCH",
@@ -11811,6 +11883,18 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Concert stage with crowd, matches festival event type",
   "at": "2026-10-29T00:38:47.886Z"
+ },
+ "giza-anyma-at-the-pyramids\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Anyma_2025.jpg": {
+  "slug": "giza-anyma-at-the-pyramids",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Portrait only; no venue context visible",
+  "at": "2026-11-25T21:20:20.031Z"
+ },
+ "giza-anyma-at-the-pyramids\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anyma_-_Las_Vegas_Sphere%2C_2024.jpg/3840px-Anyma_-_Las_Vegas_Sphere%2C_2024.jpg": {
+  "slug": "giza-anyma-at-the-pyramids",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer with instruments on illuminated stage setup",
+  "at": "2026-11-25T21:20:22.636Z"
  },
  "giza-bent-pyramid-of-cairo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bent_Pyramid_featuring_the_original_polished_limestone_outer_casing_that_the_pyramids_used_to_have_%2814792677691%29.jpg/3840px-Bent_Pyramid_featuring_the_original_polished_limestone_outer_casing_that_the_pyramids_used_to_have_%2814792677691%29.jpg": {
   "slug": "giza-bent-pyramid-of-cairo",
@@ -13201,6 +13285,30 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Concert stadium crowd, valid generic concert event photo",
   "at": "2026-09-13T16:20:57.367Z"
+ },
+ "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/Ciputra_Hanoi_International_City_29.jpg": {
+  "slug": "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated construction site, not a badminton event",
+  "at": "2026-11-25T21:20:29.271Z"
+ },
+ "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/Ciputra_Hanoi_International_City_27.jpg": {
+  "slug": "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Hotel lobby, unrelated to badminton event",
+  "at": "2026-11-25T21:20:28.179Z"
+ },
+ "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Ciputra_Hanoi_International_City_07.jpg": {
+  "slug": "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Statues and buildings unrelated to badminton tournament event",
+  "at": "2026-11-25T21:20:25.384Z"
+ },
+ "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Ciputra_Hanoi_International_City_26.jpg": {
+  "slug": "hanoi-ciputra-hanoi-yonex-sunrise-vietnam-international-challenge",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated building exterior, not badminton event",
+  "at": "2026-11-25T21:20:27.052Z"
  },
  "hanoi-crossfire-legends-vietnam-championship-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Crossfire_06-29-2019_1.jpg/3840px-Crossfire_06-29-2019_1.jpg": {
   "slug": "hanoi-crossfire-legends-vietnam-championship-2026",
@@ -18489,6 +18597,30 @@
   "reason": "publish gate: Mongolian monastery temple building, representative exterior view",
   "at": "2026-10-15T13:05:39.198Z"
  },
+ "khatgal-blue-pearl-ice-festival\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Crocus_%27Blue_Pearl%2703.jpg": {
+  "slug": "khatgal-blue-pearl-ice-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Flowers in grass, unrelated to ice festival",
+  "at": "2026-11-25T21:20:39.247Z"
+ },
+ "khatgal-blue-pearl-ice-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/Hyacinthus_%27Blue_Pearl%27.jpg": {
+  "slug": "khatgal-blue-pearl-ice-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Potted hyacinth flowers, unrelated to ice festival",
+  "at": "2026-11-25T21:20:38.035Z"
+ },
+ "khatgal-blue-pearl-ice-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Crocus_%27Blue_Pearl%27.jpg": {
+  "slug": "khatgal-blue-pearl-ice-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Flowers in dirt, unrelated to ice festival/lake",
+  "at": "2026-11-25T21:20:36.687Z"
+ },
+ "khatgal-blue-pearl-ice-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Crocus_Blue_Pearl_and_Skyline.jpg": {
+  "slug": "khatgal-blue-pearl-ice-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Flowers unrelated to ice festival or lake venue",
+  "at": "2026-11-25T21:20:34.879Z"
+ },
  "khatgal-khovsgol-ice-festival-blue-pearl-ice-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/d7/Khovsgol_lake1.jpg": {
   "slug": "khatgal-khovsgol-ice-festival-blue-pearl-ice-festival",
   "verdict": "MATCH",
@@ -19763,6 +19895,30 @@
   "verdict": "WEAK",
   "reason": "patrol replace: Interior design generic; no clear venue identity markers",
   "at": "2026-11-12T04:50:28.674Z"
+ },
+ "kuala-lumpur-shi-shi-the-taste-of-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Shi_Shi_Beach_WA.jpeg": {
+  "slug": "kuala-lumpur-shi-shi-the-taste-of-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Beach landscape unrelated to concert tour event",
+  "at": "2026-11-25T21:20:53.249Z"
+ },
+ "kuala-lumpur-shi-shi-the-taste-of-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Courtside_reporter_Eileen_Shi_43.jpg": {
+  "slug": "kuala-lumpur-shi-shi-the-taste-of-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: PBA basketball event, unrelated to Shi Shi world tour",
+  "at": "2026-11-25T21:20:54.614Z"
+ },
+ "kuala-lumpur-shi-shi-the-taste-of-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/63/Sundance_Film_Festival_2024_-_Connie_Shi-104A3244.jpg": {
+  "slug": "kuala-lumpur-shi-shi-the-taste-of-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unidentified portrait, not linked to this event/performer",
+  "at": "2026-11-25T21:20:49.975Z"
+ },
+ "kuala-lumpur-shi-shi-the-taste-of-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/67/Courtside_reporter_Eileen_Shi_2.jpg": {
+  "slug": "kuala-lumpur-shi-shi-the-taste-of-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated PBA basketball interview, not Shi Shi event",
+  "at": "2026-11-25T21:20:51.326Z"
  },
  "kuala-lumpur-siggraph-asia-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/Fungal_bioart_laser-guided_growth_SIGGRAPH_Asia_2024.png": {
   "slug": "kuala-lumpur-siggraph-asia-2026",
@@ -23365,6 +23521,42 @@
   "reason": "publish gate: Market stalls with flags, food, vendors under tent, matches locale",
   "at": "2026-08-21T08:07:38.972Z"
  },
+ "manila-metro-manila-film-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/0e/FvfIPCenter0160_37.JPG": {
+  "slug": "manila-metro-manila-film-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene unrelated to film festival event",
+  "at": "2026-11-25T21:21:15.013Z"
+ },
+ "manila-metro-manila-film-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2022_Metro_Manila_Film_Festival_07.jpg/3840px-2022_Metro_Manila_Film_Festival_07.jpg": {
+  "slug": "manila-metro-manila-film-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random bystanders on balcony, unrelated to film festival",
+  "at": "2026-11-25T21:21:24.725Z"
+ },
+ "manila-metro-manila-film-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2022_Metro_Manila_Film_Festival_01.jpg/3840px-2022_Metro_Manila_Film_Festival_01.jpg": {
+  "slug": "manila-metro-manila-film-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Parade float vehicle, not representative of film festival",
+  "at": "2026-11-25T21:21:23.055Z"
+ },
+ "manila-metro-manila-film-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Field_trip_%288621670006%29.jpg/3840px-Field_trip_%288621670006%29.jpg": {
+  "slug": "manila-metro-manila-film-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Water treatment facility, unrelated to film festival event",
+  "at": "2026-11-25T21:21:19.504Z"
+ },
+ "manila-metro-manila-film-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/FvfTaguigMakati0278_12.JPG/3840px-FvfTaguigMakati0278_12.JPG": {
+  "slug": "manila-metro-manila-film-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated building/garden scene, not film festival event",
+  "at": "2026-11-25T21:21:16.176Z"
+ },
+ "manila-metro-manila-film-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Metro_Manila_Film_Festival_10.jpg/3840px-Metro_Manila_Film_Festival_10.jpg": {
+  "slug": "manila-metro-manila-film-festival-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Cinema ticket counter, Manila venue interior.",
+  "at": "2026-11-25T21:21:26.902Z"
+ },
  "manila-national-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/National_Museum_of_Fine_Arts_%28Ermita%2C_Manila%29%2806-19-2024%29.jpg/3840px-National_Museum_of_Fine_Arts_%28Ermita%2C_Manila%29%2806-19-2024%29.jpg": {
   "slug": "manila-national-museum-of-fine-arts",
   "verdict": "MATCH",
@@ -24715,6 +24907,30 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Photo of a document/letter, not event photo",
   "at": "2026-10-12T00:39:22.642Z"
+ },
+ "milan-prima-della-scala-verdi-s-otello\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Monumento_ai_caduti_della_Prima_guerra_mondiale_10.jpg": {
+  "slug": "milan-prima-della-scala-verdi-s-otello",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated monument sculpture, not La Scala or Otello related",
+  "at": "2026-11-25T21:21:39.577Z"
+ },
+ "milan-prima-della-scala-verdi-s-otello\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/Monumento_ai_caduti_della_Prima_guerra_mondiale.jpg": {
+  "slug": "milan-prima-della-scala-verdi-s-otello",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Obelisk monument, unrelated to La Scala opera event",
+  "at": "2026-11-25T21:21:37.207Z"
+ },
+ "milan-prima-della-scala-verdi-s-otello\u0001https://upload.wikimedia.org/wikipedia/commons/a/a2/Direttore_della_Musikkapelle_di_San_Candido_prima_della_sfilata.jpg": {
+  "slug": "milan-prima-della-scala-verdi-s-otello",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: Bavarian men, not La Scala opera",
+  "at": "2026-11-25T21:21:38.407Z"
+ },
+ "milan-prima-della-scala-verdi-s-otello\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/Statua_ai_Caduti_della_Prima_Guerra_Mondiale_02.jpg": {
+  "slug": "milan-prima-della-scala-verdi-s-otello",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: War memorial statue, unrelated to Teatro alla Scala event",
+  "at": "2026-11-25T21:21:35.620Z"
  },
  "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/18255669_2XBqYaSp3VRVLUOtMp4Leug6AgnFl0SrOR-5-0KIxGM.jpg": {
   "slug": "milan-procaccini",
@@ -31607,6 +31823,30 @@
   "reason": "patrol reject: Close-up food in hand, not venue representative",
   "at": "2026-09-03T22:07:45.949Z"
  },
+ "rome-domenica-al-museo-free-museum-sunday\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/Roma%2CDomenica_al_Colosseo_-_panoramio_%281%29.jpg": {
+  "slug": "rome-domenica-al-museo-free-museum-sunday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark/photo credit overlaid on image",
+  "at": "2026-11-25T21:22:08.483Z"
+ },
+ "rome-domenica-al-museo-free-museum-sunday\u0001https://upload.wikimedia.org/wikipedia/commons/0/06/Una_domenica_al_Teatro_di_Atri.jpg": {
+  "slug": "rome-domenica-al-museo-free-museum-sunday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Theatre building in Italy, not a Rome state museum",
+  "at": "2026-11-25T21:22:09.708Z"
+ },
+ "rome-domenica-al-museo-free-museum-sunday\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Santa_domenica_al_tramonto.JPG": {
+  "slug": "rome-domenica-al-museo-free-museum-sunday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Sunset seascape, unrelated to museum event/venue",
+  "at": "2026-11-25T21:22:02.728Z"
+ },
+ "rome-domenica-al-museo-free-museum-sunday\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Domenica_Escobas_20_DE_FEBRERO_DEL_2026.jpg/3840px-Domenica_Escobas_20_DE_FEBRERO_DEL_2026.jpg": {
+  "slug": "rome-domenica-al-museo-free-museum-sunday",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated indoor meeting, not museum or event venue",
+  "at": "2026-11-25T21:22:07.226Z"
+ },
  "rome-frumentario\u0001https://fastly.4sqi.net/img/general/original/538579_wYqis6p-4FWFW0DI92UQX-oj_9mWAFZSgFk7pEUbtFI.jpg": {
   "slug": "rome-frumentario",
   "verdict": "MISMATCH",
@@ -31794,6 +32034,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic Villa Borghese gate entrance, representative of the site",
   "at": "2026-09-20T07:59:05.831Z"
+ },
+ "rosario-rosario-challenger-atp-challenger-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/7b/Challenger_1A.jpg": {
+  "slug": "rosario-rosario-challenger-atp-challenger-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Space shuttle, unrelated to tennis event",
+  "at": "2026-11-25T21:22:20.511Z"
  },
  "rothenburg-ob-der-tauber-altstadt-rothenburg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Burggarten%2C_Blick_zur_Altstadt%2C_zum_Kobolzeller-_und_Siebersturm.jpg": {
   "slug": "rothenburg-ob-der-tauber-altstadt-rothenburg",
@@ -35932,6 +36178,30 @@
   "reason": "event publish gate: Portrait of Yesung, the performer for this fan meeting",
   "at": "2026-10-21T23:50:30.006Z"
  },
+ "sisophon-big-mountain-music-village\u0001https://upload.wikimedia.org/wikipedia/commons/7/70/Big_Mountain1.jpg": {
+  "slug": "sisophon-big-mountain-music-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Snowy field landscape, unrelated to music village event",
+  "at": "2026-11-25T21:22:40.508Z"
+ },
+ "sisophon-big-mountain-music-village\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/Big_mountain_2.jpg": {
+  "slug": "sisophon-big-mountain-music-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Mountain landscape, unrelated to a music event",
+  "at": "2026-11-25T21:22:39.432Z"
+ },
+ "sisophon-big-mountain-music-village\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Big_mountain_3.jpg": {
+  "slug": "sisophon-big-mountain-music-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Mountain landscape, unrelated to music village event",
+  "at": "2026-11-25T21:22:37.615Z"
+ },
+ "sisophon-big-mountain-music-village\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/Big_Mountain_Summit.jpg": {
+  "slug": "sisophon-big-mountain-music-village",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural farmland landscape, unrelated to music village event",
+  "at": "2026-11-25T21:22:35.946Z"
+ },
  "sitges-sitges-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Peter_Brunner_at_the_Sitges_Film_Festival%2C_2021.jpg": {
   "slug": "sitges-sitges-film-festival",
   "verdict": "MATCH",
@@ -37844,6 +38114,12 @@
   "reason": "hand-reviewed 2026-09-09: a different convention (Comic Con Chile)",
   "at": "2026-09-09T09:34:52.876Z"
  },
+ "taoyuan-boynextdoor-taiwan-concert\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/2026-01-16_BOYNEXTDOOR_at_Golden_Disc_Awards_05.png": {
+  "slug": "taoyuan-boynextdoor-taiwan-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: K-pop group at event red carpet",
+  "at": "2026-11-25T21:22:49.272Z"
+ },
  "taroko-gorge-lushui-trail\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Lushui_-_Wenshan_trail%2C_Taiwan_%2850653413188%29.jpg": {
   "slug": "taroko-gorge-lushui-trail",
   "verdict": "MATCH",
@@ -38909,6 +39185,30 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Aerial lake/industrial view, unrelated to marathon event",
   "at": "2026-10-22T00:18:21.950Z"
+ },
+ "tigre-challenger-de-tigre-atp-challenger-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Deepsea_Challenger_-_Cit%C3%A9_de_la_Mer-7935.jpg": {
+  "slug": "tigre-challenger-de-tigre-atp-challenger-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Submersible exhibit, unrelated to tennis tournament event",
+  "at": "2026-11-25T21:23:09.306Z"
+ },
+ "tigre-challenger-de-tigre-atp-challenger-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Challenger_explosion.jpg": {
+  "slug": "tigre-challenger-de-tigre-atp-challenger-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Space shuttle explosion smoke, unrelated to tennis event",
+  "at": "2026-11-25T21:23:05.247Z"
+ },
+ "tigre-challenger-de-tigre-atp-challenger-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b1/Dodge_Challenger_Et%C3%A92016.jpg": {
+  "slug": "tigre-challenger-de-tigre-atp-challenger-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated car photo, not tennis event",
+  "at": "2026-11-25T21:23:06.418Z"
+ },
+ "tigre-challenger-de-tigre-atp-challenger-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Chemical_Challenger_%28ship%2C_2015%29_S%C3%A8te_cf01.jpg/3840px-Chemical_Challenger_%28ship%2C_2015%29_S%C3%A8te_cf01.jpg": {
+  "slug": "tigre-challenger-de-tigre-atp-challenger-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Cargo ship unrelated to tennis Challenger event",
+  "at": "2026-11-25T21:23:07.667Z"
  },
  "tigre-museo-de-arte-de-tigre\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Museo_de_Arte_Tigre_00.jpg": {
   "slug": "tigre-museo-de-arte-de-tigre",

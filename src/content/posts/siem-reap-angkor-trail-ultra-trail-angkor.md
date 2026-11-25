@@ -10,6 +10,14 @@ eventEndDate: '2027-01-23'
 eventRecurring: true
 eventVenue: Angkor Archaeological Park
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/30/Angkor_SiemReap_Cambodia_Tha-Prom-Temple-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Angkor_SiemReap_Cambodia_Tha-Prom-Temple-01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - siem reap

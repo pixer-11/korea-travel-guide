@@ -12,6 +12,14 @@ eventOrganizer:
   name: ATP Challenger Tour
   url: https://www.atptour.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Rio_Lujan_-_Puerto_de_frutos_%28Localidad_de_Tigre%29_%284729504486%29.jpg'
+  credit: 'Photo: Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Rio_Lujan_-_Puerto_de_frutos_(Localidad_de_Tigre)_(4729504486).jpg'
+  focus:
+    x: 25
+    y: 40
 gallery: []
 tags:
   - tigre

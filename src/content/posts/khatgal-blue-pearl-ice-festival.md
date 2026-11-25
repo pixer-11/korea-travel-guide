@@ -10,6 +10,14 @@ eventEndDate: '2027-02-23'
 eventRecurring: true
 eventVenue: Lake Khövsgöl
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/55/Lake_Kh%C3%B6vsg%C3%B6l%2C_Mongolia.jpg'
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Lake_Kh%C3%B6vsg%C3%B6l,_Mongolia.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - khatgal

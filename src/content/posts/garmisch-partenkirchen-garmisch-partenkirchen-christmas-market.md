@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: EUR
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20230608_Olympiaschanze_Garmisch-Partenkirchen.jpg/1280px-20230608_Olympiaschanze_Garmisch-Partenkirchen.jpg'
+  credit: 'Photo: Flocci Nivis (CC BY 4.0)'
+  license: wikimedia
+  source: 'File:20230608 Olympiaschanze Garmisch-Partenkirchen.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - garmisch-partenkirchen
