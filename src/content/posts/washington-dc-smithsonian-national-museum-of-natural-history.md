@@ -1,44 +1,53 @@
 ---
-title: "Smithsonian National Museum of Natural History: Washington DC Travel Guide"
-description: "The Smithsonian National Museum of Natural History sits on the National Mall at 10th Street and Constitution Avenue NW in Washington DC, and it's free to enter every day from 10am to 5:30pm. 4.8★ (58,597 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Washington DC"
-category: "attraction"
-pubDate: "2026-08-25T08:10:36.256Z"
+title: 'Smithsonian National Museum of Natural History: Washington DC Travel Guide'
+description: >-
+  The Smithsonian National Museum of Natural History sits on the National Mall
+  at 10th Street and Constitution Avenue NW in Washington DC, and it's free to
+  enter every day from 10am to 5:30pm. 4.8★ (59,362 reviews) — what visitors
+  say, hours, and tips.
+country: United States
+region: Washington DC
+category: attraction
+pubDate: '2026-08-25T08:10:36.256Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg/1920px-National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg"
-  credit: "Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_-_2026_(55255088887).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg/1920px-National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg
+  credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_-_2026_(55255088887).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tyrannosaurus_Rex%2C_Smithsonian_National_Museum_of_Natural_History%2C_Washington%2C_D.C.jpg/3840px-Tyrannosaurus_Rex%2C_Smithsonian_National_Museum_of_Natural_History%2C_Washington%2C_D.C.jpg"
-    credit: "Photo: Ken Lund / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tyrannosaurus_Rex,_Smithsonian_National_Museum_of_Natural_History,_Washington,_D.C.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tyrannosaurus_Rex%2C_Smithsonian_National_Museum_of_Natural_History%2C_Washington%2C_D.C.jpg/3840px-Tyrannosaurus_Rex%2C_Smithsonian_National_Museum_of_Natural_History%2C_Washington%2C_D.C.jpg
+    credit: 'Photo: Ken Lund / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Tyrannosaurus_Rex,_Smithsonian_National_Museum_of_Natural_History,_Washington,_D.C.jpg
 place:
-  id: "ChIJx7K17Ji3t4kRr3VvqMTw7cc"
-  name: "Smithsonian National Museum of Natural History"
-  address: "10th St. & Constitution Ave. NW, Washington, DC 20560, USA"
+  id: ChIJx7K17Ji3t4kRr3VvqMTw7cc
+  name: Smithsonian National Museum of Natural History
+  address: '10th St. & Constitution Ave. NW, Washington, DC 20560, USA'
   rating: 4.8
-  userRatingsTotal: 58597
-  googleMapsUrl: "https://maps.google.com/?cid=14406435510458217903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 59362
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14406435510458217903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.8912662
   lng: -77.0260654
-  phone: "+1 202-633-1000"
+  phone: +1 202-633-1000
   openingHours:
-    - "Monday: 10:00 AM – 5:30 PM"
-    - "Tuesday: 10:00 AM – 5:30 PM"
-    - "Wednesday: 10:00 AM – 5:30 PM"
-    - "Thursday: 10:00 AM – 5:30 PM"
-    - "Friday: 10:00 AM – 5:30 PM"
-    - "Saturday: 10:00 AM – 5:30 PM"
-    - "Sunday: 10:00 AM – 5:30 PM"
+    - 'Monday: 10:00 AM – 5:30 PM'
+    - 'Tuesday: 10:00 AM – 5:30 PM'
+    - 'Wednesday: 10:00 AM – 5:30 PM'
+    - 'Thursday: 10:00 AM – 5:30 PM'
+    - 'Friday: 10:00 AM – 5:30 PM'
+    - 'Saturday: 10:00 AM – 5:30 PM'
+    - 'Sunday: 10:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -49,24 +58,46 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_63633777544d7176563372526b347433694a37314b37784a496843"
+    venueId: ven_63633777544d7176563372526b347433694a37314b37784a496843
 tags:
-  - "washington dc"
-  - "museum"
-quickAnswer: "The Smithsonian National Museum of Natural History sits on the National Mall at 10th Street and Constitution Avenue NW in Washington DC, and it's free to enter every day from 10am to 5:30pm. It's one of the most visited museums in the country, so the calmest window is right at opening, 10am–11am, before tour groups and school buses fill the halls by noon. Plan for two to three hours to cover the dinosaurs, the Hope Diamond, and the Ocean Hall without rushing."
+  - washington dc
+  - museum
+quickAnswer: >-
+  The Smithsonian National Museum of Natural History sits on the National Mall
+  at 10th Street and Constitution Avenue NW in Washington DC, and it's free to
+  enter every day from 10am to 5:30pm. It's one of the most visited museums in
+  the country, so the calmest window is right at opening, 10am–11am, before tour
+  groups and school buses fill the halls by noon. Plan for two to three hours to
+  cover the dinosaurs, the Hope Diamond, and the Ocean Hall without rushing.
 faq:
-  - q: "Is the Smithsonian National Museum of Natural History free?"
-    a: "Yes, general admission is free every day. Some special exhibits, like the Butterfly Pavilion on non-Tuesday days, may have a small separate ticket — check at the info desk."
-  - q: "What time is the museum least crowded?"
-    a: "Data shows 10am–11am is the quietest window, both on weekdays and weekends. Avoid weekend afternoons from noon to 5pm, which are consistently the busiest."
-  - q: "How do I get there by Metro?"
-    a: "Take the Blue, Orange, or Silver line to Smithsonian station and walk about ten minutes east, or to Federal Triangle station, a block closer to the museum entrance on Constitution Avenue."
-  - q: "How long should I plan to spend inside?"
-    a: "Budget two to three hours for the highlights — Fossil Hall, Hope Diamond, and Ocean Hall. Families or those wanting a full look at every wing should allow four hours or more."
-  - q: "What's nearby if I want to combine museums?"
-    a: "The National Museum of American History and the National Gallery of Art's Sculpture Garden are both immediate neighbors on the Mall, easy to add to the same day."
+  - q: Is the Smithsonian National Museum of Natural History free?
+    a: >-
+      Yes, general admission is free every day. Some special exhibits, like the
+      Butterfly Pavilion on non-Tuesday days, may have a small separate ticket —
+      check at the info desk.
+  - q: What time is the museum least crowded?
+    a: >-
+      Data shows 10am–11am is the quietest window, both on weekdays and
+      weekends. Avoid weekend afternoons from noon to 5pm, which are
+      consistently the busiest.
+  - q: How do I get there by Metro?
+    a: >-
+      Take the Blue, Orange, or Silver line to Smithsonian station and walk
+      about ten minutes east, or to Federal Triangle station, a block closer to
+      the museum entrance on Constitution Avenue.
+  - q: How long should I plan to spend inside?
+    a: >-
+      Budget two to three hours for the highlights — Fossil Hall, Hope Diamond,
+      and Ocean Hall. Families or those wanting a full look at every wing should
+      allow four hours or more.
+  - q: What's nearby if I want to combine museums?
+    a: >-
+      The National Museum of American History and the National Gallery of Art's
+      Sculpture Garden are both immediate neighbors on the Mall, easy to add to
+      the same day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 You feel the scale of this place before you even read a label. Under the rotunda, a 13-foot African bush elephant faces the entrance, tusks curved, standing on a base that's been there since 1959. It's the kind of first impression that tells you exactly what the Smithsonian National Museum of Natural History is about: big, old, and unapologetically full of stuff.
 

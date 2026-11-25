@@ -2,7 +2,7 @@
 title: 'Perge Ancient City: Antalya Travel Guide (4.7★)'
 description: >-
   Perge is a sprawling Greco-Roman city about 18km east of Antalya, open daily
-  8am–8pm, and easily worth two to three hours. 4.7★ (8,370 reviews) — what
+  8am–8pm, and easily worth two to three hours. 4.7★ (8,653 reviews) — what
   visitors say, hours, and tips.
 country: Turkey
 region: Antalya
@@ -30,7 +30,7 @@ place:
   name: Perge Ancient City
   address: 'Barbaros, Perge Yolu, 07112 Aksu/Antalya, Türkiye'
   rating: 4.7
-  userRatingsTotal: 8370
+  userRatingsTotal: 8653
   googleMapsUrl: >-
     https://maps.google.com/?cid=14304672566204937223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -80,7 +80,7 @@ faq:
       commonly paired with Perge on Antalya day tours.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-25'
 ---
 
 ## Why Perge earns the detour

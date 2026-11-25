@@ -1,44 +1,52 @@
 ---
-title: "Bayon Temple: Siem Reap Travel Guide (4.8★)"
-description: "Bayon Temple sits at the exact center of Angkor Thom in Siem Reap, open daily 7:30am–5:30pm, and it's one of the most visited monuments in the Angkor complex — so plan around the 9am–4pm weekend crush. 4.8★ (14,729 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "hidden-gem"
-pubDate: "2026-08-24T09:43:01.903Z"
+title: 'Bayon Temple: Siem Reap Travel Guide (4.8★)'
+description: >-
+  Bayon Temple sits at the exact center of Angkor Thom in Siem Reap, open daily
+  7:30am–5:30pm, and it's one of the most visited monuments in the Angkor
+  complex — so plan around the 9am–4pm weekend crush. 4.8★ (15,110 reviews) —
+  what visitors say, hours, and tips.
+country: Cambodia
+region: Siem Reap
+category: hidden-gem
+pubDate: '2026-08-24T09:43:01.903Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/1920px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/1920px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bayon_temple_02.jpg/3840px-Bayon_temple_02.jpg"
-    credit: "Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bayon_temple_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bayon_temple_02.jpg/3840px-Bayon_temple_02.jpg
+    credit: 'Photo: Krzysztof Golik / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Bayon_temple_02.jpg'
 place:
-  id: "ChIJlTryri4UEDERY52x4bXHVqk"
-  name: "Bayon Temple"
-  address: "Krong Siem Reap, Cambodia"
+  id: ChIJlTryri4UEDERY52x4bXHVqk
+  name: Bayon Temple
+  address: 'Krong Siem Reap, Cambodia'
   rating: 4.8
-  userRatingsTotal: 14729
-  googleMapsUrl: "https://maps.google.com/?cid=12202159824396459363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15110
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12202159824396459363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.4412831
   lng: 103.85890359999999
-  phone: "+855 63 765 577"
+  phone: +855 63 765 577
   openingHours:
-    - "Monday: 7:30 AM – 5:30 PM"
-    - "Tuesday: 7:30 AM – 5:30 PM"
-    - "Wednesday: 7:30 AM – 5:30 PM"
-    - "Thursday: 7:30 AM – 5:30 PM"
-    - "Friday: 7:30 AM – 5:30 PM"
-    - "Saturday: 7:30 AM – 5:30 PM"
-    - "Sunday: 7:30 AM – 5:30 PM"
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 7:30 AM – 5:30 PM'
+    - 'Sunday: 7:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-24
+    updated: 2026-08-24T00:00:00.000Z
     weekdayBusy:
       - 10
     weekendBusy:
@@ -47,24 +55,44 @@ place:
       - 11
       - 12
       - 15
-    venueId: "ven_6b7156485862347832355952454445553469727972546c4a496843"
+    venueId: ven_6b7156485862347832355952454445553469727972546c4a496843
 tags:
-  - "siem reap"
-  - "hidden gem"
-quickAnswer: "Bayon Temple sits at the exact center of Angkor Thom in Siem Reap, open daily 7:30am–5:30pm, and it's one of the most visited monuments in the Angkor complex — so plan around the 9am–4pm weekend crush. Give it 60–90 minutes to work the upper terraces where the 200+ stone faces catch the light. Early morning or the hour before closing are your best windows for fewer crowds and softer light."
+  - siem reap
+  - hidden gem
+quickAnswer: >-
+  Bayon Temple sits at the exact center of Angkor Thom in Siem Reap, open daily
+  7:30am–5:30pm, and it's one of the most visited monuments in the Angkor
+  complex — so plan around the 9am–4pm weekend crush. Give it 60–90 minutes to
+  work the upper terraces where the 200+ stone faces catch the light. Early
+  morning or the hour before closing are your best windows for fewer crowds and
+  softer light.
 faq:
-  - q: "What are Bayon Temple's opening hours?"
-    a: "Bayon is open daily from 7:30am to 5:30pm, with no variation across the week."
-  - q: "When is the quietest time to visit Bayon?"
-    a: "Right at the 7:30am opening or in the last hour or two before the 5:30pm close. Weekends between 9am and 4pm are the busiest stretch, so avoid that window if you can."
-  - q: "Do I need a separate ticket for Bayon?"
-    a: "No — Bayon is included in the general Angkor Pass (day, three-day, or week options), bought at the official ticket center outside the Angkor park, not at the temple itself."
-  - q: "How long should I spend at Bayon?"
-    a: "Plan on 60 to 90 minutes to properly climb the upper terrace and see the face towers from multiple angles, plus the outer bas-relief galleries."
-  - q: "What else is nearby?"
-    a: "Bayon sits inside Angkor Thom, within walking distance of the Terrace of the Elephants, the Terrace of the Leper King, and Baphuon temple, all sharing the same walled city."
+  - q: What are Bayon Temple's opening hours?
+    a: >-
+      Bayon is open daily from 7:30am to 5:30pm, with no variation across the
+      week.
+  - q: When is the quietest time to visit Bayon?
+    a: >-
+      Right at the 7:30am opening or in the last hour or two before the 5:30pm
+      close. Weekends between 9am and 4pm are the busiest stretch, so avoid that
+      window if you can.
+  - q: Do I need a separate ticket for Bayon?
+    a: >-
+      No — Bayon is included in the general Angkor Pass (day, three-day, or week
+      options), bought at the official ticket center outside the Angkor park,
+      not at the temple itself.
+  - q: How long should I spend at Bayon?
+    a: >-
+      Plan on 60 to 90 minutes to properly climb the upper terrace and see the
+      face towers from multiple angles, plus the outer bas-relief galleries.
+  - q: What else is nearby?
+    a: >-
+      Bayon sits inside Angkor Thom, within walking distance of the Terrace of
+      the Elephants, the Terrace of the Leper King, and Baphuon temple, all
+      sharing the same walled city.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 ## Why Bayon stops people mid-step

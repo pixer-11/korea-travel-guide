@@ -1,27 +1,38 @@
 ---
-title: "Wat Phra Si Sanphet: Ayutthaya Travel Guide (4.7★)"
-description: Wat Phra Si Sanphet is the three-chedi silhouette you've likely already seen in every Ayutthaya photo — the ceremonial heart of the old royal palace, now a wide field of brick ruins on the edge of Ayutthaya's historic island. 4.7★ (13,669 reviews) — what visitors say, hours, and tips.
+title: 'Wat Phra Si Sanphet: Ayutthaya Travel Guide (4.7★)'
+description: >-
+  Wat Phra Si Sanphet is the three-chedi silhouette you've likely already seen
+  in every Ayutthaya photo — the ceremonial heart of the old royal palace, now a
+  wide field of brick ruins on the edge of Ayutthaya's historic island. 4.7★
+  (13,880 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Ayutthaya
 category: attraction
-pubDate: "2026-08-05T11:48:18.034Z"
+pubDate: '2026-08-05T11:48:18.034Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Three_Chedi%28s%29_of_Wat_Phra_Si_Sanphet.jpg/1920px-Three_Chedi%28s%29_of_Wat_Phra_Si_Sanphet.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Three_Chedi%28s%29_of_Wat_Phra_Si_Sanphet.jpg/1920px-Three_Chedi%28s%29_of_Wat_Phra_Si_Sanphet.jpg
   credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Three_Chedi(s)_of_Wat_Phra_Si_Sanphet.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Three_Chedi(s)_of_Wat_Phra_Si_Sanphet.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Templo_Phra_Si_Sanphet%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg/3840px-Templo_Phra_Si_Sanphet%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Templo_Phra_Si_Sanphet%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg/3840px-Templo_Phra_Si_Sanphet%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_10.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Templo_Phra_Si_Sanphet,_Ayutthaya,_Tailandia,_2013-08-23,_DD_10.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Templo_Phra_Si_Sanphet,_Ayutthaya,_Tailandia,_2013-08-23,_DD_10.jpg
 place:
   id: ChIJ4dTQxkZ04jARljZU5XA_yr0
   name: Wat Phra Si Sanphet
-  address: Pratu Chai Sub-district, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand
+  address: >-
+    Pratu Chai Sub-district, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si
+    Ayutthaya 13000, Thailand
   rating: 4.7
-  userRatingsTotal: 13669
-  googleMapsUrl: https://maps.google.com/?cid=13675812972580320918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 13880
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13675812972580320918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 14.3558722
   lng: 100.5580695
@@ -43,31 +54,54 @@ place:
       - 16
     venueId: ven_3072795f415835555a6a6c52416a34305a6b78515464344a496843
   openingHours:
-    - "Monday: 8:00 AM – 6:30 PM"
-    - "Tuesday: 8:00 AM – 6:30 PM"
-    - "Wednesday: 8:00 AM – 6:30 PM"
-    - "Thursday: 8:00 AM – 6:30 PM"
-    - "Friday: 8:00 AM – 6:30 PM"
-    - "Saturday: 8:00 AM – 6:30 PM"
-    - "Sunday: 8:00 AM – 6:30 PM"
+    - 'Monday: 8:00 AM – 6:30 PM'
+    - 'Tuesday: 8:00 AM – 6:30 PM'
+    - 'Wednesday: 8:00 AM – 6:30 PM'
+    - 'Thursday: 8:00 AM – 6:30 PM'
+    - 'Friday: 8:00 AM – 6:30 PM'
+    - 'Saturday: 8:00 AM – 6:30 PM'
+    - 'Sunday: 8:00 AM – 6:30 PM'
 tags:
   - ayutthaya
   - historic site
-quickAnswer: Wat Phra Si Sanphet is the three-chedi silhouette you've likely already seen in every Ayutthaya photo — the ceremonial heart of the old royal palace, now a wide field of brick ruins on the edge of Ayutthaya's historic island. Give it 45–60 minutes, come right at opening or after mid-afternoon to dodge tour buses, and pair it with the nearby Wihan Phra Mongkhon Bophit next door. Weekends get busiest between 10am and 5pm, so aim outside that window even though the site technically runs 8am to 6:30pm daily.
+quickAnswer: >-
+  Wat Phra Si Sanphet is the three-chedi silhouette you've likely already seen
+  in every Ayutthaya photo — the ceremonial heart of the old royal palace, now a
+  wide field of brick ruins on the edge of Ayutthaya's historic island. Give it
+  45–60 minutes, come right at opening or after mid-afternoon to dodge tour
+  buses, and pair it with the nearby Wihan Phra Mongkhon Bophit next door.
+  Weekends get busiest between 10am and 5pm, so aim outside that window even
+  though the site technically runs 8am to 6:30pm daily.
 faq:
   - q: How much time should I budget for Wat Phra Si Sanphet?
-    a: Plan on 45–60 minutes to walk the platform, view all three chedis from multiple angles, and read the site markers. Add extra time if you're combining it with the adjacent Wihan Phra Mongkhon Bophit.
+    a: >-
+      Plan on 45–60 minutes to walk the platform, view all three chedis from
+      multiple angles, and read the site markers. Add extra time if you're
+      combining it with the adjacent Wihan Phra Mongkhon Bophit.
   - q: When is the quietest time to visit?
-    a: The site is calmer throughout its 8am–6:30pm hours on both weekdays and weekends compared to the 10am–5pm weekend window, when day-trip crowds from Bangkok peak. Arriving near opening or after 5pm on weekends is your best bet for space to yourself.
+    a: >-
+      The site is calmer throughout its 8am–6:30pm hours on both weekdays and
+      weekends compared to the 10am–5pm weekend window, when day-trip crowds
+      from Bangkok peak. Arriving near opening or after 5pm on weekends is your
+      best bet for space to yourself.
   - q: How do I get to Wat Phra Si Sanphet from Bangkok?
-    a: Take a train or minivan to Ayutthaya (about 75–90 minutes), then a tuk-tuk or rented bicycle across to the historic island where the temple sits, a 15–20 minute ride from the town center near the train station.
+    a: >-
+      Take a train or minivan to Ayutthaya (about 75–90 minutes), then a tuk-tuk
+      or rented bicycle across to the historic island where the temple sits, a
+      15–20 minute ride from the town center near the train station.
   - q: What should I wear?
-    a: Cover your shoulders and knees — this was a royal temple site and modest dress is expected. Wear shoes that slip off easily, as some areas may require bare feet.
+    a: >-
+      Cover your shoulders and knees — this was a royal temple site and modest
+      dress is expected. Wear shoes that slip off easily, as some areas may
+      require bare feet.
   - q: What else is nearby worth combining with this visit?
-    a: Wihan Phra Mongkhon Bophit sits right next door with a large seated Buddha, and Wat Mahathat and Wat Ratchaburana are both a short bike or tuk-tuk ride away within Ayutthaya Historic Park.
+    a: >-
+      Wihan Phra Mongkhon Bophit sits right next door with a large seated
+      Buddha, and Wat Mahathat and Wat Ratchaburana are both a short bike or
+      tuk-tuk ride away within Ayutthaya Historic Park.
 aiGenerated: true
 draft: false
-updatedDate: "2026-08-28"
+updatedDate: '2026-11-25'
 ---
 You see the three chedis before you see anything else. They rise in a line above the treetops as you approach from Naresuan Road, bell-shaped and the color of old terracotta, and it's only once you're through the gate and standing on the open field of the former palace grounds that you understand the scale of what's left. There's no roof, no walls to speak of, just brick platforms, headless Buddha images, and stubs of columns that once held up a royal residence.
 

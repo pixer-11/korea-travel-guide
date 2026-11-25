@@ -1,44 +1,50 @@
 ---
-title: "Banteay Srei Temple: Siem Reap Travel Guide (4.8★)"
-description: "Banteay Srei Temple sits about 25–30km northeast of central Siem Reap, inside the wider Angkor Archaeological Park, and is open daily from 7:30am to 5:30pm. 4.8★ (2,109 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "attraction"
-pubDate: "2026-08-26T09:40:19.139Z"
+title: 'Banteay Srei Temple: Siem Reap Travel Guide (4.8★)'
+description: >-
+  Banteay Srei Temple sits about 25–30km northeast of central Siem Reap, inside
+  the wider Angkor Archaeological Park, and is open daily from 7:30am to 5:30pm.
+  4.8★ (2,161 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Siem Reap
+category: attraction
+pubDate: '2026-08-26T09:40:19.139Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cambodge_Banteay_Srei_Temple_%282%29.jpg/3840px-Cambodge_Banteay_Srei_Temple_%282%29.jpg"
-  credit: "Photo: PIERRE ANDRE LECLERCQ / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cambodge_Banteay_Srei_Temple_(2).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cambodge_Banteay_Srei_Temple_%282%29.jpg/3840px-Cambodge_Banteay_Srei_Temple_%282%29.jpg
+  credit: 'Photo: PIERRE ANDRE LECLERCQ / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cambodge_Banteay_Srei_Temple_(2).jpg'
+  via: act
   focus:
     x: 60
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/8480041_yq1r4k4mKKcjWYUgDBqBDBeU2hOw4Qr5wZwL61vHCQk.jpg"
-    credit: "Photo: Foursquare user content (Banteay Srei Temple ប្រាសាទបន្ទាយស្រី)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4cbd3080035d236ae2bce94e"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/8480041_yq1r4k4mKKcjWYUgDBqBDBeU2hOw4Qr5wZwL61vHCQk.jpg
+    credit: 'Photo: Foursquare user content (Banteay Srei Temple ប្រាសាទបន្ទាយស្រី)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4cbd3080035d236ae2bce94e'
 place:
-  id: "ChIJ_____z8XEDERODe6EFMp_cA"
-  name: "Banteay Srei Temple"
-  address: "Angkor Archaeological Park, Siem Reap 17000, Cambodia"
+  id: ChIJ_____z8XEDERODe6EFMp_cA
+  name: Banteay Srei Temple
+  address: 'Angkor Archaeological Park, Siem Reap 17000, Cambodia'
   rating: 4.8
-  userRatingsTotal: 2109
-  googleMapsUrl: "https://maps.google.com/?cid=13906316661129623352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2161
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13906316661129623352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.5989088
   lng: 103.9630098
   openingHours:
-    - "Monday: 7:30 AM – 5:30 PM"
-    - "Tuesday: 7:30 AM – 5:30 PM"
-    - "Wednesday: 7:30 AM – 5:30 PM"
-    - "Thursday: 7:30 AM – 5:30 PM"
-    - "Friday: 7:30 AM – 5:30 PM"
-    - "Saturday: 7:30 AM – 5:30 PM"
-    - "Sunday: 7:30 AM – 5:30 PM"
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 7:30 AM – 5:30 PM'
+    - 'Sunday: 7:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 16
@@ -53,24 +59,46 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_41635f704d46453665444f5245444558387a5f5f5f5f5f4a496843"
+    venueId: ven_41635f704d46453665444f5245444558387a5f5f5f5f5f4a496843
 tags:
-  - "siem reap"
-  - "Banteay Srei"
-quickAnswer: "Banteay Srei Temple sits about 25–30km northeast of central Siem Reap, inside the wider Angkor Archaeological Park, and is open daily from 7:30am to 5:30pm. It's busiest on weekends between 9am and 4pm, so aim for a weekday visit — the whole site is quietest from 8am to 9am and 4pm to 5pm on weekdays, and busiest from 10am to 12pm. Budget 45 minutes to an hour for the carvings alone, and pair it with a stop at Banteay Samre or the Cambodia Landmine Museum on the same drive."
+  - siem reap
+  - Banteay Srei
+quickAnswer: >-
+  Banteay Srei Temple sits about 25–30km northeast of central Siem Reap, inside
+  the wider Angkor Archaeological Park, and is open daily from 7:30am to 5:30pm.
+  It's busiest on weekends between 9am and 4pm, so aim for a weekday visit — the
+  whole site is quietest from 8am to 9am and 4pm to 5pm on weekdays, and busiest
+  from 10am to 12pm. Budget 45 minutes to an hour for the carvings alone, and
+  pair it with a stop at Banteay Samre or the Cambodia Landmine Museum on the
+  same drive.
 faq:
-  - q: "How do I get to Banteay Srei Temple from Siem Reap?"
-    a: "It's about 25–30km northeast of town, roughly a 40–50 minute drive by tuk-tuk or car. Most visitors hire a driver for a half-day round trip, often combined with Banteay Samre or Pre Rup."
-  - q: "What ticket do I need for Banteay Srei?"
-    a: "It's included in the standard Angkor Archaeological Park pass (1-day, 3-day, or 7-day), bought at the official ticket center before you head out. There's no separate ticket for this temple."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calmest from 8am to 9am and 4pm to 5pm; 10am to 12pm is the busiest weekday stretch. Weekends get busiest between 9am and 4pm, so avoid that window if possible."
-  - q: "How long should I spend at Banteay Srei?"
-    a: "Plan on 45 minutes to an hour. It's a small site, but the carvings reward slow, close-up looking rather than a quick walkthrough."
-  - q: "What's nearby worth combining with the visit?"
-    a: "Banteay Samre, Pre Rup, and the Cambodia Landmine Museum all sit along the same road back toward Siem Reap and pair well with a Banteay Srei half-day trip."
+  - q: How do I get to Banteay Srei Temple from Siem Reap?
+    a: >-
+      It's about 25–30km northeast of town, roughly a 40–50 minute drive by
+      tuk-tuk or car. Most visitors hire a driver for a half-day round trip,
+      often combined with Banteay Samre or Pre Rup.
+  - q: What ticket do I need for Banteay Srei?
+    a: >-
+      It's included in the standard Angkor Archaeological Park pass (1-day,
+      3-day, or 7-day), bought at the official ticket center before you head
+      out. There's no separate ticket for this temple.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calmest from 8am to 9am and 4pm to 5pm; 10am to 12pm is the
+      busiest weekday stretch. Weekends get busiest between 9am and 4pm, so
+      avoid that window if possible.
+  - q: How long should I spend at Banteay Srei?
+    a: >-
+      Plan on 45 minutes to an hour. It's a small site, but the carvings reward
+      slow, close-up looking rather than a quick walkthrough.
+  - q: What's nearby worth combining with the visit?
+    a: >-
+      Banteay Samre, Pre Rup, and the Cambodia Landmine Museum all sit along the
+      same road back toward Siem Reap and pair well with a Banteay Srei half-day
+      trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 ## Why Banteay Srei stands apart
 

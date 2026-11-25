@@ -1,40 +1,45 @@
 ---
-title: "Royal Palace of Turin: Travel Guide (4.8★)"
-description: "The Royal Palace of Turin (Palazzo Reale di Torino) sits on Piazzetta Reale in the heart of Turin, right next to the Cathedral and Museo Egizio. 4.8★ (11,793 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Turin"
-category: "attraction"
-pubDate: "2026-08-26T08:14:37.396Z"
+title: 'Royal Palace of Turin: Travel Guide (4.8★)'
+description: >-
+  The Royal Palace of Turin (Palazzo Reale di Torino) sits on Piazzetta Reale in
+  the heart of Turin, right next to the Cathedral and Museo Egizio. 4.8★ (12,326
+  reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Turin
+category: attraction
+pubDate: '2026-08-26T08:14:37.396Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Torino_-_Palazzo_Reale_-_1.jpg/1920px-Torino_-_Palazzo_Reale_-_1.jpg"
-  credit: "Photo: Benjamin Smith / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Torino_-_Palazzo_Reale_-_1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Torino_-_Palazzo_Reale_-_1.jpg/1920px-Torino_-_Palazzo_Reale_-_1.jpg
+  credit: 'Photo: Benjamin Smith / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Torino_-_Palazzo_Reale_-_1.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJC-rXcnBtiEcRjK-icXN-bd8"
-  name: "Royal Palace of Turin"
-  address: "Piazzetta Reale, 1, 10122 Torino TO, Italy"
+  id: ChIJC-rXcnBtiEcRjK-icXN-bd8
+  name: Royal Palace of Turin
+  address: 'Piazzetta Reale, 1, 10122 Torino TO, Italy'
   rating: 4.8
-  userRatingsTotal: 11793
-  googleMapsUrl: "https://maps.google.com/?cid=16099663277212217228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12326
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16099663277212217228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.0728337
   lng: 7.686331699999999
-  phone: "+39 011 521 1106"
+  phone: +39 011 521 1106
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendBusy:
@@ -47,24 +52,38 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_3864622d4e5863692d4b6a5263456974426e6358722d434a496843"
+    venueId: ven_3864622d4e5863692d4b6a5263456974426e6358722d434a496843
 tags:
-  - "turin"
-  - "historic site"
-quickAnswer: "The Royal Palace of Turin (Palazzo Reale di Torino) sits on Piazzetta Reale in the heart of Turin, right next to the Cathedral and Museo Egizio. It's open daily 9am–7pm except Wednesdays, and the calmest window is 9am–10am on weekdays — weekends stay busy from 10am straight through closing. Budget at least 90 minutes for the state apartments, armory and gardens."
+  - turin
+  - historic site
+quickAnswer: >-
+  The Royal Palace of Turin (Palazzo Reale di Torino) sits on Piazzetta Reale in
+  the heart of Turin, right next to the Cathedral and Museo Egizio. It's open
+  daily 9am–7pm except Wednesdays, and the calmest window is 9am–10am on
+  weekdays — weekends stay busy from 10am straight through closing. Budget at
+  least 90 minutes for the state apartments, armory and gardens.
 faq:
-  - q: "How long should I spend at the Royal Palace of Turin?"
-    a: "Plan for 90 minutes to two hours to cover the state apartments, armory, and Royal Gardens without rushing."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 10am, right at opening, are consistently the calmest. Weekends stay busy from 10am through closing at 7pm."
-  - q: "Is the Royal Palace of Turin closed any day of the week?"
-    a: "Yes, it's closed all day Wednesday. Every other day it runs 9am to 7pm."
-  - q: "How do I get to the Royal Palace of Turin without a car?"
-    a: "Walk about five minutes from Porta Nuova station or ten minutes from Porta Susa metro station, or take tram 4, 13, 15 or 18 to Piazza Castello."
-  - q: "What's nearby that I can combine with the visit?"
-    a: "The Cathedral of San Giovanni Battista (Shroud of Turin chapel) and the Museo Egizio are both within a short walk of Piazzetta Reale."
+  - q: How long should I spend at the Royal Palace of Turin?
+    a: >-
+      Plan for 90 minutes to two hours to cover the state apartments, armory,
+      and Royal Gardens without rushing.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 10am, right at opening, are consistently the
+      calmest. Weekends stay busy from 10am through closing at 7pm.
+  - q: Is the Royal Palace of Turin closed any day of the week?
+    a: 'Yes, it''s closed all day Wednesday. Every other day it runs 9am to 7pm.'
+  - q: How do I get to the Royal Palace of Turin without a car?
+    a: >-
+      Walk about five minutes from Porta Nuova station or ten minutes from Porta
+      Susa metro station, or take tram 4, 13, 15 or 18 to Piazza Castello.
+  - q: What's nearby that I can combine with the visit?
+    a: >-
+      The Cathedral of San Giovanni Battista (Shroud of Turin chapel) and the
+      Museo Egizio are both within a short walk of Piazzetta Reale.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 ## Why go

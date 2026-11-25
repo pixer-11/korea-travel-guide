@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: turin-royal-palace-of-turin
-srcHash: '503c6a28bcea'
+srcHash: '5d4a7c493719'
 title: 'Palacio Real de Turín: Guía de Viaje (4,8★)'
-description: 'El Palacio Real de Turín (Palazzo Reale di Torino) se encuentra en la Piazzetta Reale, en pleno centro de Turín, justo al lado de la Catedral y del Museo Egipcio. 4,8★ (11.793 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Palacio Real de Turín (Palazzo Reale di Torino) se encuentra en la Piazzetta Reale, en pleno centro de Turín, justo al lado de la Catedral y del Museo Egipcio. 4,8★ (12.326 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Palacio Real de Turín (Palazzo Reale di Torino) se encuentra en la Piazzetta Reale, en pleno centro de Turín, justo al lado de la Catedral y del Museo Egipcio. Abre todos los días de 9:00 a 19:00, salvo los miércoles, y el momento más tranquilo para visitarlo es entre las 9:00 y las 10:00 de la mañana en días de semana, ya que los fines de semana el flujo de gente se mantiene constante desde las 10:00 hasta el cierre. Conviene reservar al menos 90 minutos para recorrer los apartamentos reales, la armería y los jardines.
 faq:
   - q: ¿Cuánto tiempo hay que dedicar al Palacio Real de Turín?

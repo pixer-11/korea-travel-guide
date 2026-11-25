@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: siem-reap-ta-prohm-temple
-srcHash: 'b3b332f6919c'
+srcHash: '8e39a2089c02'
 title: 'Templo de Ta Prohm: Guía de viaje de Siem Reap (4,8★)'
-description: 'El templo de Ta Prohm, en Siem Reap, es la ruina devorada por la selva que hizo famosa Tomb Raider; abre todos los días de 7:30 a 17:30 y está incluido en el pase del Parque Arqueológico de Angkor. 4,8★ (14.411 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El templo de Ta Prohm, en Siem Reap, es la ruina devorada por la selva que hizo famosa Tomb Raider; abre todos los días de 7:30 a 17:30 y está incluido en el pase del Parque Arqueológico de Angkor. 4,8★ (14.835 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El templo de Ta Prohm, en Siem Reap, es la ruina devorada por la selva que hizo famosa Tomb Raider, y abre todos los días de 7:30 a 17:30 dentro del pase del Parque Arqueológico de Angkor. Es un lugar muy popular, así que conviene ir a primera hora de la mañana o al final de la tarde para evitar lo peor de las multitudes de autobuses turísticos. Reserva entre 45 y 60 minutos para recorrer sus pasillos derrumbados y fotografiar las raíces de las ceibas y los ficus estranguladores.
 faq:
   - q: ¿Cuánto tiempo debería reservar para visitar Ta Prohm?

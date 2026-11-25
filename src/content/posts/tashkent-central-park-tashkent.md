@@ -1,45 +1,53 @@
 ---
-title: "Central Park: Tashkent Travel Guide (4.7★)"
-description: "Central Park Tashkent (formerly the Mirzo Ulugbek/Telman park) is a leafy amusement and recreation park on Movarounnahr Street, open daily 10am–11pm. 4.7★ (932 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Tashkent"
-category: "attraction"
-pubDate: "2026-08-23T08:13:55.300Z"
+title: 'Central Park: Tashkent Travel Guide (4.7★)'
+description: >-
+  Central Park Tashkent (formerly the Mirzo Ulugbek/Telman park) is a leafy
+  amusement and recreation park on Movarounnahr Street, open daily 10am–11pm.
+  4.7★ (972 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Tashkent
+category: attraction
+pubDate: '2026-08-23T08:13:55.300Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Central_Park_Tashkent.jpg/3840px-Central_Park_Tashkent.jpg"
-  credit: "Photo: Muzaffar Murodovich / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Central_Park_Tashkent.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Central_Park_Tashkent.jpg/3840px-Central_Park_Tashkent.jpg
+  credit: 'Photo: Muzaffar Murodovich / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Central_Park_Tashkent.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/3410840_Kp3M6suIg4f_DjmyFuZJl3hxTIvH0mP0d-sw6ff_TDI.jpg"
-    credit: "Photo: Foursquare user content (Azara In Central Park)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/60d3692aeb2fdf243c49e3c8"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/3410840_Kp3M6suIg4f_DjmyFuZJl3hxTIvH0mP0d-sw6ff_TDI.jpg
+    credit: 'Photo: Foursquare user content (Azara In Central Park)'
+    license: foursquare
+    source: 'https://foursquare.com/v/60d3692aeb2fdf243c49e3c8'
 place:
-  id: "ChIJ8etOdRH1rjgRqS5E-f2Wlqk"
-  name: "Central Park Tashkent"
-  address: "21, Movarounnahr Street бывш. парк культуры и отдыха им. Мирзо Улугбека (парк Тельмана, Тоshkent, Toshkent, Uzbekistan"
+  id: ChIJ8etOdRH1rjgRqS5E-f2Wlqk
+  name: Central Park Tashkent
+  address: >-
+    21, Movarounnahr Street бывш. парк культуры и отдыха им. Мирзо Улугбека
+    (парк Тельмана, Тоshkent, Toshkent, Uzbekistan
   rating: 4.7
-  userRatingsTotal: 932
-  googleMapsUrl: "https://maps.google.com/?cid=12220120656469307049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 972
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12220120656469307049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.3135675
   lng: 69.29770870000002
-  phone: "+998 71 237 23 79"
+  phone: +998 71 237 23 79
   openingHours:
-    - "Monday: 10:00 AM – 11:00 PM"
-    - "Tuesday: 10:00 AM – 11:00 PM"
-    - "Wednesday: 10:00 AM – 11:00 PM"
-    - "Thursday: 10:00 AM – 11:00 PM"
-    - "Friday: 10:00 AM – 11:00 PM"
-    - "Saturday: 10:00 AM – 11:00 PM"
-    - "Sunday: 10:00 AM – 11:00 PM"
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-23
+    updated: 2026-08-23T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -58,24 +66,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b716c5732662d4535537152676a72314852644f7465384a496843"
+    venueId: ven_6b716c5732662d4535537152676a72314852644f7465384a496843
 tags:
-  - "tashkent"
-  - "night view"
-quickAnswer: "Central Park Tashkent (formerly the Mirzo Ulugbek/Telman park) is a leafy amusement and recreation park on Movarounnahr Street, open daily 10am–11pm. It's a quieter, under-the-radar choice compared to Tashkent's bigger attractions, with the calmest hours on weekdays 10am–12pm and weekend mornings 11am–12pm. Budget two to three hours for rides, a lakeside walk, and an evening stroll once the fountains light up."
+  - tashkent
+  - night view
+quickAnswer: >-
+  Central Park Tashkent (formerly the Mirzo Ulugbek/Telman park) is a leafy
+  amusement and recreation park on Movarounnahr Street, open daily 10am–11pm.
+  It's a quieter, under-the-radar choice compared to Tashkent's bigger
+  attractions, with the calmest hours on weekdays 10am–12pm and weekend mornings
+  11am–12pm. Budget two to three hours for rides, a lakeside walk, and an
+  evening stroll once the fountains light up.
 faq:
-  - q: "What are the opening hours for Central Park Tashkent?"
-    a: "It's open daily from 10:00 AM to 11:00 PM, with no weekly closing day, so evenings and mornings are both options."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 10am and 12pm are calmest, followed by weekend mornings from 11am to 4pm. Avoid weekends from 2pm to 11pm, when it's busiest."
-  - q: "How do I get to Central Park Tashkent?"
-    a: "It's located on Movarounnahr Street; the easiest way in is a taxi or ride-hailing app like Yandex Go from central Tashkent, since exact fares are shown upfront."
-  - q: "How long should I spend there?"
-    a: "Plan on two to three hours to cover a few rides, a lakeside walk or paddle boat, and time to relax on the perimeter paths."
-  - q: "Is it worth visiting if I'm short on time in Tashkent?"
-    a: "It's a good add-on rather than a must-see headline stop — best for travelers who want a slower, greener side of the city away from the main historic sites."
+  - q: What are the opening hours for Central Park Tashkent?
+    a: >-
+      It's open daily from 10:00 AM to 11:00 PM, with no weekly closing day, so
+      evenings and mornings are both options.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 10am and 12pm are calmest, followed by weekend mornings
+      from 11am to 4pm. Avoid weekends from 2pm to 11pm, when it's busiest.
+  - q: How do I get to Central Park Tashkent?
+    a: >-
+      It's located on Movarounnahr Street; the easiest way in is a taxi or
+      ride-hailing app like Yandex Go from central Tashkent, since exact fares
+      are shown upfront.
+  - q: How long should I spend there?
+    a: >-
+      Plan on two to three hours to cover a few rides, a lakeside walk or paddle
+      boat, and time to relax on the perimeter paths.
+  - q: Is it worth visiting if I'm short on time in Tashkent?
+    a: >-
+      It's a good add-on rather than a must-see headline stop — best for
+      travelers who want a slower, greener side of the city away from the main
+      historic sites.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 ## Why go

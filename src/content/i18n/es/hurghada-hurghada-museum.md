@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hurghada-hurghada-museum
-srcHash: '721a2dbb230e'
+srcHash: '9f02480b9f70'
 title: 'Museo de Hurghada: guía de viaje (4.4★)'
-description: El Museo de Hurghada, situado en El-Nasr, es el museo de antigüedades de esta ciudad turística y reúne piezas egipcias que abarcan desde la época faraónica hasta la islámica. Con una valoración de 4.4★ (1,961 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: El Museo de Hurghada, situado en El-Nasr, es el museo de antigüedades de esta ciudad turística y reúne piezas egipcias que abarcan desde la época faraónica hasta la islámica. Con una valoración de 4.4★ (1,962 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En El-Nasr, en Hurghada, se encuentra el museo de antigüedades de esta ciudad turística, cuyas piezas recorren la historia de Egipto desde la época faraónica hasta la islámica. Actualmente abre en dos turnos diarios, de 10am a 1pm y de 5 a 10pm. Los fines de semana, la franja más tranquila es la de 9pm a 10pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Hurghada?

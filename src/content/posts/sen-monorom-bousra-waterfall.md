@@ -1,41 +1,46 @@
 ---
-title: "Bousra Waterfall: Sen Monorom Travel Guide (4.5★)"
-description: "Bousra Waterfall, in Pech Chreada district about an hour from Sen Monorom, is Mondulkiri province's famous triple-tier falls with multiple viewing platforms. 4.5★ (1,749 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Sen Monorom"
-category: "hidden-gem"
-pubDate: "2026-08-24T09:40:19.583Z"
+title: 'Bousra Waterfall: Sen Monorom Travel Guide (4.5★)'
+description: >-
+  Bousra Waterfall, in Pech Chreada district about an hour from Sen Monorom, is
+  Mondulkiri province's famous triple-tier falls with multiple viewing
+  platforms. 4.5★ (1,804 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Sen Monorom
+category: hidden-gem
+pubDate: '2026-08-24T09:40:19.583Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bousra_Waterfall.jpg/3840px-Bousra_Waterfall.jpg"
-  credit: "Photo: Kiensvay / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bousra_Waterfall.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bousra_Waterfall.jpg/3840px-Bousra_Waterfall.jpg
+  credit: 'Photo: Kiensvay / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bousra_Waterfall.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJkYnca71dcjERQwcghDV9ilY"
-  name: "Bousra Waterfall"
-  address: "HC89+JH9, Pech Chreada, Cambodia"
+  id: ChIJkYnca71dcjERQwcghDV9ilY
+  name: Bousra Waterfall
+  address: 'HC89+JH9, Pech Chreada, Cambodia'
   rating: 4.5
-  userRatingsTotal: 1749
-  googleMapsUrl: "https://maps.google.com/?cid=6235934302851303235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1804
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6235934302851303235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.566545399999999
   lng: 107.418987
-  phone: "+855 16 321 135"
+  phone: +855 16 321 135
   openingHours:
-    - "Monday: 7:00 AM – 5:00 PM"
-    - "Tuesday: 7:00 AM – 5:00 PM"
-    - "Wednesday: 7:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 5:00 PM"
-    - "Friday: 7:00 AM – 5:00 PM"
-    - "Saturday: 7:00 AM – 5:00 PM"
-    - "Sunday: 7:00 AM – 5:00 PM"
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-24
+    updated: 2026-08-24T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -49,24 +54,41 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_596c69395644686763775152456a6364313761636e596b4a496843"
+    venueId: ven_596c69395644686763775152456a6364313761636e596b4a496843
 tags:
-  - "sen monorom"
-  - "hidden gem"
-quickAnswer: "Bousra Waterfall, in Pech Chreada district about an hour from Sen Monorom, is Mondulkiri province's famous triple-tier falls with multiple viewing platforms. It's open daily 7am–5pm; go right at opening between 7am and 9am to beat the tour-group crush that builds from 10am to 4pm on weekends. Budget half a day, including the bumpy drive out and back."
+  - sen monorom
+  - hidden gem
+quickAnswer: >-
+  Bousra Waterfall, in Pech Chreada district about an hour from Sen Monorom, is
+  Mondulkiri province's famous triple-tier falls with multiple viewing
+  platforms. It's open daily 7am–5pm; go right at opening between 7am and 9am to
+  beat the tour-group crush that builds from 10am to 4pm on weekends. Budget
+  half a day, including the bumpy drive out and back.
 faq:
-  - q: "How far is Bousra Waterfall from Sen Monorom?"
-    a: "About 40 kilometers, roughly an hour's drive northeast into Pech Chreada district, mostly on dirt roads for the final stretch."
-  - q: "What's the quietest time to visit?"
-    a: "Between 7am and 9am, both on weekdays and weekends. Weekends get busy from 10am to 4pm as tour groups arrive, so aim to arrive right at opening."
-  - q: "Can you swim at Bousra Waterfall?"
-    a: "Yes, mainly in the lower pool near the second tier, though currents can be stronger than they appear, so stick to designated swimming areas."
-  - q: "How long should I plan to spend there?"
-    a: "At least an hour at the falls, plus travel time. Many visitors turn it into a half-day trip by combining it with a nearby Bunong village or coffee plantation stop."
-  - q: "Do I need a car or can I get there by public transport?"
-    a: "There's no public transport to Bousra. You'll need a rented scooter, a hired tuk-tuk, or a private car arranged through a Sen Monorom guesthouse."
+  - q: How far is Bousra Waterfall from Sen Monorom?
+    a: >-
+      About 40 kilometers, roughly an hour's drive northeast into Pech Chreada
+      district, mostly on dirt roads for the final stretch.
+  - q: What's the quietest time to visit?
+    a: >-
+      Between 7am and 9am, both on weekdays and weekends. Weekends get busy from
+      10am to 4pm as tour groups arrive, so aim to arrive right at opening.
+  - q: Can you swim at Bousra Waterfall?
+    a: >-
+      Yes, mainly in the lower pool near the second tier, though currents can be
+      stronger than they appear, so stick to designated swimming areas.
+  - q: How long should I plan to spend there?
+    a: >-
+      At least an hour at the falls, plus travel time. Many visitors turn it
+      into a half-day trip by combining it with a nearby Bunong village or
+      coffee plantation stop.
+  - q: Do I need a car or can I get there by public transport?
+    a: >-
+      There's no public transport to Bousra. You'll need a rented scooter, a
+      hired tuk-tuk, or a private car arranged through a Sen Monorom guesthouse.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 ## Why Bousra Waterfall is worth the drive

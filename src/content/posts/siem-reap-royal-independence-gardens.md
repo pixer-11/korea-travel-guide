@@ -1,44 +1,52 @@
 ---
-title: "Royal Independence Gardens: Siem Reap Travel Guide (4.4★)"
-description: "Royal Independence Gardens is a public park on National Route 6 (Airport Road) in Siem Reap, open 24 hours and free to enter. 4.4★ (2,951 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "attraction"
-pubDate: "2026-08-27T18:20:49.553Z"
+title: 'Royal Independence Gardens: Siem Reap Travel Guide (4.4★)'
+description: >-
+  Royal Independence Gardens is a public park on National Route 6 (Airport Road)
+  in Siem Reap, open 24 hours and free to enter. 4.4★ (2,990 reviews) — what
+  visitors say, hours, and tips.
+country: Cambodia
+region: Siem Reap
+category: attraction
+pubDate: '2026-08-27T18:20:49.553Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Royal_Independence_Gardens_Siem_Reap.jpg/3840px-Royal_Independence_Gardens_Siem_Reap.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Royal_Independence_Gardens_Siem_Reap.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Royal_Independence_Gardens_Siem_Reap.jpg/3840px-Royal_Independence_Gardens_Siem_Reap.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Royal_Independence_Gardens_Siem_Reap.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Royal_Independence_Gardens%2C_Siem_Reap.jpg/3840px-Royal_Independence_Gardens%2C_Siem_Reap.jpg"
-    credit: "Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Royal_Independence_Gardens,_Siem_Reap.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Royal_Independence_Gardens%2C_Siem_Reap.jpg/3840px-Royal_Independence_Gardens%2C_Siem_Reap.jpg
+    credit: 'Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Royal_Independence_Gardens,_Siem_Reap.jpg
 place:
-  id: "ChIJbz-iUXIXEDERYAx1nWB4JE4"
-  name: "Royal Independence Gardens"
-  address: "ផ្លូវជាតិលេខ 6, National Route 6 (Airport Road), Krong Siem Reap, Cambodia"
+  id: ChIJbz-iUXIXEDERYAx1nWB4JE4
+  name: Royal Independence Gardens
+  address: 'ផ្លូវជាតិលេខ 6, National Route 6 (Airport Road), Krong Siem Reap, Cambodia'
   rating: 4.4
-  userRatingsTotal: 2951
-  googleMapsUrl: "https://maps.google.com/?cid=5630757790473849952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2990
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5630757790473849952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.362942499999999
   lng: 103.8596448
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-27
+    updated: 2026-08-27T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -52,24 +60,41 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_34454a3442576e317841595245444558495855692d7a624a496843"
+    venueId: ven_34454a3442576e317841595245444558495855692d7a624a496843
 tags:
-  - "siem reap"
-  - "park"
-quickAnswer: "Royal Independence Gardens is a public park on National Route 6 (Airport Road) in Siem Reap, open 24 hours and free to enter. It's best visited in the cooler early morning or after sunset, since weekends get busiest between 4pm and 10pm when locals arrive for evening walks. Give it 30-45 minutes on your way between the airport and downtown or Angkor."
+  - siem reap
+  - park
+quickAnswer: >-
+  Royal Independence Gardens is a public park on National Route 6 (Airport Road)
+  in Siem Reap, open 24 hours and free to enter. It's best visited in the cooler
+  early morning or after sunset, since weekends get busiest between 4pm and 10pm
+  when locals arrive for evening walks. Give it 30-45 minutes on your way
+  between the airport and downtown or Angkor.
 faq:
-  - q: "Is there an entrance fee for Royal Independence Gardens?"
-    a: "No, the park is free and open to the public 24 hours a day, every day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning, roughly 6am to 8am, is calmest. On weekends, try to avoid 4pm to 10pm, when local crowds peak for evening walks and group exercise."
-  - q: "How do I get there from the airport or town?"
-    a: "It sits directly on National Route 6 (Airport Road), so any tuk-tuk, taxi, or rideshare heading between the airport and downtown Siem Reap can drop you there in a few minutes."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 30 to 45 minutes walking the ponds and monument, longer if you linger for a snack from a cart vendor."
-  - q: "What else is nearby?"
-    a: "Wat Preah Prom Rath and the Siem Reap River promenade are both a short tuk-tuk ride away, making an easy combined half-day itinerary."
+  - q: Is there an entrance fee for Royal Independence Gardens?
+    a: >-
+      No, the park is free and open to the public 24 hours a day, every day of
+      the week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Early morning, roughly 6am to 8am, is calmest. On weekends, try to avoid
+      4pm to 10pm, when local crowds peak for evening walks and group exercise.
+  - q: How do I get there from the airport or town?
+    a: >-
+      It sits directly on National Route 6 (Airport Road), so any tuk-tuk, taxi,
+      or rideshare heading between the airport and downtown Siem Reap can drop
+      you there in a few minutes.
+  - q: How long should I plan to stay?
+    a: >-
+      Most visitors spend 30 to 45 minutes walking the ponds and monument,
+      longer if you linger for a snack from a cart vendor.
+  - q: What else is nearby?
+    a: >-
+      Wat Preah Prom Rath and the Siem Reap River promenade are both a short
+      tuk-tuk ride away, making an easy combined half-day itinerary.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 Royal Independence Gardens sits right on the airport road, a green buffer of shade trees and lily ponds that most visitors drive past without stopping. That's a mistake.
 

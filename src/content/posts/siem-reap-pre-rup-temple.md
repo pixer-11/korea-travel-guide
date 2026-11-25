@@ -1,31 +1,38 @@
 ---
 title: 'Pre Rup Temple: Siem Reap Travel Guide (4.7★)'
-description: Pre Rup Temple sits in the Angkor Archaeological Park east of Angkor Thom, open daily 6am–7pm, and it's one of the best sunset viewpoints in the whole complex. 4.7★ (3,041 reviews) — what visitors say, hours, and tips.
+description: >-
+  Pre Rup Temple sits in the Angkor Archaeological Park east of Angkor Thom,
+  open daily 6am–7pm, and it's one of the best sunset viewpoints in the whole
+  complex. 4.7★ (3,151 reviews) — what visitors say, hours, and tips.
 country: Cambodia
 region: Siem Reap
 category: attraction
 pubDate: '2026-08-26T09:34:48.101Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2016_Angkor%2C_Pre_Rup_%2809%29.jpg/1920px-2016_Angkor%2C_Pre_Rup_%2809%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2016_Angkor%2C_Pre_Rup_%2809%29.jpg/1920px-2016_Angkor%2C_Pre_Rup_%2809%29.jpg
   credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2016_Angkor,_Pre_Rup_(09).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:2016_Angkor,_Pre_Rup_(09).jpg'
   via: act
   focus:
     x: 55
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Angkor_SiemReap_Cambodia_Pre_Rup-01.jpg/3840px-Angkor_SiemReap_Cambodia_Pre_Rup-01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Angkor_SiemReap_Cambodia_Pre_Rup-01.jpg/3840px-Angkor_SiemReap_Cambodia_Pre_Rup-01.jpg
     credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Angkor_SiemReap_Cambodia_Pre_Rup-01.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Angkor_SiemReap_Cambodia_Pre_Rup-01.jpg
 place:
   id: ChIJG5DHtQY-EDERCd_FEDL3ir8
   name: Pre Rup Temple
-  address: CWMC+X6F Angkor Archaeological Park, ក្រុងសៀមរាប 17000, Cambodia
+  address: 'CWMC+X6F Angkor Archaeological Park, ក្រុងសៀមរាប 17000, Cambodia'
   rating: 4.7
-  userRatingsTotal: 3041
-  googleMapsUrl: https://maps.google.com/?cid=13802115802432134921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3151
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13802115802432134921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.4349337
   lng: 103.9205357
@@ -40,20 +47,38 @@ place:
 tags:
   - siem reap
   - historic site
-quickAnswer: Pre Rup Temple sits in the Angkor Archaeological Park east of Angkor Thom, open daily 6am–7pm, and it's one of the best sunset viewpoints in the whole complex. Budget 45–60 minutes, wear shoes you can climb steep laterite steps in, and arrive by 4:30pm if you want a spot on the upper terrace before the crowds thicken. It's included in your standard Angkor Pass — no separate ticket needed.
+quickAnswer: >-
+  Pre Rup Temple sits in the Angkor Archaeological Park east of Angkor Thom,
+  open daily 6am–7pm, and it's one of the best sunset viewpoints in the whole
+  complex. Budget 45–60 minutes, wear shoes you can climb steep laterite steps
+  in, and arrive by 4:30pm if you want a spot on the upper terrace before the
+  crowds thicken. It's included in your standard Angkor Pass — no separate
+  ticket needed.
 faq:
   - q: How do I get to Pre Rup Temple from Siem Reap?
-    a: It's about a 20-minute tuk-tuk or car ride east of central Siem Reap, on the Grand Circuit route near East Mebon and Srah Srang.
+    a: >-
+      It's about a 20-minute tuk-tuk or car ride east of central Siem Reap, on
+      the Grand Circuit route near East Mebon and Srah Srang.
   - q: Do I need a separate ticket for Pre Rup?
-    a: No — entry is included in the standard Angkor Pass that covers Angkor Wat, Bayon, and the rest of the archaeological park.
+    a: >-
+      No — entry is included in the standard Angkor Pass that covers Angkor Wat,
+      Bayon, and the rest of the archaeological park.
   - q: What time should I visit for sunset?
-    a: Arrive by 4:30pm to claim a spot on the upper terrace before tour groups arrive in the 5pm wave. Gates close at 7:00 PM.
+    a: >-
+      Arrive by 4:30pm to claim a spot on the upper terrace before tour groups
+      arrive in the 5pm wave. Gates close at 7:00 PM.
   - q: How long should I spend at Pre Rup?
-    a: Plan on 45–60 minutes, including time to climb the steep steps to the top platform and take in the view.
+    a: >-
+      Plan on 45–60 minutes, including time to climb the steep steps to the top
+      platform and take in the view.
   - q: Is Pre Rup worth visiting if I've already seen Angkor Wat?
-    a: Yes — its brick-and-sandstone temple-mountain design and panoramic upper terrace feel distinct from Angkor Wat's moat-and-gallery layout, especially at sunset.
+    a: >-
+      Yes — its brick-and-sandstone temple-mountain design and panoramic upper
+      terrace feel distinct from Angkor Wat's moat-and-gallery layout,
+      especially at sunset.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 ## Why Pre Rup Earns Its Reputation

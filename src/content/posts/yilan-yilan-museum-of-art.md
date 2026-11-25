@@ -1,44 +1,53 @@
 ---
-title: "Yilan Museum of Art: Travel Guide (4.4★)"
-description: "Yilan Museum of Art sits right in downtown Yilan City on Zhongshan Road, inside the old Japanese-era Yilan government complex, and it's an easy, uncrowded stop most days of the week. 4.4★ (935 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Yilan"
-category: "attraction"
-pubDate: "2026-08-23T08:09:47.470Z"
+title: 'Yilan Museum of Art: Travel Guide (4.4★)'
+description: >-
+  Yilan Museum of Art sits right in downtown Yilan City on Zhongshan Road,
+  inside the old Japanese-era Yilan government complex, and it's an easy,
+  uncrowded stop most days of the week. 4.4★ (954 reviews) — what visitors say,
+  hours, and tips.
+country: Taiwan
+region: Yilan
+category: attraction
+pubDate: '2026-08-23T08:09:47.470Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Yilan_Museum_of_Art_20230606.jpg/1920px-Yilan_Museum_of_Art_20230606.jpg"
-  credit: "Photo: Yu tptw / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Yilan_Museum_of_Art_20230606.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Yilan_Museum_of_Art_20230606.jpg/1920px-Yilan_Museum_of_Art_20230606.jpg
+  credit: 'Photo: Yu tptw / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Yilan_Museum_of_Art_20230606.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/60277148_5_4bvKPDydOXEHfOVN9lhJZt1VposurDQIuupsw0ayc.jpg"
-    credit: "Photo: Foursquare user content (宜蘭美術館 Yilan Museum of Art)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/51456e21e4b0634be4e6decf"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/60277148_5_4bvKPDydOXEHfOVN9lhJZt1VposurDQIuupsw0ayc.jpg
+    credit: 'Photo: Foursquare user content (宜蘭美術館 Yilan Museum of Art)'
+    license: foursquare
+    source: 'https://foursquare.com/v/51456e21e4b0634be4e6decf'
 place:
-  id: "ChIJMyZ6msTkZzQR-ihlfGlEKDw"
-  name: "Yilan Museum of Art"
-  address: "No. 1號, Section 3, Zhongshan Rd, Nanmen Village, Yilan City, Yilan County, Taiwan 260"
+  id: ChIJMyZ6msTkZzQR-ihlfGlEKDw
+  name: Yilan Museum of Art
+  address: >-
+    No. 1號, Section 3, Zhongshan Rd, Nanmen Village, Yilan City, Yilan County,
+    Taiwan 260
   rating: 4.4
-  userRatingsTotal: 935
-  googleMapsUrl: "https://maps.google.com/?cid=4334789861193361658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 954
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4334789861193361658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.7549228
   lng: 121.7517871
-  phone: "+886 3 936 9116"
+  phone: +886 3 936 9116
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-23
+    updated: 2026-08-23T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -53,24 +62,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_77444b456c47666c68692d52517a5a6b54736d365a794d4a496843"
+    venueId: ven_77444b456c47666c68692d52517a5a6b54736d365a794d4a496843
 tags:
-  - "yilan"
-  - "art gallery"
-quickAnswer: "Yilan Museum of Art sits right in downtown Yilan City on Zhongshan Road, inside the old Japanese-era Yilan government complex, and it's an easy, uncrowded stop most days of the week. It's open 9am–5pm Tuesday through Sunday, closed Monday, and even on weekends — its busiest stretch — it rarely feels packed since it stays under-the-radar. Budget about an hour, less if you're just passing through Nanmen Village."
+  - yilan
+  - art gallery
+quickAnswer: >-
+  Yilan Museum of Art sits right in downtown Yilan City on Zhongshan Road,
+  inside the old Japanese-era Yilan government complex, and it's an easy,
+  uncrowded stop most days of the week. It's open 9am–5pm Tuesday through
+  Sunday, closed Monday, and even on weekends — its busiest stretch — it rarely
+  feels packed since it stays under-the-radar. Budget about an hour, less if
+  you're just passing through Nanmen Village.
 faq:
-  - q: "What are the opening hours for Yilan Museum of Art?"
-    a: "It's open 9am–5pm Tuesday through Sunday, and closed all day Monday. Always double-check before visiting in case hours shift for holidays."
-  - q: "How do I get to Yilan Museum of Art without a car?"
-    a: "It's about a 15–20 minute walk from Yilan Train Station in central Yilan City, or a quick taxi or scooter ride if you'd rather skip the walk."
-  - q: "How long should I spend there?"
-    a: "Plan for about 45 minutes to an hour. The building is compact, so it pairs well with other stops in Nanmen Village on the same afternoon."
-  - q: "When is it least crowded?"
-    a: "Weekdays tend to be quieter than weekends, which run the full 9am–5pm as the busiest stretch. Even then, as an under-the-radar museum, it rarely feels crowded."
-  - q: "Is there an entrance fee?"
-    a: "Admission fees can change, so check official sources before you go. Bring some cash just in case, alongside mobile payment options."
+  - q: What are the opening hours for Yilan Museum of Art?
+    a: >-
+      It's open 9am–5pm Tuesday through Sunday, and closed all day Monday.
+      Always double-check before visiting in case hours shift for holidays.
+  - q: How do I get to Yilan Museum of Art without a car?
+    a: >-
+      It's about a 15–20 minute walk from Yilan Train Station in central Yilan
+      City, or a quick taxi or scooter ride if you'd rather skip the walk.
+  - q: How long should I spend there?
+    a: >-
+      Plan for about 45 minutes to an hour. The building is compact, so it pairs
+      well with other stops in Nanmen Village on the same afternoon.
+  - q: When is it least crowded?
+    a: >-
+      Weekdays tend to be quieter than weekends, which run the full 9am–5pm as
+      the busiest stretch. Even then, as an under-the-radar museum, it rarely
+      feels crowded.
+  - q: Is there an entrance fee?
+    a: >-
+      Admission fees can change, so check official sources before you go. Bring
+      some cash just in case, alongside mobile payment options.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 You spot Yilan Museum of Art before you know its name, a low, dark-timbered building with a pitched roof that looks more like a preserved train station than a gallery. That's because it was one, in a sense: the structure began life as a Japanese-era rice storage and administrative building tied to Yilan's old government precinct, and the museum has kept its wooden beams, sliding-door proportions, and quiet dignity intact.
 

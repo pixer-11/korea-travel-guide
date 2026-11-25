@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: sen-monorom-tuol-sleng-genocide-museum
-srcHash: '50766b6bcdeb'
+srcHash: 'ff28d89e6fcc'
 title: 吐斯廉大屠杀博物馆：金边旅行指南（4.6星）
-description: 吐斯廉大屠杀博物馆（Tuol Sleng Genocide Museum）位于金边市中心，具体地址在市内博盈格盈区（Boeng Keng Kang）的113号街。4.6星（12,141条评价）——游客评价、开放时间与游览贴士一网打尽。
+description: 吐斯廉大屠杀博物馆（Tuol Sleng Genocide Museum）位于金边市中心，具体地址在市内博盈格盈区（Boeng Keng Kang）的113号街。4.6星（12,299条评价）——游客评价、开放时间与游览贴士一网打尽。
 quickAnswer: 吐斯廉大屠杀博物馆位于金边市中心，博物馆本身坐落在博盈格盈区的113号街。这里每天早上8点开到下午5点，最清静的时段是上午8点到9点，之后旅游大巴会陆续到达。建议安排1.5到2.5小时的游览时间，当天不妨顺路去一趟琼邑克杀戮场（Choeung Ek）。
 faq:
   - q: 吐斯廉大屠杀博物馆在金边的什么位置？

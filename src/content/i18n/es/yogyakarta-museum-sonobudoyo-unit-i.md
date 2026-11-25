@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: yogyakarta-museum-sonobudoyo-unit-i
-srcHash: '58ab8d7306c9'
+srcHash: '15603e0e17bd'
 title: 'Museo Sonobudoyo Unidad I: guía de viaje de Yogyakarta (4,8★)'
-description: 'El Museo Sonobudoyo Unidad I se encuentra en el lado norte del Alun-Alun Utara de Yogyakarta, justo al lado del complejo del Kraton (Palacio del Sultán), y abre de martes a domingo de 8:00 a 21:00 (cerrado los lunes). 4,8★ (10.388 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo Sonobudoyo Unidad I se encuentra en el lado norte del Alun-Alun Utara de Yogyakarta, justo al lado del complejo del Kraton (Palacio del Sultán), y abre de martes a domingo de 8:00 a 21:00 (cerrado los lunes). 4,8★ (10.646 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Sonobudoyo Unidad I se encuentra en el lado norte del Alun-Alun Utara de Yogyakarta, justo al lado del complejo del Kraton (Palacio del Sultán), y abre de martes a domingo de 8:00 a 21:00 (cerrado los lunes). Conviene reservar entre 60 y 90 minutos para recorrer la colección de máscaras, dagas keris y marionetas wayang, y organizar la visita en torno al espectáculo nocturno de sombras wayang kulit. Se trata de uno de los museos con más reseñas de Yogyakarta, así que llegar justo a la apertura o ir directamente a la función de la tarde ayuda a evitar la avalancha de autobuses turísticos del mediodía.
 faq:
   - q: ¿Cómo se llega al Museo Sonobudoyo Unidad I?

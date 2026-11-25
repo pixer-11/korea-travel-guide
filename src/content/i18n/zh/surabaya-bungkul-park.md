@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: surabaya-bungkul-park
-srcHash: '087a597d3d84'
+srcHash: 'a9e155277103'
 title: 崩库尔公园：泗水旅行指南（4.6★）
-description: 崩库尔公园（Taman Bungkul，又译邦库公园）位于泗水沃诺克罗默区（Wonokromo）的达尔莫大街（Jalan Raya Darmo）上，是全市人气最旺的绿地之一。想要清净些，最好挑工作日清晨前往。4.6★（58,557条评价）——看看游客怎么说，附开放时间与实用建议。
+description: 崩库尔公园（Taman Bungkul，又译邦库公园）位于泗水沃诺克罗默区（Wonokromo）的达尔莫大街（Jalan Raya Darmo）上，是全市人气最旺的绿地之一。想要清净些，最好挑工作日清晨前往。4.6★（58,782条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 崩库尔公园（Taman Bungkul，又译邦库公园）位于泗水沃诺克罗默区（Wonokromo）的达尔莫大街（Jalan Raya Darmo）上，是全市人气最旺的绿地之一，想要清净些，最好挑工作日清晨前往。周末从早上7点到晚上11点都是人潮不断，跑步的、玩滑板的、卖小吃的、拖家带口的应有尽有，所以傍晚来这里图的是热闹氛围，而非清静。逛上一两个小时就够了，要是沿路把小吃摊都尝一遍，时间还得再加长。
 faq:
   - q: 崩库尔公园具体在哪里？

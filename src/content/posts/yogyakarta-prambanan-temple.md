@@ -1,44 +1,54 @@
 ---
-title: "Prambanan Temple: Yogyakarta Travel Guide (4.7★)"
-description: "Prambanan Temple, the 9th-century Hindu temple complex outside Yogyakarta, opens daily from 6:00 AM to 4:30 PM. 4.7★ (109,420 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Yogyakarta"
-category: "attraction"
-pubDate: "2026-08-26T08:16:48.775Z"
+title: 'Prambanan Temple: Yogyakarta Travel Guide (4.7★)'
+description: >-
+  Prambanan Temple, the 9th-century Hindu temple complex outside Yogyakarta,
+  opens daily from 6:00 AM to 4:30 PM. 4.7★ (110,977 reviews) — what visitors
+  say, hours, and tips.
+country: Indonesia
+region: Yogyakarta
+category: attraction
+pubDate: '2026-08-26T08:16:48.775Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg/1920px-Prambanan_Temple_Yogyakarta_Indonesia.jpg"
-  credit: "Photo: Christopher Michel / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Prambanan_Temple_Yogyakarta_Indonesia.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg/1920px-Prambanan_Temple_Yogyakarta_Indonesia.jpg
+  credit: 'Photo: Christopher Michel / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Prambanan_Temple_Yogyakarta_Indonesia.jpg
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg/3840px-Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg/3840px-Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg
 place:
-  id: "ChIJ0VnY2-Naei4RLVqVJTug5xk"
-  name: "Prambanan Temple"
-  address: "Jl. Raya Solo - Yogyakarta, Kranggan, Bokoharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571, Indonesia"
+  id: ChIJ0VnY2-Naei4RLVqVJTug5xk
+  name: Prambanan Temple
+  address: >-
+    Jl. Raya Solo - Yogyakarta, Kranggan, Bokoharjo, Kec. Prambanan, Kabupaten
+    Sleman, Daerah Istimewa Yogyakarta 55571, Indonesia
   rating: 4.7
-  userRatingsTotal: 109420
-  googleMapsUrl: "https://maps.google.com/?cid=1866636746462419501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 110977
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1866636746462419501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.752020600000001
   lng: 110.49146739999999
-  phone: "+62 811-2688-000"
+  phone: +62 811-2688-000
   openingHours:
-    - "Monday: 6:00 AM – 4:30 PM"
-    - "Tuesday: 6:00 AM – 4:30 PM"
-    - "Wednesday: 6:00 AM – 4:30 PM"
-    - "Thursday: 6:00 AM – 4:30 PM"
-    - "Friday: 6:00 AM – 4:30 PM"
-    - "Saturday: 6:00 AM – 4:30 PM"
-    - "Sunday: 6:00 AM – 4:30 PM"
+    - 'Monday: 6:00 AM – 4:30 PM'
+    - 'Tuesday: 6:00 AM – 4:30 PM'
+    - 'Wednesday: 6:00 AM – 4:30 PM'
+    - 'Thursday: 6:00 AM – 4:30 PM'
+    - 'Friday: 6:00 AM – 4:30 PM'
+    - 'Saturday: 6:00 AM – 4:30 PM'
+    - 'Sunday: 6:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,24 +62,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6b78356775544a5671564c52346965614e2d32596e56304a496843"
+    venueId: ven_6b78356775544a5671564c52346965614e2d32596e56304a496843
 tags:
-  - "yogyakarta"
-  - "historic site"
-quickAnswer: "Prambanan Temple, the 9th-century Hindu temple complex outside Yogyakarta, opens daily from 6:00 AM to 4:30 PM. It's calmest right at opening, 7am–9am on weekdays or 7am–8am on weekends — arrive then to beat the crowds that build from 9am to 4pm on weekends. Budget two to three hours to see the main compound and climb the central Shiva shrine."
+  - yogyakarta
+  - historic site
+quickAnswer: >-
+  Prambanan Temple, the 9th-century Hindu temple complex outside Yogyakarta,
+  opens daily from 6:00 AM to 4:30 PM. It's calmest right at opening, 7am–9am on
+  weekdays or 7am–8am on weekends — arrive then to beat the crowds that build
+  from 9am to 4pm on weekends. Budget two to three hours to see the main
+  compound and climb the central Shiva shrine.
 faq:
-  - q: "What are the opening hours for Prambanan Temple?"
-    a: "Daily from 6:00 AM to 4:30 PM, with no variation across the week according to current listings — but confirm before you go, since holiday hours can shift."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 9am are calmest; on weekends the quiet window is shorter, just 7am to 8am, before tour groups arrive."
-  - q: "How do I get to Prambanan from Yogyakarta city center?"
-    a: "It's about 17km east, roughly a 40-minute drive. Trans Jogja bus route 1A runs directly there from Malioboro, or you can hire a car/scooter."
-  - q: "How long should I plan to spend at the temple complex?"
-    a: "Two to three hours lets you see the three main shrines, climb into the Shiva temple, and walk the outer courtyards without rushing."
-  - q: "Is there anything worth combining with a Prambanan visit?"
-    a: "Ratu Boko, a hilltop palace ruin with strong sunset views, is a short drive away, and the Ramayana Ballet stage sits within walking distance of the main complex."
+  - q: What are the opening hours for Prambanan Temple?
+    a: >-
+      Daily from 6:00 AM to 4:30 PM, with no variation across the week according
+      to current listings — but confirm before you go, since holiday hours can
+      shift.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 9am are calmest; on weekends the quiet window is
+      shorter, just 7am to 8am, before tour groups arrive.
+  - q: How do I get to Prambanan from Yogyakarta city center?
+    a: >-
+      It's about 17km east, roughly a 40-minute drive. Trans Jogja bus route 1A
+      runs directly there from Malioboro, or you can hire a car/scooter.
+  - q: How long should I plan to spend at the temple complex?
+    a: >-
+      Two to three hours lets you see the three main shrines, climb into the
+      Shiva temple, and walk the outer courtyards without rushing.
+  - q: Is there anything worth combining with a Prambanan visit?
+    a: >-
+      Ratu Boko, a hilltop palace ruin with strong sunset views, is a short
+      drive away, and the Ramayana Ballet stage sits within walking distance of
+      the main complex.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 ## Why Prambanan pulls you in
 

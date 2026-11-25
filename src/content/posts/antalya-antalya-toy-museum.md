@@ -3,7 +3,7 @@ title: 'Antalya Toy Museum: Travel Guide (4.6★)'
 description: >-
   The Antalya Toy Museum sits inside a restored Ottoman-era stone house in the
   old town of Kaleiçi, just above the yacht harbor, and holds several thousand
-  toys made between the 1860s and the 1990s. 4.6★ (1,585 reviews) — what
+  toys made between the 1860s and the 1990s. 4.6★ (1,623 reviews) — what
   visitors say, hours, and tips.
 country: Turkey
 region: Antalya
@@ -29,7 +29,7 @@ place:
   name: Antalya Toy Museum
   address: 'Selçuk, Yat Limanı Sok No:112, 07000 Muratpaşa/Antalya, Türkiye'
   rating: 4.6
-  userRatingsTotal: 1585
+  userRatingsTotal: 1623
   googleMapsUrl: >-
     https://maps.google.com/?cid=11897116200103986367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -76,7 +76,7 @@ faq:
       look rather than running around.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-23'
+updatedDate: '2026-11-25'
 ---
 ## Why go
 

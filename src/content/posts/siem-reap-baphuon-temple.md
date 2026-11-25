@@ -1,60 +1,84 @@
 ---
-title: "Baphuon Temple: Siem Reap Travel Guide (4.7★)"
-description: "Baphuon Temple sits inside Angkor Thom, just north of the Bayon and a short walk from the Elephant Terrace, open daily 5:00 AM–6:30 PM. 4.7★ (2,173 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "attraction"
-pubDate: "2026-08-26T09:38:24.155Z"
+title: 'Baphuon Temple: Siem Reap Travel Guide (4.7★)'
+description: >-
+  Baphuon Temple sits inside Angkor Thom, just north of the Bayon and a short
+  walk from the Elephant Terrace, open daily 5:00 AM–6:30 PM. 4.7★ (2,239
+  reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Siem Reap
+category: attraction
+pubDate: '2026-08-26T09:38:24.155Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg/3840px-Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg"
-  credit: "Photo: PIERRE ANDRE LECLERCQ / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg/3840px-Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg
+  credit: 'Photo: PIERRE ANDRE LECLERCQ / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/33263042_W8DNbnNWT3BHAE2bBxHKWukjLsyaEp6u_y_BJjrKZoU.jpg"
-    credit: "Photo: Foursquare user content (Baphuon)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4f891b4de4b047d849d0bc86"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/33263042_W8DNbnNWT3BHAE2bBxHKWukjLsyaEp6u_y_BJjrKZoU.jpg
+    credit: 'Photo: Foursquare user content (Baphuon)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4f891b4de4b047d849d0bc86'
 place:
-  id: "ChIJB5msZiUUEDERnmtILAsgDcI"
-  name: "Baphuon Temple"
-  address: "Angkor Archaelogical Park, Krong Siem Reap, Cambodia"
+  id: ChIJB5msZiUUEDERnmtILAsgDcI
+  name: Baphuon Temple
+  address: 'Angkor Archaelogical Park, Krong Siem Reap, Cambodia'
   rating: 4.7
-  userRatingsTotal: 2173
-  googleMapsUrl: "https://maps.google.com/?cid=13982867650414930846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2239
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13982867650414930846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.443881999999999
   lng: 103.856214
-  phone: "+855 63 765 577"
+  phone: +855 63 765 577
   openingHours:
-    - "Monday: 5:00 AM – 6:30 PM"
-    - "Tuesday: 5:00 AM – 6:30 PM"
-    - "Wednesday: 5:00 AM – 6:30 PM"
-    - "Thursday: 5:00 AM – 6:30 PM"
-    - "Friday: 5:00 AM – 6:30 PM"
-    - "Saturday: 5:00 AM – 6:30 PM"
-    - "Sunday: 5:00 AM – 6:30 PM"
+    - 'Monday: 5:00 AM – 6:30 PM'
+    - 'Tuesday: 5:00 AM – 6:30 PM'
+    - 'Wednesday: 5:00 AM – 6:30 PM'
+    - 'Thursday: 5:00 AM – 6:30 PM'
+    - 'Friday: 5:00 AM – 6:30 PM'
+    - 'Saturday: 5:00 AM – 6:30 PM'
+    - 'Sunday: 5:00 AM – 6:30 PM'
 tags:
-  - "siem reap"
-  - "Bayon Temple"
-quickAnswer: "Baphuon Temple sits inside Angkor Thom, just north of the Bayon and a short walk from the Elephant Terrace, open daily 5:00 AM–6:30 PM. It's less crowded than Angkor Wat or the Bayon, so aim for mid-morning or late afternoon to have the summit terrace mostly to yourself. Budget 30-45 minutes, including the steep climb, and wear shoes with grip."
+  - siem reap
+  - Bayon Temple
+quickAnswer: >-
+  Baphuon Temple sits inside Angkor Thom, just north of the Bayon and a short
+  walk from the Elephant Terrace, open daily 5:00 AM–6:30 PM. It's less crowded
+  than Angkor Wat or the Bayon, so aim for mid-morning or late afternoon to have
+  the summit terrace mostly to yourself. Budget 30-45 minutes, including the
+  steep climb, and wear shoes with grip.
 faq:
-  - q: "How much time should I spend at Baphuon Temple?"
-    a: "Plan for 30-45 minutes, including the climb up and down the steep summit staircase and time to walk the base."
-  - q: "Is Baphuon Temple included in the Angkor Pass?"
-    a: "Yes — there's no separate ticket. Any valid Angkor Archaeological Park pass (1-day, 3-day, or 7-day) covers entry."
-  - q: "What's the best time of day to visit Baphuon?"
-    a: "Right after the 5:00 AM opening or later in the afternoon, around 4-5 PM, when tour groups have thinned out from the mid-morning rush through Angkor Thom."
-  - q: "Is the climb to the top difficult?"
-    a: "The stairs are steep but fitted with a modern handrail. Wear closed, grippy shoes and take it slowly, especially on the descent."
-  - q: "What's nearby if I want to keep exploring Angkor Thom?"
-    a: "The Bayon is a 5-minute walk southeast, and the Terrace of the Elephants and Terrace of the Leper King are just north of Baphuon."
+  - q: How much time should I spend at Baphuon Temple?
+    a: >-
+      Plan for 30-45 minutes, including the climb up and down the steep summit
+      staircase and time to walk the base.
+  - q: Is Baphuon Temple included in the Angkor Pass?
+    a: >-
+      Yes — there's no separate ticket. Any valid Angkor Archaeological Park
+      pass (1-day, 3-day, or 7-day) covers entry.
+  - q: What's the best time of day to visit Baphuon?
+    a: >-
+      Right after the 5:00 AM opening or later in the afternoon, around 4-5 PM,
+      when tour groups have thinned out from the mid-morning rush through Angkor
+      Thom.
+  - q: Is the climb to the top difficult?
+    a: >-
+      The stairs are steep but fitted with a modern handrail. Wear closed,
+      grippy shoes and take it slowly, especially on the descent.
+  - q: What's nearby if I want to keep exploring Angkor Thom?
+    a: >-
+      The Bayon is a 5-minute walk southeast, and the Terrace of the Elephants
+      and Terrace of the Leper King are just north of Baphuon.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 ## Why Baphuon still stands out

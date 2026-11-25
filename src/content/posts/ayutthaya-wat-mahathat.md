@@ -29,7 +29,7 @@ place:
     Soi Chikun, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat
     Phra Nakhon Si Ayutthaya 13000, Thailand
   rating: 4.7
-  userRatingsTotal: 26051
+  userRatingsTotal: 26610
   googleMapsUrl: >-
     https://maps.google.com/?cid=15408235238257854681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -96,7 +96,7 @@ faq:
       combined in one visit.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-25'
 ---
 ## Why go
 

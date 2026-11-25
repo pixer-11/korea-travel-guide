@@ -1,6 +1,8 @@
 ---
 title: 'Bar Cham: Seoul Travel Guide'
-description: 'Bar Cham in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Bar Cham in Seoul, South Korea — a new/trending spot: what it is, where it is,
+  and how to visit.
 country: South Korea
 region: Seoul
 category: hidden-gem
@@ -8,38 +10,59 @@ pubDate: '2026-08-27'
 tags:
   - seoul
   - new & trending
-quickAnswer: Bar Cham is a cocktail bar tucked inside a restored hanok in Seochon, the low-rise hillside neighborhood in Jongno-gu just west of Gyeongbokgung. It's a newer addition to Seoul's drinks scene but has already landed on Asia's 50 Best Bars 2026, so book ahead rather than walking in hoping for a seat. Aim for an early weeknight slot if you want to actually hear yourself talk.
+quickAnswer: >-
+  Bar Cham is a cocktail bar tucked inside a restored hanok in Seochon, the
+  low-rise hillside neighborhood in Jongno-gu just west of Gyeongbokgung. It's a
+  newer addition to Seoul's drinks scene but has already landed on Asia's 50
+  Best Bars 2026, so book ahead rather than walking in hoping for a seat. Aim
+  for an early weeknight slot if you want to actually hear yourself talk.
 faq:
   - q: Where exactly is Bar Cham located?
-    a: It's in Seochon, a hillside neighborhood in Jongno-gu just west of Gyeongbokgung Palace, inside a restored traditional hanok house.
+    a: >-
+      It's in Seochon, a hillside neighborhood in Jongno-gu just west of
+      Gyeongbokgung Palace, inside a restored traditional hanok house.
   - q: How do I get there by subway?
-    a: Take Line 3 to Gyeongbokgung Station, exit toward the palace, then head west into Seochon's residential lanes. Pin the exact address on a map first, as the streets aren't a simple grid.
+    a: >-
+      Take Line 3 to Gyeongbokgung Station, exit toward the palace, then head
+      west into Seochon's residential lanes. Pin the exact address on a map
+      first, as the streets aren't a simple grid.
   - q: Do I need a reservation?
-    a: Given its spot on Asia's 50 Best Bars 2026 and the small scale of a hanok interior, booking ahead is strongly advised. Check the bar's current reservation policy before visiting.
+    a: >-
+      Given its spot on Asia's 50 Best Bars 2026 and the small scale of a hanok
+      interior, booking ahead is strongly advised. Check the bar's current
+      reservation policy before visiting.
   - q: When is the best time to visit?
-    a: Early on a weeknight is generally the calmer option for small, in-demand bars, but confirm current opening hours directly since they weren't published here.
+    a: >-
+      Early on a weeknight is generally the calmer option for small, in-demand
+      bars, but confirm current opening hours directly since they weren't
+      published here.
   - q: What else is nearby?
-    a: Seochon is packed with hanok guesthouses, small galleries, and long-standing noodle shops, and Gyeongbokgung Palace itself is an easy walk away for combining into one visit.
+    a: >-
+      Seochon is packed with hanok guesthouses, small galleries, and
+      long-standing noodle shops, and Gyeongbokgung Palace itself is an easy
+      walk away for combining into one visit.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/18132497_Zzxu5_4iBh3mUjkFQXYq7kwhDoUWY_DG6vbYqZKnxFA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/18132497_Zzxu5_4iBh3mUjkFQXYq7kwhDoUWY_DG6vbYqZKnxFA.jpg
   credit: 'Photo: Foursquare user content (CHAM (참))'
   license: foursquare
-  source: https://foursquare.com/v/5b5b0a31f2554e002cd8a281
+  source: 'https://foursquare.com/v/5b5b0a31f2554e002cd8a281'
   focus:
     x: 50
     'y': 45
 place:
   id: ChIJxWShw9-jfDURS80cyKrrVI4
   name: Bar Cham
-  address: 34 Jahamun-ro 7-gil, Jongno District, Seoul, South Korea
+  address: '34 Jahamun-ro 7-gil, Jongno District, Seoul, South Korea'
   rating: 4.7
-  userRatingsTotal: 444
-  googleMapsUrl: https://maps.google.com/?cid=10256081370163760459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 455
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10256081370163760459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.5791709
   lng: 126.97038509999999
-  phone: '+82 2-6402-4750'
+  phone: +82 2-6402-4750
   openingHours:
     - 'Monday: 6:00 PM – 1:00 AM'
     - 'Tuesday: Closed'
@@ -48,6 +71,8 @@ place:
     - 'Friday: 6:00 PM – 1:00 AM'
     - 'Saturday: 6:00 PM – 1:00 AM'
     - 'Sunday: 6:00 PM – 1:00 AM'
+  priceLevel: 3
+updatedDate: '2026-11-25'
 ---
 
 You find Bar Cham by half-losing yourself first. Seochon's streets don't run in a grid, they bend around old roof lines and dead-end into someone's gate, and the bar itself gives little away from outside. No neon, no sandwich board, just a hanok's tiled roof and a wooden door that could belong to a private house.

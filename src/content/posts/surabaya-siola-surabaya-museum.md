@@ -1,41 +1,49 @@
 ---
-title: "Siola Surabaya Museum: Travel Guide (4.6★)"
-description: "Siola Surabaya Museum sits right on Jl. Tunjungan in the Genteng district of downtown Surabaya, inside a restored 1877 Dutch-era department store building. 4.6★ (8,306 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Surabaya"
-category: "attraction"
-pubDate: "2026-08-25T08:20:06.871Z"
+title: 'Siola Surabaya Museum: Travel Guide (4.6★)'
+description: >-
+  Siola Surabaya Museum sits right on Jl. Tunjungan in the Genteng district of
+  downtown Surabaya, inside a restored 1877 Dutch-era department store building.
+  4.6★ (8,397 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Surabaya
+category: attraction
+pubDate: '2026-08-25T08:20:06.871Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg/3840px-Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg"
-  credit: "Photo: |Author=Ya, saya inBaliTimur / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tunjungan_Siola_Surabaya_Pusat_(Central_Surabaya).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg/3840px-Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg
+  credit: 'Photo: |Author=Ya, saya inBaliTimur / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Tunjungan_Siola_Surabaya_Pusat_(Central_Surabaya).jpg
+  via: act
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJW_ddx0L51y0Ri1iJ27YVfsU"
-  name: "Siola Surabaya Museum"
-  address: "Jl. Tunjungan No.1, Genteng, Kec. Genteng, Surabaya, Jawa Timur 60275, Indonesia"
+  id: ChIJW_ddx0L51y0Ri1iJ27YVfsU
+  name: Siola Surabaya Museum
+  address: >-
+    Jl. Tunjungan No.1, Genteng, Kec. Genteng, Surabaya, Jawa Timur 60275,
+    Indonesia
   rating: 4.6
-  userRatingsTotal: 8306
-  googleMapsUrl: "https://maps.google.com/?cid=14230835747648788619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8397
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14230835747648788619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.256296299999999
   lng: 112.7375696
-  phone: "+62 838-3134-6153"
+  phone: +62 838-3134-6153
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 8:00 AM – 3:00 PM"
-    - "Wednesday: 8:00 AM – 3:00 PM"
-    - "Thursday: 8:00 AM – 3:00 PM"
-    - "Friday: 8:00 AM – 3:00 PM"
-    - "Saturday: 8:00 AM – 3:00 PM"
-    - "Sunday: 8:00 AM – 3:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 3:00 PM'
+    - 'Wednesday: 8:00 AM – 3:00 PM'
+    - 'Thursday: 8:00 AM – 3:00 PM'
+    - 'Friday: 8:00 AM – 3:00 PM'
+    - 'Saturday: 8:00 AM – 3:00 PM'
+    - 'Sunday: 8:00 AM – 3:00 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayBusy:
       - 9
       - 10
@@ -49,24 +57,42 @@ place:
     weekendBusy:
       - 10
       - 11
-    venueId: "ven_557366565937324a69316952307931354c307864645f574a496843"
+    venueId: ven_557366565937324a69316952307931354c307864645f574a496843
 tags:
-  - "surabaya"
-  - "museum"
-quickAnswer: "Siola Surabaya Museum sits right on Jl. Tunjungan in the Genteng district of downtown Surabaya, inside a restored 1877 Dutch-era department store building. It's open Tuesday to Sunday, 8am–3pm, closed Mondays, and admission is typically free. Weekends get busy between 10am and noon, so aim for 1pm–3pm if you want the galleries to yourself."
+  - surabaya
+  - museum
+quickAnswer: >-
+  Siola Surabaya Museum sits right on Jl. Tunjungan in the Genteng district of
+  downtown Surabaya, inside a restored 1877 Dutch-era department store building.
+  It's open Tuesday to Sunday, 8am–3pm, closed Mondays, and admission is
+  typically free. Weekends get busy between 10am and noon, so aim for 1pm–3pm if
+  you want the galleries to yourself.
 faq:
-  - q: "Where exactly is Siola Surabaya Museum located?"
-    a: "It's at Jl. Tunjungan No.1 in Genteng district, central Surabaya, at the corner where Tunjungan Street meets Jalan Gemblongan — an easy walk from Tugu Pahlawan monument."
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 8:00 AM to 3:00 PM. It's closed all day Monday, so plan around that."
-  - q: "How much does it cost to enter?"
-    a: "Admission is generally free, though it's worth bringing a little cash for any donation box or special exhibits, and confirming current policy before you go."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, the calmest window is 1pm–3pm. Try to avoid 10am–12pm on Saturdays and Sundays, which is the busiest stretch."
-  - q: "How long should I plan for a visit?"
-    a: "Most visitors spend 45 minutes to an hour, enough to cover both floors without rushing."
+  - q: Where exactly is Siola Surabaya Museum located?
+    a: >-
+      It's at Jl. Tunjungan No.1 in Genteng district, central Surabaya, at the
+      corner where Tunjungan Street meets Jalan Gemblongan — an easy walk from
+      Tugu Pahlawan monument.
+  - q: What are the opening hours?
+    a: >-
+      Tuesday through Sunday, 8:00 AM to 3:00 PM. It's closed all day Monday, so
+      plan around that.
+  - q: How much does it cost to enter?
+    a: >-
+      Admission is generally free, though it's worth bringing a little cash for
+      any donation box or special exhibits, and confirming current policy before
+      you go.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, the calmest window is 1pm–3pm. Try to avoid 10am–12pm on
+      Saturdays and Sundays, which is the busiest stretch.
+  - q: How long should I plan for a visit?
+    a: >-
+      Most visitors spend 45 minutes to an hour, enough to cover both floors
+      without rushing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 You spot the building before you spot the sign: a pale, colonnaded facade with arched windows on Jalan Tunjungan, Surabaya's old commercial spine. This is Siola, once the city's grandest department store, now a free museum tracing how Surabaya grew from a colonial trading post into Indonesia's second-largest city.

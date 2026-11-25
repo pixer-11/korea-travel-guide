@@ -1,30 +1,36 @@
 ---
 title: 'Hong Kong Science Museum: Tsim Sha Tsui Travel Guide (4.4★)'
-description: Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, next door to the Hong Kong Museum of History. 4.4★ (3,510 reviews) — what visitors say, hours, and tips.
+description: >-
+  Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, next
+  door to the Hong Kong Museum of History. 4.4★ (3,654 reviews) — what visitors
+  say, hours, and tips.
 country: Hong Kong
 region: Tsim Sha Tsui
 category: attraction
 pubDate: '2026-08-25T08:18:03.888Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HKScienceMuseumview.jpg/1280px-HKScienceMuseumview.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HKScienceMuseumview.jpg/1280px-HKScienceMuseumview.jpg
   credit: 'Photo: WiNG / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:HKScienceMuseumview.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:HKScienceMuseumview.jpg'
   focus:
     x: 60
     'y': 45
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/84453337_5EPSlHwepqum_5SLCOg56wmPIBdXOu6dF50Xtv4luos.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/84453337_5EPSlHwepqum_5SLCOg56wmPIBdXOu6dF50Xtv4luos.jpg
     credit: 'Photo: Foursquare user content (Hong Kong Science Museum (香港科學館))'
     license: foursquare
-    source: https://foursquare.com/v/4b0588d5f964a52019dc22e3
+    source: 'https://foursquare.com/v/4b0588d5f964a52019dc22e3'
 place:
   id: ChIJU21e7NwBBDQRjaysmmGiv-4
   name: Hong Kong Science Museum
-  address: 2號 Science Museum Rd, Tsim Sha Tsui East, Kowloon, Hong Kong
+  address: '2號 Science Museum Rd, Tsim Sha Tsui East, Kowloon, Hong Kong'
   rating: 4.4
-  userRatingsTotal: 3510
-  googleMapsUrl: https://maps.google.com/?cid=17203647641669119117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3654
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17203647641669119117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.3010111
   lng: 114.177655
@@ -56,20 +62,37 @@ place:
 tags:
   - tsim sha tsui
   - museum
-quickAnswer: Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, next door to the Hong Kong Museum of History. It's closed every Thursday, open 10am–7pm most other weekdays and 10am–9pm on weekends, and gets packed between 12pm and 7pm on Saturdays and Sundays. Plan on 2–3 hours, more if you're visiting with curious kids.
+quickAnswer: >-
+  Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, next
+  door to the Hong Kong Museum of History. It's closed every Thursday, open
+  10am–7pm most other weekdays and 10am–9pm on weekends, and gets packed between
+  12pm and 7pm on Saturdays and Sundays. Plan on 2–3 hours, more if you're
+  visiting with curious kids.
 faq:
   - q: Is the Hong Kong Science Museum actually in Sha Tin?
-    a: No — it's located in Tsim Sha Tsui East, Kowloon, near East Tsim Sha Tsui MTR Station. From Sha Tin it's about a 20–25 minute ride on the East Rail Line.
+    a: >-
+      No — it's located in Tsim Sha Tsui East, Kowloon, near East Tsim Sha Tsui
+      MTR Station. From Sha Tin it's about a 20–25 minute ride on the East Rail
+      Line.
   - q: What are the opening hours?
-    a: 10am–7pm Monday, Tuesday, Wednesday and Friday; 10am–9pm Saturday and Sunday. It's closed every Thursday, so avoid planning a visit that day.
+    a: >-
+      10am–7pm Monday, Tuesday, Wednesday and Friday; 10am–9pm Saturday and
+      Sunday. It's closed every Thursday, so avoid planning a visit that day.
   - q: When is the best time to visit to avoid crowds?
-    a: Arrive right at 10am opening, especially on weekends. The museum gets busiest between 12pm and 7pm on both Saturday and Sunday.
+    a: >-
+      Arrive right at 10am opening, especially on weekends. The museum gets
+      busiest between 12pm and 7pm on both Saturday and Sunday.
   - q: How long should I plan for a visit?
-    a: Budget at least 2 hours for a brisk visit, or 3+ hours if you're going with kids who want to explore the interactive exhibits fully.
+    a: >-
+      Budget at least 2 hours for a brisk visit, or 3+ hours if you're going
+      with kids who want to explore the interactive exhibits fully.
   - q: What's nearby if I want to make a full day of it?
-    a: The Hong Kong Museum of History sits right next door, and the Tsim Sha Tsui waterfront with the Avenue of Stars is a short walk away.
+    a: >-
+      The Hong Kong Museum of History sits right next door, and the Tsim Sha
+      Tsui waterfront with the Avenue of Stars is a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 You walk in expecting a quiet afternoon of static exhibits and instead get hit with noise: kids cranking gears, a real DC-3 aircraft suspended overhead, the electric hum of the energy machine winding up for its big show. This is not a look-don't-touch museum, and that's the whole point.
 

@@ -1,6 +1,6 @@
 ---
 title: "Hurghada Museum: Travel Guide (4.4★)"
-description: Hurghada Museum sits on El-Nasr in Hurghada. It's the resort town's antiquities museum, with artefacts from Egypt's Pharaonic through Islamic periods. 4.4★ (1,961 reviews) — what visitors say, hours, and tips.
+description: Hurghada Museum sits on El-Nasr in Hurghada. It's the resort town's antiquities museum, with artefacts from Egypt's Pharaonic through Islamic periods. 4.4★ (1,962 reviews) — what visitors say, hours, and tips.
 country: Egypt
 region: Hurghada
 category: attraction

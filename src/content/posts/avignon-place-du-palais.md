@@ -1,30 +1,36 @@
 ---
 title: 'Place du Palais: Avignon Travel Guide'
-description: Place du Palais is the vast stone square in front of the Palais des Papes, and it's open around the clock with no ticket needed just to stand in it.
+description: >-
+  Place du Palais is the vast stone square in front of the Palais des Papes, and
+  it's open around the clock with no ticket needed just to stand in it.
 country: France
 region: Avignon
 category: hidden-gem
 pubDate: '2026-08-18T08:03:00.784Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/50777287_5X3NCMHPnE-m4lxdOGh64csPf6EOKSqbQSgeQB0_lBY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/50777287_5X3NCMHPnE-m4lxdOGh64csPf6EOKSqbQSgeQB0_lBY.jpg
   credit: 'Photo: Foursquare user content (Place du Palais des Papes)'
   license: foursquare
-  source: https://foursquare.com/v/4eea0a61e3001405fdcc8a80
+  source: 'https://foursquare.com/v/4eea0a61e3001405fdcc8a80'
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Avignon_-_Mont%C3%A9e_des_Canons_near_Avignon_Cathedral%27s_Calvary_-_Panorama_Overview_on_Place_du_Palais_06.jpg/3840px-Avignon_-_Mont%C3%A9e_des_Canons_near_Avignon_Cathedral%27s_Calvary_-_Panorama_Overview_on_Place_du_Palais_06.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Avignon_-_Mont%C3%A9e_des_Canons_near_Avignon_Cathedral%27s_Calvary_-_Panorama_Overview_on_Place_du_Palais_06.jpg/3840px-Avignon_-_Mont%C3%A9e_des_Canons_near_Avignon_Cathedral%27s_Calvary_-_Panorama_Overview_on_Place_du_Palais_06.jpg
     credit: 'Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Avignon_-_Mont%C3%A9e_des_Canons_near_Avignon_Cathedral%27s_Calvary_-_Panorama_Overview_on_Place_du_Palais_06.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Avignon_-_Mont%C3%A9e_des_Canons_near_Avignon_Cathedral%27s_Calvary_-_Panorama_Overview_on_Place_du_Palais_06.jpg
 place:
   id: ChIJZ9Kw3ubrtRIROax5K_CEmhM
   name: Place du Palais
-  address: Pl. du Palais, 84000 Avignon, France
+  address: 'Pl. du Palais, 84000 Avignon, France'
   rating: 4.6
-  userRatingsTotal: 80
-  googleMapsUrl: https://maps.google.com/?cid=1412587600190483513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 87
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1412587600190483513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.951921999999996
   lng: 4.8065476
@@ -72,19 +78,39 @@ place:
 tags:
   - avignon
   - hidden gem
-quickAnswer: Place du Palais is the vast stone square at the foot of the Palais des Papes in Avignon — free to visit any time, best seen in the early morning or after dinner when the day-trip coaches have gone and the floodlit facade has the square to itself. Give it 20–30 minutes on its own, longer if you linger at a café table facing the palace.
+quickAnswer: >-
+  Place du Palais is the vast stone square at the foot of the Palais des Papes
+  in Avignon — free to visit any time, best seen in the early morning or after
+  dinner when the day-trip coaches have gone and the floodlit facade has the
+  square to itself. Give it 20–30 minutes on its own, longer if you linger at a
+  café table facing the palace.
 faq:
   - q: Is there an entrance fee for Place du Palais?
-    a: No — it's an open public square with no ticket or gate. You only pay if you go inside the Palais des Papes, the cathedral treasury, or the Petit Palais museum.
+    a: >-
+      No — it's an open public square with no ticket or gate. You only pay if
+      you go inside the Palais des Papes, the cathedral treasury, or the Petit
+      Palais museum.
   - q: How long should I spend at the square?
-    a: 20–30 minutes to walk it, take photos, and look at all three buildings. Add extra time if you sit at a café or plan to queue for the palace itself.
+    a: >-
+      20–30 minutes to walk it, take photos, and look at all three buildings.
+      Add extra time if you sit at a café or plan to queue for the palace
+      itself.
   - q: What's the best time to avoid crowds?
-    a: Early morning before the palace opens, or after dinner once the palace facade is floodlit — midday is when tour groups and ticket queues peak.
+    a: >-
+      Early morning before the palace opens, or after dinner once the palace
+      facade is floodlit — midday is when tour groups and ticket queues peak.
   - q: How do I get to Place du Palais from the train station?
-    a: From Avignon Centre station it's a flat 15-minute walk up Rue de la République through Place de l'Horloge. From Avignon TGV station, take the shuttle bus or a taxi into the walled centre first.
+    a: >-
+      From Avignon Centre station it's a flat 15-minute walk up Rue de la
+      République through Place de l'Horloge. From Avignon TGV station, take the
+      shuttle bus or a taxi into the walled centre first.
   - q: What else is nearby?
-    a: Place de l'Horloge with its cafés and carousel is a five-minute walk away, and the Pont Saint-Bénézet (Pont d'Avignon) and river ramparts are just below the palace on the Rhône side.
+    a: >-
+      Place de l'Horloge with its cafés and carousel is a five-minute walk away,
+      and the Pont Saint-Bénézet (Pont d'Avignon) and river ramparts are just
+      below the palace on the Rhône side.
 aiGenerated: true
+updatedDate: '2026-11-25'
 ---
 You come up Rue de la Peyrolerie or Rue Peyrollerie and the street just opens. One moment you're between narrow honey-stone buildings, the next the Palais des Papes fills the whole sky in front of you. That's Place du Palais, not a monument itself, but the stage the monuments stand on.
 

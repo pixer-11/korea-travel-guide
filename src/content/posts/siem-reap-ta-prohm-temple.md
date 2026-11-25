@@ -1,60 +1,82 @@
 ---
-title: "Ta Prohm Temple: Siem Reap Travel Guide (4.8★)"
-description: "Ta Prohm Temple in Siem Reap is the jungle-swallowed ruin made famous by Tomb Raider, open daily 7:30am–5:30pm as part of the Angkor Archaeological Park pass. 4.8★ (14,411 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "attraction"
-pubDate: "2026-08-26T09:39:11.664Z"
+title: 'Ta Prohm Temple: Siem Reap Travel Guide (4.8★)'
+description: >-
+  Ta Prohm Temple in Siem Reap is the jungle-swallowed ruin made famous by Tomb
+  Raider, open daily 7:30am–5:30pm as part of the Angkor Archaeological Park
+  pass. 4.8★ (14,835 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Siem Reap
+category: attraction
+pubDate: '2026-08-26T09:39:11.664Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cambodge_Ta_Prohm_bis_Temple.jpg/3840px-Cambodge_Ta_Prohm_bis_Temple.jpg"
-  credit: "Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cambodge_Ta_Prohm_bis_Temple.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cambodge_Ta_Prohm_bis_Temple.jpg/3840px-Cambodge_Ta_Prohm_bis_Temple.jpg
+  credit: 'Photo: Pierre André Leclercq / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cambodge_Ta_Prohm_bis_Temple.jpg'
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ta_Prohm_%2812664360024%29.jpg/3840px-Ta_Prohm_%2812664360024%29.jpg"
-    credit: "Photo: Clay Gilliland / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ta_Prohm_(12664360024).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ta_Prohm_%2812664360024%29.jpg/3840px-Ta_Prohm_%2812664360024%29.jpg
+    credit: 'Photo: Clay Gilliland / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Ta_Prohm_(12664360024).jpg'
 place:
-  id: "ChIJ36Upst8VEDERHgViL55Fuc8"
-  name: "Ta Prohm Temple"
-  address: "Krong Siem Reap, Cambodia"
+  id: ChIJ36Upst8VEDERHgViL55Fuc8
+  name: Ta Prohm Temple
+  address: 'Krong Siem Reap, Cambodia'
   rating: 4.8
-  userRatingsTotal: 14411
-  googleMapsUrl: "https://maps.google.com/?cid=14968071382244656414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14835
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14968071382244656414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.4347941
   lng: 103.88930409999999
-  phone: "+855 63 765 577"
+  phone: +855 63 765 577
   openingHours:
-    - "Monday: 7:30 AM – 5:30 PM"
-    - "Tuesday: 7:30 AM – 5:30 PM"
-    - "Wednesday: 7:30 AM – 5:30 PM"
-    - "Thursday: 7:30 AM – 5:30 PM"
-    - "Friday: 7:30 AM – 5:30 PM"
-    - "Saturday: 7:30 AM – 5:30 PM"
-    - "Sunday: 7:30 AM – 5:30 PM"
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 7:30 AM – 5:30 PM'
+    - 'Sunday: 7:30 AM – 5:30 PM'
 tags:
-  - "siem reap"
-  - "Ta Prohm"
-quickAnswer: "Ta Prohm Temple in Siem Reap is the jungle-swallowed ruin made famous by Tomb Raider, open daily 7:30am–5:30pm as part of the Angkor Archaeological Park pass. It's very popular, so aim for early morning or late afternoon to avoid the worst of the tour-bus crowds. Budget 45–60 minutes to walk its collapsed corridors and photograph the silk-cotton and strangler fig roots."
+  - siem reap
+  - Ta Prohm
+quickAnswer: >-
+  Ta Prohm Temple in Siem Reap is the jungle-swallowed ruin made famous by Tomb
+  Raider, open daily 7:30am–5:30pm as part of the Angkor Archaeological Park
+  pass. It's very popular, so aim for early morning or late afternoon to avoid
+  the worst of the tour-bus crowds. Budget 45–60 minutes to walk its collapsed
+  corridors and photograph the silk-cotton and strangler fig roots.
 faq:
-  - q: "How much time should I budget for Ta Prohm?"
-    a: "Plan for 45–60 minutes to walk the main circuit and root-covered doorways; photographers often stay closer to 90 minutes."
-  - q: "What is the quietest time to visit Ta Prohm?"
-    a: "Right at opening (7:30am) or after 4pm, before and after the main tour-bus groups pass through mid-morning."
-  - q: "Do I need a separate ticket for Ta Prohm?"
-    a: "No — it's covered by the standard Angkor Archaeological Park pass, bought at the official ticket office in Siem Reap, not at the temple gate."
-  - q: "Is Ta Prohm the same as the 'Tomb Raider temple'?"
-    a: "Yes, it's the ruin featured in the 2001 film, famous for its tree roots overtaking the 12th-century stonework."
-  - q: "How do I get from Siem Reap to Ta Prohm?"
-    a: "It's about a 20-minute tuk-tuk or car ride from central Siem Reap; most visitors combine it with Angkor Thom and Angkor Wat in one trip."
+  - q: How much time should I budget for Ta Prohm?
+    a: >-
+      Plan for 45–60 minutes to walk the main circuit and root-covered doorways;
+      photographers often stay closer to 90 minutes.
+  - q: What is the quietest time to visit Ta Prohm?
+    a: >-
+      Right at opening (7:30am) or after 4pm, before and after the main tour-bus
+      groups pass through mid-morning.
+  - q: Do I need a separate ticket for Ta Prohm?
+    a: >-
+      No — it's covered by the standard Angkor Archaeological Park pass, bought
+      at the official ticket office in Siem Reap, not at the temple gate.
+  - q: Is Ta Prohm the same as the 'Tomb Raider temple'?
+    a: >-
+      Yes, it's the ruin featured in the 2001 film, famous for its tree roots
+      overtaking the 12th-century stonework.
+  - q: How do I get from Siem Reap to Ta Prohm?
+    a: >-
+      It's about a 20-minute tuk-tuk or car ride from central Siem Reap; most
+      visitors combine it with Angkor Thom and Angkor Wat in one trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 ## Why Ta Prohm stops you mid-step

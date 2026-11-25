@@ -1,59 +1,87 @@
 ---
-title: "Sukhothai Historical Park: Travel Guide (4.7★)"
-description: "Sukhothai Historical Park, in the Old City (Mueang Kao) area outside modern Sukhothai town, is Thailand's UNESCO-listed 13th-century capital, open daily 6:30am–7:30pm. 4.7★ (18,365 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Sukhothai"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:22:41.232Z"
+title: 'Sukhothai Historical Park: Travel Guide (4.7★)'
+description: >-
+  Sukhothai Historical Park, in the Old City (Mueang Kao) area outside modern
+  Sukhothai town, is Thailand's UNESCO-listed 13th-century capital, open daily
+  6:30am–7:30pm. 4.7★ (18,745 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Sukhothai
+category: hidden-gem
+pubDate: '2026-08-24T08:22:41.232Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wat_srichum_03.jpg/1920px-Wat_srichum_03.jpg"
-  credit: "Photo: Khunkay / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wat_srichum_03.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wat_srichum_03.jpg/1920px-Wat_srichum_03.jpg
+  credit: 'Photo: Khunkay / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Wat_srichum_03.jpg'
   focus:
     x: 45
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sukhothai_Historical_Park_Thailand.jpg/3840px-Sukhothai_Historical_Park_Thailand.jpg"
-    credit: "Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sukhothai_Historical_Park_Thailand.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sukhothai_Historical_Park_Thailand.jpg/3840px-Sukhothai_Historical_Park_Thailand.jpg
+    credit: 'Photo: Philip Nalangan / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sukhothai_Historical_Park_Thailand.jpg
 place:
-  id: "ChIJARQL9DZY3jAR5sfZX3719ng"
-  name: "Sukhothai Historical Park"
-  address: "498 12, Tambon Mueang Kao, Amphoe Mueang Sukhothai, Chang Wat Sukhothai 64210, Thailand"
+  id: ChIJARQL9DZY3jAR5sfZX3719ng
+  name: Sukhothai Historical Park
+  address: >-
+    498 12, Tambon Mueang Kao, Amphoe Mueang Sukhothai, Chang Wat Sukhothai
+    64210, Thailand
   rating: 4.7
-  userRatingsTotal: 18365
-  googleMapsUrl: "https://maps.google.com/?cid=8716424051944966118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18745
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8716424051944966118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.0187799
   lng: 99.7064501
-  phone: "+66 55 697 241"
+  phone: +66 55 697 241
   openingHours:
-    - "Monday: 6:30 AM – 7:30 PM"
-    - "Tuesday: 6:30 AM – 7:30 PM"
-    - "Wednesday: 6:30 AM – 7:30 PM"
-    - "Thursday: 6:30 AM – 7:30 PM"
-    - "Friday: 6:30 AM – 7:30 PM"
-    - "Saturday: 6:30 AM – 7:30 PM"
-    - "Sunday: 6:30 AM – 7:30 PM"
+    - 'Monday: 6:30 AM – 7:30 PM'
+    - 'Tuesday: 6:30 AM – 7:30 PM'
+    - 'Wednesday: 6:30 AM – 7:30 PM'
+    - 'Thursday: 6:30 AM – 7:30 PM'
+    - 'Friday: 6:30 AM – 7:30 PM'
+    - 'Saturday: 6:30 AM – 7:30 PM'
+    - 'Sunday: 6:30 AM – 7:30 PM'
 tags:
-  - "sukhothai"
-  - "hidden gem"
-quickAnswer: "Sukhothai Historical Park, in the Old City (Mueang Kao) area outside modern Sukhothai town, is Thailand's UNESCO-listed 13th-century capital, open daily 6:30am–7:30pm. It's very popular, so aim for early morning or the last hour before closing to see the brick chedis and Buddha images without crowds. Plan half a day and rent a bicycle at the entrance — the Central Zone alone covers about 70 hectares."
+  - sukhothai
+  - hidden gem
+quickAnswer: >-
+  Sukhothai Historical Park, in the Old City (Mueang Kao) area outside modern
+  Sukhothai town, is Thailand's UNESCO-listed 13th-century capital, open daily
+  6:30am–7:30pm. It's very popular, so aim for early morning or the last hour
+  before closing to see the brick chedis and Buddha images without crowds. Plan
+  half a day and rent a bicycle at the entrance — the Central Zone alone covers
+  about 70 hectares.
 faq:
-  - q: "How much time should I budget for Sukhothai Historical Park?"
-    a: "Plan at least half a day (3–4 hours) to cover the Central Zone by bicycle, or a full day if you want to see the North, West, and East Zones too."
-  - q: "What's the best way to get around inside the park?"
-    a: "Rent a bicycle right outside the Central Zone entrance — the ruins are spread over roughly 70 hectares, too far to comfortably cover on foot in one visit."
-  - q: "When is the quietest time to visit?"
-    a: "Go right at opening (6:30am) on a weekday or in the last hour before the 7:30pm close — mid-morning and weekends bring the heaviest tour bus traffic."
-  - q: "Do I need separate tickets for each zone?"
-    a: "Yes, the Central, North, West, and East Zones each require their own small entry ticket, payable in cash at each zone's gate."
-  - q: "How do I get from Sukhothai town to the historical park?"
-    a: "Shared songthaews run regularly from the new town's bus station to the park entrance, about 12km away, for a low fare."
+  - q: How much time should I budget for Sukhothai Historical Park?
+    a: >-
+      Plan at least half a day (3–4 hours) to cover the Central Zone by bicycle,
+      or a full day if you want to see the North, West, and East Zones too.
+  - q: What's the best way to get around inside the park?
+    a: >-
+      Rent a bicycle right outside the Central Zone entrance — the ruins are
+      spread over roughly 70 hectares, too far to comfortably cover on foot in
+      one visit.
+  - q: When is the quietest time to visit?
+    a: >-
+      Go right at opening (6:30am) on a weekday or in the last hour before the
+      7:30pm close — mid-morning and weekends bring the heaviest tour bus
+      traffic.
+  - q: Do I need separate tickets for each zone?
+    a: >-
+      Yes, the Central, North, West, and East Zones each require their own small
+      entry ticket, payable in cash at each zone's gate.
+  - q: How do I get from Sukhothai town to the historical park?
+    a: >-
+      Shared songthaews run regularly from the new town's bus station to the
+      park entrance, about 12km away, for a low fare.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 
 You come around a bend in the path and the tree line opens onto a field of laterite and brick, rows of headless Buddhas seated in rows against a backdrop of low green hills. This is Sukhothai Historical Park, the ruined heart of Thailand's first independent kingdom, and even at a glance you can tell it isn't a single monument but an entire vanished city.

@@ -1,52 +1,77 @@
 ---
-title: "Wat Bo: Siem Reap Travel Guide (4.5★)"
-description: "Wat Bo is a working Buddhist temple in the Wat Bo neighbourhood of Siem Reap, a short walk or tuk-tuk ride east of the river and Pub Street area. 4.5★ (1,074 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "hidden-gem"
-pubDate: "2026-08-25T09:15:15.573Z"
+title: 'Wat Bo: Siem Reap Travel Guide (4.5★)'
+description: >-
+  Wat Bo is a working Buddhist temple in the Wat Bo neighbourhood of Siem Reap,
+  a short walk or tuk-tuk ride east of the river and Pub Street area. 4.5★
+  (1,116 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Siem Reap
+category: hidden-gem
+pubDate: '2026-08-25T09:15:15.573Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/01-Wat_Bo_Siem_Reap-NglL-06630.jpg/3840px-01-Wat_Bo_Siem_Reap-NglL-06630.jpg"
-  credit: "Photo: No(0)GoodNamesLeft / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:01-Wat_Bo_Siem_Reap-NglL-06630.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/01-Wat_Bo_Siem_Reap-NglL-06630.jpg/3840px-01-Wat_Bo_Siem_Reap-NglL-06630.jpg
+  credit: 'Photo: No(0)GoodNamesLeft / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:01-Wat_Bo_Siem_Reap-NglL-06630.jpg'
+  via: act
   focus:
     x: 60
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/48382350_CgXprXR2AIUDku7uobbdNkPpwEqNaGAwpH8D1T7A5kM.jpg"
-    credit: "Photo: Foursquare user content (Wat Bo)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/51559a56e4b08bfe22a5b60b"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/48382350_CgXprXR2AIUDku7uobbdNkPpwEqNaGAwpH8D1T7A5kM.jpg
+    credit: 'Photo: Foursquare user content (Wat Bo)'
+    license: foursquare
+    source: 'https://foursquare.com/v/51559a56e4b08bfe22a5b60b'
 place:
-  id: "ChIJ0V_HuHAXEDERvEQB-3hywlI"
-  name: "Wat Bo"
-  address: "0092 Street 22, Krong Siem Reap, Cambodia"
+  id: ChIJ0V_HuHAXEDERvEQB-3hywlI
+  name: Wat Bo
+  address: '0092 Street 22, Krong Siem Reap, Cambodia'
   rating: 4.5
-  userRatingsTotal: 1074
-  googleMapsUrl: "https://maps.google.com/?cid=5963454720524764348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1116
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5963454720524764348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.356312599999999
   lng: 103.86175180000001
-  phone: "+855 31 408 4000"
+  phone: +855 31 408 4000
 tags:
-  - "siem reap"
-  - "Wat Bo"
-quickAnswer: "Wat Bo is a working Buddhist temple in the Wat Bo neighbourhood of Siem Reap, a short walk or tuk-tuk ride east of the river and Pub Street area. It's one of the city's oldest pagodas, known for its 19th-century mural paintings, and it stays quiet even in high season for Angkor tourism. Plan 30–45 minutes, go in the morning or late afternoon, and dress modestly since it's an active monastery, not a museum."
+  - siem reap
+  - Wat Bo
+quickAnswer: >-
+  Wat Bo is a working Buddhist temple in the Wat Bo neighbourhood of Siem Reap,
+  a short walk or tuk-tuk ride east of the river and Pub Street area. It's one
+  of the city's oldest pagodas, known for its 19th-century mural paintings, and
+  it stays quiet even in high season for Angkor tourism. Plan 30–45 minutes, go
+  in the morning or late afternoon, and dress modestly since it's an active
+  monastery, not a museum.
 faq:
-  - q: "How much does it cost to visit Wat Bo?"
-    a: "There's no official entry ticket. A small voluntary donation toward the temple's upkeep is the norm, usually left in a box near the entrance."
-  - q: "How do I get to Wat Bo from central Siem Reap?"
-    a: "It's on Street 22 in the Wat Bo neighbourhood, about a 15–20 minute walk or a short, inexpensive tuk-tuk ride from Pub Street and the Old Market."
-  - q: "How long should I spend at Wat Bo?"
-    a: "Most visitors need 30–45 minutes to see the murals in the ordination hall and walk the grounds."
-  - q: "When is the best time to visit?"
-    a: "Early morning (around 7–9am) or late afternoon after 4pm, when the light is softer and the heat has eased. It stays quiet most of the day since it's off the main Angkor tourist circuit."
-  - q: "What should I wear or know before entering?"
-    a: "Dress modestly with shoulders and knees covered, remove your shoes before entering the vihara, and keep noise down — it's an active monastery, not a tourist site."
+  - q: How much does it cost to visit Wat Bo?
+    a: >-
+      There's no official entry ticket. A small voluntary donation toward the
+      temple's upkeep is the norm, usually left in a box near the entrance.
+  - q: How do I get to Wat Bo from central Siem Reap?
+    a: >-
+      It's on Street 22 in the Wat Bo neighbourhood, about a 15–20 minute walk
+      or a short, inexpensive tuk-tuk ride from Pub Street and the Old Market.
+  - q: How long should I spend at Wat Bo?
+    a: >-
+      Most visitors need 30–45 minutes to see the murals in the ordination hall
+      and walk the grounds.
+  - q: When is the best time to visit?
+    a: >-
+      Early morning (around 7–9am) or late afternoon after 4pm, when the light
+      is softer and the heat has eased. It stays quiet most of the day since
+      it's off the main Angkor tourist circuit.
+  - q: What should I wear or know before entering?
+    a: >-
+      Dress modestly with shoulders and knees covered, remove your shoes before
+      entering the vihara, and keep noise down — it's an active monastery, not a
+      tourist site.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 ## Why Wat Bo is worth the detour
 

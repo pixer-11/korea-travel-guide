@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sha-tin-sha-tin-park
-srcHash: '527f0deaad5a'
+srcHash: '22e57e6945c3'
 title: 'Parque Sha Tin: Guía de viaje (4,2★)'
 description: El parque Sha Tin, en Sha Tin, Nuevos Territorios, es una franja de jardines, cascadas y estanques de tortugas junto al río, abierta todos los días de 6:30 a 23:00. Descubre qué opinan los visitantes, el horario y algunos consejos (4,2★, 2.143 reseñas).
 quickAnswer: El parque Sha Tin, en Sha Tin, Nuevos Territorios, es una franja de jardines, cascadas y estanques de tortugas junto al río, abierta todos los días de 6:30 a 23:00. La mejor hora para visitarlo es temprano por la mañana o después de las 19:00, cuando baja el calor y los vecinos salen a practicar tai chi o a pasear al atardecer. Calcula entre 45 minutos y una hora, más si vas con niños y piensas usar los parques infantiles.

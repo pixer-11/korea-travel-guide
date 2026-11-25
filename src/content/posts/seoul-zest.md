@@ -1,6 +1,8 @@
 ---
 title: 'Zest: Seoul Travel Guide'
-description: 'Zest in Seoul, South Korea — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Zest in Seoul, South Korea — a new/trending spot: what it is, where it is, and
+  how to visit.
 country: South Korea
 region: Seoul
 category: trendy
@@ -8,38 +10,60 @@ pubDate: '2026-08-27'
 tags:
   - seoul
   - new & trending
-quickAnswer: Zest is a zero-waste cocktail bar in Seoul's Gangnam-gu, currently ranked No. 2 on Asia's 50 Best Bars 2026 list and named Best Bar in Korea for a fourth consecutive year. It's known for house-made spirits and sodas, especially the hallabong-based Jeju Garibaldi — book ahead, and go on a weeknight for a calmer, unhurried visit. Always confirm current hours, address, and reservation details directly with the bar before you go.
+quickAnswer: >-
+  Zest is a zero-waste cocktail bar in Seoul's Gangnam-gu, currently ranked No.
+  2 on Asia's 50 Best Bars 2026 list and named Best Bar in Korea for a fourth
+  consecutive year. It's known for house-made spirits and sodas, especially the
+  hallabong-based Jeju Garibaldi — book ahead, and go on a weeknight for a
+  calmer, unhurried visit. Always confirm current hours, address, and
+  reservation details directly with the bar before you go.
 faq:
   - q: Where exactly is Zest located?
-    a: It's in Gangnam-gu, Seoul, near the Gangnam Station (Line 2) / Sinnonhyeon Station (Line 9) area. Confirm the precise address and nearest exit on the bar's official page before heading over, as details can shift.
+    a: >-
+      It's in Gangnam-gu, Seoul, near the Gangnam Station (Line 2) / Sinnonhyeon
+      Station (Line 9) area. Confirm the precise address and nearest exit on the
+      bar's official page before heading over, as details can shift.
   - q: Do I need a reservation?
-    a: Given its ranking as one of Asia's top bars, yes — treat a booking as essential, especially for weekend evenings. Reserve through the bar's official channel or a trusted platform.
+    a: >-
+      Given its ranking as one of Asia's top bars, yes — treat a booking as
+      essential, especially for weekend evenings. Reserve through the bar's
+      official channel or a trusted platform.
   - q: What should I order?
-    a: The Jeju Garibaldi, made with hallabong (Jeju tangerine), is the signature drink and best showcases the house's zero-waste, house-made approach. Ask the bartender what's seasonal, since ingredients change.
+    a: >-
+      The Jeju Garibaldi, made with hallabong (Jeju tangerine), is the signature
+      drink and best showcases the house's zero-waste, house-made approach. Ask
+      the bartender what's seasonal, since ingredients change.
   - q: When is the best time to visit for a quieter experience?
-    a: Weeknights, especially right after opening, tend to be calmer. Weekend nights after 9pm get busiest as Gangnam's dinner crowd moves on to bars.
+    a: >-
+      Weeknights, especially right after opening, tend to be calmer. Weekend
+      nights after 9pm get busiest as Gangnam's dinner crowd moves on to bars.
   - q: What else is nearby?
-    a: Gangnam-gu is home to COEX Mall and the Starfield Library, plus a dense strip of restaurants and other notable bars — easy to combine with a Zest reservation for a full evening out.
+    a: >-
+      Gangnam-gu is home to COEX Mall and the Starfield Library, plus a dense
+      strip of restaurants and other notable bars — easy to combine with a Zest
+      reservation for a full evening out.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1231643_ddEgSxUkieniEp6JKc6tFKNPXg4LoIPboAyVPmv3zQM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1231643_ddEgSxUkieniEp6JKc6tFKNPXg4LoIPboAyVPmv3zQM.jpg
   credit: 'Photo: Foursquare user content (Zest (제스트))'
   license: foursquare
-  source: https://foursquare.com/v/50a0cdbce4b0ab1754ba4c8d
+  source: 'https://foursquare.com/v/50a0cdbce4b0ab1754ba4c8d'
   focus:
     x: 45
     'y': 45
 place:
   id: ChIJ9eN6-_GlfDUR5SGWDB7YNkw
   name: ZEST SEOUL
-  address: South Korea, Seoul, Gangnam District, Dosan-daero 55-gil, 26 하늘빌딩 1층
+  address: 'South Korea, Seoul, Gangnam District, Dosan-daero 55-gil, 26 하늘빌딩 1층'
   rating: 4.8
-  userRatingsTotal: 536
-  googleMapsUrl: https://maps.google.com/?cid=5491814419196682725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 567
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5491814419196682725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.5252611
   lng: 127.04077799999999
-  phone: '+82 10-3177-8801'
+  phone: +82 10-3177-8801
   openingHours:
     - 'Monday: 6:30 PM – 2:00 AM'
     - 'Tuesday: 6:30 PM – 2:00 AM'
@@ -48,6 +72,7 @@ place:
     - 'Friday: 6:30 PM – 2:00 AM'
     - 'Saturday: 3:00 PM – 2:00 AM'
     - 'Sunday: 3:00 PM – 2:00 AM'
+updatedDate: '2026-11-25'
 ---
 ## Why Zest matters right now
 

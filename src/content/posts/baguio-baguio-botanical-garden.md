@@ -3,7 +3,7 @@ title: 'Baguio Botanical Garden: Travel Guide (4.5★)'
 description: >-
   Baguio Botanical Garden is a free, open-air park on Leonard Wood Road, best
   known for its pine-shaded paths, Cordillera-style native huts, and flower
-  gardens. 4.5★ (8,339 reviews) — what visitors say, hours, and tips.
+  gardens. 4.5★ (8,478 reviews) — what visitors say, hours, and tips.
 country: Philippines
 region: Baguio
 category: attraction
@@ -29,7 +29,7 @@ place:
   name: Baguio Botanical Garden
   address: '37 Leonard Wood Rd, Baguio, 2600 Benguet, Philippines'
   rating: 4.5
-  userRatingsTotal: 8339
+  userRatingsTotal: 8478
   googleMapsUrl: >-
     https://maps.google.com/?cid=7438398883189254354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -92,7 +92,7 @@ faq:
       making an easy combined half-day visit.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-25'
 ---
 ## Why go
 

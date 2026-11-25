@@ -1,31 +1,38 @@
 ---
 title: 'Sha Tin Che Kung Temple: Travel Guide (4.5★)'
-description: Sha Tin Che Kung Temple is a working Chinese temple in Sha Tin, New Territories, best reached via Che Kung Temple MTR Station on the East Rail Line. 4.5★ (5,679 reviews) — what visitors say, hours, and tips.
+description: >-
+  Sha Tin Che Kung Temple is a working Chinese temple in Sha Tin, New
+  Territories, best reached via Che Kung Temple MTR Station on the East Rail
+  Line. 4.5★ (5,830 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Sha Tin
 category: attraction
 pubDate: '2026-08-26T08:11:05.375Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/202511_Che_Kung_Temple%2C_Sha_Tin_01.jpg/1920px-202511_Che_Kung_Temple%2C_Sha_Tin_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/202511_Che_Kung_Temple%2C_Sha_Tin_01.jpg/1920px-202511_Che_Kung_Temple%2C_Sha_Tin_01.jpg
   credit: 'Photo: Jonashtand / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:202511_Che_Kung_Temple,_Sha_Tin_01.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:202511_Che_Kung_Temple,_Sha_Tin_01.jpg
   via: act
   focus:
     x: 50
     'y': 30
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Che_Kung_Temple_Sha_Tin_01.jpg/1920px-Che_Kung_Temple_Sha_Tin_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Che_Kung_Temple_Sha_Tin_01.jpg/1920px-Che_Kung_Temple_Sha_Tin_01.jpg
     credit: 'Photo: Underwaterbuffalo / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Che_Kung_Temple_Sha_Tin_01.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Che_Kung_Temple_Sha_Tin_01.jpg'
 place:
   id: ChIJyXIWeQcHBDQRAmd5ZYFLrXc
   name: Sha Tin Che Kung Temple
-  address: 7 Che Kung Miu Rd, Sha Tin, New Territories, Hong Kong
+  address: '7 Che Kung Miu Rd, Sha Tin, New Territories, Hong Kong'
   rating: 4.5
-  userRatingsTotal: 5679
-  googleMapsUrl: https://maps.google.com/?cid=8623631880609687298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5830
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8623631880609687298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.373419
   lng: 114.182831
@@ -58,20 +65,37 @@ place:
 tags:
   - sha tin
   - historic site
-quickAnswer: Sha Tin Che Kung Temple is a working Chinese temple in Sha Tin, New Territories, best reached via Che Kung Temple MTR Station on the East Rail Line. It's open daily 8am–6pm and gets busiest on weekends between 10am and 5pm, so arrive right at 8am on a Saturday or Sunday if you want it calm. Budget 30–45 minutes, and pair it with a walk along the nearby Shing Mun River.
+quickAnswer: >-
+  Sha Tin Che Kung Temple is a working Chinese temple in Sha Tin, New
+  Territories, best reached via Che Kung Temple MTR Station on the East Rail
+  Line. It's open daily 8am–6pm and gets busiest on weekends between 10am and
+  5pm, so arrive right at 8am on a Saturday or Sunday if you want it calm.
+  Budget 30–45 minutes, and pair it with a walk along the nearby Shing Mun
+  River.
 faq:
   - q: How do I get to Sha Tin Che Kung Temple by MTR?
-    a: Take the East Rail Line to Che Kung Temple Station and leave via Exit B — the temple is a five-minute walk from there.
+    a: >-
+      Take the East Rail Line to Che Kung Temple Station and leave via Exit B —
+      the temple is a five-minute walk from there.
   - q: What is the quietest time to visit?
-    a: Weekdays are calm throughout the 8am–6pm opening hours. On weekends, go right at 8am–9am before crowds build; avoid 10am–5pm when it's busiest.
+    a: >-
+      Weekdays are calm throughout the 8am–6pm opening hours. On weekends, go
+      right at 8am–9am before crowds build; avoid 10am–5pm when it's busiest.
   - q: How long should I spend at the temple?
-    a: Most visitors spend 30–45 minutes, enough time to see the main hall, spin the giant windmill, and browse the pinwheel stalls outside.
+    a: >-
+      Most visitors spend 30–45 minutes, enough time to see the main hall, spin
+      the giant windmill, and browse the pinwheel stalls outside.
   - q: Is there an entrance fee?
-    a: No, entry is free. Bring small cash for incense, offerings, or a pinwheel souvenir from the outdoor stalls.
+    a: >-
+      No, entry is free. Bring small cash for incense, offerings, or a pinwheel
+      souvenir from the outdoor stalls.
   - q: What else can I do nearby?
-    a: The Shing Mun River promenade is a scenic 15-minute walk away, and Sha Tin's town centre and shopping malls are easily combined with the visit.
+    a: >-
+      The Shing Mun River promenade is a scenic 15-minute walk away, and Sha
+      Tin's town centre and shopping malls are easily combined with the visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-25'
 ---
 ## Why go
 

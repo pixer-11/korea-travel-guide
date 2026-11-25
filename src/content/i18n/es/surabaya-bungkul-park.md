@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: surabaya-bungkul-park
-srcHash: '087a597d3d84'
+srcHash: 'a9e155277103'
 title: 'Parque Bungkul: Guía de Viaje de Surabaya (4,6★)'
-description: 'El Taman Bungkul (parque Bungkul) se encuentra en Jalan Raya Darmo, en el distrito de Wonokromo, en Surabaya, y es uno de los espacios verdes más concurridos de la ciudad, así que conviene ir temprano en un día laborable si se busca algo de tranquilidad. 4,6★ (58.557 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Taman Bungkul (parque Bungkul) se encuentra en Jalan Raya Darmo, en el distrito de Wonokromo, en Surabaya, y es uno de los espacios verdes más concurridos de la ciudad, así que conviene ir temprano en un día laborable si se busca algo de tranquilidad. 4,6★ (58.782 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Taman Bungkul (parque Bungkul) se encuentra en Jalan Raya Darmo, en el distrito de Wonokromo, en Surabaya, y es uno de los espacios verdes más concurridos de la ciudad, así que conviene ir temprano en un día laborable si se busca algo de tranquilidad. Los fines de semana el parque está lleno de 7:00 a 23:00 con corredores, patinadores, puestos de comida y familias, así que las tardes son para disfrutar del ambiente, no para buscar calma. Conviene reservar una o dos horas, más si se quiere recorrer con calma los puestos de comida callejera.
 faq:
   - q: ¿Dónde está exactamente el parque Bungkul?
