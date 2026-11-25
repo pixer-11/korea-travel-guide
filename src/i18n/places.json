@@ -221,6 +221,12 @@
     "es": "Ate",
     "zh": "阿特"
   },
+  "Atlanta": {
+    "ko": "애틀랜타",
+    "ja": "アトランタ",
+    "es": "Atlanta",
+    "zh": "亚特兰大"
+  },
   "Auckland": {
     "ko": "오클랜드",
     "ja": "オークランド",
@@ -400,6 +406,12 @@
     "ja": "ブバネーシュワル",
     "es": "Bhubaneswar",
     "zh": "布巴内斯瓦尔"
+  },
+  "Bhuj": {
+    "ko": "부지",
+    "ja": "ブジ",
+    "es": "Bhuj",
+    "zh": "布杰"
   },
   "Bilbao": {
     "ko": "빌바오",
@@ -1234,6 +1246,12 @@
     "ja": "ガーデナ",
     "es": "Gardena",
     "zh": "加迪纳"
+  },
+  "Garmisch-Partenkirchen": {
+    "ko": "가르미슈파르텐키르헨",
+    "ja": "ガルミッシュ=パルテンキルヒェン",
+    "es": "Garmisch-Partenkirchen",
+    "zh": "加米施-帕滕基兴"
   },
   "Gatineau": {
     "ko": "가티노",
@@ -3155,6 +3173,12 @@
     "es": "Roma",
     "zh": "罗马"
   },
+  "Rosario": {
+    "ko": "로사리오",
+    "ja": "ロサリオ",
+    "es": "Rosario",
+    "zh": "罗萨里奥"
+  },
   "Rothenburg ob der Tauber": {
     "ko": "로텐부르크 옵 데어 타우버",
     "ja": "ローテンブルク・オプ・デア・タウバー",
@@ -3443,6 +3467,12 @@
     "es": "Singapur",
     "zh": "新加坡"
   },
+  "Sisophon": {
+    "ko": "시소폰",
+    "ja": "シソポン",
+    "es": "Sisophon",
+    "zh": "诗梳风"
+  },
   "Sitges": {
     "ko": "시체스",
     "ja": "シッチェス",
@@ -3652,6 +3682,12 @@
     "ja": "タンゲラン",
     "es": "Tangerang",
     "zh": "坦格朗"
+  },
+  "Taoyuan": {
+    "ko": "타오위안",
+    "ja": "桃園",
+    "es": "Taoyuan",
+    "zh": "桃园"
   },
   "Taroko Gorge": {
     "ko": "타로코 협곡",

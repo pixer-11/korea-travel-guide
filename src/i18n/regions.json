@@ -17194,5 +17194,167 @@
       "getting": "拉格兰本身没有机场或火车站，最近的机场是汉密尔顿机场（HLZ）和奥克兰机场（AKL）。没有自驾的旅客大多会先飞抵其中一个枢纽城市，再从当地转乘巴士前往，通常是在汉密尔顿的巴士总站换乘23路（Route 23）地方线，直达拉格兰。",
       "days": "游览主要海滩、体验一堂冲浪课，再加上前往新娘面纱瀑布的徒步行程，大约安排2到3天即可；如果想放慢脚步、真正融入小镇的悠闲节奏，不妨多留几天。"
     }
+  },
+  "Atlanta": {
+    "en": {
+      "blurb": "Atlanta is the economic and cultural engine of the American South: a sprawling, tree-canopied city built on railroads, reinvented through the civil rights movement, and now home to a global airline hub, major film studios, and a influential music scene. It blends deep history, from the Martin Luther King Jr. historic sites to the Civil War-era roots of the city, with a fast-growing, cosmopolitan skyline.",
+      "getting": "Most travellers arrive via Hartsfield-Jackson Atlanta International Airport (ATL), one of the world's busiest airports, located a few miles south of downtown. MARTA's Red and Gold Line trains run directly from the airport's Airport Station to Five Points in Downtown, taking roughly 20 to 30 minutes.",
+      "days": "Plan on ~3 to 4 days to cover downtown's museums and civil rights landmarks, the Beltline and Midtown's arts district, plus time to explore Atlanta's distinct intown neighbourhoods."
+    },
+    "ko": {
+      "blurb": "애틀랜타는 미국 남부를 대표하는 경제·문화 중심지입니다. 철도를 기반으로 성장했고, 시민권 운동을 거치며 새롭게 거듭났으며, 지금은 세계적인 항공 허브와 대형 영화 스튜디오, 영향력 있는 음악 씬을 품은 나무가 우거진 광활한 도시입니다. 마틴 루터 킹 주니어 관련 역사 유적지부터 남북전쟁 시대에 뿌리를 둔 도시의 역사까지, 깊은 과거와 빠르게 성장하는 국제도시다운 스카이라인이 공존합니다.",
+      "getting": "대부분의 여행객은 다운타운에서 남쪽으로 몇 마일 떨어진 하츠필드-잭슨 애틀랜타 국제공항(ATL)을 통해 도착합니다. 이곳은 세계에서 가장 분주한 공항 중 하나입니다. MARTA의 레드 라인과 골드 라인 열차가 공항역(Airport Station)에서 다운타운의 파이브 포인츠(Five Points)까지 직행으로 운행되며, 소요 시간은 약 20~30분입니다.",
+      "days": "다운타운의 박물관과 시민권 운동 유적지, 벨트라인과 미드타운의 예술 지구를 둘러보고, 애틀랜타만의 개성 넘치는 여러 동네까지 탐방하려면 약 3~4일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "アトランタは、アメリカ南部を牽引する経済・文化の中心地だ。鉄道の町として発展し、公民権運動を通じて生まれ変わったこの緑豊かな大都市は、今や世界有数のハブ空港、大手映画スタジオ、そして影響力あるミュージックシーンを擁する都市となっている。マーティン・ルーサー・キング牧師ゆかりの史跡から南北戦争時代に遡るルーツまで、深い歴史を持ちながら、急速に発展を遂げる洗練されたスカイラインが広がっている。",
+      "getting": "多くの旅行者は、ダウンタウンから数マイル南に位置する、世界有数の発着数を誇るハーツフィールド・ジャクソン・アトランタ国際空港(ATL)を利用して訪れる。MARTAのレッドラインおよびゴールドラインの電車が空港駅からダウンタウンのファイブ・ポインツまで直通で運行しており、所要時間はおよそ20〜30分だ。",
+      "days": "ダウンタウンの博物館や公民権運動ゆかりの史跡、ベルトラインやミッドタウンのアートエリアを巡るには3〜4日ほど見ておくとよい。さらに、アトランタならではの個性豊かな市内各地区を散策する時間も確保したい。"
+    },
+    "es": {
+      "blurb": "Atlanta es el motor económico y cultural del sur de Estados Unidos: una ciudad extensa, cubierta de árboles, construida sobre los ferrocarriles, reinventada a través del movimiento por los derechos civiles, y hoy sede de un aeropuerto de alcance mundial, grandes estudios cinematográficos y una escena musical de gran influencia. La ciudad combina una historia profunda —desde los sitios históricos de Martin Luther King Jr. hasta sus raíces de la época de la Guerra Civil— con un horizonte cosmopolita en pleno crecimiento.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Hartsfield-Jackson de Atlanta (ATL), uno de los más transitados del mundo, ubicado a pocos kilómetros al sur del centro de la ciudad. Los trenes de las líneas Roja y Dorada de MARTA conectan directamente la Airport Station con Five Points, en pleno centro, en un trayecto de aproximadamente 20 a 30 minutos.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para recorrer los museos y los lugares emblemáticos de los derechos civiles en el centro, el Beltline y el distrito artístico de Midtown, además de tiempo libre para explorar los barrios tan singulares de Atlanta."
+    },
+    "zh": {
+      "blurb": "亚特兰大是美国南方的经济与文化引擎：这座绿树成荫、版图广阔的城市因铁路而兴起，在民权运动中实现了自我重塑，如今更是全球航空枢纽、大型电影制片基地以及极具影响力的音乐重镇。从马丁·路德·金纪念地到南北战争时期的历史根基，这里的深厚底蕴与日新月异、国际化的城市天际线交相辉映。",
+      "getting": "大多数游客经由哈兹菲尔德-杰克逊亚特兰大国际机场（ATL）抵达，这是全球最繁忙的机场之一，位于市中心以南几英里处。MARTA地铁红线和金线可从机场站直达市中心的五点站（Five Points），车程约20至30分钟。",
+      "days": "建议安排约3至4天：游览市中心的博物馆和民权运动地标、Beltline步道以及米德敦（Midtown）艺术区，同时也留出时间探索亚特兰大各具特色的市区街坊。"
+    }
+  },
+  "Bhuj": {
+    "en": {
+      "blurb": "Bhuj is the walled capital of Kutch, a Gujarat borderland of white salt desert, earthquake-scarred palaces and villages famous for embroidery, block-printing and bandhani textiles. Rebuilt after the devastating 2001 earthquake, it pairs royal-era landmarks like Aina Mahal and Prag Mahal with its role as the main gateway to the Great Rann of Kutch.",
+      "getting": "Bhuj has its own airport, Bhuj Airport (BHJ), with domestic flights from cities such as Mumbai and Delhi, and its own railway station (code BHUJ) on the Western Railway line with direct and connecting trains to Ahmedabad, Mumbai and Delhi. The airport and station both sit only a few kilometres from the city centre, with autos and taxis covering the hop in under half an hour; travellers can also reach Bhuj by road via regular buses from Ahmedabad and other regional hubs.",
+      "days": "Plan on ~2 to 3 days: one for Bhuj's old-city sights like Aina Mahal, Prag Mahal and the Kutch Museum, and at least one more for a day trip out to the White Rann of Kutch and nearby craft villages."
+    },
+    "ko": {
+      "blurb": "부지(Bhuj)는 구자라트 접경 지역 쿠치(Kutch)의 성벽 도시이자 주도로, 하얀 소금 사막과 지진의 상흔이 남은 궁전들, 그리고 자수와 블록 프린트, 반다니 직물로 유명한 마을들을 품고 있다. 2001년의 참혹한 지진 이후 재건된 이 도시는 아이나 마할(Aina Mahal)과 프라그 마할(Prag Mahal) 같은 왕조 시대의 유적을 간직하면서도, 그레이트 란 오브 쿠치(Great Rann of Kutch)로 향하는 주요 관문 역할을 하고 있다.",
+      "getting": "부지에는 자체 공항인 부지 공항(BHJ)이 있어 뭄바이, 델리 등지에서 국내선 항공편이 운항되며, 웨스턴 철도(Western Railway) 노선상의 자체 기차역(코드 BHUJ)을 통해 아마다바드, 뭄바이, 델리로 직행 또는 환승 열차를 이용할 수 있다. 공항과 기차역 모두 시내 중심부에서 불과 몇 킬로미터 거리에 있어 오토릭샤나 택시로 30분이 채 걸리지 않으며, 아마다바드를 비롯한 주변 주요 도시에서 출발하는 정기 버스를 이용해 육로로도 부지에 도착할 수 있다.",
+      "days": "일정은 2~3일 정도를 잡으면 적당하다. 하루는 아이나 마할, 프라그 마할, 쿠치 박물관(Kutch Museum) 등 부지 구시가지의 명소를 둘러보는 데 쓰고, 최소 하루는 화이트 란 오브 쿠치(White Rann of Kutch)와 인근 공예 마을들로 당일치기 여행을 다녀오는 데 할애하자."
+    },
+    "ja": {
+      "blurb": "ブジは、グジャラート州カッチ地方にある城壁都市で、同州を代表する境界の地です。一面に広がる白い塩の砂漠、地震の爪痕を残す宮殿群、そして刺繍、木版プリント、バンダニ染めで名高い村々が点在しています。2001年の大地震で甚大な被害を受けた後に再建されたこの街は、アイナ・マハルやプラグ・マハルといった藩王国時代の名所を今に伝える一方、グレート・ラン・オブ・カッチへの主要な玄関口としての役割も担っています。",
+      "getting": "ブジには独自の空港ブジ空港（BHJ）があり、ムンバイやデリーなどの都市から国内線が就航しています。また、ウェスタン鉄道線沿いに自前の鉄道駅（駅コードBHUJ）を持ち、アーメダバード、ムンバイ、デリーへの直通・乗り継ぎ列車が利用可能です。空港も駅も市街中心部からわずか数キロの距離にあり、オート（オートリキシャ）やタクシーを使えば30分もかからずに移動できます。また、アーメダバードなど周辺の主要都市からは定期バスも運行しており、陸路でブジを訪れることもできます。",
+      "days": "滞在の目安は2〜3日です。1日はアイナ・マハル、プラグ・マハル、カッチ博物館など旧市街の見どころ巡りに充て、さらに少なくとも1日はホワイト・ラン・オブ・カッチや周辺の工芸村への日帰り旅行に充てるとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Bhuj es la amurallada capital de Kutch, una región fronteriza de Gujarat marcada por desiertos de sal blanca, palacios con cicatrices de terremotos y pueblos célebres por sus bordados, su estampado en bloque y los textiles bandhani. Reconstruida tras el devastador terremoto de 2001, combina hitos de la era real como el Aina Mahal y el Prag Mahal con su papel como principal puerta de entrada al Gran Rann de Kutch.",
+      "getting": "Bhuj cuenta con su propio aeropuerto, el Bhuj Airport (BHJ), con vuelos domésticos desde ciudades como Mumbai y Delhi, así como con su propia estación de tren (código BHUJ) en la línea de Western Railway, con trenes directos y con conexión hacia Ahmedabad, Mumbai y Delhi. Tanto el aeropuerto como la estación se encuentran a solo unos kilómetros del centro de la ciudad, y autos y taxis cubren ese trayecto en menos de media hora; los viajeros también pueden llegar a Bhuj por carretera mediante autobuses regulares desde Ahmedabad y otros núcleos regionales.",
+      "days": "Calcula entre 2 y 3 días: uno para los sitios del casco antiguo de Bhuj, como el Aina Mahal, el Prag Mahal y el Museo de Kutch, y al menos uno más para una excursión de un día al Rann Blanco de Kutch y a los pueblos artesanos cercanos."
+    },
+    "zh": {
+      "blurb": "布吉（Bhuj）是库奇（Kutch）地区的古城垣首府，地处古吉拉特邦边境，周围是白色盐漠、历经地震创伤的宫殿，以及以刺绣、木版印花和班达尼扎染闻名的村落。2001年那场毁灭性地震后，布吉重建一新，如今既保留着阿伊娜宫（Aina Mahal）、普拉格宫（Prag Mahal）等王朝时代的地标建筑，又扮演着通往大兰恩盐沼（Great Rann of Kutch）主门户的角色。",
+      "getting": "布吉拥有自己的机场——布吉机场（BHJ），有来自孟买、德里等城市的国内航班；同时也有自己的火车站（站点代码BHUJ），位于西部铁路线上，可直达或换乘前往艾哈迈达巴德、孟买和德里的列车。机场和火车站都距市中心仅几公里，乘三轮车或出租车半小时内即可到达；旅客也可以选择陆路交通，乘坐从艾哈迈达巴德及其他区域枢纽发出的班车前往布吉。",
+      "days": "建议安排2到3天行程：用一天游览布吉老城区的景点，如阿伊娜宫、普拉格宫和库奇博物馆（Kutch Museum）；再至少留一天前往白兰恩盐沼（White Rann of Kutch）及周边手工艺村落，来一场一日游。"
+    }
+  },
+  "Garmisch-Partenkirchen": {
+    "en": {
+      "blurb": "Garmisch-Partenkirchen sits at the foot of the Zugspitze, Germany's highest peak, where two once-separate Bavarian towns merged for the 1936 Winter Olympics into the country's leading winter sports centre. Beyond the ski slopes and cogwheel railway to the summit, visitors come for alpine gorges like the Partnachklamm and the glacier-fed waters of the Eibsee.",
+      "getting": "There is no direct train from Munich Airport (MUC), so travellers typically take the S-Bahn (S1 or S8) into Munich's Hauptbahnhof and change onto a regional train for the onward journey to Garmisch-Partenkirchen, with the full trip taking roughly 2 to 2.5 hours. Direct regional trains also run hourly from Munich's main station itself, making the city a convenient hub for access.",
+      "days": "Plan on ~2 to 3 days to cover the essentials: a day for the Zugspitze summit and Eibsee, and another for the old town and a gorge hike such as the Partnachklamm."
+    },
+    "ko": {
+      "blurb": "가르미슈파르텐키르헨은 독일에서 가장 높은 봉우리인 추크슈피체 기슭에 자리한 곳으로, 한때 서로 다른 두 바이에른 마을이었다가 1936년 동계올림픽을 계기로 하나로 합쳐지며 독일을 대표하는 겨울 스포츠 중심지가 되었다. 스키 슬로프와 정상까지 오르는 톱니바퀴 열차 외에도, 파르트나흐클람 협곡이나 빙하수로 채워진 아이프제 호수를 찾아 많은 여행자들이 이곳을 방문한다.",
+      "getting": "뮌헨 공항(MUC)에서 가르미슈파르텐키르헨까지 직행 열차는 없기 때문에, 보통 S반(S1 또는 S8)을 타고 뮌헨 중앙역으로 이동한 뒤 지역 열차로 갈아타고 가야 하며, 전체 이동 시간은 약 2시간에서 2시간 30분 정도 걸린다. 뮌헨 중앙역에서는 매시간 직행 지역 열차도 운행되어, 이 도시가 접근의 편리한 거점 역할을 한다.",
+      "days": "핵심 명소를 둘러보려면 대략 2~3일 정도가 적당하다. 하루는 추크슈피체 정상과 아이프제 호수를 둘러보는 데, 또 하루는 구시가지 산책과 파르트나흐클람 같은 협곡 하이킹에 할애하면 좋다."
+    },
+    "ja": {
+      "blurb": "ガルミッシュ＝パルテンキルヒェンは、ドイツ最高峰ツークシュピッツェの麓に位置する町だ。かつて別々の町だった2つのバイエルンの村が、1936年の冬季オリンピックを機に合併し、今ではドイツを代表するウィンタースポーツの拠点となっている。スキー場や山頂へ続く歯車鉄道だけでなく、パルトナッハ渓谷のような険しい峡谷や、氷河の水を湛えるアイプ湖を目当てに訪れる旅行者も多い。",
+      "getting": "ミュンヘン空港（MUC）からガルミッシュ＝パルテンキルヒェンへの直通列車はない。通常はSバーン（S1またはS8）でミュンヘン中央駅まで行き、そこから地域列車に乗り換える形となり、所要時間は合計で2～2.5時間ほどだ。ミュンヘン中央駅からは地域列車が1時間に1本の頻度で直通運行しているため、同駅がアクセスの拠点として便利である。",
+      "days": "見どころを一通り押さえるなら2～3日が目安。1日はツークシュピッツェの山頂とアイプ湖に、もう1日は旧市街の散策とパルトナッハ渓谷などの峡谷ハイキングに充てるとよい。"
+    },
+    "es": {
+      "blurb": "Garmisch-Partenkirchen se encuentra a los pies del Zugspitze, el pico más alto de Alemania, donde dos localidades bávaras antaño independientes se fusionaron con motivo de los Juegos Olímpicos de Invierno de 1936 para convertirse en el principal centro de deportes de invierno del país. Más allá de las pistas de esquí y del tren de cremallera que sube hasta la cumbre, los visitantes acuden atraídos por gargantas alpinas como la Partnachklamm y las aguas de origen glaciar del Eibsee.",
+      "getting": "No existe un tren directo desde el aeropuerto de Múnich (MUC), por lo que lo habitual es tomar el S-Bahn (líneas S1 o S8) hasta la Hauptbahnhof (estación central) de Múnich y allí hacer transbordo a un tren regional que continúa hasta Garmisch-Partenkirchen; el trayecto completo dura entre 2 y 2,5 horas aproximadamente. Desde la propia estación central de Múnich también salen trenes regionales directos cada hora, lo que convierte a la ciudad en un punto de partida muy práctico.",
+      "days": "Conviene reservar entre 2 y 3 días para ver lo esencial: uno para subir a la cumbre del Zugspitze y visitar el Eibsee, y otro para recorrer el casco antiguo y hacer una excursión por alguna garganta, como la Partnachklamm."
+    },
+    "zh": {
+      "blurb": "加米施-帕滕基兴坐落在德国最高峰楚格峰脚下，由两座曾经独立的巴伐利亚小镇于1936年冬奥会前合并而成，如今已是德国首屈一指的冬季运动胜地。除了滑雪场和登顶峰顶的齿轨铁路，游客还会专程前往帕特纳赫峡谷等高山峡谷，以及由冰川融水汇成的艾布湖。",
+      "getting": "从慕尼黑机场（MUC）没有直达火车，旅客通常先搭乘S-Bahn城铁（S1或S8线）前往慕尼黑中央火车站，再转乘区域列车前往加米施-帕滕基兴，全程大约需要2到2.5小时。慕尼黑中央火车站本身也每小时发一班直达区域列车，使该市成为前往当地便捷的中转枢纽。",
+      "days": "建议安排2到3天时间游览主要景点：一天用于攀登楚格峰并游览艾布湖，另一天则可逛逛老城并徒步游览如帕特纳赫峡谷这样的峡谷。"
+    }
+  },
+  "Sisophon": {
+    "en": {
+      "blurb": "Sisophon sits at the crossroads of National Highways 5 and 6 in northwestern Cambodia, making it the junction nearly every overland traveller between Thailand, Siem Reap, Battambang and Phnom Penh passes through, often without realising it. Known locally as the provincial capital of Banteay Meanchey, it is a workaday Cambodian town of markets and pagodas rather than a sightseeing destination in itself, best used as a springboard to the remote Banteay Chhmar temple ruins nearby.",
+      "getting": "Sisophon has no airport; most travellers arrive by road via shared taxis and buses linking it to Poipet, Battambang, Siem Reap and Phnom Penh, with the regional bus stand and taxi rank serving as the town's main transport node. A rail line also runs through Sisophon station on the Phnom Penh to Poipet route, though services are limited, so buses remain the more reliable option.",
+      "days": "Most visitors need only a half to full day in Sisophon itself, typically as an overnight stopover before or after a side trip to Banteay Chhmar or while transiting between the Thai border and Siem Reap or Phnom Penh."
+    },
+    "ko": {
+      "blurb": "시소폰은 캄보디아 북서부에서 국도 5호선과 6호선이 교차하는 지점에 자리하고 있어, 태국과 시엠레아프, 바탐방, 프놈펜을 오가는 육로 여행자라면 거의 누구나 한 번은 거쳐 가게 되는 관문 도시다. 정작 본인은 그 사실을 모르고 지나치는 경우도 많다. 현지에서는 반테이민체이주의 주도로 알려져 있으며, 시장과 사원이 늘어선 평범한 캄보디아 소도시로, 그 자체로 관광명소라기보다는 인근의 외딴 유적지인 반테이츠마 사원으로 향하는 전진기지로 활용하기에 좋은 곳이다.",
+      "getting": "시소폰에는 공항이 없다. 대부분의 여행자는 포이펫, 바탐방, 시엠레아프, 프놈펜을 잇는 합승 택시나 버스를 이용해 육로로 도착하며, 시내의 지역 버스터미널과 택시 승강장이 교통의 중심 역할을 한다. 프놈펜과 포이펫을 잇는 철도 노선이 시소폰역을 지나기도 하지만 운행 편수가 적어, 버스가 여전히 더 믿을 만한 이동 수단이다.",
+      "days": "대부분의 여행자에게는 시소폰 자체를 둘러보는 데 반나절에서 하루면 충분하며, 보통 반테이츠마로 가는 일정을 전후해 하룻밤 묵어가거나, 태국 국경과 시엠레아프 혹은 프놈펜 사이를 오가는 길에 잠시 들르는 경유지로 이용된다."
+    },
+    "ja": {
+      "blurb": "シソポンはカンボジア北西部、国道5号線と6号線が交わる地点に位置し、タイ、シェムリアップ、バッタンバン、プノンペンを行き来する陸路の旅行者のほぼ全員が、それと気づかぬまま通過する交通の要衝となっている。地元ではバンテアイミエンチェイ州の州都として知られ、市場や寺院が点在する素朴なカンボジアの地方都市であり、それ自体が観光の目的地というよりは、近郊にある辺境の遺跡バンテアイ・チュマール遺跡へ向かうための拠点として利用するのがベストだ。",
+      "getting": "シソポンに空港はなく、ほとんどの旅行者はポイペト、バッタンバン、シェムリアップ、プノンペンを結ぶ乗合タクシーやバスを利用して陸路で到着する。町の主要な交通拠点となっているのは、地域バスターミナルとタクシー乗り場だ。プノンペン〜ポイペト間の鉄道路線もシソポン駅を通っているが、運行本数が限られているため、バスの方が依然として確実な移動手段となっている。",
+      "days": "シソポン自体に必要な滞在時間は半日から1日程度で、多くの旅行者にとっては、バンテアイ・チュマールへの小旅行の前後に一泊する中継地、あるいはタイ国境とシェムリアップやプノンペンの間を移動する際の通過点として利用されるのが一般的だ。"
+    },
+    "es": {
+      "blurb": "Sisophon se encuentra en el cruce de las carreteras nacionales 5 y 6, en el noroeste de Camboya, por lo que resulta un punto de paso casi obligado para quienes viajan por tierra entre Tailandia, Siem Reap, Battambang y Phnom Penh, muchas veces sin siquiera darse cuenta. Conocida localmente como la capital provincial de Banteay Meanchey, es una ciudad camboyana de ambiente cotidiano, con sus mercados y pagodas, más que un destino turístico en sí misma. Su mayor atractivo es servir de trampolín hacia las remotas ruinas del templo de Banteay Chhmar, cercanas a la ciudad.",
+      "getting": "Sisophon no tiene aeropuerto; la mayoría de los viajeros llega por carretera en taxis compartidos y autobuses que la conectan con Poipet, Battambang, Siem Reap y Phnom Penh, siendo la estación de autobuses regional y la parada de taxis el principal nodo de transporte de la ciudad. También pasa por aquí una línea ferroviaria, con parada en la estación de Sisophon, en la ruta entre Phnom Penh y Poipet, aunque los servicios son limitados, por lo que el autobús sigue siendo la opción más fiable.",
+      "days": "La mayoría de los visitantes solo necesita entre medio día y un día completo en Sisophon, normalmente como parada para pasar la noche antes o después de una excursión a Banteay Chhmar, o bien de camino entre la frontera con Tailandia y Siem Reap o Phnom Penh."
+    },
+    "zh": {
+      "blurb": "诗梳风位于柬埔寨西北部5号和6号国道的交汇处，泰国、暹粒、马德望和金边之间几乎所有陆路旅行者都会途经此地，只是很多人并未留意罢了。这里是班迭棉吉省的省会，当地人更熟悉这个身份，整座城市以市场和寺庙为主，是一座质朴的柬埔寨小城，本身算不上观光胜地，更适合作为前往附近偏远的班迭奇玛寺庙遗址的中转站。",
+      "getting": "诗梳风没有机场，大多数旅行者都是经陆路抵达，通过往返波贝、马德望、暹粒和金边的共乘出租车及巴士前来，城里的长途汽车站和出租车站是主要的交通枢纽。一条连接金边和波贝的铁路线也经过诗梳风站，不过班次有限，相比之下巴士仍是更可靠的选择。",
+      "days": "大多数游客在诗梳风本地只需停留半天到一天，通常是作为前往班迭奇玛的短途旅行前后的过夜中转站，或是在泰柬边境与暹粒、金边之间往返途中稍作停留。"
+    }
+  },
+  "Taoyuan": {
+    "en": {
+      "blurb": "Taoyuan is Taiwan's gateway city: home to the country's main international airport, yet also a sprawling district of old streets, reservoirs and mountain forest reserves that most arriving travellers never see. Beyond the terminals, it mixes Hakka and Japanese colonial heritage with baroque shopfronts at Daxi Old Street and the scenic waters of Shihmen Reservoir.",
+      "getting": "Taoyuan International Airport (TPE) is Taiwan's main air gateway, connected to central Taipei and the city by the Taoyuan Airport MRT, which runs Express and Commuter trains from the terminals to Taipei Main Station in roughly 35 to 50 minutes. Within Taoyuan itself, the same MRT line and the Taiwan High Speed Rail's Taoyuan station link the airport area to local attractions, with buses and taxis covering the final stretch to sights further from the stations.",
+      "days": "Most visitors treat Taoyuan as a 2 to 3 day stop, enough time to cover highlights like Daxi Old Street, Xpark Aquarium and Shihmen Reservoir before continuing on to Taipei or elsewhere in Taiwan."
+    },
+    "ko": {
+      "blurb": "타오위안은 대만의 관문 도시입니다. 국내 주요 국제공항이 자리한 곳이지만, 그 이면에는 오래된 거리와 저수지, 산림 보호구역이 펼쳐진 드넓은 지역이 숨어 있어 대부분의 여행객들은 이를 지나치곤 합니다. 터미널을 벗어나면 하카와 일본 식민지 시대의 유산이 다시 올드 스트리트의 바로크풍 상점들, 그리고 스먼 저수지의 아름다운 풍경과 어우러져 독특한 매력을 자아냅니다.",
+      "getting": "타오위안 국제공항(TPE)은 대만의 주요 관문 공항으로, 타오위안 공항 MRT를 통해 타이베이 시내 및 타이베이역과 연결됩니다. 이 MRT는 터미널에서 타이베이역까지 급행열차와 일반열차를 운행하며, 소요 시간은 약 35분에서 50분입니다. 타오위안 지역 내에서는 동일한 MRT 노선과 대만고속철도(THSR) 타오위안역이 공항 일대와 지역 명소들을 이어주며, 역에서 조금 떨어진 관광지까지는 버스나 택시를 이용해 이동할 수 있습니다.",
+      "days": "대부분의 여행객은 타오위안에서 2~3일 정도 머무릅니다. 이 정도면 다시 올드 스트리트, 엑스파크 아쿠아리움, 스먼 저수지 같은 주요 명소를 둘러보고 나서 타이베이나 대만의 다른 지역으로 이동하기에 충분한 시간입니다."
+    },
+    "ja": {
+      "blurb": "桃園は台湾の玄関口となる都市だ。台湾を代表する国際空港を擁する一方で、到着した旅行者の多くが目にすることのない、古い街並みやダム湖、山林保護区が広がるエリアでもある。空港ターミナルを一歩出れば、客家や日本統治時代の面影と、大渓老街に残るバロック調の町家建築、石門ダムの美しい湖畔風景が入り混じる世界が待っている。",
+      "getting": "台湾桃園国際空港（TPE）は台湾最大の空の玄関口で、台北市内へは桃園空港MRTで結ばれている。空港各ターミナルから台北駅までは、直達車（急行）と普通車があり、所要時間はおよそ35～50分。桃園エリア内の移動も、同じ空港MRTや台湾高速鉄道の桃園駅を利用すれば、主要スポットへのアクセスは容易だ。駅から離れた観光地へは、バスやタクシーを使って最後の区間をカバーすることになる。",
+      "days": "桃園は2～3日ほど滞在するのが一般的だ。大渓老街やXpark水族館、石門ダムといった見どころを巡るには十分な日数で、その後は台北など台湾の他の都市へと旅を続けるのに無理のない日程となる。"
+    },
+    "es": {
+      "blurb": "Taoyuan es la ciudad puerta de entrada a Taiwán: alberga el principal aeropuerto internacional del país, pero también es un extenso distrito de calles antiguas, embalses y reservas forestales de montaña que la mayoría de los viajeros que llegan nunca llegan a ver. Más allá de las terminales, combina el patrimonio hakka y de la colonización japonesa con las fachadas de estilo barroco de la Calle Antigua de Daxi y las aguas pintorescas del Embalse de Shihmen.",
+      "getting": "El Aeropuerto Internacional de Taoyuan (TPE) es la principal puerta de entrada aérea de Taiwán, conectado con el centro de Taipéi y la ciudad mediante el MRT del Aeropuerto de Taoyuan, que ofrece trenes Express y Commuter desde las terminales hasta la Estación Central de Taipéi en aproximadamente 35 a 50 minutos. Dentro de la propia Taoyuan, esta misma línea de MRT y la estación de Taoyuan del Tren de Alta Velocidad de Taiwán conectan la zona del aeropuerto con las atracciones locales, mientras que autobuses y taxis cubren el tramo final hacia los lugares más alejados de las estaciones.",
+      "days": "La mayoría de los visitantes dedica entre 2 y 3 días a Taoyuan, tiempo suficiente para recorrer lugares destacados como la Calle Antigua de Daxi, el Acuario Xpark y el Embalse de Shihmen antes de continuar hacia Taipéi o a otros destinos de Taiwán."
+    },
+    "zh": {
+      "blurb": "桃园是台湾的门户城市：这里坐落着全台最主要的国际机场，但同时也是一片广阔的区域，拥有老街、水库与山林保护区，而这些大多数过境旅客从未见识过。走出航站楼，你会发现客家与日治时期的历史风貌，与大溪老街的巴洛克式牌楼立面、石门水库的湖光山色交织在一起，别有一番风情。",
+      "getting": "桃园国际机场（TPE）是台湾主要的空中门户，经由桃园机场捷运与台北市区相连，机场捷运设有直达车和普通车，从航站楼到台北车站约需35至50分钟。在桃园当地，同一条捷运线以及台湾高铁桃园站，将机场周边与各处景点串联起来，而离车站较远的景点，则可借助公交车和出租车前往。",
+      "days": "大多数游客会安排2到3天游览桃园，这样的时间足以走访大溪老街、Xpark水族馆和石门水库等主要景点，之后再继续前往台北或台湾其他地方。"
+    }
+  },
+  "Rosario": {
+    "en": {
+      "blurb": "Rosario rises on the banks of the Paraná River as Argentina's third-largest city, a laid-back alternative to Buenos Aires with riverside beaches, a handsome historic centre and the towering National Flag Memorial. Birthplace of Che Guevara and Lionel Messi, it carries a cultural weight far beyond its size, without the capital's crowds or prices.",
+      "getting": "Most travellers fly into Rosario's own airport, ROS (Rosario, Islas Malvinas International), which has domestic links to Buenos Aires and a handful of regional and international routes. The more common overland option is the frequent bus service from Buenos Aires' Retiro terminal, which takes roughly ~4 hours depending on the operator and time of day.",
+      "days": "Allow ~2 to 3 days to cover the riverside parks, the historic centre and the flag monument at an easy pace, with an extra day if you want to add a boat trip onto the Paraná's islands."
+    },
+    "ko": {
+      "blurb": "로사리오는 파라나 강변에 자리한 아르헨티나 제3의 도시로, 강변 해변과 품격 있는 구시가지, 그리고 우뚝 솟은 국기 기념탑을 품은 채 부에노스아이레스와는 또 다른 느긋한 매력을 선사한다. 체 게바라와 리오넬 메시의 고향이기도 한 이곳은 도시 규모에 비해 훨씬 묵직한 문화적 존재감을 지니면서도, 수도 특유의 인파와 높은 물가는 찾아볼 수 없다.",
+      "getting": "대부분의 여행자는 로사리오 자체 공항인 ROS(로사리오 이슬라스 말비나스 국제공항)를 이용해 입국한다. 이 공항은 부에노스아이레스를 잇는 국내선과 소수의 지역·국제 노선을 운항한다. 육로로는 부에노스아이레스 레티로 터미널에서 출발하는 버스가 더 흔히 이용되는 방법으로, 운행사와 시간대에 따라 약 4시간 정도 소요된다.",
+      "days": "강변 공원과 구시가지, 국기 기념탑을 여유롭게 둘러보려면 약 2~3일이 적당하며, 파라나 강의 섬들로 보트 여행을 떠나고 싶다면 하루 더 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "アルゼンチン第3の都市ロサリオは、パラナ川のほとりに広がる街。ブエノスアイレスとは一味違う、肩の力が抜けた魅力が持ち味で、川沿いのビーチや趣のある歴史地区、そびえ立つ「国旗記念塔」が見どころです。チェ・ゲバラとリオネル・メッシの生誕の地としても知られ、その規模をはるかに超えた文化的存在感を放ちながらも、首都のような人混みや物価の高さとは無縁の街です。",
+      "getting": "多くの旅行者は、ロサリオ自体の空港であるROS(ロサリオ・イスラス・マルビナス国際空港)を利用します。ブエノスアイレスとを結ぶ国内線のほか、地域便や国際便も一部就航しています。陸路であれば、ブエノスアイレスのレティーロ・ターミナルから頻発する長距離バスを使うのが一般的で、所要時間はバス会社や時間帯にもよりますが、だいたい4時間程度です。",
+      "days": "川沿いの公園や歴史地区、国旗記念塔をゆったり巡るなら、2~3日ほど見ておくとよいでしょう。パラナ川の島々へのボートツアーを加えたい場合は、さらに1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Rosario se alza a orillas del río Paraná como la tercera ciudad más grande de Argentina, una alternativa más tranquila a Buenos Aires con playas junto al río, un bello centro histórico y el imponente Monumento a la Bandera. Cuna de Che Guevara y Lionel Messi, posee un peso cultural que va mucho más allá de su tamaño, sin las multitudes ni los precios de la capital.",
+      "getting": "La mayoría de los viajeros llega en avión al propio aeropuerto de Rosario, ROS (Rosario, Islas Malvinas International), que cuenta con conexiones domésticas a Buenos Aires y algunas rutas regionales e internacionales. La opción terrestre más habitual es el frecuente servicio de ómnibus desde la terminal de Retiro, en Buenos Aires, que demora aproximadamente ~4 horas según la empresa y el horario.",
+      "days": "Conviene destinar entre ~2 y 3 días para recorrer con calma los parques junto al río, el centro histórico y el monumento a la bandera, y sumar un día más si se desea hacer una excursión en barco por las islas del Paraná."
+    },
+    "zh": {
+      "blurb": "罗萨里奥坐落在巴拉那河畔，是阿根廷第三大城市，相比布宜诺斯艾利斯更显悠闲惬意：这里有沿河的沙滩、风韵犹存的历史中心，以及高耸的国旗纪念碑。作为切·格瓦拉和里奥内尔·梅西的故乡，这座城市的文化分量远超其规模，却没有首都那般拥挤的人潮和高昂的物价。",
+      "getting": "大多数旅行者会选择飞往罗萨里奥本地机场ROS（罗萨里奥马尔维纳斯群岛国际机场），该机场有飞往布宜诺斯艾利斯的国内航班，以及少量地区和国际航线。更常见的陆路方式是从布宜诺斯艾利斯的雷蒂罗（Retiro）汽车站搭乘班次频繁的长途巴士，车程根据运营商和出发时间不同，大约需要4小时左右。",
+      "days": "建议安排2到3天时间，从容游览沿河公园、历史中心和国旗纪念碑；如果还想乘船游览巴拉那河上的岛屿，可以多留一天。"
+    }
   }
 }

@@ -16,6 +16,10 @@ export default {
     "Indianapolis": {
       "tz": "America/Indiana/Indianapolis",
       "province": "Indiana"
+    },
+    "Atlanta": {
+      "tz": "America/New_York",
+      "province": "Georgia"
     }
   },
   "Indonesia": {
