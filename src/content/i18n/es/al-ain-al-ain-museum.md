@@ -1,60 +1,60 @@
 ---
 lang: es
 slug: al-ain-al-ain-museum
-srcHash: '4b485de9e8e1'
-title: 'Museo de Al Ain: Guía de viaje (4,4★)'
-description: 'El Museo de Al Ain se encuentra dentro del recinto del Oasis de Al Ain (Al Ain Oasis), justo al lado del Fuerte Al Jahili, y recorre desde las herramientas de la Edad de Piedra hasta la era de los Estados de la Tregua previa al petróleo en un puñado de salas tranquilas. 4,5★ (1.167 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'El Museo de Al Ain se encuentra dentro del recinto del Oasis de Al Ain, justo al lado del Fuerte Al Jahili, y recorre desde las herramientas de la Edad de Piedra hasta la era de los Estados de la Tregua previa al petróleo en un puñado de salas tranquilas. Abre todos los días de 9:00 a 19:00, la entrada tiene un precio modesto y una hora basta salvo que se detenga a fondo en el archivo fotográfico. Conviene ir una mañana de entre semana: es uno de los museos más tranquilos de Al Ain, así que a menudo tendrá las salas para usted solo.'
+srcHash: 'b4d872586c51'
+title: 'Museo de Al Ain: guía de viaje (4.5★)'
+description: 'Dentro del recinto del oasis de Al Ain y junto al fuerte de Al Jahili, el Museo de Al Ain recorre sin prisas, en unas pocas salas, desde las herramientas de la Edad de Piedra hasta la época de los Estados de la Tregua, anterior al petróleo. 4.5★ (1,167 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: 'Dentro del recinto del oasis de Al Ain, justo al lado del fuerte de Al Jahili, se encuentra el Museo de Al Ain, que en unas pocas salas recorridas sin prisas lleva al visitante desde las herramientas de la Edad de Piedra hasta la época de los Estados de la Tregua, anterior al petróleo. Abre todos los días de 9am a 7pm y la entrada tiene un precio módico. Basta con una hora, salvo que quiera detenerse en el archivo fotográfico. Lo ideal es ir una mañana entre semana: al ser uno de los museos más tranquilos de Al Ain, es frecuente tener las salas prácticamente para uno mismo.'
 faq:
-  - q: ¿Cuánto tiempo debo reservar para visitar el Museo de Al Ain?
-    a: Una hora es suficiente para recorrer las salas con calma; los aficionados a la historia que leen cada rótulo y se detienen en el archivo fotográfico pueden llegar a los noventa minutos.
+  - q: ¿Cuánto tiempo conviene reservar para el Museo de Al Ain?
+    a: Con una hora aproximadamente se recorren las salas con comodidad. Los apasionados de la historia que lean todas las cartelas y examinen el archivo fotográfico pueden necesitar hasta noventa minutos.
   - q: ¿Cuál es el horario de apertura?
-    a: Abre todos los días de la semana, incluidos los fines de semana, de 9:00 a 19:00.
-  - q: ¿Hay mucha gente en el Museo de Al Ain?
-    a: 'No: es uno de los museos más tranquilos de Al Ain, y las mañanas de entre semana en particular suelen estar casi vacías.'
-  - q: ¿Cómo llego sin coche?
-    a: Al Ain no cuenta con metro, así que un taxi o un coche de alquiler es la forma más práctica de llegar al distrito de Hai Al Hisn; las aplicaciones de transporte con conductor funcionan en toda la ciudad.
-  - q: ¿Qué hay cerca que pueda combinar con la visita?
-    a: El Fuerte Al Jahili está justo al lado y el Oasis de Al Ain queda a poca distancia a pie, por lo que resulta fácil ver los tres lugares en una sola mañana o tarde.
+    a: Abre todos los días de la semana, fines de semana incluidos, de 9:00 AM a 7:00 PM.
+  - q: ¿Suele haber mucha gente en el Museo de Al Ain?
+    a: No. Es uno de los museos más tranquilos de Al Ain y, sobre todo por las mañanas entre semana, suele estar casi vacío.
+  - q: ¿Cómo se llega sin coche?
+    a: Al Ain no cuenta con metro, de modo que la forma más práctica de llegar al distrito de Hai Al Hisn es en taxi o en coche de alquiler. Las aplicaciones de transporte con conductor funcionan en toda la ciudad.
+  - q: ¿Qué hay cerca para combinar con la visita?
+    a: El fuerte de Al Jahili está justo al lado y el oasis de Al Ain queda a un corto paseo, así que resulta fácil ver los tres lugares en una sola mañana o tarde.
 ---
 
 ## Por qué ir
 
-El Museo de Al Ain no impresiona por su tamaño, y ese es precisamente su encanto. Se trata de un museo compacto y de estilo clásico, escondido en el distrito de Hai Al Hisn, que narra la historia de esta ciudad oasis antes de que el dinero del petróleo transformara los Emiratos. Entre sus salas se encuentran herramientas de sílex, cerámica de la Edad del Bronce, joyas beduinas de plata y fotografías granuladas en blanco y negro de un Al Ain que todavía era un puñado de asentamientos de adobe entre palmeras datileras.
+El Museo de Al Ain no impresiona por sus dimensiones, y precisamente ahí reside su encanto. Este museo pequeño y de corte clásico, escondido en el distrito de Hai Al Hisn, narra la historia de la ciudad oasis antes de que el dinero del petróleo transformara los Emiratos. El recorrido pasa por herramientas de sílex, cerámica de la Edad del Bronce y joyas beduinas de plata, además de granuladas fotografías en blanco y negro de una Al Ain que todavía era un puñado de asentamientos de adobe dispersos entre palmeras datileras.
 
-Aquí no hay teatros digitales espectaculares ni multitudes peleando por el mejor ángulo para una selfie. Solo vitrinas con objetos auténticos y el contexto necesario para entender por qué este rincón concreto del desierto fue importante durante miles de años.
+Aquí no hay vistosos espectáculos digitales ni multitudes que se disputen el mejor rincón para un selfi. Solo vitrinas con objetos auténticos y la información justa para comprender por qué este rincón concreto del desierto tuvo tanta importancia durante miles de años.
 
 ## Cómo llegar
 
-El museo se ubica en el núcleo histórico de Al Ain, junto al Fuerte Al Jahili y a poca distancia a pie de la entrada al Oasis de Al Ain. Desde Abu Dabi o Dubái, el trayecto en coche dura entre hora y media y dos horas; como Al Ain no tiene metro, lo más práctico es ir en coche propio o en taxi.
+El museo se encuentra en pleno casco histórico de Al Ain, junto al fuerte de Al Jahili y a poca distancia a pie de la entrada al oasis de Al Ain. Desde Abu Dabi o Dubái, el trayecto en coche dura entre 90 minutos y dos horas. Como Al Ain no tiene metro, lo más práctico es desplazarse en coche o en taxi.
 
-Aparcar es fácil y gratuito en la zona del fuerte y del oasis. Una vez allí, todo este rincón de la ciudad —museo, fuerte y paseos del oasis— queda a entre cinco y diez minutos a pie, por lo que es posible visitar los tres lugares en una sola salida.
+En los alrededores del fuerte y del oasis se aparca con facilidad y de forma gratuita. Ya a pie, el museo, el fuerte y los senderos del oasis quedan a cinco o diez minutos de paseo entre sí, de modo que pueden visitarse los tres lugares en una sola salida.
 
-## Qué verá en el interior
+## Qué verá en su interior
 
-La colección avanza de forma aproximadamente cronológica y comienza con hallazgos de la Edad de Piedra y de la Edad del Bronce, excavados en yacimientos arqueológicos cercanos como Hili y Jebel Hafit. Preste atención a:
+La colección sigue un orden más o menos cronológico. Comienza con hallazgos de la Edad de Piedra y de la Edad del Bronce procedentes de yacimientos arqueológicos cercanos, como Hili y Jebel Hafit. No deje de fijarse en:
 
-- Herramientas de sílex y objetos funerarios de los primeros habitantes de la región
-- Joyas, armas y utensilios domésticos beduinos tradicionales
-- Un amplio archivo fotográfico que documenta Al Ain antes del auge petrolero de los años sesenta
-- Regalos e intercambios diplomáticos vinculados a los líderes fundadores de los Emiratos
+- Las herramientas de sílex y los objetos funerarios de los primeros habitantes de la región
+- Las joyas, armas y utensilios domésticos tradicionales beduinos
+- El nutrido archivo fotográfico que documenta Al Ain antes del auge petrolero de la década de 1960
+- Los regalos e intercambios diplomáticos vinculados a los líderes fundadores de los EAU
 
-La sección de fotografía anterior al petróleo es el punto fuerte, aunque discreto, de la visita. Allí podrá ver los canales de riego falaj excavados a mano, escenas de mercado y retratos de habitantes de Al Ain de una época de la que apenas queda registro visual en el resto del país.
+La sección de fotografía anterior al petróleo es, discretamente, lo mejor del museo. En ella aparecen canales de riego *falaj* excavados a mano, escenas de mercado y retratos de vecinos de Al Ain de una época de la que apenas se conservan imágenes en el resto del país.
 
 ## Cuándo ir
 
-El museo mantiene el mismo horario los siete días de la semana, de 9:00 a 19:00, por lo que no es necesario preocuparse por ningún día de cierre semanal. Las mañanas de entre semana suelen ser las más tranquilas, antes de que lleguen los grupos turísticos que visitan el vecino Fuerte Al Jahili.
+El horario es el mismo todos los días de la semana, de 9am a 7pm, así que no hace falta organizarse en función de ningún día de cierre. Las mañanas entre semana suelen ser las más tranquilas, antes de que lleguen los grupos organizados que visitan el vecino fuerte de Al Jahili.
 
-Al mediodía, en verano (de junio a septiembre), el calor exterior es extremo, así que conviene aprovechar este museo como una buena pausa bajo techo entre paseos por el oasis: las salas tienen aire acondicionado y no hay prisa alguna para recorrerlas.
+En verano (de junio a septiembre), el calor del mediodía resulta abrasador, por lo que el museo es una buena pausa a cubierto entre paseo y paseo por el oasis. Las salas cuentan con aire acondicionado y se pueden recorrer sin ninguna prisa.
 
-Para la mayoría de los visitantes, una hora es más que suficiente. Los aficionados a la historia que leen cada panel y se demoran en el archivo fotográfico pueden llegar a los noventa minutos.
+A la mayoría de los visitantes les basta con una hora. Los aficionados a la historia que lean todos los paneles y se entretengan en el archivo fotográfico pueden alargar la visita hasta noventa minutos.
 
 ## Cómo visitarlo como un local
 
-Lo mejor es combinar el museo con el Fuerte Al Jahili y el Oasis de Al Ain en una sola salida: los tres están a pocos minutos a pie entre sí y forman un recorrido natural por el casco antiguo de la ciudad. Los locales y quienes repiten visita suelen ver el museo como el aperitivo y no como el plato principal: lo hacen primero, siguen con las exhibiciones del fuerte y terminan con un paseo a la sombra entre los palmerales del oasis.
+Lo recomendable es combinar el museo con el fuerte de Al Jahili y el oasis de Al Ain en una misma salida. Los tres quedan a pocos minutos a pie y forman un circuito natural por el casco antiguo de la ciudad. Los residentes y quienes repiten la visita suelen considerar el museo un aperitivo más que el plato principal: empiezan por él, continúan con las exposiciones del fuerte y terminan con un paseo a la sombra entre los palmerales del oasis.
 
-No es imprescindible llevar efectivo, ya que el pago con tarjeta es habitual en las taquillas de los Emiratos, aunque conviene tener algo de dinero en efectivo para los pequeños vendedores cercanos a las puertas del oasis. Vista con recato, como en cualquier sitio cultural de los Emiratos: cubrir hombros y rodillas es la opción más segura.
+No es imprescindible llevar efectivo, ya que en las taquillas de los EAU lo habitual es pagar con tarjeta. Aun así, conviene llevar algo de dinero suelto para los pequeños puestos situados junto a las puertas del oasis. Vista con recato, como en cualquier lugar cultural de los EAU; cubrir hombros y rodillas es la opción más segura.
 
-El museo recibe relativamente poca afluencia en comparación con los grandes atractivos de Al Ain, como el zoológico o el museo del palacio, así que no es necesario reservar con antelación ni preocuparse por horarios de entrada fijos. El error más habitual entre quienes visitan el lugar por primera vez es recorrerlo en quince minutos de camino al fuerte; conviene detenerse con calma en las exhibiciones fotográficas, ya que es ahí donde el museo se gana su reputación entre quienes realmente estudian la historia de la ciudad, más allá de quienes solo pasan por allí.
+El museo recibe relativamente pocos visitantes en comparación con los grandes reclamos de Al Ain, como el zoo o el museo del palacio, así que no es necesario reservar ni preocuparse por franjas horarias de entrada. El error más común de quienes lo visitan por primera vez es despacharlo en quince minutos de camino al fuerte. Merece la pena detenerse sin prisa ante las fotografías, porque es ahí donde el museo se ha ganado su prestigio entre quienes estudian de verdad la historia de la ciudad y no se limitan a pasar por ella.
 
-Conviene confirmar en la puerta las tarifas de entrada vigentes, ya que los precios de los sitios culturales de Al Ain se revisan periódicamente.
+Compruebe en la entrada el precio vigente, ya que las tarifas de los lugares culturales de Al Ain se revisan periódicamente.

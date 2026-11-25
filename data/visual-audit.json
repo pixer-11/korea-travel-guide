@@ -7293,6 +7293,12 @@
   "reason": "publish gate: Aerial view shows Lérins islands off Cannes coast",
   "at": "2026-09-16T07:41:38.637Z"
  },
+ "cannes-autour-d-un-livre\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Librairie_Autour_d%27un_livre..._Rue_Jean-Jaur%C3%A8s_%28Cannes%29_en_avril_2023.JPG": {
+  "slug": "cannes-autour-d-un-livre",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront with shop name and bookshop signage, representative exterior",
+  "at": "2026-11-25T07:55:19.282Z"
+ },
  "cannes-croix-des-gardes\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Parc_de_la_Croix-des-Gardes%2C_Cannes_%282014%29.JPG": {
   "slug": "cannes-croix-des-gardes",
   "verdict": "MATCH",
@@ -15389,6 +15395,12 @@
   "reason": "Rocky islands, not restaurant interior or setting",
   "at": "2026-07-25T02:44:22.036Z"
  },
+ "ibiza-torre-des-savinar\u0001https://upload.wikimedia.org/wikipedia/commons/5/5a/Torre_del_Pirata_o_des_Savinar.JPG": {
+  "slug": "ibiza-torre-des-savinar",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear image of the stone watchtower with coastal view",
+  "at": "2026-11-25T07:55:19.231Z"
+ },
  "iloilo-city-dinagyang-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/2026_Dinagyang_Festival.jpg": {
   "slug": "iloilo-city-dinagyang-festival",
   "verdict": "MATCH",
@@ -23120,6 +23132,12 @@
   "reason": "publish gate: Garden with fountain and building matches this Malaga attraction",
   "at": "2026-09-14T07:45:56.095Z"
  },
+ "malaga-libreria-rayuela\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/M%C3%A1laga_-_Librer%C3%ADa_Rayuela.jpg": {
+  "slug": "malaga-libreria-rayuela",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront with name clearly shown, representative exterior view",
+  "at": "2026-11-25T07:57:05.682Z"
+ },
  "malaga-mercado-de-salamanca\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Mercado_de_Salamanca.jpg": {
   "slug": "malaga-mercado-de-salamanca",
   "verdict": "MATCH",
@@ -24808,6 +24826,12 @@
   "reason": "hand-reviewed: Cafe de Beans in Tseung Kwan O, another cafe (owner photo review 2026-11-13)",
   "at": "2026-11-12T16:37:42.491Z"
  },
+ "mong-kok-book-punch\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Book_Punch_Interior-202107.jpg": {
+  "slug": "mong-kok-book-punch",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior shows bookshop display with Book Punch screen visible",
+  "at": "2026-11-25T07:55:19.326Z"
+ },
  "mong-kok-dim-dim-sum-mong-kok\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E6%B4%97%E8%A1%A3%E8%A1%97_39_Sai_Yee_Street_%E9%87%91%E9%9B%9E%E5%BB%A3%E5%A0%B4_Golden_Era_Plaza_mall_shop_Dim_Sum_Here_Restaurant_October_2025_N13P_01.jpg": {
   "slug": "mong-kok-dim-dim-sum-mong-kok",
   "verdict": "MATCH",
@@ -25093,6 +25117,12 @@
   "reason": "Mount Bromo volcano at sunrise, iconic setting",
   "reasonKo": "브로모산 일출, 상징적 경관",
   "at": "2026-08-14T13:59:12.198Z"
+ },
+ "mount-bromo-king-kong-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Path_to_King_Kong_Hill_in_East_Java.jpg/3840px-Path_to_King_Kong_Hill_in_East_Java.jpg": {
+  "slug": "mount-bromo-king-kong-hill",
+  "verdict": "MATCH",
+  "reason": "publish gate: Foggy forest trail plausible for King Kong Hill area",
+  "at": "2026-11-25T07:55:19.139Z"
  },
  "mount-bromo-penanjakan-bromo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mount_Penanjakan_%28Bromo-Tengger-Semeru%29_at_sunrise.jpg/3840px-Mount_Penanjakan_%28Bromo-Tengger-Semeru%29_at_sunrise.jpg": {
   "slug": "mount-bromo-penanjakan-bromo",

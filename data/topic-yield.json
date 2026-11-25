@@ -14,15 +14,15 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 179,
-   "hits": 44
+   "attempts": 188,
+   "hits": 46
   },
   "art gallery": {
-   "attempts": 125,
+   "attempts": 131,
    "hits": 28
   },
   "night view": {
-   "attempts": 114,
+   "attempts": 116,
    "hits": 28
   },
   "waterfront": {
@@ -46,8 +46,8 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 150,
-   "hits": 24
+   "attempts": 164,
+   "hits": 27
   },
   "seafood": {
    "attempts": 99,
@@ -62,7 +62,7 @@
    "hits": 5
   },
   "trendy cafe": {
-   "attempts": 180,
+   "attempts": 181,
    "hits": 14
   },
   "street food": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 57,
+   "attempts": 58,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -1410,5 +1410,5 @@
    "hits": 0
   }
  },
- "updated": "2026-11-24T07:44:12.484Z"
+ "updated": "2026-11-25T07:57:05.732Z"
 }

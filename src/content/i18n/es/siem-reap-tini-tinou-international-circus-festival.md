@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: siem-reap-tini-tinou-international-circus-festival
-srcHash: 'fdcfe4371663'
-title: 'Festival Internacional de Circo Tini Tinou: fechas, entradas y sedes (Siem Reap)'
-description: Del 17 al 24 de noviembre de 2026, Siem Reap y Battambang (Camboya) acogen el Festival Internacional de Circo Tini Tinou, que reúne a más de 100 artistas de más de 10 países.
-quickAnswer: Del 17 al 24 de noviembre de 2026, Siem Reap y Battambang (Camboya) acogen el Festival Internacional de Circo Tini Tinou, que reúne a más de 100 artistas de más de 10 países. Se trata del único festival internacional de circo bienal de la ASEAN. Durante esa semana, las funciones con entrada conviven con desfiles y espectáculos callejeros gratuitos, de modo que parte del festival puede disfrutarse sin pagar nada.
+srcHash: '54ff294a63bd'
+title: 'Festival Internacional de Circo Tini Tinou: fechas, entradas y sede (Siem Reap)'
+description: El Festival Internacional de Circo Tini Tinou tenía como fechas anunciadas del 17 al 24 de noviembre de 2026, en las ciudades camboyanas de Siem Reap y Battambang. Su cartel reunía a más de 100 artistas de más de 10 países.
+quickAnswer: Las fechas anunciadas para el Festival Internacional de Circo Tini Tinou eran del 17 al 24 de noviembre de 2026, en Siem Reap y Battambang (Camboya). El cartel incluía a más de 100 artistas de más de 10 países. Es el único festival internacional de circo bienal de la ASEAN. Su programa combinaba funciones de pago con espectáculos callejeros y desfiles gratuitos, de modo que una parte del festival no requería entrada.
 faq:
-  - q: ¿Cuándo se celebra el Festival Internacional de Circo Tini Tinou en 2026?
-    a: Tendrá lugar del 17 al 24 de noviembre de 2026, con funciones en Siem Reap y en Battambang. Al ser bienal, se celebra cada dos años.
-  - q: ¿Hay espectáculos gratuitos en el Tini Tinou?
-    a: Sí. Además de las funciones con entrada, se organizan desfiles y espectáculos callejeros gratuitos, así que parte del festival puede verse sin comprar entrada.
-  - q: ¿Dónde se publican el programa y los enlaces para comprar entradas?
-    a: La organización da a conocer el programa diario, las sedes y los enlaces de venta a través de los canales propios del festival y de los de Phare Ponleu Selpak, la escuela de artes de Battambang que lo impulsa.
-  - q: ¿Cómo se va de Siem Reap a Battambang para asistir a las funciones?
-    a: Entre ambas ciudades circulan autobuses y taxis compartidos por carretera, y el viaje dura unas tres o cuatro horas. También existe una ruta en barco por el Tonlé Sap, más lenta y sujeta al nivel del agua.
-  - q: ¿Se puede combinar el festival con una visita a Angkor?
-    a: Sin ninguna dificultad. La mayoría de los visitantes dedica las mañanas a Angkor Wat, el Bayón y Ta Prohm y reserva las noches para el circo. A finales de noviembre comienza en Siem Reap la temporada más fresca y seca.
+  - q: ¿Cuándo era el Festival Internacional de Circo Tini Tinou en 2026?
+    a: Las fechas anunciadas para la edición de 2026 eran del 17 al 24 de noviembre, con funciones en Siem Reap y Battambang. Como el festival es bienal, vuelve cada dos años.
+  - q: ¿Había espectáculos gratuitos en Tini Tinou?
+    a: Sí. Junto a las funciones de pago, el programa incluía espectáculos callejeros y desfiles gratuitos, así que una parte del festival no requería entrada.
+  - q: ¿Dónde se publicaban el programa y los enlaces de venta de entradas?
+    a: El festival nace de Phare Ponleu Selpak, la escuela de artes de Battambang que lo impulsa. Su programa de 2026 repartía las funciones de pago entre distintos recintos de Siem Reap y Battambang.
+  - q: ¿Cómo se va de Siem Reap a Battambang para ver las funciones del festival?
+    a: Entre ambas ciudades circulan autobuses y taxis compartidos por carretera, y el trayecto dura unas tres o cuatro horas. Existe además una ruta en barco por el Tonlé Sap, más lenta y supeditada al nivel del agua.
+  - q: ¿Se podía combinar el festival con una visita a Angkor?
+    a: Sin ninguna dificultad. Quienes se alojan en Siem Reap suelen dedicar las mañanas a Angkor Wat, el Bayón y Ta Prohm y reservar las tardes y noches. A finales de noviembre comienza en Siem Reap la temporada más fresca y seca.
 ---
 
-## Cuando el circo sale a la calle
+## Cuando el circo se desborda a la calle
 
-Durante una semana, el circo de Siem Reap abandona la carpa. Acróbatas, malabaristas y payasos llegados de más de 10 países conviven en la ciudad con los artistas camboyanos que actúan aquí durante todo el año. En total participan más de 100 artistas. Algunas funciones requieren entrada, mientras que los desfiles y las actuaciones callejeras son gratuitos y se celebran en espacios públicos.
+Durante una semana, el festival se proponía sacar el circo de Siem Reap de debajo de la carpa. A los artistas camboyanos que actúan aquí todo el año se sumaban acróbatas, malabaristas y payasos de más de 10 países, hasta superar los 100 artistas anunciados en el cartel. Algunas funciones eran de pago; los desfiles y las actuaciones callejeras, en cambio, eran gratuitos y se desarrollaban en espacios públicos.
 
-Tini Tinou es el único festival internacional de circo bienal de la ASEAN, por lo que vuelve cada dos años. La edición de 2026 se celebrará del 17 al 24 de noviembre. Siem Reap comparte el programa con Battambang, la ciudad ribereña situada al oeste donde se formó buena parte de la tradición circense moderna de Camboya.
+Tini Tinou es el único festival internacional de circo bienal de la ASEAN, por lo que vuelve cada dos años. Las fechas anunciadas para la edición de 2026 eran del 17 al 24 de noviembre. Siem Reap compartía el programa con Battambang, la ciudad ribereña situada al oeste donde se formó buena parte de la tradición circense moderna de Camboya.
 
 ## Fechas y reparto entre dos ciudades
 
-El festival dura ocho días, del 17 al 24 de noviembre de 2026, y se reparte entre dos ciudades.
+El festival abarcaba ocho días, del 17 al 24 de noviembre de 2026, repartidos entre dos ciudades.
 
-- **Siem Reap:** punto de partida de la mayoría de los visitantes internacionales, cerca de Angkor y del aeropuerto.
-- **Battambang:** segunda ciudad más grande de Camboya, a unas tres o cuatro horas al oeste por carretera.
+- **Siem Reap:** punto de partida de la mayoría de los visitantes extranjeros, cerca de Angkor y del aeropuerto.
+- **Battambang:** segunda ciudad de Camboya, a unas tres o cuatro horas al oeste por carretera.
 
-Las raíces del festival están en Battambang. Allí nació, de la mano de Phare Ponleu Selpak, escuela de artes y ONG que forma a jóvenes camboyanos en circo, música y artes visuales. Muchos de quienes acuden al festival se alojan en una sola ciudad. Otros pasan unas noches en cada una para ver las dos mitades del programa.
+Las raíces del festival están en Battambang. Allí nació, de la mano de Phare Ponleu Selpak, escuela de artes y ONG que forma a jóvenes camboyanos en circo, música y artes visuales. Muchos asistentes se alojan en una sola ciudad, mientras que otros reparten sus noches entre ambas para no perderse ninguna de las dos mitades del programa.
 
-## La parte gratuita: desfiles y espectáculos callejeros
+## La mitad gratuita: desfiles y espectáculos callejeros
 
-Son las actividades gratuitas las que dan a Tini Tinou su verdadero ambiente festivo. Los desfiles y los espectáculos callejeros se suman a las funciones con entrada, y basta una compañía invitada para que una acera se convierta en escenario durante veinte minutos.
+Son los actos gratuitos los que dan a Tini Tinou su ambiente de fiesta. El programa intercalaba desfiles y espectáculos callejeros con las funciones de pago, y cualquier compañía invitada puede convertir una acera en escenario durante veinte minutos.
 
-Estas actuaciones son ideales para las familias y para quienes han venido a ver los templos sin haber organizado la noche en torno a un espectáculo. En Camboya, el público callejero se coloca muy cerca, los niños se abren paso hasta la primera fila y a nadie le molesta que alguien se incorpore a mitad de la función. Si desea dar una propina a algún artista callejero, lleve billetes pequeños. Las propinas se agradecen, aunque nadie las espera.
+Este tipo de espectáculos encaja bien con las familias y con quienes llegan a la ciudad por los templos sin haber organizado la noche en torno a una función. En Camboya, el público callejero se arrima mucho, los niños se abren paso hasta la primera fila y a nadie le molesta que alguien se incorpore a mitad de la actuación. Los billetes pequeños resultan prácticos para dar propina a los artistas callejeros; la propina se agradece, aunque no es obligatoria.
 
-## Entradas, sedes y programa
+## Entradas, recintos y programa
 
-La organización da a conocer el programa diario, las sedes y los enlaces de venta a través de los canales propios del festival y de los de Phare Ponleu Selpak. Esta guía no incluye precios ni horarios, ya que no se han facilitado. Ambos datos pueden consultarse en la información publicada por la organización.
+Las funciones de pago se repartían entre varios recintos de Siem Reap y Battambang. Detrás del programa estaba Phare Ponleu Selpak, la escuela de Battambang, y los actos callejeros gratuitos llenaban los huecos entre una función de pago y otra.
 
-El circo estable de Siem Reap es Phare, The Cambodian Circus, que actúa en una gran carpa de la ciudad con artistas titulados en la escuela de Battambang. El festival trae compañías invitadas a ese mismo universo. Lo que verá es circo contemporáneo, que cuenta historias mediante acrobacias, teatro físico y música en directo, y no un circo tradicional con animales.
+El circo estable de Siem Reap es Phare, The Cambodian Circus, que actúa bajo una gran carpa en la ciudad y cuyos artistas se han formado en la escuela de Battambang. El festival trae compañías invitadas a ese mismo universo. Lejos del circo tradicional con animales, el programa se centraba en el circo contemporáneo, que cuenta historias mediante la acrobacia, el teatro físico y la música en directo.
 
-## Ver un espectáculo en Siem Reap
+## Ver una función en Siem Reap
 
-Siem Reap es una ciudad pequeña, y la forma de desplazarse condiciona la velada.
+Siem Reap es una ciudad pequeña, y la forma de desplazarse marca el ritmo de la noche.
 
-- **Cómo llegar:** la mayoría de los visitantes se mueve en tuk-tuk, ya sea parándolo en la calle o reservándolo mediante PassApp o Grab, dos aplicaciones que funcionan en Siem Reap. Si lo para en la calle, acuerde el precio antes de salir.
-- **Pagos:** circulan tanto el dólar estadounidense como el riel camboyano. El cambio pequeño suele devolverse en rieles, así que lo normal es acabar con una mezcla de ambas monedas.
-- **Asientos:** el público de los espectáculos de circo es aquí muy relajado. Quien quiera ver la función desde primera fila suele llegar antes que el resto a las funciones con entrada.
-- **Normas de cortesía:** aplaudir en mitad de un número es lo habitual, y los artistas se crecen con ello. Por la seguridad de los intérpretes, la mayoría de las compañías no permite hacer fotos con flash durante las actuaciones.
+- **Cómo llegar:** la mayoría de los visitantes se mueve en tuk-tuk, ya sea parándolo en la calle o pidiéndolo por PassApp o Grab, dos aplicaciones que funcionan en Siem Reap. Con los tuk-tuks parados en la calle, el precio se acuerda antes de salir.
+- **Pagos:** circulan tanto el dólar estadounidense como el riel camboyano. Como el cambio suele devolverse en rieles, lo habitual es manejar ambas monedas.
+- **Asientos:** el público de los espectáculos de circo es aquí bastante informal. En las funciones de pago, las primeras filas suelen ser para quien llega antes.
+- **Normas de cortesía:** aplaudir en plena actuación es lo normal, y los artistas se crecen con ello. Por la seguridad de los intérpretes, la mayoría de las compañías no permite fotografiar con flash durante los números.
 
-Al terminar, Pub Street y el Mercado Viejo (Psar Chas) quedan a un breve trayecto, y allí se concentra buena parte de la oferta para comer y tomar algo a última hora.
+Al terminar la función, Pub Street y el Mercado Viejo (Old Market, Psar Chas) quedan a un corto trayecto, y es allí donde se concentra la mayor parte de la oferta de comida y bebida a última hora.
 
-## Escapada a Battambang
+## La escapada a Battambang
 
-Battambang tiene un ritmo más pausado y tranquilo que Siem Reap. A orillas del río Sangkae, que atraviesa el centro, se alinean casas-tienda de la época colonial francesa. El campus de Phare Ponleu Selpak se encuentra en las afueras, lo que convierte a la ciudad en la casa del festival.
+Battambang es una ciudad más tranquila y pausada que Siem Reap. Su ribera está bordeada de casas-tienda de la época colonial francesa, y el río Sangkae la atraviesa por el centro. El campus de Phare Ponleu Selpak se encuentra en las afueras, lo que convierte a la ciudad en la verdadera casa del festival.
 
-Entre ambas ciudades circulan autobuses y taxis compartidos por la carretera principal, y el viaje dura unas tres o cuatro horas. Existe además una pintoresca ruta en barco que cruza el Tonlé Sap y remonta el Sangkae, aunque es mucho más lenta y depende del nivel del agua. Quienes visitan las dos ciudades suelen viajar de día para llegar descansados a la función de la noche.
+Por la carretera principal circulan autobuses y taxis compartidos entre ambas ciudades, con un trayecto de unas tres o cuatro horas. También existe una pintoresca ruta en barco que cruza el Tonlé Sap y remonta el Sangkae, aunque es mucho más lenta y depende del nivel del agua. Quienes visitan las dos ciudades suelen viajar de día para llegar descansados a la función de la noche.
 
-Entre una actividad del festival y otra, las horas de luz pueden dedicarse a otros lugares emblemáticos de Battambang:
+Durante el día, Battambang ofrece otros atractivos muy conocidos:
 
 - el tren de bambú
 - el Phnom Sampeau y su cueva de murciélagos
@@ -70,8 +70,8 @@ Entre una actividad del festival y otra, las horas de luz pueden dedicarse a otr
 
 ## Cómo combinarlo con Angkor
 
-La segunda quincena de noviembre es una buena época para estar en Siem Reap. La temporada de lluvias toca a su fin, el campo sigue verde y los fosos que rodean los templos están llenos. Empiezan los meses más frescos y secos, de modo que las noches al aire libre resultan agradables para los espectáculos callejeros.
+La segunda quincena de noviembre es una buena época para estar en Siem Reap. La estación de lluvias toca a su fin, el campo sigue verde y los fosos que rodean los templos están llenos. Comienzan además los meses más frescos y secos, de modo que las noches al aire libre resultan agradables para los espectáculos callejeros.
 
-El festival encaja sin problemas con un pase para los templos. Lo habitual es visitar Angkor Wat, el Bayón y Ta Prohm por la mañana, descansar durante las horas de más calor y reservar la noche para el circo. Templos por la mañana y espectáculo por la noche: así combina la mayoría de la gente ambos planes durante la semana del festival.
+Una semana de festival se compagina sin problema con un pase para los templos. Lo habitual es dedicar las mañanas a Angkor Wat, el Bayón y Ta Prohm, descansar durante las horas de más calor y reservar la noche para el circo: templos por la mañana y función por la noche.
 
-Conviene recordar, además, por qué este festival es importante. El circo camboyano surgió de un proyecto que buscaba dar a los jóvenes un oficio y una voz a través del arte. Ver a sus titulados actuar en su propio país, en el mismo programa que compañías internacionales, es lo que hace que Tini Tinou merezca organizar un viaje en noviembre.
+El sentido del festival también importa. El circo camboyano surgió de un proyecto que buscaba dar a los jóvenes un oficio y una voz a través del arte. Que sus graduados compartan programa con compañías internacionales en su propio país es la esencia misma de Tini Tinou.

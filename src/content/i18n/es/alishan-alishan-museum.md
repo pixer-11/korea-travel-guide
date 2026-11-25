@@ -1,62 +1,62 @@
 ---
 lang: es
 slug: alishan-alishan-museum
-srcHash: '40010b0039e8'
-title: 'Museo de Alishan: Guía de viaje (4,3★)'
-description: 'El Museo de Alishan es un pequeño museo forestal y cultural dentro del Área Escénica Nacional de Alishan, abierto todos los días de 8:30 a 16:30, ideal como parada tranquila de 30-45 minutos entre el tren del amanecer y el paseo al Árbol Sagrado. 4,4★ (571 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: El Museo de Alishan es un pequeño museo forestal y cultural dentro del Área Escénica Nacional de Alishan, abierto todos los días de 8:30 a 16:30. Es una parada sencilla y poco concurrida de 30-45 minutos, perfecta entre el tren del amanecer y el paseo al Árbol Sagrado. Pasa bastante desapercibido incluso entre quienes ya están visitando Alishan, así que a menudo tendrá las salas casi para usted solo.
+srcHash: '0aa4889feb05'
+title: 'Museo de Alishan: guía de viaje (4.4★)'
+description: 'En pleno Área Escénica Nacional de Alishan, este pequeño museo dedicado a la silvicultura y la cultura abre todos los días de 8:30am a 4:30pm. Sin aglomeraciones, ofrece una parada cómoda de 30-45 minutos entre el tren del amanecer y el paseo del Árbol Sagrado. Valoración de 4.4★ (571 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: En pleno Área Escénica Nacional de Alishan, este pequeño museo dedicado a la silvicultura y la cultura abre todos los días de 8:30am a 4:30pm. Sin aglomeraciones, ofrece una parada cómoda de 30-45 minutos entre el tren del amanecer y el paseo del Árbol Sagrado. Incluso entre quienes ya se encuentran en Alishan pasa bastante desapercibido, de modo que no es raro tener las salas casi para uno solo.
 faq:
-  - q: ¿Cuánto tiempo debo reservar para el Museo de Alishan?
-    a: Con unos 30-45 minutos basta para recorrer las salas con calma, ya que se trata de un museo pequeño y de un solo edificio.
-  - q: ¿Cuál es el horario de apertura?
-    a: Abre todos los días de 8:30 a 16:30, sin variaciones a lo largo de la semana. Aun así, conviene confirmarlo in situ, ya que las instalaciones del parque a veces ajustan sus horarios por el clima o los días festivos.
-  - q: ¿Cómo llego al Museo de Alishan sin coche?
-    a: 'Puede tomar el Ferrocarril Forestal de Alishan (Alishan Forest Railway) o un autobús Chiayi–Alishan hasta el área escénica y continuar a pie: el museo queda cerca de la estación de tren y de la zona principal de alojamiento, junto a la aldea de Xianglin (Xianglin Village).'
-  - q: ¿Hay mucha gente en el Museo de Alishan?
-    a: No; pasa bastante desapercibido incluso entre las propias atracciones de Alishan, así que suele estar tranquilo sin importar cuándo se visite. Es un buen contraste frente al bullicio del tren del amanecer y el paseo al Árbol Sagrado.
-  - q: ¿Con qué otros lugares cercanos puedo combinarlo?
-    a: El paseo elevado al Árbol Sagrado, el Templo Shouzhen (Shouzhen Temple) y el Parque Zhaoping (Zhaoping Park) están todos a poca distancia a pie, así que forman un recorrido natural de medio día junto con el museo.
+  - q: ¿Cuánto tiempo conviene reservar para el Museo de Alishan?
+    a: Al tratarse de un museo pequeño, ocupa un único edificio y basta con unos 30-45 minutos para recorrer las exposiciones con calma.
+  - q: ¿Cuál es el horario?
+    a: Abre todos los días de 8:30am a 4:30pm, sin cambios a lo largo de la semana. Aun así, conviene confirmarlo allí mismo, porque las instalaciones del parque modifican a veces su horario por el mal tiempo o los días festivos.
+  - q: ¿Cómo se llega al Museo de Alishan sin coche?
+    a: Hasta el área escénica se llega en el Ferrocarril Forestal de Alishan o en uno de los autobuses que cubren el trayecto Chiayi–Alishan. Desde allí se continúa a pie, ya que el museo queda cerca de la estación de tren y de la principal zona de alojamientos, junto a la aldea de Xianglin.
+  - q: ¿Suele haber mucha gente en el Museo de Alishan?
+    a: No. Incluso comparado con los demás atractivos de Alishan pasa bastante desapercibido, así que suele estar tranquilo a cualquier hora. Supone un buen contraste con el bullicio del tren del amanecer y del paseo del Árbol Sagrado.
+  - q: ¿Qué se puede visitar cerca para completar la jornada?
+    a: La pasarela del Árbol Sagrado, el templo Shouzhen y el parque Zhaoping se encuentran a poca distancia a pie. Junto con el museo, forman un circuito natural de media jornada.
 ---
 
 ## Por qué ir
 
-A Alishan se viene por el bosque de cipreses y por el amanecer, no por las salas de exposiciones, pero este pequeño museo llena los vacíos que dejan esas caminatas. Se encuentra recogido dentro del Área Escénica Nacional de Alishan, a poca distancia a pie de la estación de tren principal y del grupo de alojamientos, y rara vez reúne a más de un puñado de visitantes a la vez.
+A Alishan se viene por el bosque de cipreses y por el amanecer, no para ver exposiciones bajo techo. Sin embargo, este pequeño museo aporta lo que las caminatas dejan sin contar. Discreto, se halla dentro del Área Escénica Nacional de Alishan, a un corto paseo de la estación de tren principal y del núcleo de alojamientos, y rara vez recibe a más de un puñado de visitantes a la vez.
 
-En su interior, el protagonista es la tala, no el paisaje. Durante la era colonial japonesa, el bosque de Alishan fue despojado de sus gigantescos cipreses rojos y de su ciprés hinoki, y el museo expone cómo ocurrió aquello: maquinaria antigua, fotografías en blanco y negro, y secciones transversales de troncos tan anchos que se podría dormir a lo ancho de ellos.
+Lo que aquí se narra no es el paisaje, sino la tala. Durante la época colonial japonesa, el bosque de Alishan perdió sus gigantescos cipreses rojos y sus hinokis, y el museo explica cómo ocurrió. Para ello reúne maquinaria antigua, fotografías en blanco y negro y secciones de troncos tan anchas que cabría una persona tumbada sobre ellas.
 
 ## Qué hay dentro
 
-El edificio en sí es modesto, más parecido a un salón comunitario que a un gran museo, y precisamente en eso reside su encanto. Se recorren unas pocas salas al propio ritmo, sin multitudes que sortear.
+El edificio es modesto y recuerda más a un centro cívico que a un gran museo, algo que forma parte de su encanto. Las pocas salas se recorren al ritmo de cada uno, sin multitudes que esquivar.
 
-No deje de fijarse en:
+No se pierda:
 
-- Troncos de árbol cortados transversalmente, con anillos de crecimiento fechados según acontecimientos históricos
-- Fotografías del antiguo ferrocarril de tala y de los ingenieros de la era japonesa que lo construyeron
-- Exhibiciones sobre el pueblo indígena tsou (Tsou), cuyo territorio tradicional es este
-- Herramientas y maquinaria forestal antiguas, usadas para talar y transportar los cipreses gigantes
+- Secciones transversales de troncos cuyos anillos de crecimiento se relacionan con acontecimientos históricos
+- Fotografías del ferrocarril maderero original y de los ingenieros de la época japonesa
+- Paneles dedicados al pueblo indígena tsou, cuyo territorio tradicional es esta montaña
+- Antiguas herramientas y equipos forestales con los que se derribaban y transportaban los cipreses gigantes
 
-Nada de esto resulta llamativo. Es el tipo de museo sobrio, hecho de textos y objetos, donde se lee un panel, se alza la vista hacia un tocón del tamaño de una habitación y, de pronto, se entiende por qué los árboles centenarios que aún quedan en Alishan resultan tan valiosos.
+Nada de esto busca deslumbrar. Es un museo sereno, de textos y objetos, en el que uno lee un panel, levanta la vista hacia un tocón del tamaño de una habitación y comprende de pronto por qué los árboles centenarios que aún quedan en Alishan resultan tan valiosos.
 
 ## Cómo llegar
 
-El Museo de Alishan se ubica dentro del área escénica, cerca de la aldea de Xianglin (Xianglin Village), a poca distancia a pie de la estación del Ferrocarril Forestal de Alishan y de la zona principal de hoteles. Si ya se aloja dentro del parque —como suele ocurrir con la mayoría de quienes pernoctan, dado que el tren del amanecer sale antes de que amanezca—, puede simplemente caminar hasta allí.
+El Museo de Alishan se encuentra dentro del área escénica, cerca de la aldea de Xianglin, a un paseo sencillo de la estación del Ferrocarril Forestal de Alishan y de la calle donde se concentran los hoteles. Quienes ya se alojan en el parque, como la mayoría de los que pasan la noche aquí porque el tren del amanecer sale antes del alba, pueden ir caminando sin más.
 
-Si sube desde Chiayi solo por el día, puede tomar el Ferrocarril Forestal de Alishan o uno de los autobuses regulares desde Chiayi (el BRT y luego la línea de Alishan, o un autobús directo Chiayi–Alishan) hasta el área escénica, y continuar a pie desde la entrada o desde su hotel. El museo no cuenta con estacionamiento propio, así que conviene planear llegar caminando desde el punto del parque donde se encuentre alojado.
+Si sube desde Chiayi para pasar el día, tome el Ferrocarril Forestal de Alishan o alguno de los autobuses regulares que conectan Chiayi con el área escénica: el BRT y después la línea de Alishan, o bien un autobús directo Chiayi–Alishan. Una vez allí, continúe a pie desde la entrada o desde su hotel. Como el museo no cuenta con aparcamiento propio, lo mejor es llegar andando desde el punto del parque donde se aloje.
 
 ## Cuándo ir
 
-El museo mantiene un horario fijo todos los días, de 8:30 a 16:30, así que no existe aquí ninguna franja especial de apertura temprana o tardía. Como pasa bastante desapercibido incluso para los estándares de Alishan, el momento del día importa menos que en el paseo elevado al Árbol Sagrado o en el mirador del amanecer.
+El museo mantiene el mismo horario todos los días, de 8:30am a 4:30pm, así que no hay forma de entrar antes ni de quedarse más tarde. Dado que pasa desapercibido incluso para lo que es habitual en Alishan, el momento de la visita importa menos que en la pasarela del Árbol Sagrado o en el mirador del amanecer.
 
-La media mañana, cuando ya se han dispersado las multitudes del amanecer y aún no llegan los autobuses turísticos de la tarde, suele ser el momento más tranquilo. La lluvia es frecuente a esta altitud, lo que convierte al museo en un refugio realmente útil: conviene reservarlo para un tramo lluvioso del día en lugar de perder el tiempo esperando a que escampe en el hotel.
+El momento más tranquilo suele ser media mañana, cuando ya se ha dispersado el público del amanecer y aún no han llegado los autobuses turísticos para los paseos de la tarde. A esta altitud llueve a menudo, por lo que el museo resulta un refugio realmente práctico. En lugar de perder un rato de llovizna esperando en el hotel a que escampe, aprovéchelo para visitarlo.
 
 ## Cómo visitarlo como un local
 
-Conviene tratarlo como una pausa de 30-45 minutos entre atracciones más grandes de Alishan, no como un destino en sí mismo. Los locales y los visitantes recurrentes lo usan como parada de "si llueve" o "nos queda una hora antes del tren", y ese es justamente el enfoque acertado.
+Plantéelo como una pausa de 30-45 minutos entre los grandes atractivos de Alishan, no como un destino en sí mismo. Tanto los lugareños como quienes repiten lo reservan para cuando llueve o cuando falta una hora para el tren, y es un buen criterio.
 
-- **Organícelo en torno al ferrocarril forestal**: encaje la visita al museo justo después de llegar o antes de tomar el tren de regreso, ya que el horario ferroviario de Alishan condiciona la mayoría de los itinerarios aquí
-- **Pague en efectivo cuando sea posible**: no todos los pequeños negocios del parque en Alishan aceptan tarjeta, así que conviene llevar dólares taiwaneses (NT$) en billetes pequeños
-- **No apure la visita a las secciones de tronco**: los paneles con los anillos de crecimiento merecen una mirada pausada, para relacionar cada anillo con las fechas históricas señaladas
-- **Combínelo, no lo sustituya**: es mejor complementarlo con el cercano Árbol Sagrado, el Templo Shouzhen o el Parque Zhaoping que tratarlo como una salida independiente
-- **Tenga en cuenta la altitud y el clima**: lleve una capa de abrigo incluso en los meses más cálidos, ya que Alishan se encuentra muy por encima de los 2.000 metros y las tardes refrescan con rapidez
+- **Organícelo en función del ferrocarril forestal**: en Alishan, los horarios del tren condicionan la mayoría de los itinerarios, así que encaje el museo al llegar o antes del tren de regreso
+- **Pague en efectivo siempre que pueda**: no todos los pequeños negocios del parque aceptan tarjeta, por lo que conviene llevar NT$ en billetes pequeños
+- **Dedique tiempo a las secciones de los troncos**: merece la pena observar con calma los anillos de crecimiento y buscar su correspondencia con las fechas históricas señaladas
+- **Combínelo, no lo sustituya**: en lugar de hacer el viaje solo por el museo, compleméntelo con el cercano Árbol Sagrado, el templo Shouzhen o el parque Zhaoping
+- **Tenga en cuenta la altitud y el clima**: Alishan se sitúa muy por encima de los 2,000 metros y las tardes refrescan enseguida, así que lleve una prenda de abrigo incluso en los meses más cálidos
 
-El error que comete la mayoría de los visitantes es saltárselo por completo para ir directamente a fotografiar los árboles, una lástima, porque es precisamente este museo el que explica por qué esos árboles siguen todavía en pie.
+El error más común es saltárselo para dedicar todo el tiempo a fotografiar los árboles. Es una lástima, porque precisamente el museo explica por qué esos árboles en concreto siguen en pie.

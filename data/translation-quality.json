@@ -147,11 +147,11 @@
   "at": "2026-09-08T14:37:18.887Z"
  },
  "es/al-ain-al-ain-museum": {
-  "hash": "33f6b2a6332b",
+  "hash": "ec7d55653115",
   "score": 1,
   "registerBreak": false,
-  "worst": "Vista con recato, como en cualquier sitio cultural de los Emiratos: cubr",
-  "at": "2026-08-19T09:50:52.399Z"
+  "worst": "El horario es el mismo todos los días de la semana, de 9am a 7pm",
+  "at": "2026-11-25T08:08:58.178Z"
  },
  "es/al-ain-al-ain-oasis": {
   "hash": "79f6beeb9240",
@@ -7588,11 +7588,11 @@
   "at": "2026-08-15T02:44:03.029Z"
  },
  "ja/al-ain-al-ain-museum": {
-  "hash": "394cb5eff3e4",
+  "hash": "be7fc31702ae",
   "score": 1,
   "registerBreak": false,
-  "worst": "通りすがりではなく実際にこの街の歴史を学ぼうとする人々の間でこの博物館が評価されているのは、まさにこの部分があるからです。",
-  "at": "2026-08-19T09:51:07.377Z"
+  "worst": "ただ通り過ぎるのではなく、この街の歴史を本格的に学ぶ人たちからこの博物館が評価されている理由は、まさにその写真展示にあります。",
+  "at": "2026-11-25T08:09:00.462Z"
  },
  "ja/al-ain-al-ain-oasis": {
   "hash": "66cb83532029",
@@ -14770,11 +14770,11 @@
   "at": "2026-10-05T07:59:48.675Z"
  },
  "ko/al-ain-al-ain-museum": {
-  "hash": "970d9724e866",
+  "hash": "c46a35564b2b",
   "score": 1,
   "registerBreak": false,
-  "worst": "나라 다른 어느 곳에서도 시각 기록이 거의 남아 있지 않은 시절 알아인 주민들의 초상 사진을 만나볼 수 있습니다.",
-  "at": "2026-09-14T08:02:47.615Z"
+  "worst": "현지인과 재방문객은 대개 박물관을 본 공연이 아닌 전채 요리쯤으로 여깁니다.",
+  "at": "2026-11-25T08:09:16.330Z"
  },
  "ko/al-ain-al-ain-oasis": {
   "hash": "700d0033a1f9",
@@ -14875,11 +14875,11 @@
   "at": "2026-09-14T08:02:51.232Z"
  },
  "ko/alishan-alishan-museum": {
-  "hash": "2f3804e69468",
-  "score": 1,
+  "hash": "c4e22e28916d",
+  "score": 0,
   "registerBreak": false,
-  "worst": "많은 방문객이 흔히 저지르는 실수는 이 박물관을 아예 건너뛰고 나무 사진만 찍고 지나가는 것입니다.",
-  "at": "2026-09-14T08:02:50.670Z"
+  "worst": "",
+  "at": "2026-11-25T08:09:16.946Z"
  },
  "ko/alishan-alishan-national-forest-recreation-area": {
   "hash": "9c8af3de7c52",
@@ -21994,11 +21994,11 @@
   "at": "2026-08-15T03:41:03.098Z"
  },
  "zh/al-ain-al-ain-museum": {
-  "hash": "5d368c67e7a3",
+  "hash": "a858e00ff756",
   "score": 1,
   "registerBreak": false,
-  "worst": "首次到访的游客最常犯的错误，就是匆匆十五分钟走马观花赶去城堡——不妨在照片展区放慢脚步，真正深入研究这座城市历史的人",
-  "at": "2026-08-24T08:34:21.957Z"
+  "worst": "真正研究这座城市历史的人之所以推崇这家博物馆，靠的正是这些照片，而不只是路过看看的游客所见的那些。",
+  "at": "2026-11-25T08:09:18.210Z"
  },
  "zh/al-ain-al-ain-oasis": {
   "hash": "d33eb1fed441",
@@ -42131,5 +42131,54 @@
   "registerBreak": false,
   "worst": "音乐会在日历上和城市里四处散布，观众可以只看一场，也可以连看好几个晚上。",
   "at": "2026-11-24T19:04:33.532Z"
+ },
+ "es/alishan-alishan-museum": {
+  "hash": "0c7cf8caf208",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-25T08:08:59.216Z"
+ },
+ "ja/alishan-alishan-museum": {
+  "hash": "3ec848608dfe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "館内に数人以上の来館者がいることはめったにありません。",
+  "at": "2026-11-25T08:09:12.065Z"
+ },
+ "zh/alishan-alishan-museum": {
+  "hash": "7ea08833946a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "博物馆没有专属停车场，无论你住在园区哪里，都请计划步行过去。",
+  "at": "2026-11-25T08:09:32.277Z"
+ },
+ "es/cannes-autour-d-un-livre": {
+  "hash": "d3ce311bb213",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "También resulta ideal para quienes estudian francés. Comprar un libro en ese idioma a alguien",
+  "at": "2026-11-25T08:09:33.229Z"
+ },
+ "ja/cannes-autour-d-un-livre": {
+  "hash": "3f51fb169cd2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "口コミでは安定して高い評価を得ていますが、まだ観光客にはあまり知られていません。",
+  "at": "2026-11-25T08:09:34.138Z"
+ },
+ "ko/cannes-autour-d-un-livre": {
+  "hash": "8ba59876ab34",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그래서 생활용품 가게들이 늘어선 이 거리는 이곳에 사는 사람과 일하는 사람, 그리고 잠시 걸음을 멈추고 고개를 드는 소수의 방문객만의 몫으로 남아 있습니다.",
+  "at": "2026-11-25T08:09:38.509Z"
+ },
+ "zh/cannes-autour-d-un-livre": {
+  "hash": "2fe618fd0138",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "把书店当作一站，沿着老城区慢慢兜一圈。越往西走，街道越古老，也越窄。",
+  "at": "2026-11-25T08:09:39.509Z"
  }
 }
