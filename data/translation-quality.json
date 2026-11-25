@@ -38486,11 +38486,11 @@
   "at": "2026-11-02T08:11:01.813Z"
  },
  "ko/auckland-robbie-williams-britpop-world-tour-auckland": {
-  "hash": "6433d110e2a3",
+  "hash": "6a46a0e532e2",
   "score": 1,
   "registerBreak": false,
-  "worst": "플로어석은 무대와 가깝지만 공연 내내 서 있어야 합니다.",
-  "at": "2026-11-02T08:11:03.302Z"
+  "worst": "경기장 관중석은 이 주택가 골목 한가운데서 곧장 솟아오릅니다.",
+  "at": "2026-11-25T18:11:14.862Z"
  },
  "ko/abu-dhabi-adnoc-abu-dhabi-marathon": {
   "hash": "8cfbfa1d1a98",
@@ -40453,11 +40453,11 @@
   "at": "2026-11-16T07:46:49.094Z"
  },
  "ko/auckland-rise-against-auckland": {
-  "hash": "a575480bb428",
+  "hash": "a92281fbc666",
   "score": 1,
   "registerBreak": false,
-  "worst": "선율을 타는 외침으로 시작해 한 후렴 안에서도 비명으로 넘어가는 목소리입니다.",
-  "at": "2026-11-16T07:46:52.849Z"
+  "worst": "선율을 실은 외침으로 시작해 후렴 한 번 사이에도 비명으로 넘어가는 목소리입니다.",
+  "at": "2026-11-25T18:11:13.839Z"
  },
  "ko/bangkok-jim-thompson-house-museum": {
   "hash": "28288623b9cb",
@@ -42180,5 +42180,47 @@
   "registerBreak": false,
   "worst": "把书店当作一站，沿着老城区慢慢兜一圈。越往西走，街道越古老，也越窄。",
   "at": "2026-11-25T08:09:39.509Z"
+ },
+ "es/auckland-rise-against-auckland": {
+  "hash": "ffe07b9f3f7a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "con los que siguen oyendo bien la voz",
+  "at": "2026-11-25T18:11:05.403Z"
+ },
+ "es/auckland-robbie-williams-britpop-world-tour-auckland": {
+  "hash": "acf347198d28",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El coche es la peor alternativa.",
+  "at": "2026-11-25T18:11:06.085Z"
+ },
+ "ja/auckland-rise-against-auckland": {
+  "hash": "666011c9299e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "アリーナの立地のおかげで、ダウンタウン一帯が徒歩圏内に収まります。",
+  "at": "2026-11-25T18:11:07.248Z"
+ },
+ "ja/auckland-robbie-williams-britpop-world-tour-auckland": {
+  "hash": "e20af6cf9b1a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "大きなイベントの夜には、スタジアムを囲む郊外の住宅街を、一年のうちでいちばん多くの人が歩きます。",
+  "at": "2026-11-25T18:11:12.911Z"
+ },
+ "zh/auckland-rise-against-auckland": {
+  "hash": "813db425eff9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在南半球晚春的一个工作日夜晚，这支美国2000年代朋克圈里最经久不衰的乐队之一走进了奥克兰最主要的室内体育馆。",
+  "at": "2026-11-25T18:11:15.948Z"
+ },
+ "zh/auckland-robbie-williams-britpop-world-tour-auckland": {
+  "hash": "f98093377652",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "活动当晚，大部分人流靠铁路疏散。",
+  "at": "2026-11-25T18:11:16.778Z"
  }
 }
