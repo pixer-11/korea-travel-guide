@@ -29,16 +29,6 @@ faq:
     a: Early January is dry and mild in Bengaluru. Mornings are cool and afternoons are sunny, and the open stands get direct sun from midday.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg
-  credit: 'Photo: David Jones / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg
-  focus:
-    x: 38
-    'y': 22
-    top: 15
-    bottom: 29
 ---
 
 ## Six days of Challenger tennis in January

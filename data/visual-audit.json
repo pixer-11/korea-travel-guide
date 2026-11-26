@@ -4865,9 +4865,9 @@
  },
  "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Novak_Djokovic_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "bengaluru-bengaluru-open-atp-125",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Professional tennis player on hard court",
-  "at": "2026-11-25T21:19:38.334Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"atp\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-26T08:13:58.942Z"
  },
  "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
   "slug": "bengaluru-bengaluru-open-atp-125",
@@ -7484,9 +7484,9 @@
  },
  "cardiff-k-pop-forever-uk-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "cardiff-k-pop-forever-uk-tour",
-  "verdict": "MATCH",
-  "reason": "event publish gate: K-pop performer on stage, representative of event",
-  "at": "2026-11-25T20:58:35.040Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares no word with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-26T08:13:59.117Z"
  },
  "cardiff-museum-of-cardiff\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cardiff_Story_entrance_%281%29.JPG/1920px-Cardiff_Story_entrance_%281%29.JPG": {
   "slug": "cardiff-museum-of-cardiff",
