@@ -33,7 +33,7 @@ place:
     ชั้น บี1 บี2 สยามพารากอน 991 Rama I Rd, Khwaeng Pathum Wan, Pathum Wan,
     Krung Thep Maha Nakhon 10330, Thailand
   rating: 4.5
-  userRatingsTotal: 30600
+  userRatingsTotal: 31162
   googleMapsUrl: >-
     https://maps.google.com/?cid=15926310662050661968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -104,7 +104,7 @@ faq:
       shopping and dining.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

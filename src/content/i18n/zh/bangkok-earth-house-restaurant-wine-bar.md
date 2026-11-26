@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bangkok-earth-house-restaurant-wine-bar
-srcHash: 'f1d8f61dd3be'
+srcHash: '2a8a61f94a74'
 title: Earth House 餐厅 & 酒吧:曼谷美食推荐
-description: Earth House 是一家以植物性料理为主的餐厅兼酒吧，坐落在 Watthana(瓦塔纳)区 Soi Sukhumvit 53 巷内，从 Thong Lo(通罗)BTS 站步行即可到达。4.8★(435 条评价)——看看游客怎么说，营业时间和实用小贴士。
+description: Earth House 是一家以植物性料理为主的餐厅兼酒吧，坐落在 Watthana(瓦塔纳)区 Soi Sukhumvit 53 巷内，从 Thong Lo(通罗)BTS 站步行即可到达。4.8★(459 条评价)——看看游客怎么说，营业时间和实用小贴士。
 quickAnswer: Earth House 是一家以植物性料理为主的餐厅兼酒吧，坐落在 Watthana(瓦塔纳)区 Soi Sukhumvit 53 巷内，从 Thong Lo(通罗)BTS 站步行即可到达。建议周末上午前往品尝早午餐菜单，赶在中午到打烊的繁忙时段之前，或者在工作日晚上8点到9点的高峰过后前来。预测中没有特别清静的时段。周一全天休息，工作日的营业时间要到下午1:30才开始。
 faq:
   - q: 从 BTS 站怎么去 Earth House?

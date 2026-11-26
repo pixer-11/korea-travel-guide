@@ -26,7 +26,7 @@ place:
     Jl. L. L. R.E. Martadinata No.65, Citarum, Kec. Bandung Wetan, Kota Bandung,
     Jawa Barat 40115, Indonesia
   rating: 4.9
-  userRatingsTotal: 18712
+  userRatingsTotal: 19053
   googleMapsUrl: >-
     https://maps.google.com/?cid=5874503138712041764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -101,7 +101,7 @@ faq:
       street, so it's easy to pair this visit with browsing nearby clothing
       outlets and other heritage buildings along the same road.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

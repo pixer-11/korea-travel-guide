@@ -32,7 +32,7 @@ place:
     2 Thanon Sanam Chai, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon,
     Krung Thep Maha Nakhon 10200, Thailand
   rating: 4.8
-  userRatingsTotal: 8272
+  userRatingsTotal: 8549
   googleMapsUrl: >-
     https://maps.google.com/?cid=1664761078418654335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -100,7 +100,7 @@ faq:
       and the larger tour groups that arrive later in the morning.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

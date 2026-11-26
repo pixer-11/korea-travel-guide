@@ -31,7 +31,7 @@ place:
     113 Soi Wat Nak Klang, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha
     Nakhon 10600, Thailand
   rating: 4.9
-  userRatingsTotal: 427
+  userRatingsTotal: 476
   googleMapsUrl: >-
     https://maps.google.com/?cid=8543973675561303338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -90,7 +90,7 @@ faq:
       limited shade in the back sois.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

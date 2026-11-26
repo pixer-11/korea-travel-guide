@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: baguio-oh-my-gulay
-srcHash: '011b0f7db6f4'
+srcHash: '2c42e18c3ac1'
 title: Oh My Gulay：碧瑶美食指南（4.4★）
-description: Oh My Gulay坐落在碧瑶Session Road 108号五楼，满室植物与艺术装饰，得爬上一段狭窄楼梯，穿过壁画与悬挂雕塑才能抵达。4.4星（1,038条评价）——看看游客怎么说，附营业时间与实用建议。
+description: Oh My Gulay坐落在碧瑶Session Road 108号五楼，满室植物与艺术装饰，得爬上一段狭窄楼梯，穿过壁画与悬挂雕塑才能抵达。4.4星（1,063条评价）——看看游客怎么说，附营业时间与实用建议。
 quickAnswer: Oh My Gulay坐落在碧瑶Session Road 108号五楼，满室植物与艺术装饰，得爬上一段狭窄楼梯，穿过壁画与悬挂雕塑才能抵达。想避开人群，建议工作日晚上7点到8点前往，周二则要避开——那天不营业。这里价格亲民，菜式偏素食，为了这一趟爬楼也值得。
 faq:
   - q: 怎么去Oh My Gulay？

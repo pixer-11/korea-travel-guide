@@ -22,7 +22,7 @@ place:
     587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep
     Maha Nakhon 10900, Thailand
   rating: 4.4
-  userRatingsTotal: 56313
+  userRatingsTotal: 57003
   googleMapsUrl: >-
     https://maps.google.com/?cid=10516346959717498187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -73,7 +73,7 @@ faq:
       Yes, at most clothing, antique, and craft stalls — starting around 20–30%
       below the asking price is normal. Food stalls typically have fixed prices.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

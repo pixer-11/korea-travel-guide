@@ -4,7 +4,7 @@ description: >-
   Khlong Toei Market (Talat Khlong Toei) is Bangkok's largest fresh-food
   wholesale-and-retail market, open 24 hours a day, every day, and it's best
   experienced early morning (roughly 5–8am) when the produce is freshest and the
-  aisles are working rather than jammed. 4.1★ (12,755 reviews) — what visitors
+  aisles are working rather than jammed. 4.1★ (12,834 reviews) — what visitors
   say, hours, and tips.
 country: Thailand
 region: Bangkok
@@ -31,7 +31,7 @@ place:
     121,123, 125 ถนน สุนทรพจน์, Khwaeng Khlong Toei, Khet Khlong Toei, Krung
     Thep Maha Nakhon 10110, Thailand
   rating: 4.1
-  userRatingsTotal: 12755
+  userRatingsTotal: 12834
   googleMapsUrl: >-
     https://maps.google.com/?cid=4908348167951449297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -101,7 +101,7 @@ faq:
       one, so patience helps.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

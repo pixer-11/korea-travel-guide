@@ -1,45 +1,54 @@
 ---
-title: "Oh My Gulay: Where to Eat in Baguio (4.4★)"
-description: "Oh My Gulay is a plant-heavy, art-filled restaurant on the 5th floor of 108 Session Road in Baguio, best reached by climbing (yes, climbing) a narrow stairwell past murals and dangling sculptures. 4.4★ (1,038 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Baguio"
-category: "restaurant"
-pubDate: "2026-08-16T08:59:28.963Z"
+title: 'Oh My Gulay: Where to Eat in Baguio (4.4★)'
+description: >-
+  Oh My Gulay is a plant-heavy, art-filled restaurant on the 5th floor of 108
+  Session Road in Baguio, best reached by climbing (yes, climbing) a narrow
+  stairwell past murals and dangling sculptures. 4.4★ (1,063 reviews) — what
+  visitors say, hours, and tips.
+country: Philippines
+region: Baguio
+category: restaurant
+pubDate: '2026-08-16T08:59:28.963Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%284%29.jpg/3840px-Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%284%29.jpg"
-  credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oh_My_Gulay_Artists_Cafe,_Baguio,_Feb_2025_(4).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%284%29.jpg/3840px-Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%284%29.jpg
+  credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Oh_My_Gulay_Artists_Cafe,_Baguio,_Feb_2025_(4).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%283%29.jpg/3840px-Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%283%29.jpg"
-    credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Oh_My_Gulay_Artists_Cafe,_Baguio,_Feb_2025_(3).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%283%29.jpg/3840px-Oh_My_Gulay_Artists_Cafe%2C_Baguio%2C_Feb_2025_%283%29.jpg
+    credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Oh_My_Gulay_Artists_Cafe,_Baguio,_Feb_2025_(3).jpg
 place:
-  id: "ChIJl8-xsEKhkTMR4gCFVQq27DI"
-  name: "Oh My Gulay"
-  address: "5th floor, 108 Session Rd, Baguio, 2600 Benguet, Philippines"
+  id: ChIJl8-xsEKhkTMR4gCFVQq27DI
+  name: Oh My Gulay
+  address: '5th floor, 108 Session Rd, Baguio, 2600 Benguet, Philippines'
   rating: 4.4
-  userRatingsTotal: 1038
+  userRatingsTotal: 1063
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=3669507951900819682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3669507951900819682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.4117572
   lng: 120.5981474
-  phone: "+63 939 912 7266"
+  phone: +63 939 912 7266
   openingHours:
-    - "Monday: 11:00 AM – 7:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 11:00 AM – 7:00 PM"
-    - "Thursday: 11:00 AM – 7:00 PM"
-    - "Friday: 11:00 AM – 8:00 PM"
-    - "Saturday: 11:00 AM – 8:00 PM"
-    - "Sunday: 11:00 AM – 8:00 PM"
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 19
     weekdayBusy:
@@ -59,24 +68,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_4944373271515646436734524d546b684b4573782d386c4a496843"
+    venueId: ven_4944373271515646436734524d546b684b4573782d386c4a496843
 tags:
-  - "baguio"
-  - "street food"
-quickAnswer: "Oh My Gulay is a plant-heavy, art-filled restaurant on the 5th floor of 108 Session Road in Baguio, best reached by climbing (yes, climbing) a narrow stairwell past murals and dangling sculptures. Go on a weekday between 7pm and 8pm for the emptiest tables, and skip Tuesdays — it's closed. It's budget-friendly, vegetarian-leaning, and worth the walk up."
+  - baguio
+  - street food
+quickAnswer: >-
+  Oh My Gulay is a plant-heavy, art-filled restaurant on the 5th floor of 108
+  Session Road in Baguio, best reached by climbing (yes, climbing) a narrow
+  stairwell past murals and dangling sculptures. Go on a weekday between 7pm and
+  8pm for the emptiest tables, and skip Tuesdays — it's closed. It's
+  budget-friendly, vegetarian-leaning, and worth the walk up.
 faq:
-  - q: "How do I get to Oh My Gulay?"
-    a: "It's on the 5th floor of 108 Session Rd in central Baguio, an easy walk from Burnham Park. There's no elevator, so you'll take a stairwell decorated with local art all the way up."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday evenings between 7pm and 8pm are the quietest. Weekends stay busy from opening at 11am right through to closing at 8pm."
-  - q: "Is Oh My Gulay open every day?"
-    a: "It's closed on Tuesdays. Monday, Wednesday, and Thursday hours are 11am–7pm, while Friday through Sunday it stays open until 8pm."
-  - q: "Is it expensive?"
-    a: "No — it's a budget-friendly restaurant, with generous portions built for sharing across a few vegetable-forward dishes."
-  - q: "Is the food fully vegetarian?"
-    a: "The menu is vegetarian-leaning and built around Cordillera-grown produce, though it's worth confirming specific dish ingredients if you have strict dietary needs."
+  - q: How do I get to Oh My Gulay?
+    a: >-
+      It's on the 5th floor of 108 Session Rd in central Baguio, an easy walk
+      from Burnham Park. There's no elevator, so you'll take a stairwell
+      decorated with local art all the way up.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday evenings between 7pm and 8pm are the quietest. Weekends stay busy
+      from opening at 11am right through to closing at 8pm.
+  - q: Is Oh My Gulay open every day?
+    a: >-
+      It's closed on Tuesdays. Monday, Wednesday, and Thursday hours are
+      11am–7pm, while Friday through Sunday it stays open until 8pm.
+  - q: Is it expensive?
+    a: >-
+      No — it's a budget-friendly restaurant, with generous portions built for
+      sharing across a few vegetable-forward dishes.
+  - q: Is the food fully vegetarian?
+    a: >-
+      The menu is vegetarian-leaning and built around Cordillera-grown produce,
+      though it's worth confirming specific dish ingredients if you have strict
+      dietary needs.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-26'
 ---
 ## Why Oh My Gulay is worth the climb
 

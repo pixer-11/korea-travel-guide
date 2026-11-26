@@ -30,7 +30,7 @@ place:
     Jl. Goutama No.2, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571,
     Indonesia
   rating: 4.9
-  userRatingsTotal: 18538
+  userRatingsTotal: 19963
   priceLevel: 2
   googleMapsUrl: >-
     https://maps.google.com/?cid=9850476580074208143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -104,7 +104,7 @@ faq:
       Budget around 45–75 minutes for a full meal including dessert, plus extra
       buffer time for a possible wait during peak hours.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 ## Why go
 

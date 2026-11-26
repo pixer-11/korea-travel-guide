@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bandung-hummingbird-eatery-space
-srcHash: 'd21d4cee1cd1'
+srcHash: 'eef346a68c4a'
 title: Hummingbird Eatery & Space：万隆觅食好去处
 description: Hummingbird Eatery & Space位于万隆Citarum区的Jl. Progo，是一家绿意环绕、设有多处露台座位的全天候咖啡馆。印尼经典菜、西式主菜、可丽饼和鲜榨果汁都能在这里吃到。
 quickAnswer: Hummingbird Eatery & Space位于万隆Citarum区的Jl. Progo，是一家绿意环绕、设有多处露台座位的全天候咖啡馆。印尼经典菜、西式主菜、可丽饼和鲜榨果汁都能在这里吃到。近13,000条评价给出了4.7的评分，可见人气实打实。周末人多拥挤，建议挑工作日上午或下午三四点前后前往。在万隆，这里的消费属于中档水平（价格等级2）。
@@ -22,7 +22,7 @@ faq:
 
 Citarum是离万隆市中心只有几分钟路程的住宅区。区里有几条绿树成荫的“老街”，许多殖民时期的老宅被改造成了咖啡馆和精品店，Jl. Progo就是其中之一。Hummingbird Eatery & Space正是这样一栋修复过的平房，既有花园露台，也有室内座位。菜单照顾到各路食客，印尼炒饭（nasi goreng）、仁当（rendang）与意面、汉堡、可丽饼、冷压果汁同场供应。
 
-目前，这里是全城评价数量最多的餐厅之一，近13,000条评价，平均分4.7。这说明了两件事：一是食物和环境一贯靠谱，二是别指望独享清静，周末尤其如此。
+目前，这里是全城评价数量最多的餐厅之一，近13,000条评价，平均分4.8。这说明了两件事：一是食物和环境一贯靠谱，二是别指望独享清静，周末尤其如此。
 
 ## 交通指南
 

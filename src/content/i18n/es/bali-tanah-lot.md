@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bali-tanah-lot
-srcHash: 'd2218161d9fb'
+srcHash: 'da3eafe2c2e2'
 title: 'Tanah Lot: Guía de viaje de Bali'
 description: Tanah Lot es un templo marino del siglo XVI, encaramado sobre un islote rocoso frente a la costa de la Regencía de Tabanan, a unos 45-60 minutos al noroeste de Seminyak/Canggu.
 quickAnswer: Tanah Lot es un templo marino del siglo XVI, encaramado sobre un islote rocoso frente a la costa de la Regencía de Tabanan, a unos 45-60 minutos al noroeste de Seminyak/Canggu. Ve al atardecer (aproximadamente entre las 5:30 y las 6:30 p.m., según la temporada), pero llega 2-3 horas antes para adelantarte a las multitudes de los autobuses turísticos y explorar los senderos del acantilado y los puestos del mercado cercanos. Con marea baja puedes cruzar caminando sobre la arena hasta la base de la roca, aunque el interior del templo está reservado para los fieles hindúes.
@@ -22,7 +22,7 @@ faq:
 
 Tanah Lot ("Tierra en el Mar") es uno de los siete templos marinos principales de Bali (pura segara) construidos para honrar a los espíritus del océano, y su silueta contra el atardecer es posiblemente la imagen más fotografiada de la isla. El templo se asienta sobre una formación rocosa natural justo frente a la costa, en el pueblo de Beraban, distrito de Kediri, Regencía de Tabanan; lo suficientemente separado de tierra firme como para que, con marea alta, parezca flotar, mientras que con marea baja un paso de arena lo conecta con la orilla.
 
-Según la tradición, fue fundado en el siglo XVI por el sacerdote Dang Hyang Nirartha, y sigue siendo un lugar activo de culto hindú, no solo un telón de fondo para fotos. Con una calificación de 4.6 sobre más de 100,000 reseñas, es uno de los sitios individuales más visitados de Bali, por lo que aquí gestionar bien el momento de la visita y las expectativas importa más que en templos más tranquilos.
+Según la tradición, fue fundado en el siglo XVI por el sacerdote Dang Hyang Nirartha, y sigue siendo un lugar activo de culto hindú, no solo un telón de fondo para fotos. Con una calificación de 4.7 sobre más de 100,000 reseñas, es uno de los sitios individuales más visitados de Bali, por lo que aquí gestionar bien el momento de la visita y las expectativas importa más que en templos más tranquilos.
 
 ## Cómo llegar
 

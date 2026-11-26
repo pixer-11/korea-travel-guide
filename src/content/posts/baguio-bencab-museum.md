@@ -2,7 +2,7 @@
 title: 'BenCab Museum: Baguio Travel Guide (4.5★)'
 description: >-
   BenCab Museum sits along Asin Road in Tuba, Benguet, about 15–20 minutes from
-  central Baguio, and it's open daily except Monday, 9am–6pm. 4.5★ (3,618
+  central Baguio, and it's open daily except Monday, 9am–6pm. 4.5★ (3,645
   reviews) — what visitors say, hours, and tips.
 country: Philippines
 region: Baguio
@@ -29,7 +29,7 @@ place:
   name: BenCab Museum
   address: 'Km. 6 Asin Rd, Tuba, 2603 Benguet, Philippines'
   rating: 4.5
-  userRatingsTotal: 3618
+  userRatingsTotal: 3645
   googleMapsUrl: >-
     https://maps.google.com/?cid=15508068517173027273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -76,7 +76,7 @@ faq:
       making it easy to pair with a half-day trip outside the city center.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 The museum announces itself before you even reach the entrance. Coming up Asin Road, the pine-covered hills fall away into a deep valley on your left, and the building itself (low, dark-timbered, half-buried into the slope) appears almost camouflaged against the ridge.
 

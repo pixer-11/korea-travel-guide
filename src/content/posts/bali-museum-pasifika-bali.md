@@ -1,45 +1,55 @@
 ---
-title: "Museum Pasifika: Bali Travel Guide (4.6★)"
-description: "Museum Pasifika Bali sits inside the Nusa Dua tourism complex (BTDC/ITDC area) in Benoa, South Kuta, and is open daily from 10am to 6pm. 4.6★ (821 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Bali"
-category: "attraction"
-pubDate: "2026-08-25T08:17:07.843Z"
+title: 'Museum Pasifika: Bali Travel Guide (4.6★)'
+description: >-
+  Museum Pasifika Bali sits inside the Nusa Dua tourism complex (BTDC/ITDC area)
+  in Benoa, South Kuta, and is open daily from 10am to 6pm. 4.6★ (859 reviews) —
+  what visitors say, hours, and tips.
+country: Indonesia
+region: Bali
+category: attraction
+pubDate: '2026-08-25T08:17:07.843Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg/3840px-2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg"
-  credit: "Photo: Lasthib / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2018_museum_pasifika,_nusa_dua,_Bali,_Indonesia.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg/3840px-2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg
+  credit: 'Photo: Lasthib / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2018_museum_pasifika,_nusa_dua,_Bali,_Indonesia.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Museum_Pasifika.jpg/3840px-Museum_Pasifika.jpg"
-    credit: "Photo: Museum Pasifika / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museum_Pasifika.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Museum_Pasifika.jpg/3840px-Museum_Pasifika.jpg
+    credit: 'Photo: Museum Pasifika / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Museum_Pasifika.jpg'
 place:
-  id: "ChIJRbNf4b5B0i0R5xfnGuTcxjY"
-  name: "Museum Pasifika Bali"
-  address: "Benoa, Complex Bali Tourism Development Corporation / ITDC Area Block P, Jl. ITDC Nusa Dua Lot BC, Benoa, South Kuta, Badung Regency, Bali 80361, Indonesia"
+  id: ChIJRbNf4b5B0i0R5xfnGuTcxjY
+  name: Museum Pasifika Bali
+  address: >-
+    Benoa, Complex Bali Tourism Development Corporation / ITDC Area Block P, Jl.
+    ITDC Nusa Dua Lot BC, Benoa, South Kuta, Badung Regency, Bali 80361,
+    Indonesia
   rating: 4.6
-  userRatingsTotal: 821
-  googleMapsUrl: "https://maps.google.com/?cid=3947084995698825191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 859
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3947084995698825191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.8000858
   lng: 115.2307029
-  phone: "+62 361 774935"
+  phone: +62 361 774935
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekendQuiet:
@@ -47,24 +57,43 @@ place:
     weekendBusy:
       - 15
       - 16
-    venueId: "ven_596a78635475476e6678355230693042356234664e62524a496843"
+    venueId: ven_596a78635475476e6678355230693042356234664e62524a496843
 tags:
-  - "bali"
-  - "museum"
-quickAnswer: "Museum Pasifika Bali sits inside the Nusa Dua tourism complex (BTDC/ITDC area) in Benoa, South Kuta, and is open daily from 10am to 6pm. It's quietest on weekdays between 5pm and 6pm, or weekend mornings from 10am to 11am — avoid weekend afternoons between 3pm and 5pm when it fills up. Budget 1.5–2 hours to walk its 11 pavilions of Asian-Pacific art."
+  - bali
+  - museum
+quickAnswer: >-
+  Museum Pasifika Bali sits inside the Nusa Dua tourism complex (BTDC/ITDC area)
+  in Benoa, South Kuta, and is open daily from 10am to 6pm. It's quietest on
+  weekdays between 5pm and 6pm, or weekend mornings from 10am to 11am — avoid
+  weekend afternoons between 3pm and 5pm when it fills up. Budget 1.5–2 hours to
+  walk its 11 pavilions of Asian-Pacific art.
 faq:
-  - q: "Where exactly is Museum Pasifika located?"
-    a: "It's inside the BTDC/ITDC tourism complex in Benoa, South Kuta, Badung Regency — walking distance from many Nusa Dua resorts and a short drive from Tanjung Benoa."
-  - q: "What are the opening hours?"
-    a: "It's open daily, including weekends, from 10:00 AM to 6:00 PM, with no listed weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 5pm and 6pm are the calmest, and weekend mornings from 10am to 11am are nearly as quiet. Avoid weekend afternoons between 3pm and 5pm, when it's busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 1.5 to 2 hours to walk through all 11 pavilions at a comfortable pace."
-  - q: "Is it good for kids?"
-    a: "Yes — the editorial description flags it as kid-friendly, with varied art forms, open courtyards, and enough space for children to move between pavilions without feeling cooped up."
+  - q: Where exactly is Museum Pasifika located?
+    a: >-
+      It's inside the BTDC/ITDC tourism complex in Benoa, South Kuta, Badung
+      Regency — walking distance from many Nusa Dua resorts and a short drive
+      from Tanjung Benoa.
+  - q: What are the opening hours?
+    a: >-
+      It's open daily, including weekends, from 10:00 AM to 6:00 PM, with no
+      listed weekly closing day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 5pm and 6pm are the calmest, and weekend mornings from
+      10am to 11am are nearly as quiet. Avoid weekend afternoons between 3pm and
+      5pm, when it's busiest.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 1.5 to 2 hours to walk through all 11 pavilions at a
+      comfortable pace.
+  - q: Is it good for kids?
+    a: >-
+      Yes — the editorial description flags it as kid-friendly, with varied art
+      forms, open courtyards, and enough space for children to move between
+      pavilions without feeling cooped up.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-26'
 ---
 You wouldn't expect a serious art museum tucked inside Nusa Dua's manicured resort grid, which is exactly why Museum Pasifika Bali catches people off guard. It sits inside the ITDC/BTDC tourism complex in Benoa, surrounded by five-star hotels and golf courses, in a Balinese-Javanese building with courtyards, tiled roofs and stone carvings that feel more temple than gallery.
 

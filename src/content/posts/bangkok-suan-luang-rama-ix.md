@@ -4,7 +4,7 @@ description: >-
   Suan Luang Rama IX, in Prawet district on Bangkok's eastern edge, is one of
   the city's biggest and most beautifully landscaped public parks — a mix of
   botanical gardens, a lake with paddle boats, jogging paths and playgrounds.
-  4.7★ (19,441 reviews) — what visitors say, hours, and tips.
+  4.7★ (19,759 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Bangkok
 category: attraction
@@ -22,7 +22,7 @@ place:
     Chaloem Phrakiat Ratchakan Thi 9 Rd, เเขวงหนองบอน Khet Prawet, Krung Thep
     Maha Nakhon 10250, Thailand
   rating: 4.7
-  userRatingsTotal: 19441
+  userRatingsTotal: 19759
   googleMapsUrl: >-
     https://maps.google.com/?cid=1738187384159392836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -66,15 +66,15 @@ quickAnswer: >-
   the city's biggest and most beautifully landscaped public parks — a mix of
   botanical gardens, a lake with paddle boats, jogging paths and playgrounds. Go
   on a weekday between 10am and 3pm for the calmest experience; weekends get
-  busy from 7am to 9am and 4pm to 7pm, so if you must go on a Saturday or Sunday, aim for
-  noon to 2pm. Set aside two to three hours to properly walk the gardens, rent a paddle
-  boat, and cool off under the tree cover.
+  busy from 7am to 9am and 4pm to 7pm, so if you must go on a Saturday or
+  Sunday, aim for noon to 2pm. Set aside two to three hours to properly walk the
+  gardens, rent a paddle boat, and cool off under the tree cover.
 faq:
   - q: What's the best time of day to visit Suan Luang Rama IX?
     a: >-
       Weekdays from 10am to 3pm are the quietest. On weekends, foot traffic is
-      heavy from 7am to 9am and 4pm to 7pm, so aim for noon to 2pm if you're going on a
-      Saturday or Sunday.
+      heavy from 7am to 9am and 4pm to 7pm, so aim for noon to 2pm if you're
+      going on a Saturday or Sunday.
   - q: How do I get to Suan Luang Rama IX without a car?
     a: >-
       There's no BTS or MRT station right at the park. The closest options are
@@ -99,7 +99,7 @@ faq:
       itinerary.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 You know you've arrived somewhere different the moment the traffic noise from Chaloem Phrakiat Ratchakan Thi 9 Road drops away behind a wall of rain trees. Suan Luang Rama IX doesn't announce itself with grand gates or crowds pressing at the entrance, it just opens up, block after block of mowed lawn, clipped hedges, and glassy lake, in a corner of the city most visitors never see: Prawet, out on Bangkok's eastern flank, far from the temple circuit and the river.

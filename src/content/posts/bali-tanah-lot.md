@@ -24,8 +24,8 @@ place:
   id: ChIJq95xT4I30i0RaU3j93Diq8o
   name: Tanah Lot
   address: 'Beraban, Kediri, Tabanan Regency, Bali 82121, Indonesia'
-  rating: 4.6
-  userRatingsTotal: 102899
+  rating: 4.7
+  userRatingsTotal: 103501
   googleMapsUrl: >-
     https://maps.google.com/?cid=14604015191502048617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -79,14 +79,14 @@ faq:
       inland for a fuller day trip.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go
 
 Tanah Lot ("Land in the Sea") is one of Bali's seven key sea temples (pura segara) built to honor the ocean spirits, and its silhouette against the sunset is arguably the most photographed image on the island. The temple sits on a natural rock formation just offshore in Beraban village, Kediri district, Tabanan Regency, separate enough from the mainland that at high tide it looks like it's floating, and at low tide a sandy causeway connects it to the shore.
 
-It was reportedly established in the 16th century by the priest Dang Hyang Nirartha, and it remains an active place of Hindu worship, not just a photo backdrop. With a 4.6 rating across more than 100,000 reviews, it's one of the most visited single sites in Bali, so managing timing and expectations matters more here than at quieter temples.
+It was reportedly established in the 16th century by the priest Dang Hyang Nirartha, and it remains an active place of Hindu worship, not just a photo backdrop. With a 4.7 rating across more than 100,000 reviews, it's one of the most visited single sites in Bali, so managing timing and expectations matters more here than at quieter temples.
 
 ## Getting there
 

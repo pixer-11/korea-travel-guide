@@ -27,7 +27,7 @@ place:
     49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Krung Thep Maha
     Nakhon 10200, Thailand
   rating: 4.9
-  userRatingsTotal: 16354
+  userRatingsTotal: 22212
   googleMapsUrl: >-
     https://maps.google.com/?cid=17580473038879280434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -108,7 +108,7 @@ faq:
       Plan on 1.5–2 hours for a full dinner; the lounge-like atmosphere also
       makes it a good spot to linger longer over drinks after eating.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 ## Why go
 

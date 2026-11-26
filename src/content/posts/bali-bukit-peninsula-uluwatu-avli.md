@@ -28,7 +28,7 @@ place:
   name: AVLI Uluwatu - Modern Greek
   address: '53MW+98H, Pecatu, South Kuta, Badung Regency, Bali 80361, Indonesia'
   rating: 4.8
-  userRatingsTotal: 1112
+  userRatingsTotal: 1407
   googleMapsUrl: >-
     https://maps.google.com/?cid=1418632173084409489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -81,7 +81,7 @@ faq:
       drive.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 ## Why go
 

@@ -30,7 +30,7 @@ place:
     Br Tebesaya, Jl. Sukma Kesuma No.25, Peliatan, Kecamatan Ubud, Kabupaten
     Gianyar, Bali 80571, Indonesia
   rating: 4.6
-  userRatingsTotal: 814
+  userRatingsTotal: 841
   googleMapsUrl: >-
     https://maps.google.com/?cid=18262819621638766473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -102,7 +102,7 @@ faq:
       Peliatan Royal Palace (Legong dance performances), local art studios, and
       an easy walk or scooter ride to central Ubud's markets and rice terraces.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: 'National Museum: Bangkok Travel Guide (4.7★)'
 description: >-
   The National Museum Bangkok, just north of Sanam Luang near the Grand Palace,
   is Southeast Asia's largest museum and the best place in the country to see
-  royal regalia, funeral chariots, and Buddhist art under one roof. 4.7★ (9,789
+  royal regalia, funeral chariots, and Buddhist art under one roof. 4.7★ (10,120
   reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Bangkok
@@ -21,10 +21,11 @@ heroImage:
     x: 50
     'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bangkok_National_Museum.jpg/3840px-Bangkok_National_Museum.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bangkok_National_Museum.jpg/3840px-Bangkok_National_Museum.jpg
     credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Bangkok_National_Museum.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Bangkok_National_Museum.jpg'
 place:
   id: ChIJbXZLwgyZ4jARO_0Exd6l_lU
   name: National Museum Bangkok
@@ -32,7 +33,7 @@ place:
     4 Soi Na Phra That, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon,
     Krung Thep Maha Nakhon 10200, Thailand
   rating: 4.7
-  userRatingsTotal: 9789
+  userRatingsTotal: 10120
   googleMapsUrl: >-
     https://maps.google.com/?cid=6196572513515142459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -80,7 +81,7 @@ faq:
       minutes, or take a taxi directly to Na Phra That Road, since no BTS/MRT
       station is within easy walking distance.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

@@ -16,7 +16,7 @@ place:
     Jl. Pantai Bingin No.05, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali
     80361, Indonesia
   rating: 4.9
-  userRatingsTotal: 84
+  userRatingsTotal: 117
   googleMapsUrl: >-
     https://maps.google.com/?cid=15599740219868614694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -69,7 +69,7 @@ faq:
 aiGenerated: true
 draft: false
 photoless: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

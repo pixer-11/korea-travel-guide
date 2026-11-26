@@ -1,6 +1,10 @@
 ---
 title: 'Cheaper & Better Street Food: Where to Eat in Bangkok'
-description: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated "Cheaper & Better Street Food" spot — expect plastic stools, budget-friendly one-plate meals, and a mostly local office-worker crowd.
+description: >-
+  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
+  in Bang Rak, for a cluster of stalls including the highly rated "Cheaper &
+  Better Street Food" spot — expect plastic stools, budget-friendly one-plate
+  meals, and a mostly local office-worker crowd.
 country: Thailand
 region: Bangkok
 category: restaurant
@@ -27,7 +31,7 @@ place:
     57, 89 Soi Silom 20, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha
     Nakhon 10500, Thailand
   rating: 4.7
-  userRatingsTotal: 1658
+  userRatingsTotal: 1772
   priceLevel: 1
   googleMapsUrl: >-
     https://maps.google.com/?cid=1585471347237704100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -69,20 +73,39 @@ place:
 tags:
   - bangkok
   - street food
-quickAnswer: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated "Cheaper & Better Street Food" spot — expect plastic stools, budget-friendly one-plate meals, and a mostly local office-worker crowd. Go between 12pm and 1:30pm on a weekday, when the soi is at its busiest and freshest, and bring small bills. Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk.
+quickAnswer: >-
+  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
+  in Bang Rak, for a cluster of stalls including the highly rated "Cheaper &
+  Better Street Food" spot — expect plastic stools, budget-friendly one-plate
+  meals, and a mostly local office-worker crowd. Go between 12pm and 1:30pm on a
+  weekday, when the soi is at its busiest and freshest, and bring small bills.
+  Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk.
 faq:
   - q: How do I get to Soi Silom 20?
-    a: Take the BTS to Sala Daeng station or the MRT to Silom station (they connect via a walkway), then walk south on Silom Road about 5-8 minutes to the soi entrance.
+    a: >-
+      Take the BTS to Sala Daeng station or the MRT to Silom station (they
+      connect via a walkway), then walk south on Silom Road about 5-8 minutes to
+      the soi entrance.
   - q: How much does a meal cost?
-    a: Expect budget-friendly, no-frills street food pricing at most stalls — confirm current prices on-site since they shift with ingredient costs.
+    a: >-
+      Expect budget-friendly, no-frills street food pricing at most stalls —
+      confirm current prices on-site since they shift with ingredient costs.
   - q: What's the best time to visit?
-    a: Weekday lunch, roughly 12:00pm to 1:30pm, when nearby offices break and stalls are at peak output; the crowd thins by mid-afternoon, but stalls stay open into the evening until around 11pm.
+    a: >-
+      Weekday lunch, roughly 12:00pm to 1:30pm, when nearby offices break and
+      stalls are at peak output; the crowd thins by mid-afternoon, but stalls
+      stay open into the evening until around 11pm.
   - q: How long should I plan to spend there?
-    a: 30-45 minutes is enough for a meal; it's a fast, functional lunch stop rather than a leisurely sit-down experience.
+    a: >-
+      30-45 minutes is enough for a meal; it's a fast, functional lunch stop
+      rather than a leisurely sit-down experience.
   - q: What else is nearby?
-    a: Patpong night market is a short walk north, and Lumphini Park is about 10-15 minutes on foot to the east, making this an easy add-on to a Silom-area itinerary.
+    a: >-
+      Patpong night market is a short walk north, and Lumphini Park is about
+      10-15 minutes on foot to the east, making this an easy add-on to a
+      Silom-area itinerary.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 ## Why Soi Silom 20 Matters
 

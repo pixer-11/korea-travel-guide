@@ -23,8 +23,8 @@ place:
   address: >-
     1319 Sukhumvit Rd, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha
     Nakhon 10110, Thailand
-  rating: 4.8
-  userRatingsTotal: 771
+  rating: 4.9
+  userRatingsTotal: 1191
   googleMapsUrl: >-
     https://maps.google.com/?cid=12572062011495845167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -39,7 +39,7 @@ place:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 11:00 PM'
-  priceLevel: 2
+  priceLevel: 3
 tags:
   - bangkok
   - new & trending
@@ -81,7 +81,7 @@ faq:
       specifics can change for a newly opened venue.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why Somsak stands out

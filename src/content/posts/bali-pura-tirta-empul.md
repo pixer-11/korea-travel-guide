@@ -3,7 +3,7 @@ title: 'Pura Tirta Empul: Bali Travel Guide (4.6★)'
 description: >-
   Pura Tirta Empul in Tampaksiring, Gianyar Regency, is Bali's most famous holy
   spring temple, where Hindu Balinese and travelers alike wade through
-  purification pools to stand under a row of stone spouts. 4.6★ (30,652 reviews)
+  purification pools to stand under a row of stone spouts. 4.6★ (31,522 reviews)
   — what visitors say, hours, and tips.
 country: Indonesia
 region: Bali
@@ -31,7 +31,7 @@ place:
   name: Pura Tirta Empul
   address: 'Tampaksiring, Gianyar Regency, Bali 80552, Indonesia'
   rating: 4.6
-  userRatingsTotal: 30652
+  userRatingsTotal: 31522
   googleMapsUrl: >-
     https://maps.google.com/?cid=6026478213714472129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -98,7 +98,7 @@ faq:
       Tampaksiring.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 ## Why Pura Tirta Empul matters
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: baguio-oh-my-gulay
-srcHash: '011b0f7db6f4'
+srcHash: '2c42e18c3ac1'
 title: 'Oh My Gulay: dónde comer en Baguio (4.4★)'
-description: 'Oh My Gulay es un restaurante repleto de plantas y arte en el quinto piso del 108 Session Road, en Baguio, al que se llega subiendo (sí, subiendo a pie) una escalera estrecha flanqueada por murales y esculturas colgantes. 4.4★ (1,038 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Oh My Gulay es un restaurante repleto de plantas y arte en el quinto piso del 108 Session Road, en Baguio, al que se llega subiendo (sí, subiendo a pie) una escalera estrecha flanqueada por murales y esculturas colgantes. 4.4★ (1,063 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Oh My Gulay es un restaurante repleto de plantas y arte en el quinto piso del 108 Session Road, en Baguio, al que se llega subiendo (sí, subiendo a pie) una escalera estrecha flanqueada por murales y esculturas colgantes. Conviene ir un día de semana entre las 7 y las 8 de la tarde para encontrar mesas más despejadas, y evitar los martes, ya que ese día cierra. Es económico, de tendencia vegetariana y bien vale la subida.
 faq:
   - q: ¿Cómo se llega a Oh My Gulay?

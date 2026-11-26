@@ -31,7 +31,7 @@ place:
     1121 1123 Song Wat Rd, Khwaeng Samphanthawong, Khet Samphanthawong, Krung
     Thep Maha Nakhon 10100, Thailand
   rating: 4.4
-  userRatingsTotal: 243
+  userRatingsTotal: 276
   googleMapsUrl: >-
     https://maps.google.com/?cid=14580237452166611560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -90,7 +90,7 @@ faq:
       rushing.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

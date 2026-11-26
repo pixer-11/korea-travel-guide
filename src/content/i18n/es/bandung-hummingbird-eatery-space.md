@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bandung-hummingbird-eatery-space
-srcHash: 'd21d4cee1cd1'
+srcHash: 'eef346a68c4a'
 title: 'Hummingbird Eatery & Space: dónde comer en Bandung'
 description: En la calle Jl. Progo, en el barrio de Citarum (Bandung), Hummingbird Eatery & Space es un café abierto todo el día, rodeado de vegetación y con varias terrazas. Su carta reúne clásicos indonesios, platos occidentales, crepes y jugos naturales.
 quickAnswer: En la calle Jl. Progo, en el barrio de Citarum (Bandung), Hummingbird Eatery & Space es un café abierto todo el día, rodeado de vegetación y con varias terrazas. Su carta reúne clásicos indonesios, platos occidentales, crepes y jugos naturales. Su valoración de 4.7, con casi 13,000 reseñas, confirma que es un local muy concurrido y de verdadero éxito. Para no coincidir con las aglomeraciones del fin de semana, conviene ir un día laborable por la mañana o a media tarde. Sus precios son moderados para la ciudad (nivel de precio 2).
@@ -24,7 +24,7 @@ En Citarum, una zona residencial a pocos minutos del centro, se encuentra un peq
 
 Su carta está pensada para contentar a un público variado: el nasi goreng y el rendang comparten espacio con pastas, hamburguesas, crepes y jugos prensados en frío.
 
-Hoy figura entre los restaurantes con más reseñas de la ciudad, con casi 13,000 opiniones y una media de 4.7. De ello se deducen dos cosas: la cocina y el entorno no suelen decepcionar, y difícilmente estará solo, sobre todo en fin de semana.
+Hoy figura entre los restaurantes con más reseñas de la ciudad, con casi 13,000 opiniones y una media de 4.8. De ello se deducen dos cosas: la cocina y el entorno no suelen decepcionar, y difícilmente estará solo, sobre todo en fin de semana.
 
 ## Cómo llegar
 

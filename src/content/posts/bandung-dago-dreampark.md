@@ -30,7 +30,7 @@ place:
     Mekarwangi, Jl. Dago Giri No.Km. 2.2, Pagerwangi, Kec. Lembang, Kabupaten
     Bandung Barat, Jawa Barat 40391, Indonesia
   rating: 4.2
-  userRatingsTotal: 19943
+  userRatingsTotal: 20051
   googleMapsUrl: >-
     https://maps.google.com/?cid=4502663151476764255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -96,7 +96,7 @@ faq:
       Lembang and the Floating Market, making it easy to combine into a single
       day out.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go

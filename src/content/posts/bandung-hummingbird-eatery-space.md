@@ -23,8 +23,8 @@ place:
   address: >-
     Jl. Progo No.16, Citarum, Kec. Bandung, Kota Bandung, Jawa Barat 40116,
     Indonesia
-  rating: 4.7
-  userRatingsTotal: 12914
+  rating: 4.8
+  userRatingsTotal: 13235
   priceLevel: 2
   googleMapsUrl: >-
     https://maps.google.com/?cid=8515449702627647382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -39,11 +39,17 @@ place:
     - 'Friday: 7:00 AM – 10:00 PM'
     - 'Saturday: 7:00 AM – 10:00 PM'
     - 'Sunday: 7:00 AM – 10:00 PM'
-  phone: '+62 22 4212582'
+  phone: +62 22 4212582
 tags:
   - bandung
   - local restaurant
-quickAnswer: Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl. Progo in Bandung's Citarum area, known for a menu that spans Indonesian classics, Western mains, crepes, and fresh juices. With a 4.7 rating from nearly 13,000 reviews, it's a genuinely popular, well-visited spot — go on a weekday morning or mid-afternoon to avoid the weekend crush, and expect mid-range pricing for the city (price level 2).
+quickAnswer: >-
+  Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl. Progo
+  in Bandung's Citarum area, known for a menu that spans Indonesian classics,
+  Western mains, crepes, and fresh juices. With a 4.7 rating from nearly 13,000
+  reviews, it's a genuinely popular, well-visited spot — go on a weekday morning
+  or mid-afternoon to avoid the weekend crush, and expect mid-range pricing for
+  the city (price level 2).
 faq:
   - q: How do I get to Hummingbird Eatery & Space without a car?
     a: >-
@@ -70,14 +76,14 @@ faq:
       Try one Indonesian classic like nasi goreng or rendang alongside a crepe
       and a fresh juice to get a sense of the full menu range in one visit.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why go
 
 Jl. Progo is one of Bandung's small cluster of tree-lined "heritage streets" in Citarum, a residential pocket a few minutes from the city center that's known for colonial-era houses converted into cafés and boutiques. Hummingbird Eatery & Space fits that mold: a restored bungalow with a garden patio, indoor seating, and a menu built to please a mixed crowd, nasi goreng and rendang sit alongside pasta, burgers, crepes, and cold-pressed juices.
 
-It's currently one of the most-reviewed restaurants in the city (nearly 13,000 reviews and a 4.7 average), which tells you two things: the food and setting are reliably good, and you should expect company, especially on weekends.
+It's currently one of the most-reviewed restaurants in the city (nearly 13,000 reviews and a 4.8 average), which tells you two things: the food and setting are reliably good, and you should expect company, especially on weekends.
 
 ## Getting there
 

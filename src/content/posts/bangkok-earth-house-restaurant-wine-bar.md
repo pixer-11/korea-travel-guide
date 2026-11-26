@@ -2,7 +2,7 @@
 title: 'Earth House | Restaurant | Wine Bar: Where to Eat in Bangkok'
 description: >-
   Earth House is a plant-forward restaurant and wine bar tucked down Soi
-  Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. 4.8★ (435 reviews) —
+  Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. 4.8★ (459 reviews) —
   what visitors say, hours, and tips.
 country: Thailand
 region: Bangkok
@@ -15,7 +15,7 @@ place:
     112/2 Soi Sukhumvit 53, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha
     Nakhon 10110, Thailand
   rating: 4.8
-  userRatingsTotal: 435
+  userRatingsTotal: 459
   priceLevel: 2
   googleMapsUrl: >-
     https://maps.google.com/?cid=16608666566639575038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -56,9 +56,9 @@ tags:
 quickAnswer: >-
   Earth House is a plant-forward restaurant and wine bar tucked down Soi
   Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. Go on a weekend
-  morning for the brunch menu, before the busy stretch from noon to close, or on a weekday
-  after the 8–9pm peak; the forecast flags no standout quiet hour. It's closed Mondays, and weekday service doesn't start until
-  1:30pm.
+  morning for the brunch menu, before the busy stretch from noon to close, or on
+  a weekday after the 8–9pm peak; the forecast flags no standout quiet hour.
+  It's closed Mondays, and weekday service doesn't start until 1:30pm.
 faq:
   - q: How do I get to Earth House from the BTS?
     a: >-
@@ -71,9 +71,9 @@ faq:
       Saturday 9am–11pm, and Sunday 9am–10pm. It's closed all day Monday.
   - q: When is the quietest time to visit?
     a: >-
-      On weekends, the forecast flags no standout quiet hour, so come in the morning, before noon. The busiest
-      stretch is midday through closing on Saturday and Sunday, so avoid
-      arriving unannounced around lunch.
+      On weekends, the forecast flags no standout quiet hour, so come in the
+      morning, before noon. The busiest stretch is midday through closing on
+      Saturday and Sunday, so avoid arriving unannounced around lunch.
   - q: Is Earth House good for vegetarians and vegans?
     a: >-
       Yes — it's built around plant-based cooking, with grain bowls, wood-fired
@@ -91,7 +91,7 @@ heroImage:
   credit: 'Photo: Foursquare user content (Earth House)'
   license: foursquare
   source: 'https://foursquare.com/v/6606b91857de177eaeeb058d'
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 You turn off the roar of Sukhumvit Road onto Soi 53, and the traffic noise drops away almost immediately. Low-rise houses, overhanging trees, the occasional motorbike taxi idling in the shade. This is one of Bangkok's quieter residential sois, and Earth House sits inside it like a house that decided to become a restaurant.
 

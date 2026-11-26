@@ -28,7 +28,7 @@ place:
     Jl. Raya Denpasar Bedugul No.Km. 36, Mekarsari, Kec. Baturiti, Kabupaten
     Tabanan, Bali 82191, Indonesia
   rating: 4.6
-  userRatingsTotal: 5615
+  userRatingsTotal: 5674
   googleMapsUrl: >-
     https://maps.google.com/?cid=12381454994689640431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -96,7 +96,7 @@ faq:
       mistier than coastal Bali, plus some small rupiah notes for food stalls
       and shops.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 ## Why go
 

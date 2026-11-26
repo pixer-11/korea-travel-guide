@@ -29,7 +29,7 @@ place:
     Jl. Munduk Catu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361,
     Indonesia
   rating: 4.9
-  userRatingsTotal: 214
+  userRatingsTotal: 382
   googleMapsUrl: >-
     https://maps.google.com/?cid=189945800455336524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -94,7 +94,7 @@ faq:
       card, with service charge and tax typically already included in the bill.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-26'
 ---
 
 ## Why Cure Bali is worth the trip
