@@ -15,6 +15,14 @@ eventPerformer:
   name: K-Pop Forever!
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Cardiff_MMB_10.jpg'
+  credit: 'Photo: mattbuck (category) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cardiff_MMB_10.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - cardiff

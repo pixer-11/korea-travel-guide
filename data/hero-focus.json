@@ -8734,5 +8734,21 @@
    "x": 35,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/c/cb/Cardiff_MMB_10.jpg": {
+  "w": 2965,
+  "h": 1885,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tashkent%2C_Tashkent_City_from_Hotel_Shodlik_Palace.jpg/3840px-Tashkent%2C_Tashkent_City_from_Hotel_Shodlik_Palace.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
  }
 }

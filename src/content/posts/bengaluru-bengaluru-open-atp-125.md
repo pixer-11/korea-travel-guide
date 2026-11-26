@@ -29,6 +29,16 @@ faq:
     a: Early January is dry and mild in Bengaluru. Mornings are cool and afternoons are sunny, and the open stands get direct sun from midday.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg
+  credit: 'Photo: David Jones / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg
+  focus:
+    x: 47
+    'y': 20
+    top: 15
+    bottom: 25
 ---
 
 ## Six days of Challenger tennis in January

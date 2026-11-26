@@ -10,6 +10,14 @@ eventEndDate: '2027-02-06'
 eventRecurring: true
 eventVenue: CAEx Exhibition Center
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tashkent%2C_Tashkent_City_from_Hotel_Shodlik_Palace.jpg/3840px-Tashkent%2C_Tashkent_City_from_Hotel_Shodlik_Palace.jpg'
+  credit: 'Photo: Carl Ha / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tashkent,_Tashkent_City_from_Hotel_Shodlik_Palace.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - tashkent

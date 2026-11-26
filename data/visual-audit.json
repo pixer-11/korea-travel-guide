@@ -4869,6 +4869,12 @@
   "reason": "hand-reviewed: filename shares only \"atp\" with the event title (audit-event-hero-identity --reject)",
   "at": "2026-11-26T08:13:58.942Z"
  },
+ "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": {
+  "slug": "bengaluru-bengaluru-open-atp-125",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player on blue court, ATP event context",
+  "at": "2026-11-26T19:36:29.837Z"
+ },
  "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
   "slug": "bengaluru-bengaluru-open-atp-125",
   "verdict": "MISMATCH",
@@ -7736,11 +7742,29 @@
   "reason": "patrol replace: Ice cave with colored LED lighting installation",
   "at": "2026-11-24T19:36:59.885Z"
  },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<640) — could not measure",
+  "at": "2026-11-26T19:36:49.862Z"
+ },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG": {
   "slug": "chamonix-grotte-de-glace",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up fragment of ice texture, not representative view",
   "at": "2026-11-14T19:37:50.651Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<640) — could not measure",
+  "at": "2026-11-26T19:36:49.766Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9e/Mer_de_Glace_grotte_8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<640) — could not measure",
+  "at": "2026-11-26T19:36:49.824Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Mer_de_Glace_grotte_4.JPG": {
   "slug": "chamonix-grotte-de-glace",
@@ -7750,9 +7774,9 @@
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg/3840px-Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg": {
   "slug": "chamonix-grotte-de-glace",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Shows Grotte de Glace ice cave entrance in glacier setting",
-  "at": "2026-08-16T19:53:56.898Z"
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: This is a glacier in Himalayas, not Chamonix Alps.",
+  "at": "2026-11-26T19:36:52.471Z"
  },
  "chamonix-parc-de-merlet\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Parc_de_Merlet_et_Massif_du_Mont-Blanc_%28juin_2022%29.JPG": {
   "slug": "chamonix-parc-de-merlet",
@@ -22046,6 +22070,12 @@
   "reason": "Plated dessert dish with fine dining presentation",
   "reasonKo": "고급 레스토랑의 세련된 디저트 플레이팅",
   "at": "2026-08-07T09:20:04.189Z"
+ },
+ "los-angeles-little-luck\u0001https://fastly.4sqi.net/img/general/original/2256491_UqSCOzGbNNfGZb0ofi_M3eQj5m1BiXzV2SydEUbvq5w.jpg": {
+  "slug": "los-angeles-little-luck",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of door and sign, not representative venue view",
+  "at": "2026-11-26T19:37:55.701Z"
  },
  "los-angeles-little-luck\u0001https://fastly.4sqi.net/img/general/original/638_czSxpGAX85M67FDx6YV_BZB25KJCFW_JOJrOwZbffMw.jpg": {
   "slug": "los-angeles-little-luck",
@@ -40164,6 +40194,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Garden landscape with pond, waterfall, trees, matches venue",
   "at": "2026-11-08T07:46:14.292Z"
+ },
+ "toronto-evnne-concert\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/2024_EVNNE_3rdShowcase.png": {
+  "slug": "toronto-evnne-concert",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Group photo of EVNNE performers at concert event",
+  "at": "2026-11-26T19:40:30.835Z"
  },
  "toronto-ive-world-tour-scotiabank-arena\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg/3840px-IVE_%28%EC%95%84%EC%9D%B4%EB%B8%8C%29_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg": {
   "slug": "toronto-ive-world-tour-scotiabank-arena",

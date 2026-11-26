@@ -16,13 +16,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg/3840px-Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg'
-  credit: 'Photo: Jchmrt / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e4/2024_EVNNE_3rdShowcase.png
+  credit: 'Photo: 티비텐 TV10 https://youtube.com/@_tv10?si=Ohz-ccuiaxa5TRFU / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg'
+  source: https://commons.wikimedia.org/wiki/File:2024_EVNNE_3rdShowcase.png
   focus:
-    x: 35
-    y: 45
+    x: 53
+    'y': 11
+    top: 2
+    bottom: 20
 gallery: []
 tags:
   - toronto
