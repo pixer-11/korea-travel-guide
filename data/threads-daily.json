@@ -127,29 +127,31 @@
     "da-lat-11th-da-lat-flower-festival",
     "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
     "seoul-seoul-light-gwanghwamun",
-    "lima-robbie-williams-concert"
+    "lima-robbie-williams-concert",
+    "lake-louise-samson-mall"
   ],
-  "lastSentDay": "2026-11-26",
+  "lastSentDay": "2026-11-27",
   "material": {
-    "day": "2026-11-26",
-    "slug": "lima-robbie-williams-concert",
-    "title": "Robbie Williams Concert: Dates, Tickets & Venue (Lima)",
+    "day": "2026-11-27",
+    "slug": "lake-louise-samson-mall",
+    "title": "Samson Mall: Lake Louise Travel Guide (4.4★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-26-lima-robbie-williams-concert-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-26-lima-robbie-williams-concert-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-26-lima-robbie-williams-concert-3.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-4.jpg"
     ],
-    "igCaption": "Robbie Williams brings decades of hits to Estadio San Marcos on December 12, 2026 — inside the oldest university campus in the Americas. Clear December skies, Saturday night energy, and a setlist built on anthems like Angels and Rock DJ.\n\n#Lima #Peru #events #travel #wanderatlas #RobbieWilliams #ConcertTravel #TravelGuide #SanMarcos\n📷 Photo: Kevin Payravi / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: th0rstenhell / Wikimedia Commons (CC BY-SA 2.0) (edited)",
-    "thOption": "Robbie Williams hasn't released a setlist for Lima, but decades of hits like Angels, Feel and Rock DJ are basically guaranteed. Which one do you hope turns Estadio San Marcos into one big choir?",
-    "link": "https://wanderatlasguides.com/posts/lima-robbie-williams-concert/"
+    "igCaption": "Samson Mall is barely a mall — just a short row of shops next to the Lake Louise Visitor Centre — but it's where every good day here actually starts. Coffee at Laggan's, a last grocery run, a paper map before the Icefields Parkway: this corner quietly makes the park work.\n\n#SamsonMall #LakeLouise #Canada #travelguide #travel #wanderatlas #BanffNationalPark #IcefieldsParkway #TravelCanada #CanadianRockies\n📷 Photo: DXR / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Foursquare user content (Samson Mall) (edited)",
+    "thOption": "Laggan's Mountain Bakery gets a line out the door most summer mornings. Would you brave the queue for coffee and a pastry before the shuttle up to the lake, or skip straight to the trail?",
+    "link": "https://wanderatlasguides.com/posts/lake-louise-samson-mall/"
   },
   "social": {
-    "thDay": "2026-11-26",
-    "thId": "18115712456625129",
-    "igDay": "2026-11-25",
-    "igId": "17869323699680487",
-    "thSlug": "lima-robbie-williams-concert",
-    "igSlug": "seoul-seoul-light-gwanghwamun",
+    "thDay": "2026-11-27",
+    "thId": "18649207870014613",
+    "igDay": "2026-11-27",
+    "igId": "18202551493385192",
+    "thSlug": "lake-louise-samson-mall",
+    "igSlug": "lake-louise-samson-mall",
     "history": [
       {
         "day": "2026-10-10",
@@ -923,7 +925,25 @@
         "day": "2026-11-20",
         "slug": "milan-max-pezzali-unipol-dome-milan",
         "thId": "18649947373011692",
-        "igId": "18433422982144504"
+        "igId": "18433422982144504",
+        "insights": {
+          "at": "2026-11-27",
+          "th": {
+            "views": 17,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          },
+          "ig": {
+            "reach": 0,
+            "saved": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "views": 0
+          }
+        }
       },
       {
         "day": "2026-11-21",
@@ -956,6 +976,12 @@
         "day": "2026-11-26",
         "slug": "lima-robbie-williams-concert",
         "thId": "18115712456625129"
+      },
+      {
+        "day": "2026-11-27",
+        "slug": "lake-louise-samson-mall",
+        "thId": "18649207870014613",
+        "igId": "18202551493385192"
       }
     ]
   }
