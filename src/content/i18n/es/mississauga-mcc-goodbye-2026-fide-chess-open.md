@@ -1,93 +1,93 @@
 ---
 lang: es
 slug: mississauga-mcc-goodbye-2026-fide-chess-open
-srcHash: 'd7fc5ef412a7'
+srcHash: '5d5ac485b3ff'
 title: 'MCC Goodbye 2026 FIDE Chess Open: fechas, entradas y sede (Mississauga)'
-description: El MCC Goodbye 2026 FIDE Chess Open es un torneo de ajedrez rápido con valoración FIDE en Mississauga (Ontario). Las fechas de la edición de 2026 son del 11 al 25 de noviembre.
-quickAnswer: 'El MCC Goodbye 2026 FIDE Chess Open es un torneo de ajedrez rápido con valoración FIDE en Mississauga (Ontario), y las fechas de esta edición son del 11 al 25 de noviembre de 2026. No se venden entradas: para participar, cada jugador se inscribe. La sede, la cuota y el procedimiento de inscripción figuran en la ficha del torneo que publica el propio organizador. Para que las partidas computen en el Elo rápido de la FIDE, cada jugador necesita un FIDE ID.'
+description: El MCC Goodbye 2026 FIDE Chess Open, un torneo de ajedrez rápido con valoración FIDE en Mississauga (Ontario), tenía programadas sus fechas del 11 al 25 de noviembre de 2026.
+quickAnswer: 'El MCC Goodbye 2026 FIDE Chess Open era un torneo de ajedrez rápido con valoración FIDE en Mississauga (Ontario), y sus fechas anunciadas iban del 11 al 25 de noviembre de 2026. No se vendían entradas: la participación se gestionaba mediante la inscripción de jugadores. Para que sus partidas contaran en el ranking FIDE de rápidas, cada participante necesitaba un número de identificación FIDE.'
 faq:
-  - q: ¿Cuándo es el MCC Goodbye 2026 FIDE Chess Open?
-    a: Las fechas de esta edición son del 11 al 25 de noviembre de 2026, en Mississauga (Ontario). Ambas caen en miércoles. En la ficha del torneo, el organizador detalla el calendario de rondas y el ritmo de juego.
-  - q: ¿Dónde está la sede?
-    a: El torneo se juega en Mississauga, al oeste de Toronto. La dirección exacta de la sede aparece en la ficha que publica el organizador, junto con los datos de inscripción.
-  - q: ¿Hace falta un FIDE ID para jugar?
-    a: Sí, si se quiere que las partidas tengan valoración FIDE. Los FIDE ID los tramitan las federaciones nacionales; en Canadá, esa función corresponde a la Federación Canadiense de Ajedrez (Chess Federation of Canada). Los resultados se incorporan a la lista de rápidas de la FIDE, no a la de ritmo estándar.
-  - q: ¿Cómo se llega desde el aeropuerto Toronto Pearson?
-    a: El aeropuerto Pearson se encuentra dentro del término municipal de Mississauga. La zona tiene servicio de autobuses de MiWay y de trenes de GO Transit por las líneas Lakeshore West y Milton. Además, es muy habitual moverse en taxi o con aplicaciones de VTC.
-  - q: ¿Es festivo el Día del Recuerdo y afecta a los desplazamientos del 11 de noviembre?
-    a: En Ontario, el Día del Recuerdo (Remembrance Day) no es festivo oficial, de modo que el transporte público y los comercios funcionan con normalidad. Mucha gente guarda dos minutos de silencio a las 11 de la mañana y lleva una amapola en la solapa.
+  - q: ¿Cuándo era el MCC Goodbye 2026 FIDE Chess Open?
+    a: Las fechas anunciadas eran del 11 al 25 de noviembre de 2026, en Mississauga (Ontario). Ambos días caen en miércoles, de modo que el torneo empezaba y terminaba el mismo día de la semana, con dos semanas de diferencia.
+  - q: ¿Dónde estaba la sede?
+    a: El torneo tenía como escenario previsto Mississauga, una ciudad de la región de Peel situada justo al oeste de Toronto. El Aeropuerto Internacional Toronto Pearson se encuentra dentro de su término municipal.
+  - q: ¿Hacía falta un número de identificación FIDE para jugar?
+    a: Sí, para que las partidas tuvieran valoración FIDE. Ese número lo tramitan las federaciones nacionales; en Canadá corresponde a la Federación Canadiense de Ajedrez (Chess Federation of Canada). Los resultados de este abierto de rápidas iban a computar en la lista FIDE de partidas rápidas, no en la de ritmo clásico.
+  - q: ¿Cómo se llegaba desde el aeropuerto Toronto Pearson?
+    a: El aeropuerto Pearson está dentro del término municipal de Mississauga. La zona cuenta con los autobuses de MiWay, los trenes de GO Transit circulan por las líneas Lakeshore West y Milton, y el taxi y los vehículos con conductor son de uso muy extendido.
+  - q: ¿El Día del Recuerdo, el 11 de noviembre, era festivo y afectaba a los desplazamientos?
+    a: En Ontario, el Día del Recuerdo no es festivo oficial, así que el transporte público y los comercios funcionan con normalidad. Mucha gente guarda dos minutos de silencio a las 11 a. m. y lleva una amapola prendida en la ropa.
 ---
 
-En cada mesa hay un reloj, a veces planillas y a veces no, y tras cada jugada se oye el chasquido suave de una mano que pulsa el botón. Así suena un abierto de partidas rápidas. El MCC Goodbye 2026 FIDE Chess Open lleva ese sonido a Mississauga (Ontario), y las fechas de esta edición son del 11 al 25 de noviembre de 2026.
+Relojes en todas las mesas, con planillas o sin ellas, y ese golpe seco de la mano sobre el pulsador tras cada jugada: así suena un abierto de partidas rápidas. El MCC Goodbye 2026 FIDE Chess Open iba a llevar ese sonido a Mississauga (Ontario) del 11 al 25 de noviembre de 2026.
 
-El nombre ya lo dice todo. Se trata de una despedida del año ajedrecístico 2026, valorada por la FIDE, la federación internacional de ajedrez, y abierta a jugadores de competición de cualquier nivel de Elo.
+El nombre lo decía todo. Se presentaba como una despedida del año ajedrecístico 2026, con valoración de la FIDE, la federación internacional de ajedrez, y abierto a jugadores de competición de cualquier nivel de Elo.
 
 ## Qué significa «rápidas FIDE» en este tablero
 
-Las partidas rápidas están a medio camino entre las relámpago y las clásicas. Según las Leyes del Ajedrez de la FIDE, en una partida rápida cada jugador dispone de más de 10 minutos y menos de 60, y el incremento, si lo hay, se calcula sobre 60 jugadas. Ninguna partida pasa de las dos horas, y la mayoría termina mucho antes.
+El ritmo rápido se sitúa entre el blitz y el clásico. Según las Leyes del Ajedrez de la FIDE, en una partida rápida cada jugador dispone de más de 10 minutos y menos de 60, contando el incremento que corresponda a lo largo de 60 jugadas. Ninguna partida llega a las dos horas, y la mayoría termina mucho antes.
 
-La FIDE mantiene una lista de Elo de rápidas independiente de las de ritmo estándar y relámpago. Los resultados de este torneo solo cuentan para la de rápidas. Una buena actuación hará subir su Elo de rápidas, pero no el Elo clásico que suele citar la mayoría de los jugadores.
+La FIDE mantiene una lista de valoración propia para las rápidas, independiente de las de ritmo clásico y blitz. Los resultados de este abierto iban a computar únicamente en la de rápidas. Un buen torneo de este tipo mueve el Elo de rápidas del jugador, no la valoración clásica que la mayoría suele citar.
 
-Esa distinción influye en el perfil de los participantes. A los abiertos de rápidas suelen acudir:
+Esa separación influye en quién se apunta. A los abiertos de rápidas suelen acudir:
 
-- Jugadores de club que buscan su primer Elo FIDE de rápidas
-- Jóvenes que suman partidas valoradas entre trimestre y trimestre
-- Jugadores veteranos que prefieren una partida más corta y más afilada
+- Jugadores de club que buscan su primera valoración FIDE de rápidas
+- Juveniles que suman partidas valoradas entre un trimestre escolar y otro
+- Jugadores veteranos que prefieren una partida más corta y afilada
 
 ## Dos miércoles separados por dos semanas
 
-El calendario presenta una curiosidad. Tanto el 11 como el 25 de noviembre de 2026 son miércoles, así que el torneo empieza y termina el mismo día de la semana, con dos semanas de diferencia.
+El calendario tenía su curiosidad: tanto el 11 como el 25 de noviembre de 2026 caen en miércoles. El torneo estaba programado para empezar y terminar el mismo día de la semana, con dos semanas de por medio.
 
-En la ficha del torneo, el organizador indica el calendario exacto de rondas y el ritmo de juego, además de la sede. Sea cual sea el formato, unas fechas entre semana condicionan el tipo de público. En citas como esta, buena parte de los inscritos tiene un trabajo o unos horarios escolares que cumplir.
+Las fechas a mitad de semana condicionan la composición del torneo. En citas como esta, buena parte de los participantes tiene trabajo u horario escolar y encaja las rondas entre la jornada laboral y las clases.
 
-A mediados de noviembre, además, el sur de Ontario se vuelve frío y oscuro. Una vez que se atrasan los relojes a principios de mes, el sol se pone antes de las 5 de la tarde. Quien vuelva a casa tras una sesión vespertina saldrá a la calle en plena noche y, muchas veces, con un viento cortante procedente del lago Ontario.
+A mediados de noviembre, además, el sur de Ontario se vuelve frío y oscuro. Tras el cambio de hora de principios de mes, el sol se pone antes de las 5 p. m. Quien salía de la sala de juego después de una ronda vespertina se encontraba con la noche cerrada y, a menudo, con un viento cortante procedente del lago Ontario.
 
-## Un arranque en el Día del Recuerdo
+## Una inauguración en el Día del Recuerdo
 
-En Canadá, la primera fecha tiene un significado especial. El 11 de noviembre es el Día del Recuerdo (Remembrance Day), que se conmemora en todo el país con amapolas prendidas en los abrigos y dos minutos de silencio a las 11 de la mañana.
+En Canadá, la primera fecha tenía un significado especial. El 11 de noviembre es el Día del Recuerdo, que todo el país conmemora con amapolas prendidas en los abrigos y dos minutos de silencio a las 11 a. m.
 
-En Ontario no es festivo oficial. Tiendas, transporte público y oficinas funcionan con normalidad, por lo que llegar a la sede no supone ninguna diferencia respecto a cualquier otro miércoles. Lo único que notarán los visitantes extranjeros es la abundancia de amapolas rojas en las solapas, tanto ese día como en los anteriores.
+En Ontario no es festivo oficial. Comercios, transporte público y oficinas funcionan con normalidad, por lo que moverse el 11 de noviembre no difiere de cualquier otro miércoles. Los visitantes extranjeros ven muchas amapolas rojas en las solapas, tanto en los días previos como en la propia jornada.
 
-## Cómo inscribirse
+## La inscripción en el torneo
 
-Aquí no hay entradas para espectadores como en un concierto. En este caso, la «entrada» es la inscripción de cada jugador, y el organizador publica en la ficha del torneo la cuota, las categorías y el modo de inscribirse.
+No había entradas para espectadores al estilo de un concierto. Aquí, «entrada» equivalía a la participación como jugador, que se formalizaba mediante la inscripción ante la organización.
 
-La parte FIDE tiene su propio requisito. Para obtener valoración, el jugador necesita un FIDE ID, que tramita su federación nacional. En Canadá, esa federación es la Federación Canadiense de Ajedrez (Chess Federation of Canada, CFC). Los jugadores de otros países tienen su FIDE ID a través de su propia federación, y sus resultados cuentan igualmente.
+La parte FIDE tenía su propio requisito. Para que sus partidas se valoraran, cada jugador necesitaba un número de identificación FIDE, tramitado a través de su federación nacional. En Canadá, esa federación es la Federación Canadiense de Ajedrez (Chess Federation of Canada, CFC). Los jugadores de otros países tienen su número por medio de su propia federación, y sus resultados cuentan igualmente.
 
-Para un abierto de rápidas, los jugadores suelen llevar:
+A un abierto de rápidas los jugadores suelen llevar:
 
-- Su número de FIDE ID y los datos de su federación
+- Su número de identificación FIDE y los datos de su federación
 - Un bolígrafo, por si el torneo exige planillas
-- Una botella de agua y algo de comer para los descansos entre rondas
-- Una prenda de abrigo, porque la temperatura de las salas es variable
+- Una botella de agua y algo de comer para las pausas entre rondas
+- Una prenda de abrigo, porque la temperatura de las salas varía
 
-## Normas de cortesía ante el tablero
+## Normas de cortesía frente al tablero
 
-En las partidas rápidas, la etiqueta se rige por las Leyes de la FIDE, y los árbitros se encargan de hacerlas cumplir. Algunos hábitos le evitarán problemas.
+La etiqueta en las partidas rápidas se rige por las Leyes de la FIDE, y los árbitros se encargan de hacerlas cumplir. Algunos hábitos ayudan a evitar problemas.
 
-Rige la regla de pieza tocada, pieza movida: si toca una pieza, está obligado a moverla, y antes de colocar bien una pieza en su casilla debe decir «compongo». El reloj se pulsa con la misma mano con la que se ha movido la pieza. Esta es la norma que más sorprende a los recién llegados.
+Rige la regla de pieza tocada, pieza movida: quien toca una pieza está obligado a moverla, y antes de colocar bien una hay que decir «compongo» (la fórmula francesa *j'adoube* también es habitual). El reloj se pulsa con la misma mano que ha movido la pieza; es la norma que más sorprende a los recién llegados.
 
-El error más caro es el del teléfono. El reglamento de la FIDE permite a los árbitros dar por perdida la partida a un jugador cuyo móvil suene en la sala de juego, y en muchos torneos los teléfonos están directamente prohibidos en la sala. Los habituales los apagan del todo y los guardan en la bolsa.
+El error más caro es el teléfono. Las reglas de la FIDE permiten a los árbitros dar por perdida la partida a un jugador cuyo móvil suene en la zona de juego, y muchos torneos prohíben directamente los teléfonos en la sala. Los habituales lo apagan por completo y lo dejan en la bolsa.
 
-Lo normal es darse la mano antes y después de cada partida. Al perder, la costumbre es parar el reloj y tender la mano al rival, en lugar de dejar que caiga la bandera con la posición en el tablero. Los análisis posteriores se hacen fuera de la sala de juego y nunca junto a una partida que siga en curso.
+Lo normal es estrecharse la mano antes y después de cada partida. Quien pierde suele detener el reloj y tender la mano, en lugar de abandonar la posición con la bandera caída. Los análisis posteriores se hacen fuera de la sala de juego y nunca junto a una partida que siga en curso.
 
 ## Cómo llegar a Mississauga
 
-Mississauga está justo al oeste de Toronto, en la Región de Peel. El aeropuerto internacional Toronto Pearson se encuentra en realidad dentro del término municipal de Mississauga, lo que simplifica mucho el viaje a quien llegue en avión.
+Mississauga se encuentra justo al oeste de Toronto, en la región de Peel. El Aeropuerto Internacional Toronto Pearson está, de hecho, dentro de su término municipal, lo que facilita mucho el viaje a quien llega en avión.
 
-Para moverse por la ciudad hay varias opciones:
+Para moverse, las opciones son estas:
 
-- **MiWay** es la red municipal de autobuses, con líneas que llegan a la mayoría de los barrios
-- **GO Transit** une en tren Mississauga con Union Station, en el centro de Toronto, a través de las líneas Lakeshore West y Milton
-- **UP Express** conecta Pearson con Union Station, una opción práctica para quienes se alojan en el centro de Toronto
-- **En coche** se desplaza mucha gente, ya que la ciudad se articula en torno a amplias avenidas de tipo suburbano
+- **MiWay** es la red de autobuses de la ciudad, con líneas que llegan a la mayoría de los barrios
+- **GO Transit** conecta Mississauga con la estación Union, en el centro de Toronto, mediante los trenes de las líneas Lakeshore West y Milton
+- **UP Express** une Pearson con la estación Union, una opción útil para quienes se alojan en el centro
+- **En coche** se desplaza mucha gente, ya que la ciudad está trazada sobre amplias avenidas suburbanas
 
-La sede figura en la ficha del organizador. Antes de elegir alojamiento, los jugadores suelen comprobar en el mapa qué línea de MiWay o qué estación de GO les queda cerca.
+A la hora de elegir alojamiento, los jugadores de fuera suelen buscar una línea de MiWay o una estación de GO que les lleve hasta la sede.
 
 ## Entre ronda y ronda
 
-La mayoría de los jugadores de fuera acaban en City Centre. Allí, el centro comercial Square One Shopping Centre tiene la zona de restauración más grande de los alrededores, y a su lado se abre Mississauga Celebration Square, presidida por la torre del reloj del Ayuntamiento.
+La mayoría de los jugadores visitantes acaba en el centro urbano (City Centre). Allí, el Square One Shopping Centre tiene la mayor zona de restauración de los alrededores, y a su lado se abre la Mississauga Celebration Square, dominada por la torre del reloj del ayuntamiento.
 
-Para algo más tranquilo está Port Credit, a orillas del lago, en la desembocadura del río Credit. En su calle principal, Lakeshore Road, hay cafeterías y restaurantes, y junto al agua se alza un hito con forma de faro. Cuenta con su propia estación de GO en la línea Lakeshore West, de modo que se llega fácilmente sin coche.
+Para un ambiente más tranquilo está Port Credit, a orillas del lago, en la desembocadura del río Credit. Su calle principal, Lakeshore Road, reúne cafés y restaurantes, y junto al agua se alza un hito con forma de faro. Al contar con estación propia de GO en la línea Lakeshore West, se llega fácilmente sin coche.
 
-Toronto queda lo bastante cerca para una jornada de descanso. El tren de GO lleva hasta el centro, y los museos y barrios de la ciudad están a un paso entre ronda y ronda.
+Toronto queda lo bastante cerca para aprovechar un día de descanso. El tren de GO lleva hasta el centro, y los museos y barrios de la ciudad están al alcance entre una ronda y otra.

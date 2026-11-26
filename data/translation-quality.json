@@ -39529,11 +39529,11 @@
   "at": "2026-11-09T18:04:30.638Z"
  },
  "ko/buenos-aires-xlov-latam-tour-ii": {
-  "hash": "de4e60873b3d",
+  "hash": "93435182f5e3",
   "score": 1,
   "registerBreak": false,
-  "worst": "줄을 서서 바라보는 코리엔테스 대로는 시내에서 가장 긴 대로 가운데 하나로, 도심에서 차카리타 묘지까지 곧게 뻗어 있습니다.",
-  "at": "2026-11-09T18:04:33.976Z"
+  "worst": "줄을 서서 바라보는 이 길은 시내에서 가장 긴 대로 가운데 하나입니다.",
+  "at": "2026-11-26T17:57:40.057Z"
  },
  "es/alexandria-alexandria-national-museum": {
   "hash": "46d7256ca53e",
@@ -42278,5 +42278,82 @@
   "registerBreak": false,
   "worst": "据预测，周末下午5点到晚上11点人最多。",
   "at": "2026-11-26T07:57:39.307Z"
+ },
+ "es/buenos-aires-xlov-latam-tour-ii": {
+  "hash": "f8b00c455280",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El concierto coincidía, por tanto, con un día laborable en una ciudad donde se cena tarde.",
+  "at": "2026-11-26T17:57:10.892Z"
+ },
+ "es/mississauga-mcc-goodbye-2026-fide-chess-open": {
+  "hash": "63c24900aefd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El torneo estaba programado para empezar y terminar el mismo día de la semana, con dos sem",
+  "at": "2026-11-26T17:57:18.079Z"
+ },
+ "es/mumbai-no-art-mumbai-festival": {
+  "hash": "e75a3a11085f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Hay algunos detalles que sorprenden a quienes van por primera vez:",
+  "at": "2026-11-26T17:57:18.896Z"
+ },
+ "ja/buenos-aires-xlov-latam-tour-ii": {
+  "hash": "614bdde45474",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "参加は無料で、輪に加わればあっという間に周りと打ち解けられます。",
+  "at": "2026-11-26T17:57:19.713Z"
+ },
+ "ja/chiang-mai-yi-peng-lantern-festival-loy-krathong": {
+  "hash": "cdcbd2516577",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "会場は従来、市の北側のメージョー、サンサーイ、ドイサケット周辺でした。",
+  "at": "2026-11-26T17:57:26.157Z"
+ },
+ "ja/mississauga-mcc-goodbye-2026-fide-chess-open": {
+  "hash": "054159d71441",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "コンサートのような観戦チケットはありませんでした。",
+  "at": "2026-11-26T17:57:33.551Z"
+ },
+ "ko/mississauga-mcc-goodbye-2026-fide-chess-open": {
+  "hash": "0bcd3dc011ab",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "MCC 굿바이 2026 FIDE 체스 오픈은 온타리오주 미시소가에 이 소리를 들여올 대회였고",
+  "at": "2026-11-26T17:57:48.902Z"
+ },
+ "ko/siem-reap-festival-lotus": {
+  "hash": "b592a8f4159d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "손이 많이 가고 시간도 오래 걸리는 아시아에서 가장 귀한 직물 가운데 하나여서, 폭이 좁은 스카프 한 장조차...",
+  "at": "2026-11-26T17:57:50.008Z"
+ },
+ "zh/buenos-aires-xlov-latam-tour-ii": {
+  "hash": "6674e03e932f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "XLOV是一支多国籍韩流组合，成员来自不止一个国家，粉丝遍布亚洲和美洲。",
+  "at": "2026-11-26T17:57:51.148Z"
+ },
+ "zh/mississauga-mcc-goodbye-2026-fide-chess-open": {
+  "hash": "3900ad3699fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "快棋公开赛通常吸引以下几类棋手：想拿到第一个国际棋联快棋等级分的俱乐部棋手",
+  "at": "2026-11-26T17:57:52.107Z"
+ },
+ "zh/phnom-penh-bon-om-touk-cambodian-water-festival": {
+  "hash": "939ba9105875",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里人潮通常十分拥挤，原因也不难理解：全国各地的柬埔寨家庭都会来这里观看",
+  "at": "2026-11-26T17:57:53.024Z"
  }
 }
