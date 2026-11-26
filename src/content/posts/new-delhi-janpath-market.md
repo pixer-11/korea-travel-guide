@@ -63,6 +63,7 @@ place:
       - 18
       - 19
     venueId: ven_4d4c53652d51797734377a526b444439587a6376555f684a496843
+  phone: '+91 72899 87769'
 tags:
   - new delhi
   - local market
