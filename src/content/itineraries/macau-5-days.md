@@ -6,7 +6,7 @@ title: 'Macau in 5 days: temples, Cotai, Taipa and Coloane itinerary'
 description: A 5-day Macau itinerary moving from the historic Barra waterfront and Cotai's resort strip to Taipa Village, Guia Hill and the beaches and temples of Coloane.
 quickAnswer: 'This is a 5-day Macau itinerary: day 1 explores Barra''s temple and colonial hilltop sights, day 2 pairs Cotai''s resort strip with Taipa Village, day 3 climbs from the Red Market to Guia Hill, day 4 settles into Hac Sa Beach on Coloane, and day 5 closes with Coloane''s temples and panda pavilion.'
 pubDate: '2026-11-04T07:53:25.858Z'
-stopsHash: 4fd30281c44ebb7a4f333871a44033ee031a90a7
+stopsHash: fe2942a5aeead64b507a545bd1b4bad860d7a6b5
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Macau itinerary?
@@ -77,15 +77,15 @@ itinerary:
         why: A consistently well-rated restaurant inside Londoner Grand that rarely fills up, it suits a long, unhurried lunch between the morning's sightseeing and the evening ahead.
         dwellMin: 300
         walkToNext:
-          km: 1.7
-          minutes: 23
-          transit: false
-      - slug: cotai-taipa-grande-viewing-platform
+          km: 0.9
+          minutes: null
+          transit: true
+      - slug: cotai-wynn-palace
         slot: evening
-        why: An attraction rated 4.7 by visitors, included as a stop on this route.
+        why: A trendy rated 4.6 by visitors, included as a stop on this route.
         dwellMin: 90
         walkToNext: null
-    rainSwapSlug: taipa-village-taipa-houses
+    rainSwapSlug: taipa-village-casa-de-nostalgia
   - label: Markets, temples and Guia Hill
     intro: This day moves from the Art Deco Red Market on the Macau peninsula to Templo de Kun Iam, then climbs toward Estr. do Eng. Trigo and the Guia Hill high point, finishing at the fortress and lighthouse for harbour views. It's a fuller day that rewards an early start.
     stops:
@@ -151,7 +151,7 @@ itinerary:
         why: Starting right from the eastern end of Hac Sa beach, this shoreline hike out to the Long Chao Kok headland makes a scenic, active end to the day.
         dwellMin: 90
         walkToNext: null
-    rainSwapSlug: cotai-wynn-palace
+    rainSwapSlug: cotai-the-ritz-carlton-cafe
   - label: Coloane's temples and panda pavilion
     intro: The final day works through Coloane, from the hilltop A-Ma Cultural Village on Estr. do Alto de Coloane down to the Giant Panda Pavilion and a cluster of small village temples, before winding down at Hac Sa Park. It closes the trip with a slower, open-air rhythm.
     stops:
@@ -192,9 +192,9 @@ itinerary:
         why: Sitting behind Hac Sa Beach, its lawns and open grounds make a relaxed, half-day-friendly close to the final day.
         dwellMin: 240
         walkToNext: null
-    rainSwapSlug: cotai-the-ritz-carlton-cafe
+    rainSwapSlug: taipa-village-taipa-houses
 aiGenerated: true
 draft: false
-updatedDate: '2026-11-24T07:49:38.452Z'
+updatedDate: '2026-11-26T07:57:43.455Z'
 ---
 

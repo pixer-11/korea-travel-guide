@@ -32360,13 +32360,6 @@
   "worst": "이곳을 찾는 이유는 다양한 메뉴가 아닙니다. 중정에서 컵을 손에 쥔 채 오래된 벽돌 위로 햇살이 옮겨 가는 모습을 바라보는",
   "at": "2026-11-23T07:44:22.543Z"
  },
- "ko/berlin-artms-berlin-2026": {
-  "hash": "cf7651128937",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이번 공연장은 벽돌로 지은 건물입니다.",
-  "at": "2026-10-26T08:17:54.053Z"
- },
  "ko/abu-dhabi-lewis-capaldi-and-zara-larsson-abu-dhabi-gp-after-race-concert": {
   "hash": "d7f529f6d979",
   "score": 1,
@@ -32422,13 +32415,6 @@
   "registerBreak": false,
   "worst": "책들이 떠난 지는 이미 오래입니다.",
   "at": "2026-10-12T01:47:08.443Z"
- },
- "ko/chiang-mai-yi-peng-lantern-festival-loy-krathong": {
-  "hash": "65016bec9b44",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-12T01:47:15.220Z"
  },
  "ko/chicago-unabridged-bookstore": {
   "hash": "111e6ddc4100",
@@ -36007,13 +35993,6 @@
   "worst": "내부에는 나선형 경사로가 아트리움을 따라 전시실들을 지나 위층으로 올라가며, 아래층에는 작은 상점과 카페가 모여 있습니다.",
   "at": "2026-11-02T08:11:10.941Z"
  },
- "ko/bangkok-loy-krathong-festival": {
-  "hash": "689f2cebf27d",
-  "score": 0,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-10-19T08:59:46.243Z"
- },
  "ko/bangkok-vijit-chao-phraya-2026": {
   "hash": "82d4c1788e6e",
   "score": 1,
@@ -37399,13 +37378,6 @@
   "registerBreak": false,
   "worst": "이날은 수요일이어서 관객 분위기부터 귀갓길 막차까지 저녁 일정 전체가 요일의 영향을 받습니다.",
   "at": "2026-10-26T08:17:35.924Z"
- },
- "ko/barcelona-korea-spotlight-barcelona-2026": {
-  "hash": "affb362cf196",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "아티스트를 축하하는 것만큼이나 새로 소개하는 데 무게를 둡니다.",
-  "at": "2026-11-02T08:11:23.682Z"
  },
  "ko/batumi-fide-world-cadet-chess-championship-2026": {
   "hash": "935575fd7ced",
@@ -42222,5 +42194,89 @@
   "registerBreak": false,
   "worst": "活动当晚，大部分人流靠铁路疏散。",
   "at": "2026-11-25T18:11:16.778Z"
+ },
+ "es/cotai-eiffel-tower": {
+  "hash": "89b45593369d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Como el cierre es actualmente a las 9:15 PM, es posible subir a los miradores por la tarde-noche.",
+  "at": "2026-11-26T07:57:11.436Z"
+ },
+ "es/hsinchu-hsinchu-city-art-gallery-reclamation-hall": {
+  "hash": "00a04d622bed",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al no haber una colección permanente fija que recorrer, lo que cuelga de las paredes depende del mes.",
+  "at": "2026-11-26T07:57:12.469Z"
+ },
+ "es/pisa-lungarni-di-pisa": {
+  "hash": "be074c3030e1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según las previsiones, la mayor afluencia se registra los fines de semana de 5pm a 11pm.",
+  "at": "2026-11-26T07:57:13.308Z"
+ },
+ "ja/cotai-eiffel-tower": {
+  "hash": "9c3d300c99fa",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-26T07:57:13.894Z"
+ },
+ "ja/hsinchu-hsinchu-city-art-gallery-reclamation-hall": {
+  "hash": "8ad3cb068da3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "台湾が日本の統治下にあった1920年代に市の行政庁舎として建てられた、日本統治時代の2階建ての公共建築です。",
+  "at": "2026-11-26T07:57:14.898Z"
+ },
+ "ja/pisa-lungarni-di-pisa": {
+  "hash": "236839123114",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この区間を次の名所を探しながら足早に歩く人がほとんどですが、本当の主役は川そのものです。",
+  "at": "2026-11-26T07:57:15.835Z"
+ },
+ "ko/cotai-eiffel-tower": {
+  "hash": "1fe71e3463de",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "눈앞에 펼쳐지는 것은 대부분 코타이이며, 바로 그것이 이곳 전망의 핵심입니다.",
+  "at": "2026-11-26T07:57:22.569Z"
+ },
+ "ko/hsinchu-hsinchu-city-art-gallery-reclamation-hall": {
+  "hash": "ae289aadbabb",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-26T07:57:23.193Z"
+ },
+ "ko/pisa-lungarni-di-pisa": {
+  "hash": "171ae9c7ca7e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "예측에 따르면 가장 붐비는 시간은 주말 오후 5시부터 오후 11시까지입니다.",
+  "at": "2026-11-26T07:57:31.377Z"
+ },
+ "zh/cotai-eiffel-tower": {
+  "hash": "3eb0e46ca753",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "四条向外张开的塔腿、拱形塔基、逐渐收窄的塔尖，样样都和原塔如出一辙。",
+  "at": "2026-11-26T07:57:32.300Z"
+ },
+ "zh/hsinchu-hsinchu-city-art-gallery-reclamation-hall": {
+  "hash": "463372a7c78d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周六下午前往的话，就别指望展厅里空空荡荡了。",
+  "at": "2026-11-26T07:57:33.475Z"
+ },
+ "zh/pisa-lungarni-di-pisa": {
+  "hash": "752c4cd4e928",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "据预测，周末下午5点到晚上11点人最多。",
+  "at": "2026-11-26T07:57:39.307Z"
  }
 }

@@ -9264,6 +9264,12 @@
   "reason": "publish gate: Interior entrance showing Chelsea Garden signage and corridor",
   "at": "2026-10-06T14:41:23.929Z"
  },
+ "cotai-eiffel-tower\u0001https://upload.wikimedia.org/wikipedia/commons/c/c1/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9%E5%9F%8E_Cotai_%E6%BE%B3%E9%96%80%E5%B7%B4%E9%BB%8E%E4%BA%BA_The_Parisian_Macao_%E6%BE%B3%E9%96%80%E5%B7%B4%E9%BB%8E%E5%9F%83%E8%8F%B2%E7%88%BE%E9%90%B5%E5%A1%94_Eiffel_Tower_Nov_2016_SSG_03.jpg": {
+  "slug": "cotai-eiffel-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Parisian-style building with Eiffel Tower structure at Cotai",
+  "at": "2026-11-26T07:47:48.018Z"
+ },
  "cotai-galaxy-macau\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg/3840px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg": {
   "slug": "cotai-galaxy-macau",
   "verdict": "MATCH",
@@ -15152,6 +15158,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Pelicans by pond plausible for ecological farm venue",
   "at": "2026-08-16T20:03:40.686Z"
+ },
+ "hsinchu-hsinchu-city-art-gallery-reclamation-hall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%E6%96%B0%E7%AB%B9%E7%BE%8E%E8%A1%93%E6%9A%A8%E9%96%8B%E6%8B%93%E9%A4%A8_Hsinchu_City_Art_Gallery_%26_Reclamation_Hall_-_panoramio.jpg/3840px-%E6%96%B0%E7%AB%B9%E7%BE%8E%E8%A1%93%E6%9A%A8%E9%96%8B%E6%8B%93%E9%A4%A8_Hsinchu_City_Art_Gallery_%26_Reclamation_Hall_-_panoramio.jpg": {
+  "slug": "hsinchu-hsinchu-city-art-gallery-reclamation-hall",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of the red brick historic gallery building",
+  "at": "2026-11-26T07:50:33.636Z"
  },
  "hsinchu-hsinchu-zoo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/New_gate_1_of_Hsinchu_Zoo_2020.jpg/1920px-New_gate_1_of_Hsinchu_Zoo_2020.jpg": {
   "slug": "hsinchu-hsinchu-zoo",
@@ -30737,6 +30749,12 @@
   "reason": "publish gate: Shows Logge dei Banchi facade at night, representative view",
   "at": "2026-09-26T07:43:08.175Z"
  },
+ "pisa-lungarni-di-pisa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lungarni_di_Pisa_al_tramonto.jpg/3840px-Lungarni_di_Pisa_al_tramonto.jpg": {
+  "slug": "pisa-lungarni-di-pisa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Arno riverside with buildings and lamps, lit at dusk",
+  "at": "2026-11-26T07:47:48.118Z"
+ },
  "pisa-natural-history-museum-of-the-university-of-pisa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Galleria-primati-museo-storia-naturale-pisa.jpg/1920px-Galleria-primati-museo-storia-naturale-pisa.jpg": {
   "slug": "pisa-natural-history-museum-of-the-university-of-pisa",
   "verdict": "MATCH",
@@ -40596,6 +40614,12 @@
   "reasonKo": "우붓 원숭이 숲, 진정성 있는 장소",
   "at": "2026-08-11T14:04:09.515Z"
  },
+ "ubud-tegallalang-rice-terrace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tegallalang_rice_terraces_SF0001.jpg/3840px-Tegallalang_rice_terraces_SF0001.jpg": {
+  "slug": "ubud-tegallalang-rice-terrace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows rice terraces with palm trees, representative Tegallalang view",
+  "at": "2026-11-26T07:47:48.076Z"
+ },
  "ubud-ubud-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ubud_Palace_%282022%29.jpg/1920px-Ubud_Palace_%282022%29.jpg": {
   "slug": "ubud-ubud-palace",
   "verdict": "MATCH",
@@ -41252,6 +41276,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Garden pond with lush greenery, fits botanical garden setting",
   "at": "2026-11-04T07:42:56.983Z"
+ },
+ "varanasi-assi-ghat-varanasi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Varanasi_Assi_Ghat.jpg/3840px-Varanasi_Assi_Ghat.jpg": {
+  "slug": "varanasi-assi-ghat-varanasi",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ghat riverfront scene in Varanasi, representative view",
+  "at": "2026-11-26T07:47:47.950Z"
  },
  "varanasi-chet-singh-ghat-varanasi\u0001https://upload.wikimedia.org/wikipedia/commons/b/b0/Varanasi_52_-_Chet_Singh_ghat_%2837661099921%29.jpg": {
   "slug": "varanasi-chet-singh-ghat-varanasi",
