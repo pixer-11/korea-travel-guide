@@ -1,4 +1,3 @@
-SKIP new city "Canberra" — weekly new-city cap (2/7d) reached
 SKIP new city "Florence" — weekly new-city cap (2/7d) reached
 SKIP new city "Kyoto" — weekly new-city cap (2/7d) reached
 SKIP new city "London" — weekly new-city cap (2/7d) reached
@@ -54,6 +53,12 @@ Buenos Aires, Argentina — 14 qualifying post(s), variants: 3
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
+Canberra, Australia — 12 qualifying post(s), variants: 3
+  ⚠ Canberra 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
+     · whys[canberra-australian-war-memorial] — clock-time-ampm: "This is a national shrine paired with one of the country's largest museums, and is calmest on weekdays between 10am and 4pm, making it a str"
+PROSE-GUARD FAILED: Canberra 3d — hours-language in faq[4].a: "Yes, Lanyon Homestead is closed on Monday and Tuesday, so it's worth checking that your day two visit falls outside those days."
+ERROR processing Canberra: prose guard failed for Canberra 3d after retry (1 issue(s))
+
 Chicago, United States — 12 qualifying post(s), variants: 3
   = Chicago 3d — unchanged, skipping
 
@@ -73,17 +78,8 @@ Hobart, Australia — 12 qualifying post(s), variants: 3
   = Hobart 3d — unchanged, skipping
 
 Hong Kong, Hong Kong — 94 qualifying post(s), variants: 3, 5
-  ~ Hong Kong 3d — minor structure change (2 slug diff), keeping existing prose
-  ⚠ Hong Kong 3d — validator found 2 prose-fixable issue(s); correcting once
-    · AREA-CLAIM-UNSUPPORTED: hong-kong-3-days.md — day 2 names "Tai Kok Tsui" but no stop of that day attests it
-    · AREA-CLAIM-UNSUPPORTED: hong-kong-3-days.md — day 2 names "Kok Tsui" but no stop of that day attests it
-  ✅ Hong Kong 3d — updated
-  ~ Hong Kong 5d — minor structure change (2 slug diff), keeping existing prose
-  ⚠ Hong Kong 5d — validator found 3 prose-fixable issue(s); correcting once
-    · AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 3 names "Mong Kok" but no stop of that day attests it
-    · AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 3 names "Tai Kok Tsui" but no stop of that day attests it
-    · AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 3 names "Kok Tsui" but no stop of that day attests it
-  ✅ Hong Kong 5d — updated
+  = Hong Kong 3d — unchanged, skipping
+  = Hong Kong 5d — unchanged, skipping
 
 Istanbul, Turkey — 12 qualifying post(s), variants: 3
   = Istanbul 3d — unchanged, skipping
@@ -111,7 +107,7 @@ Singapore, Singapore — 80 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

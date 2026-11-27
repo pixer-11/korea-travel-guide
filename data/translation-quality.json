@@ -42439,5 +42439,19 @@
   "registerBreak": false,
   "worst": "这个地方不大，网上的评价也寥寥无几。山下经过的人，大多是赶飞机的旅客。",
   "at": "2026-11-27T07:53:09.702Z"
+ },
+ "es/quezon-city-aq-prime-international-open-chess-championship": {
+  "hash": "1b97927b81ae",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El traslado hacia el norte era un viaje en toda regla y no un simple salto.",
+  "at": "2026-11-27T17:40:39.918Z"
+ },
+ "ko/madrid-festival-de-otono-madrid-madrid-autumn-festival": {
+  "hash": "bd4de41820ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "작품 하나의 공연 기간은 3주에 걸친 축제 전체 기간보다 훨씬 짧은 경우가 많습니다.",
+  "at": "2026-11-27T17:40:40.898Z"
  }
 }

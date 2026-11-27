@@ -1,79 +1,79 @@
 ---
 lang: es
 slug: quezon-city-aq-prime-international-open-chess-championship
-srcHash: '61983e22c070'
+srcHash: 'c96e5e34a22d'
 title: 'Campeonato Internacional Abierto de Ajedrez AQ Prime: fechas, entradas y sede (Ciudad Quezón)'
-description: Del 17 al 26 de noviembre de 2026, el MICE Center de Ciudad Quezón, en la Gran Manila, acoge el Campeonato Internacional Abierto de Ajedrez AQ Prime.
-quickAnswer: Del 17 al 26 de noviembre de 2026, el MICE Center de Ciudad Quezón (Quezon City), en la Gran Manila (Metro Manila), acoge el Campeonato Internacional Abierto de Ajedrez AQ Prime. Se trata de un abierto internacional válido para el Elo FIDE en el que los jugadores pueden conseguir normas de GM, IM y WIM. Como aquí no figuran ni los precios ni los horarios de las rondas, no se indica ninguno. Lo que más condiciona una jornada de torneo en Ciudad Quezón es el tráfico de la EDSA, así que conviene organizar el viaje en función de él.
+description: El Campeonato Internacional Abierto de Ajedrez AQ Prime tenía como fechas del 17 al 26 de noviembre de 2026, y su sede era el MICE Center de Ciudad Quezón (Quezon City), en el Gran Manila.
+quickAnswer: Las fechas anunciadas para el Campeonato Internacional Abierto de Ajedrez AQ Prime eran del 17 al 26 de noviembre de 2026. La sede era el MICE Center de Ciudad Quezón (Quezon City), en el Gran Manila (Metro Manila). Se anunció como un abierto internacional valedero para el Elo FIDE, en el que los jugadores podían conseguir normas de GM, IM y WIM. En un torneo en Ciudad Quezón, nada condicionaba tanto la jornada como el tráfico de EDSA.
 faq:
-  - q: ¿Cuándo se celebra el Campeonato Internacional Abierto de Ajedrez AQ Prime?
-    a: Se disputa del 17 al 26 de noviembre de 2026 en el MICE Center de Ciudad Quezón, en la Gran Manila (Filipinas).
-  - q: ¿A qué títulos dan acceso las normas del torneo?
-    a: El torneo permite optar a normas de GM (Gran Maestro), IM (Maestro Internacional) y WIM (Maestra Internacional Femenina). Cada norma es una actuación que cuenta para obtener un título FIDE. Por lo general, para conseguir el título hacen falta varias normas y, además, un Elo mínimo.
-  - q: ¿Cómo se suele llegar a la sede en Ciudad Quezón?
-    a: Lo más habitual es tomar el MRT-3, que recorre la EDSA, o el LRT-2, que circula por Aurora Boulevard, y cubrir el último tramo con Grab. Los vuelos llegan al Aeropuerto Internacional Ninoy Aquino, en Pasay, y con tráfico el trayecto hacia el norte puede alargarse mucho. Los jugadores suelen alojarse cerca de la sede.
-  - q: ¿Pueden asistir espectadores a las partidas?
-    a: 'El acceso del público depende de la organización. Si se permite, rigen las normas de cortesía de la FIDE: teléfono completamente apagado, silencio absoluto cerca de los tableros, distancia respecto a las mesas y nada de fotografías con flash.'
-  - q: ¿Qué se puede hacer cerca de la sede entre ronda y ronda?
-    a: En Teachers Village, la calle Maginhawa reúne numerosos restaurantes pequeños y cafeterías. Quezon Memorial Circle es un gran parque. En Cubao, Araneta City cuenta con centros comerciales y buenas conexiones ferroviarias. Para cenar, la zona de Tomas Morato es de las más concurridas.
+  - q: ¿Cuándo era el Campeonato Internacional Abierto de Ajedrez AQ Prime?
+    a: Sus fechas eran del 17 al 26 de noviembre de 2026, y la sede era el MICE Center de Ciudad Quezón, en el Gran Manila (Filipinas).
+  - q: ¿Para qué títulos podían conseguir normas los jugadores?
+    a: El torneo ofrecía la posibilidad de lograr normas de GM (Gran Maestro), IM (Maestro Internacional) y WIM (Maestra Internacional Femenina). Una norma es una actuación que cuenta para obtener un título FIDE. Por lo general, el título exige varias normas y, además, un Elo mínimo.
+  - q: ¿Cómo se solía llegar a la sede en Ciudad Quezón?
+    a: La mayoría tomaba el MRT-3, que recorre EDSA, o el LRT-2, que discurre por Aurora Boulevard, y hacía el último tramo en Grab. Los vuelos llegaban al Aeropuerto Internacional Ninoy Aquino, en Pasay, y con tráfico el trayecto hacia el norte podía alargarse mucho. Los jugadores solían alojarse cerca de la sede.
+  - q: ¿Podía el público presenciar las partidas?
+    a: 'El acceso del público dependía del organizador. Allí donde estaba permitido, regían las normas de etiqueta de la FIDE: teléfonos completamente apagados, silencio cerca de los tableros, distancia respecto a las mesas y prohibición de fotografiar con flash.'
+  - q: ¿Qué había para hacer cerca de la sede entre ronda y ronda?
+    a: En Teachers Village, la calle Maginhawa reunía numerosos restaurantes y cafeterías pequeños. Quezon Memorial Circle era un gran parque. En Cubao, Araneta City contaba con centros comerciales y buenas conexiones ferroviarias. Para cenar, la zona de Tomas Morato era muy concurrida.
 ---
 
-## Diez días en una sala repleta de relojes
+## Diez días en una larga sala llena de relojes
 
-Imagine hileras de mesas con tableros idénticos y, junto a cada uno, un reloj digital. Eso es lo que alberga el MICE Center de Ciudad Quezón (Quezon City) del 17 al 26 de noviembre de 2026. El Campeonato Internacional Abierto de Ajedrez AQ Prime es un abierto válido para el Elo FIDE: todos los resultados repercuten en la clasificación internacional de los jugadores, y las mejores actuaciones pueden contar para obtener un título.
+Imagine filas de mesas con tableros idénticos y, junto a cada uno, un reloj digital. Eso era lo que iba a albergar el MICE Center de Ciudad Quezón (Quezon City) del 17 al 26 de noviembre de 2026. El Campeonato Internacional Abierto de Ajedrez AQ Prime se anunció como un abierto valedero para el Elo FIDE. En un torneo de este tipo, cada resultado se refleja en la clasificación internacional de los jugadores, y las mejores actuaciones pueden contar para obtener un título.
 
-Un abierto atrae a participantes muy diversos. A pocas filas de los jugadores titulados se sientan aficionados de club con grandes aspiraciones y juveniles en busca de su primer resultado internacional. Aunque las primeras mesas acaparan casi toda la atención, las historias que de verdad marcan el torneo suelen estar más al fondo de la sala.
+Un abierto atrae a participantes muy diversos. A pocas filas de los jugadores titulados se sientan aficionados de club con ambición y juveniles que persiguen su primer resultado internacional. Aunque los primeros tableros acaparan casi toda la atención, las verdaderas historias de un abierto suelen estar más al fondo de la sala.
 
 ## A la caza de normas
 
-El torneo ofrece la posibilidad de conseguir normas para tres títulos: Gran Maestro (GM), Maestro Internacional (IM) y Maestra Internacional Femenina (WIM). Una norma es una actuación que cuenta para obtener un título FIDE. Por lo general, el jugador necesita reunir varias, además de un Elo mínimo, antes de que se le conceda el título.
+Este torneo daba opción a normas para tres títulos: Gran Maestro (GM), Maestro Internacional (IM) y Maestra Internacional Femenina (WIM). Una norma es una actuación que cuenta para obtener un título FIDE. Antes de recibirlo, el jugador suele necesitar varias, además de un Elo mínimo.
 
-Conseguirlas no es nada fácil. La FIDE exige un número mínimo de rondas y suficientes rivales con título, que además deben pertenecer a varias federaciones nacionales distintas. Solo un torneo con participación internacional como este puede reunir todas esas condiciones. Si no existieran citas así, habría que viajar al extranjero para perseguir normas.
+Conseguir una norma no es fácil. La FIDE exige un número mínimo de rondas y suficientes rivales titulados, que además deben proceder de varias federaciones nacionales distintas. Solo un torneo con participación internacional como este puede reunir todas esas condiciones. Sin competiciones así, el jugador tiene que viajar al extranjero para buscarlas.
 
-Por eso las últimas rondas se viven de otra manera. Quien está en camino de lograr una norma puede necesitar un resultado muy concreto en la partida final, ya sea una victoria o, a veces, solo unas tablas. Tanto los árbitros como los demás jugadores saben quién sigue en la pugna. En las jornadas finales, fíjese en los tableros alrededor de los cuales se va formando en silencio un corrillo.
+La posibilidad de lograr normas cambia el ambiente de las últimas rondas de un abierto. Quien está en camino de conseguir una puede necesitar un resultado muy concreto en la partida final: una victoria o, a veces, solo unas tablas. Tanto los árbitros como los demás jugadores saben quién sigue en la pelea. En los últimos días de estos torneos, es habitual que un corrillo silencioso se forme alrededor de esos tableros.
 
-## Ciudad Quezón, escenario ideal para un abierto
+## Por qué Ciudad Quezón encaja con un abierto de ajedrez
 
-Filipinas tiene una larga tradición ajedrecística. En 1974, Eugene Torre se convirtió en el primer gran maestro de Asia, y su nombre sigue saliendo cada vez que se habla del ajedrez filipino. Wesley So, nacido en Bacoor (Cavite), se formó en este ambiente antes de llegar a la élite mundial.
+Filipinas tiene una larga tradición ajedrecística. En 1974, Eugene Torre se convirtió en el primer gran maestro de Asia, y su nombre sigue saliendo cada vez que se habla del ajedrez filipino. También Wesley So, nacido en Bacoor (Cavite), se formó en este ambiente antes de llegar a la élite mundial.
 
-Ciudad Quezón es la ciudad más poblada de la Gran Manila (Metro Manila). También es una ciudad universitaria, sede de la Universidad de Filipinas en Diliman y del Ateneo de Manila. De los clubes universitarios, los equipos escolares y los jugadores de los parques se nutren los torneos locales. Para un ajedrecista filipino, disputar un abierto internacional a una distancia asequible es una oportunidad poco frecuente de lograr una norma sin el gasto de viajar fuera del país.
+Ciudad Quezón es la ciudad más poblada del Gran Manila (Metro Manila). Es también una ciudad universitaria, sede de la Universidad de Filipinas en Diliman y del Ateneo de Manila. Los clubes de los campus, los equipos escolares y los aficionados que juegan en los parques nutren los torneos locales. Para un jugador de la zona, tener un abierto internacional a un trayecto de casa suponía una oportunidad poco frecuente de optar a una norma sin pagar un viaje al extranjero.
 
 ## Cómo llegar al MICE Center sin perder una ronda
 
-Aquí es el tráfico el que manda. La EDSA, la autopista que bordea el oeste de Ciudad Quezón, es una de las vías más congestionadas del Sudeste Asiático. Un trayecto de una punta a otra de la ciudad que de noche se hace en veinte minutos puede superar la hora en hora punta.
+Aquí el tráfico marcaba la jornada. EDSA, la autopista que bordea el oeste de Ciudad Quezón, es una de las vías más congestionadas del Sudeste Asiático. Un trayecto de una punta a otra de la ciudad que de noche lleva veinte minutos puede superar la hora en hora punta.
 
-Para esquivarlo, lo habitual es recurrir al tren:
+Para esquivarlo, lo habitual era recurrir al tren:
 
-- **MRT-3** recorre la EDSA y tiene paradas como Cubao, Quezon Avenue y North Avenue.
-- **LRT-2** cruza la ciudad de este a oeste por Aurora Boulevard y enlaza con el MRT-3 en Araneta Center–Cubao.
-- **Grab** es la principal aplicación de transporte con conductor para cubrir el último tramo entre la estación y la puerta de la sede.
+- **El MRT-3** recorre EDSA y tiene, entre otras, las paradas de Cubao, Quezon Avenue y North Avenue.
+- **El LRT-2** atraviesa la ciudad de este a oeste por Aurora Boulevard y se cruza con el MRT-3 en Araneta Center–Cubao.
+- **Grab**, la principal aplicación de vehículos con conductor, cubría el último tramo entre la estación y la puerta de la sede.
 
-La mayoría de los visitantes extranjeros aterrizan en el Aeropuerto Internacional Ninoy Aquino, situado en Pasay, al sur de la ciudad. Desde allí, el traslado hacia el norte es todo un viaje y no un simple paseo. Los jugadores suelen reservarse un día de margen antes de la primera ronda, y muchos prefieren alojarse cerca de la sede en lugar de hacerlo en Makati o en la bahía de Manila.
+La mayoría de los visitantes extranjeros llegaba al Aeropuerto Internacional Ninoy Aquino, situado en Pasay, al sur de la ciudad. El traslado hacia el norte era un viaje en toda regla y no un simple salto. Los jugadores solían reservarse un día de margen antes de la primera ronda, y muchos se alojaban cerca de la sede en lugar de hacerlo en Makati o en la bahía de Manila.
 
 ## Mirar en silencio: normas de conducta en la sala de juego
 
-Una sala de ajedrez se rige por estrictas normas no escritas, a las que los torneos FIDE suman otras escritas. El espectador que las conoce es bien recibido; el que las ignora llama la atención enseguida.
+Una sala de ajedrez se rige por normas no escritas muy estrictas, y los torneos FIDE añaden otras por escrito. El espectador que las conoce es bienvenido; el que las ignora llama la atención enseguida.
 
-- **Teléfono apagado, no solo en silencio.** Las normas contra las trampas son estrictas. Un jugador puede perder la partida si suena su propio teléfono, y a los árbitros no les gusta ver dispositivos cerca de los tableros.
-- **Silencio junto a los tableros.** Los análisis se hacen fuera de la zona de juego, normalmente en un pasillo o en la sala de análisis, donde los jugadores repasan las partidas al terminar.
-- **Mantenga la distancia.** Quédese a cierta distancia de las mesas, no se incline nunca sobre un tablero y jamás señale una jugada.
-- **Nada de flash.** La organización decide si se pueden hacer fotos y, a menudo, solo las permite durante los primeros minutos de cada ronda.
+- **Teléfono apagado, no basta con silenciarlo.** Las normas contra las trampas son estrictas. Un jugador puede perder la partida si suena su propio móvil, y a los árbitros no les gusta ver aparatos cerca de los tableros.
+- **Silencio junto a los tableros.** El análisis se hace fuera de la zona de juego, normalmente en un pasillo o en la sala de análisis, donde los jugadores repasan sus partidas al terminar.
+- **Distancia respecto a las mesas.** El público se mantiene apartado, nunca se inclina sobre un tablero y jamás señala una jugada.
+- **Nada de flash.** El organizador decide si se permite hacer fotos y, con frecuencia, solo durante los primeros minutos de cada ronda.
 
-Los filipinos suelen ser cálidos y pacientes con los visitantes. Si se dirige en tagalo a una persona mayor, añadir un discreto «po» es una muestra de cortesía. Para pagar la comida y el transporte, la mayoría de la gente usa GCash o Maya. Sin embargo, en los pequeños comedores y con los conductores de triciclo a menudo solo se acepta efectivo, así que conviene llevar algunos billetes de pesos para las compras menores.
+Los filipinos suelen ser cálidos y pacientes con los visitantes. Al hablar en tagalo con una persona mayor, un discreto «po» añade un toque de cortesía. Para pagar comida y transporte, la mayoría de los vecinos usaba GCash o Maya. Como los pequeños comedores y los conductores de triciclo a menudo solo aceptaban efectivo, convenía llevar billetes de pesos para las compras menores.
 
-## Entre ronda y ronda: comida y aire libre en los alrededores
+## Entre rondas: comida y aire libre en los alrededores
 
-Las partidas pueden durar horas, y merece la pena explorar los alrededores de la sede. Ciudad Quezón ofrece parte de la mejor comida informal de la Gran Manila a precios razonables.
+Las partidas pueden durar horas, y los alrededores de la sede merecían una visita. Ciudad Quezón reúne parte de la mejor comida informal del Gran Manila a precios razonables.
 
-- **Calle Maginhawa**, en Teachers Village: a ambos lados se suceden pequeños restaurantes, cafeterías y locales de postres frecuentados por estudiantes y jóvenes profesionales.
-- **Quezon Memorial Circle**: este gran parque rodea el Quezon Memorial Shrine y cuenta con senderos a la sombra y puestos de comida. Es un buen sitio para despejarse después de una derrota.
-- **Araneta City, en Cubao**: aquí se encuentran centros comerciales y el Smart Araneta Coliseum, con cómodas conexiones al MRT-3 y al LRT-2.
-- **Calles de Tomas Morato y de la zona de Scout**: por la noche se llenan de asadores y bares, muy solicitados para cenar después de la ronda.
+- **En Teachers Village, la calle Maginhawa (Maginhawa Street)** estaba llena de pequeños restaurantes, cafeterías y locales de postres frecuentados por estudiantes y jóvenes profesionales.
+- **Quezon Memorial Circle** es un gran parque que rodea el Quezon Memorial Shrine, con senderos a la sombra y puestos de comida. Era un buen sitio para despejarse después de una derrota.
+- **En Cubao, Araneta City** contaba con centros comerciales, el Smart Araneta Coliseum y cómodas conexiones con el MRT-3 y el LRT-2.
+- **Por la noche, las calles de Tomas Morato y de la zona de Scout** se llenaban de asadores y bares, muy solicitados para cenar después de la ronda.
 
-Para desayunar, pruebe el silog: arroz frito con ajo, huevo frito y alguna carne, como tapa o longganisa. Es un plato contundente que da energía para aguantar una larga partida matinal.
+El desayuno clásico es el silog: arroz frito con ajo, huevo frito y alguna carne, como tapa o longganisa. Es contundente y aguanta toda una larga partida matinal.
 
-## Lo que el calendario deja en manos de la organización
+## Lo que el calendario dejaba en manos del organizador
 
-Los datos que aquí se ofrecen son las fechas, la sede, la validez para el Elo FIDE y las posibilidades de lograr normas. Los horarios de las rondas, las cuotas de inscripción, la bolsa de premios y la lista de participantes los fija la organización, y esta página no especula sobre ellos.
+Los datos anunciados eran las fechas, la sede, la validez para el Elo FIDE y la posibilidad de lograr normas. Los horarios de las rondas, las cuotas de inscripción, la bolsa de premios y la lista de participantes eran cuestiones que fijaba el organizador.
 
-Una vez terminada la última partida, lo que perdura es el perfil del torneo: diez días de competición en Ciudad Quezón, con validez para el Elo FIDE. Los jugadores llegaron con la esperanza de conseguir normas de GM, IM y WIM. Algunos se marcharon con una, y la clasificación final revela quiénes.
+El anuncio dejaba clara la forma del torneo. Se trataba de diez días de ajedrez valedero para el Elo FIDE en Ciudad Quezón, con normas de GM, IM y WIM previstas para los jugadores que alcanzaran las actuaciones exigidas.
