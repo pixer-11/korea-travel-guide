@@ -2,7 +2,7 @@
 title: 'Taj Mahal: Agra Travel Guide (4.6★)'
 description: >-
   The Taj Mahal in Agra sits in the Tajganj neighborhood, on the Yamuna River's
-  south bank. 4.6★ (251,281 reviews) — what visitors say, hours, and tips.
+  south bank. 4.6★ (253,866 reviews) — what visitors say, hours, and tips.
 country: India
 region: Agra
 category: attraction
@@ -17,16 +17,17 @@ heroImage:
     x: 50
     'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1414922465_H2RDkkw1JWTHgJMVac9QCylxwD7rQuqbdfdgBFL06v8.jpg"
-    credit: "Photo: Foursquare user content (Taj Mahal)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/6680149d7906ce01e8c2a6b3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1414922465_H2RDkkw1JWTHgJMVac9QCylxwD7rQuqbdfdgBFL06v8.jpg
+    credit: 'Photo: Foursquare user content (Taj Mahal)'
+    license: foursquare
+    source: 'https://foursquare.com/v/6680149d7906ce01e8c2a6b3'
 place:
   id: ChIJbf8C1yFxdDkR3n12P4DkKt0
   name: Taj Mahal
   address: 'Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India'
   rating: 4.6
-  userRatingsTotal: 251281
+  userRatingsTotal: 253866
   googleMapsUrl: >-
     https://maps.google.com/?cid=15936801470875598302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -67,7 +68,7 @@ faq:
       complex directly.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-29'
+updatedDate: '2026-11-27'
 ---
 
 ## First sight of the dome

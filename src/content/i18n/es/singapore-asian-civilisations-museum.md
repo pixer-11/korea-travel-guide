@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: singapore-asian-civilisations-museum
-srcHash: 'aed00b865bb4'
+srcHash: 'a50c7dde22d4'
 title: 'Museo de Civilizaciones Asiáticas: Guía de viaje de Singapur (4.6★)'
-description: 'El Museo de Civilizaciones Asiáticas de Singapur se encuentra justo a orillas del río Singapur, en Empress Place, a pocos pasos del Raffles Landing Site y a poca distancia a pie de la estación MRT Raffles Place. 4.6★ (6.348 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de Civilizaciones Asiáticas de Singapur se encuentra justo a orillas del río Singapur, en Empress Place, a pocos pasos del Raffles Landing Site y a poca distancia a pie de la estación MRT Raffles Place. 4.6★ (6.455 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Civilizaciones Asiáticas de Singapur se encuentra justo a orillas del río Singapur, en Empress Place, a pocos pasos del Raffles Landing Site y a poca distancia a pie de la estación MRT Raffles Place. Abre todos los días de 10:00 a 19:00 (los viernes hasta las 21:00), y el momento más tranquilo para visitarlo es entre semana por la mañana, o el sábado y domingo de 10:00 a 11:00, antes de que lleguen las multitudes de la tarde. Conviene reservar entre dos y tres horas para recorrer con calma sus galerías dedicadas al comercio asiático, la fe y la cultura material.
 faq:
   - q: ¿Cómo se llega al Museo de Civilizaciones Asiáticas?

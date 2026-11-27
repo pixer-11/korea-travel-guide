@@ -3,7 +3,7 @@ title: 'Museu Nacional d''Art de Catalunya: Barcelona Travel Guide'
 description: >-
   The MNAC sits inside the Palau Nacional on Montjuïc, and the single best
   reason to go is its Romanesque collection — a set of 11th- and 12th-century
-  Pyrenean church murals unlike anything else in the world. 4.7★ (39,228
+  Pyrenean church murals unlike anything else in the world. 4.7★ (40,218
   reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
@@ -27,7 +27,7 @@ place:
     Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona,
     Spain
   rating: 4.7
-  userRatingsTotal: 39228
+  userRatingsTotal: 40218
   googleMapsUrl: >-
     https://maps.google.com/?cid=9656023288704785553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -83,7 +83,7 @@ faq:
       show runs on the terraces below the museum on weekend evenings.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 ## Why the Palau Nacional stops people in their tracks
 

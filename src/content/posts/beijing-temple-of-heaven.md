@@ -28,8 +28,8 @@ place:
   id: ChIJ65H_GWBN8DURag4RO0UVLDc
   name: Temple of Heaven
   address: 'Dongcheng, China, 100061'
-  rating: 4.6
-  userRatingsTotal: 3933
+  rating: 4.7
+  userRatingsTotal: 4499
   priceLevel: 4
   googleMapsUrl: >-
     https://maps.google.com/?cid=3975575958149205610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -82,7 +82,7 @@ faq:
       exploring central Dongcheng District.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-29'
+updatedDate: '2026-11-27'
 ---
 
 You feel the scale of the place before you understand its geometry. Walking north from the South Gate along the raised Danbi Bridge, really a long stone causeway rather than a bridge, the ground rises almost imperceptibly beneath you, lifting you toward heaven, at least symbolically, by the time you reach the inner altars. Cypress trees, some planted more than five centuries ago, close in on either side, their bark cracked and silvered, and the traffic noise of Dongcheng District falls away behind you.

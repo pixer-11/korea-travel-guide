@@ -3,7 +3,7 @@ title: 'La Rambla: Barcelona Travel Guide (4.3★)'
 description: >-
   La Rambla is Barcelona's mile-long pedestrian boulevard linking Plaça de
   Catalunya to the old harbor at Port Vell — walk it once for the architecture
-  and people-watching, but eat and shop elsewhere. 4.3★ (10,122 reviews) — what
+  and people-watching, but eat and shop elsewhere. 4.3★ (10,661 reviews) — what
   visitors say, hours, and tips.
 country: Spain
 region: Barcelona
@@ -22,7 +22,7 @@ place:
   name: La Rambla
   address: 'La Rambla, Barcelona, Spain'
   rating: 4.3
-  userRatingsTotal: 10122
+  userRatingsTotal: 10661
   googleMapsUrl: >-
     https://maps.google.com/?cid=2647825951332941252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 41.3856087
@@ -68,7 +68,7 @@ faq:
       better-value tapas bars and restaurants.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 ## Why go
 

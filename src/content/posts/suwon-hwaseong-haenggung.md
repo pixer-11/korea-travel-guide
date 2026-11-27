@@ -1,31 +1,41 @@
 ---
 title: 'Hwaseong Haenggung: Suwon Travel Guide (4.5★)'
-description: Hwaseong Haenggung in Suwon is the largest of Korea's temporary royal palaces, rebuilt after 1996 from the 1789 original inside the Hwaseong Fortress walls. 4.5★ (12,807 reviews) — what visitors say, hours, and tips.
+description: >-
+  Hwaseong Haenggung in Suwon is the largest of Korea's temporary royal palaces,
+  rebuilt after 1996 from the 1789 original inside the Hwaseong Fortress walls.
+  4.5★ (12,883 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Suwon
 category: attraction
 pubDate: '2026-08-28T19:31:59.920Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hwaseong_Haenggung_Palace_panorama.jpg/3840px-Hwaseong_Haenggung_Palace_panorama.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hwaseong_Haenggung_Palace_panorama.jpg/3840px-Hwaseong_Haenggung_Palace_panorama.jpg
   credit: 'Photo: Adil / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hwaseong_Haenggung_Palace_panorama.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hwaseong_Haenggung_Palace_panorama.jpg
   via: act
   focus:
     x: 55
     'y': 55
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/KOCIS_Martial_artists_perform_at_Suwon_Haenggung_Palace_%285433217994%29.jpg/960px-KOCIS_Martial_artists_perform_at_Suwon_Haenggung_Palace_%285433217994%29.jpg
-    credit: 'Photo: Republic of Korea from Seoul, Republic of Korea / Wikimedia Commons (CC BY-SA 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/KOCIS_Martial_artists_perform_at_Suwon_Haenggung_Palace_%285433217994%29.jpg/960px-KOCIS_Martial_artists_perform_at_Suwon_Haenggung_Palace_%285433217994%29.jpg
+    credit: >-
+      Photo: Republic of Korea from Seoul, Republic of Korea / Wikimedia Commons
+      (CC BY-SA 2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:KOCIS_Martial_artists_perform_at_Suwon_Haenggung_Palace_(5433217994).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:KOCIS_Martial_artists_perform_at_Suwon_Haenggung_Palace_(5433217994).jpg
 place:
   id: ChIJZ3YTCjRDezUROWCZyAEmL2k
   name: Hwaseong Haenggung
-  address: 825 Jeongjo-ro, Paldal-gu, Suwon, Gyeonggi-do, South Korea
+  address: '825 Jeongjo-ro, Suwon, Gyeonggi-do, South Korea'
   rating: 4.5
-  userRatingsTotal: 12807
-  googleMapsUrl: https://maps.google.com/?cid=7579318486990151737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 12883
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7579318486990151737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.2819666
   lng: 127.01372699999999
@@ -55,20 +65,38 @@ place:
 tags:
   - suwon
   - historic site
-quickAnswer: Hwaseong Haenggung in Suwon is the largest of Korea's temporary royal palaces, rebuilt after 1996 from the 1789 original inside the Hwaseong Fortress walls. It's open daily 9am–6pm, entry takes 45–90 minutes, and weekdays are calmer than weekends, when crowds build steadily from 11am onward. Come for the changing-of-the-guard ceremony and the martial arts show staged in the front courtyard.
+quickAnswer: >-
+  Hwaseong Haenggung in Suwon is the largest of Korea's temporary royal palaces,
+  rebuilt after 1996 from the 1789 original inside the Hwaseong Fortress walls.
+  It's open daily 9am–6pm, entry takes 45–90 minutes, and weekdays are calmer
+  than weekends, when crowds build steadily from 11am onward. Come for the
+  changing-of-the-guard ceremony and the martial arts show staged in the front
+  courtyard.
 faq:
   - q: How much time should I spend at Hwaseong Haenggung?
-    a: Plan on 45 minutes for a basic walk-through, or up to 90 minutes if you watch the guard ceremony and visit the exhibition hall.
+    a: >-
+      Plan on 45 minutes for a basic walk-through, or up to 90 minutes if you
+      watch the guard ceremony and visit the exhibition hall.
   - q: What is the quietest time to visit?
-    a: Weekdays are calm throughout the 9am–6pm opening hours. On weekends, arrive before 11am to beat the busiest stretch, which runs 11am to 6pm.
+    a: >-
+      Weekdays are calm throughout the 9am–6pm opening hours. On weekends,
+      arrive before 11am to beat the busiest stretch, which runs 11am to 6pm.
   - q: How do I get to Hwaseong Haenggung from Suwon Station?
-    a: It's about a 15-minute walk from Suwon Station, or a quick taxi ride. Local buses also stop near the Paldalmun gate, one stop from the entrance.
+    a: >-
+      It's about a 15-minute walk from Suwon Station, or a quick taxi ride.
+      Local buses also stop near the Paldalmun gate, one stop from the entrance.
   - q: Is Hwaseong Haenggung connected to Hwaseong Fortress?
-    a: Yes, the palace sits inside the fortress walls, and a combined ticket at the visitor center covers both the palace and the fortress wall walk.
+    a: >-
+      Yes, the palace sits inside the fortress walls, and a combined ticket at
+      the visitor center covers both the palace and the fortress wall walk.
   - q: Is there a guard ceremony or show to watch?
-    a: Yes, a changing-of-the-guard ceremony and traditional martial arts demonstration take place in the front courtyard on a set daily schedule, posted near Sinpungnu Gate.
+    a: >-
+      Yes, a changing-of-the-guard ceremony and traditional martial arts
+      demonstration take place in the front courtyard on a set daily schedule,
+      posted near Sinpungnu Gate.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-27'
 ---
 Hwaseong Haenggung sits at 825 Jeongjo-ro in Paldal-gu, the beating heart of old Suwon. This was King Jeongjo's temporary palace, built in 1789 so he could stay near his father's tomb and oversee the new fortress town. It's the largest haenggung ever built in Korea, and most of what you see today is a careful post-1996 reconstruction after Japanese colonial authorities demolished the original.
 

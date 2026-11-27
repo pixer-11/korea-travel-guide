@@ -1,60 +1,84 @@
 ---
-title: "Banan Temple: Battambang Travel Guide (4.7★)"
-description: "Banan Temple, a hilltop Angkor-era ruin about 25km south of Battambang town, is open daily from 6am to 6pm and stays refreshingly under-the-radar compared to Angkor's big sites. 4.7★ (164 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Battambang"
-category: "attraction"
-pubDate: "2026-08-26T09:30:38.217Z"
+title: 'Banan Temple: Battambang Travel Guide (4.7★)'
+description: >-
+  Banan Temple, a hilltop Angkor-era ruin about 25km south of Battambang town,
+  is open daily from 6am to 6pm and stays refreshingly under-the-radar compared
+  to Angkor's big sites. 4.7★ (173 reviews) — what visitors say, hours, and
+  tips.
+country: Cambodia
+region: Battambang
+category: attraction
+pubDate: '2026-08-26T09:30:38.217Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Phnom_Banan_temple_2.jpg/3840px-Phnom_Banan_temple_2.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phnom_Banan_temple_2.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Phnom_Banan_temple_2.jpg/3840px-Phnom_Banan_temple_2.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Phnom_Banan_temple_2.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phnom_Banan_temple.jpg/3840px-Phnom_Banan_temple.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Phnom_Banan_temple.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phnom_Banan_temple.jpg/3840px-Phnom_Banan_temple.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Phnom_Banan_temple.jpg'
 place:
-  id: "ChIJa0OyhSk5BTERx9uiNPUbbEQ"
-  name: "Banan Temple"
-  address: "X42Q+9WF, បាណន់, Cambodia"
+  id: ChIJa0OyhSk5BTERx9uiNPUbbEQ
+  name: Banan Temple
+  address: 'X42Q+9WF, បាណន់, Cambodia'
   rating: 4.7
-  userRatingsTotal: 164
-  googleMapsUrl: "https://maps.google.com/?cid=4930346432027876295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 173
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4930346432027876295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9509276
   lng: 103.13978189999999
-  phone: "+855 98 686 971"
+  phone: +855 98 686 971
   openingHours:
-    - "Monday: 6:00 AM – 6:00 PM"
-    - "Tuesday: 6:00 AM – 6:00 PM"
-    - "Wednesday: 6:00 AM – 6:00 PM"
-    - "Thursday: 6:00 AM – 6:00 PM"
-    - "Friday: 6:00 AM – 6:00 PM"
-    - "Saturday: 6:00 AM – 6:00 PM"
-    - "Sunday: 6:00 AM – 6:00 PM"
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
 tags:
-  - "battambang"
-  - "historic site"
-quickAnswer: "Banan Temple, a hilltop Angkor-era ruin about 25km south of Battambang town, is open daily from 6am to 6pm and stays refreshingly under-the-radar compared to Angkor's big sites. Plan for an early-morning or late-afternoon visit to beat the midday heat on the climb, and budget an hour or two including the 358-step ascent. A tuk-tuk from Battambang, arranged for a half-day, is the easiest way to reach it."
+  - battambang
+  - historic site
+quickAnswer: >-
+  Banan Temple, a hilltop Angkor-era ruin about 25km south of Battambang town,
+  is open daily from 6am to 6pm and stays refreshingly under-the-radar compared
+  to Angkor's big sites. Plan for an early-morning or late-afternoon visit to
+  beat the midday heat on the climb, and budget an hour or two including the
+  358-step ascent. A tuk-tuk from Battambang, arranged for a half-day, is the
+  easiest way to reach it.
 faq:
-  - q: "How do I get to Banan Temple from Battambang?"
-    a: "Hire a tuk-tuk in Battambang town for around 45 minutes each way; most drivers offer a half-day rate that includes waiting time and a stop at Phnom Sampov."
-  - q: "How many steps are there to climb?"
-    a: "358 stone steps lead up the hillside to the towers, with no shade for most of the climb, so pace yourself and bring water."
-  - q: "What are the opening hours?"
-    a: "Banan Temple is open daily from 6am to 6pm, including weekends."
-  - q: "When is the best time to visit to avoid heat and crowds?"
-    a: "Go early morning (by 7-8am) or about two hours before closing in the late afternoon; midday between 11am and 2pm is the hottest, least comfortable window."
-  - q: "Is Banan Temple worth combining with other stops?"
-    a: "Yes — it's commonly paired with the Phnom Sampov caves and killing caves on the same half-day trip from Battambang."
+  - q: How do I get to Banan Temple from Battambang?
+    a: >-
+      Hire a tuk-tuk in Battambang town for around 45 minutes each way; most
+      drivers offer a half-day rate that includes waiting time and a stop at
+      Phnom Sampov.
+  - q: How many steps are there to climb?
+    a: >-
+      358 stone steps lead up the hillside to the towers, with no shade for most
+      of the climb, so pace yourself and bring water.
+  - q: What are the opening hours?
+    a: 'Banan Temple is open daily from 6am to 6pm, including weekends.'
+  - q: When is the best time to visit to avoid heat and crowds?
+    a: >-
+      Go early morning (by 7-8am) or about two hours before closing in the late
+      afternoon; midday between 11am and 2pm is the hottest, least comfortable
+      window.
+  - q: Is Banan Temple worth combining with other stops?
+    a: >-
+      Yes — it's commonly paired with the Phnom Sampov caves and killing caves
+      on the same half-day trip from Battambang.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-27'
 ---
 Banan Temple sits on a steep, jungle-covered hill about 25km south of Battambang, and it looks like a smaller, quieter cousin of Angkor Wat left to the elements. Five crumbling sandstone towers crown the summit, their carvings softened by centuries of rain and lichen. Roots snake across fallen lintels. Few other visitors break the silence.
 

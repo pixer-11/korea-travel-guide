@@ -27,7 +27,7 @@ place:
   name: Summer Palace
   address: 'Haidian District, China, 100091'
   rating: 4.6
-  userRatingsTotal: 9998
+  userRatingsTotal: 10490
   priceLevel: 2
   googleMapsUrl: >-
     https://maps.google.com/?cid=5033249184497836338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -80,7 +80,7 @@ faq:
       University campuses are both close by in Haidian District.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-29'
+updatedDate: '2026-11-27'
 ---
 
 You feel the scale of the place before you understand any of its history. Past the East Palace Gate, the crowds funnel through a series of courtyards (Empress Dowager Cixi's old reception halls, all dark timber and red pillars), and then the path opens onto Kunming Lake and the whole logic of the Summer Palace suddenly clicks: hill on one side, water on the other, and 300 acres of pavilions, bridges and covered walkways stitched between them.

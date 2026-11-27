@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: barcelona-mirador-torre-glories
-srcHash: '64bba7753f40'
+srcHash: 'cdabe8e54215'
 title: 'Mirador Torre Glòries: Guía de viaje de Barcelona (4,5★)'
-description: 'El Mirador Torre Glòries es el mirador más nuevo de Barcelona, a 125 metros de altura dentro de la reluciente torre en forma de bala de Jean Nouvel, en la Avinguda Diagonal. 4,5★ (5.078 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mirador Torre Glòries es el mirador más nuevo de Barcelona, a 125 metros de altura dentro de la reluciente torre en forma de bala de Jean Nouvel, en la Avinguda Diagonal. 4,6★ (5.461 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mirador Torre Glòries es el mirador más nuevo de Barcelona, a 125 metros de altura dentro de la reluciente torre en forma de bala de Jean Nouvel, en la Avinguda Diagonal. Abre todos los días de 10:00 a 22:00, y el momento más tranquilo es entre las 20:00 y las 22:00 entre semana, cuando empiezan a encenderse las luces de la ciudad. Reserva una entrada con hora online para evitar la cola en la planta baja.
 faq:
   - q: ¿Cuál es el horario de apertura del Mirador Torre Glòries?

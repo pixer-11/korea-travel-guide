@@ -3,7 +3,7 @@ title: 'Bengaluru Fort: Travel Guide (4.0★)'
 description: >-
   Bengaluru Fort's surviving gateway sits on Krishna Rajendra Road in New
   Tharagupet, near Bengaluru City Market, and is open daily 8:30am–5:30pm. 4.0★
-  (26,825 reviews) — what visitors say, hours, and tips.
+  (27,028 reviews) — what visitors say, hours, and tips.
 country: India
 region: Bengaluru
 category: attraction
@@ -25,7 +25,7 @@ place:
     XH7G+49C, Krishna Rajendra Rd, New Tharagupet, Bengaluru, Karnataka 560002,
     India
   rating: 4
-  userRatingsTotal: 26825
+  userRatingsTotal: 27028
   googleMapsUrl: >-
     https://maps.google.com/?cid=12872511500219967191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -88,7 +88,7 @@ faq:
       current details locally since minor changes can happen over time.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-29'
+updatedDate: '2026-11-27'
 ---
 ## Why go
 

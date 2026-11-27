@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: turin-parco-del-valentino
-srcHash: '9598947dbaf6'
+srcHash: '4918b2618d4f'
 title: 'Parco del Valentino: guía de viaje de Turín (4,6★)'
-description: 'El Parco del Valentino es el mayor parque ribereño de Turín, abierto las 24 horas junto al Po, y su momento más tranquilo es entre las 7 y las 9 de la mañana, tanto en días de semana como en fin de semana. 4,6★ (49.438 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parco del Valentino es el mayor parque ribereño de Turín, abierto las 24 horas junto al Po, y su momento más tranquilo es entre las 7 y las 9 de la mañana, tanto en días de semana como en fin de semana. 4,6★ (49.888 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parco del Valentino es el mayor parque ribereño de Turín, abierto las 24 horas junto al Po, y su momento más tranquilo es entre las 7 y las 9 de la mañana, tanto en días de semana como en fin de semana. Merece la pena acercarse al Borgo Medievale de estilo medieval, al Castillo del Valentino de estilo neobarroco y al jardín botánico de rocas; conviene evitar las tardes de fin de semana, de mediodía a las 23:00, cuando el parque está abarrotado.
 faq:
   - q: ¿Cómo se llega al Parco del Valentino desde el centro de Turín?

@@ -1,6 +1,10 @@
 ---
 title: 'Virachey National Park: Banlung Travel Guide (4.3★)'
-description: Virachey National Park, northeast of Banlung in Ratanakiri province, is one of Cambodia's largest and wildest protected areas, spanning jungle, grassy lowlands and upland savannah toward the Laos border. 4.3★ (198 reviews) — what visitors say, hours, and tips.
+description: >-
+  Virachey National Park, northeast of Banlung in Ratanakiri province, is one of
+  Cambodia's largest and wildest protected areas, spanning jungle, grassy
+  lowlands and upland savannah toward the Laos border. 4.3★ (200 reviews) — what
+  visitors say, hours, and tips.
 country: Cambodia
 region: Banlung
 category: attraction
@@ -8,10 +12,11 @@ pubDate: '2026-08-29T15:11:43.340Z'
 place:
   id: ChIJsXPNztSYbDERjXEq9MDAeO4
   name: Virachey National Park
-  address: 5VQ8+C25, Veun Sai, Cambodia
+  address: '5VQ8+C25, Veun Sai, Cambodia'
   rating: 4.3
-  userRatingsTotal: 198
-  googleMapsUrl: https://maps.google.com/?cid=17183696313194803597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 200
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17183696313194803597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 14.1885178
   lng: 106.86510829999999
@@ -34,27 +39,47 @@ place:
 tags:
   - banlung
   - park
-quickAnswer: Virachey National Park, northeast of Banlung in Ratanakiri province, is one of Cambodia's largest and wildest protected areas, spanning jungle, grassy lowlands and upland savannah toward the Laos border. It's still genuinely under-the-radar, so weekends stay calm from 7am–8am, 9am–10am and 7pm–9pm; the crush, such as it is, comes 10am–3pm. Budget at least two full days if you want to trek beyond the ranger station, since this isn't a drive-through park.
+quickAnswer: >-
+  Virachey National Park, northeast of Banlung in Ratanakiri province, is one of
+  Cambodia's largest and wildest protected areas, spanning jungle, grassy
+  lowlands and upland savannah toward the Laos border. It's still genuinely
+  under-the-radar, so weekends stay calm from 7am–8am, 9am–10am and 7pm–9pm; the
+  crush, such as it is, comes 10am–3pm. Budget at least two full days if you
+  want to trek beyond the ranger station, since this isn't a drive-through park.
 faq:
   - q: How do I get to Virachey National Park from Banlung?
-    a: It's roughly a 45-minute to one-hour drive northeast of Banlung town, arranged through the park's ranger office or a Banlung-based trekking operator.
+    a: >-
+      It's roughly a 45-minute to one-hour drive northeast of Banlung town,
+      arranged through the park's ranger office or a Banlung-based trekking
+      operator.
   - q: How many days do I need at Virachey?
-    a: Plan at least two days; most treks run two to four days with jungle camping, since trails aren't set up for quick day visits.
+    a: >-
+      Plan at least two days; most treks run two to four days with jungle
+      camping, since trails aren't set up for quick day visits.
   - q: When is the quietest time to visit?
-    a: Weekends stay calm across 7am-8am, 9am-10am and 7pm-9pm; if you want to avoid even the modest weekend uptick, aim outside 10am-3pm.
+    a: >-
+      Weekends stay calm across 7am-8am, 9am-10am and 7pm-9pm; if you want to
+      avoid even the modest weekend uptick, aim outside 10am-3pm.
   - q: What's the best season to trek Virachey?
-    a: Dry season, roughly November to April, offers passable trails and rivers. Wet season (May-October) brings mud, swollen rivers and heavier leech activity.
+    a: >-
+      Dry season, roughly November to April, offers passable trails and rivers.
+      Wet season (May-October) brings mud, swollen rivers and heavier leech
+      activity.
   - q: Can I hike independently without a guide?
-    a: Not realistically. Trails are unsigned and wildlife-dense; local guides arranged through Banlung or the ranger station are essential for safety and navigation.
+    a: >-
+      Not realistically. Trails are unsigned and wildlife-dense; local guides
+      arranged through Banlung or the ranger station are essential for safety
+      and navigation.
 aiGenerated: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1a/Veal_Thom_Grasslands.jpg
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Veal_Thom_Grasslands.jpg'
   credit: 'Photo: Mangoholic2 / Wikimedia Commons (Public domain)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Veal_Thom_Grasslands.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Veal_Thom_Grasslands.jpg'
   focus:
     x: 50
     'y': 50
+updatedDate: '2026-11-27'
 ---
 ## What you're actually visiting
 

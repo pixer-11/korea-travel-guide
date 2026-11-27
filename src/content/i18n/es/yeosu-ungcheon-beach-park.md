@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: yeosu-ungcheon-beach-park
-srcHash: 'b5cfe1236719'
+srcHash: '7d6565708795'
 title: 'Parque de la Playa de Ungcheon: guía de viaje de Yeosu (4.4★)'
-description: 'En el barrio de Sijeon-dong, en Yeosu, el Parque de la Playa de Ungcheon ofrece una franja costera larga y despejada que conviene recorrer a primera hora: entre las 7 y las 8 de la mañana reina la calma, tanto entre semana como en fin de semana. 4.4★ (2,088 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el barrio de Sijeon-dong, en Yeosu, el Parque de la Playa de Ungcheon ofrece una franja costera larga y despejada que conviene recorrer a primera hora: entre las 7 y las 8 de la mañana reina la calma, tanto entre semana como en fin de semana. 4.4★ (2,094 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'En el barrio de Sijeon-dong, en Yeosu, el Parque de la Playa de Ungcheon (Ungcheon Beach Park) ofrece una franja costera larga y despejada que conviene recorrer a primera hora: entre las 7 y las 8 de la mañana reina la calma, tanto entre semana como en fin de semana. Abre las 24 horas todos los días. Los fines de semana, sin embargo, hay mucha gente de 11 de la mañana a 10 de la noche, así que para estar a sus anchas lo mejor es madrugar o ir ya de noche. Merece la pena por su paseo llano junto al agua, por las vistas al mar y por lo fácil que resulta llegar desde el centro de Yeosu.'
 faq:
   - q: ¿Cuál es el horario del Parque de la Playa de Ungcheon?

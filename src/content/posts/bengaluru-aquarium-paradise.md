@@ -22,7 +22,7 @@ place:
     Jayamahal Main Rd, opposite TV Tower, J.C.Nagar, Bengaluru, Karnataka
     560006, India
   rating: 4.5
-  userRatingsTotal: 9332
+  userRatingsTotal: 11243
   googleMapsUrl: >-
     https://maps.google.com/?cid=10347584134649797268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -72,7 +72,7 @@ faq:
       variety of tanks makes it worth a look even if you leave empty-handed.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-29'
+updatedDate: '2026-11-27'
 ---
 ## Why go
 

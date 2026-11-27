@@ -2,7 +2,7 @@
 title: 'La Colmena: Barcelona Travel Guide (4.5★)'
 description: >-
   La Colmena is a historic pastry counter on Plaça de l'Àngel, right at the edge
-  of the Gothic Quarter, open daily 9am–9pm. 4.5★ (1,743 reviews) — what
+  of the Gothic Quarter, open daily 9am–9pm. 4.5★ (1,848 reviews) — what
   visitors say, hours, and tips.
 country: Spain
 region: Barcelona
@@ -27,7 +27,7 @@ place:
   name: La Colmena
   address: 'Plaça de l''Àngel, 12, Ciutat Vella, 08002 Barcelona, Spain'
   rating: 4.5
-  userRatingsTotal: 1743
+  userRatingsTotal: 1848
   googleMapsUrl: >-
     https://maps.google.com/?cid=11412857943941996772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -89,7 +89,7 @@ faq:
       decide, and pay, since it's designed for buying rather than lingering.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 
 ## Why go

@@ -28,7 +28,7 @@ place:
   name: Gloria Osteria Barcelona
   address: 'Carrer d''Enric Granados, 86, Eixample, 08008 Barcelona, Spain'
   rating: 4.8
-  userRatingsTotal: 11632
+  userRatingsTotal: 13432
   googleMapsUrl: >-
     https://maps.google.com/?cid=13260398169657436947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -83,7 +83,7 @@ faq:
       rather than relying on outdated or unofficial listings.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 
 ## Why Gloria Osteria matters right now

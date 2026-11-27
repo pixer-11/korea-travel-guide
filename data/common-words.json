@@ -1,7 +1,7 @@
 {
  "_comment": "Ordinary English words, measured from our own guides (mid-sentence lower case >= threshold). Rebuild with scripts/build-common-words.mjs — do not hand-edit.",
  "threshold": 4,
- "posts": 4294,
+ "posts": 4299,
  "words": [
   "aarti",
   "abalone",
@@ -10238,6 +10238,7 @@
   "spotlights",
   "spots",
   "spotted",
+  "spotters",
   "spotting",
   "spout",
   "spouts",
@@ -11075,6 +11076,7 @@
   "things",
   "think",
   "thinking",
+  "thinks",
   "thinned",
   "thinner",
   "thinnest",

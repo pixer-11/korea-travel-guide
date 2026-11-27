@@ -1,43 +1,51 @@
 ---
-title: "Asian Civilisations Museum: Singapore Travel Guide (4.6★)"
-description: "The Asian Civilisations Museum in Singapore sits right on the Singapore River at Empress Place, just steps from Raffles Landing Site and a short walk from Raffles Place MRT. 4.6★ (6,348 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Singapore"
-category: "attraction"
-pubDate: "2026-08-28T19:33:34.892Z"
+title: 'Asian Civilisations Museum: Singapore Travel Guide (4.6★)'
+description: >-
+  The Asian Civilisations Museum in Singapore sits right on the Singapore River
+  at Empress Place, just steps from Raffles Landing Site and a short walk from
+  Raffles Place MRT. 4.6★ (6,455 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Singapore
+category: attraction
+pubDate: '2026-08-28T19:33:34.892Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Empress_Place_Building_2023-03-22.jpg/1920px-Empress_Place_Building_2023-03-22.jpg"
-  credit: "Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Empress_Place_Building_2023-03-22.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Empress_Place_Building_2023-03-22.jpg/1920px-Empress_Place_Building_2023-03-22.jpg
+  credit: 'Photo: Alexey Komarov / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Empress_Place_Building_2023-03-22.jpg
   focus:
     x: 75
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asian_Civilisations_Museum%2C_October_2025.jpg/3840px-Asian_Civilisations_Museum%2C_October_2025.jpg"
-    credit: "Photo: GoAheadFan95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Asian_Civilisations_Museum,_October_2025.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asian_Civilisations_Museum%2C_October_2025.jpg/3840px-Asian_Civilisations_Museum%2C_October_2025.jpg
+    credit: 'Photo: GoAheadFan95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Asian_Civilisations_Museum,_October_2025.jpg
 place:
-  id: "ChIJoZOhmQkZ2jERehLfvKlsoCA"
-  name: "Asian Civilisations Museum"
-  address: "1 Empress Pl, Singapore 179555"
+  id: ChIJoZOhmQkZ2jERehLfvKlsoCA
+  name: Asian Civilisations Museum
+  address: '1 Empress Pl, Singapore 179555'
   rating: 4.6
-  userRatingsTotal: 6348
-  googleMapsUrl: "https://maps.google.com/?cid=2350998481761407610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6455
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2350998481761407610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2875002000000002
   lng: 103.85138529999999
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-28
+    updated: 2026-08-28T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 19
@@ -50,24 +58,45 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_41436f736c4b76664c686552456a325a6b516d684f5a6f4a496843"
+    venueId: ven_41436f736c4b76664c686552456a325a6b516d684f5a6f4a496843
 tags:
-  - "singapore"
-  - "museum"
-quickAnswer: "The Asian Civilisations Museum in Singapore sits right on the Singapore River at Empress Place, just steps from Raffles Landing Site and a short walk from Raffles Place MRT. It's open daily 10am–7pm (Friday until 9pm), and the calmest window is weekday mornings or Saturday/Sunday 10am–11am before the afternoon crowds build. Budget two to three hours to properly cover its Asian trade, faith and material culture galleries."
+  - singapore
+  - museum
+quickAnswer: >-
+  The Asian Civilisations Museum in Singapore sits right on the Singapore River
+  at Empress Place, just steps from Raffles Landing Site and a short walk from
+  Raffles Place MRT. It's open daily 10am–7pm (Friday until 9pm), and the
+  calmest window is weekday mornings or Saturday/Sunday 10am–11am before the
+  afternoon crowds build. Budget two to three hours to properly cover its Asian
+  trade, faith and material culture galleries.
 faq:
-  - q: "How do I get to the Asian Civilisations Museum?"
-    a: "It's about a 10-minute walk from Raffles Place MRT (North-South/East-West lines) along the Singapore River, or a similar walk from City Hall MRT. It's also directly accessible from Boat Quay and Clarke Quay on foot."
-  - q: "What is the quietest time to visit?"
-    a: "Weekdays are steady and manageable from 10am to 8pm. On weekends, go right at opening: 10am to 11am is calm before crowds build through the afternoon."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours is enough to see the Tang Shipwreck gallery plus two or three other collections without rushing. Add extra time on Fridays, when the museum stays open until 9pm."
-  - q: "What's the museum's must-see gallery?"
-    a: "The Tang Shipwreck gallery, built around a 9th-century Arab dhow's cargo recovered off Indonesia, is the collection most visitors remember best."
-  - q: "Is it worth visiting on a weekend?"
-    a: "Yes, but arrive right at 10am. Avoid showing up after 1pm on a Saturday or Sunday, when it gets noticeably busier and stays that way into the evening."
+  - q: How do I get to the Asian Civilisations Museum?
+    a: >-
+      It's about a 10-minute walk from Raffles Place MRT (North-South/East-West
+      lines) along the Singapore River, or a similar walk from City Hall MRT.
+      It's also directly accessible from Boat Quay and Clarke Quay on foot.
+  - q: What is the quietest time to visit?
+    a: >-
+      Weekdays are steady and manageable from 10am to 8pm. On weekends, go right
+      at opening: 10am to 11am is calm before crowds build through the
+      afternoon.
+  - q: How long should I plan to spend there?
+    a: >-
+      Two to three hours is enough to see the Tang Shipwreck gallery plus two or
+      three other collections without rushing. Add extra time on Fridays, when
+      the museum stays open until 9pm.
+  - q: What's the museum's must-see gallery?
+    a: >-
+      The Tang Shipwreck gallery, built around a 9th-century Arab dhow's cargo
+      recovered off Indonesia, is the collection most visitors remember best.
+  - q: Is it worth visiting on a weekend?
+    a: >-
+      Yes, but arrive right at 10am. Avoid showing up after 1pm on a Saturday or
+      Sunday, when it gets noticeably busier and stays that way into the
+      evening.
 aiGenerated: true
 draft: false
+updatedDate: '2026-11-27'
 ---
 Here is the repaired markdown body:
 

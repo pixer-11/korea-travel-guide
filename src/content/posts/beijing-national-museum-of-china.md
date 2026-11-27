@@ -3,7 +3,7 @@ title: 'National Museum of China: Beijing Travel Guide (4.4★)'
 description: >-
   The National Museum of China sits on the east side of Tiananmen Square and is
   free to enter, but you still need to book a timed ticket online in advance
-  (passport required). 4.4★ (564 reviews) — what visitors say, hours, and tips.
+  (passport required). 4.4★ (581 reviews) — what visitors say, hours, and tips.
 country: China
 region: Beijing
 category: attraction
@@ -30,7 +30,7 @@ place:
   name: National Museum of China
   address: '16 Dong Chang An Jie, 前门 Dong Cheng Qu, China, 100051'
   rating: 4.4
-  userRatingsTotal: 564
+  userRatingsTotal: 581
   googleMapsUrl: >-
     https://maps.google.com/?cid=164207946776495625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -79,7 +79,7 @@ faq:
       PM, with last entry before closing, and there are no evening hours.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 
 ## Why go

@@ -20,7 +20,7 @@ place:
   name: Forbidden City
   address: '4 Jing Shan Qian Jie, Dong Cheng Qu, Bei Jing Shi, China, 100009'
   rating: 4.6
-  userRatingsTotal: 2901
+  userRatingsTotal: 3242
   googleMapsUrl: >-
     https://maps.google.com/?cid=465245964208375711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -73,7 +73,7 @@ faq:
       rooftops.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 You feel the scale before you understand it. Standing at the Meridian Gate, Wu Men, the crenellated wings curve around you like a stone embrace, and the crowd funnels through a single opening in a wall that once separated the emperor from everyone else on earth. Completed in 1420 under the Yongle Emperor, this was the seat of Ming and Qing power for nearly five centuries, and it still holds together as one continuous, walled world: 980-odd buildings, nested courtyards, and not a single modern structure to break the spell once you're inside.
 

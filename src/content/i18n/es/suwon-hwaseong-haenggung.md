@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: suwon-hwaseong-haenggung
-srcHash: '33dcff30c7e7'
+srcHash: 'bfc07d57a3cd'
 title: 'Hwaseong Haenggung: Guía de viaje de Suwon (4,5★)'
-description: 'El Hwaseong Haenggung de Suwon es el más grande de los palacios reales temporales de Corea, reconstruido después de 1996 a partir del original de 1789 dentro de las murallas de la Fortaleza de Hwaseong. 4,5★ (12.807 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Hwaseong Haenggung de Suwon es el más grande de los palacios reales temporales de Corea, reconstruido después de 1996 a partir del original de 1789 dentro de las murallas de la Fortaleza de Hwaseong. 4,5★ (12.883 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Hwaseong Haenggung de Suwon es el más grande de los palacios reales temporales de Corea, reconstruido después de 1996 a partir del original de 1789 dentro de las murallas de la Fortaleza de Hwaseong. Abre todos los días de 9:00 a 18:00, la visita dura entre 45 y 90 minutos, y los días de semana son más tranquilos que los fines de semana, cuando la afluencia aumenta de forma constante a partir de las 11:00. Vale la pena acudir para presenciar la ceremonia del cambio de guardia y el espectáculo de artes marciales que se representa en el patio delantero.
 faq:
   - q: ¿Cuánto tiempo debería dedicar a la visita del Hwaseong Haenggung?

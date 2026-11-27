@@ -29,7 +29,7 @@ place:
   name: Basilica of the Sagrada Familia
   address: 'Carrer de Mallorca, 401, Eixample, 08013 Barcelona, Spain'
   rating: 4.8
-  userRatingsTotal: 330508
+  userRatingsTotal: 340943
   googleMapsUrl: >-
     https://maps.google.com/?cid=11229913421514525008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -103,7 +103,7 @@ faq:
       away on Passeig de Gràcia, and the surrounding Eixample district has
       plenty of cafes and tapas bars for a post-visit break.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 
 ## Why go

@@ -26,8 +26,8 @@ place:
   address: >-
     20 Sukhumvit 31, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon
     10110, Thailand
-  rating: 4.9
-  userRatingsTotal: 2714
+  rating: 4.8
+  userRatingsTotal: 2567
   googleMapsUrl: >-
     https://maps.google.com/?cid=4276167827102826236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -98,12 +98,12 @@ faq:
       2,600+ reviews), booking ahead or arriving early is recommended for
       weekend evenings.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 
 ## Why go
 
-Bangkok has no shortage of concept cafés, but Treehouse Cafe & Bar has earned a rare 4.9-star average across more than 2,600 reviews, a signal that the hype holds up. The draw is the setting: a multi-level space built around lush greenery, hanging vines, wooden walkways, and warm fairy-light canopies that make it feel like a treehouse retreat dropped into the middle of the city. It photographs beautifully, but it's also a legitimate spot to eat and drink well, not just a backdrop for a five-minute photo stop.
+Bangkok has no shortage of concept cafés, but Treehouse Cafe & Bar has earned a rare 4.8-star average across more than 2,600 reviews, a signal that the hype holds up. The draw is the setting: a multi-level space built around lush greenery, hanging vines, wooden walkways, and warm fairy-light canopies that make it feel like a treehouse retreat dropped into the middle of the city. It photographs beautifully, but it's also a legitimate spot to eat and drink well, not just a backdrop for a five-minute photo stop.
 
 ## Getting there
 

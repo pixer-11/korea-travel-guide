@@ -29,7 +29,7 @@ place:
     158 Thanon Wang Doem, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha
     Nakhon 10600, Thailand
   rating: 4.7
-  userRatingsTotal: 45133
+  userRatingsTotal: 45818
   googleMapsUrl: >-
     https://maps.google.com/?cid=9727099538087655581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -98,7 +98,7 @@ faq:
       temples in Thailand; sarongs are typically available to borrow or rent
       near the entrance if you arrive underdressed.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 
 ## Why Wat Arun Matters

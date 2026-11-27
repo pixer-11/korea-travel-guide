@@ -20,7 +20,7 @@ place:
   name: Prince Gong Mansion
   address: '17 Qian Hai Xi Jie, Xi Cheng Qu, Bei Jing Shi, China, 100035'
   rating: 4.4
-  userRatingsTotal: 1065
+  userRatingsTotal: 1089
   priceLevel: 1
   googleMapsUrl: >-
     https://maps.google.com/?cid=7982425047992346357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -64,7 +64,7 @@ faq:
       Shichahai Lake and the Houhai bar/restaurant district are a short walk
       east, making it easy to pair the mansion with a lakeside stroll or meal.
 aiGenerated: true
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 
 You reach it down a narrow hutong west of Shichahai Lake, where the traffic noise drops away and grey brick walls close in on either side. There's no dome, no golden roofline visible from the street, just a modest gate with stone lions, easy to walk past if you didn't know what was behind it. That's part of what makes Prince Gong Mansion different from Beijing's headline sights: it doesn't announce itself.

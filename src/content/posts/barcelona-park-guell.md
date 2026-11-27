@@ -2,7 +2,7 @@
 title: 'Park Güell: Barcelona Travel Guide (4.4★)'
 description: >-
   Park Güell is Gaudí's hilltop fantasy of tiled dragons, wavy benches, and
-  stone colonnades in the Gràcia district, open daily 9am–7:30pm. 4.4★ (240,607
+  stone colonnades in the Gràcia district, open daily 9am–7:30pm. 4.4★ (246,189
   reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
@@ -20,7 +20,7 @@ place:
   name: Park Güell
   address: 'Gràcia, 08024 Barcelona, Spain'
   rating: 4.4
-  userRatingsTotal: 240607
+  userRatingsTotal: 246189
   googleMapsUrl: >-
     https://maps.google.com/?cid=9915250311879642712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -87,7 +87,7 @@ faq:
       shift seasonally.
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-28'
+updatedDate: '2026-11-27'
 ---
 ## Why go
 
