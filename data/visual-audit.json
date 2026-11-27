@@ -4871,9 +4871,9 @@
  },
  "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Federer_at_the_ATP_Tennis_World_Finals.jpg": {
   "slug": "bengaluru-bengaluru-open-atp-125",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Tennis player on blue court, ATP event context",
-  "at": "2026-11-26T19:36:29.837Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: filename shares only \"atp\" with the event title (audit-event-hero-identity --reject)",
+  "at": "2026-11-27T08:09:46.066Z"
  },
  "bengaluru-bengaluru-open-atp-125\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg/3840px-Cincinnati-Tennis-2015-ATP-WTA-98_%2820232731523%29.jpg": {
   "slug": "bengaluru-bengaluru-open-atp-125",
