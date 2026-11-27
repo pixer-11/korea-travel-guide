@@ -128,29 +128,28 @@
     "auckland-a-ap-rocky-don-t-be-dumb-world-tour",
     "seoul-seoul-light-gwanghwamun",
     "lima-robbie-williams-concert",
-    "lake-louise-samson-mall"
+    "lake-louise-samson-mall",
+    "bangkok-fujii-kaze-bangkok"
   ],
-  "lastSentDay": "2026-11-27",
+  "lastSentDay": "2026-11-28",
   "material": {
-    "day": "2026-11-27",
-    "slug": "lake-louise-samson-mall",
-    "title": "Samson Mall: Lake Louise Travel Guide (4.4★)",
+    "day": "2026-11-28",
+    "slug": "bangkok-fujii-kaze-bangkok",
+    "title": "Fujii Kaze Bangkok: Dates, Tickets & Venue (Bangkok)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-11-27-lake-louise-samson-mall-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-11-28-bangkok-fujii-kaze-bangkok-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-11-28-bangkok-fujii-kaze-bangkok-2.jpg"
     ],
-    "igCaption": "Samson Mall is barely a mall — just a short row of shops next to the Lake Louise Visitor Centre — but it's where every good day here actually starts. Coffee at Laggan's, a last grocery run, a paper map before the Icefields Parkway: this corner quietly makes the park work.\n\n#SamsonMall #LakeLouise #Canada #travelguide #travel #wanderatlas #BanffNationalPark #IcefieldsParkway #TravelCanada #CanadianRockies\n📷 Photo: DXR / Wikimedia Commons (CC BY-SA 4.0) (edited)\n📷 Photo: Foursquare user content (Samson Mall) (edited)",
-    "thOption": "Laggan's Mountain Bakery gets a line out the door most summer mornings. Would you brave the queue for coffee and a pastry before the shuttle up to the lake, or skip straight to the trail?",
-    "link": "https://wanderatlasguides.com/posts/lake-louise-samson-mall/"
+    "igCaption": "Fujii Kaze closes out his year with an open-air stadium show at Bangkok's historic Suphachalasai, built in the late 1930s right on Rama I Road near Siam. Cool, dry season, BTS access, and a crowd that knows every word to \"Shinunoga E-Wa.\"\n\n#Bangkok #Thailand #events #travel #wanderatlas #FujiiKaze #BangkokConcert #SuphachalasaiStadium #TravelBangkok #LiveMusicAsia\n📷 Photo: なまけもの人間 / Wikimedia Commons (CC0) (edited)",
+    "thOption": "Fujii Kaze's \"Shinunoga E-Wa\" went viral worldwide even though its title is Okayama dialect most fans can't translate. Do you know all the words anyway?",
+    "link": "https://wanderatlasguides.com/posts/bangkok-fujii-kaze-bangkok/"
   },
   "social": {
-    "thDay": "2026-11-27",
-    "thId": "18649207870014613",
+    "thDay": "2026-11-28",
+    "thId": "18108837491635990",
     "igDay": "2026-11-27",
     "igId": "18202551493385192",
-    "thSlug": "lake-louise-samson-mall",
+    "thSlug": "bangkok-fujii-kaze-bangkok",
     "igSlug": "lake-louise-samson-mall",
     "history": [
       {
@@ -948,7 +947,17 @@
       {
         "day": "2026-11-21",
         "slug": "taipei-khalid-concert-taipei",
-        "thId": "18083088218435193"
+        "thId": "18083088218435193",
+        "insights": {
+          "at": "2026-11-28",
+          "th": {
+            "views": 28,
+            "likes": 0,
+            "replies": 0,
+            "reposts": 0,
+            "quotes": 0
+          }
+        }
       },
       {
         "day": "2026-11-22",
@@ -982,6 +991,11 @@
         "slug": "lake-louise-samson-mall",
         "thId": "18649207870014613",
         "igId": "18202551493385192"
+      },
+      {
+        "day": "2026-11-28",
+        "slug": "bangkok-fujii-kaze-bangkok",
+        "thId": "18108837491635990"
       }
     ]
   }
