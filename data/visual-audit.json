@@ -7748,11 +7748,29 @@
   "reason": "patrol replace: Ice cave with colored LED lighting installation",
   "at": "2026-11-24T19:36:59.885Z"
  },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Mer_de_Glace_grotte_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<640) — could not measure",
+  "at": "2026-11-27T19:36:11.321Z"
+ },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG": {
   "slug": "chamonix-grotte-de-glace",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up fragment of ice texture, not representative view",
   "at": "2026-11-14T19:37:50.651Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Mer_de_Glace_grotte_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<640) — could not measure",
+  "at": "2026-11-27T19:36:11.235Z"
+ },
+ "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/9/9e/Mer_de_Glace_grotte_8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+  "slug": "chamonix-grotte-de-glace",
+  "verdict": "UNMEASURED",
+  "reason": "patrol retry: width: unknown (<640) — could not measure",
+  "at": "2026-11-27T19:36:11.288Z"
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Mer_de_Glace_grotte_4.JPG": {
   "slug": "chamonix-grotte-de-glace",

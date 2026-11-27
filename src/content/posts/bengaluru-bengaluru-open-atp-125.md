@@ -12,6 +12,14 @@ eventOrganizer:
   name: Association of Tennis Professionals
   url: https://www.atptour.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/d6/Bengaluru_Skyline_from_Tata_Promont.jpg'
+  credit: 'Photo: Kushagra140 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bengaluru_Skyline_from_Tata_Promont.jpg'
+  focus:
+    x: 75
+    y: 40
 tags:
   - bengaluru
   - event

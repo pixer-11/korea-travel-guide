@@ -4028,8 +4028,8 @@
   },
   "cameron-highlands-sam-poh-temple": {
    "width": 674,
-   "attempts": 14,
-   "nextTry": "2026-11-27",
+   "attempts": 15,
+   "nextTry": "2026-12-04",
    "flaggedAt": "2026-08-20",
    "lastResult": "no-wider"
   },
@@ -4042,15 +4042,15 @@
   },
   "hong-kong-montana": {
    "width": 1080,
-   "attempts": 13,
-   "nextTry": "2026-11-27",
+   "attempts": 14,
+   "nextTry": "2026-12-04",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "lyon-ayla": {
    "width": 1008,
-   "attempts": 13,
-   "nextTry": "2026-11-27",
+   "attempts": 14,
+   "nextTry": "2026-12-04",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
@@ -4091,8 +4091,8 @@
   },
   "jakarta-erre-urrechu": {
    "width": 1080,
-   "attempts": 12,
-   "nextTry": "2026-11-27",
+   "attempts": 13,
+   "nextTry": "2026-12-04",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -4465,5 +4465,5 @@
    "flaggedAt": "2026-11-25"
   }
  },
- "updated": "2026-11-27T17:46:27.451Z"
+ "updated": "2026-11-27T19:37:10.956Z"
 }
