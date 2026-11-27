@@ -1,27 +1,19 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
 Priority: 364 itinerary stop(s) queued first
-  – beijing-liulichang.md: nothing new (resting 60d)
-  – beijing-wangfujing-bookstore.md: nothing new (resting 60d)
-  – hiroshima-machiya-street.md: nothing new (resting 60d)
-  – siem-reap-banteay-srei-temple.md: nothing new (resting 60d)
-  – siem-reap-royal-independence-gardens.md: nothing new (resting 60d)
-  – siem-reap-wat-bo.md: nothing new (resting 60d)
-  – chiang-mai-three-kings-monument.md: nothing new (resting 60d)
-  – hua-hin-hua-hin-night-market.md: nothing new (resting 60d)
-  – malaga-mercado-de-salamanca.md: nothing new (resting 60d)
-  ✓ new-delhi-janpath-market.md +phone
-  – seville-las-cruces.md: nothing new (resting 60d)
+  – lantau-island-scenic-hill-pavilion.md: nothing new (resting 60d)
+  – north-point-north-point-promenade.md: nothing new (resting 60d)
+  – boston-acorn-street.md: nothing new (resting 60d)
+  – chicago-heald-square-monument.md: nothing new (resting 60d)
+  – dubai-al-bastakiya.md: nothing new (resting 60d)
+  – mui-ne-phan-thiet-market.md: nothing new (resting 60d)
+  – seattle-olympic-sculpture-park.md: nothing new (resting 60d)
+  – shanghai-shanghai-old-street.md: nothing new (resting 60d)
+  – taipei-tamsui-old-street.md: nothing new (resting 60d)
+  – xi-an-xi-an-daxuexi-alley-mosque.md: nothing new (resting 60d)
   🚫 chamonix-grotte-de-glace.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – nha-trang-long-son-pagoda.md: nothing new (resting 60d)
-  – nice-parc-national-du-mercantour.md: nothing new (resting 60d)
-  – nice-place-massena.md: nothing new (resting 60d)
-  – pisa-lungarni-di-pisa.md: nothing new (resting 60d)
-  🚫 rishikesh-ram-jhula.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – san-francisco-alcatraz-island.md: nothing new (resting 60d)
-  – san-francisco-the-painted-ladies.md: nothing new (resting 60d)
-  – san-sebastian-paseo-de-la-concha.md: nothing new (resting 60d)
-  – ubud-tegallalang-rice-terrace.md: nothing new (resting 60d)
-  – varanasi-assi-ghat-varanasi.md: nothing new (resting 60d)
-  – yilan-diu-diu-dang-forest-park.md: nothing new (resting 60d)
+  ⚠ Places Details 404 — NOT a quota problem: {
+  "error": {
+    "code": 404,
+    "message": "The provided Place ID is no longer valid. Please refresh cached Place IDs as per https://developers.google.com/m
 
-BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 1762, no-new-data 917, no-place 1612, closed-quarantined 2, quota-429 0, api-error 0, api-calls 23, remaining-askable 2 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1767, no-new-data 918, no-place 1612, closed-quarantined 1, quota-429 0, api-error 1 (last: 404), api-calls 12, remaining-askable 2 (APPLIED).
