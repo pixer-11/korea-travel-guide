@@ -72,9 +72,18 @@ Ho Chi Minh City, Vietnam — 18 qualifying post(s), variants: 3
 Hobart, Australia — 12 qualifying post(s), variants: 3
   = Hobart 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 92 qualifying post(s), variants: 3, 5
-  = Hong Kong 3d — unchanged, skipping
-  = Hong Kong 5d — unchanged, skipping
+Hong Kong, Hong Kong — 94 qualifying post(s), variants: 3, 5
+  ~ Hong Kong 3d — minor structure change (2 slug diff), keeping existing prose
+  ⚠ Hong Kong 3d — validator found 2 prose-fixable issue(s); correcting once
+    · AREA-CLAIM-UNSUPPORTED: hong-kong-3-days.md — day 2 names "Tai Kok Tsui" but no stop of that day attests it
+    · AREA-CLAIM-UNSUPPORTED: hong-kong-3-days.md — day 2 names "Kok Tsui" but no stop of that day attests it
+  ✅ Hong Kong 3d — updated
+  ~ Hong Kong 5d — minor structure change (2 slug diff), keeping existing prose
+  ⚠ Hong Kong 5d — validator found 3 prose-fixable issue(s); correcting once
+    · AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 3 names "Mong Kok" but no stop of that day attests it
+    · AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 3 names "Tai Kok Tsui" but no stop of that day attests it
+    · AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 3 names "Kok Tsui" but no stop of that day attests it
+  ✅ Hong Kong 5d — updated
 
 Istanbul, Turkey — 12 qualifying post(s), variants: 3
   = Istanbul 3d — unchanged, skipping
@@ -102,7 +111,7 @@ Singapore, Singapore — 80 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

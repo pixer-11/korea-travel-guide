@@ -7675,6 +7675,12 @@
   "reasonKo": "맨모 사원의 상징적 향 소용돌이",
   "at": "2026-08-19T13:28:21.224Z"
  },
+ "central-pmq\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/HK_%E4%B8%AD%E7%92%B0_Central_%E8%98%87%E8%B1%AA%E5%8D%80_Soho_%E5%A3%AB%E4%B8%B9%E9%A0%93%E8%A1%97_Staunton_Street_PMQ_furniture_designer_chairs_night_March_2024_R12S_04.jpg/3840px-HK_%E4%B8%AD%E7%92%B0_Central_%E8%98%87%E8%B1%AA%E5%8D%80_Soho_%E5%A3%AB%E4%B8%B9%E9%A0%93%E8%A1%97_Staunton_Street_PMQ_furniture_designer_chairs_night_March_2024_R12S_04.jpg": {
+  "slug": "central-pmq",
+  "verdict": "MATCH",
+  "reason": "publish gate: PMQ chair exhibit display, representative interior view",
+  "at": "2026-11-27T07:46:05.264Z"
+ },
  "central-pottinger-street\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Pottinger_Street.JPG": {
   "slug": "central-pottinger-street",
   "verdict": "MATCH",
@@ -9794,6 +9800,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Museum interior with cultural exhibits, representative hero shot",
   "at": "2026-11-03T07:54:01.626Z"
+ },
+ "davao-national-museum-of-the-philippines-davao\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/National_Museum_of_the_Philippines_-_Davao_City_24.jpg/3840px-National_Museum_of_the_Philippines_-_Davao_City_24.jpg": {
+  "slug": "davao-national-museum-of-the-philippines-davao",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum exhibit interior representative of this gallery space",
+  "at": "2026-11-27T07:46:05.437Z"
  },
  "davao-people-s-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg": {
   "slug": "davao-people-s-park",
@@ -20610,6 +20622,12 @@
   "reason": "Asian monastery restaurant interior with traditional décor",
   "reasonKo": "전통 장식의 아시아 사찰 식당 내부",
   "at": "2026-08-16T13:15:02.493Z"
+ },
+ "lantau-island-scenic-hill-pavilion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Scenic_Hill_Pavilion.jpg/3840px-Scenic_Hill_Pavilion.jpg": {
+  "slug": "lantau-island-scenic-hill-pavilion",
+  "verdict": "MATCH",
+  "reason": "publish gate: Pavilion shown with scenic coastal view, representative of attraction",
+  "at": "2026-11-27T07:46:05.399Z"
  },
  "lantau-island-sheung-yiu-folk-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sheung_Yiu_Folk_Museum_02.jpg/1920px-Sheung_Yiu_Folk_Museum_02.jpg": {
   "slug": "lantau-island-sheung-yiu-folk-museum",
@@ -32595,6 +32613,12 @@
   "reasonKo": "레스토랑이 아닌 해변 조각상",
   "at": "2026-08-03T14:36:44.520Z"
  },
+ "san-sebastian-monte-urgull\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/08.06.05_SanSebastian2.JPG/1920px-08.06.05_SanSebastian2.JPG": {
+  "slug": "san-sebastian-monte-urgull",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Monte Urgull hill overlooking San Sebastian beach",
+  "at": "2026-11-27T07:46:05.359Z"
+ },
  "san-sebastian-paseo-de-la-concha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg/1920px-San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg": {
   "slug": "san-sebastian-paseo-de-la-concha",
   "verdict": "MATCH",
@@ -42183,6 +42207,12 @@
   "verdict": "MISMATCH",
   "reason": "Ancient temple, not coffee shop interior/exterior",
   "at": "2026-07-25T02:50:54.988Z"
+ },
+ "yogyakarta-heha-sky-view\u0001https://upload.wikimedia.org/wikipedia/commons/6/6e/HeHa_Sky_View-55.jpg": {
+  "slug": "yogyakarta-heha-sky-view",
+  "verdict": "MATCH",
+  "reason": "publish gate: Scenic overlook view with gondola, matches sky view attraction",
+  "at": "2026-11-27T07:46:05.318Z"
  },
  "yogyakarta-hong-kong-street-foods\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/Hong_Kong_Street_Food.jpg": {
   "slug": "yogyakarta-hong-kong-street-foods",

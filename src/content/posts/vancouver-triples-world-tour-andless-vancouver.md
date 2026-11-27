@@ -1,6 +1,6 @@
 ---
 title: 'tripleS World Tour ANDLESS - Vancouver: Dates, Tickets & Venue (Vancouver)'
-description: tripleS World Tour ANDLESS - Vancouver takes place on November 26, 2026, at The Centre in Vancouver for Performing Arts, 777 Homer Street, downtown Vancouver.
+description: tripleS World Tour ANDLESS - Vancouver was set for November 26, 2026, at The Centre in Vancouver for Performing Arts, 777 Homer Street, downtown Vancouver.
 country: Canada
 region: Vancouver
 category: event
@@ -27,10 +27,10 @@ gallery: []
 tags:
   - vancouver
   - event
-quickAnswer: tripleS World Tour ANDLESS - Vancouver takes place on November 26, 2026, at The Centre in Vancouver for Performing Arts, 777 Homer Street, downtown Vancouver. It is a seated theatre show, a short walk from Stadium–Chinatown and Vancouver City Centre SkyTrain stations. Dates and ticket links for the ANDLESS tour live on tripleS's official channels run by their agency, Modhaus.
+quickAnswer: tripleS World Tour ANDLESS - Vancouver was set for November 26, 2026, at The Centre in Vancouver for Performing Arts, 777 Homer Street, downtown Vancouver. It was announced as a seated theatre show. The venue is a short walk from Stadium–Chinatown and Vancouver City Centre SkyTrain stations. tripleS is managed by the agency Modhaus, which handles the group's ANDLESS tour.
 faq:
   - q: When and where is tripleS ANDLESS in Vancouver?
-    a: It takes place on November 26, 2026, at The Centre in Vancouver for Performing Arts, 777 Homer Street, downtown Vancouver.
+    a: The show was set for November 26, 2026, at The Centre in Vancouver for Performing Arts, 777 Homer Street, downtown Vancouver.
   - q: Which SkyTrain station is closest to The Centre?
     a: Stadium–Chinatown on the Expo Line is about a five-minute walk. Vancouver City Centre on the Canada Line and Granville on the Expo Line are around ten minutes away on foot.
   - q: Is it a standing or seated venue?
@@ -38,16 +38,15 @@ faq:
   - q: Where do fans usually stay and eat?
     a: Most visitors stay in downtown hotels around Robson Street, Yaletown or Granville Street. Robson Street has many Korean and Japanese restaurants within walking distance of the venue.
   - q: Where can I find ticket and tour information?
-    a: Tour dates and ticket links for the ANDLESS World Tour live on tripleS's official channels, run by their agency Modhaus. Venue policies are on The Centre's own website.
+    a: The ANDLESS World Tour is handled by tripleS's agency, Modhaus. The Centre sets its own venue policies, including bag and camera rules.
 aiGenerated: true
 draft: false
 ---
-
 ## The night tripleS plays Homer Street
 
-The date is Thursday, November 26, 2026. The South Korean girl group tripleS brings its 2026 ANDLESS World Tour to The Centre in Vancouver that night, as part of a run of dates across several countries.
+The show was set for Thursday, November 26, 2026. It was the Vancouver stop on the South Korean girl group tripleS's 2026 ANDLESS World Tour, which announced dates across several countries.
 
-tripleS is the 24-member group from the agency Modhaus. Fans shape its units and releases by voting in the Cosmo app with digital photocards called objekts. That fan-voting model explains the crowd you meet in the lobby. Many of these fans have collected and voted for years, and they know exactly which members they came to see.
+tripleS is the 24-member group from the agency Modhaus. Fans shape its units and releases by voting in the Cosmo app with digital photocards called objekts. That fan-voting model shapes the fandom. Many fans have collected and voted for years, and they know exactly which members they follow.
 
 ## Inside The Centre in Vancouver
 
@@ -59,7 +58,7 @@ Inside, seating rises steeply in tiers from the orchestra floor toward a balcony
 - Lightsticks read as one wall of colour from the stage.
 - Fan chants carry in a room this size.
 
-The library's curved colonnade faces the venue's glass front. Fans usually use the plaza for photos and meet-ups before the show.
+The library's curved colonnade faces the venue's glass front. Fans usually use the plaza for photos and meet-ups before shows.
 
 ## Getting to 777 Homer Street
 
@@ -73,10 +72,10 @@ Visitors flying into YVR usually take the Canada Line straight downtown. Most st
 
 ## How WAV fans work the night
 
-tripleS fans call themselves WAV, and the rhythm of a show day follows their habits. Merch lines tend to form well before doors. Freebie trading is common around the library plaza: fan-made photocards, stickers and slogans handed out between fans. Bringing a few of your own to swap is the friendly move.
+tripleS fans call themselves WAV, and a show day follows their habits. Merch lines tend to form well before doors. Freebie trading is common around venue plazas: fan-made photocards, stickers and slogans handed out between fans. Many fans bring a few of their own to swap.
 
-The official lightstick is the standard accessory. Fans who know the fan chants shout them in the gaps of each song, and the room is small enough that newcomers pick them up by the second chorus.
+The official lightstick is the standard accessory. Fans who know the fan chants shout them in the gaps of each song, and in a room this size newcomers pick them up by the second chorus.
 
-After the encore, the crowd spills onto Homer and Georgia Streets. Most head to Stadium–Chinatown station, which gets packed, so locals often walk to Granville or Yaletown–Roundhouse instead. Robson Street has plenty of late Korean and Japanese restaurants for a post-show meal.
+After shows at The Centre, crowds typically spill onto Homer and Georgia Streets. Most head to Stadium–Chinatown station, which gets packed, so locals often walk to Granville or Yaletown–Roundhouse instead. Robson Street has plenty of late Korean and Japanese restaurants for a post-show meal.
 
-Tour dates, ticket links and venue rules for ANDLESS live on tripleS's official channels run by Modhaus. The venue's own site covers bag and camera policies.
+tripleS's tours, including ANDLESS, are handled by Modhaus. The Centre sets its own bag and camera policies.

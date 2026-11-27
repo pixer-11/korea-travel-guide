@@ -42355,5 +42355,89 @@
   "registerBreak": false,
   "worst": "这里人潮通常十分拥挤，原因也不难理解：全国各地的柬埔寨家庭都会来这里观看",
   "at": "2026-11-26T17:57:53.024Z"
+ },
+ "es/central-pmq": {
+  "hash": "17cf506822eb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los fines de semana, a menos que no le importe compartir pasillos estrechos con una multitud, evite llegar entre 1pm y 7",
+  "at": "2026-11-27T07:52:43.344Z"
+ },
+ "es/davao-national-museum-of-the-philippines-davao": {
+  "hash": "084466768924",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al tratarse de una sede regional del Museo Nacional, no espere un recinto inmenso, sino un mu",
+  "at": "2026-11-27T07:52:47.706Z"
+ },
+ "es/lantau-island-scenic-hill-pavilion": {
+  "hash": "8915832af797",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es en fin de semana cuando la colina se llena, al menos para lo que es habitual en un lugar tan",
+  "at": "2026-11-27T07:52:48.609Z"
+ },
+ "ja/central-pmq": {
+  "hash": "b616232fdf48",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "片側が士丹頓（Staunton）棟、もう片側が荷李活（Hollywood）棟で、各階の吹き抜けの外廊下にスタジオがずらりと並んでいます。",
+  "at": "2026-11-27T07:52:49.798Z"
+ },
+ "ja/davao-national-museum-of-the-philippines-davao": {
+  "hash": "a148a128ffc3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "開館時間は今のところシンプルです。",
+  "at": "2026-11-27T07:52:53.796Z"
+ },
+ "ja/lantau-island-scenic-hill-pavilion": {
+  "hash": "0e88c9bb5831",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "世界有数の発着数を誇る空港を無料で一望できるのに、訪れようと考える人がほとんどいない。そこがこの場所の魅力です。",
+  "at": "2026-11-27T07:52:54.998Z"
+ },
+ "ko/central-pmq": {
+  "hash": "cd3f2989f0d9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가게 하나하나는 작아서 금방 보지만, 층수가 많기 때문입니다.",
+  "at": "2026-11-27T07:52:58.535Z"
+ },
+ "ko/davao-national-museum-of-the-philippines-davao": {
+  "hash": "dcf056496da3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "국립박물관 지역 분관들은 대개 그 지역 자체의 이야기를 들려줍니다.",
+  "at": "2026-11-27T07:52:59.466Z"
+ },
+ "ko/lantau-island-scenic-hill-pavilion": {
+  "hash": "69ece6d358e8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-11-27T07:53:00.019Z"
+ },
+ "zh/central-pmq": {
+  "hash": "8b3ceaedcc54",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "除非不介意在窄窄的走廊里和人群挤在一起，否则最好别在这时候来。",
+  "at": "2026-11-27T07:53:04.272Z"
+ },
+ "zh/davao-national-museum-of-the-philippines-davao": {
+  "hash": "d5215b449013",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "根据常规客流规律，BestTime给出的预测一目了然：",
+  "at": "2026-11-27T07:54:18.210Z"
+ },
+ "zh/lantau-island-scenic-hill-pavilion": {
+  "hash": "4ca5c9c3e414",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这个地方不大，网上的评价也寥寥无几。山下经过的人，大多是赶飞机的旅客。",
+  "at": "2026-11-27T07:53:09.702Z"
  }
 }

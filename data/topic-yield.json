@@ -14,15 +14,15 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 193,
-   "hits": 48
+   "attempts": 198,
+   "hits": 51
   },
   "art gallery": {
-   "attempts": 138,
-   "hits": 29
+   "attempts": 144,
+   "hits": 31
   },
   "night view": {
-   "attempts": 123,
+   "attempts": 126,
    "hits": 30
   },
   "waterfront": {
@@ -46,7 +46,7 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 175,
+   "attempts": 182,
    "hits": 27
   },
   "seafood": {
@@ -58,7 +58,7 @@
    "hits": 61
   },
   "breakfast": {
-   "attempts": 73,
+   "attempts": 74,
    "hits": 5
   },
   "trendy cafe": {
@@ -70,7 +70,7 @@
    "hits": 20
   },
   "bakery": {
-   "attempts": 82,
+   "attempts": 83,
    "hits": 6
   },
   "bar": {
@@ -1410,5 +1410,5 @@
    "hits": 0
   }
  },
- "updated": "2026-11-26T07:50:33.674Z"
+ "updated": "2026-11-27T07:46:05.462Z"
 }
