@@ -889,18 +889,11 @@
   "at": "2026-08-15T03:15:39.264Z"
  },
  "es/barcelona-mirador-torre-glories": {
-  "hash": "47af571943f8",
+  "hash": "bc967cc43fc7",
   "score": 1,
   "registerBreak": false,
-  "worst": "la cuadrícula del Eixample extendida como un circuito impreso",
-  "at": "2026-08-15T03:15:40.443Z"
- },
- "es/barcelona-museu-d-art-contemporani-de-barcelona": {
-  "hash": "210eec5b14d9",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "...todavía se lee como un argumento arquitectónico: racional, luminoso, ligerament",
-  "at": "2026-08-15T06:33:34.996Z"
+  "worst": "El trayecto es llano y carece de encanto, pero resulta sencillo combinar ambas visitas.",
+  "at": "2026-11-28T08:00:43.048Z"
  },
  "es/barcelona-museu-nacional-d-art-de-catalunya": {
   "hash": "02ddbe93277f",
@@ -8302,18 +8295,18 @@
   "at": "2026-08-15T02:46:23.934Z"
  },
  "ja/barcelona-mirador-torre-glories": {
-  "hash": "61674b8b2018",
-  "score": 1,
+  "hash": "f28e923c3d37",
+  "score": 0,
   "registerBreak": false,
-  "worst": "何千もの色とりどりのパネルがちりばめられた曲線状のガラス外壁は、時間帯によって光の反射がまったく異なり",
-  "at": "2026-08-15T02:46:25.048Z"
+  "worst": "",
+  "at": "2026-11-28T08:00:49.353Z"
  },
  "ja/barcelona-museu-d-art-contemporani-de-barcelona": {
-  "hash": "1d86dd8951fd",
+  "hash": "79d16c1f4186",
   "score": 1,
   "registerBreak": false,
-  "worst": "内部ではスロープと長いガラス壁が自然光を奥の展示室まで届け、時間帯によってアートの見え方が変わります。",
-  "at": "2026-08-15T02:46:26.080Z"
+  "worst": "少し心をざわつかされる体験が好きな人ほど楽しめる場所です。",
+  "at": "2026-11-28T08:00:51.444Z"
  },
  "ja/barcelona-museu-nacional-d-art-de-catalunya": {
   "hash": "34f2c7832213",
@@ -15610,18 +15603,18 @@
   "at": "2026-09-14T15:43:45.467Z"
  },
  "ko/barcelona-mirador-torre-glories": {
-  "hash": "666166a1a045",
+  "hash": "d2a81f737c74",
   "score": 1,
   "registerBreak": false,
-  "worst": "처음엔 방향감을 잡기가 꽤 어려우니 유용합니다.",
-  "at": "2026-09-14T15:43:47.303Z"
+  "worst": "유리 엘리베이터 안을 LED 무늬가 감싸고 있어, 위로 올라갈수록 무늬가 시시각각 바뀝니다.",
+  "at": "2026-11-28T08:00:55.986Z"
  },
  "ko/barcelona-museu-d-art-contemporani-de-barcelona": {
-  "hash": "d503b7d30b85",
+  "hash": "41602f72aa08",
   "score": 1,
   "registerBreak": false,
-  "worst": "구조는 단순해 보이지만 알고 보면 세심합니다: 경사로가 아트리움을 따라 위로 이어지고",
-  "at": "2026-11-09T08:15:16.183Z"
+  "worst": "점심을 먹고 미술관에 가는, 다른 곳에서라면 흔한 일정보다 훨씬 이릅니다.",
+  "at": "2026-11-28T08:00:56.928Z"
  },
  "ko/barcelona-museu-nacional-d-art-de-catalunya": {
   "hash": "a4fab771c836",
@@ -22666,18 +22659,18 @@
   "at": "2026-08-15T03:44:22.656Z"
  },
  "zh/barcelona-mirador-torre-glories": {
-  "hash": "37d592d744d9",
+  "hash": "5093efba5dad",
   "score": 1,
   "registerBreak": false,
-  "worst": "根据该地点的人流数据显示，工作日晚上8点到10点是人最少的时段。",
-  "at": "2026-08-15T06:47:03.103Z"
+  "worst": "很多初次到访的游客会把这里当成圣家堂和海滩之间顺路一游的小站，这是最常见的误区。",
+  "at": "2026-11-28T08:00:58.850Z"
  },
  "zh/barcelona-museu-d-art-contemporani-de-barcelona": {
-  "hash": "bdda2f1865dd",
+  "hash": "7f015fd27288",
   "score": 1,
   "registerBreak": false,
-  "worst": "大多数首次到访的游客常犯的错误是,周日下午才到,以为能待上一整天——但博物馆下午3点就闭馆了",
-  "at": "2026-08-15T03:44:19.849Z"
+  "worst": "客流情况应当是你规划行程时首先要考虑的因素，而不是事后再想。",
+  "at": "2026-11-28T08:01:03.719Z"
  },
  "zh/barcelona-museu-nacional-d-art-de-catalunya": {
   "hash": "b846295ce25a",
@@ -33985,11 +33978,11 @@
   "at": "2026-10-12T08:08:01.054Z"
  },
  "ko/hong-kong-5-seconds-of-summer-everyone-s-a-star-world-tour": {
-  "hash": "c962b346530d",
+  "hash": "ae8df0d5694f",
   "score": 1,
   "registerBreak": false,
-  "worst": "홍콩은 인파를 매끄럽게 처리하는 도시이지만, 그것도 모두가 규칙을 따를 때의 이야기입니다.",
-  "at": "2026-10-12T08:08:02.423Z"
+  "worst": "이번 공연장을 추측한 목록이 아니라, 홍콩의 주요 대형 공연장을 소개한 것입니다.",
+  "at": "2026-11-28T08:00:57.872Z"
  },
  "ko/hong-kong-central-market": {
   "hash": "29a80f82ae1a",
@@ -42453,5 +42446,26 @@
   "registerBreak": false,
   "worst": "작품 하나의 공연 기간은 3주에 걸친 축제 전체 기간보다 훨씬 짧은 경우가 많습니다.",
   "at": "2026-11-27T17:40:40.898Z"
+ },
+ "es/abu-dhabi-tarkan-live-in-abu-dhabi": {
+  "hash": "5f85c8f07a67",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...las zonas de recogida de los vehículos solicitados por aplicación cercanas al Etihad Arena suelen saturarse...",
+  "at": "2026-11-28T08:00:38.062Z"
+ },
+ "ja/hong-kong-5-seconds-of-summer-everyone-s-a-star-world-tour": {
+  "hash": "563a791b9ef0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "香港は、みんながルールに従っていれば、大勢の人をスムーズにさばける街です。",
+  "at": "2026-11-28T08:00:54.958Z"
+ },
+ "zh/hong-kong-yuuri-hong-kong-concert": {
+  "hash": "571267103a63",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果全场举起手机，多半是歌手允许拍摄的某一首歌。",
+  "at": "2026-11-28T08:01:09.402Z"
  }
 }

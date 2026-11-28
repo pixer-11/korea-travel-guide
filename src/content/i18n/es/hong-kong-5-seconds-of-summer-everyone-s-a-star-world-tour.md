@@ -1,82 +1,78 @@
 ---
 lang: es
 slug: hong-kong-5-seconds-of-summer-everyone-s-a-star-world-tour
-srcHash: '98e21319e67d'
-title: '5 Seconds of Summer en Hong Kong con la gira EVERYONE''S A STAR! World Tour: fecha, entradas y recinto'
-description: Según lo anunciado, la gira EVERYONE'S A STAR! World Tour de 5 Seconds of Summer llega a Hong Kong el 27 de noviembre de 2026.
-quickAnswer: 'Según lo anunciado, la gira EVERYONE''S A STAR! World Tour de 5 Seconds of Summer llega a Hong Kong el 27 de noviembre de 2026. El recinto, los horarios y la venta de entradas figuran en la página oficial de la gira y en la ticketera vinculada desde ella, así que conviene consultarlas antes de comprar en cualquier otro sitio. Planifique con antelación su regreso en el MTR: al terminar los grandes conciertos de Hong Kong, miles de personas suelen dirigirse a la misma estación.'
+srcHash: 'aab098599999'
+title: '5 Seconds of Summer – EVERYONE''S A STAR! World Tour: fechas, entradas y recinto (Hong Kong)'
+description: La gira EVERYONE'S A STAR! World Tour de 5 Seconds of Summer tenía prevista una fecha en Hong Kong el viernes 27 de noviembre de 2026.
+quickAnswer: La gira EVERYONE'S A STAR! World Tour de 5 Seconds of Summer tenía prevista una fecha en Hong Kong el viernes 27 de noviembre de 2026. Las entradas se vendían a través del distribuidor autorizado al que enlazaba la web oficial del grupo. Al terminar los grandes conciertos de Hong Kong, miles de personas suelen dirigirse a la misma estación del MTR, y el metro deja de funcionar hacia la medianoche.
 faq:
-  - q: ¿Cuándo actúa 5 Seconds of Summer en Hong Kong?
-    a: El concierto de la gira EVERYONE'S A STAR! World Tour en Hong Kong está anunciado para el viernes 27 de noviembre de 2026. Confirme la fecha y la hora de inicio en la página oficial de la gira.
-  - q: ¿En qué recinto se celebra el concierto de Hong Kong?
-    a: El recinto aparece en la página oficial de la gira y en su entrada. Entre los grandes espacios de conciertos de Hong Kong se encuentran el Kai Tak Stadium (estación Kai Tak, línea Tuen Ma), el Hong Kong Coliseum (estación Hung Hom) y el AsiaWorld-Arena (estación AsiaWorld-Expo, Airport Express). Cada uno exige una planificación distinta del trayecto.
-  - q: ¿Dónde conviene comprar las entradas?
-    a: En la ticketera enlazada desde la web oficial de 5 Seconds of Summer, donde se publican el precio vigente y el plano de asientos. Evite a los revendedores no oficiales, ya que en los grandes conciertos de Hong Kong circulan entradas falsas.
-  - q: ¿Cómo se vuelve a casa después del concierto?
-    a: El MTR deja de funcionar hacia la medianoche, de modo que antes del concierto conviene consultar en la aplicación del MTR a qué hora sale el último tren desde la estación del recinto. Si lo pierde, le quedan como alternativa los autobuses nocturnos (las líneas que empiezan por N) y los taxis. Tenga en cuenta que en Lantau los taxis son azules.
+  - q: ¿Cuándo tocaba 5 Seconds of Summer en Hong Kong?
+    a: El concierto de la gira EVERYONE'S A STAR! World Tour en Hong Kong estaba fijado para el viernes 27 de noviembre de 2026.
+  - q: ¿En qué recinto era el concierto de Hong Kong?
+    a: Entre los grandes recintos de conciertos de Hong Kong figuran el estadio Kai Tak (Kai Tak Stadium; estación Kai Tak, línea Tuen Ma), el Coliseo de Hong Kong (Hong Kong Coliseum; estación Hung Hom) y el AsiaWorld-Arena (estación AsiaWorld-Expo, Airport Express). Cada uno se encuentra en una zona distinta de la ciudad y tiene su propio trayecto de ida y vuelta.
+  - q: ¿Dónde se compraban las entradas?
+    a: Las entradas se vendían a través del distribuidor enlazado desde la web oficial de 5 Seconds of Summer, donde figuraban el precio y el plano de asientos. En los grandes conciertos de Hong Kong aparecen entradas falsas, sobre todo a través de revendedores no oficiales.
+  - q: ¿Cómo se volvía a casa después del concierto?
+    a: El MTR deja de funcionar hacia la medianoche, y la hora del último tren cambia según la estación. A partir de entonces, las alternativas son los autobuses nocturnos (líneas que empiezan por N) y los taxis. En Lantau circulan taxis azules.
   - q: ¿Qué tiempo hace en Hong Kong a finales de noviembre?
-    a: 'Por lo general es templado y seco: la humedad del verano y la temporada de tifones ya han quedado atrás. Para la noche basta con una prenda ligera de abrigo, sobre todo si el recinto es al aire libre.'
+    a: Suele ser templado y seco, ya sin la humedad del verano ni la temporada de tifones. Para la noche basta con una prenda ligera, sobre todo en un recinto al aire libre.
 ---
 
-## Cuatro australianos un viernes por la noche en Hong Kong
+## Un viernes por la noche en Hong Kong con cuatro australianos
 
-La cita es el 27 de noviembre de 2026. Al caer en viernes, el concierto cierra la semana laboral de una de las ciudades más ajetreadas de Asia. En los andenes del MTR, los oficinistas que vuelven a casa compartirán espacio con seguidores luciendo camisetas del grupo.
+El concierto estaba fijado para el 27 de noviembre de 2026. Era viernes, al cierre de la semana laboral en una de las ciudades más ajetreadas de Asia. Los viernes por la tarde, en los andenes del MTR se mezclan los oficinistas que vuelven a casa con quienes salen a ver un espectáculo.
 
-5 Seconds of Summer nació en Sídney en 2011. La gran oportunidad de Luke Hemmings, Michael Clifford, Calum Hood y Ashton Irwin llegó como teloneros de One Direction. A partir de ahí construyeron un repertorio de pop rock que va de «She Looks So Perfect» a «Youngblood» y «Teeth», pasando por «Amnesia». Con la gira EVERYONE'S A STAR! World Tour vuelven a Hong Kong en esta única fecha anunciada.
+5 Seconds of Summer nació en Sídney en 2011. Luke Hemmings, Michael Clifford, Calum Hood y Ashton Irwin tuvieron su primera gran oportunidad como teloneros de One Direction. Después fueron construyendo un repertorio de pop rock que va de «She Looks So Perfect» y «Amnesia» hasta «Youngblood» y «Teeth». La gira EVERYONE'S A STAR! World Tour anunció una sola noche en Hong Kong.
 
-## Entradas: una sola vía oficial
+## Entradas: una única vía oficial
 
-Compre las entradas a través del canal que enlaza el propio grupo. En la web oficial de 5 Seconds of Summer figuran las fechas de la gira, y cada una remite a su vendedor autorizado. Ese es el único enlace que merece la pena seguir.
+Las entradas se vendían a través del distribuidor autorizado al que enlazaba la web oficial de 5 Seconds of Summer. Ese enlace era la única vía oficial para conseguir entradas para la fecha de Hong Kong.
 
-En Hong Kong abundan los anuncios de reventa y los vendedores en redes sociales para cualquier concierto en un gran recinto, y con ellos llegan las falsificaciones. Unas cuantas costumbres le mantendrán a salvo:
+En Hong Kong abundan los anuncios de reventa y los vendedores en redes sociales para cualquier concierto en un gran recinto, y con ellos llegan las falsificaciones. En los grandes espectáculos de la ciudad se cumplen algunas pautas:
 
-- **Parta siempre de la web del grupo** y acceda desde ahí a la ticketera. No busque entradas por su cuenta.
-- **Lea las condiciones de acceso** en la página de venta, donde se detallan la verificación de identidad, las normas de transferencia y la política sobre bolsos.
-- **Guarde una captura de la confirmación** en el móvil. Cerca de un recinto abarrotado, la cobertura puede fallar.
+- **Los vendedores oficiales están enlazados desde la propia web del grupo.** Las entradas que aparecen en una búsqueda aparte suelen proceder de revendedores.
+- **Las condiciones de acceso suelen figurar en la página de la entrada**: controles de identidad, normas de transferencia y política sobre bolsos.
+- **La cobertura móvil cerca de un recinto abarrotado puede fallar**, de modo que tener la confirmación guardada en el teléfono resulta práctico en la puerta.
 
-Los horarios, los planos de asientos y los detalles de las entradas deben confirmarse en la web oficial. No haga caso de las cifras que circulen por otros medios.
+## Qué recinto podía ser
 
-## Cómo identificar el recinto
+El recinto condiciona toda la velada. Los grandes espacios de conciertos de Hong Kong están muy alejados entre sí, y a cada uno se llega y se sale por un camino distinto.
 
-Antes de organizar cualquier otra cosa, consulte en la página de la gira el nombre del recinto. Toda la noche depende de la zona de la ciudad a la que tenga que desplazarse, porque los grandes espacios de conciertos de Hong Kong están muy alejados entre sí y cada uno requiere su propio plan.
+Para un artista internacional de este tamaño, los candidatos habituales son estos:
 
-Para un artista internacional de esta envergadura, los candidatos habituales son:
+- **Estadio Kai Tak (Kai Tak Stadium)**, que forma parte del Kai Tak Sports Park, levantado en Kowloon sobre el terreno del antiguo aeropuerto. La parada más cercana es la estación Kai Tak, en la línea Tuen Ma.
+- **Coliseo de Hong Kong (Hong Kong Coliseum)**, en Hung Hom: es el pabellón con forma de pirámide invertida situado junto a la estación de Hung Hom, por la que pasan las líneas East Rail y Tuen Ma.
+- **AsiaWorld-Arena**, dentro del AsiaWorld-Expo, en la isla de Lantau y al lado del aeropuerto. Cuenta con parada propia al final del Airport Express.
 
-- **Kai Tak Stadium**, dentro del complejo deportivo Kai Tak Sports Park, que ocupa el solar del antiguo aeropuerto en Kowloon. La parada más cercana es la estación Kai Tak, en la línea Tuen Ma.
-- **Hong Kong Coliseum**, el pabellón en forma de pirámide invertida de Hung Hom, junto a la estación del mismo nombre. A esta estación llegan las líneas East Rail y Tuen Ma.
-- **AsiaWorld-Arena**, en el AsiaWorld-Expo de Lantau, al lado del aeropuerto. Tiene parada propia al final del Airport Express.
-
-Se trata de los principales escenarios de grandes conciertos de la ciudad, no de una suposición sobre este concierto en concreto. Guíese por el nombre que aparezca impreso en su entrada.
+Son los principales escenarios de la ciudad para grandes conciertos; la lista no pretende adivinar dónde se programó esta fecha.
 
 ## El problema del último tren
 
-Este es el contratiempo que más sorprende a los visitantes en los conciertos de Hong Kong. El MTR deja de circular hacia la medianoche y no vuelve a funcionar hasta la mañana siguiente. Si el bis se alarga y la salida del recinto es lenta, puede encontrarse con la estación cerrada.
+Este es el inconveniente de los conciertos en Hong Kong que pilla desprevenidos a los visitantes. El MTR deja de funcionar hacia la medianoche y no vuelve a arrancar hasta la mañana. Un bis tardío seguido de una salida lenta del recinto puede dejar al público ante una estación cerrada.
 
-El riesgo varía según el recinto. En Kowloon, perder el último tren no suele suponer más que hacer cola para un taxi y un trayecto corto. Con el AsiaWorld-Expo la cosa cambia: está en Lantau, junto al aeropuerto, y la forma más cómoda de regresar a Kowloon o a Central es el Airport Express. El mismo día del concierto, consulte en la web o la aplicación del MTR la hora de la última salida desde su estación.
+El riesgo depende del recinto. En Kowloon, perder el último tren suele suponer simplemente una cola de taxis y un trayecto corto. El AsiaWorld-Expo es otra historia: queda apartado en Lantau, junto al aeropuerto, y el Airport Express es la forma cómoda de volver a Kowloon o a Central. En la web y la aplicación del MTR figura la última salida de cada estación.
 
-Los autobuses nocturnos cubren los huecos, y las líneas que empiezan por «N» circulan de madrugada. Los taxis rojos dan servicio a las zonas urbanas, los verdes a los Nuevos Territorios y los azules a Lantau. Ese código de colores es importante cuando se vuelve desde la zona del aeropuerto.
+Los autobuses nocturnos cubren los huecos, y las líneas que empiezan por «N» funcionan de madrugada. Los taxis rojos dan servicio a las zonas urbanas, los verdes a los Nuevos Territorios y los azules a Lantau, un código de colores que importa al regresar desde la zona del aeropuerto.
 
-## Volver en el MTR después del bis
+## Volver a casa en el MTR después del bis
 
-Hong Kong gestiona muy bien las multitudes, siempre que todo el mundo respete el sistema. Así es como se sale de un gran concierto sin agobios:
+Hong Kong gestiona bien las multitudes, siempre que todo el mundo respete el sistema. Así es como suele vaciarse sin agobios un gran concierto:
 
-- **Recargue la tarjeta Octopus antes del concierto.** Ponerse a recargarla en una máquina mientras el estadio entero se vacía a la vez es un error que solo se comete una vez. Además, muchos tornos admiten tarjetas bancarias sin contacto, lo que le ahorra ese paso por completo.
-- **Colóquese a la derecha y camine por la izquierda** en las escaleras mecánicas. Aquí se toma muy en serio, y en las largas escaleras de las estaciones mantiene el flujo de gente.
-- **Siga las indicaciones del personal.** Tras los grandes eventos, los empleados suelen dirigir al público hacia determinados accesos de la estación o retenerlo por tandas. Si va a contracorriente, tardará más en salir.
-- **No coma ni beba** dentro de la zona de pago del MTR. La norma está señalizada y se hace cumplir, así que termine su bebida antes de cruzar los tornos.
+- **Las tarjetas Octopus se recargan en las máquinas de las estaciones**, que acumulan largas colas cuando un estadio entero sale a la vez. Muchos tornos aceptan también tarjetas bancarias sin contacto, lo que permite saltarse ese paso por completo.
+- **En las escaleras mecánicas, a la derecha quien se queda quieto y a la izquierda quien camina.** Aquí se toma en serio, y en las largas escaleras de las estaciones mantiene el flujo de gente.
+- **El personal de seguridad dirige la circulación.** Tras los grandes eventos, los empleados suelen encaminar al público hacia accesos concretos o retenerlo por tandas, y empujar en sentido contrario solo lo ralentiza todo.
+- **Está prohibido comer y beber** en la zona de pago del MTR. La norma está señalizada y se hace cumplir.
 
-Dentro del recinto rigen las costumbres habituales de los pabellones de Hong Kong. Debe ocupar el asiento que figura en su entrada, y el personal le hará volver a él. Las cámaras profesionales suelen estar prohibidas, aunque los móviles se permiten. La política sobre bolsos aparece en la página de venta, de modo que conviene leerla antes de preparar la mochila.
+Dentro de los recintos de Hong Kong rigen las costumbres habituales. Cada uno ocupa el asiento impreso en su entrada, y el personal se encarga de devolver a su sitio a quien se mueva. Las cámaras profesionales suelen estar prohibidas, aunque los teléfonos no plantean problema. La política sobre bolsos suele figurar en la página de la entrada.
 
 ## Cómo es Hong Kong a finales de noviembre
 
-Finales de noviembre es una de las épocas más agradables para visitar Hong Kong. Ya no queda rastro de la humedad del verano, la temporada de tifones ha terminado y las noches son templadas y, por lo general, secas. Una prenda ligera de abrigo resulta útil, sobre todo si el concierto es al aire libre en Kai Tak o si toca esperar en un andén descubierto.
+Finales de noviembre es una de las épocas más agradables para estar en Hong Kong. La humedad del verano ya ha desaparecido, la temporada de tifones ha terminado y las noches son templadas y, por lo general, secas. Una prenda ligera viene bien, sobre todo al aire libre en Kai Tak o en un andén descubierto.
 
-Ese buen tiempo explica también que la ciudad esté tan concurrida en esas fechas. Los hoteles se llenan con conciertos, congresos y viajeros de toda la región, así que reserve habitación en cuanto tenga la entrada. Si el recinto está en Kowloon, alojarse en Tsim Sha Tsui, Jordan o Hung Hom le acortará el regreso.
+Ese buen tiempo explica también que la ciudad esté tan concurrida en esas fechas. Los hoteles se llenan con conciertos, congresos y viajeros de la región. Para un recinto de Kowloon, alojarse en Tsim Sha Tsui, Jordan o Hung Hom acorta el regreso.
 
 ## Aprovechar el fin de semana
 
-Un concierto en viernes deja libre todo el fin de semana. Si la actuación es en Kowloon, el paseo marítimo de Tsim Sha Tsui y la Avenida de las Estrellas (Avenue of Stars) quedan a un agradable paseo o a un trayecto corto desde Hung Hom. Desde allí, el Star Ferry cruza a Central: es la forma clásica de contemplar el puerto.
+Un concierto en viernes precede a un fin de semana libre. En Kowloon, el paseo marítimo de Tsim Sha Tsui y la Avenida de las Estrellas (Avenue of Stars) quedan a un paseo o a un trayecto corto desde Hung Hom. Desde allí, el Star Ferry cruza hasta Central: es la manera clásica de contemplar el puerto.
 
-Antes del concierto, un cha chaan teng ofrece una comida rápida y contundente para aguantar toda la noche de pie. Son cafeterías de estilo hongkonés que sirven té con leche, bollos de piña y sopa de macarrones, y las encontrará por todo Kowloon. Si, en cambio, el concierto es en el AsiaWorld-Expo, el teleférico Ngong Ping 360 y el Buda Tian Tan están en la misma isla, lo que convierte un sábado en Lantau en un plan sencillo.
-
-Antes de cerrar ningún plan, compruebe la fecha, el recinto y los detalles de las entradas en la web oficial de 5 Seconds of Summer.
+Antes de una velada de pie, un cha chaan teng ofrece una comida rápida y contundente. Son cafeterías al estilo de Hong Kong que sirven té con leche, bollos de piña y sopa de macarrones, y se encuentran por todo Kowloon. Cerca del AsiaWorld-Expo, en la misma isla, están el teleférico Ngong Ping 360 y el Buda Tian Tan, lo que convierte Lantau en un plan sencillo para el sábado.

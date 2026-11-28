@@ -14,16 +14,16 @@
    "hits": 80
   },
   "viewpoint": {
-   "attempts": 198,
+   "attempts": 200,
    "hits": 51
   },
   "art gallery": {
-   "attempts": 144,
+   "attempts": 147,
    "hits": 31
   },
   "night view": {
-   "attempts": 126,
-   "hits": 30
+   "attempts": 132,
+   "hits": 33
   },
   "waterfront": {
    "attempts": 64,
@@ -34,7 +34,7 @@
    "hits": 53
   },
   "noodles": {
-   "attempts": 80,
+   "attempts": 81,
    "hits": 3
   },
   "old quarter": {
@@ -46,8 +46,8 @@
    "hits": 45
   },
   "bookshop": {
-   "attempts": 182,
-   "hits": 27
+   "attempts": 188,
+   "hits": 29
   },
   "seafood": {
    "attempts": 99,
@@ -74,7 +74,7 @@
    "hits": 6
   },
   "bar": {
-   "attempts": 64,
+   "attempts": 65,
    "hits": 0
   },
   "vegetarian": {
@@ -1410,5 +1410,5 @@
    "hits": 0
   }
  },
- "updated": "2026-11-27T07:46:05.462Z"
+ "updated": "2026-11-28T07:44:49.075Z"
 }

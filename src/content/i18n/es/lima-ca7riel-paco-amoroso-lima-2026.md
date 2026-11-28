@@ -1,64 +1,64 @@
 ---
 lang: es
 slug: lima-ca7riel-paco-amoroso-lima-2026
-srcHash: '32499a5f0316'
-title: 'CA7RIEL & Paco Amoroso en Lima 2026: fecha, entradas y recinto (Lima)'
-description: La cita de CA7RIEL & Paco Amoroso en Lima es el 27 de noviembre de 2026 en el Multiespacio Costa 21, el recinto de conciertos al aire libre situado frente al mar de la Costa Verde, en San Miguel (Lima).
-quickAnswer: La cita de CA7RIEL & Paco Amoroso en Lima es el 27 de noviembre de 2026 en el Multiespacio Costa 21, el recinto de conciertos al aire libre situado frente al mar de la Costa Verde, en San Miguel (Lima). La mayoría del público se aloja en Miraflores, Barranco o San Miguel y llega en taxi o con una aplicación de transporte por la vía costera. Las entradas se venden en la plataforma autorizada del promotor; las reventas que se ofrecen en redes sociales son el origen habitual de las entradas falsas.
+srcHash: '3434fb7d1ed0'
+title: 'CA7RIEL & Paco Amoroso en Lima 2026: fechas, entradas y recinto (Lima)'
+description: El dúo CA7RIEL & Paco Amoroso tenía previsto actuar el 27 de noviembre de 2026 en el Multiespacio Costa 21. Es un recinto al aire libre situado frente al mar, en la Costa Verde limeña, dentro del distrito de San Miguel.
+quickAnswer: La fecha anunciada para CA7RIEL & Paco Amoroso Lima 2026 era el 27 de noviembre de 2026. El escenario era el Multiespacio Costa 21, el recinto de conciertos al aire libre de la Costa Verde, en San Miguel (Lima). Quienes van a Costa 21 suelen alojarse en Miraflores, Barranco o San Miguel y llegan en taxi o con una aplicación de transporte por la vía costera. Las entradas se vendieron a través de la plataforma autorizada de la promotora. En Lima, casi todas las entradas falsas proceden de reventas ofrecidas en redes sociales.
 faq:
-  - q: ¿Cuándo y dónde actúan CA7RIEL & Paco Amoroso en Lima?
-    a: Su concierto es el 27 de noviembre de 2026 en el Multiespacio Costa 21, un recinto al aire libre junto al mar, en el Circuito de Playas de San Miguel (Lima).
+  - q: ¿Cuándo y dónde era el concierto de CA7RIEL & Paco Amoroso en Lima?
+    a: La fecha anunciada era el 27 de noviembre de 2026, en el Multiespacio Costa 21. Se trata de un recinto al aire libre situado en el Circuito de Playas, frente al mar, en el distrito limeño de San Miguel.
   - q: ¿Cómo se llega a Costa 21?
-    a: La mayoría de los asistentes llega en taxi o con una aplicación de transporte (Uber, Cabify, inDrive) por la vía costera desde Miraflores, Barranco o San Miguel. Los conductores identifican el recinto simplemente como «Costa 21».
-  - q: ¿Dónde se venden las entradas?
-    a: En la plataforma de venta autorizada por el promotor del concierto, que también detalla las zonas y sus precios. En Lima, las reventas ofrecidas en redes sociales son la fuente más frecuente de entradas falsas.
-  - q: ¿Qué ropa conviene llevar a un concierto al aire libre en Costa 21 en noviembre?
-    a: A finales de noviembre es primavera en Lima, pero junto al océano las noches son frescas y húmedas. Casi todo el público lleva una chaqueta ligera o una sudadera con capucha, además de calzado cómodo para pasar horas de pie sobre un terreno llano y despejado.
+    a: Desde Miraflores, Barranco o San Miguel, la mayoría de los asistentes va por la vía costera en taxi o con una aplicación de transporte (Uber, Cabify o inDrive). Los conductores conocen el lugar como «Costa 21».
+  - q: ¿Dónde se vendían las entradas?
+    a: Las entradas se vendieron en la plataforma autorizada por la promotora del concierto, con un precio distinto para cada zona. En Lima, las reventas ofrecidas en redes sociales son la fuente más común de entradas falsas.
+  - q: ¿Qué ropa convenía llevar a un concierto al aire libre en Costa 21 en noviembre?
+    a: A finales de noviembre es primavera en Lima, pero junto al océano las noches son frescas y húmedas. El público de Costa 21 suele llevar una chaqueta ligera o una sudadera con capucha y calzado cómodo para estar de pie en un terreno llano y abierto.
   - q: ¿Dónde alojarse para el concierto?
-    a: Miraflores y Barranco son las bases habituales de los visitantes y cuentan con bares y restaurantes que abren hasta tarde. San Miguel y Magdalena quedan más cerca del recinto, una buena opción para quien prefiera un trayecto de vuelta corto.
+    a: Miraflores y Barranco son los barrios donde suelen alojarse los visitantes, y en ambos hay sitios para comer y beber hasta tarde. San Miguel y Magdalena quedan más cerca del recinto, así que la vuelta es más corta.
 ---
 
 ## Dos amigos de Buenos Aires y una noche frente al Pacífico
 
-Imagine un escenario montado sobre un terreno llano a orillas del océano y, a espaldas del público, los oscuros acantilados de la Costa Verde limeña. Ese es el marco del concierto que el dúo argentino CA7RIEL & Paco Amoroso ofrece en el **Multiespacio Costa 21** el **27 de noviembre de 2026**.
+Imagine un escenario montado sobre un terreno llano junto al océano, con los oscuros acantilados de la Costa Verde limeña al fondo. Ese era el marco previsto para el dúo argentino CA7RIEL & Paco Amoroso en el **Multiespacio Costa 21** el **27 de noviembre de 2026**.
 
-Catriel y Paco son amigos desde la infancia y se formaron en la escena del rap y el trap de Buenos Aires. Su sonido nunca se queda quieto: mezcla líneas de bajo funk, baterías de trap y guitarras de rock con mucho humor absurdo y vestuario llamativo. Su actuación en el Tiny Desk de NPR, en 2024, los dio a conocer mucho más allá de Argentina. El público espera un espectáculo desenfadado y teatral, en el que la puesta en escena pesa tanto como la música.
+Catriel y Paco son amigos desde la infancia y se hicieron un nombre en la escena del rap y el trap de Buenos Aires. Su sonido nunca se queda quieto. Mezcla bajos de funk, baterías de trap y guitarras de rock con abundante humor absurdo y mucho vestuario. En 2024, su actuación en el Tiny Desk de NPR los dio a conocer mucho más allá de Argentina. Sus conciertos tienen fama de ser desenfadados y teatrales, y en ellos la puesta en escena pesa tanto como la música.
 
 ## Costa 21: cómo es el recinto
 
-Costa 21 es un espacio para eventos al aire libre del distrito de San Miguel. Se encuentra en el Circuito de Playas, la vía costera que discurre al pie de los acantilados de Lima. No tiene techo. El Pacífico está a pocos pasos de la valla y la brisa marina barre todo el terreno.
+Costa 21 es un espacio para eventos al aire libre en el distrito de San Miguel. Se encuentra en el Circuito de Playas, la vía costera que discurre al pie de los acantilados de Lima. No tiene techo. El Pacífico queda a pocos pasos de la valla y la brisa marina atraviesa el terreno sin obstáculos.
 
-Esto influye a la hora de elegir la ropa. A finales de noviembre es primavera en Lima y los días ya empiezan a ser cálidos. Aun así, por la noche el malecón resulta fresco y húmedo. La mayoría de los asistentes lleva una chaqueta ligera o una sudadera con capucha que pueda atarse a la cintura cuando el ambiente se caldea.
+Por eso conviene pensar en la ropa. A finales de noviembre es primavera en Lima y los días empiezan a ser más cálidos. Aun así, al caer la tarde, junto al mar se nota el fresco y la humedad. El público de estos conciertos suele llevar una chaqueta ligera o una sudadera con capucha, que acaba atada a la cintura cuando el ambiente se caldea.
 
-- **Terreno:** llano y despejado, casi todo de pie
+- **Terreno:** llano y abierto, con público mayoritariamente de pie
 - **Telón de fondo:** a un lado, los acantilados de la Costa Verde; al otro, el océano
-- **Ubicación:** abajo, en la vía costera, por debajo de los barrios situados en lo alto del acantilado
+- **Ubicación:** abajo, junto a la vía costera, al pie de los barrios que coronan el acantilado
 
 ## Cómo bajar hasta el mar
 
-Costa 21 no está en el centro de ningún barrio, sino en la vía costera, así que nadie llega dando un paseo. Casi todo el público utiliza un taxi o una aplicación de transporte; en Lima son habituales Uber, Cabify e inDrive. Desde Miraflores, el trayecto sigue el Circuito de Playas hacia el norte, siempre junto al agua. Con poco tráfico, el recorrido es corto, aunque un viernes por la noche en Lima rara vez hay poco tráfico.
+Costa 21 no está en el centro de ningún barrio, sino en la vía costera, de modo que nadie llega dando un paseo. La mayoría del público recurre a un taxi o a una aplicación de transporte; en Lima son habituales Uber, Cabify e inDrive. Desde Miraflores, el trayecto sigue el Circuito de Playas hacia el norte, bordeando el agua. Con poco tráfico se tarda poco. Pero un viernes por la noche, el tráfico limeño rara vez es fluido.
 
-Desde San Miguel y Magdalena el viaje es más breve: basta con bajar por alguna de las vías que descienden del acantilado a la orilla. Los grupos suelen compartir un mismo coche y dividir el importe en la aplicación. Como los conductores conocen el recinto por su nombre, lo práctico es indicar «Costa 21» como destino en lugar de escribir una dirección.
+Desde San Miguel y Magdalena el viaje es más corto: basta con bajar por alguna de las vías que descienden del acantilado hasta la orilla. Los grupos suelen compartir un mismo coche y dividir el importe en la aplicación. Los conductores conocen el lugar como «Costa 21», así que los pasajeros suelen indicar ese nombre como destino en lugar de escribir una dirección.
 
-## Entradas y dónde consultar la información
+## Entradas e información
 
-La venta de entradas para este concierto corre a cargo de la plataforma autorizada por el promotor. En sus canales figuran las zonas, con asiento o de pie, y la información de acceso. Esta guía no recoge los precios porque no disponemos de ellos; la página de venta los detalla por zona.
+Las entradas para este concierto se vendieron a través de la plataforma de venta autorizada por la promotora. Casi todas las zonas eran para público de pie y cada una tenía su propio precio.
 
-En los grandes conciertos de Lima abundan las entradas falsas o duplicadas, y la mayoría circula a través de publicaciones de reventa en redes sociales. Los aficionados peruanos suelen limitarse a la plataforma oficial o a su sistema autorizado de transferencia. Quien compra a un desconocido no cuenta con ninguna protección.
+En los grandes conciertos de Lima abundan las entradas falsas o duplicadas, y la mayoría circula en publicaciones de reventa en redes sociales. Los aficionados peruanos suelen limitarse a la plataforma oficial o a su sistema autorizado de transferencias. Quien compra a un desconocido no cuenta con ninguna protección.
 
 ## La vuelta desde la Costa Verde
 
-Lo más complicado de la noche llega después del bis. Miles de personas abandonan a la vez un recinto junto al mar y todos los teléfonos piden un coche al mismo tiempo. Así suele resolverlo el público limeño:
+Lo más complicado de una noche en Costa 21 llega después del bis. Miles de personas abandonan a la vez un recinto junto al mar y todos los teléfonos piden coche al mismo tiempo. Así suelen resolverlo los asistentes limeños:
 
-- **Alejarse primero de la puerta.** Los limeños acostumbran a caminar un poco por la vía de acceso antes de pedir el coche, lo que evita al conductor el atasco de la entrada.
-- **Preferir las aplicaciones a los taxis de la calle.** De noche, en Lima lo habitual es viajar con aplicación, que registra la ruta y la matrícula.
-- **Pagar por medios digitales.** Los peruanos se pagan entre sí con Yape y Plin. Los visitantes que no los tienen suelen pagar con tarjeta en la aplicación de transporte y llevan algunos billetes pequeños en soles para los puestos de comida de la salida.
-- **Guardar el móvil en un bolsillo delantero.** Entre la multitud, los limeños mantienen el teléfono guardado y con la cremallera cerrada entre canción y canción, nunca asomando por el bolsillo trasero.
+- **Alejarse primero de la puerta.** Antes de pedir un coche, la gente del lugar suele caminar un trecho por la vía de acceso. Así el conductor se libra del atasco de la entrada.
+- **Aplicaciones antes que taxis de la calle.** De noche, en Lima lo habitual es viajar con una aplicación que registra la ruta y la matrícula del vehículo.
+- **Pagos digitales.** Entre peruanos se paga con Yape y Plin. Los visitantes que no disponen de ellas suelen pagar con tarjeta en la aplicación de transporte y llevan algunos billetes pequeños en soles para los puestos de comida de los alrededores.
+- **El móvil en el bolsillo delantero.** Entre la multitud, los limeños guardan el teléfono en un bolsillo con cremallera entre canción y canción y nunca lo dejan asomando por el bolsillo trasero.
 
-También ayuda saber algo de español. «¿Me puedes recoger en la salida?» es un mensaje útil para enviar al conductor.
+Saber algo de español también ayuda. Un mensaje útil para el conductor es «¿Me puedes recoger en la salida?».
 
-## Cómo aprovechar la noche en Lima
+## Aprovechar la noche en Lima
 
-La mayoría de los visitantes extranjeros se aloja en **Miraflores** o en **Barranco**. Desde ambos barrios se llega al recinto por la costa, y en los dos hay restaurantes abiertos después del concierto. Los bares de Barranco, en torno al Puente de los Suspiros, cierran tarde los viernes. Miraflores cuenta con el Malecón, en lo alto del acantilado, por donde a la mañana siguiente apetece pasear junto al Parque del Amor.
+La mayoría de los visitantes extranjeros se aloja en **Miraflores** o **Barranco**. Desde ambos barrios se llega al recinto en coche por la costa, y los dos tienen restaurantes que cierran tarde. Los viernes, los bares de Barranco que rodean el Puente de los Suspiros siguen abiertos hasta tarde. En Miraflores, el Malecón recorre lo alto del acantilado y pasa junto al Parque del Amor, un paseo tranquilo para la mañana.
 
-Para quien prefiera un trayecto de vuelta corto, San Miguel tiene ventaja. Muy cerca, en lo alto del acantilado, se encuentra el gran centro comercial Plaza San Miguel. Sea cual sea el barrio elegido, conviene organizar el viernes teniendo en cuenta lo lento que es el tráfico limeño al anochecer. Un almuerzo en una cevichería, ya que en Lima el ceviche se toma tradicionalmente de día, es una buena forma de empezar la jornada del concierto.
+San Miguel tiene la ventaja de que la vuelta es corta. Muy cerca, en lo alto del acantilado, está Plaza San Miguel, un gran centro comercial. Sea cual sea el barrio, el lento tráfico vespertino de Lima condiciona cualquier salida de viernes. Un buen comienzo para el día del concierto es almorzar en una cevichería, ya que en Lima el ceviche se come tradicionalmente a mediodía.

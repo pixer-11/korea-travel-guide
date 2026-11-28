@@ -1,68 +1,70 @@
 ---
 lang: es
 slug: barcelona-mirador-torre-glories
-srcHash: 'cdabe8e54215'
-title: 'Mirador Torre Glòries: Guía de viaje de Barcelona (4,5★)'
-description: 'El Mirador Torre Glòries es el mirador más nuevo de Barcelona, a 125 metros de altura dentro de la reluciente torre en forma de bala de Jean Nouvel, en la Avinguda Diagonal. 4,6★ (5.461 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Mirador Torre Glòries es el mirador más nuevo de Barcelona, a 125 metros de altura dentro de la reluciente torre en forma de bala de Jean Nouvel, en la Avinguda Diagonal. Abre todos los días de 10:00 a 22:00, y el momento más tranquilo es entre las 20:00 y las 22:00 entre semana, cuando empiezan a encenderse las luces de la ciudad. Reserva una entrada con hora online para evitar la cola en la planta baja.
+srcHash: 'f0f175fce02a'
+title: 'Mirador Torre Glòries: guía de viaje de Barcelona (4.6★)'
+description: 'El Mirador Torre Glòries, el observatorio más reciente de Barcelona, se encuentra a 125 metros de altura en la reluciente torre con forma de bala que Jean Nouvel levantó en la Avinguda Diagonal. Valoración de 4.6★ (5,461 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: Inaugurado hace poco, el Mirador Torre Glòries es el observatorio más reciente de Barcelona y se sitúa a 125 metros de altura en la reluciente torre con forma de bala que Jean Nouvel diseñó en la Avinguda Diagonal. Abre todos los días de 10am a 10pm. Las horas más tranquilas son, entre semana, de 8pm a 10pm, justo cuando empiezan a encenderse las luces de la ciudad. Si reserva en línea una entrada con hora asignada, se ahorrará la cola de la planta baja.
 faq:
-  - q: ¿Cuál es el horario de apertura del Mirador Torre Glòries?
-    a: Abre todos los días de la semana, de 10:00 a 22:00, sin horario reducido indicado para ningún día en particular.
-  - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana, de 20:00 a 22:00, es cuando hay menos afluencia. Los fines de semana se mantiene concurrido durante todo el horario de 10:00 a 22:00, así que no hay una franja tranquila de fin de semana.
+  - q: ¿Cuál es el horario del Mirador Torre Glòries?
+    a: Abre los siete días de la semana, de 10am a 10pm, y no figura ningún día con horario reducido.
+  - q: ¿Cuándo hay menos gente?
+    a: La afluencia más baja se registra entre semana, de 8pm a 10pm. Los fines de semana hay mucho movimiento durante toda la franja de 10am a 10pm, de modo que no existe un momento tranquilo en sábado o domingo.
   - q: ¿Cómo se llega en transporte público?
-    a: Toma la Línea 1 de Metro hasta la estación Glòries, a unos dos minutos a pie, o los tranvías T4/T5, que paran directamente en Glòries.
-  - q: ¿Cuánto tiempo debería planear pasar allí?
-    a: La mayoría de los visitantes pasan entre 45 minutos y una hora, más si se coordina con la puesta de sol o las luces nocturnas.
-  - q: ¿Debería reservar las entradas con antelación?
-    a: 'Sí: reservar una franja horaria online es la práctica habitual y evita la espera en la cola de la planta baja.'
+    a: Puede tomar la Línea 1 del metro hasta la estación de Glòries, a unos dos minutos a pie, o bien los tranvías T4 y T5, que paran justo en Glòries.
+  - q: ¿Cuánto tiempo conviene reservar para la visita?
+    a: La mayoría de los visitantes dedica entre 45 minutos y una hora, aunque la estancia se alarga si se hace coincidir con la puesta de sol o con el encendido de las luces.
+  - q: ¿Es recomendable comprar las entradas con antelación?
+    a: Sí. Lo habitual es reservar en línea una entrada con hora asignada, lo que evita esperar en la cola de la planta baja.
 ---
 
 ## Por qué ir
 
-Ves la torre mucho antes de llegar a ella. Su piel curva de vidrio, salpicada de miles de paneles de colores, capta la luz de forma distinta a cada hora del día: un plateado apagado al mediodía, un resplandor azul violáceo profundo al caer la noche. El Mirador Torre Glòries te sitúa en una plataforma al aire libre cerca de la cima de esa piel, a 125 metros sobre la Plaça de les Glòries Catalanes, con una vista de 360 grados que abarca las agujas de la Sagrada Família, el Mediterráneo y la cuadrícula del Eixample extendida como un circuito impreso.
+La torre se divisa mucho antes de llegar a ella. Su piel de vidrio curvo, salpicada de miles de paneles de colores, refleja la luz de manera distinta a cada hora: a mediodía adquiere un tono plateado y apagado, y al caer la noche se tiñe de un intenso resplandor azul violáceo. El Mirador Torre Glòries le sitúa en una terraza al aire libre, cerca de la cima de esa piel y a 125 metros sobre la Plaça de les Glòries Catalanes.
+
+Desde allí, la panorámica de 360 grados abarca las torres de la Sagrada Família, el Mediterráneo y la cuadrícula del Eixample, que se extiende a sus pies como un circuito impreso.
 
 ## Cómo llegar
 
-La torre se encuentra en la Avinguda Diagonal, en Sant Martí, en el extremo oriental del Eixample. El metro más cercano es Glòries, en la Línea 1 (roja), a dos minutos a pie de la entrada. Los tranvías T4 y T5 también paran justo en Glòries si vienes desde Poblenou o el Fòrum.
+La torre se alza en la Avinguda Diagonal, en el distrito de Sant Martí, en el límite oriental del Eixample. La estación de metro más próxima es Glòries, de la Línea 1 (roja), a dos minutos a pie de la entrada. Quienes vengan del Poblenou o del Fòrum pueden tomar también los tranvías T4 y T5, que paran justo en Glòries.
 
-Si caminas desde la Sagrada Família, es un paseo llano y poco vistoso de 20 minutos por la Avinguda Diagonal; no es pintoresco, pero es fácil de combinar con una visita a ese otro emblemático edificio.
+Desde la Sagrada Família se llega caminando en unos 20 minutos por la Avinguda Diagonal. El trayecto es llano y carece de encanto, pero resulta sencillo combinar ambas visitas.
 
-## Qué verás arriba
+## Qué verá desde arriba
 
-La subida ya forma parte del espectáculo: un ascensor de cristal recubierto de patrones LED que cambian mientras subes. Arriba, la plataforma rodea la corona cónica de la torre, abierta al cielo en algunos tramos y protegida por cristal en otros.
+La subida ya forma parte del espectáculo: un ascensor de cristal revestido de motivos LED que cambian a medida que se asciende. Arriba, la terraza rodea la corona afilada de la torre; algunos tramos quedan abiertos al cielo y otros están protegidos por cristal.
 
-Unos paneles a lo largo de la barandilla te ayudan a identificar los puntos de interés, algo útil, porque la vista resulta realmente desorientadora al principio. Busca:
+A lo largo de la barandilla hay paneles que ayudan a identificar los puntos de interés, algo muy útil, porque al principio la vista desorienta de verdad. Busque:
 
-- Las grúas y agujas de la Sagrada Família al noroeste
-- El Mediterráneo y las torres del Port Olímpic al sureste
-- La montaña y el castillo de Montjuïc al otro lado de la ciudad
-- La extensión geométrica de la cuadrícula del Eixample de Cerdà abajo
+- Las grúas y las torres de la Sagrada Família, al noroeste
+- El Mediterráneo y las torres del Port Olímpic, al sudeste
+- La montaña y el castillo de Montjuïc, al otro lado de la ciudad
+- La extensa geometría de la cuadrícula del Eixample de Cerdà, a sus pies
 
-Calcula entre 45 minutos y una hora, más si te quedas para la puesta de sol.
+Calcule entre 45 minutos y una hora, o algo más si se queda a ver la puesta de sol.
 
 ## Cuándo ir
 
-Comprueba el horario de apertura actual antes de ir, ya que puede variar según la temporada. Un horario de cierre tardío es importante: este es uno de los pocos miradores de Barcelona donde puedes ver el cielo tornarse anaranjado y luego ver cómo la ciudad enciende sus luces, todo desde el mismo lugar.
+Antes de la visita, consulte el horario vigente, ya que puede variar según la temporada. Que cierre tarde es una gran ventaja: se trata de uno de los pocos miradores de Barcelona donde, sin moverse del sitio, se puede ver cómo el cielo se vuelve anaranjado y, después, cómo la ciudad enciende sus luces.
 
-Las tardes-noches entre semana, de 20:00 a 22:00, son el tramo más tranquilo, según los patrones de afluencia registrados en el lugar. Los fines de semana se mantiene más concurrido durante todo el día, desde la apertura a las 10:00 hasta el cierre, así que no hay una franja de fin de semana fiablemente tranquila.
+Según los datos de afluencia del lugar, la franja más tranquila corresponde a las tardes entre semana, de 8pm a 10pm. Los fines de semana hay más gente durante toda la jornada, desde la apertura a las 10am hasta el cierre, así que no existe una franja tranquila con la que se pueda contar.
 
-Si las vistas del atardecer te importan, comprueba la hora de la puesta de sol de ese día antes de reservar: en verano ronda las 21:00, en invierno se acerca más a las 18:00.
+Si le interesa ver el atardecer, consulte la hora de la puesta de sol de ese día antes de reservar: en verano ronda las 9pm y en invierno, las 6pm.
 
-## Cómo visitarlo como un local
+## Cómo visitarlo como un barcelonés
 
-Es una parada muy conocida dentro del circuito de arquitectura moderna de Barcelona, no un descubrimiento oculto, así que planifica en función de las multitudes en lugar de esperar evitarlas por completo.
+Lejos de ser un rincón secreto, el mirador es una parada muy conocida del circuito de arquitectura moderna de Barcelona. Más que pretender evitar las multitudes por completo, conviene organizarse en función de ellas.
 
-- **Reserva con antelación online.** Las entradas con hora fija son lo habitual aquí y la forma más rápida de evitar la cola en la planta baja.
-- **Ve después de las 20:00 entre semana** para encontrar la menor afluencia y tener la oportunidad de ver la ciudad iluminarse con relativa calma.
-- **Paga con tarjeta o móvil.** Como en la mayoría de las atracciones de Barcelona, no hace falta efectivo y el pago sin contacto es lo habitual.
-- **Deja el paraguas y el trípode.** El viento arrecia en altura y el personal suele pedir a los visitantes que lleven bolsos y equipo compactos en las secciones abiertas.
-- **No lo confundas con la antigua torre mirador Agbar** de años atrás: el Mirador es la experiencia de observación actual, con nueva marca, dentro del mismo edificio, así que búscalo con este nombre exacto al reservar.
+- **Reserve en línea con antelación.** Aquí lo habitual son las entradas con hora asignada, que además son la forma más rápida de esquivar la cola de la planta baja.
+- **Vaya entre semana a partir de las 8pm.** Encontrará menos gente y podrá ver cómo se ilumina la ciudad con relativa calma.
+- **Pague con tarjeta o con el móvil.** Como en la mayoría de los atractivos de Barcelona, no hace falta llevar efectivo y el pago sin contacto es lo normal.
+- **Deje en casa el paraguas y el trípode.** En altura el viento arrecia, y el personal suele pedir que en los tramos abiertos se lleven bolsos y equipos lo más recogidos posible.
+- **No lo confunda con el antiguo mirador de la Torre Agbar** de hace años. El Mirador es la experiencia de observación actual, renovada y con nuevo nombre, dentro del mismo edificio; búsquelo exactamente con este nombre al reservar.
 
-El error que cometen la mayoría de los primerizos es tratarlo como un complemento rápido entre la Sagrada Família y la playa. Dedícale su propia hora, idealmente ajustada a la luz: la fachada cambiante de color y el trayecto en ascensor forman parte de la experiencia tanto como la propia vista.
+El error más común de quien va por primera vez es tomarlo como un complemento rápido entre la Sagrada Família y la playa. Dedíquele una hora propia, a ser posible coincidiendo con el momento de luz adecuado: la fachada que cambia de color y la subida en ascensor forman parte de la experiencia tanto como la propia vista.
 
-## Lugares cercanos para combinar con tu visita
+## Qué visitar en los alrededores
 
-Glòries se encuentra en un cruce realmente útil. El mercado de Els Encants de Barcelona (Encants Barcelona), uno de los más antiguos de Europa, está a cinco minutos a pie y merece una hora de curioseo por sí solo.
+Glòries ocupa un cruce realmente práctico. A cinco minutos a pie se encuentra el mercado de pulgas Encants Barcelona, uno de los más antiguos de Europa, que por sí solo merece una hora de paseo entre sus puestos.
 
-La playa de Poblenou y su trama de calles de antiguas fábricas textiles reconvertidas se extienden más allá de la torre, a un tranvía o 20 minutos a pie hacia el este. La Sagrada Família ancla el otro extremo de la Diagonal, lo que permite un combo natural de torre por la mañana y basílica por la tarde; solo comprueba los horarios de entrada actuales de ambos lugares antes de planificar el orden.
+Más allá de la torre, hacia el este, se extienden la playa del Poblenou y su trama de calles con antiguas fábricas textiles reconvertidas, a las que se llega fácilmente en tranvía o con un paseo de 20 minutos. En el otro extremo de la Diagonal se levanta la Sagrada Família, lo que permite combinar de forma natural la torre por la mañana y la basílica por la tarde. Eso sí, antes de decidir el orden, consulte los horarios de entrada vigentes de ambos lugares.

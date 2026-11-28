@@ -1,90 +1,90 @@
 ---
 lang: es
 slug: istanbul-taemin-liminal-world-tour
-srcHash: 'b020657fe7a3'
+srcHash: '4fd59de6d786'
 title: 'Gira mundial <LiMiNaL> de Taemin: fechas, entradas y recinto (Estambul)'
-description: La fecha de Estambul de la gira mundial <LiMiNaL> de Taemin es el 27 de noviembre de 2026, en el Ülker Sports and Event Hall de Ataşehir, en la orilla asiática de la ciudad.
-quickAnswer: La fecha de Estambul de la gira mundial <LiMiNaL> de Taemin es el 27 de noviembre de 2026, en el Ülker Sports and Event Hall de Ataşehir, en la orilla asiática de la ciudad. Pocas veces una gran figura del K-pop en solitario incluye Turquía en su calendario. Quienes llegan desde la orilla europea suelen cruzar el Bósforo en el tren Marmaray o en ferri y recorren el último tramo en metro o en taxi.
+description: La gira mundial <LiMiNaL> de Taemin tenía una fecha en Estambul el 27 de noviembre de 2026. El escenario era el Ülker Sports and Event Hall de Ataşehir, en la orilla asiática de la ciudad.
+quickAnswer: La gira mundial <LiMiNaL> de Taemin tenía prevista una parada en Estambul el 27 de noviembre de 2026. El concierto era en el Ülker Sports and Event Hall de Ataşehir, en la orilla asiática de la ciudad. Pocas veces un solista de primera línea del K-pop incluye Turquía en su gira. Desde la parte europea, lo habitual era cruzar el Bósforo en el tren Marmaray o en ferri y completar el trayecto en metro o en taxi.
 faq:
-  - q: ¿Cuándo y dónde es la gira mundial LiMiNaL de Taemin en Estambul?
-    a: La fecha es el viernes 27 de noviembre de 2026, en el Ülker Sports and Event Hall de Ataşehir, en la orilla asiática de Estambul.
-  - q: ¿Cómo se llega al Ülker Sports and Event Hall desde la orilla europea?
-    a: La mayoría de los seguidores cruza el Bósforo en el tren Marmaray (desde Sirkeci o Yenikapı) o en un ferri urbano hasta Kadıköy o Üsküdar. Desde allí toman la línea M4 de metro en dirección a Ataşehir y completan el último tramo en taxi o en autobús. Todos estos medios se pagan con la Istanbulkart.
-  - q: ¿Dónde se venden las entradas?
-    a: En Turquía, las entradas para conciertos suelen venderse a través de la plataforma oficial con la que trabaja el promotor. Las entradas compradas en redes sociales son la principal fuente de estafas, y a veces se coteja el nombre con el documento de identidad en el acceso.
-  - q: ¿Qué zona es buena para alojarse con motivo del concierto?
-    a: Kadıköy y Moda, en la orilla asiática, son las zonas desde las que resulta más fácil ir y volver del pabellón. Sultanahmet o Karaköy quedan más cerca de los principales monumentos, pero alargan el trayecto la noche del concierto.
-  - q: ¿Qué se puede hacer cerca antes del espectáculo?
-    a: Las calles del mercado de Kadıköy, detrás del muelle de ferris, son ideales para comer y tomar algo en un café, y el paseo marítimo de Moda queda a un corto paseo a pie. Ambos lugares están de camino a Ataşehir para quien llega desde la orilla europea.
+  - q: ¿Cuándo y dónde era el concierto de la gira LiMiNaL de Taemin en Estambul?
+    a: El concierto estaba fijado para el viernes 27 de noviembre de 2026 en el Ülker Sports and Event Hall de Ataşehir, en la orilla asiática de Estambul.
+  - q: ¿Cómo se llegaba al Ülker Sports and Event Hall desde la parte europea?
+    a: Lo habitual era cruzar el Bósforo en el tren Marmaray, que sale de Sirkeci o de Yenikapı, o bien en uno de los ferris urbanos que van a Kadıköy o a Üsküdar. Desde allí, la línea M4 de metro avanza hacia Ataşehir, y el último tramo se cubría en taxi o en autobús. Todos estos transportes se pagan con la Istanbulkart.
+  - q: ¿Dónde se vendían las entradas?
+    a: En Turquía, las entradas para conciertos suelen venderse a través de la plataforma oficial con la que trabaja el promotor. La mayoría de las estafas proceden de las entradas compradas en redes sociales, y en la puerta a veces se comprueba que el nombre coincida con el del documento de identidad.
+  - q: ¿Qué zona resultaba más cómoda para alojarse durante el concierto?
+    a: Desde Kadíköy y Moda, en la orilla asiática, el trayecto de ida y vuelta al pabellón era el más sencillo. Sultanahmet y Karaköy quedan más cerca de los grandes monumentos, pero alargaban el viaje la noche del concierto.
+  - q: ¿Qué había para hacer en los alrededores antes del concierto?
+    a: Detrás del muelle de ferris de Kadıköy se extienden las calles del mercado, repletas de puestos de comida y cafeterías. A poca distancia a pie queda el paseo marítimo de Moda. Para quien venía de la parte europea, ambos lugares quedaban de camino a Ataşehir.
 ---
 
 ## Un viernes por la noche en la orilla asiática
 
-El 27 de noviembre de 2026 cae en viernes, y en Estambul ese detalle pesa más que en casi cualquier otra ciudad.
+El 27 de noviembre de 2026 caía en viernes, un detalle que en Estambul pesa más que en casi cualquier otra ciudad.
 
-Los viernes por la tarde, las autopistas que salen del centro avanzan a paso de tortuga, y los primeros atascos se forman en los puentes del Bósforo. El Ülker Sports and Event Hall se encuentra en Ataşehir, un distrito de la orilla asiática lleno de torres de oficinas acristaladas y bloques de viviendas. Quienes conocen la ciudad no llegan hasta allí por carretera, sino en tren y en barco.
+Los viernes por la tarde, las autovías que salen del centro avanzan a paso de tortuga, y los puentes del Bósforo son los primeros en colapsarse. El Ülker Sports and Event Hall se encuentra en Ataşehir, un distrito de torres de oficinas acristaladas y bloques de viviendas en la orilla asiática. Quien conoce la ciudad no llega por carretera, sino en tren o en barco.
 
-El espectáculo es la gira mundial LiMiNaL de Taemin, integrante de SHINee. Como las grandes estrellas del K-pop rara vez actúan en Turquía, esta fecha atrae a seguidores de todo el país y también de los países vecinos.
+El espectáculo era la gira mundial LiMiNaL de Taemin, miembro de SHINee. Como las grandes figuras del K-pop rara vez actúan en Turquía, se esperaba que la fecha atrajera a seguidores de todo el país y también de los países vecinos.
 
-## El artista
+## Quién es Taemin
 
-Taemin es el miembro más joven de SHINee. Apenas había cumplido los quince años cuando el grupo debutó, en 2008. En 2014 inició su carrera en solitario con «Danger» y se ganó la fama de ser uno de los intérpretes más rigurosos del K-pop.
+Taemin es el miembro más joven de SHINee. Cuando el grupo debutó en 2008, él apenas tenía quince o dieciséis años. En 2014 inició su carrera en solitario con «Danger» y se ganó la fama de ser uno de los intérpretes más rigurosos del K-pop.
 
-Su repertorio en solitario es lo que lleva a muchos a tomar un avión para verlo. Estos son algunos de los temas que sus seguidores suelen saberse de memoria:
+Su repertorio en solitario es lo que lleva a muchos a viajar en avión para verlo. Estos son algunos de los títulos que sus seguidores suelen saberse de memoria:
 
 - «Danger», su debut de 2014
 - «Move», cuya coreografía contenida se convirtió en un referente de la interpretación en el K-pop
 - «Criminal», de 2020
 - «Guilty», de 2023
 
-Aquí no se conoce el repertorio de LiMiNaL, de modo que esta lista sirve como contexto y no como pronóstico. Sus conciertos giran en torno a la coreografía, la puesta en escena y largos interludios de baile. Quienes acuden solo por la voz suelen sorprenderse de lo físico que resulta el espectáculo.
+No se trata del repertorio del concierto, sino de sus canciones más conocidas. Sus espectáculos giran en torno a la coreografía, la puesta en escena y largos interludios de baile, y quienes acuden solo por la voz suelen sorprenderse de lo físico que resulta todo.
 
-## Dentro del Ülker Sports and Event Hall
+## El interior del Ülker Sports and Event Hall
 
-Se trata de un pabellón cubierto construido expresamente para grandes eventos. Su inquilino habitual es el equipo de baloncesto del Fenerbahçe, que disputa aquí sus partidos como local. Las gradas, cerradas y de gran pendiente, se elevan muy cerca de la pista, y hasta desde los anillos superiores se ve el escenario sin obstáculos.
+Se trata de un pabellón cubierto construido expresamente para estos usos. Su inquilino habitual es el equipo de baloncesto del Fenerbahçe, que disputa aquí sus partidos como local. Las gradas, empinadas y cerradas, se elevan muy cerca de la pista, de modo que incluso desde los niveles superiores se ve el escenario sin obstáculos.
 
-En los conciertos, la cancha se transforma en una pista de pie o con asientos, flanqueada por gradas escalonadas. La afición del baloncesto tiene fama de ser aquí muy ruidosa. El techo retiene el sonido, y un público de K-pop coreando al unísono lo llena exactamente igual.
+En los conciertos, la pista se transforma en una zona de pie o con asientos, mientras las gradas escalonadas se alzan a los lados. El público del baloncesto tiene aquí fama de ruidoso, porque la cubierta retiene el sonido. Lo mismo ocurre cuando un público de K-pop corea al unísono sus cánticos.
 
-Como en cualquier gran pabellón turco, en los accesos hay guardarropas y controles de seguridad. Los registros de bolsos son minuciosos. Los asistentes suelen ir ligeros de equipaje, y en los conciertos de este recinto es habitual que no se permita la entrada de equipos fotográficos grandes ni de objetivos profesionales.
+Como en cualquier gran pabellón turco, en las entradas hay guardarropas y controles de seguridad. La revisión de bolsos es minuciosa. Los asistentes suelen llevar poco equipaje, y en los conciertos de este recinto es frecuente que no se permita el paso de cámaras grandes ni de objetivos profesionales.
 
-## Cómo cruzar el Bósforo para llegar
+## Cruzar el Bósforo para llegar
 
-Esta es la parte de la noche que quienes vienen por primera vez suelen subestimar. La mayoría de los visitantes se aloja en la orilla europea, en torno a Sultanahmet, Beyoğlu o Şişli, mientras que el pabellón está en la otra.
+Esta es la parte de la noche que subestiman quienes van por primera vez. La mayoría de los visitantes se aloja en la parte europea, en Sultanahmet, Beyoğlu o Şişli, pero el pabellón no está allí.
 
-Hay dos formas habituales de cruzar:
+Hay dos maneras habituales de cruzar:
 
-- **Marmaray**: esta línea ferroviaria atraviesa el Bósforo por un túnel submarino y une estaciones como Sirkeci y Yenikapı con Üsküdar, para seguir después por la orilla asiática.
-- **Ferri**: los ferris urbanos zarpan de Eminönü, Karaköy y Beşiktaş con destino a Kadıköy y Üsküdar. La travesía es corta y figura entre los trayectos cotidianos más bellos del mundo.
+- **Marmaray**: esta línea ferroviaria atraviesa el Bósforo por un túnel y une estaciones como Sirkeci y Yenikapı con Üsküdar, para seguir después por la orilla asiática.
+- **Ferri**: los ferris urbanos salen de Eminönü, Karaköy y Beşiktaş hacia Kadıköy y Üsküdar. La travesía es corta y figura entre los trayectos cotidianos más bonitos del mundo.
 
-Desde Kadıköy, la línea M4 de metro avanza hacia el este por los distritos que rodean Ataşehir. Muchos seguidores hacen parte del recorrido en metro y completan el último tramo en taxi o en autobús. Las aplicaciones turcas de transporte y de taxi funcionan en la ciudad, aunque los viernes por la noche lo normal es encontrar mucho tráfico cerca del pabellón.
+Desde Kadıköy, la línea M4 de metro se dirige hacia el este por los distritos que rodean Ataşehir. Muchos asistentes recorrían parte del trayecto en metro y completaban el último tramo en taxi o en autobús. Las aplicaciones turcas de taxi y de vehículos con conductor funcionan aquí, aunque los viernes por la noche los atascos en torno al pabellón son lo normal.
 
-Todos estos medios se pagan con la **Istanbulkart**, la tarjeta recargable de transporte de la ciudad. Se compra y se recarga en las máquinas de las estaciones y de los muelles de ferri. Una misma tarjeta puede validarse para varias personas, algo muy práctico cuando se viaja en grupo.
+Todos estos medios se pagan con la **Istanbulkart**, la tarjeta recargable de transporte de la ciudad, que se vende y se recarga en las máquinas de las estaciones y de los muelles. Con una sola tarjeta pueden pagar varias personas, algo muy práctico para los grupos.
 
-## Entradas, colas y costumbres del público
+## Entradas, colas y costumbres de los fans
 
-En Turquía, las entradas para conciertos suelen venderse a través de la plataforma oficial con la que trabaja el promotor. Los seguidores turcos desconfían profundamente de la reventa en redes sociales, y no les falta razón: las capturas de pantalla de una misma entrada se venden más de una vez. Además, a veces se coteja el nombre de la entrada con el documento de identidad en el acceso, por lo que una entrada revendida puede ser rechazada en la puerta.
+En Turquía, las entradas para conciertos suelen venderse a través de la plataforma oficial con la que trabaja el promotor. Los fans turcos desconfían profundamente de la reventa en redes sociales, y no les faltan motivos: las capturas de pantalla de una misma entrada se venden más de una vez. Además, en la puerta a veces se coteja el nombre de la entrada con el documento de identidad, de modo que una entrada revendida puede ser rechazada.
 
-Esa noche hay algunas costumbres arraigadas:
+En los conciertos de K-pop de aquí hay varias costumbres arraigadas:
 
-- **Las colas para la mercancía oficial** se forman mucho antes de que abran las puertas en los conciertos de K-pop de aquí. Quienes buscan artículos concretos suelen llegar con horas de antelación.
-- **Los proyectos de los fans** son frecuentes. Los clubes de seguidores locales reparten en la cola lemas impresos o pancartas para que todo el público los levante durante la misma canción.
-- **Los cánticos de apoyo** se gritan en coreano. Los seguidores turcos los aprenden de oído y los corean a pleno pulmón.
-- **Compartir sin esperar nada a cambio** es lo normal: en la cola, desconocidos se intercambian pequeños regalos, tarjetas con fotos y pegatinas.
+- **Colas de merchandising**: se forman mucho antes de que abran las puertas, y quienes buscan artículos concretos suelen esperar durante horas.
+- **Proyectos de fans**: son muy habituales. Los clubes de fans locales reparten en la cola lemas impresos o pancartas para que todo el público los levante en la misma canción.
+- **Cánticos**: se gritan en coreano. Los fans turcos se los aprenden de oído y los corean con entusiasmo.
+- **Intercambios**: es normal que desconocidos se regalen en la cola pequeños obsequios, photocards y pegatinas.
 
-En el recinto se trabaja en turco. El personal y los vigilantes de seguridad suelen hablar algo de inglés, pero un sencillo «teşekkürler» (gracias) se agradece mucho. En los puestos del pabellón y en los alrededores de Ataşehir se acepta tarjeta casi en todas partes, aunque sigue siendo útil llevar algo de efectivo para quioscos y autobuses.
+En el recinto se trabaja en turco. El personal de seguridad y de sala suele defenderse en inglés, y un sencillo «teşekkürler» (gracias) se agradece mucho. Las tarjetas se aceptan casi en todas partes, tanto en los puestos del pabellón como en el resto de Ataşehir, aunque los quioscos pequeños suelen preferir efectivo.
 
 ## Kadıköy antes y después
 
-Kadıköy es el punto de encuentro natural. Principal núcleo de la orilla asiática, queda a un cómodo trayecto en ferri desde el casco antiguo y se encuentra en la línea M4, camino del pabellón.
+Kadıköy es el punto de partida natural. Es el principal centro de la orilla asiática, queda a un cómodo trayecto en ferri del casco antiguo y está en la línea M4 que va hacia el pabellón.
 
-Tras el muelle de ferris se extiende el mercado de Kadıköy, con sus pescaderías, sus tiendas de encurtidos, sus mostradores de mezes y sus estrechas callejuelas de cafés y bares. Muchos seguidores comen aquí antes de poner rumbo al este. Cuesta abajo, el paseo marítimo de Moda es el lugar donde los vecinos salen a pasear junto al agua al caer la tarde.
+Las calles situadas detrás del muelle forman el mercado de Kadıköy, con pescaderías, tiendas de encurtidos, mostradores de mezes y estrechas callejuelas llenas de cafeterías y bares. Muchos asistentes cenaban aquí antes de seguir hacia el este. Cuesta abajo se encuentra el paseo marítimo de Moda, donde los vecinos caminan junto al agua al caer la tarde.
 
-Al terminar el concierto, el público suele dividirse. Unos regresan a Kadıköy para cenar tarde y otros van directos a por los últimos ferris y trenes del Marmaray. Por la noche, los ferris pasan con mucha menos frecuencia que durante el día, de modo que muchos de los que se alojan en la orilla europea acaban recurriendo a un taxi para cruzar el puente.
+Al terminar los conciertos en el pabellón, el público suele dividirse. Unos vuelven a Kadıköy para cenar tarde y otros se dirigen directamente a los últimos ferris y trenes del Marmaray. Por la noche hay muchas menos salidas de ferri que durante el día, así que buena parte de quienes se alojan en la parte europea acaba cruzando el puente en taxi.
 
 ## Dónde se alojan los visitantes
 
-Dormir en la orilla asiática es lo que más simplifica la noche. Kadıköy y Moda ofrecen abundantes hoteles de gama media y apartamentos, tienen mucha vida nocturna y están a un breve trayecto de Ataşehir.
+Alojarse en la orilla asiática simplifica mucho la noche del concierto. Kadıköy y Moda cuentan con numerosos hoteles y apartamentos de gama media, tienen mucha vida nocturna y están a poca distancia de Ataşehir.
 
-Quienes quieren ver los monumentos clásicos suelen alojarse en Sultanahmet o en la zona de Karaköy y Gálata, cerca de los muelles de ferri y de las estaciones del Marmaray en Sirkeci y Yenikapı. El regreso la noche del concierto es más largo, pero por la mañana resulta más fácil visitar Santa Sofía, la Mezquita Azul y el Gran Bazar.
+Quienes quieren tener cerca los monumentos clásicos suelen elegir Sultanahmet o la zona de Karaköy y Gálata, próximas a los muelles de ferris y a las estaciones del Marmaray en Sirkeci y Yenikapı. El trayecto de la noche del concierto es más largo, pero por la mañana resulta más fácil visitar Santa Sofía, la Mezquita Azul y el Gran Bazar.
 
-A finales de noviembre, Estambul suele estar fresca y a menudo húmeda. En un ferri nocturno, el viento que llega del agua corta más de lo que parece en la calle. Quienes hacen cola se visten por capas, que pueden dejar en el guardarropa o atarse a la cintura cuando el pabellón se caldea.
+A finales de noviembre, Estambul suele estar fresca y a menudo húmeda. En un ferri nocturno, el viento que llega del agua se nota más cortante que en la calle. Los asistentes suelen vestirse por capas, de modo que puedan dejar alguna prenda en el guardarropa o atársela a la cintura cuando el pabellón se caldea.

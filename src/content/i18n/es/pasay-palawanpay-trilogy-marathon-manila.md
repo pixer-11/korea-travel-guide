@@ -1,58 +1,58 @@
 ---
 lang: es
 slug: pasay-palawanpay-trilogy-marathon-manila
-srcHash: '08dbde642854'
-title: 'PalawanPay Trilogy Marathon Manila: fechas, inscripción y sede (Pasay)'
-description: La PalawanPay Trilogy Marathon Manila corre por Pasay (Metro Manila) el viernes 27 de noviembre de 2026. La inscripción, que en una carrera hace las veces de entrada, se tramita por los canales propios del evento y no en taquilla.
-quickAnswer: La PalawanPay Trilogy Marathon Manila corre por Pasay (Metro Manila) el viernes 27 de noviembre de 2026. La inscripción, que en una carrera hace las veces de entrada, se tramita por los canales propios del evento y no en taquilla. Las grandes carreras de ruta de la ciudad suelen disputarse en Pasay, por las avenidas llanas que bordean la bahía de Manila y por Bay City, un distrito levantado sobre terrenos ganados al mar. Los corredores se alojan cerca de la bahía o piden un Grab para el trayecto de madrugada.
+srcHash: 'a6cfb72ebda7'
+title: 'PalawanPay Trilogy Marathon Manila: fechas, inscripciones y sede (Pasay)'
+description: La PalawanPay Trilogy Marathon Manila tenía fecha el viernes 27 de noviembre de 2026, en Pasay (área metropolitana de Manila). Las inscripciones corrían a cargo de la organización y no de una taquilla.
+quickAnswer: La fecha anunciada de la PalawanPay Trilogy Marathon Manila era el viernes 27 de noviembre de 2026, en Pasay (área metropolitana de Manila). En una carrera, la inscripción hace las veces de entrada, y se gestionaba por los canales propios del evento, no en taquilla. Las grandes carreras de ruta de la ciudad suelen disputarse en Pasay, por las avenidas llanas que bordean la bahía de Manila y por el distrito de Bay City, levantado sobre terrenos ganados al mar. Los corredores suelen alojarse cerca de la bahía o recurren a Grab para el trayecto de madrugada.
 faq:
-  - q: ¿Cuándo es la PalawanPay Trilogy Marathon Manila?
-    a: La fecha de esta edición es el viernes 27 de noviembre de 2026, en la ciudad de Pasay (Metro Manila).
-  - q: ¿En qué parte de Pasay se corre?
-    a: La prueba transcurre en la ciudad de Pasay, a orillas de la bahía de Manila. La zona de salida y el trazado exactos figuran en los materiales oficiales de la organización. Las grandes carreras de ruta de Pasay suelen aprovechar las avenidas llanas que rodean el Mall of Asia y el distrito de Bay City.
+  - q: ¿Cuándo era la PalawanPay Trilogy Marathon Manila?
+    a: La carrera tenía fecha el viernes 27 de noviembre de 2026, en la ciudad de Pasay (área metropolitana de Manila).
+  - q: ¿En qué zona de Pasay se situaba la carrera?
+    a: La carrera estaba prevista en la ciudad de Pasay, a orillas de la bahía de Manila. La zona exacta de salida y el recorrido figuraban en los materiales oficiales de la organización. Las grandes carreras de ruta de Pasay suelen aprovechar las vías llanas junto a la bahía, en torno al Mall of Asia y al distrito de Bay City.
   - q: ¿Cómo llegan los corredores a la salida antes del amanecer?
-    a: La mayoría pide un Grab o toma un taxi, porque los horarios del LRT-1 y del MRT-3 encajan mal con una salida de madrugada. Muchos corredores de fuera se alojan en hoteles de la zona de Mall of Asia y Entertainment City para poder ir a pie hasta la salida.
+    a: La mayoría recurre a Grab o a un taxi, porque los horarios de la LRT-1 y la MRT-3 encajan mal con una salida de madrugada. Muchos corredores de fuera se alojan en hoteles de la zona del Mall of Asia y Entertainment City, desde donde pueden ir a pie hasta la salida.
   - q: ¿Qué tiempo hace a finales de noviembre?
-    a: A finales de noviembre se vive la estación del amihan, más fresca y seca. Aun así, la humedad sigue siendo alta y a media mañana el sol pega fuerte en las avenidas despejadas de la bahía. Por eso las carreras de Manila salen tradicionalmente de noche.
+    a: A finales de noviembre ya ha llegado el amihan, la temporada más fresca y seca. Aun así, la humedad sigue siendo alta y, a media mañana, el sol pega con fuerza en las avenidas abiertas de la bahía. Por eso las carreras de Manila arrancan tradicionalmente de noche.
   - q: ¿Qué se puede hacer cerca después de la carrera?
-    a: Los corredores suelen comer en el complejo SM Mall of Asia o en los puestos de silog próximos a la bahía. El malecón del Mall of Asia es un lugar muy concurrido para pasear y ver la puesta de sol.
+    a: Los corredores suelen comer en el complejo SM Mall of Asia o en los puestos de silog próximos a la bahía. El malecón del Mall of Asia es un lugar muy concurrido para pasear y contemplar la puesta de sol.
 ---
 
 ## Un viernes junto a la bahía
 
-La cita de esta edición es el viernes 27 de noviembre de 2026, en la ciudad de Pasay. Al caer en día laborable, condiciona todo: desde el tráfico hasta el público que sale a animar.
+La carrera tenía fecha el viernes 27 de noviembre de 2026, en la ciudad de Pasay. Al caer en día laborable, ni el tráfico ni el público que anima a los corredores se parecían a los de una prueba de fin de semana.
 
-Pasay ocupa el extremo sur de la bahía de Manila. Aquí se encuentran el Aeropuerto Internacional Ninoy Aquino, el complejo SM Mall of Asia y el largo y llano frente marítimo del bulevar Roxas (Roxas Boulevard). Sus avenidas son anchas, casi planas y están trazadas sobre terrenos ganados al mar, por lo que las carreras de fondo de Metro Manila vuelven a ellas una y otra vez.
+Pasay ocupa el extremo sur de la bahía de Manila. En esta ciudad se encuentran el Aeropuerto Internacional Ninoy Aquino, el complejo SM Mall of Asia y el largo paseo marítimo de Roxas Boulevard, completamente llano. Sus avenidas son anchas y casi planas, trazadas sobre terrenos ganados al mar, y por eso las carreras de fondo del área metropolitana de Manila vuelven a ellas una y otra vez.
 
-El patrocinador principal, PalawanPay, es el monedero electrónico del Grupo Palawan, la empresa propietaria de las casas de empeño Palawan Pawnshop, con sucursales en casi todas las localidades de Filipinas.
+El patrocinador principal, PalawanPay, es el monedero electrónico de Palawan Group, la empresa que gestiona las casas de empeño Palawan Pawnshop, presentes en casi cualquier localidad de Filipinas.
 
-## Calor, luz y el recorrido por Pasay
+## Calor, luz y el circuito de Pasay
 
-A finales de noviembre se vive el tramo fresco y seco del amihan, el monzón del nordeste. Aun así, en Manila el «fresco» sigue siendo tropical. La humedad no baja, y a media mañana el sol cae con fuerza sobre las avenidas despejadas de la bahía.
+A finales de noviembre reina el amihan, el monzón del nordeste, que trae la época más fresca y seca del año. Ahora bien, en Manila el «fresco» sigue siendo tropical: la humedad no baja y, a media mañana, el sol cae implacable sobre las avenidas despejadas de la bahía.
 
-Por eso en Metro Manila las carreras de ruta salen tradicionalmente de noche, a menudo mucho antes del amanecer. La mayoría de los corredores cruza la meta antes de que apriete el calor. En un recorrido por Pasay suelen pesar estos factores:
+De ahí que las carreras de ruta del área metropolitana de Manila arranquen tradicionalmente de noche, a menudo mucho antes del amanecer. La mayoría de los corredores cruza la meta antes de que apriete el calor. En un circuito de Pasay suelen pesar estos factores:
 
-- **El viento de la bahía.** En los tramos del paseo marítimo es habitual correr con el viento en contra a la ida y a favor a la vuelta.
-- **La escasa sombra.** En los terrenos ganados al mar los árboles son jóvenes y el asfalto se extiende ancho y sin resguardo.
-- **El terreno llano.** Apenas hay repechos, salvo alguna rampa de paso elevado, lo que facilita mantener el ritmo.
+- **El viento de la bahía.** En los tramos junto al mar es habitual correr con viento de cara a la ida y a favor a la vuelta.
+- **La escasa sombra.** En los terrenos ganados al mar los árboles son jóvenes y el asfalto es ancho y abierto.
+- **El terreno llano.** Apenas hay subidas, salvo alguna rampa de paso elevado, lo que facilita regular el ritmo.
 
-El trazado exacto y la zona de salida figuran en los materiales oficiales de la organización. Esta guía no menciona ninguna sede que no aparezca en ellos.
+El recorrido exacto y la zona de salida figuraban en los materiales oficiales de la organización.
 
 ## Cómo llegar a la salida
 
-Pasay es el rincón de Metro Manila más accesible para el visitante. Las terminales del NAIA quedan a pocos minutos en coche de la bahía, y el extremo sur del bulevar Roxas desemboca directamente en la zona de Mall of Asia y Bay City.
+Para el visitante, Pasay es la zona más accesible del área metropolitana de Manila. Las terminales del aeropuerto NAIA quedan a pocos minutos en coche de la bahía, y el extremo sur de Roxas Boulevard desemboca directamente en la zona del Mall of Asia y Bay City.
 
-El tren da servicio al distrito. La Línea 1 del LRT recorre la avenida Taft (Taft Avenue) con paradas en Gil Puyat, Libertad y EDSA, y el MRT-3 termina en la estación de Taft Avenue, junto a EDSA. Sin embargo, los horarios ferroviarios encajan mal con un pistoletazo de salida de madrugada. Por eso la mayoría de los corredores se desplaza en Grab o en taxi la mañana de la carrera.
+El tren también da servicio al distrito. La LRT Line 1 recorre Taft Avenue, con paradas en Gil Puyat, Libertad y EDSA, y la MRT-3 termina en la estación de Taft Avenue, junto a EDSA. Sin embargo, sus horarios casan mal con un disparo de salida de madrugada, así que la mayoría de los corredores se desplaza en Grab o en taxi la mañana de la carrera.
 
-Quienes vienen de fuera suelen alojarse en hoteles de la zona de Mall of Asia y Entertainment City, desde donde pueden ir a pie hasta una salida junto a la bahía. En día laborable, la hora punta en EDSA y en el bulevar Roxas se intensifica rápidamente tras el amanecer, algo que conviene tener en cuenta si se piensa volver en coche después de terminar.
+Quienes vienen de fuera suelen alojarse en hoteles de la zona del Mall of Asia y Entertainment City para llegar a pie a una salida junto a la bahía. En un día laborable, la hora punta en EDSA y Roxas Boulevard se forma muy rápido después del amanecer, algo que afecta a quien se marcha en coche tras terminar.
 
-## La mañana de carrera, al estilo de Manila
+## La mañana de carrera al estilo de Manila
 
-Las carreras de ruta filipinas tienen sus propias costumbres. Estas son las que más llaman la atención de los visitantes:
+Las carreras de ruta filipinas tienen sus propias costumbres. Estas son las que más llaman la atención del visitante:
 
-- **Recogida del dorsal.** Dorsales y camisetas suelen entregarse en un centro comercial o en una tienda de deportes durante los días previos, no la misma mañana de la prueba.
+- **Recogida del dorsal.** El dorsal y la camiseta suelen recogerse en un centro comercial o en una tienda de deportes durante los días previos, no la misma mañana de la carrera.
 - **Pagos.** Grab, las tiendas de conveniencia y los puestos de comida aceptan GCash y Maya. Aun así, conviene llevar algo de efectivo menudo para los vendedores de taho y de buko (coco) que se instalan cerca de la meta.
-- **Hidratación.** Es habitual que los corredores lleven sus propios electrolitos, además de aprovechar los avituallamientos.
-- **Ánimos.** Comisarios y espectadores gritan «¡Laban!» («¡lucha!») y «¡Kaya mo 'yan!» («¡tú puedes!»). Lo propio es devolverles el saludo con la mano.
+- **Hidratación.** Además de usar los avituallamientos, muchos corredores llevan sus propios electrolitos.
+- **Ánimos.** Los voluntarios y el público gritan «¡Laban!» (¡lucha!) y «¡Kaya mo 'yan!» (¡tú puedes!), y los corredores suelen responder con un saludo.
 
-Tras la meta, muchos corredores van a desayunar a los restaurantes del Mall of Asia o a los puestos de la bahía que sirven silog, un plato de arroz frito con ajo, huevo y alguna carne. A quien aún le queda tiempo le espera un paseo por el malecón del paseo marítimo del Mall of Asia, uno de los mejores lugares de Manila para contemplar las puestas de sol sobre la bahía.
+Tras la meta, muchos corredores van a desayunar a los restaurantes del Mall of Asia o a los puestos de la bahía que sirven silog, un plato de arroz al ajo con huevo y alguna carne. A quien aún le queda tiempo le espera el paseo por el malecón del Mall of Asia, uno de los mejores lugares de Manila para ver la puesta de sol sobre la bahía.
