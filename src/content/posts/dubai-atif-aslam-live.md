@@ -1,6 +1,6 @@
 ---
 title: 'Atif Aslam Live: Dates, Tickets & Venue (Dubai)'
-description: Atif Aslam Live in Dubai takes place on November 27, 2026 at Coca-Cola Arena in City Walk, with tickets sold for the arena's own shows.
+description: Atif Aslam Live in Dubai took place on November 27, 2026 at Coca-Cola Arena in City Walk. This guide covers the venue, transport and what his Dubai shows are like.
 country: United Arab Emirates
 region: Dubai
 category: event
@@ -27,16 +27,16 @@ gallery: []
 tags:
   - dubai
   - event
-quickAnswer: Atif Aslam Live in Dubai takes place on November 27, 2026 at Coca-Cola Arena in City Walk, with tickets sold for the arena's own shows. It is the Pakistani singer's return after five consecutive years of sold-out Dubai concerts, so seats are in heavy demand.
+quickAnswer: Atif Aslam Live in Dubai took place on November 27, 2026 at Coca-Cola Arena in City Walk. It was billed as the Pakistani singer's return after five consecutive years of sold-out Dubai concerts. Tickets for the arena's shows are sold through its official website and box office.
 faq:
-  - q: When and where is Atif Aslam Live in Dubai?
-    a: On Friday, November 27, 2026, at Coca-Cola Arena in City Walk, Al Wasl, Dubai.
+  - q: When and where was Atif Aslam Live in Dubai?
+    a: It was held on Friday, November 27, 2026, at Coca-Cola Arena in City Walk, Al Wasl, Dubai.
   - q: Where are tickets sold?
     a: Coca-Cola Arena sells tickets for its events through its official website and box office. Current categories and prices are listed there.
   - q: How do people get to Coca-Cola Arena?
     a: Most come by taxi, Careem or Uber. Another option is the Metro Red Line to Burj Khalifa/Dubai Mall station and then a short taxi ride. City Walk has multi-storey parking for drivers.
-  - q: Is this show likely to sell out?
-    a: Atif Aslam's Dubai concerts sold out five years running before this 2026 return, so demand is consistently high.
+  - q: Do his Dubai shows sell out?
+    a: His Dubai concerts sold out five years running before the 2026 date, so demand for his shows in the city has been consistently high.
   - q: What is there to do nearby before the show?
     a: City Walk's outdoor promenade, right next to the arena, has a long run of restaurants and cafés. Downtown Dubai and the Dubai Mall are a short drive away.
 aiGenerated: true
@@ -44,11 +44,11 @@ draft: false
 ---
 ## The night and the voice
 
-Atif Aslam plays Coca-Cola Arena on Friday, November 27, 2026. He has performed in Dubai many times before, and his shows here have a reputation for drawing big crowds.
+Atif Aslam played Coca-Cola Arena on Friday, November 27, 2026. He has performed in Dubai many times before, and his shows here have a reputation for drawing big crowds.
 
-Few South Asian singers have that kind of pull in the city. He started with the Jal-era hit "Aadat", then moved on to Bollywood soundtracks: "Tere Bin", "Pehli Nazar Mein", "Jeena Jeena", "Dil Diyan Gallan", "Tera Hone Laga Hoon". His Coke Studio "Tajdar-e-Haram" reached a huge audience of its own. No setlist has been given, but that's the songbook the crowd knows by heart.
+Few South Asian singers have that kind of pull in the city. He started with the Jal-era hit "Aadat", then moved on to Bollywood soundtracks: "Tere Bin", "Pehli Nazar Mein", "Jeena Jeena", "Dil Diyan Gallan", "Tera Hone Laga Hoon". His Coke Studio "Tajdar-e-Haram" reached a huge audience of its own. No setlist was announced in advance, but that's the songbook the crowd knows by heart.
 
-The date sits just before the UAE National Day holiday on 2 December. Many visitors fold the concert into a long weekend in the city.
+The date sat just before the UAE National Day holiday on 2 December. Many visitors folded the concert into a long weekend in the city.
 
 ## Inside Coca-Cola Arena
 
