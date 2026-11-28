@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "ENDED-EVENT-PRESENT-TENSE dubai-atif-aslam-live.md": {
+      "since": "2026-11-28",
+      "last": "2026-11-28",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
