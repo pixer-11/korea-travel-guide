@@ -64,6 +64,9 @@ const DRY = process.env.DRY === '1';
 // Soundgarden") are still illustrated by their acts, never by a skyline.
 const CITYWIDE_EVENT = /\b(festival|carnival|parade|fiesta|matsuri|surprises|shopping season|independence day|national day|new year)\b/i;
 const LIMIT = Number(process.env.LIMIT ?? 300);
+// How many Commons files one venue post may be offered per night. Each extra
+// one costs a vision call only when the ones before it failed.
+const WIKI_RESCUE_TURNS = 3;
 const ONLY = (process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean);
 
 // Without venue-photo keys this used to exit outright — but event drafts are
@@ -547,16 +550,34 @@ for (const f of files) {
       // place: without the coordinates the resolver cannot hold a photo to the
       // spot, and this rescue ran without them — it is where the Po Lam Tim Ho
       // Wan and the Taipa Kun Iam temple came in (owner photo review 11-13).
-      const wiki = await resolveHero({
-        namedVenue: venueName, region: data.region,
-        topic: (data.tags && data.tags[1]) || data.category,
-        country: data.country, used, strict: true, place: data.place,
-      });
-      // resolveHero marks its pick in `used` before returning, and the candidate
-      // loop below skips anything already in `used` — so this rescue was skipped
-      // 100% of the time and famous landmarks were quarantined instead of fixed.
-      // Un-mark our own reservation; resolveHero already proved no OTHER post has it.
-      if (wiki?.url) { unmarkUsedImage(used, wiki.url); cands.push(wiki); }
+      //
+      // resolveHero answers with its FIRST pick only, so a pick this post had
+      // already been refused closed the free source for good: Sokcho's hilltop
+      // lighthouse was handed the hand-rejected breakwater light night after
+      // night while three right files ("Sockcho Lighthouse 1–3", 5–38 m off)
+      // sat further down the same list (2026-11-28). The remembered refusals
+      // ride in the resolver's "taken" list, and it is asked again after each
+      // find. `taken` is a copy: resolveHero marks its pick there, and the
+      // candidate loop below skips anything in the real `used` — which is why
+      // this rescue was once skipped 100% of the time (it marked `used`).
+      const taken = new Set(used);
+      for (const key of Object.keys(auditStore || {})) {
+        if (!key.startsWith(`${slug}\x01`)) continue;
+        const u = key.slice(slug.length + 1);
+        if (judgedWrong(slug, u, data.category)) markUsedImage(taken, u);
+      }
+      for (let turn = 0; turn < WIKI_RESCUE_TURNS; turn++) {
+        const wiki = await resolveHero({
+          namedVenue: venueName, region: data.region,
+          topic: (data.tags && data.tags[1]) || data.category,
+          country: data.country, used: taken, strict: true, place: data.place,
+        });
+        if (!wiki?.url) break;
+        // A refusal stored under another host or width of the same file.
+        if (!judgedWrong(slug, wiki.url, data.category)) cands.push(wiki);
+        // Only Commons walks down a list; any other answer is the fallback.
+        if (wiki.license !== 'wikimedia') break;
+      }
     } catch {}
   }
   let done = false;

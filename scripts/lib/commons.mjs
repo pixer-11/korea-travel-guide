@@ -228,11 +228,41 @@ export function namesPhrase(title, subject) {
   return false;
 }
 
-const namesSubjectNotVantage = (title, subject) => {
+// One letter added, dropped or changed — and never the first letter. Uploaders
+// misspell: Sokcho's hilltop lighthouse is on Commons only as "Sockcho
+// Lighthouse 1–3", geotagged 5–38 m from it, and the guide sat photoless for
+// eight nights while the patrol offered the hand-rejected breakwater light
+// four times (2026-11-28). Long words only: "Seoul"/"Seol" stays a different
+// word, and so does any short name a letter off another.
+export function oneEditApart(a, b) {
+  if (a === b || a.length < 5 || b.length < 5 || a[0] !== b[0] || Math.abs(a.length - b.length) > 1) return false;
+  let i = 0, j = 0, edits = 0;
+  while (i < a.length && j < b.length) {
+    if (a[i] === b[j]) { i++; j++; continue; }
+    if (++edits > 1) return false;
+    if (a.length > b.length) i++;
+    else if (b.length > a.length) j++;
+    else { i++; j++; }
+  }
+  return edits + (a.length - i) + (b.length - j) <= 1;
+}
+// A kind or trade word is never forgiven a letter: "Hostel" is not a misspelt
+// "Hotel", and the hostel next door is another business (Codex, 11-28).
+const isKindWord = (w) => {
+  const s = stem(w);
+  return PLACE_KIND.has(s) || POINT_KIND.has(s) || AREA_WORDS.has(s) || BUSINESS_KIND.has(s) || OTHER_VENUE_AFTER.has(s);
+};
+/** A misspelling of a NAME word (never of a kind word). */
+export const typoTwin = (a, b) => oneEditApart(a, b) && !isKindWord(a) && !isKindWord(b);
+
+// typo: a misspelt name word counts. Only for a file whose own coordinates put
+// it beside the place (see TYPO_NEAR_KM) — the spelling alone proves nothing.
+export const namesSubjectNotVantage = (title, subject, { typo = false, everyWord = false } = {}) => {
   const words = fold(subject).match(/[\p{L}\p{N}]{2,}/gu) || [];
   if (!words.length) return true;
   const hay = fold(title);
   const haystack = (hay.match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
+  const has = (w) => haystack.includes(w) || (typo && haystack.some((h) => typoTwin(h, w)));
 
   // Short names must match whole: "Cloud Gate" with one word missing is a
   // different place. Long EVENT-style names ("MotoGP Gran Premio de Aragón")
@@ -241,7 +271,7 @@ const namesSubjectNotVantage = (title, subject) => {
   // two-slide set for a race with hundreds of free photos. 60% of the
   // distinctive words is enough to be talking about the same thing.
   const sig = [...new Set(words.filter((w) => !NAME_STOP.has(w)).map(stem))];
-  const matched = sig.filter((w) => haystack.includes(w)).length;
+  const matched = sig.filter(has).length;
   const needed = sig.length <= 2 ? sig.length : Math.ceil(sig.length * 0.6);
   if (matched < needed) return false;
 
@@ -251,11 +281,45 @@ const namesSubjectNotVantage = (title, subject) => {
   // titled photo of a viewpoint's view was filtered before vision ever saw it.
   if (/\b(viewpoint|view\s?point|overlook|observation|lookout|skywalk)\b/i.test(subject)) return true;
 
-  // Where the subject is first mentioned; everything before it decides whether
-  // the photo is OF the place or merely taken FROM it.
-  const first = words[0];
-  const at = hay.search(new RegExp('\\b' + first.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i'));
-  return !SHOT_FROM_NOT_OF.test(title.slice(0, at < 0 ? 0 : at));
+  // Where each word of the subject is first mentioned; what stands before it
+  // decides whether the photo is OF the place or merely taken FROM it. Every
+  // word, not just the first: "Sokcho from the Lighthouse Observatory" opens
+  // with the city, and five such views of the town headed Sokcho
+  // Lighthouse's list while its own photos waited behind them (2026-11-28).
+  const firstAt = (w) => {
+    const at = hay.search(new RegExp('\\b' + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i'));
+    // Misspelt, the name is still where the vantage test must look: "View from
+    // Sockcho Lighthouse" is a view, not the lighthouse.
+    if (at >= 0 || !typo) return at;
+    return [...hay.matchAll(/[\p{L}\p{N}]{2,}/gu)].find((m) => typoTwin(stem(m[0]), stem(w)))?.index ?? -1;
+  };
+  // Only when choosing (everyWord): the hero audit keeps the first-word test,
+  // because live heroes that pass it and fail this — "View of Banff from
+  // Gondola" on the gondola guide, the Burj Khalifa view on "At The Top" —
+  // are views the guide is about, approved by vision, and the audit would
+  // strip them. A word the subject itself puts after "by"/"from" is part of
+  // the name: "Gardens by the Bay", "The View from The Shard".
+  const subj = fold(subject);
+  const ownPreposition = (w) => new RegExp(String.raw`\b(?:from|by|near|beside|outside|toward|towards|overlooking|at)\s+(?:the\s+)?` + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + String.raw`\b`).test(subj);
+  const checked = everyWord ? words.filter((w, i) => i === 0 || (!NAME_STOP.has(w) && !ownPreposition(w))) : [words[0]];
+  // The name may be written out whole after the "from": in "Sokcho from the
+  // Sokcho Lighthouse" the word before "Lighthouse" is "Sokcho", not "the"
+  // (Codex, 11-28). Step back over the subject's own words to where its
+  // mention starts, then look at what stands before that.
+  const own = new Set(sig);
+  const mentionStart = (at) => {
+    for (;;) {
+      const prev = hay.slice(0, at).match(/([\p{L}\p{N}]+)[^\p{L}\p{N}]*$/u);
+      if (!prev || !(own.has(stem(prev[1])) || (typo && [...own].some((o) => typoTwin(stem(prev[1]), o))))) return at;
+      at = prev.index;
+    }
+  };
+  return !checked.some((w) => {
+    const at = firstAt(w);
+    if (at <= 0) return false;
+    const from = everyWord ? mentionStart(at) : at;
+    return from > 0 && SHOT_FROM_NOT_OF.test(title.slice(0, from));
+  });
 };
 
 const UNUSABLE_SUBJECT =
@@ -312,6 +376,9 @@ const SAME_PLACE_KM = 30;
 // 1,498 sit within 2 km of the place, and of the 59 beyond 5 km a third were
 // another place of the same name.
 const POINT_PLACE_KM = 3;
+// How close a file's own coordinates must be before a one-letter misspelling
+// of the name is forgiven. Sokcho's "Sockcho Lighthouse" files sit 5–38 m off.
+export const TYPO_NEAR_KM = 0.3;
 const AREA_WORDS = new Set([
   'lake', 'lago', 'laguna', 'lagoon', 'bay', 'bahia', 'baie', 'river', 'rio', 'canal', 'canyon', 'valley', 'valle',
   'gorge', 'island', 'isla', 'ile', 'koh', 'ko', 'pulau', 'nusa', 'mountain', 'mount', 'mt', 'monte', 'cerro', 'uul',
@@ -359,7 +426,12 @@ export function ownNameWords(subject, region = '') {
 }
 
 export async function commonsCandidates(query, limit = 10, subject = '', near = null, { region = '' } = {}) {
-  const phraseOnly = !!subject && placeKindOnly(subject, region);
+  // A name with no word of its own once its city and its trade are taken away
+  // — "Guangzhou Restaurant", "The Hanoi Cafe" — is held to the phrase like a
+  // city-and-kind name: every other restaurant in Guangzhou has both words.
+  // "Tenshin Restaurant in Guangzhou", 2 km off, passed the word test and
+  // vision for the 广州酒家 guide (2026-11-28).
+  const phraseOnly = !!subject && (placeKindOnly(subject, region) || ownNameWords(subject, region).length === 0);
   const hasCoords = !!(near?.lat && near?.lng);
   // A place we cannot locate, whose name is one word once its city is taken
   // away: no file name can prove which "Cherry", "Magnolia" or "The Dome" it
@@ -380,6 +452,18 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
   const geoQuery = near?.lat && near?.lng
     ? `${query} nearcoord:${ringKm}km,${near.lat},${near.lng}`
     : query;
+  // A bracketed note in the name may be ours rather than the uploader's:
+  // Commons search wants every word, and "Lanzhou Beef Noodles (Halal
+  // restaurant)" found nothing while "Lanzhou Beef Noodles (Khan Uul,
+  // Ulaanbaatar).jpg" sat 2 m from the place (2026-11-28). But the bracket may
+  // also be the branch — "Sakura Coffee (East)" — and dropping it lets the
+  // West shop's file through on two words of three (Codex, 11-28). So the
+  // bracket-free search runs only when the full one found nothing, and keeps
+  // only files whose own coordinates put them beside the place.
+  const bare = String(query).replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+  const bareQuery = bare && bare !== query && near?.lat && near?.lng
+    ? `${bare} nearcoord:${ringKm}km,${near.lat},${near.lng}`
+    : '';
 
   const ask = async (search) => {
     const url =
@@ -388,7 +472,12 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
       '&gsrsearch=' + encodeURIComponent(search) +
       // 2400 rather than 1600: these feed a 1080x1350 portrait social card, and
       // a 1600-wide landscape shot is blown up to fill 1350px of height.
-      '&prop=imageinfo|coordinates&coprop=type&colimit=1' +
+      // colimit counts coordinates for the WHOLE answer, not per file: at 1,
+      // one file in the fourteen came back geotagged and the other thirteen
+      // read as "untagged — pass", so the ring below and every distance test
+      // after it judged one file a search (measured 2026-11-28, Sokcho:
+      // colimit=1 → 1 of 14 with coordinates, max → 14 of 14).
+      '&prop=imageinfo|coordinates&coprop=type&colimit=max' +
       '&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*';
     try {
       const r = await cfetch(url);
@@ -397,6 +486,10 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
     } catch { return null; }
   };
 
+  // Geotagged beside the place: close enough that a misspelt name is the
+  // uploader's slip, not another place.
+  const besidePlace = (c) => !!(near?.lat && near?.lng && c.lat != null) &&
+    haversine(near.lat, near.lng, c.lat, c.lng) <= Math.min(ringKm, TYPO_NEAR_KM);
   const keep = (pages) => Object.values(pages || {})
     .map(pageToCandidate)
     .filter(Boolean)
@@ -408,7 +501,8 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
       return haversine(near.lat, near.lng, c.lat, c.lng) <= ringKm;
     })
     .filter(usableFile)
-    .filter((c) => namesSubjectNotVantage(c.title, subject))
+    .filter((c) => namesSubjectNotVantage(c.title, subject, { everyWord: true }) ||
+      (besidePlace(c) && namesSubjectNotVantage(c.title, subject, { typo: true, everyWord: true })))
     .filter((c) => !phraseOnly || namesPhrase(c.title, subject))
     .sort((a, b) => a.index - b.index);
 
@@ -419,8 +513,20 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
   // test places filled all eight slots from the geo search alone; the fifth
   // (Cloud Gate) has no free photos of the sculpture at all, US copyright law
   // being what it is, and a short carousel is the right answer there.
-  return keep(await ask(geoQuery)).slice(0, limit);
+  const found = keep(await ask(geoQuery));
+  if (!bareQuery) return found.slice(0, limit);
+  // Not only when the full search came back empty: for Lanzhou Beef Noodles it
+  // returned the Sukhbaatar branch (hand-rejected), and the file at the door
+  // was never asked for. The door rule is what keeps the extra search safe.
+  const atTheDoor = (c) => c.lat != null && haversine(near.lat, near.lng, c.lat, c.lng) <= BRACKET_NEAR_KM;
+  const have = new Set(found.map((c) => c.url));
+  const extra = keep(await ask(bareQuery)).filter((c) => atTheDoor(c) && !have.has(c.url));
+  return [...found, ...extra].slice(0, limit);
 }
+// How close a file found without the bracket must have been taken: at the
+// door, closer than any second branch would stand. Lanzhou Beef Noodles' file
+// is 2 m off; Codex's East/West branches were 111 m apart.
+const BRACKET_NEAR_KM = 0.05;
 
 // The photos FILED under a performer on Commons. Category membership is the
 // identity: Haddaway's 50 stage shots are named "Sunshine Live - Die 90er Live
@@ -922,16 +1028,23 @@ export async function commonsRanked(query, { mustInclude = [], used, allowPortra
   // but "Magomed Ankalaev at UFC Fight Night" (ankalaev+ufc+fight+night) passes.
   const cross = crossCheck && minCross > 0 ? new Set(crossCheck.map((t) => fold(t))) : null;
 
+  // A file whose own coordinates put it beside the place: where it was taken is
+  // proof of what it shows, and search rank is not (see the sort below). Its
+  // misspelt name word still counts towards the cross-check — the same
+  // allowance commonsCandidates made to let it in.
+  const beside = (c) => (near?.lat && near?.lng && c.lat != null &&
+    haversine(near.lat, near.lng, c.lat, c.lng) <= TYPO_NEAR_KM ? 1 : 0);
   const eligible = cands
     .map((c, i) => {
       const ttok = new Set(tokens(c.title));
       const overlap = qtok.filter((t) => ttok.has(t)).length;
-      const crossN = cross ? [...ttok].filter((t) => cross.has(t)).length : Infinity;
+      const inCross = (t) => cross.has(t) || (beside(c) === 1 && [...cross].some((x) => typoTwin(t, x)));
+      const crossN = cross ? [...ttok].filter(inCross).length : Infinity;
       // A title token that is neither in the event name NOR a pure number is a
       // FOREIGN proper noun ("Michelangelo", "Hedgehog") = mismatch. Zero foreign
       // tokens means the title is just the act + a date ("Itzy 241023") → accept
       // even at crossN=1, so ITZY/BIGBANG-style real photos aren't false-rejected.
-      const foreignN = cross ? [...ttok].filter((t) => !cross.has(t) && !/^\d+$/.test(t)).length : 0;
+      const foreignN = cross ? [...ttok].filter((t) => !inCross(t) && !/^\d+$/.test(t)).length : 0;
       const titleLc = fold(c.title);
       // Space-insensitive on BOTH sides: a K-pop act stored as "LeeHi" must
       // match Commons files named "Lee Hi …" (and vice versa). Without this
@@ -939,7 +1052,9 @@ export async function commonsRanked(query, { mustInclude = [], used, allowPortra
       // name is spaced differently than our title (found 2026-08-09 — Lee Hi
       // had 5+ CC concert photos on Commons and the event stayed photoless).
       const passesMust = must.length === 0 ||
-        must.some((m) => titleLc.includes(m) || containsRespaced(titleLc, m));
+        must.some((m) => titleLc.includes(m) || containsRespaced(titleLc, m) ||
+          // The anchor misspelt, by a file taken beside the place ("Sockcho").
+          (beside(c) === 1 && [...ttok].some((t) => typoTwin(t, m))));
       // Scenery heroes want a wide banner. For events, the RIGHT image is the
       // performer/athlete — usually a PORTRAIT — so allowPortrait relaxes the
       // aspect gate (still rejecting extreme 1:>1.8 slivers) and lets a real
@@ -968,6 +1083,10 @@ export async function commonsRanked(query, { mustInclude = [], used, allowPortra
 
   // Prefer Commons-assessed great photos; otherwise keep Commons' own relevance
   // order (which ranks the iconic shot first), NOT raw title-token overlap.
-  eligible.sort((a, b) => (b.c.featured - a.c.featured) || (a.rank - b.rank));
+  // A file beside the place goes ahead of both. "Lighthouse in Sokcho" — the
+  // breakwater lights 1.2 km off, inside the 3 km ring and named exactly
+  // right — out-ranked "Sockcho Lighthouse 1", taken 11 m from the hilltop
+  // lighthouse, and vision passed the breakwater (2026-11-28).
+  eligible.sort((a, b) => (beside(b.c) - beside(a.c)) || (b.c.featured - a.c.featured) || (a.rank - b.rank));
   return eligible.map((s) => s.c);
 }

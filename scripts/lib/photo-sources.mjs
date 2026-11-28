@@ -116,9 +116,23 @@ export function distinctiveTokens(name, near) {
 // results the MOST shared distinctive tokens wins, not FSQ rank: "Nami Island"
 // took "Gamja Island" over the real "Nami Island (남이섬)" when first-match
 // ruled and the impostor sorted first (live repro 2026-08-07).
-export function pickVenueHit(name, near, results, { event = false } = {}) {
+export function pickVenueHit(name, near, results, opts = {}) {
+  return rankVenueHits(name, near, results, opts)[0]?.r ?? null;
+}
+
+// A name without its bracketed second spelling, flattened: "Nudake Teahouse
+// (누데이크 티하우스)" → "nudaketeahouse".
+const coreFlat = (s) => flatName(String(s).replace(/\([^)]*\)/g, ' '));
+
+// Every result that shares venue identity with `name`, best first: most shared
+// distinctive words, then the most of THEIR name found inside ours. The second
+// key settles a chain's branches: for "NUDAKE Tea House (Seongsu)" both NUDAKE
+// shops and "Nudake Teahouse" share the one word, and first-in-the-list took
+// the Apgujeong dessert shop (2026-11-28); "nudaketeahouse" sits inside our
+// name, "nudake" is only its start.
+export function rankVenueHits(name, near, results, { event = false } = {}) {
   const ourTokens = distinctiveTokens(name, near);
-  if (!ourTokens.length) return null;
+  if (!ourTokens.length) return [];
   const stop = placeStopwords(near);
   const oursFlat = flatName(name);
   // The word our name leads with — in each script it is written in. A name
@@ -126,7 +140,7 @@ export function pickVenueHit(name, near, results, { event = false } = {}) {
   // both; a result may carry either one alone (Codex, 11-13).
   const latin = (t) => /^[a-z0-9]+$/.test(t);
   const leads = [ourTokens[0], ourTokens.find((t) => latin(t) !== latin(ourTokens[0]))].filter(Boolean);
-  let best = null, bestScore = 0;
+  const ranked = [];
   for (const r of results || []) {
     const rf = flatName(r.name);
     if (!rf) continue;
@@ -184,9 +198,63 @@ export function pickVenueHit(name, near, results, { event = false } = {}) {
         .find((t) => /^[a-z0-9]{3,}$/.test(t) && !GENERIC.has(t) && !stop.has(t));
       if (theirLead && theirLead !== ourTokens[0]) score = 0;
     }
-    if (score > bestScore) { best = r; bestScore = score; }
+    if (score <= 0) continue;
+    // Both names say which branch in their brackets, and not the same one:
+    // "Nudake Teahouse (Apgujeong)" for our "NUDAKE Tea House (Seongsu)" is
+    // the other shop, however much of the name it shares (Codex, 11-28).
+    const ourBranch = bracketWords(name);
+    const theirBranch = bracketWords(r.name);
+    if (ourBranch.length && theirBranch.length && !theirBranch.some((t) => ourBranch.includes(t))) continue;
+    const core = coreFlat(r.name);
+    ranked.push({ r, score, contained: core.length >= 3 && oursFlat.includes(core) ? core.length : 0 });
   }
-  return best;
+  // Stable: equal on both keys keeps Foursquare's order, as before.
+  return ranked.sort((a, b) => (b.score - a.score) || (b.contained - a.contained));
+}
+
+// Is the top hit one of several equals — the same name at more than one
+// address? With nothing else to tell them apart, any pick is a coin toss
+// between branches, and the photo must be of THIS one (owner photo review
+// 2026-11-13: "a photo is held to the spot, not to the name").
+export function topHitIsTied(ranked) {
+  return ranked.length > 1 && ranked[1].score === ranked[0].score && ranked[1].contained === ranked[0].contained;
+}
+
+// A search for the lead word alone brings back every venue CALLED that word.
+// When our name has more of its own, a hit must carry more of it than the
+// lead: "Atelier Kau Lou & Opia" took a Shanghai shop called just "Atelier"
+// in the first trial of the lead-word search, while "Nudake Teahouse" carries
+// "teahouse" beyond "nudake" (2026-11-28). A one-word name ("Caravan") has
+// nothing more to carry, and the one-word rule in rankVenueHits covers it.
+export function moreThanTheLead(name, near, hit, lead) {
+  if (distinctiveTokens(name, near).length < 2) return true;
+  return hit.score >= 2 || hit.contained > lead.length;
+}
+
+// The same name, written the same way, at the spot we hold. "MUSEUM 1" (Busan,
+// Centum City) has no distinctive word — "museum" is generic and "1" too short
+// — so the name test refuses it, while Foursquare has "Museum 1" 6 m from our
+// coordinates (2026-11-28). An identical name at the identical place is the
+// venue whatever its words are; the distance is what proves it, so this needs
+// our coordinates and a result within EXACT_NAME_NEAR_M of them.
+export const EXACT_NAME_NEAR_M = 50;
+export function exactNameAtSpot(name, results) {
+  const ours = coreFlat(name);
+  if (ours.length < 3) return null;
+  // Brackets may only differ when they hold the name in another script:
+  // "The Coffee House (North Wing)" is not "(South Wing)" (Codex, 11-28).
+  const same = (r) => flatName(r.name) === flatName(name) ||
+    (coreFlat(r.name) === ours && !bracketWords(r.name).length && !bracketWords(name).length);
+  // Nearest first: a namesake 40 m off must not beat the venue at 3 m.
+  return (results || [])
+    .filter((r) => r.distance != null && r.distance <= EXACT_NAME_NEAR_M && same(r))
+    .sort((a, b) => a.distance - b.distance)[0] ?? null;
+}
+
+// The Latin words inside a name's brackets — a branch or wing ("Seongsu",
+// "South Wing"), as opposed to the same name in Hangul or kana.
+function bracketWords(s) {
+  return (String(s).match(/\([^)]*\)/g) || []).flatMap((b) => splitTokens(b).filter((t) => /^[a-z]{3,}$/.test(t)));
 }
 
 // The name Google stores is often a billboard — "Vandal Restaurant | Elevated
@@ -252,17 +320,36 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4, landmark
       if ((body.results || [])[0]) console.log(`  [fsq] first result keys: ${Object.keys(body.results[0]).join(',').slice(0, 150)}`);
     }
     const results = body.results || [];
+    const pool = (rs) => (landmark ? rs.filter((r) => !isDiningHit(r)) : rs);
     // Confidence: a result must share venue IDENTITY with ours (the vision
     // gate still has the final say — this just avoids junk lookups). The
     // matcher itself is pickVenueHit() above, extracted so tests can replay
     // real incidents against it without the network.
-    if (!distinctiveTokens(name, near).length) {
+    const sameSpot = lat != null ? exactNameAtSpot(name, pool(results)) : null;
+    if (!sameSpot && !distinctiveTokens(name, near).length) {
       // Nothing distinctive left (e.g. 'The Coffee House Bangkok'): any hit would
       // rest on generic or city words, which is exactly how wrong venues got in.
       console.log(`  [fsq] "${name}" has no distinctive token after stopwords — refusing a name match`);
       return [];
     }
-    const hit = pickVenueHit(name, near, landmark ? results.filter((r) => !isDiningHit(r)) : results, { event });
+    let hit = sameSpot || pickVenueHit(name, near, pool(results), { event });
+    // The query carries every word of our name, and Foursquare ranks by any of
+    // them: "Chipotle Gangnam" returned three Gangnam Myeonok noodle shops and
+    // no Chipotle, "NUDAKE Tea House" two OSULLOC tea houses — while a search
+    // for the name's own lead word lists the venue first (2026-11-28). Ask
+    // once more with that word. The identity test is the same full-name one,
+    // and a lead-word search is where a chain's branches come back together,
+    // so a tie between them is refused rather than picked.
+    const lead = distinctiveTokens(venueQuery(name, near), near)[0];
+    if (!hit && !event && lead && lead !== flatName(short)) {
+      const again = await search(lead);
+      if (again.ok) {
+        const ranked = rankVenueHits(name, near, pool((await again.json()).results || []), { event })
+          .filter((h) => moreThanTheLead(name, near, h, lead));
+        if (ranked.length && !topHitIsTied(ranked)) hit = ranked[0].r;
+        else if (ranked.length) console.log(`  [fsq] "${name}": ${ranked.length} branches answer to "${lead}" with nothing to tell them apart — refusing`);
+      }
+    }
     if (!hit) {
       if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
       return [];
