@@ -1,37 +1,37 @@
 ---
-title: "Cafe Gold Coast: Travel Guide (4.6★)"
-description: "Cafe Gold Coast is a timber-walled breakfast, sandwich and burger café at Shop 12/300 Marine Parade in Labrador, on the Broadwater side of the Gold Coast. 4.6★ (640 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Gold Coast"
-category: "trendy"
-pubDate: "2026-09-29T14:17:21.525Z"
+title: 'Cafe Gold Coast: Travel Guide (4.6★)'
+description: Cafe Gold Coast is a timber-walled breakfast, sandwich and burger café at Shop 12/300 Marine Parade in Labrador, on the Broadwater side of the Gold Coast. 4.6★ (640 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Gold Coast
+category: trendy
+pubDate: '2026-09-29T14:17:21.525Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_02.jpg/3840px-Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_02.jpg"
-    credit: "Photo: Chris Olszewski / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe,_Gold_Coast,_2025,_02.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_02.jpg/3840px-Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe%2C_Gold_Coast%2C_2025%2C_02.jpg
+    credit: 'Photo: Chris Olszewski / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Blue-faced_honeyeaters_enjoy_cakes_in_a_cafe,_Gold_Coast,_2025,_02.jpg
 place:
-  id: "ChIJzYO5rcgPkWsRmSmJ5Mv-T3k"
-  name: "Cafe Gold Coast"
-  address: "Shop 12/300 Marine Parade, Labrador QLD 4215, Australia"
+  id: ChIJzYO5rcgPkWsRmSmJ5Mv-T3k
+  name: Cafe Gold Coast
+  address: Shop 12/300 Marine Parade, Labrador QLD 4215, Australia
   rating: 4.6
   userRatingsTotal: 640
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=8741485553415432601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8741485553415432601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -27.9446472
   lng: 153.4099243
-  phone: "+61 447 773 769"
+  phone: +61 447 773 769
   openingHours:
-    - "Monday: 5:30 AM – 2:30 PM"
-    - "Tuesday: 5:30 AM – 2:30 PM"
-    - "Wednesday: 5:30 AM – 2:30 PM"
-    - "Thursday: 5:30 AM – 2:30 PM"
-    - "Friday: 5:30 AM – 2:30 PM"
-    - "Saturday: 6:00 AM – 2:30 PM"
-    - "Sunday: 6:00 AM – 2:30 PM"
+    - 'Monday: 5:30 AM – 2:30 PM'
+    - 'Tuesday: 5:30 AM – 2:30 PM'
+    - 'Wednesday: 5:30 AM – 2:30 PM'
+    - 'Thursday: 5:30 AM – 2:30 PM'
+    - 'Friday: 5:30 AM – 2:30 PM'
+    - 'Saturday: 6:00 AM – 2:30 PM'
+    - 'Sunday: 6:00 AM – 2:30 PM'
   busyness:
-    updated: 2026-09-29
+    updated: 2026-09-29T00:00:00.000Z
     weekdayQuiet:
       - 13
     weekendBusy:
@@ -39,25 +39,33 @@ place:
       - 9
       - 10
       - 11
-    venueId: "ven_6b33542d764d354a6d536d5273576b50676372354f597a4a496843"
+    venueId: ven_6b33542d764d354a6d536d5273576b50676372354f597a4a496843
 tags:
-  - "gold coast"
-  - "trendy cafe"
-quickAnswer: "Cafe Gold Coast is a timber-walled breakfast, sandwich and burger café at Shop 12/300 Marine Parade in Labrador, on the Broadwater side of the Gold Coast. It opens at 5:30am on weekdays and 6am on weekends, and closes at 2:30pm every day. Weekdays between 1pm and 2pm are the quietest time. Avoid weekends between 8am and 12pm, when it's at its busiest."
+  - gold coast
+  - trendy cafe
+quickAnswer: Cafe Gold Coast is a timber-walled breakfast, sandwich and burger café at Shop 12/300 Marine Parade in Labrador, on the Broadwater side of the Gold Coast. It opens at 5:30am on weekdays and 6am on weekends, and closes at 2:30pm every day. Weekdays between 1pm and 2pm are the quietest time. Avoid weekends between 8am and 12pm, when it's at its busiest.
 faq:
-  - q: "When is the quietest time to visit Cafe Gold Coast?"
-    a: "On weekdays, it's calmest between 1pm and 2pm. On weekends, avoid 8am to 12pm, which is the busiest stretch. Arriving at the 6am opening beats the rush."
-  - q: "What are the opening hours?"
-    a: "Monday to Friday it's open 5:30am to 2:30pm. On Saturday and Sunday it opens at 6am and still closes at 2:30pm. It's open every day of the week."
-  - q: "Where exactly is it and how do I get there?"
-    a: "It's at Shop 12/300 Marine Parade in Labrador, on the Broadwater just north of Southport. Driving with street parking on Marine Parade is the simplest way. The G:link light rail stops a few kilometres south in Southport, and Translink buses run along Marine Parade."
-  - q: "What kind of food does it serve?"
-    a: "Breakfasts, sandwiches and burgers, plus coffee. It's a mid-range, casual café with timber walls inside and tables outside."
-  - q: "What's nearby to pair with a visit?"
-    a: "The Broadwater foreshore path runs past Marine Parade. It makes an easy walk south to Broadwater Parklands in Southport, with views across the water to The Spit and South Stradbroke Island."
+  - q: When is the quietest time to visit Cafe Gold Coast?
+    a: On weekdays, it's calmest between 1pm and 2pm. On weekends, avoid 8am to 12pm, which is the busiest stretch. Arriving at the 6am opening beats the rush.
+  - q: What are the opening hours?
+    a: Monday to Friday it's open 5:30am to 2:30pm. On Saturday and Sunday it opens at 6am and still closes at 2:30pm. It's open every day of the week.
+  - q: Where exactly is it and how do I get there?
+    a: It's at Shop 12/300 Marine Parade in Labrador, on the Broadwater just north of Southport. Driving with street parking on Marine Parade is the simplest way. The G:link light rail stops a few kilometres south in Southport, and Translink buses run along Marine Parade.
+  - q: What kind of food does it serve?
+    a: Breakfasts, sandwiches and burgers, plus coffee. It's a mid-range, casual café with timber walls inside and tables outside.
+  - q: What's nearby to pair with a visit?
+    a: The Broadwater foreshore path runs past Marine Parade. It makes an easy walk south to Broadwater Parklands in Southport, with views across the water to The Spit and South Stradbroke Island.
 aiGenerated: true
 draft: false
 photoless: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/4313244_c65Xsh-2AIGkyCwqJtAGqFgFy0NN6xn5ofur9AkS2qk.jpg
+  credit: 'Photo: Foursquare user content (Cafe Gold Coast)'
+  license: foursquare
+  source: https://foursquare.com/v/4e127e07b61c637b97b75659
+  focus:
+    x: 45
+    'y': 65
 ---
 
 ## Breakfast Before the Broadwater Wakes Up

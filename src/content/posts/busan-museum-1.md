@@ -58,6 +58,14 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 photoless: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/150521638_gXi2FADuTLjJQm5J3prbFltNfJzXzt2Un3FJzKT3glk.jpg
+  credit: 'Photo: Foursquare user content (Museum 1)'
+  license: foursquare
+  source: https://foursquare.com/v/609118846cc276772677d0fd
+  focus:
+    x: 50
+    'y': 50
 ---
 ## Why MUSEUM 1 stands out in Haeundae
 

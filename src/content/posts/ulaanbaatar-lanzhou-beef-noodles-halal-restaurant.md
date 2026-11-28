@@ -1,53 +1,61 @@
 ---
-title: "Lanzhou Beef Noodles (Halal restaurant): Where to Eat in Ulaanbaatar"
-description: "Lanzhou Beef Noodles (Halal restaurant) is a moderately priced halal noodle spot at Peace Bridge in Ulaanbaatar's Khan-Uul District (HUD 1st khoroo), about a 20-minute walk south of Sükhbaatar Square along Chinggis Avenue."
-country: "Mongolia"
-region: "Ulaanbaatar"
-category: "restaurant"
-pubDate: "2026-10-14T13:02:11.439Z"
+title: 'Lanzhou Beef Noodles (Halal restaurant): Where to Eat in Ulaanbaatar'
+description: Lanzhou Beef Noodles (Halal restaurant) is a moderately priced halal noodle spot at Peace Bridge in Ulaanbaatar's Khan-Uul District (HUD 1st khoroo), about a 20-minute walk south of Sükhbaatar Square along Chinggis Avenue.
+country: Mongolia
+region: Ulaanbaatar
+category: restaurant
+pubDate: '2026-10-14T13:02:11.439Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lanzhou_Beef_Noodles_%28Seoul_Business_Center%29.jpg"
-    credit: "Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lanzhou_Beef_Noodles_(Seoul_Business_Center).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Lanzhou_Beef_Noodles_%28Seoul_Business_Center%29.jpg
+    credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lanzhou_Beef_Noodles_(Seoul_Business_Center).jpg
 place:
-  id: "ChIJL8Z6WQCTll0RSYpY8KfTkDQ"
-  name: "Lanzhou Beef Noodles (Halal restaurant)"
-  address: "WW46+4H9 Peace Bridge, HUD - 1 khoroo, Ulaanbaatar 17030, Mongolia"
+  id: ChIJL8Z6WQCTll0RSYpY8KfTkDQ
+  name: Lanzhou Beef Noodles (Halal restaurant)
+  address: WW46+4H9 Peace Bridge, HUD - 1 khoroo, Ulaanbaatar 17030, Mongolia
   rating: 4.3
   userRatingsTotal: 54
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=3787760004863920713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3787760004863920713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.9052222
   lng: 106.9114731
-  phone: "+976 8011 1417"
+  phone: +976 8011 1417
   openingHours:
-    - "Monday: 9:00 AM – 11:00 PM"
-    - "Tuesday: 9:00 AM – 11:00 PM"
-    - "Wednesday: 9:00 AM – 11:00 PM"
-    - "Thursday: 9:00 AM – 11:00 PM"
-    - "Friday: 9:00 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: 9:00 AM – 11:00 PM'
+    - 'Tuesday: 9:00 AM – 11:00 PM'
+    - 'Wednesday: 9:00 AM – 11:00 PM'
+    - 'Thursday: 9:00 AM – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "ulaanbaatar"
-  - "noodles"
-quickAnswer: "Lanzhou Beef Noodles (Halal restaurant) is a moderately priced halal noodle spot at Peace Bridge in Ulaanbaatar's Khan-Uul District (HUD 1st khoroo), about a 20-minute walk south of Sükhbaatar Square along Chinggis Avenue. At the moment it opens 9am–11pm Monday to Saturday and closes on Sunday. That makes it a good warm breakfast or late supper in a city where winter does not let up."
+  - ulaanbaatar
+  - noodles
+quickAnswer: Lanzhou Beef Noodles (Halal restaurant) is a moderately priced halal noodle spot at Peace Bridge in Ulaanbaatar's Khan-Uul District (HUD 1st khoroo), about a 20-minute walk south of Sükhbaatar Square along Chinggis Avenue. At the moment it opens 9am–11pm Monday to Saturday and closes on Sunday. That makes it a good warm breakfast or late supper in a city where winter does not let up.
 faq:
-  - q: "Where exactly is Lanzhou Beef Noodles (Halal restaurant) in Ulaanbaatar?"
-    a: "It is at Peace Bridge, on the Khan-Uul (HUD 1st khoroo) side, plus code WW46+4H9. From Sükhbaatar Square, walk south down Chinggis Avenue and cross the bridge over the railway, which takes roughly 20 minutes."
-  - q: "Is it open on Sundays?"
-    a: "No. At the moment it opens 9am–11pm Monday to Saturday and is closed on Sunday. Check before you go, as hours can change."
-  - q: "Can I eat breakfast there?"
-    a: "Yes. Doors currently open at 9am, so a bowl of beef noodle soup works as a warm breakfast. Noodles in the morning are completely normal in Lanzhou itself."
-  - q: "Do I need to speak Mongolian or Chinese to order?"
-    a: "It helps, but it isn't essential. Pointing at menu photos works, and the words 'goimon' (noodles) and 'lamian' (hand-pulled noodles) are useful. Tipping is not expected in Mongolia."
-  - q: "What else can I see nearby?"
-    a: "The Choijin Lama Temple Museum and Sükhbaatar Square are north towards the centre. The Bogd Khan Palace Museum and the Zaisan Memorial are to the south along the same main road."
+  - q: Where exactly is Lanzhou Beef Noodles (Halal restaurant) in Ulaanbaatar?
+    a: It is at Peace Bridge, on the Khan-Uul (HUD 1st khoroo) side, plus code WW46+4H9. From Sükhbaatar Square, walk south down Chinggis Avenue and cross the bridge over the railway, which takes roughly 20 minutes.
+  - q: Is it open on Sundays?
+    a: No. At the moment it opens 9am–11pm Monday to Saturday and is closed on Sunday. Check before you go, as hours can change.
+  - q: Can I eat breakfast there?
+    a: Yes. Doors currently open at 9am, so a bowl of beef noodle soup works as a warm breakfast. Noodles in the morning are completely normal in Lanzhou itself.
+  - q: Do I need to speak Mongolian or Chinese to order?
+    a: It helps, but it isn't essential. Pointing at menu photos works, and the words 'goimon' (noodles) and 'lamian' (hand-pulled noodles) are useful. Tipping is not expected in Mongolia.
+  - q: What else can I see nearby?
+    a: The Choijin Lama Temple Museum and Sükhbaatar Square are north towards the centre. The Bogd Khan Palace Museum and the Zaisan Memorial are to the south along the same main road.
 aiGenerated: true
 draft: false
 photoless: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lanzhou_Beef_Noodles_%28Khan_Uul%2C_Ulaanbaatar%29.jpg/3840px-Lanzhou_Beef_Noodles_%28Khan_Uul%2C_Ulaanbaatar%29.jpg
+  credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lanzhou_Beef_Noodles_(Khan_Uul,_Ulaanbaatar).jpg
+  focus:
+    x: 50
+    'y': 25
 ---
 
 ## A noodle bowl at the foot of Peace Bridge

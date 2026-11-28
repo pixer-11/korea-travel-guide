@@ -22,6 +22,14 @@ faq:
     a: Cards and mobile payments are standard across Seongsu. Tipping isn't customary in Korea.
 aiGenerated: true
 photoless: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/62848172_yyEgiUojq7JiRPq_XzfIkkDRNFx411HCOL0g2sWyQag.jpg
+  credit: 'Photo: Foursquare user content (Nudake Teahouse (누데이크 티하우스))'
+  license: foursquare
+  source: https://foursquare.com/v/6926d80899b502560cc05811
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## A tea room five floors above Seongsu

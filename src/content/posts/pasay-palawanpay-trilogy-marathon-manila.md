@@ -1,6 +1,6 @@
 ---
 title: 'PalawanPay Trilogy Marathon Manila: Dates, Tickets & Venue (Pasay)'
-description: PalawanPay Trilogy Marathon Manila takes place in Pasay, Metro Manila, on Friday, November 27, 2026, with registration (tickets, in race terms) handled through the event's own channels rather than a box office.
+description: PalawanPay Trilogy Marathon Manila was set for Friday, November 27, 2026, in Pasay, Metro Manila. Registration was handled by the organiser, not a box office.
 country: Philippines
 region: Pasay
 category: event
@@ -10,23 +10,23 @@ eventEndDate: '2026-11-27'
 eventRecurring: true
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pasay_City_Barangays_06.jpg/3840px-Pasay_City_Barangays_06.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pasay_City_Barangays_06.jpg/3840px-Pasay_City_Barangays_06.jpg
   credit: 'Photo: Video13 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Pasay_City_Barangays_06.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Pasay_City_Barangays_06.jpg
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - pasay
   - event
-quickAnswer: PalawanPay Trilogy Marathon Manila takes place in Pasay, Metro Manila, on Friday, November 27, 2026, with registration (tickets, in race terms) handled through the event's own channels rather than a box office. Pasay's flat bayside roads around Manila Bay and the reclaimed Bay City district are where the city's big road races usually run. Runners stay near the bay or use Grab for the pre-dawn trip in.
+quickAnswer: PalawanPay Trilogy Marathon Manila was set for Friday, November 27, 2026, in Pasay, Metro Manila. Registration (tickets, in race terms) was handled through the event's own channels rather than a box office. Pasay's flat bayside roads around Manila Bay and the reclaimed Bay City district are where the city's big road races usually run. Runners usually stay near the bay or use Grab for the pre-dawn trip in.
 faq:
   - q: When is the PalawanPay Trilogy Marathon Manila?
-    a: It takes place on Friday, November 27, 2026, in Pasay City, Metro Manila.
+    a: The race was set for Friday, November 27, 2026, in Pasay City, Metro Manila.
   - q: Where in Pasay is the race held?
-    a: The race is in Pasay City, on Manila Bay. The exact start area and route come from the organiser's own race materials. Pasay's big road races usually use the flat bayside roads around the Mall of Asia and Bay City district.
+    a: The race was planned for Pasay City, on Manila Bay. The organiser's race materials set out the exact start area and route. Pasay's big road races usually use the flat bayside roads around the Mall of Asia and Bay City district.
   - q: How do runners get to the start before dawn?
     a: Most take Grab or a taxi, because LRT-1 and MRT-3 don't fit pre-dawn start times well. Many out-of-town runners stay in hotels in the Mall of Asia and Entertainment City area so they can walk to the start.
   - q: What is the weather like in late November?
@@ -36,10 +36,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Friday on the bay
 
-The race takes place on Friday, November 27, 2026, in Pasay City. That puts it on a working weekday, which shapes everything from traffic to who turns up to cheer.
+The race was set for Friday, November 27, 2026, in Pasay City. That put it on a working weekday, when traffic and the cheering crowd look different from a weekend race.
 
 Pasay sits on the southern edge of Manila Bay. It is the city of Ninoy Aquino International Airport, the SM Mall of Asia complex and the long, flat seafront of Roxas Boulevard. Roads here are wide, reclaimed and almost level, so Metro Manila's distance races keep coming back to them.
 
@@ -55,7 +54,7 @@ That is why road races in Metro Manila traditionally start in the dark, often we
 - **Little shade.** Reclaimed land has young trees and wide, open asphalt.
 - **Flat terrain.** There are few climbs beyond the odd flyover ramp, which suits pacing.
 
-The exact route and start area come from the organiser's own race materials. This guide names no venue that those materials don't name.
+The organiser's race materials set out the exact route and start area.
 
 ## Getting to the start line
 
@@ -63,7 +62,7 @@ Pasay is the easiest corner of Metro Manila for visitors to reach. NAIA's termin
 
 Rail covers the district. LRT Line 1 runs down Taft Avenue with stops at Gil Puyat, Libertad and EDSA, and MRT-3 ends at Taft Avenue station beside EDSA. Trains don't fit a pre-dawn gun time well, though. Most runners take Grab or a taxi for the race-morning trip.
 
-Out-of-town runners usually book hotels in the Mall of Asia and Entertainment City area, so they can walk to a bayside start. Weekday rush hour on EDSA and Roxas Boulevard builds fast after sunrise, and that matters for anyone driving away after finishing.
+Out-of-town runners usually stay in hotels in the Mall of Asia and Entertainment City area, so they can walk to a bayside start. Weekday rush hour on EDSA and Roxas Boulevard builds fast after sunrise, and that matters for anyone driving away after finishing.
 
 ## Race morning the Manila way
 
@@ -72,6 +71,6 @@ Philippine road races have their own habits. These are the ones visitors tend to
 - **Kit claiming.** Bibs and shirts are usually picked up at a mall or sports store in the days before a race, not on race morning.
 - **Paying.** Grab, convenience stores and food stalls take GCash and Maya. Small cash is still handy for taho and buko (coconut) vendors near finish areas.
 - **Hydration.** Runners commonly carry their own electrolytes as well as using the water stations.
-- **Cheering.** Marshals and spectators shout "Laban!" (fight) and "Kaya mo 'yan!" (you can do it). A wave back is expected.
+- **Cheering.** Marshals and spectators shout "Laban!" (fight) and "Kaya mo 'yan!" (you can do it). Runners usually wave back.
 
 After the finish, runners often head for breakfast at the Mall of Asia restaurants or for silog plates (garlic rice, egg and a meat) at stalls along the bay. Anyone with time left over walks the seawall at the Mall of Asia baywalk, one of the best spots in Manila for the bay's sunsets.

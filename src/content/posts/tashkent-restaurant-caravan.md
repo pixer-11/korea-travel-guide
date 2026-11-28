@@ -5,7 +5,6 @@ country: Uzbekistan
 region: Tashkent
 category: restaurant
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - tashkent
   - new & trending
@@ -24,6 +23,14 @@ faq:
 aiGenerated: true
 draft: false
 photoless: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/6737661_QabOlh3F4V3fQ-9OJUgaFyk3298zAmHiMwbWCScGDxg.jpg
+  credit: 'Photo: Foursquare user content (Caravan)'
+  license: foursquare
+  source: https://foursquare.com/v/4dd4cdebb0fb7a332e71ae01
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Tashkent has no shortage of plov houses, but Restaurant Caravan built its name on doing two versions of the dish under one roof rather than picking a side. That alone makes it worth a special trip if you're trying to understand why Uzbeks argue about plov the way other countries argue about barbecue.

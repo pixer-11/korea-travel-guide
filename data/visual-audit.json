@@ -6750,6 +6750,18 @@
   "reason": "Coastal village street with sea view, Busan setting",
   "at": "2026-07-25T02:41:26.327Z"
  },
+ "busan-museum-1\u0001https://fastly.4sqi.net/img/general/original/150521638_gXi2FADuTLjJQm5J3prbFltNfJzXzt2Un3FJzKT3glk.jpg": {
+  "slug": "busan-museum-1",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Immersive digital art installation, plausibly Busan museum",
+  "at": "2026-11-28T01:35:26.686Z"
+ },
+ "busan-museum-1\u0001https://fastly.4sqi.net/img/general/original/73658223_bSkExgWB4R92PWfCQ1W3sC_srlgl_v8xHGECHueX6Q4.jpg": {
+  "slug": "busan-museum-1",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Abstract reflective floor fragment, not representative museum view",
+  "at": "2026-11-28T01:35:24.191Z"
+ },
  "busan-museum-1\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/1920px-%EB%B4%84_Busan_Museum_of_Movies.jpg": {
   "slug": "busan-museum-1",
   "verdict": "MISMATCH",
@@ -8133,6 +8145,30 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Entrance gate with sign showing Chiang Mai National Museum grounds",
   "at": "2026-08-16T19:54:47.277Z"
+ },
+ "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/1366504092_Ne4EU901y-m8zRtkhUBQlG9GXCTgCMMygRptefrj_uw.jpg": {
+  "slug": "chiang-mai-garden-to-table-chiangmai",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Authentic Thai curry dish, rustic wooden bowl, garden-fresh ",
+  "at": "2026-11-28T01:35:37.216Z"
+ },
+ "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/79687961_J3CwsLuEG_L5kJyRZ3uoMY7RulrlceVryHjDEEX3GeU.jpg": {
+  "slug": "chiang-mai-garden-to-table-chiangmai",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up drink shot, not representative venue view",
+  "at": "2026-11-28T01:35:31.434Z"
+ },
+ "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/79687961_OtHLlDMp5DE3w8HO0sx7SetQ712mHUMj1JYGsBF86AQ.jpg": {
+  "slug": "chiang-mai-garden-to-table-chiangmai",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated close-up dish shot, not venue setting",
+  "at": "2026-11-28T01:35:34.668Z"
+ },
+ "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/79687961_kZ_dBGB5fsUCvcLj2CK-5eUgynloLYyxdmaCGbHaGXg.jpg": {
+  "slug": "chiang-mai-garden-to-table-chiangmai",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Table-level food shot, not representative venue view",
+  "at": "2026-11-28T01:35:33.304Z"
  },
  "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg": {
   "slug": "chiang-mai-garden-to-table-chiangmai",
@@ -12163,6 +12199,18 @@
   "reason": "publish gate: Headland, beach, and coastline match Burleigh Head National Park.",
   "at": "2026-10-03T07:39:51.620Z"
  },
+ "gold-coast-cafe-gold-coast\u0001https://fastly.4sqi.net/img/general/original/382628771_KX1px3Z2kRO2RYTj_ELZ8wYHt2u8JIXuH2FL2sxJT94.jpg": {
+  "slug": "gold-coast-cafe-gold-coast",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: In-venue dish photo but table setting, not representative hero",
+  "at": "2026-11-28T01:35:39.856Z"
+ },
+ "gold-coast-cafe-gold-coast\u0001https://fastly.4sqi.net/img/general/original/4313244_c65Xsh-2AIGkyCwqJtAGqFgFy0NN6xn5ofur9AkS2qk.jpg": {
+  "slug": "gold-coast-cafe-gold-coast",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Trendy plated food, modern wooden table, Gold Coast style",
+  "at": "2026-11-28T01:35:42.367Z"
+ },
  "gold-coast-cafe-gold-coast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cafe_at_Griffith_University_Gold_Coast_Campus.jpg/3840px-Cafe_at_Griffith_University_Gold_Coast_Campus.jpg": {
   "slug": "gold-coast-cafe-gold-coast",
   "verdict": "MISMATCH",
@@ -13541,6 +13589,12 @@
   "reason": "Temple of Literature gate, tree-lined path, authentic Vietna",
   "reasonKo": "문묘 입구, 나무 숲길, 베트남 건축양식",
   "at": "2026-08-19T13:28:38.850Z"
+ },
+ "hanoi-the-hanoi-cafe\u0001https://fastly.4sqi.net/img/general/original/1396789953_Ad7e2asmbs6-4sUqffiCakEXbMImp8RhuWHv-I7H6oc.jpg": {
+  "slug": "hanoi-the-hanoi-cafe",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Hanoi courtyard café with traditional architecture, lanterns",
+  "at": "2026-11-28T01:35:47.129Z"
  },
  "hanoi-the-hanoi-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2024-11-03_A_cafe_in_Hanoi%27s_Old_Quarter.jpg/3840px-2024-11-03_A_cafe_in_Hanoi%27s_Old_Quarter.jpg": {
   "slug": "hanoi-the-hanoi-cafe",
@@ -33958,17 +34012,35 @@
   "reason": "publish gate: Authentic Korean market alley with shops, signage, food stalls",
   "at": "2026-09-21T03:20:30.889Z"
  },
+ "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/1395199971_aSdCFmJG9P2jNTMOQZzWSPMYMHurkbQEp78GU_dpRLw.jpg": {
+  "slug": "seoul-nudake-tea-house-seongsu",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Modern art installation, not a tea house interior",
+  "at": "2026-11-28T01:35:55.307Z"
+ },
  "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/15089414_-P6_F7Uiv7fvQBR3P94ey0PS6kDlbHBxH3jfwKlTT2k.jpg": {
   "slug": "seoul-nudake-tea-house-seongsu",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: Foursquare venue OSULLOC Tea House (owner photo review 2026-11-13)",
   "at": "2026-11-12T16:37:57.123Z"
  },
+ "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/22940586_znJfdZ1b08VtGs1b-6WGA5D3G-CSAgUOuzWfFLABaYE.jpg": {
+  "slug": "seoul-nudake-tea-house-seongsu",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Museum/gallery space, not a tea house venue",
+  "at": "2026-11-28T01:35:52.729Z"
+ },
  "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/5556746_gm4tdYCMujs7m51EayaAafn7O7XpACSDW_AXvv2jeEg.jpg": {
   "slug": "seoul-nudake-tea-house-seongsu",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Different venue: appears to be Osulloc tea shop interior",
   "at": "2026-10-01T23:37:43.986Z"
+ },
+ "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/62848172_yyEgiUojq7JiRPq_XzfIkkDRNFx411HCOL0g2sWyQag.jpg": {
+  "slug": "seoul-nudake-tea-house-seongsu",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale plated desserts, elegant table setting, trendy aesth",
+  "at": "2026-11-28T01:35:57.917Z"
  },
  "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/8204227_ob23vOwpDvqEWqFg6FoHYcnoLuam_d5ogwan4uPu6Dc.jpg": {
   "slug": "seoul-nudake-tea-house-seongsu",
@@ -36335,6 +36407,12 @@
   "reason": "hand-reviewed: gallery photo of the red breakwater light, not the hilltop lighthouse (owner photo review 2026-11-13)",
   "at": "2026-11-12T17:24:58.874Z"
  },
+ "sokcho-sokcho-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sockcho_Lighthouse_1.jpg/3840px-Sockcho_Lighthouse_1.jpg": {
+  "slug": "sokcho-sokcho-lighthouse",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Sokcho Lighthouse with distinctive cylindrical tower design",
+  "at": "2026-11-28T01:36:04.945Z"
+ },
  "spain-rolex-grand-final-challenge-tour-championship\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Window_reflections%2C_Rolex_headquarters%2C_Geneva-07.jpg/3840px-Window_reflections%2C_Rolex_headquarters%2C_Geneva-07.jpg": {
   "slug": "spain-rolex-grand-final-challenge-tour-championship",
   "verdict": "MISMATCH",
@@ -38664,6 +38742,12 @@
   "reason": "patrol reject: Tropical setting, not Tashkent Uzbekistan architecture/landscape",
   "at": "2026-09-10T21:55:54.637Z"
  },
+ "tashkent-restaurant-caravan\u0001https://fastly.4sqi.net/img/general/original/6737661_QabOlh3F4V3fQ-9OJUgaFyk3298zAmHiMwbWCScGDxg.jpg": {
+  "slug": "tashkent-restaurant-caravan",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Restaurant Caravan exterior, Tashkent setting visible",
+  "at": "2026-11-28T01:36:09.345Z"
+ },
  "tashkent-restaurant-caravan\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/Caravan_Restaurant_Abu_Ghosh_-_The_Inner_Space_of_the_restaurant_-_Photo_No._3.jpg": {
   "slug": "tashkent-restaurant-caravan",
   "verdict": "MISMATCH",
@@ -40818,6 +40902,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: the Sukhbaatar branch, 2.2 km away (owner photo review 2026-11-13)",
   "at": "2026-11-12T16:37:48.283Z"
+ },
+ "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lanzhou_Beef_Noodles_%28Khan_Uul%2C_Ulaanbaatar%29.jpg/3840px-Lanzhou_Beef_Noodles_%28Khan_Uul%2C_Ulaanbaatar%29.jpg": {
+  "slug": "ulaanbaatar-lanzhou-beef-noodles-halal-restaurant",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Storefront clearly shows Lanzhou Beef Noodles restaurant in ",
+  "at": "2026-11-28T01:36:16.299Z"
  },
  "ulaanbaatar-manzushir-monastery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Manzushir_Monastery.jpg/1920px-Manzushir_Monastery.jpg": {
   "slug": "ulaanbaatar-manzushir-monastery",
